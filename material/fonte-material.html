@@ -1,0 +1,970 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<title>Direito Administrativo — ISS Campina Grande/PB 2026 — Tópicos 1 a 3</title>
+<style>
+@page { size: A4; margin: 18mm 15mm 16mm 15mm; }
+@page { @bottom-center { content: counter(page); } }
+
+:root{
+  --tinta:#12181f;
+  --suave:#4a5560;
+  --linha:#d8dee5;
+  --azul:#123a63;
+  --azul-claro:#eef3f8;
+  --ouro:#8a6a1f;
+  --ouro-claro:#fdf7e7;
+  --verde:#1c5c3b;
+  --verde-claro:#eaf5ee;
+  --vermelho:#8e2020;
+  --vermelho-claro:#fbeded;
+}
+
+*{ box-sizing:border-box; }
+body{
+  font-family:"Charter","Georgia","Times New Roman",serif;
+  font-size:10.2pt; line-height:1.5; color:var(--tinta); margin:0;
+  text-align:justify; hyphens:auto;
+}
+h1,h2,h3,h4,h5{ font-family:"Helvetica Neue",Helvetica,Arial,sans-serif; text-align:left; hyphens:none; }
+
+/* ---------- CAPA ---------- */
+.capa{ height:250mm; display:flex; flex-direction:column; justify-content:center; page-break-after:always; text-align:left; }
+.capa .selo{ font-family:Helvetica,Arial,sans-serif; font-size:9pt; letter-spacing:.22em; text-transform:uppercase; color:var(--ouro); font-weight:700; }
+.capa h1{ font-size:31pt; line-height:1.1; margin:.35em 0 .1em; color:var(--azul); letter-spacing:-.02em; }
+.capa h2{ font-size:14pt; font-weight:400; color:var(--suave); margin:0 0 1.6em; line-height:1.35; }
+.capa .regua{ height:3px; background:var(--azul); width:62px; margin:0 0 1.5em; }
+.capa .topicos{ list-style:none; padding:0; margin:0 0 2em; }
+.capa .topicos li{ font-family:Helvetica,Arial,sans-serif; font-size:11.5pt; padding:.42em 0; border-bottom:1px solid var(--linha); }
+.capa .topicos li b{ color:var(--azul); }
+.capa .rodape{ font-family:Helvetica,Arial,sans-serif; font-size:8.6pt; color:var(--suave); line-height:1.6; border-top:2px solid var(--azul); padding-top:.9em; }
+
+/* ---------- ESTRUTURA ---------- */
+h2.parte{
+  font-size:9.5pt; letter-spacing:.2em; text-transform:uppercase; color:#fff;
+  background:var(--azul); padding:.55em .9em; margin:0 0 1.1em; border-radius:2px;
+  page-break-before:always; page-break-after:avoid;
+}
+h2.parte.primeira{ page-break-before:auto; }
+h3{ font-size:14pt; color:var(--azul); margin:1.5em 0 .5em; padding-bottom:.22em; border-bottom:2px solid var(--azul); page-break-after:avoid; }
+h4{ font-size:11pt; color:var(--tinta); margin:1.25em 0 .35em; page-break-after:avoid; }
+h5{ font-size:9.6pt; margin:1em 0 .3em; color:var(--ouro); text-transform:uppercase; letter-spacing:.06em; page-break-after:avoid; }
+p{ margin:0 0 .6em; }
+ul,ol{ margin:.2em 0 .7em; padding-left:1.25em; }
+li{ margin-bottom:.22em; }
+b,strong{ color:#000; }
+.pequeno{ font-size:9pt; color:var(--suave); }
+
+/* ---------- TABELAS ---------- */
+table{ width:100%; border-collapse:collapse; margin:.6em 0 1em; font-size:8.9pt; page-break-inside:auto; }
+tr{ page-break-inside:avoid; }
+thead{ display:table-header-group; }
+th{ background:var(--azul); color:#fff; font-family:Helvetica,Arial,sans-serif; font-size:8.2pt; text-transform:uppercase; letter-spacing:.05em; padding:.5em .55em; text-align:left; vertical-align:bottom; }
+td{ border-bottom:1px solid var(--linha); padding:.45em .55em; vertical-align:top; text-align:left; }
+tr:nth-child(even) td{ background:#f7f9fb; }
+td.rot{ font-weight:700; background:#eef2f6 !important; width:20%; }
+
+/* ---------- CAIXAS ---------- */
+.box{ border-left:3px solid var(--azul); background:var(--azul-claro); padding:.65em .85em; margin:.7em 0 1em; font-size:9.4pt; page-break-inside:avoid; }
+.box h5{ margin-top:0; color:var(--azul); }
+.alerta{ border-left-color:var(--vermelho); background:var(--vermelho-claro); }
+.alerta h5{ color:var(--vermelho); }
+.ok{ border-left-color:var(--verde); background:var(--verde-claro); }
+.ok h5{ color:var(--verde); }
+.ouro{ border-left-color:var(--ouro); background:var(--ouro-claro); }
+.ouro h5{ color:var(--ouro); }
+
+.mnem{ font-family:Helvetica,Arial,sans-serif; font-weight:700; color:var(--azul); letter-spacing:.04em; }
+
+/* ---------- QUESTÕES ---------- */
+.q{ border:1px solid var(--linha); border-radius:3px; padding:.7em .85em; margin:.8em 0; font-size:9.2pt; page-break-inside:avoid; }
+.q .cab{ font-family:Helvetica,Arial,sans-serif; font-size:7.8pt; text-transform:uppercase; letter-spacing:.08em; color:#fff; background:var(--suave); display:inline-block; padding:.2em .55em; border-radius:2px; margin-bottom:.5em; }
+.q .cab.ide{ background:#6b3f8a; }
+.q .cab.fcc{ background:#0e6b57; }
+.q .cab.ceb{ background:#a34413; }
+.q .enun{ margin-bottom:.4em; }
+.q .alts{ margin:.3em 0 .5em; padding-left:1.1em; }
+.q .gab{ border-top:1px dashed var(--linha); padding-top:.45em; margin-top:.45em; font-size:8.9pt; }
+.q .gab b{ color:var(--verde); }
+
+.grade2{ display:flex; gap:12px; }
+.grade2 > div{ flex:1; }
+
+.rodape-doc{ font-size:8pt; color:var(--suave); border-top:1px solid var(--linha); padding-top:.7em; margin-top:1.6em; }
+</style>
+</head>
+<body>
+
+<!-- ============================ CAPA ============================ -->
+<section class="capa">
+  <div class="selo">Auditor Fiscal da Receita Municipal · Campina Grande/PB</div>
+  <h1>Direito Administrativo</h1>
+  <div class="regua"></div>
+  <h2>Material esquematizado dos três primeiros tópicos do conteúdo programático<br>
+  Edital nº 01/2026 · Banca IDECAN · Prova objetiva em 30/08/2026</h2>
+
+  <ul class="topicos">
+    <li><b>Tópico 1</b> &nbsp;·&nbsp; Administração Pública direta e indireta</li>
+    <li><b>Tópico 2</b> &nbsp;·&nbsp; Princípios da Administração Pública</li>
+    <li><b>Tópico 3</b> &nbsp;·&nbsp; Atos administrativos</li>
+  </ul>
+
+  <div class="rodape">
+    <b>Base empírica.</b> O conteúdo foi calibrado a partir da análise de <b>109 questões</b> de Direito Administrativo
+    extraídas de <b>34 cadernos oficiais</b> de provas de nível superior das três bancas de referência —
+    <b>IDECAN (47 questões / 13 provas)</b>, <b>FCC (31 / 11)</b> e <b>CEBRASPE (31 / 10)</b> —, com gabaritos oficiais.<br>
+    <b>Fonte do conteúdo programático.</b> Anexo do Edital nº 01/2026, de 09/05/2026, item 2.3 (SEFIN),
+    cargo Auditor Fiscal da Receita Municipal.
+  </div>
+</section>
+
+<!-- ============================ COMO USAR ============================ -->
+<h2 class="parte primeira">Parte 0 · Diagnóstico da prova e método de estudo</h2>
+
+<h3>0.1 O que o edital pede — e o que ele <i>não</i> pede</h3>
+
+<p>O edital de Campina Grande traz Direito Administrativo sob a rubrica <b>“Noções de Direito Administrativo”</b>,
+com a seguinte sequência literal:</p>
+
+<div class="box ouro">
+<h5>Transcrição do edital (item 2.3 — Auditor Fiscal da Receita Municipal)</h5>
+<p style="margin-bottom:0"><i>“Noções de Direito Administrativo: <b>Administração Pública direta e indireta. Princípios da Administração
+Pública. Atos administrativos.</b> Poderes administrativos. Poder vinculado, discricionário, hierárquico, disciplinar,
+regulamentar e de polícia. Serviços públicos. Controle da Administração Pública. Responsabilidade civil do Estado.
+Processo administrativo. Lei Federal nº 14.133/2021, noções gerais de licitações e contratos administrativos.”</i></p>
+</div>
+
+<p>Os <b>três primeiros tópicos</b> — objeto deste material — são exatamente aqueles que, no corpus analisado,
+concentram a maior densidade de questões: <b>50,5% das questões on-topic</b> das três bancas versaram sobre
+organização administrativa, princípios ou atos administrativos. São também os tópicos <i>transversais</i>: eles
+reaparecem embutidos em questões de poderes, controle, licitações e processo administrativo. Dominá-los rende
+duas vezes.</p>
+
+<p>A palavra <b>“Noções”</b> não deve ser lida como convite ao superficial. No corpus, a IDECAN cobrou em 2026
+(PROCON/RJ) teses do STF sobre precatório de empresa pública e poder de polícia de guarda municipal — matéria de
+prova de Procuradoria. <b>“Noções” define a extensão, não a profundidade.</b></p>
+
+<h3>0.2 Mapa de incidência: o que cada banca realmente cobra</h3>
+
+<table>
+<tr><th style="width:19%">Eixo</th><th>IDECAN</th><th>FCC</th><th>CEBRASPE</th></tr>
+<tr>
+  <td class="rot">Formato</td>
+  <td>Enunciado-contexto (doutrina ou caso concreto) + “assinale a alternativa correta”. Provas Tipo A/B com ordem embaralhada. 4 ou 5 alternativas.</td>
+  <td>Enunciado curto, alternativas longas e paralelas; frequente “Está correto o que consta APENAS em”. 5 alternativas.</td>
+  <td>Itens C/E em concursos gerais; <b>múltipla escolha (A–E) nos fiscos recentes</b> (SEFAZ/SE 2025, SEFAZ/RJ 2025), inclusive no formato I-II-III.</td>
+</tr>
+<tr>
+  <td class="rot">Fonte preferida</td>
+  <td>Literalidade da <b>Lei 9.784/1999</b> + conceito doutrinário clássico + teses recentes dos tribunais superiores.</td>
+  <td>Doutrina clássica (Di Pietro/Hely) + texto de lei. Gosta de contrapor conceitos gêmeos.</td>
+  <td>Jurisprudência do STF/STJ e distinções finas de doutrina; adora afirmação quase certa com <b>um</b> excesso.</td>
+</tr>
+<tr>
+  <td class="rot">Assunto nº 1</td>
+  <td>Identificação de princípio a partir do conceito; delegação/avocação; convalidação; entidades da Adm. indireta.</td>
+  <td>Descentralização × desconcentração; composição da Adm. indireta; princípio a partir do conceito.</td>
+  <td>Autotutela e seus limites; ato vinculado × discricionário e controle judicial; criação/extinção de autarquias.</td>
+</tr>
+<tr>
+  <td class="rot">Armadilha típica</td>
+  <td>Trocar um único elemento na definição (ex.: “órgão público <i>não</i> tem personalidade → logo é descentralização”).</td>
+  <td>Inserir “ambas pressupõem pessoas jurídicas diversas” na definição de desconcentração.</td>
+  <td>Acrescentar um advérbio absoluto: “<i>independentemente</i> de previsão legal”, “<i>não</i> havendo necessidade de motivação”.</td>
+</tr>
+</table>
+
+<div class="box">
+<h5>Leitura estratégica do corpus</h5>
+<p style="margin-bottom:0">Nas 47 questões IDECAN analisadas, <b>a maioria absoluta se resolve por três movimentos</b>:
+(1) reconhecer o conceito doutrinário embutido no enunciado; (2) checar a literalidade da Lei 9.784/1999;
+(3) lembrar de uma tese de tribunal superior. Este material foi montado nessa ordem: <b>conceito → letra da lei → jurisprudência</b>.</p>
+</div>
+
+<h3>0.3 Como usar este material</h3>
+<ul>
+<li><b>Quadros comparativos</b> são o núcleo: a esmagadora maioria das questões difíceis nasce da confusão entre dois institutos vizinhos. Memorize a <i>coluna que diferencia</i>, não a linha inteira.</li>
+<li><b>Caixas vermelhas (“Pegadinha”)</b> reproduzem a formulação exata que já foi usada para induzir ao erro. Leia-as como se fossem flashcards.</li>
+<li><b>Caixas verdes (“Fixe assim”)</b> trazem a formulação correta, pronta para ser reconhecida na alternativa.</li>
+<li>Ao final de cada tópico há <b>questões reais comentadas</b>, com identificação de banca, órgão e ano.</li>
+</ul>
+
+<!-- ============================ TÓPICO 1 ============================ -->
+<h2 class="parte">Tópico 1 · Administração Pública direta e indireta</h2>
+
+<h3>1.1 O ponto de partida: Estado, Governo e Administração</h3>
+
+<table>
+<tr><th style="width:16%">Conceito</th><th>Significado</th><th>Como aparece na prova</th></tr>
+<tr><td class="rot">Estado</td><td>Pessoa jurídica de direito público interno, dotada de soberania (no plano interno, autonomia dos entes). Elementos: povo, território e governo soberano.</td><td>Base para diferenciar <b>autonomia</b> (entes federativos) de <b>capacidade de autoadministração</b> (entidades da Adm. indireta).</td></tr>
+<tr><td class="rot">Governo</td><td>Conjunto de órgãos e funções de <b>direção política</b>; atividade de comando, com discricionariedade máxima.</td><td>Atos de governo (políticos) têm controle judicial restrito — não confundir com ato administrativo.</td></tr>
+<tr><td class="rot">Administração<br>Pública</td><td><b>Sentido subjetivo/formal/orgânico</b> (com maiúscula): o conjunto de órgãos e pessoas jurídicas que executam a função administrativa.<br><b>Sentido objetivo/material/funcional</b>: a própria atividade administrativa (fomento, polícia, serviço público, intervenção).</td><td>Alternativa costuma trocar os sentidos. <span class="mnem">Subjetivo = QUEM. Objetivo = O QUE.</span></td></tr>
+</table>
+
+<div class="box alerta">
+<h5>Pegadinha clássica</h5>
+<p style="margin-bottom:0">“A Administração Pública em sentido <i>objetivo</i> compreende os órgãos e entidades que exercem a função administrativa.”
+<b>ERRADO</b> — isso é o sentido <i>subjetivo</i>. O objetivo compreende a <i>atividade</i>.</p>
+</div>
+
+<h3>1.2 As quatro técnicas de organização — o coração do tópico</h3>
+
+<p>Este é, com folga, o ponto mais cobrado do Tópico 1 nas três bancas. Ele foi objeto de questão direta na FCC
+(TJ/SC 2021), no CEBRASPE (SEPLAG/CE 2024, TJ/PA 2025, Câmara dos Deputados 2026) e na IDECAN
+(PROCON/RJ 2026, MPE/AM-FCC 2024 em espelho).</p>
+
+<table>
+<tr><th style="width:22%">Técnica</th><th>Ocorre</th><th>Cria nova pessoa jurídica?</th><th>Vínculo</th></tr>
+<tr><td class="rot">Centralização</td><td>O Estado atua por meio dos órgãos internos da Administração <b>Direta</b>.</td><td>Não</td><td>Hierarquia plena</td></tr>
+<tr><td class="rot">Descentralização</td><td>Transferência de atividade para <b>outra pessoa</b> (física ou jurídica).</td><td><b>Sim</b> (ou transfere a particular)</td><td><b>Não há hierarquia.</b> Há controle finalístico / tutela / supervisão ministerial (vinculação)</td></tr>
+<tr><td class="rot">Concentração</td><td>Reunião de competências em poucos órgãos.</td><td>Não</td><td>Hierarquia</td></tr>
+<tr><td class="rot">Desconcentração</td><td>Distribuição interna de competências entre órgãos da <b>mesma</b> pessoa jurídica.</td><td><b>Não</b></td><td><b>Hierarquia / subordinação</b></td></tr>
+</table>
+
+<div class="box ok">
+<h5>Fixe assim — a frase que resolve a questão</h5>
+<p style="margin-bottom:0"><b>Desconcentração = 1 pessoa jurídica + hierarquia. Descentralização = 2 ou mais pessoas + ausência de hierarquia (só controle finalístico).</b><br>
+Ambas buscam especialização e eficiência — esse é o <i>ponto comum</i> que as bancas usam como isca.</p>
+</div>
+
+<div class="box alerta">
+<h5>Pegadinhas literais já aplicadas</h5>
+<ul style="margin-bottom:0">
+<li><b>FCC (TJ/SC 2021):</b> “São conceitos distintos, embora possuam um ponto comum, qual seja, <i>ambas pressupõem pessoas jurídicas diversas</i>.” → <b>ERRADO</b>. O ponto comum é a busca por especialização; a desconcentração ocorre <i>dentro</i> de uma só pessoa.</li>
+<li><b>FCC (TJ/SC 2021):</b> “Os entes descentralizados <i>não</i> estão sujeitos a controle ou tutela, vez que possuem independência e autonomia.” → <b>ERRADO</b>. Não há hierarquia, mas há <b>controle finalístico</b>.</li>
+<li><b>IDECAN (PROCON/RJ 2026):</b> “A distribuição de competências a órgãos públicos caracteriza descentralização, tendo em vista que órgão público não é detentor de personalidade jurídica distinta.” → <b>ERRADO</b> (é desconcentração). Esta questão foi <b>anulada</b> justamente porque nenhuma alternativa acertava a distinção.</li>
+<li><b>CEBRASPE (SEPLAG/CE 2024):</b> item que dizia que a descentralização “pressupõe duas ou mais pessoas, sejam elas <i>físicas ou jurídicas</i>” foi <b>anulado</b> — sinal de que a banca reconhece a controvérsia sobre a delegação a particulares.</li>
+</ul>
+</div>
+
+<h4>1.2.1 Modalidades de descentralização</h4>
+
+<table>
+<tr><th style="width:26%">Modalidade</th><th>Instrumento</th><th>O que se transfere</th><th>Destinatário</th></tr>
+<tr><td class="rot">Por serviços<br>(técnica / funcional / <b>outorga</b>)</td><td><b>Lei</b></td><td>Titularidade <b>+</b> execução (posição majoritária — Di Pietro)</td><td>Entidades da Administração <b>indireta</b></td></tr>
+<tr><td class="rot">Por colaboração<br>(<b>delegação</b>)</td><td>Contrato (concessão/permissão) ou ato (autorização)</td><td>Apenas a <b>execução</b></td><td><b>Particulares</b></td></tr>
+<tr><td class="rot">Política</td><td>Constituição</td><td>Competências próprias, com autonomia política</td><td>Entes federativos (E, DF, M)</td></tr>
+</table>
+
+<div class="box">
+<h5>Divergência que a banca conhece</h5>
+<p style="margin-bottom:0">Carvalho Filho sustenta que a titularidade <b>nunca</b> se transfere. As bancas, quando cobram em termos absolutos,
+adotam Di Pietro (outorga transfere titularidade). Se a alternativa disser apenas que a <b>delegação por colaboração transfere só a execução</b>,
+ela está correta em qualquer corrente — é a formulação segura.</p>
+</div>
+
+<h3>1.3 Administração Direta e os órgãos públicos</h3>
+
+<p><b>Administração Direta</b> = conjunto de órgãos integrantes das pessoas políticas (União, Estados, DF, Municípios)
+e de seus Poderes. O art. 4º do <b>Decreto-Lei 200/1967</b> é o marco normativo: a Administração Federal compreende
+a Direta e a Indireta — e a reforma de 1967 é sempre lembrada como a que promoveu a <b>descentralização funcional</b>
+para autarquias, fundações, empresas públicas e sociedades de economia mista (item cobrado como <b>CERTO</b> pelo
+CEBRASPE — TJ/PA 2025).</p>
+
+<h4>1.3.1 Órgão público: o que é e o que não é</h4>
+<ul>
+<li><b>Não tem personalidade jurídica</b> — é centro de competências despersonalizado.</li>
+<li><b>Não tem vontade própria</b>: quem manifesta vontade é o agente; o efeito é imputado à pessoa jurídica (<b>teoria do órgão</b> ou <b>teoria da imputação</b>, de Otto Gierke). Esta é a base do princípio da impessoalidade em sua segunda acepção.</li>
+<li><b>Tem CNPJ e pode ter capacidade processual excepcional</b>: órgãos <i>independentes e autônomos</i> podem ir a juízo (em regra por mandado de segurança) para defender <b>prerrogativas funcionais próprias</b> — não para discutir direitos patrimoniais.</li>
+<li><b>Criação e extinção dependem de lei</b> (CF, art. 48, XI). Por <b>decreto autônomo</b> (art. 84, VI, “a”) o Chefe do Executivo só pode dispor sobre <b>organização e funcionamento</b>, desde que <i>não</i> haja aumento de despesa nem criação/extinção de órgãos.</li>
+</ul>
+
+<div class="box alerta">
+<h5>Pegadinha — CEBRASPE (SEFAZ/RJ 2025)</h5>
+<p style="margin-bottom:0">“O presidente da República pode <b>criar</b> órgão público, mediante decreto, desde que tal criação não implique aumento de despesa.”
+<b>ERRADO</b> — decreto autônomo <i>extingue</i> funções/cargos vagos e <i>organiza</i>, mas <b>não cria nem extingue órgãos</b>.</p>
+</div>
+
+<h4>1.3.2 Classificação dos órgãos (Hely Lopes Meirelles)</h4>
+<table>
+<tr><th style="width:24%">Critério</th><th>Espécies</th></tr>
+<tr><td class="rot">Posição estatal</td><td><b>Independentes</b> (sem subordinação — Presidência, Casas Legislativas, Tribunais, MP, TCU) · <b>Autônomos</b> (cúpula, subordinados aos independentes — Ministérios, Secretarias, AGU) · <b>Superiores</b> (direção e controle, sem autonomia — Gabinetes, Coordenadorias) · <b>Subalternos</b> (mera execução — seções, portarias)</td></tr>
+<tr><td class="rot">Estrutura</td><td><b>Simples/unitários</b> (sem subdivisão) · <b>Compostos</b> (reúnem outros órgãos)</td></tr>
+<tr><td class="rot">Atuação funcional</td><td><b>Singulares/unipessoais</b> (uma só vontade — Presidência) · <b>Colegiados</b> (vontade da maioria — Tribunais, Conselhos)</td></tr>
+</table>
+
+<h3>1.4 Administração Indireta — o quadro que decide a prova</h3>
+
+<p>A Administração Indireta é <b>numerus clausus</b>: <b>autarquias, fundações públicas, empresas públicas e
+sociedades de economia mista</b>. Nada mais. Esse fechamento é a matriz de dezenas de questões — inclusive da
+FCC (MPE/PB 2024), que ofereceu OSCIP e serviço social autônomo como distratores.</p>
+
+<table>
+<tr><th style="width:15%"></th><th>Autarquia</th><th>Fundação pública</th><th>Empresa pública</th><th>Sociedade de economia mista</th></tr>
+<tr><td class="rot">Criação</td><td><b>Criada por lei específica</b> (CF 37, XIX)</td><td>Direito público: criada por lei.<br>Direito privado: <b>autorizada</b> por lei + registro. LC define áreas de atuação</td><td><b>Autorizada</b> por lei + registro dos atos constitutivos</td><td><b>Autorizada</b> por lei + registro</td></tr>
+<tr><td class="rot">Personalidade</td><td>Direito <b>público</b></td><td>Pública <b>ou</b> privada (dupla possibilidade)</td><td>Direito <b>privado</b></td><td>Direito <b>privado</b></td></tr>
+<tr><td class="rot">Capital</td><td>—</td><td>—</td><td><b>100% público</b> (admite outras pessoas de direito público / entidades da Adm. indireta)</td><td>Capital misto; <b>maioria das ações com direito a voto</b> do poder público</td></tr>
+<tr><td class="rot">Forma societária</td><td>—</td><td>—</td><td><b>Qualquer</b> forma admitida em direito</td><td><b>Obrigatoriamente S.A.</b></td></tr>
+<tr><td class="rot">Foro (federais)</td><td>Justiça Federal</td><td>Justiça Federal (se pública)</td><td><b>Justiça Federal</b> (CF 109, I)</td><td><b>Justiça Estadual</b> (Súmulas 517 e 556/STF)</td></tr>
+<tr><td class="rot">Regime de pessoal</td><td>Estatutário (regra)</td><td>Estatutário ou celetista</td><td><b>Celetista</b> + concurso público</td><td><b>Celetista</b> + concurso público</td></tr>
+<tr><td class="rot">Bens</td><td><b>Públicos</b> (impenhoráveis, imprescritíveis, não onerados)</td><td>Públicos (se de direito público)</td><td>Privados — <b>salvo</b> os afetados a serviço público essencial</td><td>Privados — mesma ressalva</td></tr>
+<tr><td class="rot">Falência</td><td>Não se sujeita</td><td>Não se sujeita</td><td colspan="2"><b>Não se sujeitam</b> (Lei 11.101/2005, art. 2º, I)</td></tr>
+</table>
+
+<div class="box ok">
+<h5>Fixe assim — o par que a banca mais explora</h5>
+<p style="margin-bottom:0">
+<b>Autarquia é CRIADA por lei</b> (personalidade nasce com a vigência da lei — <i>não</i> precisa de registro).<br>
+<b>EP e SEM têm a criação AUTORIZADA por lei</b> (personalidade nasce com o <b>registro</b> dos atos constitutivos).<br>
+Regra da <b>paridade das formas</b>: a extinção segue o mesmo instrumento da criação — sempre <b>lei específica</b>.
+Cobrado como <b>CERTO</b> pelo CEBRASPE (TRT-10, 2025): <i>“Tanto a criação quanto a extinção das autarquias […] dependem da edição de lei específica, em razão do princípio da paridade de formas.”</i>
+</p>
+</div>
+
+<div class="box alerta">
+<h5>Pegadinhas literais já aplicadas — todas ERRADAS</h5>
+<ul style="margin-bottom:0">
+<li>“As autarquias adquirem personalidade jurídica com o <b>registro</b> de seus atos constitutivos no Cartório de Pessoas Jurídicas.” <span class="pequeno">(IDECAN, PROCON/RJ 2026)</span></li>
+<li>“Somente lei específica cria empresa pública e sociedade de economia mista, sendo prescindível o registro.” <span class="pequeno">(IDECAN, PROCON/RJ 2026)</span></li>
+<li>“As fundações são <b>obrigatoriamente</b> pessoas jurídicas de direito privado.” <span class="pequeno">(IDECAN, UERN 2024 — item apontado como INCORRETO)</span></li>
+<li>“Compõem a Administração Indireta <b>somente</b> pessoas jurídicas de direito público.” <span class="pequeno">(FCC, TJ/SC 2021)</span></li>
+<li>“A autarquia tem as mesmas prerrogativas da Administração Direta, <b>inclusive capacidade política</b>.” <span class="pequeno">(FCC, TJ/SC 2021)</span> — autarquia tem <i>capacidade administrativa</i>, jamais política.</li>
+<li>“As possibilidades de forma societária da <b>sociedade de economia mista</b> são mais amplas do que as da empresa pública.” <span class="pequeno">(CEBRASPE, EMBRAPA 2025 — ERRADO: é o inverso)</span></li>
+<li>“Empresa pública é entidade dotada de personalidade jurídica de <b>direito público</b>.” <span class="pequeno">(FCC, MPE/PB 2024)</span></li>
+</ul>
+</div>
+
+<h4>1.4.1 Autarquias — regime e espécies</h4>
+<ul>
+<li><b>Prerrogativas</b>: imunidade tributária recíproca (CF 150, VI, “a”, §2º — sobre patrimônio, renda e serviços vinculados às finalidades essenciais), prazos processuais em dobro, execução por <b>precatório</b>, prescrição quinquenal (Decreto 20.910/1932), impenhorabilidade de bens, presunção de legitimidade dos atos.</li>
+<li><b>Agências reguladoras</b>: autarquias <b>sob regime especial</b> (Lei 13.848/2019). Marcas: mandato fixo dos dirigentes (sem exoneração <i>ad nutum</i>), autonomia reforçada, poder normativo técnico dentro dos limites legais, ausência de subordinação hierárquica ao Ministério.</li>
+<li><b>Agência executiva</b>: <b>não é entidade nova</b> — é <b>qualificação</b> conferida por decreto a autarquia ou fundação que celebre <b>contrato de gestão</b> e possua plano de reestruturação. É título temporário, revogável.</li>
+<li><b>Conselhos de fiscalização profissional</b> (CRM, CREA, CRC): são <b>autarquias federais</b>; a delegação do poder de polícia a entidade privada foi declarada inconstitucional (ADI 1717). <b>Exceção: a OAB</b> — serviço público independente, categoria <i>sui generis</i>, não integra a Administração indireta (ADI 3026).</li>
+<li><b>Associações públicas</b> (consórcios públicos constituídos sob direito público — Lei 11.107/2005) têm natureza de <b>autarquia interfederativa</b> e são expressamente incluídas entre as pessoas jurídicas de direito público interno pelo art. 41, IV, do Código Civil.</li>
+</ul>
+
+<div class="box">
+<h5>Contrato de gestão — dupla função (cobrado pelo CEBRASPE, SEPLAG/CE 2024, como CERTO)</h5>
+<p style="margin-bottom:0">Celebrado com <b>órgãos e entidades da própria Administração</b>, ele <b>amplia</b> a autonomia (agência executiva).
+Celebrado com <b>organizações sociais</b>, ele <b>restringe</b> a autonomia da entidade privada, que passa a se sujeitar aos princípios da Administração Pública.</p>
+</div>
+
+<h4>1.4.2 Empresas estatais — o bloco de jurisprudência que decide questão difícil</h4>
+
+<table>
+<tr><th style="width:34%">Tema</th><th>Entendimento consolidado</th></tr>
+<tr><td class="rot">Regime jurídico</td><td>CF 173, §1º: estatais <b>exploradoras de atividade econômica</b> sujeitam-se ao regime das empresas privadas quanto a direitos e obrigações civis, comerciais, trabalhistas e tributárias. <b>Prestadoras de serviço público</b> têm regime mais próximo do público.</td></tr>
+<tr><td class="rot">Privilégios fiscais</td><td>CF 173, §2º: <b>vedados</b> privilégios fiscais não extensivos ao setor privado — regra dirigida às exploradoras de atividade econômica.</td></tr>
+<tr><td class="rot">Precatório e imunidade</td><td><b>Aplicam-se</b> às estatais prestadoras de serviço público essencial, em <b>regime não concorrencial</b> e sem intuito primário de lucro (ECT — RE 220906; CODESP; INFRAERO). Este foi o <b>gabarito</b> da IDECAN em PROCON/RJ 2026.</td></tr>
+<tr><td class="rot">Responsabilidade civil</td><td>CF 37, §6º (<b>objetiva</b>) alcança as <b>prestadoras de serviço público</b>. Exploradoras de atividade econômica respondem segundo o direito privado (subjetiva, em regra).</td></tr>
+<tr><td class="rot">Concurso e dispensa</td><td>Concurso público é <b>obrigatório</b>. A dispensa do empregado de estatal exige <b>motivação</b> (RE 589998 — Tema 131), embora não se exija processo administrativo formal.</td></tr>
+<tr><td class="rot">Licitação</td><td>Regem-se pela <b>Lei 13.303/2016</b> (não pela Lei 14.133/2021), com regulamento interno próprio.</td></tr>
+<tr><td class="rot">Controle</td><td>Sujeitas ao controle do <b>Tribunal de Contas</b> e ao controle finalístico do ente instituidor; a União, como controladora, responde por abuso de poder na gestão nos termos da Lei das S.A. (item <b>CERTO</b> — CEBRASPE, EMBRAPA 2025).</td></tr>
+</table>
+
+<h4>1.4.3 O que fica de fora: entidades paraestatais e terceiro setor</h4>
+
+<p>Expressão “<b>paraestatal</b>” = entidades que atuam <b>ao lado do Estado</b> (esse é o gabarito literal da FCC em MPE/AM 2024),
+sem integrá-lo. Não fazem parte da Administração Indireta e <b>não</b> constam do rol do Decreto-Lei 200/1967.</p>
+
+<table>
+<tr><th style="width:26%">Entidade</th><th>Natureza e vínculo</th><th>Ponto de prova</th></tr>
+<tr><td class="rot">Serviços sociais autônomos<br>(Sistema S)</td><td>Pessoas jurídicas de direito <b>privado</b>, criação <b>autorizada</b> por lei, mantidas por contribuições parafiscais.</td><td><b>Não</b> exigem concurso público (RE 789874, Tema 569); <b>sujeitam-se</b> ao controle do TCU e a processo seletivo objetivo.</td></tr>
+<tr><td class="rot">Organizações Sociais (OS)</td><td>Privadas, sem fins lucrativos, <b>qualificadas</b> por ato discricionário; vínculo por <b>contrato de gestão</b>.</td><td>ADI 1923: constitucionalidade condicionada a chamamento público impessoal.</td></tr>
+<tr><td class="rot">OSCIP</td><td>Privadas, sem fins lucrativos, qualificadas pelo Ministério da Justiça; vínculo por <b>termo de parceria</b>.</td><td>Distrator recorrente como “integrante da Administração indireta” — sempre <b>ERRADO</b>.</td></tr>
+<tr><td class="rot">Consórcios públicos<br>(Lei 11.107/2005)</td><td><b>Associação pública</b> (autarquia interfederativa) ou pessoa jurídica de <b>direito privado</b>.</td><td>O consórcio público pode ser <b>contratado pela administração direta ou indireta dos entes consorciados com dispensa de licitação</b> (Lei 11.107/2005, art. 2º, §1º, III; Lei 14.133/2021, art. 75, XI). A <b>associação pública</b> integra a administração indireta de <b>todos</b> os entes consorciados.</td></tr>
+</table>
+
+<h3>1.5 Questões reais comentadas — Tópico 1</h3>
+
+<div class="q">
+<span class="cab ide">IDECAN · PROCON/RJ · Advogado · 2026 · Q32</span>
+<div class="enun">No tocante ao regime jurídico aplicável às empresas públicas e às sociedades de economia mista, marque a afirmativa correta.</div>
+<ol class="alts" type="A">
+<li>Somente lei específica cria empresa pública e sociedade de economia mista, sendo prescindível o registro no Cartório de Pessoas Jurídicas.</li>
+<li>Empresa pública que presta serviço público essencial, em caráter não concorrencial e sem intenção de lucro, submete-se ao regime de precatório, conforme entendimento do STF.</li>
+<li>As autarquias adquirem personalidade jurídica com o registro de seus atos constitutivos no Cartório de Pessoas Jurídicas.</li>
+<li>Sociedade de economia mista e empresa pública podem se valer da falência e da recuperação judicial, com base no princípio da supremacia do interesse público.</li>
+<li>Empresa pública é criada por lei, e na sociedade de economia mista é autorizada a sua criação por lei.</li>
+</ol>
+<div class="gab"><b>Gabarito oficial: B.</b> É a tese do RE 220906 (ECT) e sua extensão a CODESP/INFRAERO. (A) e (E) invertem “criar” e “autorizar” — <b>ambas</b> as estatais têm a criação apenas autorizada. (C) autarquia nasce com a lei. (D) Lei 11.101/2005, art. 2º, I, exclui expressamente EP e SEM.</div>
+</div>
+
+<div class="q">
+<span class="cab fcc">FCC · TJ/SC · Analista Administrativo · 2021 · Q22</span>
+<div class="enun">Sobre desconcentração e descentralização administrativa, considere: <b>I.</b> São conceitos distintos, embora ambas pressuponham pessoas jurídicas diversas. <b>II.</b> A distribuição interna de competências decisórias, agrupadas em órgãos públicos, denomina-se desconcentração. <b>III.</b> A descentralização pressupõe o reconhecimento de personalidade jurídica ao ente descentralizado. <b>IV.</b> Os entes descentralizados não estão sujeitos a controle ou tutela.</div>
+<div class="gab"><b>Gabarito oficial: D (apenas II e III).</b> I erra ao exigir pessoas diversas também na desconcentração; IV erra ao negar o <b>controle finalístico</b>. Note o desenho típico da FCC: dois itens verdadeiros diretos e dois falsos por <b>excesso</b>.</div>
+</div>
+
+<div class="q">
+<span class="cab ceb">CEBRASPE · TRT-10ª Região · Analista Judiciário · 2025 · Item 31</span>
+<div class="enun">Tanto a criação quanto a extinção das autarquias, cuja atuação é voltada para o desempenho de serviço público descentralizado, dependem da edição de lei específica, em razão da aplicação do princípio da paridade de formas.</div>
+<div class="gab"><b>Gabarito oficial: CERTO.</b> CF, art. 37, XIX + paralelismo das formas. Guarde a expressão “paridade de formas” — o CEBRASPE a usa como sinônimo de “paralelismo”.</div>
+</div>
+
+<div class="q">
+<span class="cab ceb">CEBRASPE · Câmara dos Deputados · Analista Legislativo · 2026 · Item 50</span>
+<div class="enun">A administração indireta é composta por pessoas jurídicas com personalidade própria, criadas ou autorizadas por lei, que desempenham atividades administrativas de forma descentralizada, sem subordinação hierárquica ao ente instituidor, estando sujeitas a controle finalístico.</div>
+<div class="gab"><b>Assertiva correta.</b> Repare que a banca encadeia <i>todos</i> os marcadores do conceito: personalidade própria + criadas/autorizadas por lei + descentralização + ausência de hierarquia + controle finalístico. Quando um item CEBRASPE reúne a definição completa e coerente, ele tende a ser CERTO; a inversão só aparece quando há um advérbio absoluto fora do lugar.</div>
+</div>
+
+<div class="q">
+<span class="cab fcc">FCC · MPE/PB · Técnico Ministerial · 2024 · Q30</span>
+<div class="enun">Integra a Administração indireta, no direito positivo brasileiro: (A) OSCIP…; (B) empresa pública, entidade dotada de personalidade jurídica de direito público…; (C) fundação instituída pelo Poder Público, patrimônio exclusivamente público, personalidade jurídica de direito privado…; (D) serviço social autônomo, entidade dotada de personalidade jurídica de direito público…; (E) sociedade de economia mista, personalidade de direito privado, criação autorizada por lei, sob a forma de sociedade anônima, cujas ações com direito a voto pertencem em sua maioria a ente federado ou a entidade da Administração indireta.</div>
+<div class="gab"><b>Gabarito oficial: E.</b> Definição literal do Decreto-Lei 200/1967, art. 5º, III. (B) erra a personalidade; (D) serviço social autônomo é <b>privado</b> e não integra a indireta; (A) OSCIP jamais integra. (C) é a chamada “fundação governamental de direito privado”, admissível, mas a alternativa foi construída com imprecisão quanto ao enquadramento — a assertiva integralmente correta é a E.</div>
+</div>
+
+<div class="q">
+<span class="cab ide">IDECAN · PROCON/RJ · Advogado · 2026 · Q34 (ANULADA)</span>
+<div class="enun">O Estado do RJ distribui competências a diversos órgãos públicos e cria a empresa pública XYT para prestar serviço público. Assinale a correta.</div>
+<div class="gab"><b>Questão anulada</b> — nenhuma alternativa fechava. O aprendizado é o mapa correto: <b>distribuir competências a órgãos = desconcentração</b> (órgão <i>não</i> tem personalidade própria); <b>criar empresa pública para prestar serviço público = descentralização por outorga</b> (a EP <i>é</i> pessoa jurídica de direito privado). Sempre que a alternativa casar “órgão” com “descentralização”, ela está errada.</div>
+</div>
+
+<!-- ============================ TÓPICO 2 ============================ -->
+<h2 class="parte">Tópico 2 · Princípios da Administração Pública</h2>
+
+<h3>2.1 O regime jurídico-administrativo: as duas pedras de toque</h3>
+
+<p>Todo o Direito Administrativo se estrutura sobre um binômio de <b>prerrogativas e sujeições</b> (Celso Antônio Bandeira de Mello):</p>
+
+<table>
+<tr><th style="width:32%">Supremacia do interesse público</th><th>Indisponibilidade do interesse público</th></tr>
+<tr><td>Fonte das <b>prerrogativas</b>: autoexecutoriedade, cláusulas exorbitantes, poder de polícia, desapropriação, requisição, presunção de legitimidade.</td><td>Fonte das <b>sujeições</b>: licitação, concurso público, motivação, publicidade, controle, prestação de contas, impossibilidade de renúncia a competências.</td></tr>
+</table>
+
+<p>Ambos são <b>princípios implícitos</b> (não constam do <i>caput</i> do art. 37 da CF), mas a <b>Lei 9.784/1999</b> menciona
+expressamente o “interesse público”. Note que a supremacia é do interesse público <b>primário</b> (da coletividade) —
+não do interesse <b>secundário</b> (patrimonial, do erário). Confundir os dois é armadilha frequente.</p>
+
+<div class="box alerta">
+<h5>Pegadinha — CEBRASPE (ANM 2025)</h5>
+<p style="margin-bottom:0">“A administração pode anular seus próprios atos, quando eivados de ilegalidade, <b>independentemente de contraditório</b>,
+mesmo quando interferirem na esfera jurídica de interesses individuais, haja vista a <b>prevalência do interesse público sobre o privado</b>.”
+<b>ERRADO</b> — a supremacia não afasta o devido processo. Lei 9.784, art. 2º, parágrafo único, e jurisprudência pacífica exigem
+contraditório quando a anulação repercutir na esfera individual.</p>
+</div>
+
+<h3>2.2 Os princípios expressos da Constituição — LIMPE (art. 37, <i>caput</i>)</h3>
+
+<h4>Legalidade</h4>
+<ul>
+<li><b>Para o particular</b> (CF 5º, II): pode fazer tudo o que a lei não proíbe (autonomia da vontade).<br>
+<b>Para a Administração</b>: só pode fazer <b>o que a lei autoriza</b> — subordinação, não mera não contradição.</li>
+<li>Alcança <b>todos</b> os Poderes e <b>todos</b> os entes, na Administração Direta e Indireta. Item CEBRASPE (SEFAZ/DF 2020) que restringia a legalidade “apenas ao Poder Executivo federal” foi dado como <b>ERRADO</b>.</li>
+<li>Evolução: <b>princípio da juridicidade</b> — a Administração se submete ao <i>bloco de legalidade</i> (Constituição, princípios, lei, regulamentos), e não apenas à lei em sentido estrito.</li>
+<li>Mitigações constitucionais: medida provisória, estado de defesa e estado de sítio.</li>
+</ul>
+
+<h4>Impessoalidade — as duas acepções (a mais cobrada)</h4>
+<table>
+<tr><th style="width:32%">1ª acepção — finalidade / isonomia</th><th>2ª acepção — teoria do órgão / imputação</th></tr>
+<tr><td>A Administração deve agir com <b>imparcialidade</b>, sem favorecer nem prejudicar pessoas determinadas. Decorrências: concurso público, licitação, ordem cronológica de precatórios, vedação ao nepotismo, proibição de promoção pessoal na publicidade oficial (CF 37, §1º).</td><td>Os atos praticados pelo agente são <b>imputados ao órgão/entidade</b>, e não à pessoa física do agente. É o que permite falar em “ato da Prefeitura”, e não “ato do prefeito”.</td></tr>
+</table>
+
+<div class="box ok">
+<h5>Fixe assim — enunciado-modelo da IDECAN (ALEPI 2024 e PROCON/RJ 2026)</h5>
+<p style="margin-bottom:0">Quando o enunciado disser <i>“o Estado deve agir de modo imparcial […] e os atos dos agentes são sempre imputados ao órgão para o qual oficiam”</i>,
+a resposta é <b>impessoalidade</b> — a banca cola as duas acepções na mesma frase justamente para separar quem estudou.</p>
+</div>
+
+<div class="box">
+<h5>Nepotismo — bloco fechado de jurisprudência</h5>
+<ul style="margin-bottom:0">
+<li><b>Súmula Vinculante 13</b>: veda nomeação de cônjuge, companheiro ou parente até o <b>3º grau</b> da autoridade nomeante ou de servidor da mesma pessoa jurídica investido em cargo de direção/chefia/assessoramento, para cargo em comissão, função de confiança ou contratação temporária — inclusive por <b>ajuste mediante designações recíprocas</b> (<b>nepotismo cruzado</b>).</li>
+<li>Fundamento: impessoalidade e moralidade — não é necessário lei formal proibindo (a SV 13 decorre diretamente da CF).</li>
+<li><b>Cargos políticos</b> (Secretário, Ministro): em regra fora da SV 13, salvo fraude, nepotismo cruzado ou inequívoca falta de qualificação (RE 1133118, Tema 1000).</li>
+<li>O agente <b>já nomeado antes</b> da norma vedatória <b>é alcançado</b> por ela: item CEBRASPE (SEPLAG/CE 2024) que invocava segurança jurídica e confiança legítima para blindá-lo foi <b>ERRADO</b>.</li>
+<li>Caso-modelo da FCC (MPE/AM 2024): deputada nomeia filho do prefeito; o prefeito nomeia sobrinho da deputada → <b>nepotismo cruzado</b> → viola a <b>impessoalidade</b>.</li>
+</ul>
+</div>
+
+<h4>Moralidade</h4>
+<ul>
+<li>Não se confunde com a moral comum: é a <b>moral jurídica interna</b> da instituição — probidade, boa-fé, lealdade, honestidade.</li>
+<li>É <b>autônoma</b>: um ato pode ser formalmente legal e, ainda assim, imoral. Item CEBRASPE (STM 2025): <i>“Um ato administrativo aparentemente fundamentado em lei pode contravir ao princípio constitucional da moralidade administrativa”</i> — assertiva doutrinariamente correta.</li>
+<li>Instrumentos de tutela: <b>ação popular</b> (CF 5º, LXXIII), ação civil pública, ação de improbidade (Lei 8.429/1992).</li>
+<li><b>Improbidade por violação a princípios</b> (art. 11): <b>independe</b> de dano ao erário ou enriquecimento ilícito (art. 11, §4º). Item CEBRASPE (PC/DF 2025) que exigia dano ou enriquecimento foi <b>ERRADO</b>. Após a Lei 14.230/2021 exige-se <b>dolo específico</b> e o rol do art. 11 passou a ser <b>taxativo</b>.</li>
+</ul>
+
+<h4>Publicidade</h4>
+<ul>
+<li>Duplo conteúdo: (i) <b>transparência</b> — dever de divulgar; (ii) <b>condição de eficácia</b> do ato administrativo. <b>A publicidade não é requisito de validade</b>, mas de eficácia (produção de efeitos externos).</li>
+<li>CF 37, §1º: a publicidade oficial tem caráter <b>educativo, informativo ou de orientação social</b>, vedados nomes, símbolos ou imagens que caracterizem <b>promoção pessoal</b>.</li>
+<li><b>Exceções</b>: sigilo imprescindível à segurança da sociedade e do Estado (CF 5º, XXXIII), intimidade/vida privada, investigações.</li>
+<li><b>LAI (Lei 12.527/2011)</b>: publicidade é a regra, sigilo é a exceção. Ponto de prova (IDECAN 2025): <b>nunca</b> podem ser negadas informações sobre <b>condutas que impliquem violação de direitos humanos praticada por agentes públicos</b> (art. 21, parágrafo único) — nem por classificação de sigilo.</li>
+<li>Item CEBRASPE (SEPLAG/CE 2024) dado como <b>CERTO</b>: “Viola o princípio da publicidade norma que considere sigilosa a movimentação de créditos públicos destinados a despesas reservadas ou confidenciais.”</li>
+</ul>
+
+<h4>Eficiência</h4>
+<ul>
+<li>Inserido pela <b>EC 19/1998</b>, no contexto da <b>Reforma do Aparelho do Estado</b> — substituição do modelo burocrático pelo <b>gerencial</b>. Item CEBRASPE (SEPLAG/CE 2024): <b>CERTO</b>.</li>
+<li>Conteúdo (Hely): atuação com <b>presteza, perfeição e rendimento funcional</b>. Enunciado-modelo da IDECAN (ADAGRI/CE 2025): “lentidão, omissão, desperdício de recursos e falta de planejamento ofendem esse princípio”.</li>
+<li>Desdobramentos normativos: avaliação especial de desempenho para estabilidade (CF 41, §4º), avaliação periódica (art. 41, §1º, III), contrato de gestão (CF 37, §8º), duração razoável do processo (CF 5º, LXXVIII), Lei 13.726/2018 (desburocratização).</li>
+<li><b>Cuidado</b>: eficiência <b>não</b> autoriza afastar a legalidade. Alternativa que sugira “eficiência dispensa formalidades” é sempre falsa.</li>
+</ul>
+
+<h3>2.3 O rol da Lei 9.784/1999 — memorização obrigatória</h3>
+
+<p>O art. 2º da Lei do Processo Administrativo Federal traz <b>onze</b> princípios expressos. É o rol mais cobrado
+em prova depois do LIMPE, porque acrescenta princípios que <b>não</b> estão no <i>caput</i> do art. 37 da CF:</p>
+
+<div class="box ouro">
+<h5>Art. 2º, Lei 9.784/1999</h5>
+<p style="margin-bottom:.3em"><b>Legalidade · Finalidade · Motivação · Razoabilidade · Proporcionalidade · Moralidade · Ampla defesa · Contraditório · Segurança jurídica · Interesse público · Eficiência</b></p>
+<p class="pequeno" style="margin-bottom:0">Mnemônico: <span class="mnem">LF-MRP-MAC-SIE</span>. Repare no que <b>não</b> está aqui: <i>publicidade</i> e <i>impessoalidade</i> não figuram no <i>caput</i> do art. 2º (embora apareçam nos incisos do parágrafo único como critérios). Já <b>finalidade, motivação, razoabilidade, proporcionalidade, ampla defesa, contraditório e segurança jurídica</b> são expressos <i>na lei</i>, mas <b>implícitos na Constituição</b>.</p>
+</div>
+
+<div class="box alerta">
+<h5>A pergunta que separa aprovados</h5>
+<p style="margin-bottom:0">“A motivação é princípio <b>implícito</b>, pois não consta do rol de princípios explicitados na lei.”
+<b>ERRADO</b> (formulação da FCC — SEFAZ/BA 2019). A motivação é <b>expressa</b> no art. 2º da Lei 9.784 (e nas leis estaduais de processo administrativo);
+o que é implícito é sua previsão <i>constitucional</i> para a Administração em geral.</p>
+</div>
+
+<h3>2.4 Princípios implícitos — os que caem de verdade</h3>
+
+<table>
+<tr><th style="width:22%">Princípio</th><th>Conteúdo</th><th>Ponto de prova</th></tr>
+<tr>
+ <td class="rot">Autotutela</td>
+ <td><b>Súmula 473/STF</b>: a Administração <b>pode anular</b> seus próprios atos quando eivados de vícios que os tornem ilegais (pois deles não se originam direitos), e <b>pode revogá-los</b> por motivo de conveniência e oportunidade, respeitados os direitos adquiridos e ressalvada a apreciação judicial.<br><b>Súmula 346/STF</b>: a Administração pode declarar a nulidade dos seus próprios atos.</td>
+ <td>Independe de provocação (atua de ofício) — item <b>CERTO</b> no CEBRASPE/TRT-10 2025. Mas <b>exige contraditório</b> quando atingir interesses individuais e <b>exige motivação</b> — item que dizia “não havendo necessidade de motivação, ainda que direitos individuais sejam afetados” foi <b>ERRADO</b>.</td>
+</tr>
+<tr>
+ <td class="rot">Segurança jurídica e<br>proteção da confiança</td>
+ <td>Vedação à aplicação retroativa de nova interpretação (Lei 9.784, art. 2º, p.ú., XIII). Prazo decadencial de <b>5 anos</b> para anular atos favoráveis ao destinatário, salvo <b>má-fé</b> (art. 54).</td>
+ <td>LINDB, arts. 20 a 30 (Lei 13.655/2018): decisão com base em valores abstratos exige demonstração das <b>consequências práticas</b> (art. 20); regime de transição (art. 23); validade aferida pelas orientações gerais <b>da época</b> (art. 24).</td>
+</tr>
+<tr>
+ <td class="rot">Motivação</td>
+ <td>Dever de indicar os <b>fundamentos de fato e de direito</b>. Lei 9.784, art. 50: obrigatória em 8 hipóteses (negar/limitar/afetar direitos; impor ônus/sanções; decidir recursos; anular/revogar/suspender/convalidar; dispensar/declarar inexigível licitação; decidir concurso ou seleção; decidir de forma contrária a pareceres/laudos; importar reexame de ofício).</td>
+ <td>Admite-se <b>motivação aliunde</b> ou <i>per relationem</i> (art. 50, §1º) — concordância com fundamentos de pareceres anteriores. Item CEBRASPE (PF 2025) <b>CERTO</b>: “não se exige, em regra, formalidade específica”.</td>
+</tr>
+<tr>
+ <td class="rot">Razoabilidade e<br>proporcionalidade</td>
+ <td>Limites internos à discricionariedade. Proporcionalidade em três subprincípios: <b>adequação</b>, <b>necessidade</b> (exigibilidade) e <b>proporcionalidade em sentido estrito</b>.</td>
+ <td>Fundamentam o controle judicial do <b>mérito aparente</b> — o Judiciário não substitui a escolha, mas invalida a escolha desproporcional.</td>
+</tr>
+<tr>
+ <td class="rot">Continuidade do<br>serviço público</td>
+ <td>Serviços essenciais não podem parar. Base das cláusulas exorbitantes e da <i>exceptio non adimpleti contractus</i> mitigada.</td>
+ <td>Corte por inadimplemento é lícito se houver <b>aviso prévio</b> e não se tratar de unidade essencial (STJ).</td>
+</tr>
+<tr>
+ <td class="rot">Especialidade</td>
+ <td>Entidades da Administração indireta estão vinculadas às <b>finalidades para as quais foram criadas</b>; não podem desviar-se do objeto legal.</td>
+ <td>Distrator recorrente da FCC quando pergunta “princípio que veda o favorecimento” (resposta: impessoalidade, não especialidade).</td>
+</tr>
+<tr>
+ <td class="rot">Tutela / controle<br>finalístico</td>
+ <td>Controle da Administração Direta sobre a Indireta. <b>Não é hierárquico</b>; depende de <b>previsão legal</b>.</td>
+ <td>Diferencie de <b>controle hierárquico</b>: este é <b>pleno, permanente e independe de previsão expressa</b>, abrangendo legalidade <i>e</i> mérito (item <b>CERTO</b> — CEBRASPE/TRT-10 2025).</td>
+</tr>
+<tr>
+ <td class="rot">Presunção de<br>legitimidade</td>
+ <td>Atos administrativos presumem-se legais e verdadeiros até prova em contrário.</td>
+ <td>Presunção <b>relativa</b> (<i>juris tantum</i>) — inverte o ônus da prova para o administrado.</td>
+</tr>
+</table>
+
+<div class="box">
+<h5>Princípios das licitações (Lei 14.133/2021, art. 5º) — o rol que a banca pede por inteiro</h5>
+<p style="margin-bottom:0">Item <b>CERTO</b> no CEBRASPE (IBAMA 2025): são princípios expressos da Lei 14.133 a <b>probidade administrativa, igualdade, planejamento,
+transparência, segregação de funções, motivação, razoabilidade, proporcionalidade, economicidade e desenvolvimento nacional sustentável</b>
+(além de legalidade, impessoalidade, moralidade, publicidade, eficiência, interesse público, vinculação ao edital, julgamento objetivo,
+eficácia, celeridade, competitividade e segurança jurídica).</p>
+</div>
+
+<h3>2.5 Questões reais comentadas — Tópico 2</h3>
+
+<div class="q">
+<span class="cab ide">IDECAN · ALEPI · Técnico Legislativo · 2024</span>
+<div class="enun">“Diz respeito à necessidade de o Estado agir de modo imparcial, não podendo beneficiar nem causar danos a pessoas específicas […]. Além disso, vincula-se ao entendimento de que os atos dos funcionários públicos são sempre imputados ao órgão para o qual oficiam.” O enunciado descreve o princípio da:</div>
+<ol class="alts" type="A"><li>Publicidade</li><li>Legalidade</li><li>Impessoalidade</li><li>Moralidade</li><li>Eficiência</li></ol>
+<div class="gab"><b>Resposta: C — Impessoalidade.</b> As duas acepções aparecem juntas. Modelo replicado em várias provas IDECAN: aprenda a reconhecer o <i>par</i> “imparcialidade + imputação ao órgão”.</div>
+</div>
+
+<div class="q">
+<span class="cab ide">IDECAN · ADAGRI/CE · 2025</span>
+<div class="enun">“Exige que a atividade administrativa seja exercida com presteza, perfeição e rendimento funcional […]. A lentidão, a omissão, o desperdício de recursos públicos e a falta de planejamento são atitudes que ofendem esse princípio.”</div>
+<div class="gab"><b>Resposta: Eficiência.</b> Trata-se de citação praticamente literal de Hely Lopes Meirelles. A IDECAN monta boa parte de suas questões de princípios com <b>colagem doutrinária</b>: leia os conceitos clássicos <i>na fonte</i>, palavra por palavra.</div>
+</div>
+
+<div class="q">
+<span class="cab ceb">CEBRASPE · TRT-10ª Região · 2025 · Item 34</span>
+<div class="enun">A autotutela é um princípio administrativo que permite à administração pública rever e anular, de forma unilateral, seus próprios atos quando eivados de vício de legalidade, não havendo necessidade de motivação, ainda que direitos individuais sejam afetados.</div>
+<div class="gab"><b>Gabarito oficial: ERRADO.</b> O erro está no trecho final. A autotutela existe e é unilateral — mas a anulação que atinge direitos individuais exige <b>motivação</b> (Lei 9.784, art. 50, IV) e <b>contraditório</b>. <b>Técnica CEBRASPE</b>: o item começa impecável e desaba na última oração. Leia o item de trás para frente.</div>
+</div>
+
+<div class="q">
+<span class="cab ceb">CEBRASPE · SEPLAG/CE · 2024 · Item 73</span>
+<div class="enun">Por força dos princípios da segurança jurídica e da confiança legítima, o ocupante de cargo comissionado nomeado antes da edição de norma que veda o nepotismo não pode ser alcançado pelos efeitos da referida norma.</div>
+<div class="gab"><b>Gabarito oficial: ERRADO.</b> A vedação ao nepotismo decorre diretamente da CF (impessoalidade e moralidade) e tem eficácia imediata; não há direito adquirido a manter situação inconstitucional.</div>
+</div>
+
+<div class="q">
+<span class="cab fcc">FCC · TJ/SC · Analista Administrativo · 2021 · Q21</span>
+<div class="enun">A Administração deve voltar-se exclusivamente para o interesse público e não para o interesse privado, vedando-se o favorecimento a alguns indivíduos em detrimento de outros. Trata-se do princípio da: (A) eficiência (B) autotutela (C) impessoalidade (D) razoabilidade (E) especialidade.</div>
+<div class="gab"><b>Gabarito oficial: C.</b> Note o distrator (E) especialidade — a FCC o insere sempre que fala em “finalidade”. Especialidade é vinculação da <i>entidade</i> ao seu objeto legal; impessoalidade é vedação ao favorecimento <i>de pessoas</i>.</div>
+</div>
+
+<div class="q">
+<span class="cab ide">IDECAN · 2025 · Lei de Acesso à Informação</span>
+<div class="enun">A Lei 12.527/2011 preceitua que as informações referentes à atividade do Estado são públicas, exceto as expressas na legislação. Contudo, o acesso à informação NÃO compreende: […] (C) projetos de pesquisa e desenvolvimento científicos ou tecnológicos cujo sigilo seja imprescindível à segurança da sociedade e do Estado.</div>
+<div class="gab"><b>Resposta: C.</b> É a única exceção legítima entre as alternativas (art. 7º, §1º). As demais — patrimônio público, licitações, contratos, fundamentos de decisões e, sobretudo, <b>violação de direitos humanos por agentes públicos</b> — são de acesso <b>assegurado</b>. Guarde: <i>violação de direitos humanos nunca é sigilosa</i>.</div>
+</div>
+
+<!-- ============================ TÓPICO 3 ============================ -->
+<h2 class="parte">Tópico 3 · Atos administrativos</h2>
+
+<h3>3.1 Conceito e delimitação</h3>
+
+<p><b>Ato administrativo</b> é a manifestação <b>unilateral</b> de vontade da Administração (ou de quem lhe faça as vezes)
+que, sob regime de <b>direito público</b>, visa a produzir <b>efeitos jurídicos</b> imediatos, com finalidade pública,
+sujeita a controle de legalidade pelo Judiciário.</p>
+
+<table>
+<tr><th style="width:30%">Não confundir</th><th></th></tr>
+<tr><td class="rot">Ato da Administração<br>× ato administrativo</td><td>Nem todo ato praticado pela Administração é ato administrativo (ex.: contratos de direito privado, atos materiais). E há atos administrativos praticados <b>fora</b> da Administração (concessionária que aplica sanção ao usuário; Poder Legislativo que nomeia servidor).</td></tr>
+<tr><td class="rot">Fato administrativo</td><td>Acontecimento sem conteúdo de vontade jurídica (a morte do servidor, o decurso do prazo, a execução material de uma obra). <b>Não</b> se anula nem se revoga fato administrativo.</td></tr>
+<tr><td class="rot">Ato político/de governo</td><td>Sanção/veto, declaração de guerra, indulto. Controle judicial restrito à conformidade constitucional.</td></tr>
+</table>
+
+<h3>3.2 Requisitos (elementos) — <span class="mnem">COM-FI-FO-MO-OB</span></h3>
+
+<table>
+<tr><th style="width:15%">Elemento</th><th>Conteúdo</th><th>Vinculado?</th><th>Vício</th></tr>
+<tr><td class="rot">Competência<br>(sujeito)</td><td>Poder legal para praticar o ato. É <b>irrenunciável</b>, imprescritível, improrrogável e de exercício obrigatório (Lei 9.784, art. 11).</td><td><b>Sempre vinculado</b></td><td>Excesso de poder; usurpação de função; função de fato</td></tr>
+<tr><td class="rot">Finalidade</td><td><b>Geral</b>: interesse público. <b>Específica</b>: o fim previsto em lei para aquele ato.</td><td><b>Sempre vinculado</b></td><td><b>Desvio de poder / desvio de finalidade</b></td></tr>
+<tr><td class="rot">Forma</td><td>Exteriorização; em regra escrita e solene. Inclui o procedimento e, para parte da doutrina, a motivação.</td><td><b>Sempre vinculado</b></td><td>Vício de forma</td></tr>
+<tr><td class="rot">Motivo</td><td><b>Pressuposto de fato e de direito</b> que autoriza a prática. Não confundir com <b>motivação</b> (exposição escrita do motivo).</td><td>Pode ser <b>discricionário</b></td><td>Motivo inexistente, falso ou juridicamente inadequado</td></tr>
+<tr><td class="rot">Objeto<br>(conteúdo)</td><td>Efeito jurídico imediato — o que o ato dispõe. Deve ser lícito, possível, certo e moral.</td><td>Pode ser <b>discricionário</b></td><td>Objeto ilícito, impossível ou indeterminado</td></tr>
+</table>
+
+<div class="box ok">
+<h5>Fixe assim — a regra de ouro</h5>
+<p style="margin-bottom:0"><b>COMPETÊNCIA, FINALIDADE e FORMA são SEMPRE vinculados.</b> A discricionariedade só pode residir no <b>MOTIVO</b> e no <b>OBJETO</b> — e é exatamente aí que mora o <b>mérito administrativo</b> (juízo de conveniência e oportunidade).<br>
+Questão IDECAN (UERN 2024) pedia “elementos apenas de caráter vinculado”: a resposta correta é o par <b>Finalidade e Forma</b> — as demais alternativas embutiam motivo ou objeto.</p>
+</div>
+
+<h4>3.2.1 Teoria dos motivos determinantes</h4>
+<p>Quando a Administração <b>declara</b> o motivo do ato, ela fica a ele <b>vinculada</b>: se o motivo declarado for
+inexistente ou falso, o ato é <b>nulo</b>, <b>ainda que a motivação fosse dispensável</b>. Exemplo canônico: exoneração
+<i>ad nutum</i> de ocupante de cargo em comissão motivada por “falta ao serviço” inexistente → ato inválido.</p>
+
+<h4>3.2.2 Competência: delegação e avocação (Lei 9.784, arts. 11 a 17)</h4>
+
+<table>
+<tr><th style="width:24%"></th><th>Delegação</th><th>Avocação</th></tr>
+<tr><td class="rot">Regra</td><td>Permitida a órgãos ou titulares, <b>ainda que não subordinados hierarquicamente</b>, se não houver impedimento legal, por conveniência técnica, social, econômica, jurídica ou territorial.</td><td>Permitida <b>em caráter excepcional</b>, por motivos relevantes devidamente justificados, e <b>temporariamente</b>, de órgão hierarquicamente <b>inferior</b>.</td></tr>
+<tr><td class="rot">Formalidade</td><td>Ato de delegação <b>e sua revogação</b> devem ser <b>publicados</b> em meio oficial; devem especificar matérias, poderes, duração, objetivos e recurso cabível.</td><td>Exige <b>motivação</b> — jamais é automática ou implícita no poder hierárquico.</td></tr>
+<tr><td class="rot">Revogabilidade</td><td><b>Revogável a qualquer tempo</b> pela autoridade delegante.</td><td>Temporária por definição.</td></tr>
+<tr><td class="rot">Imputação</td><td>As decisões adotadas por delegação devem <b>mencionar explicitamente</b> essa qualidade e <b>considerar-se-ão editadas pelo DELEGADO</b>.</td><td>—</td></tr>
+<tr><td class="rot">Efeito sobre o delegante</td><td>A delegação <b>não exclui</b> a competência do delegante, que permanece competente <b>cumulativamente</b>.</td><td>—</td></tr>
+<tr><td class="rot">Indelegáveis<br><span class="mnem">CE-NO-RA</span></td><td colspan="2"><b>CE</b>: matérias de <b>competência exclusiva</b> · <b>NO</b>: edição de atos <b>normativos</b> · <b>RA</b>: decisão de <b>recursos administrativos</b></td></tr>
+</table>
+
+<div class="box alerta">
+<h5>Cinco formulações falsas já usadas em prova</h5>
+<ul style="margin-bottom:0">
+<li>“O ato de delegação e sua revogação <b>prescindem</b> de publicação em meio oficial.” <span class="pequeno">(IDECAN, UERN 2024)</span></li>
+<li>“As decisões adotadas por delegação considerar-se-ão editadas pela <b>autoridade delegante</b>.” <span class="pequeno">(FCC, TRT-23 2022)</span></li>
+<li>“O ato de delegação é <b>irrevogável</b> pela autoridade delegante, por razões de segurança jurídica.” <span class="pequeno">(FCC, TRT-23 2022)</span></li>
+<li>“A edição de atos de caráter normativo e a decisão de recursos administrativos <b>podem</b> ser objeto de delegação.” <span class="pequeno">(IDECAN, UERN 2024)</span></li>
+<li>“A avocação temporária de competência de órgão inferior <b>independe de motivação</b>, pois decorre do princípio hierárquico.” <span class="pequeno">(FCC, SEFAZ/BA 2019)</span></li>
+</ul>
+</div>
+
+<div class="box ok">
+<h5>Gabarito do CEBRASPE em prova de Auditor Fiscal (SEFAZ/SE 2025, Q48)</h5>
+<p style="margin-bottom:0">A única alternativa correta era: <i>“<b>O ato de delegação não exclui a competência da autoridade delegante, que permanece competente cumulativamente com a autoridade delegada.</b>”</i>
+Guarde esta frase — ela é gabarito recorrente e resolve questões nas três bancas.</p>
+</div>
+
+<h3>3.3 Atributos — <span class="mnem">P.A.T.I.</span></h3>
+
+<table>
+<tr><th style="width:26%">Atributo</th><th>Conteúdo</th><th>Alcance</th></tr>
+<tr><td class="rot">Presunção de legitimidade<br>e de veracidade</td><td>Presume-se que o ato nasceu conforme o direito (legitimidade) e que os fatos alegados são verdadeiros (veracidade). Inverte o <b>ônus da prova</b>.</td><td><b>Todos</b> os atos administrativos. Presunção <b>relativa</b>.</td></tr>
+<tr><td class="rot">Autoexecutoriedade</td><td>Possibilidade de executar o ato <b>diretamente</b>, por meios próprios, sem autorização judicial prévia.</td><td><b>Não é atributo de todo ato.</b> Só existe quando (i) <b>previsto em lei</b> ou (ii) em situação de <b>urgência</b>. Ex. clássico de ausência: <b>cobrança de multa não paga</b> exige execução fiscal.</td></tr>
+<tr><td class="rot">Tipicidade</td><td>O ato deve corresponder a figura <b>previamente definida em lei</b> como apta a produzir determinado resultado (Di Pietro).</td><td>Atos <b>unilaterais</b>; afasta o ato inominado e é garantia contra o arbítrio.</td></tr>
+<tr><td class="rot">Imperatividade<br>(coercibilidade)</td><td>Imposição unilateral de obrigações a terceiros, independentemente de sua concordância (<i>poder extroverso</i>).</td><td><b>Não</b> alcança os atos <b>negociais</b> (licença, permissão, autorização) nem os <b>enunciativos</b> (certidão, atestado, parecer).</td></tr>
+</table>
+
+<div class="box alerta">
+<h5>Pegadinhas de atributos</h5>
+<ul style="margin-bottom:0">
+<li><b>CEBRASPE (Câmara dos Deputados 2026):</b> “A imperatividade e a autoexecutoriedade são atributos dos atos administrativos, <b>independentemente de sua natureza e de previsão legal</b>.” → <b>ERRADO</b> em dois pontos: dependem da natureza (não há imperatividade em ato negocial/enunciativo) e a autoexecutoriedade depende de lei ou urgência.</li>
+<li><b>IDECAN (ADAGRI/CE 2025):</b> atributos do <b>poder de polícia</b> = <b>autoexecutoriedade, discricionariedade e coercibilidade</b>. Alternativas que trocam “discricionariedade” por “competência”, “motivo” ou “finalidade” são falsas — competência, motivo e finalidade são <i>elementos do ato</i>, não atributos.</li>
+<li><b>CEBRASPE (SEFAZ/SE 2025):</b> “A <b>autoexecutoriedade</b> é a característica pela qual se demonstra o grau de imperatividade dos atos de polícia, podendo a Administração usar a força.” → <b>ERRADO</b>: o uso da força para vencer resistência é <b>coercibilidade</b>.</li>
+</ul>
+</div>
+
+<h3>3.4 Classificação dos atos</h3>
+
+<table>
+<tr><th style="width:24%">Critério</th><th>Espécies e conteúdo</th></tr>
+<tr><td class="rot">Liberdade de ação</td><td><b>Vinculados</b> (elementos e condições previamente estabelecidos por lei — item <b>CERTO</b> no CEBRASPE/TRT-10 2025) · <b>Discricionários</b> (margem de valoração quanto ao motivo e ao objeto)</td></tr>
+<tr><td class="rot">Formação da vontade</td><td><b>Simples</b> (uma só manifestação, de órgão singular ou colegiado) · <b>Complexo</b> (duas ou mais vontades de <b>órgãos diferentes</b> fundidas em <b>um</b> ato) · <b>Composto</b> (dois atos: um principal e outro acessório, de <b>ratificação/visto/aprovação</b>, que apenas confere exequibilidade)</td></tr>
+<tr><td class="rot">Destinatários</td><td><b>Gerais</b> (indeterminados, efeito <i>erga omnes</i>) · <b>Individuais</b> (destinatário certo)</td></tr>
+<tr><td class="rot">Alcance</td><td><b>Internos</b> (dentro da Administração) · <b>Externos</b> (atingem administrados; exigem publicação)</td></tr>
+<tr><td class="rot">Exequibilidade</td><td><b>Perfeito</b> (concluiu o ciclo de formação) · <b>Válido</b> (conforme o direito) · <b>Eficaz</b> (apto a produzir efeitos). As três qualidades são <b>independentes</b> — cabe ato perfeito, inválido e eficaz.</td></tr>
+</table>
+
+<h4>3.4.1 Espécies (classificação de Hely) e o trio negocial</h4>
+
+<table>
+<tr><th style="width:22%">Espécie</th><th>Exemplos</th><th>Observação de prova</th></tr>
+<tr><td class="rot">Normativos</td><td>Decreto, regulamento, resolução, deliberação, <b>regimento</b></td><td>Gerais e abstratos; <b>não</b> podem ser objeto de delegação (art. 13, I).</td></tr>
+<tr><td class="rot">Ordinatórios</td><td><b>Portaria</b>, circular, aviso, ordem de serviço, instrução</td><td>Disciplinam o funcionamento interno; decorrem do <b>poder hierárquico</b>.</td></tr>
+<tr><td class="rot">Negociais</td><td><b>Licença</b>, <b>autorização</b>, <b>permissão</b>, admissão, homologação, protocolo administrativo, visto</td><td>Coincidem vontade da Administração e do particular; <b>não</b> têm imperatividade.</td></tr>
+<tr><td class="rot">Enunciativos</td><td>Certidão, atestado, <b>parecer</b>, apostila</td><td>Apenas atestam ou opinam. <b>Não</b> são atos administrativos em sentido próprio para parte da doutrina; não são revogáveis.</td></tr>
+<tr><td class="rot">Punitivos</td><td>Multa, interdição de atividade, destruição de coisas</td><td>Decorrem dos poderes disciplinar e de polícia.</td></tr>
+</table>
+
+<table>
+<tr><th style="width:22%"></th><th>Licença</th><th>Autorização</th><th>Permissão de uso</th></tr>
+<tr><td class="rot">Natureza</td><td><b>VINCULADA</b></td><td><b>DISCRICIONÁRIA</b></td><td>Discricionária</td></tr>
+<tr><td class="rot">Precariedade</td><td><b>Definitiva</b> (não precária)</td><td><b>Precária</b></td><td><b>Precária</b></td></tr>
+<tr><td class="rot">Interesse</td><td>Predominantemente <b>privado</b>, com direito subjetivo do requerente</td><td>Predominantemente <b>privado</b>, sem direito subjetivo</td><td>Interesse <b>público</b> predominante</td></tr>
+<tr><td class="rot">Exemplo</td><td>Licença para construir; licença para exercer profissão</td><td>Autorização de uso de bem público; porte de arma</td><td>Permissão de uso de calçada para banca de jornal</td></tr>
+</table>
+
+<div class="box ok">
+<h5>Fixe assim</h5>
+<p style="margin-bottom:0">Questão IDECAN (UERN 2024): município concede <b>licença para construir</b> após verificar o atendimento de <b>todos os requisitos</b> →
+o ato é <b>VINCULADO</b>. Sempre que o enunciado mencionar “preenchidos os requisitos legais”, o ato é vinculado e gera <b>direito subjetivo</b>.</p>
+</div>
+
+<h3>3.5 Extinção dos atos administrativos</h3>
+
+<table>
+<tr><th style="width:16%">Forma</th><th>Causa</th><th>Quem pode</th><th>Efeitos</th></tr>
+<tr><td class="rot">Anulação<br>(invalidação)</td><td><b>Ilegalidade</b></td><td>Administração (de ofício ou provocada) <b>e</b> Judiciário</td><td><b>Ex tunc</b> (retroativos), ressalvados terceiros de boa-fé</td></tr>
+<tr><td class="rot">Revogação</td><td><b>Conveniência e oportunidade</b> (ato válido)</td><td><b>Somente a Administração</b> que praticou o ato</td><td><b>Ex nunc</b> (prospectivos)</td></tr>
+<tr><td class="rot">Cassação</td><td>O <b>destinatário</b> descumpre as condições que deveria manter</td><td>Administração</td><td>Ex nunc (sancionatória)</td></tr>
+<tr><td class="rot">Caducidade</td><td><b>Norma jurídica superveniente</b> torna o ato incompatível</td><td>—</td><td>Ex nunc</td></tr>
+<tr><td class="rot">Contraposição<br>(derrubada)</td><td>Novo ato de <b>efeitos opostos</b> ao anterior (ex.: exoneração diante da nomeação)</td><td>Administração</td><td>Ex nunc</td></tr>
+<tr><td class="rot">Renúncia</td><td>O <b>beneficiário</b> abre mão da vantagem</td><td>Particular</td><td>Ex nunc</td></tr>
+</table>
+
+<h4>3.5.1 Limites da revogação — atos IRREVOGÁVEIS</h4>
+<ul>
+<li>Atos <b>vinculados</b> (não há juízo de conveniência a rever);</li>
+<li>Atos que já <b>exauriram seus efeitos</b> (consumados);</li>
+<li>Atos que geraram <b>direitos adquiridos</b> (Súmula 473/STF) — assertiva do CEBRASPE (Câmara 2026) nesse sentido é <b>correta</b>;</li>
+<li>Atos <b>enunciativos</b> (certidões, pareceres, atestados);</li>
+<li>Atos <b>de controle</b> (homologação, aprovação) e meros atos administrativos;</li>
+<li>Atos <b>complexos</b>, por uma só das vontades que o integraram;</li>
+<li>Atos cuja competência para revogar já se <b>exauriu</b> (a competência é do órgão que praticou o ato).</li>
+</ul>
+
+<h4>3.5.2 Prazo decadencial (Lei 9.784/1999, art. 54)</h4>
+<ul>
+<li><b>5 anos</b> para a Administração anular atos de que decorram <b>efeitos favoráveis aos destinatários</b>, contados da data em que foram praticados — <b>salvo comprovada má-fé</b>.</li>
+<li><b>Efeitos patrimoniais contínuos</b>: o prazo conta do <b>primeiro pagamento</b> (art. 54, §1º).</li>
+<li>Considera-se exercício do direito de anular <b>qualquer medida de autoridade administrativa que importe impugnação à validade do ato</b> (art. 54, §2º) — literalidade cobrada como <b>gabarito</b> pela IDECAN (UERN 2024).</li>
+<li>A <b>decadência administrativa</b> funciona como espécie de <b>convalidação involuntária/tácita</b> do ato defeituoso pelo decurso do tempo — item <b>CERTO</b> no CEBRASPE (EMBRAPA 2025).</li>
+</ul>
+
+<h3>3.6 Convalidação — o ponto mais cobrado do Tópico 3</h3>
+
+<div class="box ouro">
+<h5>Art. 55 da Lei 9.784/1999</h5>
+<p style="margin-bottom:0"><i>“Em decisão na qual se evidencie <b>não acarretarem lesão ao interesse público nem prejuízo a terceiros</b>,
+os atos que apresentarem <b>defeitos sanáveis</b> <b>poderão</b> ser convalidados pela própria Administração.”</i></p>
+</div>
+
+<table>
+<tr><th style="width:28%">Elemento viciado</th><th>Convalidável?</th><th>Detalhe decisivo</th></tr>
+<tr><td class="rot">Competência<br>(quanto à <b>pessoa</b>)</td><td><b>SIM</b></td><td>Desde que <b>não</b> se trate de competência <b>exclusiva</b> e não haja vedação legal à delegação. Instrumento: <b>ratificação</b> pela autoridade competente.</td></tr>
+<tr><td class="rot">Competência<br>(quanto à <b>matéria</b>)</td><td><b>NÃO</b></td><td>Vício insanável.</td></tr>
+<tr><td class="rot">Forma</td><td><b>SIM</b></td><td>Desde que a forma <b>não seja essencial</b> à validade do ato.</td></tr>
+<tr><td class="rot">Finalidade</td><td><b>NÃO</b></td><td>Desvio de finalidade é vício insanável.</td></tr>
+<tr><td class="rot">Motivo</td><td><b>NÃO</b></td><td>Insanável.</td></tr>
+<tr><td class="rot">Objeto</td><td><b>NÃO</b> (regra)</td><td>Admite-se apenas a <b>conversão</b> quando o objeto for plúrimo e se puder aproveitar a parte válida.</td></tr>
+</table>
+
+<div class="box ok">
+<h5>Fixe assim — <span class="mnem">FO.CO. convalida</span></h5>
+<p style="margin-bottom:0"><b>FO</b>rma (não essencial) e <b>CO</b>mpetência (quanto à pessoa, não exclusiva) → <b>convalidáveis</b>.<br>
+<b>FI</b>nalidade, <b>MO</b>tivo e <b>OB</b>jeto → <b>insanáveis</b>.<br>
+Efeitos da convalidação: <b>ex tunc</b> (retroativos à data do ato original). A convalidação é ato <b>discricionário</b> (“poderão”), salvo quando o vício for de competência e a autoridade competente ratificar — caso em que boa parte da doutrina a vê como dever.</p>
+</div>
+
+<div class="box">
+<h5>Espécies de aproveitamento (cobradas pelo CEBRASPE, SEFAZ/DF 2020)</h5>
+<ul style="margin-bottom:0">
+<li><b>Ratificação</b>: a própria autoridade (ou a competente) supre o vício de competência ou forma.</li>
+<li><b>Reforma</b>: novo ato <b>suprime a parte inválida</b> do ato anterior, mantendo a parte válida.</li>
+<li><b>Conversão</b> (sanatória): novo ato suprime a parte inválida e <b>acrescenta</b> nova parte, de modo que o ato passe a ser de outra categoria.</li>
+<li><b>Retificação</b>: correção de erro material.</li>
+</ul>
+<p class="pequeno" style="margin-bottom:0">Item CEBRASPE dado como <b>CERTO</b>: concedidas férias e licença em ato único, novo ato que <i>ratifica as férias e retira a licença indevida</i> configura convalidação por <b>reforma</b>.</p>
+</div>
+
+<div class="box alerta">
+<h5>Pegadinhas de convalidação</h5>
+<ul style="margin-bottom:0">
+<li>“Os atos que apresentarem defeitos sanáveis poderão ser convalidados, <b>ainda que acarretem lesão ao interesse público ou prejuízo a terceiro</b>.” → <b>ERRADO</b> <span class="pequeno">(IDECAN, UERN 2024)</span></li>
+<li>“Atos administrativos com <b>vício de finalidade</b>, desde que demonstrada posterior adequação ao interesse público, [são convalidáveis].” → <b>ERRADO</b> <span class="pequeno">(IDECAN, PROCON/RJ 2026)</span></li>
+<li>“Atos portadores de vício de competência <b>em razão da matéria</b>, por se tratar de irregularidade meramente formal.” → <b>ERRADO</b> <span class="pequeno">(IDECAN, PROCON/RJ 2026)</span></li>
+<li>“Nem todo vício pode ser convalidado, podendo ocorrer a convalidação nos casos de vício de <b>competência e de forma</b>.” → <b>CERTO</b> <span class="pequeno">(CEBRASPE, STM 2025)</span></li>
+</ul>
+</div>
+
+<h3>3.7 Discricionariedade e controle judicial</h3>
+
+<table>
+<tr><th style="width:50%">O Judiciário PODE</th><th>O Judiciário NÃO PODE</th></tr>
+<tr><td>
+<ul style="margin:0">
+<li>Anular ato ilegal — <b>de qualquer natureza</b>, vinculado ou discricionário;</li>
+<li>Controlar a <b>legalidade em sentido amplo</b> (juridicidade): competência, finalidade, forma, existência/veracidade do motivo;</li>
+<li>Invalidar por <b>razoabilidade/proporcionalidade</b>, por desvio de finalidade e pela teoria dos motivos determinantes;</li>
+<li>Determinar a observância de <b>políticas públicas</b> constitucionalmente impostas, em caso de omissão.</li>
+</ul></td>
+<td>
+<ul style="margin:0">
+<li><b>Revogar</b> ato administrativo (revogação é privativa da Administração);</li>
+<li>Substituir o juízo de <b>conveniência e oportunidade</b> por outro;</li>
+<li>Valorar o <b>mérito</b> legítimo do ato.</li>
+</ul></td>
+</tr>
+</table>
+
+<div class="box alerta">
+<h5>Dois itens espelhados — memorize os dois</h5>
+<ul style="margin-bottom:0">
+<li><b>CEBRASPE (TRT-10 2025, item 28):</b> “Os atos discricionários, em razão de sua natureza, <b>não são passíveis de controle pelo Poder Judiciário</b>.” → <b>ERRADO</b>.</li>
+<li><b>CEBRASPE (Câmara 2026, item 53):</b> “Os atos vinculados e discricionários distinguem-se quanto à margem de liberdade na apreciação do <b>motivo e do objeto</b>, sendo <b>ambos igualmente submetidos ao controle de legalidade</b> pelo Judiciário.” → <b>CERTO</b>.</li>
+<li><b>IDECAN (PROCON/RJ 2026, Q39):</b> decisão que se recusa a examinar a legalidade do ato invocando separação de poderes está <b>incorreta</b>, “pois o Poder Judiciário <b>pode anular</b> ato administrativo eivado de ilegalidade” (gabarito D). Cuidado com o distrator que diz “pode <b>revogar</b>” — Judiciário não revoga.</li>
+</ul>
+</div>
+
+<h3>3.8 Silêncio administrativo</h3>
+<ul>
+<li>É <b>fato administrativo</b>, não ato: a inércia, por si só, não manifesta vontade.</li>
+<li>Só produz efeito jurídico (deferimento ou indeferimento tácito) quando a <b>lei</b> atribuir esse efeito.</li>
+<li>Sem previsão legal, cabe ao interessado provocar o Judiciário — que pode fixar prazo para decidir; se o ato for <b>vinculado</b>, o juiz pode determinar a prática do ato; se <b>discricionário</b>, só pode ordenar que a Administração se manifeste.</li>
+<li>Lei 9.784, art. 49: concluída a instrução, a Administração tem <b>30 dias</b> para decidir, prorrogáveis por igual período mediante motivação.</li>
+</ul>
+
+<h3>3.9 Questões reais comentadas — Tópico 3</h3>
+
+<div class="q">
+<span class="cab ide">IDECAN · PROCON/RJ · Analista · 2026 · Q46</span>
+<div class="enun">Considerando a teoria das invalidades no Direito Administrativo, assinale a alternativa que indica hipótese juridicamente passível de convalidação.</div>
+<ol class="alts" type="A">
+<li>Atos administrativos eivados de vício de competência relativa (<i>ratione personae</i>), desde que não se trate de competência exclusiva nem haja vedação legal à delegação.</li>
+<li>Atos inexistentes ou nulos de pleno direito, ainda que presentes boa-fé e ausência de prejuízo ao erário.</li>
+<li>Atos portadores de vício de competência em razão da matéria, por se tratar de irregularidade meramente formal.</li>
+<li>Atos administrativos com vício de finalidade, desde que demonstrada posterior adequação ao interesse público.</li>
+<li>Atos com vício de forma essencial, ainda que a formalidade seja elemento indispensável à validade.</li>
+</ol>
+<div class="gab"><b>Resposta: A.</b> É a aplicação exata do binômio “competência quanto à pessoa (não exclusiva) + forma não essencial”. Repare como a banca constrói cada distrator negando <b>uma</b> das condições do art. 55.</div>
+</div>
+
+<div class="q">
+<span class="cab ide">IDECAN · UERN · 2024 · Q12</span>
+<div class="enun">Conforme a Lei nº 9.784/99 acerca da anulação, revogação e convalidação dos atos administrativos, assinale a alternativa correta.</div>
+<ol class="alts" type="A">
+<li>Considera-se exercício do direito de anular qualquer medida de autoridade administrativa que importe impugnação à validade do ato.</li>
+<li>A Administração deve anular seus atos ilegais, mas não pode revogá-los por conveniência ou oportunidade.</li>
+<li>O direito de anular atos favoráveis aos destinatários decai em <b>três</b> anos.</li>
+<li>Atos com defeitos sanáveis poderão ser convalidados ainda que acarretem lesão ao interesse público.</li>
+<li>Os atos administrativos prescindem de motivação quando importem anulação, revogação, suspensão ou convalidação.</li>
+</ol>
+<div class="gab"><b>Gabarito oficial: A</b> (art. 54, §2º). (C) é <b>cinco</b> anos; (E) inverte o art. 50, IV — nessas hipóteses a motivação é <b>obrigatória</b>. Padrão IDECAN: quatro distratores construídos por <b>troca de número</b> ou <b>inversão de dever/faculdade</b>.</div>
+</div>
+
+<div class="q">
+<span class="cab ceb">CEBRASPE · SEFAZ/SE · Auditor Fiscal Tributário · 2025 · Q48</span>
+<div class="enun">Assinale a opção correta a respeito dos atos administrativos.</div>
+<ol class="alts" type="A">
+<li>Reforma é o ato pelo qual o órgão competente sana ato inválido, suprindo a ilegalidade que o viciava.</li>
+<li>A exequibilidade caracteriza-se como a situação jurídica que resulta da conformidade do ato com a lei.</li>
+<li>Atos compostos são os que exigem a intervenção de agentes ou órgãos diversos, tendo a vontade final certa autonomia ou conteúdo próprio.</li>
+<li>O ato de aprovação é a manifestação prévia e vinculada do administrador a respeito de outro ato.</li>
+<li>O ato de delegação não exclui a competência da autoridade delegante, que permanece competente cumulativamente com a delegada.</li>
+</ol>
+<div class="gab"><b>Gabarito oficial: E.</b> (A) confunde reforma com ratificação; (B) descreve <b>validade</b>, não exequibilidade; (C) descreve o ato <b>complexo</b>; (D) a aprovação é, em regra, <b>posterior e discricionária</b>. Esta é a questão-modelo do CEBRASPE em prova de fisco: <b>uma</b> alternativa literal da Lei 9.784 cercada de definições doutrinárias deslocadas.</div>
+</div>
+
+<div class="q">
+<span class="cab ceb">CEBRASPE · SEFAZ/SE · 2025 · Q47</span>
+<div class="enun">No que se refere aos poderes da administração pública, julgue: <b>I.</b> Configura-se excesso de poder quando o agente atua dentro da sua esfera de competência, mas com fim diverso do interesse público. <b>II.</b> O poder regulamentar é de natureza derivada e formalizado por meio de decretos e regulamentos. <b>III.</b> A autoexecutoriedade é a característica do poder de polícia pela qual a Administração pode usar a força para vencer resistência.</div>
+<div class="gab"><b>Gabarito oficial: B (apenas o item II).</b> I descreve <b>desvio</b> de poder (excesso é atuar <i>além</i> da competência); III descreve <b>coercibilidade</b>. Guarde o par: <b>excesso = limites da competência; desvio = finalidade</b>.</div>
+</div>
+
+<div class="q">
+<span class="cab ide">IDECAN · PROCON/RJ · Advogado · 2026 · Q38</span>
+<div class="enun">Menores de dezoito anos são legalmente proibidos de dirigir. A autoridade de trânsito emite autorizações para que menores dirijam, desde que haja consentimento dos responsáveis. Marque a afirmativa que corresponde ao elemento do ato administrativo viciado: (A) Objeto (B) Finalidade (C) Competência (D) Forma (E) Motivo.</div>
+<div class="gab"><b>Gabarito oficial: A — Objeto.</b> O conteúdo do ato (permitir que menor dirija) é <b>juridicamente impossível/ilícito</b>. Método: pergunte-se “<i>o que o ato dispõe</i> é possível e lícito?” — se não, o vício é de objeto. Se o problema fosse <i>quem</i> praticou, seria competência; se fosse o <i>porquê</i>, motivo; se fosse o <i>para quê</i>, finalidade.</div>
+</div>
+
+<div class="q">
+<span class="cab ceb">CEBRASPE · EMBRAPA · 2025 · Item 43</span>
+<div class="enun">A decadência administrativa pode ser considerada uma espécie de convalidação involuntária do ato administrativo defeituoso, em razão do decurso do tempo.</div>
+<div class="gab"><b>Gabarito oficial: CERTO.</b> Decorrido o quinquênio do art. 54 sem má-fé, o ato viciado <b>estabiliza-se</b>. Doutrina chama de convalidação tácita ou involuntária. Alternativa espelhada que negue a estabilização será falsa.</div>
+</div>
+
+<div class="q">
+<span class="cab fcc">FCC · SEFAZ/BA · Auditor Fiscal · 2019 · Q19</span>
+<div class="enun">Acerca da motivação dos atos administrativos, é correto afirmar: (A) A motivação é princípio implícito, pois não consta do rol de princípios da lei. (B) A perfeição dos atos colegiados depende de motivação individualizada. (C) A lei admite a chamada motivação <i>aliunde</i> ou <i>per relationem</i>. (D) […] prazo improrrogável de trinta dias. (E) A avocação independe de motivação.</div>
+<div class="gab"><b>Resposta: C.</b> A motivação por remissão a pareceres/informações anteriores é expressamente admitida (Lei 9.784, art. 50, §1º, e leis estaduais correspondentes). (D) erra ao dizer “improrrogável” — o prazo de 30 dias é <b>prorrogável</b> por igual período, mediante motivação (art. 49).</div>
+</div>
+
+<!-- ============================ SÍNTESE ============================ -->
+<h2 class="parte">Parte 4 · Síntese operacional para a véspera</h2>
+
+<h3>4.1 As 20 frases que valem ponto</h3>
+<ol>
+<li>Desconcentração = <b>uma</b> pessoa jurídica + hierarquia. Descentralização = <b>duas ou mais</b> pessoas + controle finalístico.</li>
+<li>Autarquia é <b>criada</b> por lei; EP e SEM têm criação <b>autorizada</b> por lei e nascem com o <b>registro</b>.</li>
+<li>Criação e extinção seguem o <b>mesmo instrumento</b> (paridade/paralelismo das formas).</li>
+<li>Empresa pública: capital 100% público, <b>qualquer</b> forma societária, Justiça <b>Federal</b>. SEM: capital misto, <b>S.A.</b>, Justiça <b>Estadual</b>.</li>
+<li>Estatal prestadora de serviço público essencial em regime não concorrencial → <b>precatório</b> e imunidade recíproca.</li>
+<li>EP e SEM <b>não</b> se sujeitam a falência nem a recuperação judicial.</li>
+<li>OS, OSCIP e Sistema S <b>não</b> integram a Administração indireta (são paraestatais / terceiro setor).</li>
+<li>Órgão <b>não</b> tem personalidade jurídica; a vontade do agente é <b>imputada</b> à pessoa jurídica (teoria do órgão).</li>
+<li>Decreto autônomo <b>não</b> cria nem extingue órgão.</li>
+<li>Impessoalidade tem <b>duas</b> acepções: finalidade/isonomia e imputação ao órgão.</li>
+<li>Eficiência entrou com a <b>EC 19/1998</b> (administração gerencial).</li>
+<li>Publicidade é requisito de <b>eficácia</b>, não de validade.</li>
+<li>Improbidade por violação a princípios <b>independe</b> de dano ao erário e de enriquecimento ilícito.</li>
+<li>Autotutela permite anular <b>de ofício</b>, mas exige <b>motivação e contraditório</b> quando atinge direitos individuais.</li>
+<li>Competência, finalidade e forma são <b>sempre vinculados</b>; mérito está no motivo e no objeto.</li>
+<li>Delegação: revogável a qualquer tempo, publicada, decisão imputada ao <b>delegado</b>, delegante permanece competente. Indelegável: <b>normativo, recurso, exclusiva</b>.</li>
+<li>Autoexecutoriedade depende de <b>lei ou urgência</b>; imperatividade não alcança atos negociais e enunciativos.</li>
+<li>Convalida-se <b>forma não essencial</b> e <b>competência quanto à pessoa</b> (não exclusiva); efeitos <b>ex tunc</b>.</li>
+<li>Anulação = ex tunc, por ilegalidade, Administração <b>e</b> Judiciário. Revogação = ex nunc, por mérito, <b>só</b> a Administração.</li>
+<li>Prazo decadencial de <b>5 anos</b> (art. 54), salvo má-fé; efeitos patrimoniais contínuos contam do <b>primeiro pagamento</b>.</li>
+</ol>
+
+<h3>4.2 Radar de advérbios — as palavras que denunciam o erro</h3>
+
+<table>
+<tr><th style="width:30%">Palavra no item</th><th>Reação imediata</th></tr>
+<tr><td class="rot">“independentemente de previsão legal”</td><td>Suspeite: autoexecutoriedade, poder de polícia delegado e tutela dependem de lei.</td></tr>
+<tr><td class="rot">“sempre”, “nunca”, “em qualquer hipótese”</td><td>O Direito Administrativo é feito de exceções; itens absolutos costumam ser falsos.</td></tr>
+<tr><td class="rot">“não havendo necessidade de motivação”</td><td>Confira o art. 50 da Lei 9.784 — quase sempre a motivação é devida.</td></tr>
+<tr><td class="rot">“somente”, “exclusivamente”</td><td>Verifique se a banca está fechando um rol que a lei deixa aberto.</td></tr>
+<tr><td class="rot">“prescinde de” / “dispensa”</td><td>Leia como “não precisa de”. É a troca semântica que mais derruba candidato.</td></tr>
+<tr><td class="rot">“revogar ato ilegal”</td><td>Erro clássico: ato ilegal se <b>anula</b>; revoga-se ato <b>válido</b> e inconveniente.</td></tr>
+<tr><td class="rot">“Judiciário pode revogar”</td><td>Sempre falso.</td></tr>
+<tr><td class="rot">“ambas pressupõem pessoas jurídicas diversas”</td><td>Marca registrada da FCC para errar a desconcentração.</td></tr>
+</table>
+
+<h3>4.3 Método de resolução em 4 passos</h3>
+<ol>
+<li><b>Identifique o instituto</b> pelo vocabulário do enunciado (“preenchidos os requisitos” → vinculado; “conveniência e oportunidade” → discricionário; “decurso do tempo” → decadência/caducidade).</li>
+<li><b>Localize o par confusível</b>: quase toda questão difícil vive de um par (desconcentração/descentralização; anulação/revogação; excesso/desvio; licença/autorização; complexo/composto; cassação/caducidade).</li>
+<li><b>Teste os absolutos</b>: passe o radar de advérbios da tabela acima.</li>
+<li><b>Confira a literalidade</b>: se o enunciado cita lei (9.784, 14.133, 13.303, 8.429), a resposta tende a ser a alternativa que reproduz o dispositivo, não a que “faz mais sentido”.</li>
+</ol>
+
+<div class="rodape-doc">
+<b>Nota metodológica.</b> Este material foi elaborado a partir da leitura direta de cadernos oficiais de prova e dos respectivos gabaritos
+publicados pelas bancas (IDECAN, FCC e CEBRASPE), em concursos de nível superior, com recorte para os três primeiros tópicos de
+Direito Administrativo do Edital nº 01/2026 da Prefeitura Municipal de Campina Grande/PB. Provas utilizadas incluem, entre outras:
+IDECAN — PROCON/RJ 2026 (Advogado e Analista), PC/SC 2026, ADAGRI/CE 2025, SESAP/RN 2025, EMPARN 2025, ALEPI 2024, UERN 2024, IF/CE 2021;
+FCC — SEFAZ/SP 2026, SEFAZ/PI 2025, TRT-1ª e TRT-15ª 2025, DPE/SP 2025, MPE/PB e MPE/AM 2024, TRF-3ª 2024, TRT-15ª 2023, SEFAZ/PE 2022,
+TRT-23ª 2022, TJ/SC 2021, SEFAZ/BA 2019; CEBRASPE — Câmara dos Deputados 2026, SEFAZ/SE 2025, SEFAZ/RJ 2025, STM 2025, TJ/PA 2025,
+TRT-10ª 2025, IBAMA 2025, EMBRAPA 2025, ANM 2025, PF 2025, PC/DF 2025, SEFAZ/AC 2024, SEPLAG/CE 2024, AGU 2023, SEFAZ/DF 2020.
+Onde o gabarito oficial divergiu da doutrina majoritária ou a questão foi anulada, o fato está assinalado no comentário.
+</div>
+
+</body>
+</html>
