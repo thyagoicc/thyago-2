@@ -212,12 +212,12 @@
     "alternativas": [
       { "letra": "A", "texto": "A contratação pode abranger a integralidade da obra, ainda que sua conclusão demande prazo superior a um ano, admitida a prorrogação do contrato." },
       { "letra": "B", "texto": "A contratação limita-se à aquisição dos bens necessários ao atendimento da situação emergencial ou calamitosa e às parcelas de obras e serviços que possam ser concluídas no prazo máximo de 1 ano, contado da data de ocorrência da emergência ou da calamidade, vedadas a prorrogação dos respectivos contratos e a recontratação de empresa já contratada com base nesse inciso." },
-      { "letra": "C", "texto": "A emergência decorrente de desídia administrativa ou de falta de planejamento autoriza igualmente a contratação direta, por se tratar de situação fática de urgência." },
+      { "letra": "C", "texto": "A contratação emergencial dispensa a observância dos valores praticados pelo mercado e a adoção de providências para a conclusão do processo licitatório, dada a urgência da situação." },
       { "letra": "D", "texto": "A contratação emergencial constitui hipótese de inexigibilidade de licitação, por inviabilidade de competição." },
       { "letra": "E", "texto": "O prazo máximo de conclusão das parcelas de obras e serviços é de 180 dias, contados da assinatura do contrato." }
     ],
     "gabarito": "B",
-    "comentario": "A alternativa B reproduz o art. 75, VIII, da Lei nº 14.133/2021. A alternativa A contraria a vedação expressa de prorrogação e o limite temporal de um ano. A alternativa C contraria o art. 75, § 6º, segundo o qual a emergência decorrente de falta de planejamento, desídia ou má gestão não afasta a responsabilização do agente público, embora não impeça, por si só, a contratação; a assertiva, todavia, apresenta a desídia como fundamento autorizador da contratação, o que inverte a lógica do dispositivo e da doutrina, que exige emergência não provocada. A alternativa D confunde os institutos: trata-se de dispensa, e não de inexigibilidade. A alternativa E altera o prazo e o termo inicial fixados em lei.",
+    "comentario": "A alternativa B reproduz o art. 75, VIII, da Lei nº 14.133/2021. A alternativa A contraria a vedação expressa de prorrogação e o limite temporal de um ano. A alternativa C contraria o art. 75, § 6º, segundo o qual, na contratação emergencial, devem ser observados os valores praticados pelo mercado, na forma do art. 23, e adotadas as providências necessárias à conclusão do processo licitatório, sem prejuízo da apuração de responsabilidade dos agentes públicos que tenham dado causa à situação emergencial. A alternativa D confunde os institutos: trata-se de dispensa, e não de inexigibilidade. A alternativa E altera o prazo e o termo inicial fixados em lei.",
     "fundamentacaoLegal": "Lei nº 14.133/2021, art. 75, VIII e § 6º."
   },
   {
