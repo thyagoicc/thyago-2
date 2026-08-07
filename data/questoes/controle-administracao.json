@@ -1,0 +1,962 @@
+[
+  {
+    "id": "controle-administracao-01",
+    "topicoId": "controle-administracao",
+    "topico": "Controle da Administração Pública",
+    "dificuldade": "media",
+    "enunciado": "Sobre a classificação do controle da Administração Pública adotada pela doutrina administrativista, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Quanto ao momento de exercício, o controle concomitante é aquele realizado após a conclusão do ato, com a finalidade de corrigir eventuais ilegalidades."
+      },
+      {
+        "letra": "B",
+        "texto": "Quanto à extensão, o controle de legalidade é sinônimo de controle de mérito, pois ambos analisam a conveniência e a oportunidade do ato administrativo."
+      },
+      {
+        "letra": "C",
+        "texto": "Quanto ao órgão que o exerce, o controle é interno quando realizado por órgão integrante da própria estrutura em que se insere o órgão controlado, e externo quando exercido por Poder ou órgão estranho àquela estrutura."
+      },
+      {
+        "letra": "D",
+        "texto": "O controle exercido pelo Tribunal de Contas sobre os atos do Poder Executivo é classificado como controle interno, dado o auxílio prestado ao Poder Legislativo."
+      },
+      {
+        "letra": "E",
+        "texto": "O controle prévio é sempre vedado no direito brasileiro, por caracterizar indevida ingerência de um Poder sobre outro."
+      }
+    ],
+    "gabarito": "C",
+    "comentario": "A alternativa C traduz corretamente o critério do órgão controlador. A alternativa A confunde o controle concomitante, exercido durante a prática do ato ou execução da atividade, com o controle posterior ou subsequente. A alternativa B equipara indevidamente controle de legalidade e controle de mérito, sendo o primeiro relativo à conformidade com a norma e o segundo à conveniência e oportunidade. A alternativa D erra na classificação, pois o controle exercido pelos Tribunais de Contas é típico controle externo, ainda que atue como órgão auxiliar do Legislativo. A alternativa E veda em absoluto o controle prévio, que é expressamente admitido em diversas hipóteses, como a autorização legislativa prévia para determinados atos do Executivo.",
+    "fundamentacaoLegal": "CF/88, arts. 70, 71 e 74; doutrina de Maria Sylvia Zanella Di Pietro e José dos Santos Carvalho Filho."
+  },
+  {
+    "id": "controle-administracao-02",
+    "topicoId": "controle-administracao",
+    "topico": "Controle da Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "Servidor integrante do órgão de controle interno da Prefeitura de Campina Grande/PB toma conhecimento de graves irregularidades na execução de contrato administrativo e deixa de comunicar o fato ao Tribunal de Contas competente. Considerando a disciplina constitucional do sistema de controle interno, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os responsáveis pelo controle interno, ao tomarem conhecimento de qualquer irregularidade ou ilegalidade, dela darão ciência ao Tribunal de Contas, sob pena de responsabilidade solidária."
+      },
+      {
+        "letra": "B",
+        "texto": "A comunicação ao Tribunal de Contas é facultativa, bastando ao servidor registrar a ocorrência em relatório interno encaminhado ao chefe do Poder Executivo."
+      },
+      {
+        "letra": "C",
+        "texto": "O sistema de controle interno é mantido apenas pelo Poder Executivo, não alcançando os demais Poderes."
+      },
+      {
+        "letra": "D",
+        "texto": "A omissão do servidor gera responsabilidade subsidiária, exigível apenas após o exaurimento do patrimônio do gestor que praticou a irregularidade."
+      },
+      {
+        "letra": "E",
+        "texto": "Somente o titular do órgão de controle interno responde pela omissão, ficando excluídos os demais servidores que dela tiveram ciência."
+      }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A reproduz o art. 74, § 1º, da CF/88, aplicável aos Municípios por simetria. A alternativa B transforma em faculdade um dever constitucional expresso. A alternativa C contraria o caput do art. 74, segundo o qual os Poderes Legislativo, Executivo e Judiciário manterão, de forma integrada, sistema de controle interno. A alternativa D substitui a responsabilidade solidária, expressamente prevista no texto constitucional, por responsabilidade subsidiária. A alternativa E restringe a responsabilidade ao titular do órgão, quando o dispositivo alcança os responsáveis pelo controle interno que tomarem conhecimento da irregularidade.",
+    "fundamentacaoLegal": "CF/88, art. 74, caput e § 1º; art. 75."
+  },
+  {
+    "id": "controle-administracao-03",
+    "topicoId": "controle-administracao",
+    "topico": "Controle da Administração Pública",
+    "dificuldade": "media",
+    "enunciado": "Com base no art. 70 da Constituição Federal, sobre a fiscalização contábil, financeira e orçamentária, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A fiscalização compreende exclusivamente os aspectos contábil e orçamentário, não abrangendo a análise operacional e patrimonial."
+      },
+      {
+        "letra": "B",
+        "texto": "A fiscalização limita-se ao controle de legalidade, sendo vedado ao órgão de controle examinar a economicidade dos atos de gestão, por integrar o mérito administrativo."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente as pessoas físicas e as entidades da administração direta sujeitam-se ao dever de prestar contas, ficando dele excluídas as entidades da administração indireta."
+      },
+      {
+        "letra": "D",
+        "texto": "A prestação de contas é exigível apenas quando houver dano ao erário previamente apurado em tomada de contas especial."
+      },
+      {
+        "letra": "E",
+        "texto": "A fiscalização contábil, financeira, orçamentária, operacional e patrimonial quanto à legalidade, legitimidade e economicidade será exercida pelo Congresso Nacional, mediante controle externo, e pelo sistema de controle interno de cada Poder, prestando contas qualquer pessoa física ou jurídica, pública ou privada, que utilize, arrecade, guarde, gerencie ou administre dinheiros, bens e valores públicos."
+      }
+    ],
+    "gabarito": "E",
+    "comentario": "A alternativa E reúne o caput e o parágrafo único do art. 70 da CF/88. A alternativa A restringe indevidamente o objeto da fiscalização, que abrange também os aspectos operacional e patrimonial. A alternativa B exclui o exame da economicidade, expressamente previsto no caput. A alternativa C exclui a administração indireta e as pessoas privadas, contrariando o parágrafo único, que alcança qualquer pessoa física ou jurídica, pública ou privada, que utilize, arrecade, guarde, gerencie ou administre bens e valores públicos. A alternativa D condiciona a prestação de contas à existência prévia de dano, invertendo a lógica do dever constitucional de prestar contas.",
+    "fundamentacaoLegal": "CF/88, art. 70, caput e parágrafo único."
+  },
+  {
+    "id": "controle-administracao-04",
+    "topicoId": "controle-administracao",
+    "topico": "Controle da Administração Pública",
+    "dificuldade": "media",
+    "enunciado": "Sobre as competências constitucionais do Tribunal de Contas da União, previstas no art. 71 da CF/88 e aplicáveis aos Tribunais de Contas dos Estados e Municípios por força do art. 75, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Compete ao Tribunal de Contas julgar as contas prestadas anualmente pelo Chefe do Poder Executivo, mediante decisão definitiva de mérito."
+      },
+      {
+        "letra": "B",
+        "texto": "Compete ao Tribunal de Contas apreciar as contas prestadas anualmente pelo Chefe do Poder Executivo mediante parecer prévio, e julgar as contas dos demais administradores e responsáveis por dinheiros, bens e valores públicos."
+      },
+      {
+        "letra": "C",
+        "texto": "Compete ao Tribunal de Contas apreciar, para fins de registro, a legalidade de todos os atos de admissão de pessoal, inclusive as nomeações para cargo de provimento em comissão."
+      },
+      {
+        "letra": "D",
+        "texto": "Compete ao Tribunal de Contas sustar diretamente a execução de contratos administrativos irregulares, independentemente de manifestação do Poder Legislativo."
+      },
+      {
+        "letra": "E",
+        "texto": "As decisões do Tribunal de Contas que imputem débito ou multa dependem de homologação judicial para adquirir exequibilidade."
+      }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B distingue corretamente as competências dos incisos I e II do art. 71: apreciação mediante parecer prévio quanto às contas do Chefe do Executivo e julgamento quanto às contas dos demais administradores. A alternativa A atribui ao Tribunal o julgamento das contas do Chefe do Executivo, competência do Poder Legislativo. A alternativa C ignora a ressalva expressa do inciso III, que excetua as nomeações para cargo de provimento em comissão. A alternativa D contraria o art. 71, § 1º, segundo o qual, no caso de contrato, o ato de sustação é adotado diretamente pelo Poder Legislativo. A alternativa E contraria o art. 71, § 3º, que confere às decisões que imputem débito ou multa eficácia de título executivo.",
+    "fundamentacaoLegal": "CF/88, art. 71, I, II, III, § 1º e § 3º; art. 75."
+  },
+  {
+    "id": "controle-administracao-05",
+    "topicoId": "controle-administracao",
+    "topico": "Controle da Administração Pública",
+    "dificuldade": "media",
+    "enunciado": "A respeito do controle interno exercido pela própria Administração sobre seus atos, à luz da Súmula 473 do Supremo Tribunal Federal, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a Administração somente pode anular seus atos ilegais mediante prévia autorização judicial."
+      },
+      {
+        "letra": "B",
+        "texto": "a revogação de ato administrativo por motivo de conveniência e oportunidade opera efeitos retroativos, desconstituindo os direitos já adquiridos."
+      },
+      {
+        "letra": "C",
+        "texto": "o exercício da autotutela afasta a apreciação judicial do ato, em razão da definitividade da decisão administrativa."
+      },
+      {
+        "letra": "D",
+        "texto": "a Administração pode revogar atos eivados de vícios que os tornam ilegais e anular atos válidos por razões de conveniência e oportunidade."
+      },
+      {
+        "letra": "E",
+        "texto": "a Administração pode anular seus próprios atos quando eivados de vícios que os tornam ilegais, porque deles não se originam direitos, ou revogá-los por motivo de conveniência ou oportunidade, respeitados os direitos adquiridos e ressalvada, em todos os casos, a apreciação judicial."
+      }
+    ],
+    "gabarito": "E",
+    "comentario": "A alternativa E reproduz a Súmula 473 do STF. A alternativa A condiciona a anulação à autorização judicial, negando a autotutela administrativa. A alternativa B atribui efeitos retroativos à revogação, que opera efeitos ex nunc e deve respeitar os direitos adquiridos. A alternativa C afasta a apreciação judicial, expressamente ressalvada pela súmula e pelo art. 5º, XXXV, da CF/88. A alternativa D inverte os institutos: anula-se o ato ilegal e revoga-se o ato válido inconveniente ou inoportuno.",
+    "fundamentacaoLegal": "Súmulas 346 e 473 do STF; CF/88, art. 5º, XXXV; Lei nº 9.784/1999, art. 53."
+  },
+  {
+    "id": "controle-administracao-06",
+    "topicoId": "controle-administracao",
+    "topico": "Controle da Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "Processo de concessão inicial de aposentadoria de servidor municipal chega ao Tribunal de Contas competente em janeiro de 2018, permanecendo sem julgamento até 2026, quando a Corte pretende negar-lhe registro. Considerando a jurisprudência do Supremo Tribunal Federal em repercussão geral, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Em atenção aos princípios da segurança jurídica e da confiança legítima, os Tribunais de Contas estão sujeitos ao prazo de cinco anos para o julgamento da legalidade do ato de concessão inicial de aposentadoria, reforma ou pensão, a contar da chegada do processo à respectiva Corte de Contas."
+      },
+      {
+        "letra": "B",
+        "texto": "Não há prazo para a apreciação do ato, pois o registro é condição de perfeição do ato complexo, que somente se aperfeiçoa com a manifestação do Tribunal de Contas, sem limitação temporal."
+      },
+      {
+        "letra": "C",
+        "texto": "O prazo é de dois anos, contados da publicação do ato concessório no diário oficial do Município."
+      },
+      {
+        "letra": "D",
+        "texto": "O prazo é de dez anos, por aplicação analógica do art. 205 do Código Civil às pretensões de controle externo."
+      },
+      {
+        "letra": "E",
+        "texto": "O prazo é de cinco anos, contados da data em que o servidor completou os requisitos para a aposentadoria, independentemente da tramitação administrativa."
+      }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A reproduz a tese do Tema 445 do STF (RE 636.553), que fixou o prazo quinquenal contado da chegada do processo à Corte de Contas. A alternativa B repete o entendimento anterior de ausência de prazo, superado pela nova tese. As alternativas C e D indicam prazos sem qualquer respaldo na tese fixada ou na legislação de regência. A alternativa E acerta o prazo, mas erra o termo inicial, que não é a data do implemento dos requisitos, e sim a chegada do processo ao Tribunal de Contas.",
+    "fundamentacaoLegal": "CF/88, art. 71, III; STF, RE 636.553/RS, Tema 445 de repercussão geral."
+  },
+  {
+    "id": "controle-administracao-07",
+    "topicoId": "controle-administracao",
+    "topico": "Controle da Administração Pública",
+    "dificuldade": "media",
+    "enunciado": "Tribunal de Contas condena ex-gestor municipal ao ressarcimento de valores e ao pagamento de multa. Sobre a eficácia e a execução dessa decisão, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A decisão possui natureza meramente opinativa, dependendo de ação judicial de conhecimento para constituição do crédito."
+      },
+      {
+        "letra": "B",
+        "texto": "A decisão pode ser executada pelo próprio Tribunal de Contas, que detém competência para promover a respectiva execução judicial."
+      },
+      {
+        "letra": "C",
+        "texto": "As decisões do Tribunal de que resulte imputação de débito ou multa terão eficácia de título executivo, cabendo a execução ao ente público beneficiário do crédito, por meio de seu órgão de representação judicial."
+      },
+      {
+        "letra": "D",
+        "texto": "A decisão somente adquire exequibilidade após homologação pelo Poder Legislativo respectivo."
+      },
+      {
+        "letra": "E",
+        "texto": "A imputação de débito pelo Tribunal de Contas gera título executivo judicial, dispensando processo de execução."
+      }
+    ],
+    "gabarito": "C",
+    "comentario": "A alternativa C combina o art. 71, § 3º, da CF/88 com o entendimento do STF de que os Tribunais de Contas não possuem legitimidade para executar suas próprias decisões, cabendo a execução ao ente público credor. A alternativa A nega eficácia executiva expressamente conferida pela Constituição. A alternativa B atribui ao Tribunal legitimidade executiva que a jurisprudência lhe nega. A alternativa D condiciona a exequibilidade a homologação legislativa, requisito inexistente. A alternativa E qualifica o título como judicial, quando se trata de título executivo extrajudicial, sujeito a regular processo de execução.",
+    "fundamentacaoLegal": "CF/88, art. 71, § 3º; CPC, art. 784, XII; jurisprudência do STF sobre legitimidade executiva do ente público credor."
+  },
+  {
+    "id": "controle-administracao-08",
+    "topicoId": "controle-administracao",
+    "topico": "Controle da Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "Verificada ilegalidade em contrato administrativo firmado por órgão da Administração, o Tribunal de Contas pretende determinar a paralisação de sua execução. Sobre o procedimento constitucional aplicável, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O Tribunal de Contas susta imediatamente a execução do contrato, comunicando a decisão ao Poder Legislativo apenas para conhecimento."
+      },
+      {
+        "letra": "B",
+        "texto": "O Tribunal de Contas encaminha a matéria ao Ministério Público, único legitimado a promover a sustação de contratos administrativos."
+      },
+      {
+        "letra": "C",
+        "texto": "A sustação de contrato somente pode ser determinada pelo Poder Judiciário, em ação civil pública proposta para esse fim."
+      },
+      {
+        "letra": "D",
+        "texto": "O Tribunal assinará prazo para que o órgão adote as providências necessárias ao exato cumprimento da lei; no caso de contrato, o ato de sustação será adotado diretamente pelo Poder Legislativo, que solicitará de imediato ao Executivo as medidas cabíveis, e, se em noventa dias essas medidas não forem efetivadas, o Tribunal decidirá a respeito."
+      },
+      {
+        "letra": "E",
+        "texto": "A sustação de contrato pelo Poder Legislativo independe de qualquer manifestação anterior do Tribunal de Contas e não se sujeita a prazo."
+      }
+    ],
+    "gabarito": "D",
+    "comentario": "A alternativa D reproduz a sistemática dos incisos IX e X e dos §§ 1º e 2º do art. 71 da CF/88: a sustação direta pelo Tribunal alcança atos, ao passo que, em relação a contratos, a competência é do Legislativo, devolvendo-se ao Tribunal a decisão se as medidas não forem efetivadas em noventa dias. A alternativa A generaliza a sustação de atos para contratos. A alternativa B atribui competência exclusiva ao Ministério Público, órgão que não detém poder de sustação. A alternativa C exclui a via do controle externo administrativo. A alternativa E dispensa a atuação prévia do Tribunal e ignora o prazo constitucional de noventa dias.",
+    "fundamentacaoLegal": "CF/88, art. 71, IX e X, e §§ 1º e 2º."
+  },
+  {
+    "id": "controle-administracao-09",
+    "topicoId": "controle-administracao",
+    "topico": "Controle da Administração Pública",
+    "dificuldade": "media",
+    "enunciado": "Considerando a disciplina constitucional do controle externo no âmbito municipal, prevista no art. 31 da CF/88, assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A fiscalização do Município será exercida pelo Poder Legislativo Municipal, mediante controle externo, e pelos sistemas de controle interno do Poder Executivo Municipal, na forma da lei."
+      },
+      {
+        "letra": "B",
+        "texto": "É permitida a criação de novos Tribunais, Conselhos ou órgãos de Contas Municipais pelos Municípios que superarem determinado limite populacional."
+      },
+      {
+        "letra": "C",
+        "texto": "O controle externo da Câmara Municipal será exercido com o auxílio dos Tribunais de Contas dos Estados ou do Município ou dos Conselhos ou Tribunais de Contas dos Municípios, onde houver."
+      },
+      {
+        "letra": "D",
+        "texto": "O parecer prévio emitido pelo órgão competente sobre as contas que o Prefeito deve anualmente prestar só deixará de prevalecer por decisão de dois terços dos membros da Câmara Municipal."
+      },
+      {
+        "letra": "E",
+        "texto": "As contas dos Municípios ficarão, durante sessenta dias, anualmente, à disposição de qualquer contribuinte, para exame e apreciação, o qual poderá questionar-lhes a legitimidade, nos termos da lei."
+      }
+    ],
+    "gabarito": "B",
+    "comentario": "A questão pede a alternativa incorreta. A alternativa B é incorreta porque o art. 31, § 4º, da CF/88 veda expressamente a criação de Tribunais, Conselhos ou órgãos de Contas Municipais, sem qualquer ressalva populacional; os órgãos existentes antes da Constituição foram preservados. As alternativas A, C, D e E reproduzem, respectivamente, o caput e os §§ 1º, 2º e 3º do art. 31, estando corretas.",
+    "fundamentacaoLegal": "CF/88, art. 31, caput e §§ 1º, 2º, 3º e 4º."
+  },
+  {
+    "id": "controle-administracao-10",
+    "topicoId": "controle-administracao",
+    "topico": "Controle da Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "O Tribunal de Contas emite parecer prévio pela rejeição das contas anuais do Prefeito de determinado Município. A Câmara Municipal, contudo, não delibera sobre a matéria dentro da legislatura. Considerando a jurisprudência do Supremo Tribunal Federal em repercussão geral, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O parecer do Tribunal de Contas passa a produzir efeitos automáticos de julgamento após o decurso do prazo regimental, dispensando deliberação da Câmara."
+      },
+      {
+        "letra": "B",
+        "texto": "A competência para julgar as contas do Prefeito é do Tribunal de Contas quando se tratar de contas de gestão, e da Câmara Municipal apenas quando se tratar de contas de governo."
+      },
+      {
+        "letra": "C",
+        "texto": "A ausência de deliberação da Câmara implica aprovação tácita das contas, por aplicação do princípio da segurança jurídica."
+      },
+      {
+        "letra": "D",
+        "texto": "O julgamento das contas do Prefeito compete ao Tribunal de Contas, cabendo à Câmara Municipal apenas a homologação do resultado."
+      },
+      {
+        "letra": "E",
+        "texto": "Compete exclusivamente à Câmara Municipal o julgamento das contas anuais do Chefe do Poder Executivo local, tanto as de governo quanto as de gestão, com auxílio do Tribunal de Contas, cujo parecer prévio somente deixa de prevalecer por decisão de dois terços dos vereadores, sendo incabível o julgamento ficto das contas por decurso de prazo."
+      }
+    ],
+    "gabarito": "E",
+    "comentario": "A alternativa E reúne as teses dos Temas 835 (RE 848.826) e 157 (RE 729.744) do STF: a competência para o julgamento das contas do Prefeito, de governo ou de gestão, é exclusiva da Câmara Municipal, e não há julgamento ficto por decurso de prazo. A alternativa A cria eficácia automática do parecer, contrária à tese fixada. A alternativa B repete a distinção entre contas de governo e de gestão que o STF expressamente rejeitou para fins de definição da competência. A alternativa C admite aprovação tácita, hipótese afastada pelo Tema 157. A alternativa D inverte os papéis institucionais, atribuindo ao Tribunal de Contas competência de julgamento e à Câmara mera homologação.",
+    "fundamentacaoLegal": "CF/88, art. 31, §§ 1º e 2º; STF, RE 848.826 (Tema 835) e RE 729.744 (Tema 157)."
+  },
+  {
+    "id": "controle-administracao-11",
+    "topicoId": "controle-administracao",
+    "topico": "Controle da Administração Pública",
+    "dificuldade": "media",
+    "enunciado": "Sobre o mandado de segurança individual como instrumento de controle judicial da Administração Pública, nos termos da Lei nº 12.016/2009, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O direito de requerer mandado de segurança extinguir-se-á decorridos cento e vinte dias, contados da ciência, pelo interessado, do ato impugnado, tratando-se de prazo decadencial."
+      },
+      {
+        "letra": "B",
+        "texto": "O prazo para impetração é de cento e oitenta dias, contados da publicação do ato no diário oficial, e sujeita-se a interrupção pela apresentação de recurso administrativo."
+      },
+      {
+        "letra": "C",
+        "texto": "Cabe mandado de segurança contra ato do qual caiba recurso administrativo com efeito suspensivo, desde que o impetrante preste caução idônea."
+      },
+      {
+        "letra": "D",
+        "texto": "O mandado de segurança é cabível para a produção de prova, admitindo-se ampla dilação probatória na fase de instrução."
+      },
+      {
+        "letra": "E",
+        "texto": "É cabível mandado de segurança contra decisão judicial transitada em julgado, por se tratar de garantia constitucional de eficácia irrestrita."
+      }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A reproduz o art. 23 da Lei nº 12.016/2009, cujo prazo é pacificamente classificado como decadencial. A alternativa B erra no prazo, no termo inicial e ao admitir interrupção, incompatível com a decadência. A alternativa C contraria o art. 5º, I, da Lei nº 12.016/2009, que veda a impetração nesse caso, sendo expressa a ressalva de que a vedação independe de caução. A alternativa D desconsidera que o mandado de segurança exige direito líquido e certo, comprovado por prova pré-constituída, não comportando dilação probatória. A alternativa E contraria o art. 5º, III, da mesma lei.",
+    "fundamentacaoLegal": "Lei nº 12.016/2009, arts. 1º, 5º, I e III, e 23; CF/88, art. 5º, LXIX."
+  },
+  {
+    "id": "controle-administracao-12",
+    "topicoId": "controle-administracao",
+    "topico": "Controle da Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "Servidor municipal impetra mandado de segurança pretendendo o reconhecimento de gratificação suprimida há três anos, requerendo o pagamento retroativo de todas as parcelas vencidas desde a supressão. Considerando as súmulas do Supremo Tribunal Federal sobre o tema, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O mandado de segurança é a via adequada para a cobrança das parcelas pretéritas, desde que o impetrante instrua a inicial com demonstrativo de cálculo."
+      },
+      {
+        "letra": "B",
+        "texto": "As parcelas anteriores à impetração podem ser cobradas no próprio mandado de segurança, ainda que ultrapassado o prazo decadencial de cento e vinte dias."
+      },
+      {
+        "letra": "C",
+        "texto": "A concessão de mandado de segurança não produz efeitos patrimoniais em relação a período pretérito, os quais devem ser reclamados administrativamente ou pela via judicial própria, e o mandado de segurança não é substitutivo de ação de cobrança."
+      },
+      {
+        "letra": "D",
+        "texto": "O mandado de segurança é cabível como sucedâneo de ação de cobrança sempre que o crédito for de natureza alimentar."
+      },
+      {
+        "letra": "E",
+        "texto": "É cabível mandado de segurança contra a lei municipal que suprimiu a gratificação, ainda que não haja ato concreto de aplicação, por se tratar de norma de eficácia imediata."
+      }
+    ],
+    "gabarito": "C",
+    "comentario": "A alternativa C conjuga as Súmulas 271 e 269 do STF. As alternativas A, B e D admitem, por caminhos diversos, o uso do mandado de segurança como ação de cobrança de parcelas pretéritas, o que é vedado pela Súmula 269, independentemente da natureza alimentar do crédito ou da apresentação de cálculos. A alternativa E contraria a Súmula 266 do STF, que veda o mandado de segurança contra lei em tese, admitindo-se a impetração apenas contra atos concretos de aplicação, ressalvadas as leis de efeitos concretos.",
+    "fundamentacaoLegal": "Súmulas 266, 269 e 271 do STF; Lei nº 12.016/2009, arts. 1º e 23."
+  },
+  {
+    "id": "controle-administracao-13",
+    "topicoId": "controle-administracao",
+    "topico": "Controle da Administração Pública",
+    "dificuldade": "media",
+    "enunciado": "Sobre o mandado de segurança coletivo, nos termos do art. 5º, LXX, da CF/88 e do art. 21 da Lei nº 12.016/2009, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "somente partido político com representação no Congresso Nacional pode impetrá-lo, ficando excluídas as entidades sindicais."
+      },
+      {
+        "letra": "B",
+        "texto": "a associação legalmente constituída deve estar em funcionamento há pelo menos três anos, exigência insuscetível de dispensa judicial."
+      },
+      {
+        "letra": "C",
+        "texto": "a organização sindical depende de autorização expressa e individualizada de cada um dos associados para impetrar o mandado de segurança coletivo."
+      },
+      {
+        "letra": "D",
+        "texto": "podem impetrá-lo partido político com representação no Congresso Nacional, na defesa de seus interesses legítimos relativos a seus integrantes ou à finalidade partidária, e organização sindical, entidade de classe ou associação legalmente constituída e em funcionamento há pelo menos um ano, em defesa de direitos líquidos e certos da totalidade ou de parte de seus membros ou associados."
+      },
+      {
+        "letra": "E",
+        "texto": "a liminar em mandado de segurança coletivo pode ser concedida de plano, sendo vedada a oitiva prévia do representante judicial da pessoa jurídica de direito público."
+      }
+    ],
+    "gabarito": "D",
+    "comentario": "A alternativa D reproduz o art. 21 da Lei nº 12.016/2009, em consonância com o art. 5º, LXX, da CF/88. A alternativa A exclui as entidades sindicais, expressamente legitimadas. A alternativa B altera o prazo de um para três anos. A alternativa C exige autorização individualizada, contrariando a Súmula 629 do STF, segundo a qual a impetração por entidade de classe em favor dos associados independe de autorização destes. A alternativa E inverte o art. 22, § 2º, da Lei nº 12.016/2009, que condiciona a concessão de liminar à audiência prévia do representante judicial da pessoa jurídica de direito público, no prazo de setenta e duas horas.",
+    "fundamentacaoLegal": "CF/88, art. 5º, LXX; Lei nº 12.016/2009, arts. 21 e 22, § 2º; Súmula 629 do STF."
+  },
+  {
+    "id": "controle-administracao-14",
+    "topicoId": "controle-administracao",
+    "topico": "Controle da Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre a medida liminar, a sentença e os recursos no mandado de segurança, à luz da Lei nº 12.016/2009, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É admitida a concessão de liminar que tenha por objeto a compensação de créditos tributários ou a concessão de aumento e a extensão de vantagens a servidores públicos, desde que presente o perigo da demora."
+      },
+      {
+        "letra": "B",
+        "texto": "A sentença que conceder o mandado de segurança está sujeita ao duplo grau de jurisdição obrigatório, podendo, contudo, ser executada provisoriamente, salvo nos casos em que for vedada a concessão de liminar."
+      },
+      {
+        "letra": "C",
+        "texto": "Da sentença que denega a segurança cabe agravo de instrumento, e da que a concede cabe recurso ordinário constitucional."
+      },
+      {
+        "letra": "D",
+        "texto": "A concessão da segurança implica condenação do impetrado ao pagamento de honorários advocatícios de sucumbência, nos termos da legislação processual."
+      },
+      {
+        "letra": "E",
+        "texto": "A liminar em mandado de segurança dispensa a demonstração de fundamento relevante e do risco de ineficácia da medida, bastando a plausibilidade do direito alegado."
+      }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B reproduz o art. 14, §§ 1º e 3º, da Lei nº 12.016/2009. A alternativa A contraria o art. 7º, § 2º, que veda expressamente liminar com aquele objeto. A alternativa C erra o recurso cabível: da sentença, concessiva ou denegatória, cabe apelação (art. 14, caput), reservando-se o recurso ordinário às hipóteses de competência originária dos tribunais superiores. A alternativa D contraria o art. 25 da lei, que veda a condenação em honorários advocatícios, no mesmo sentido das Súmulas 512 do STF e 105 do STJ. A alternativa E dispensa requisitos expressamente exigidos pelo art. 7º, III, quais sejam, fundamento relevante e risco de ineficácia da medida.",
+    "fundamentacaoLegal": "Lei nº 12.016/2009, arts. 7º, III e § 2º, 14, caput e §§ 1º e 3º, e 25; Súmula 512 do STF; Súmula 105 do STJ."
+  },
+  {
+    "id": "controle-administracao-15",
+    "topicoId": "controle-administracao",
+    "topico": "Controle da Administração Pública",
+    "dificuldade": "media",
+    "enunciado": "Sobre a ação popular como instrumento de controle judicial e social da Administração Pública, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Qualquer pessoa, brasileira ou estrangeira residente no País, é parte legítima para propor ação popular, bastando a comprovação de interesse econômico na anulação do ato."
+      },
+      {
+        "letra": "B",
+        "texto": "Qualquer cidadão é parte legítima para propor ação popular que vise a anular ato lesivo ao patrimônio público ou de entidade de que o Estado participe, à moralidade administrativa, ao meio ambiente e ao patrimônio histórico e cultural, ficando o autor, salvo comprovada má-fé, isento de custas judiciais e do ônus da sucumbência."
+      },
+      {
+        "letra": "C",
+        "texto": "A ação popular destina-se exclusivamente à proteção do patrimônio econômico do erário, não alcançando a moralidade administrativa nem o meio ambiente."
+      },
+      {
+        "letra": "D",
+        "texto": "A pessoa jurídica de direito público cujo ato foi impugnado não pode, em nenhuma hipótese, atuar ao lado do autor popular."
+      },
+      {
+        "letra": "E",
+        "texto": "O autor popular está sujeito ao pagamento de custas e honorários de sucumbência em qualquer hipótese de improcedência, ainda que ausente má-fé."
+      }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B reproduz o art. 5º, LXXIII, da CF/88. A alternativa A confunde cidadão com pessoa em geral: exige-se a cidadania, comprovada por título eleitoral ou documento equivalente (art. 1º, § 3º, da Lei nº 4.717/1965), e não interesse econômico. A alternativa C restringe indevidamente o objeto da ação, que abrange moralidade administrativa, meio ambiente e patrimônio histórico e cultural. A alternativa D contraria o art. 6º, § 3º, da Lei nº 4.717/1965, que permite à pessoa jurídica de direito público abster-se de contestar ou atuar ao lado do autor, desde que útil ao interesse público. A alternativa E contraria a isenção constitucional, ressalvada apenas a comprovada má-fé.",
+    "fundamentacaoLegal": "CF/88, art. 5º, LXXIII; Lei nº 4.717/1965, arts. 1º, § 3º, e 6º, § 3º."
+  },
+  {
+    "id": "controle-administracao-16",
+    "topicoId": "controle-administracao",
+    "topico": "Controle da Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "Cidadão ajuíza ação popular contra ato de gestor municipal e, no curso do processo, manifesta desistência da demanda. Sobre o desdobramento processual e a atuação do Ministério Público, nos termos da Lei nº 4.717/1965, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A desistência do autor acarreta a extinção imediata do processo, sem possibilidade de prosseguimento por terceiros."
+      },
+      {
+        "letra": "B",
+        "texto": "O Ministério Público, como custos legis, pode assumir a defesa do ato impugnado, se entender que atende ao interesse público."
+      },
+      {
+        "letra": "C",
+        "texto": "Havendo desistência do autor ou motivo para a absolvição da instância, serão publicados editais, ficando assegurado a qualquer cidadão, bem como ao representante do Ministério Público, dentro do prazo de noventa dias, promover o prosseguimento da ação."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente o Ministério Público pode dar prosseguimento à ação popular após a desistência do autor, ficando excluídos os demais cidadãos."
+      },
+      {
+        "letra": "E",
+        "texto": "A ação popular é imprescritível, motivo pelo qual a desistência não impede a repropositura a qualquer tempo pelo mesmo autor."
+      }
+    ],
+    "gabarito": "C",
+    "comentario": "A alternativa C reproduz o art. 9º da Lei nº 4.717/1965. A alternativa A ignora a possibilidade legal de sucessão processual. A alternativa B contraria o art. 6º, § 4º, que veda ao Ministério Público, de qualquer forma, assumir a defesa do ato impugnado ou de seus autores. A alternativa D exclui os demais cidadãos, expressamente legitimados pelo art. 9º. A alternativa E afirma imprescritibilidade inexistente: o art. 21 da mesma lei fixa em cinco anos o prazo prescricional da ação popular.",
+    "fundamentacaoLegal": "Lei nº 4.717/1965, arts. 6º, § 4º, 9º e 21."
+  },
+  {
+    "id": "controle-administracao-17",
+    "topicoId": "controle-administracao",
+    "topico": "Controle da Administração Pública",
+    "dificuldade": "media",
+    "enunciado": "Nos termos da Lei nº 7.347/1985, sobre a legitimidade ativa para a propositura de ação civil pública, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "são legitimados, entre outros, o Ministério Público, a Defensoria Pública, a União, os Estados, o Distrito Federal e os Municípios, bem como a associação que esteja constituída há pelo menos um ano e inclua entre suas finalidades institucionais a proteção do interesse tutelado, requisito de pré-constituição que pode ser dispensado pelo juiz quando haja manifesto interesse social."
+      },
+      {
+        "letra": "B",
+        "texto": "a legitimidade é exclusiva do Ministério Público, cabendo aos demais entes apenas atuar como assistentes litisconsorciais."
+      },
+      {
+        "letra": "C",
+        "texto": "as autarquias, empresas públicas, fundações e sociedades de economia mista não possuem legitimidade para a propositura da ação civil pública."
+      },
+      {
+        "letra": "D",
+        "texto": "a associação civil precisa estar constituída há pelo menos cinco anos, exigência que não comporta dispensa judicial."
+      },
+      {
+        "letra": "E",
+        "texto": "a Defensoria Pública foi expressamente excluída do rol de legitimados pela jurisprudência do Supremo Tribunal Federal."
+      }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A reúne o art. 5º, caput, incisos e § 4º, da Lei nº 7.347/1985. A alternativa B afirma legitimidade exclusiva do Ministério Público, contrariando o rol legal, que é concorrente e disjuntivo. A alternativa C exclui entidades da administração indireta expressamente legitimadas pelo art. 5º, IV. A alternativa D altera o prazo de pré-constituição e nega a possibilidade de dispensa prevista no § 4º. A alternativa E contraria o art. 5º, II, e o entendimento do STF que, ao julgar a ADI 3.943, reconheceu a constitucionalidade da legitimidade da Defensoria Pública.",
+    "fundamentacaoLegal": "Lei nº 7.347/1985, art. 5º, caput, incisos I a V, e § 4º; STF, ADI 3.943."
+  },
+  {
+    "id": "controle-administracao-18",
+    "topicoId": "controle-administracao",
+    "topico": "Controle da Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "O Ministério Público instaura inquérito civil para apurar irregularidades na cobrança de taxa municipal e, ao final, pretende ajuizar ação civil pública para questionar a exigência do tributo em face de contribuintes determináveis. Sobre a hipótese, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A ação civil pública é cabível, pois a tutela do patrimônio público autoriza a discussão de qualquer matéria tributária pela via coletiva."
+      },
+      {
+        "letra": "B",
+        "texto": "O inquérito civil é procedimento judicial, presidido pelo juiz competente, e sua conclusão vincula o Ministério Público quanto ao ajuizamento da ação."
+      },
+      {
+        "letra": "C",
+        "texto": "Não é cabível ação civil pública para veicular pretensões que envolvam tributos, contribuições previdenciárias, o FGTS ou outros fundos de natureza institucional cujos beneficiários possam ser individualmente determinados; o inquérito civil, por sua vez, é procedimento administrativo investigatório presidido pelo próprio Ministério Público, de natureza facultativa."
+      },
+      {
+        "letra": "D",
+        "texto": "A ação civil pública é cabível desde que precedida de compromisso de ajustamento de conduta frustrado, requisito de admissibilidade da demanda coletiva."
+      },
+      {
+        "letra": "E",
+        "texto": "O compromisso de ajustamento de conduta somente pode ser firmado pelo Ministério Público e possui eficácia de título executivo judicial."
+      }
+    ],
+    "gabarito": "C",
+    "comentario": "A alternativa C conjuga o art. 1º, parágrafo único, da Lei nº 7.347/1985, que veda a ação civil pública em matéria tributária e assemelhada, com a natureza administrativa e facultativa do inquérito civil (art. 8º, § 1º). A alternativa A ignora a vedação legal expressa. A alternativa B qualifica erroneamente o inquérito civil como procedimento judicial e atribui efeito vinculante a suas conclusões. A alternativa D cria requisito de admissibilidade inexistente, pois o compromisso de ajustamento é alternativa, e não condição prévia. A alternativa E erra duplamente: o compromisso pode ser tomado por qualquer órgão público legitimado e possui eficácia de título executivo extrajudicial, nos termos do art. 5º, § 6º.",
+    "fundamentacaoLegal": "Lei nº 7.347/1985, art. 1º, parágrafo único, art. 5º, § 6º, e art. 8º, § 1º."
+  },
+  {
+    "id": "controle-administracao-19",
+    "topicoId": "controle-administracao",
+    "topico": "Controle da Administração Pública",
+    "dificuldade": "media",
+    "enunciado": "Sobre o controle legislativo exercido sobre a Administração Pública, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O Poder Legislativo pode revogar atos administrativos discricionários do Poder Executivo sempre que os considerar inconvenientes ao interesse público."
+      },
+      {
+        "letra": "B",
+        "texto": "A fiscalização legislativa restringe-se aos atos da administração direta, não alcançando as entidades da administração indireta."
+      },
+      {
+        "letra": "C",
+        "texto": "As comissões parlamentares de inquérito podem determinar a quebra de sigilo bancário e fiscal, bem como decretar a busca e apreensão domiciliar e a prisão preventiva, por deterem poderes de investigação próprios das autoridades judiciais."
+      },
+      {
+        "letra": "D",
+        "texto": "Compete ao Poder Legislativo sustar os atos normativos do Poder Executivo que exorbitem do poder regulamentar ou dos limites de delegação legislativa, bem como fiscalizar e controlar os atos do Poder Executivo, incluídos os da administração indireta."
+      },
+      {
+        "letra": "E",
+        "texto": "O controle legislativo independe de previsão constitucional expressa, podendo ser ampliado livremente por lei ordinária ou por norma regimental."
+      }
+    ],
+    "gabarito": "D",
+    "comentario": "A alternativa D reúne os incisos V e X do art. 49 da CF/88, aplicáveis por simetria às Câmaras Municipais. A alternativa A confere ao Legislativo poder de revogação por conveniência, o que violaria a separação de poderes, pois a revogação é privativa da própria Administração que praticou o ato. A alternativa B exclui a administração indireta, expressamente mencionada no inciso X. A alternativa C extrapola os poderes das CPIs: embora possam determinar a quebra de sigilos bancário e fiscal, submetem-se à reserva de jurisdição quanto à busca domiciliar, à interceptação telefônica e à decretação de prisão, salvo em flagrante. A alternativa E afirma que o controle legislativo dispensa base constitucional, quando a jurisprudência exige previsão constitucional para as hipóteses de interferência de um Poder sobre outro.",
+    "fundamentacaoLegal": "CF/88, art. 49, V e X; art. 58, § 3º; art. 50; jurisprudência do STF sobre reserva de jurisdição em CPIs."
+  },
+  {
+    "id": "controle-administracao-20",
+    "topicoId": "controle-administracao",
+    "topico": "Controle da Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "A respeito das comissões parlamentares de inquérito como instrumento de controle, nos termos do art. 58, § 3º, da CF/88, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sua criação depende de requerimento da maioria absoluta dos membros da Casa Legislativa, dispensada a indicação de fato determinado."
+      },
+      {
+        "letra": "B",
+        "texto": "As conclusões da comissão, se for o caso, são encaminhadas diretamente ao Poder Judiciário, para a imediata instauração de ação penal."
+      },
+      {
+        "letra": "C",
+        "texto": "As comissões parlamentares de inquérito podem aplicar sanções administrativas aos investigados, inclusive a perda do cargo público."
+      },
+      {
+        "letra": "D",
+        "texto": "A criação depende de requerimento de um terço dos membros da Casa Legislativa, para apuração de fato determinado e por prazo certo, sendo suas conclusões encaminhadas, se for o caso, ao Ministério Público, para que promova a responsabilidade civil ou criminal dos infratores."
+      },
+      {
+        "letra": "E",
+        "texto": "A instituição de comissões parlamentares de inquérito é privativa do Congresso Nacional, não se admitindo sua criação por Câmaras Municipais."
+      }
+    ],
+    "gabarito": "D",
+    "comentario": "A alternativa D reproduz o art. 58, § 3º, da CF/88. A alternativa A erra no quórum, que é de um terço, e suprime o requisito do fato determinado. A alternativa B afirma o encaminhamento direto ao Judiciário, quando o texto constitucional prevê o envio ao Ministério Público. A alternativa C atribui à comissão poder sancionador, que não possui, pois sua função é investigatória. A alternativa E nega a possibilidade de CPI municipal, admitida por simetria constitucional e reconhecida pela jurisprudência, observados os limites das atribuições do ente.",
+    "fundamentacaoLegal": "CF/88, art. 58, § 3º; art. 29 (simetria municipal)."
+  },
+  {
+    "id": "controle-administracao-21",
+    "topicoId": "controle-administracao",
+    "topico": "Controle da Administração Pública",
+    "dificuldade": "media",
+    "enunciado": "Sobre o controle social da Administração Pública e a participação do usuário nos serviços públicos, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A participação do usuário na administração pública direta e indireta é vedada, por comprometer a supremacia do interesse público."
+      },
+      {
+        "letra": "B",
+        "texto": "As ouvidorias de serviços públicos possuem competência jurisdicional para anular atos administrativos irregulares apontados em manifestações dos usuários."
+      },
+      {
+        "letra": "C",
+        "texto": "O acesso dos usuários a registros administrativos e a informações sobre atos de governo é irrestrito, não se admitindo qualquer hipótese de sigilo."
+      },
+      {
+        "letra": "D",
+        "texto": "A denúncia de irregularidades perante os Tribunais de Contas é privativa de agentes públicos, sendo vedada a manifestação de particulares."
+      },
+      {
+        "letra": "E",
+        "texto": "A lei disciplinará as formas de participação do usuário na administração pública direta e indireta, regulando especialmente as reclamações relativas à prestação dos serviços públicos, o acesso a registros administrativos e informações sobre atos de governo, e a representação contra o exercício negligente ou abusivo de cargo, emprego ou função na administração pública."
+      }
+    ],
+    "gabarito": "E",
+    "comentario": "A alternativa E reproduz o art. 37, § 3º, incisos I a III, da CF/88, regulamentado no ponto pela Lei nº 13.460/2017 (Código de Defesa do Usuário de Serviços Públicos). A alternativa A veda a participação do usuário, expressamente assegurada pela Constituição. A alternativa B atribui competência jurisdicional às ouvidorias, órgãos administrativos de recebimento e encaminhamento de manifestações. A alternativa C afirma acesso irrestrito, quando o próprio inciso II ressalva as hipóteses de sigilo previstas em lei, na linha do art. 5º, XXXIII, da CF/88. A alternativa D contraria o art. 74, § 2º, da CF/88, que legitima qualquer cidadão, partido político, associação ou sindicato a denunciar irregularidades perante o Tribunal de Contas.",
+    "fundamentacaoLegal": "CF/88, art. 37, § 3º, I a III, e art. 74, § 2º; Lei nº 13.460/2017."
+  },
+  {
+    "id": "controle-administracao-22",
+    "topicoId": "controle-administracao",
+    "topico": "Controle da Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "Considerando a Súmula 347 do Supremo Tribunal Federal e a discussão doutrinária e jurisprudencial sobre os limites da atuação dos Tribunais de Contas, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Segundo a Súmula 347 do STF, o Tribunal de Contas, no exercício de suas atribuições, pode apreciar a constitucionalidade das leis e dos atos do Poder Público, embora tal entendimento venha sendo objeto de crescente mitigação em decisões do próprio Supremo Tribunal Federal."
+      },
+      {
+        "letra": "B",
+        "texto": "A Súmula 347 do STF autoriza os Tribunais de Contas a declarar a inconstitucionalidade de leis com eficácia erga omnes e efeito vinculante."
+      },
+      {
+        "letra": "C",
+        "texto": "Os Tribunais de Contas exercem função jurisdicional típica, motivo pelo qual suas decisões fazem coisa julgada material e não podem ser revistas pelo Poder Judiciário."
+      },
+      {
+        "letra": "D",
+        "texto": "Os Tribunais de Contas integram a estrutura do Poder Legislativo como órgãos subordinados hierarquicamente às respectivas Casas Legislativas."
+      },
+      {
+        "letra": "E",
+        "texto": "Compete aos Tribunais de Contas anular, com força vinculante, os atos administrativos que reputem inconstitucionais, sem possibilidade de revisão judicial."
+      }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A descreve corretamente o teor da Súmula 347 do STF e registra o movimento jurisprudencial de sua mitigação. A alternativa B confunde o afastamento incidental da norma no caso concreto com o controle concentrado de constitucionalidade, privativo do Poder Judiciário. A alternativa C atribui função jurisdicional típica e coisa julgada material às Cortes de Contas, cujas decisões são de natureza administrativa e sujeitas a controle judicial, sobretudo quanto à legalidade e ao devido processo legal. A alternativa D afirma subordinação hierárquica inexistente, pois os Tribunais de Contas são órgãos autônomos e apenas auxiliam o Legislativo no controle externo. A alternativa E exclui a revisão judicial, contrariando o art. 5º, XXXV, da CF/88.",
+    "fundamentacaoLegal": "Súmula 347 do STF; CF/88, arts. 5º, XXXV, 71 e 73."
+  },
+  {
+    "id": "controle-administracao-23",
+    "topicoId": "controle-administracao",
+    "topico": "Controle da Administração Pública",
+    "dificuldade": "media",
+    "enunciado": "Sobre o controle judicial dos atos administrativos e seus limites, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O controle judicial exige o prévio esgotamento das instâncias administrativas, como regra geral no direito brasileiro."
+      },
+      {
+        "letra": "B",
+        "texto": "O Poder Judiciário pode revogar atos administrativos discricionários quando os considerar inoportunos, exercendo controle amplo de mérito."
+      },
+      {
+        "letra": "C",
+        "texto": "Os atos discricionários são imunes a qualquer forma de controle judicial, por integrarem esfera de liberdade insindicável do administrador."
+      },
+      {
+        "letra": "D",
+        "texto": "O Poder Judiciário pode apreciar a legalidade e a legitimidade do ato administrativo, inclusive quanto à observância dos princípios constitucionais e à razoabilidade e proporcionalidade, sendo-lhe vedado, contudo, substituir o administrador na valoração do mérito, isto é, na escolha entre alternativas igualmente legítimas."
+      },
+      {
+        "letra": "E",
+        "texto": "A teoria dos motivos determinantes não se aplica ao controle judicial, pois a motivação é sempre dispensável nos atos discricionários."
+      }
+    ],
+    "gabarito": "D",
+    "comentario": "A alternativa D sintetiza a orientação consolidada: o controle judicial alcança a legalidade em sentido amplo, mas não permite a substituição do juízo de conveniência e oportunidade do administrador. A alternativa B atribui ao Judiciário poder de revogação, que é privativo da Administração, cabendo ao juiz apenas a anulação por ilegalidade. A alternativa C torna os atos discricionários insindicáveis, desconsiderando o controle dos elementos vinculados e dos limites da discricionariedade. A alternativa A erige o esgotamento da via administrativa em regra, quando o art. 5º, XXXV, da CF/88 consagra a inafastabilidade da jurisdição, sendo excepcionais as exigências de prévio requerimento administrativo. A alternativa E nega aplicação à teoria dos motivos determinantes, segundo a qual, uma vez declarados, os motivos vinculam a validade do ato, inclusive nos atos discricionários.",
+    "fundamentacaoLegal": "CF/88, art. 5º, XXXV; Lei nº 9.784/1999, arts. 2º e 50; doutrina de Celso Antônio Bandeira de Mello sobre limites da discricionariedade."
+  },
+  {
+    "id": "controle-administracao-24",
+    "topicoId": "controle-administracao",
+    "topico": "Controle da Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "Em ação civil pública, o juiz determina ao Poder Executivo a realização de obras emergenciais em estabelecimento prisional, diante de condições que violam a dignidade da pessoa humana. A Fazenda Pública alega reserva do possível e violação à separação dos Poderes. Considerando a jurisprudência do Supremo Tribunal Federal em repercussão geral, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A determinação judicial é ilegítima, pois a definição de prioridades orçamentárias é matéria de mérito administrativo insindicável."
+      },
+      {
+        "letra": "B",
+        "texto": "É lícito ao Judiciário impor à Administração Pública obrigação de fazer, consistente na promoção de medidas ou na execução de obras emergenciais em estabelecimentos prisionais para dar efetividade ao postulado da dignidade da pessoa humana e assegurar aos detentos o respeito à sua integridade física e moral, não sendo oponível à decisão o argumento da reserva do possível nem o princípio da separação dos poderes."
+      },
+      {
+        "letra": "C",
+        "texto": "A intervenção judicial somente é admissível mediante prévia autorização legislativa específica que abra crédito orçamentário para a despesa."
+      },
+      {
+        "letra": "D",
+        "texto": "A reserva do possível é argumento absoluto, que impede qualquer condenação do Poder Público a obrigações de fazer com repercussão financeira."
+      },
+      {
+        "letra": "E",
+        "texto": "A tutela dos direitos dos detentos deve ser buscada exclusivamente pela via da ação popular, sendo inadequada a ação civil pública."
+      }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B reproduz a tese do Tema 220 do STF (RE 592.581). A alternativa A trata a questão como mérito insindicável, desconsiderando que a proteção de direitos fundamentais autoriza o controle judicial. A alternativa C cria condição prévia de autorização orçamentária não exigida pela tese fixada. A alternativa D absolutiza a reserva do possível, argumento expressamente afastado pelo STF nessa hipótese. A alternativa E restringe indevidamente a via processual, sendo a ação civil pública instrumento adequado à tutela de interesses difusos e coletivos, nos termos da Lei nº 7.347/1985.",
+    "fundamentacaoLegal": "CF/88, arts. 1º, III, e 5º, XLIX; STF, RE 592.581/RS, Tema 220 de repercussão geral; Lei nº 7.347/1985."
+  },
+  {
+    "id": "controle-administracao-25",
+    "topicoId": "controle-administracao",
+    "topico": "Controle da Administração Pública",
+    "dificuldade": "media",
+    "enunciado": "Autarquia municipal indefere pedido formulado por administrado. Inconformado, o interessado apresenta recurso dirigido ao Secretário Municipal ao qual a autarquia é vinculada. Sobre o cabimento desse recurso, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O recurso é sempre cabível, pois existe hierarquia entre a Administração direta e as entidades da Administração indireta."
+      },
+      {
+        "letra": "B",
+        "texto": "Trata-se de recurso hierárquico próprio, decorrente do poder hierárquico, dispensando previsão legal expressa."
+      },
+      {
+        "letra": "C",
+        "texto": "O recurso é incabível em qualquer hipótese, pois as decisões das entidades da Administração indireta são definitivas na esfera administrativa."
+      },
+      {
+        "letra": "D",
+        "texto": "O recurso somente é cabível se houver expressa renúncia da autarquia à sua autonomia administrativa."
+      },
+      {
+        "letra": "E",
+        "texto": "Trata-se de recurso hierárquico impróprio, dirigido a autoridade não integrante da mesma estrutura hierárquica, cujo cabimento depende de previsão legal expressa, uma vez que entre a Administração direta e a indireta há controle finalístico, e não relação de hierarquia."
+      }
+    ],
+    "gabarito": "E",
+    "comentario": "A alternativa E descreve corretamente o recurso hierárquico impróprio e o regime da tutela ou supervisão ministerial, que se exerce nos limites da lei. A alternativa A afirma hierarquia entre Administração direta e indireta, inexistente, pois as entidades descentralizadas possuem personalidade jurídica própria e autonomia. A alternativa B qualifica o recurso como próprio e dispensa previsão legal, o que só ocorre dentro da mesma pessoa jurídica. A alternativa C afirma definitividade absoluta, desconsiderando a possibilidade de previsão legal do recurso impróprio. A alternativa D condiciona o cabimento a renúncia de autonomia, figura inexistente no direito administrativo.",
+    "fundamentacaoLegal": "Decreto-Lei nº 200/1967, arts. 19 e 26 (supervisão ministerial); Lei nº 9.784/1999, arts. 56 a 59; doutrina de Maria Sylvia Zanella Di Pietro."
+  },
+  {
+    "id": "controle-administracao-26",
+    "topicoId": "controle-administracao",
+    "topico": "Controle da Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre a prescritibilidade da pretensão de ressarcimento ao erário fundada em decisão de Tribunal de Contas, segundo a jurisprudência do Supremo Tribunal Federal, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a pretensão é imprescritível, por força do art. 37, § 5º, da CF/88, que excepciona as ações de ressarcimento de qualquer prazo prescricional."
+      },
+      {
+        "letra": "B",
+        "texto": "a pretensão prescreve em vinte anos, por aplicação da regra geral de prescrição do Código Civil de 1916, ainda vigente para créditos públicos."
+      },
+      {
+        "letra": "C",
+        "texto": "é prescritível a pretensão de ressarcimento ao erário fundada em decisão de Tribunal de Contas, aplicando-se o prazo quinquenal."
+      },
+      {
+        "letra": "D",
+        "texto": "a pretensão prescreve em três anos, por se tratar de reparação civil, nos termos do art. 206, § 3º, V, do Código Civil."
+      },
+      {
+        "letra": "E",
+        "texto": "a prescrição não corre enquanto não houver o trânsito em julgado de ação penal condenatória pelos mesmos fatos."
+      }
+    ],
+    "gabarito": "C",
+    "comentario": "A alternativa C reproduz a tese do Tema 899 do STF (RE 636.886), que afastou a imprescritibilidade nessa hipótese, prevalecendo o prazo quinquenal aplicável às pretensões contra e a favor da Fazenda Pública. A alternativa A generaliza a imprescritibilidade, que o STF restringiu, no Tema 897, às ações de ressarcimento fundadas em ato doloso de improbidade administrativa. A alternativa B invoca prazo do Código Civil revogado. A alternativa D aplica o prazo trienal, afastado pela jurisprudência quanto às pretensões da Fazenda Pública em matéria de ressarcimento por decisão de Corte de Contas. A alternativa E cria causa suspensiva vinculada à esfera penal, sem previsão legal, contrariando a independência das instâncias.",
+    "fundamentacaoLegal": "CF/88, art. 37, § 5º; STF, RE 636.886 (Tema 899) e RE 852.475 (Tema 897); Decreto nº 20.910/1932."
+  },
+  {
+    "id": "controle-administracao-27",
+    "topicoId": "controle-administracao",
+    "topico": "Controle da Administração Pública",
+    "dificuldade": "media",
+    "enunciado": "Sobre a composição e as garantias dos Tribunais de Contas, à luz dos arts. 73 e 75 da CF/88 e da Súmula 653 do STF, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O Tribunal de Contas da União é integrado por nove Ministros, sendo um terço escolhido pelo Presidente da República, com aprovação do Senado Federal, e dois terços pelo Congresso Nacional; nos Tribunais de Contas estaduais, compostos por sete Conselheiros, quatro são escolhidos pela Assembleia Legislativa e três pelo Chefe do Poder Executivo estadual."
+      },
+      {
+        "letra": "B",
+        "texto": "O Tribunal de Contas da União é integrado por onze Ministros, todos de livre nomeação do Presidente da República."
+      },
+      {
+        "letra": "C",
+        "texto": "Os Ministros do Tribunal de Contas da União não possuem as garantias, prerrogativas e impedimentos dos Ministros do Superior Tribunal de Justiça, por exercerem função administrativa."
+      },
+      {
+        "letra": "D",
+        "texto": "Os Tribunais de Contas estaduais são compostos por nove Conselheiros, todos escolhidos pela Assembleia Legislativa."
+      },
+      {
+        "letra": "E",
+        "texto": "As normas do art. 73 da CF/88 aplicam-se apenas ao Tribunal de Contas da União, não incidindo, ainda que no que couber, sobre os Tribunais de Contas estaduais e municipais."
+      }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A conjuga o art. 73, caput e § 2º, da CF/88 com a Súmula 653 do STF e o art. 31, § 1º, da CF/88 quanto à simetria. A alternativa B erra no número de Ministros e no critério de escolha, ignorando a participação do Congresso Nacional. A alternativa C nega as garantias, prerrogativas, impedimentos, vencimentos e vantagens dos Ministros do STJ, expressamente atribuídos pelo art. 73, § 3º. A alternativa D contraria a Súmula 653, tanto quanto ao número de Conselheiros quanto à forma de escolha. A alternativa E afasta a simetria imposta pelo art. 75 da CF/88.",
+    "fundamentacaoLegal": "CF/88, art. 73, caput e §§ 2º e 3º, e art. 75; Súmula 653 do STF."
+  },
+  {
+    "id": "controle-administracao-28",
+    "topicoId": "controle-administracao",
+    "topico": "Controle da Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre a legitimidade ativa para a propositura da ação por ato de improbidade administrativa, após a Lei nº 14.230/2021 e o julgamento das Ações Diretas de Inconstitucionalidade nº 7.042 e nº 7.043 pelo Supremo Tribunal Federal, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A legitimidade é exclusiva do Ministério Público, tendo o Supremo Tribunal Federal confirmado a constitucionalidade da exclusão das pessoas jurídicas interessadas."
+      },
+      {
+        "letra": "B",
+        "texto": "A legitimidade é exclusiva da pessoa jurídica lesada, cabendo ao Ministério Público atuar apenas como fiscal da ordem jurídica."
+      },
+      {
+        "letra": "C",
+        "texto": "A legitimidade pertence a qualquer cidadão no gozo dos direitos políticos, à semelhança do que ocorre na ação popular."
+      },
+      {
+        "letra": "D",
+        "texto": "O Supremo Tribunal Federal, no julgamento das ADIs 7.042 e 7.043, reconheceu a legitimidade ativa concorrente e disjuntiva entre o Ministério Público e as pessoas jurídicas de direito público interessadas para a propositura da ação por ato de improbidade administrativa."
+      },
+      {
+        "letra": "E",
+        "texto": "A ação de improbidade foi extinta pela Lei nº 14.230/2021, substituída integralmente pela ação civil pública de responsabilidade por danos ao erário."
+      }
+    ],
+    "gabarito": "D",
+    "comentario": "A alternativa D corresponde ao decidido nas ADIs 7.042 e 7.043, em que o STF afastou a exclusividade da legitimidade do Ministério Público introduzida pela Lei nº 14.230/2021, restabelecendo a legitimidade concorrente e disjuntiva dos entes públicos lesados. A alternativa A afirma o oposto do que decidiu o Supremo. A alternativa B exclui o Ministério Público, legitimado natural para a tutela do patrimônio público. A alternativa C confunde a ação de improbidade com a ação popular, cuja legitimidade é do cidadão. A alternativa E afirma a extinção da ação de improbidade, que permanece regida pela Lei nº 8.429/1992, com as alterações da Lei nº 14.230/2021.",
+    "fundamentacaoLegal": "Lei nº 8.429/1992, art. 17, com redação da Lei nº 14.230/2021; STF, ADI 7.042 e ADI 7.043."
+  },
+  {
+    "id": "controle-administracao-29",
+    "topicoId": "controle-administracao",
+    "topico": "Controle da Administração Pública",
+    "dificuldade": "media",
+    "enunciado": "Sobre a fiscalização da gestão fiscal prevista na Lei de Responsabilidade Fiscal (Lei Complementar nº 101/2000) e sua relação com o controle interno e externo, assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A fiscalização da gestão fiscal será exercida pelo Poder Legislativo, diretamente ou com o auxílio dos Tribunais de Contas, e pelo sistema de controle interno de cada Poder e do Ministério Público."
+      },
+      {
+        "letra": "B",
+        "texto": "A Lei de Responsabilidade Fiscal afastou a competência dos Tribunais de Contas para fiscalizar o cumprimento dos limites de despesa com pessoal, atribuindo-a exclusivamente ao Poder Executivo."
+      },
+      {
+        "letra": "C",
+        "texto": "Os Tribunais de Contas alertarão os Poderes ou órgãos quando constatarem que o montante da despesa total com pessoal ultrapassou noventa por cento do limite."
+      },
+      {
+        "letra": "D",
+        "texto": "A prestação de contas evidenciará o desempenho da arrecadação em relação à previsão, destacando as providências adotadas no âmbito da fiscalização das receitas e combate à sonegação."
+      },
+      {
+        "letra": "E",
+        "texto": "A transparência da gestão fiscal é assegurada, entre outros meios, pelo incentivo à participação popular e pela realização de audiências públicas durante os processos de elaboração e discussão dos planos, da lei de diretrizes orçamentárias e dos orçamentos."
+      }
+    ],
+    "gabarito": "B",
+    "comentario": "A questão pede a alternativa incorreta. A alternativa B é incorreta porque a LRF, em seu art. 59, atribui expressamente aos Tribunais de Contas a fiscalização do cumprimento das normas nela previstas, inclusive quanto aos limites de despesa com pessoal, nada tendo afastado. A alternativa A reproduz o art. 59, caput. A alternativa C corresponde ao art. 59, § 1º, II. A alternativa D reproduz o art. 58. A alternativa E reproduz o art. 48, caput e parágrafo único, I.",
+    "fundamentacaoLegal": "Lei Complementar nº 101/2000, arts. 48, 58 e 59; CF/88, art. 70."
+  },
+  {
+    "id": "controle-administracao-30",
+    "topicoId": "controle-administracao",
+    "topico": "Controle da Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "Tribunal de Contas pretende, em processo de controle externo, anular ato de revisão de proventos já registrado que beneficia servidor aposentado, sem franquear-lhe manifestação nos autos. À luz da Súmula Vinculante 3 do STF, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O contraditório é dispensável em qualquer processo perante o Tribunal de Contas, dada a natureza de controle externo da atividade."
+      },
+      {
+        "letra": "B",
+        "texto": "O contraditório somente é exigível quando a decisão do Tribunal de Contas imputar débito ou multa ao interessado."
+      },
+      {
+        "letra": "C",
+        "texto": "A exceção prevista na Súmula Vinculante 3 abrange todos os atos relativos a aposentadorias, inclusive as revisões e alterações posteriores já registradas."
+      },
+      {
+        "letra": "D",
+        "texto": "A ausência de contraditório é sanada pela simples publicação do acórdão no diário oficial, que confere ampla publicidade à decisão."
+      },
+      {
+        "letra": "E",
+        "texto": "Nos processos perante o Tribunal de Contas asseguram-se o contraditório e a ampla defesa quando da decisão puder resultar anulação ou revogação de ato administrativo que beneficie o interessado, excetuada apenas a apreciação da legalidade do ato de concessão inicial de aposentadoria, reforma e pensão, o que não é o caso da revisão de ato já registrado."
+      }
+    ],
+    "gabarito": "E",
+    "comentario": "A alternativa E reproduz a Súmula Vinculante 3 e aplica corretamente sua exceção, que se restringe à apreciação da legalidade da concessão inicial, não alcançando a desconstituição de ato já registrado. A alternativa A dispensa o contraditório de modo geral, contrariando a súmula. A alternativa B restringe a garantia às decisões condenatórias, quando a súmula alcança toda decisão que possa anular ou revogar ato benéfico ao interessado. A alternativa C amplia indevidamente a exceção para as revisões posteriores, contrariando a interpretação restritiva conferida pelo STF. A alternativa D substitui o contraditório prévio por mera publicidade posterior, o que não atende ao devido processo legal.",
+    "fundamentacaoLegal": "Súmula Vinculante 3 do STF; CF/88, art. 5º, LV, e art. 71, III."
+  }
+]

@@ -1,0 +1,962 @@
+[
+  {
+    "id": "lgpd-administracao-01",
+    "topicoId": "lgpd-administracao",
+    "topico": "LGPD aplicada à Administração Pública",
+    "dificuldade": "media",
+    "enunciado": "Ao estruturar seu programa de conformidade em proteção de dados, determinado Município suscitou dúvida quanto à incidência da Lei nº 13.709/2018 (LGPD) sobre a Administração Pública municipal. À luz da referida Lei, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A LGPD dirige-se exclusivamente a pessoas jurídicas de direito privado, cabendo ao Poder Público observar tão somente a Lei nº 12.527/2011 quanto ao tratamento de informações pessoais."
+      },
+      {
+        "letra": "B",
+        "texto": "A LGPD somente incide sobre o Município após a edição de lei municipal específica que recepcione expressamente suas disposições no âmbito local."
+      },
+      {
+        "letra": "C",
+        "texto": "As normas gerais contidas na LGPD são de interesse nacional e devem ser observadas pela União, pelos Estados, pelo Distrito Federal e pelos Municípios."
+      },
+      {
+        "letra": "D",
+        "texto": "A aplicação da LGPD ao Poder Público restringe-se ao tratamento realizado em meios digitais, excluído o tratamento de dados constantes de suportes físicos."
+      },
+      {
+        "letra": "E",
+        "texto": "A LGPD alcança o Município apenas quando este atue sob regime de direito privado, por intermédio de suas empresas estatais."
+      }
+    ],
+    "gabarito": "C",
+    "comentario": "A alternativa C reproduz o parágrafo único do art. 1º da Lei nº 13.709/2018, incluído pela Lei nº 13.853/2019, segundo o qual as normas gerais da LGPD são de interesse nacional e devem ser observadas por todos os entes federativos, inclusive os Municípios. A alternativa A está errada porque o art. 1º, caput, expressamente submete à Lei o tratamento realizado por pessoa jurídica de direito público, e o art. 23 dedica capítulo próprio ao Poder Público; a Lei nº 12.527/2011 não afasta a LGPD, com ela dialogando (art. 23, §§2º e 3º). A alternativa B erra ao condicionar a eficácia de norma geral de interesse nacional a lei local, o que contraria o parágrafo único do art. 1º; lei municipal pode apenas dispor sobre aspectos de organização administrativa, jamais afastar a norma geral. A alternativa D erra porque o art. 1º, caput, alcança o tratamento de dados pessoais realizado por qualquer meio, inclusive nos meios digitais, expressão que amplia e não restringe o âmbito da Lei, sendo o conceito de banco de dados do art. 5º, IV, indiferente ao suporte. A alternativa E erra porque a submissão do Poder Público independe do regime jurídico de atuação, sendo o art. 24 apenas regra de equiparação de estatais em regime concorrencial ao regime das pessoas jurídicas de direito privado.",
+    "fundamentacaoLegal": "Art. 1º, caput e parágrafo único, da Lei nº 13.709/2018; art. 5º, IV; art. 23, caput."
+  },
+  {
+    "id": "lgpd-administracao-02",
+    "topicoId": "lgpd-administracao",
+    "topico": "LGPD aplicada à Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "A Lei nº 13.709/2018 afasta sua própria aplicação ao tratamento de dados pessoais realizado para fins exclusivos de segurança pública, defesa nacional, segurança do Estado ou atividades de investigação e repressão de infrações penais. Sobre esse regime de exclusão, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tais tratamentos submetem-se integralmente à LGPD, que os disciplina de modo exaustivo, vedada a edição de legislação específica sobre a matéria."
+      },
+      {
+        "letra": "B",
+        "texto": "A totalidade dos dados pessoais de banco de dados destinado a essas finalidades pode ser tratada por pessoa de direito privado, desde que a contratação seja precedida de licitação."
+      },
+      {
+        "letra": "C",
+        "texto": "A autoridade nacional está impedida de manifestar-se sobre essas hipóteses, por se tratar de matéria excluída do âmbito de sua competência."
+      },
+      {
+        "letra": "D",
+        "texto": "A LGPD não se aplica a esses tratamentos, que serão regidos por legislação específica, a qual deverá prever medidas proporcionais e estritamente necessárias ao atendimento do interesse público, observados o devido processo legal, os princípios gerais de proteção e os direitos do titular."
+      },
+      {
+        "letra": "E",
+        "texto": "É livre o tratamento desses dados por pessoa jurídica de direito privado, bastando a celebração de contrato administrativo com o órgão competente."
+      }
+    ],
+    "gabarito": "D",
+    "comentario": "A alternativa D corresponde ao art. 4º, III, combinado com o §1º do mesmo artigo: a LGPD não se aplica a esses tratamentos, que serão regidos por legislação específica, obrigada a prever medidas proporcionais e estritamente necessárias ao atendimento do interesse público, observados o devido processo legal, os princípios gerais de proteção e os direitos do titular. A alternativa A está errada porque inverte a regra do art. 4º, III, que é de não aplicação, e nega a remissão legal expressa à legislação específica. A alternativa B erra por contrariar o art. 4º, §4º, segundo o qual em nenhum caso a totalidade dos dados de tal banco de dados poderá ser tratada por pessoa de direito privado, salvo por aquela que possua capital integralmente constituído pelo poder público, sendo irrelevante o procedimento licitatório prévio. A alternativa C erra porque o art. 4º, §3º, atribui à autoridade nacional a emissão de opiniões técnicas ou recomendações referentes a essas exceções, podendo solicitar relatórios de impacto à proteção de dados pessoais. A alternativa E erra porque o art. 4º, §2º, veda o tratamento por pessoa de direito privado, salvo em procedimentos sob tutela de pessoa jurídica de direito público, que serão objeto de informe específico à autoridade nacional, observada ainda a limitação do §4º.",
+    "fundamentacaoLegal": "Art. 4º, III, e §§1º, 2º, 3º e 4º, da Lei nº 13.709/2018."
+  },
+  {
+    "id": "lgpd-administracao-03",
+    "topicoId": "lgpd-administracao",
+    "topico": "LGPD aplicada à Administração Pública",
+    "dificuldade": "media",
+    "enunciado": "Órgão da Administração municipal, mantendo consigo as decisões referentes às finalidades e aos meios do tratamento, contratou sociedade empresária para hospedar e processar, segundo instruções por ele fornecidas, bancos de dados de administrados. Considerando as definições da Lei nº 13.709/2018, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O órgão municipal é operador e a sociedade contratada é controladora, pois esta detém a infraestrutura tecnológica em que os dados são efetivamente processados."
+      },
+      {
+        "letra": "B",
+        "texto": "O órgão municipal é controlador, a quem competem as decisões referentes ao tratamento, e a sociedade contratada é operadora, por realizar o tratamento em nome do controlador."
+      },
+      {
+        "letra": "C",
+        "texto": "Ambos ostentam a condição de encarregados, na medida em que atuam como canal de comunicação com a autoridade nacional."
+      },
+      {
+        "letra": "D",
+        "texto": "A sociedade contratada, por ser pessoa jurídica de direito privado, assume a condição de titular dos dados pessoais que processa."
+      },
+      {
+        "letra": "E",
+        "texto": "Apenas o órgão municipal é agente de tratamento, permanecendo a sociedade contratada estranha à cadeia de responsabilidade prevista na Lei."
+      }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B aplica corretamente o art. 5º, VI e VII: controlador é a pessoa a quem competem as decisões referentes ao tratamento, e operador é quem realiza o tratamento em nome do controlador, devendo seguir suas instruções (art. 39). A alternativa A inverte os conceitos, pois a titularidade da infraestrutura é irrelevante para a qualificação legal, que se define pelo poder de decisão sobre o tratamento. A alternativa C confunde os institutos: encarregado é a pessoa indicada pelo controlador e operador para atuar como canal de comunicação entre o controlador, os titulares e a autoridade nacional (art. 5º, VIII), não se confundindo com os agentes de tratamento. A alternativa D erra porque titular é a pessoa natural a quem se referem os dados pessoais objeto de tratamento (art. 5º, V), qualidade que jamais é assumida por quem processa os dados. A alternativa E erra porque o art. 5º, IX, define como agentes de tratamento tanto o controlador quanto o operador, respondendo este nos termos do art. 42, §1º, I.",
+    "fundamentacaoLegal": "Art. 5º, V, VI, VII, VIII e IX, da Lei nº 13.709/2018; art. 39; art. 42, §1º, I."
+  },
+  {
+    "id": "lgpd-administracao-04",
+    "topicoId": "lgpd-administracao",
+    "topico": "LGPD aplicada à Administração Pública",
+    "dificuldade": "media",
+    "enunciado": "A Lei nº 13.709/2018 confere regime jurídico mais restritivo ao tratamento de determinada categoria de dados pessoais, os denominados dados pessoais sensíveis. Com base na definição legal, assinale a alternativa que apresenta informação que NÃO integra o conceito de dado pessoal sensível.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Dado referente à saúde ou à vida sexual, quando vinculado a uma pessoa natural."
+      },
+      {
+        "letra": "B",
+        "texto": "Dado sobre convicção religiosa ou opinião política."
+      },
+      {
+        "letra": "C",
+        "texto": "Dado sobre filiação a sindicato ou a organização de caráter religioso, filosófico ou político."
+      },
+      {
+        "letra": "D",
+        "texto": "Dado genético ou biométrico, quando vinculado a uma pessoa natural."
+      },
+      {
+        "letra": "E",
+        "texto": "Dado relativo à renda e à situação patrimonial declarada do titular."
+      }
+    ],
+    "gabarito": "E",
+    "comentario": "A alternativa E é a que deve ser assinalada, pois o rol do art. 5º, II, da Lei nº 13.709/2018 é taxativo e nele não figuram dados de natureza econômico-financeira, como renda e situação patrimonial, os quais, embora sejam dados pessoais protegidos pela Lei, não recebem a qualificação de sensíveis nem o regime especial do art. 11. As alternativas A, B, C e D reproduzem exatamente as categorias arroladas no art. 5º, II: origem racial ou étnica, convicção religiosa, opinião política, filiação a sindicato ou a organização de caráter religioso, filosófico ou político, dado referente à saúde ou à vida sexual e dado genético ou biométrico, quando vinculados a uma pessoa natural. Registre-se, ainda, que, nos termos do art. 11, §1º, o regime dos dados sensíveis aplica-se a qualquer tratamento que revele dados dessa natureza e que possa causar dano ao titular.",
+    "fundamentacaoLegal": "Art. 5º, I e II, da Lei nº 13.709/2018; art. 11, caput e §1º."
+  },
+  {
+    "id": "lgpd-administracao-05",
+    "topicoId": "lgpd-administracao",
+    "topico": "LGPD aplicada à Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "O art. 6º da Lei nº 13.709/2018 submete as atividades de tratamento de dados pessoais à boa-fé e a um elenco de princípios de observância obrigatória, inclusive pelos órgãos e entidades públicos. Assinale a alternativa em que o princípio se encontra corretamente enunciado, conforme a definição legal.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Adequação: limitação do tratamento ao mínimo necessário para a realização de suas finalidades, com abrangência dos dados pertinentes, proporcionais e não excessivos."
+      },
+      {
+        "letra": "B",
+        "texto": "Necessidade: compatibilidade do tratamento com as finalidades informadas ao titular, de acordo com o contexto do tratamento."
+      },
+      {
+        "letra": "C",
+        "texto": "Finalidade: realização do tratamento para propósitos legítimos, específicos, explícitos e informados ao titular, sem possibilidade de tratamento posterior de forma incompatível com essas finalidades."
+      },
+      {
+        "letra": "D",
+        "texto": "Livre acesso: adoção de medidas para prevenir a ocorrência de danos em virtude do tratamento de dados pessoais."
+      },
+      {
+        "letra": "E",
+        "texto": "Responsabilização e prestação de contas: garantia, aos titulares, de exatidão, clareza, relevância e atualização dos dados, de acordo com a necessidade e para o cumprimento da finalidade do tratamento."
+      }
+    ],
+    "gabarito": "C",
+    "comentario": "A alternativa C reproduz literalmente o art. 6º, I, que define o princípio da finalidade. A alternativa A está errada porque o conceito apresentado é o do princípio da necessidade (art. 6º, III), e não o da adequação. A alternativa B está errada por igual inversão: o conceito transcrito é o do princípio da adequação (art. 6º, II). A alternativa D está errada porque o conceito apresentado corresponde ao princípio da prevenção (art. 6º, VIII), ao passo que o livre acesso consiste na garantia, aos titulares, de consulta facilitada e gratuita sobre a forma e a duração do tratamento e sobre a integralidade de seus dados (art. 6º, IV). A alternativa E está errada porque descreve o princípio da qualidade dos dados (art. 6º, V), enquanto a responsabilização e prestação de contas consiste na demonstração, pelo agente, da adoção de medidas eficazes e capazes de comprovar a observância e o cumprimento das normas de proteção de dados pessoais e da eficácia dessas medidas (art. 6º, X).",
+    "fundamentacaoLegal": "Art. 6º, caput e incisos I, II, III, IV, V, VIII e X, da Lei nº 13.709/2018."
+  },
+  {
+    "id": "lgpd-administracao-06",
+    "topicoId": "lgpd-administracao",
+    "topico": "LGPD aplicada à Administração Pública",
+    "dificuldade": "media",
+    "enunciado": "Secretaria municipal, ao regulamentar internamente o atendimento a requerimentos de titulares sobre seus próprios dados pessoais, previu a cobrança de taxa e a exigência de demonstração de interesse jurídico específico como condições para a consulta. À luz da Lei nº 13.709/2018, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As exigências são ilegítimas, pois o princípio do livre acesso garante aos titulares consulta facilitada e gratuita sobre a forma e a duração do tratamento, bem como sobre a integralidade de seus dados pessoais, e o requerimento é atendido sem custos para o titular."
+      },
+      {
+        "letra": "B",
+        "texto": "A cobrança é lícita, desde que instituída por lei municipal, uma vez que o atendimento do requerimento gera custo administrativo a ser ressarcido pelo interessado."
+      },
+      {
+        "letra": "C",
+        "texto": "A gratuidade alcança apenas a confirmação da existência de tratamento, sendo onerosa a obtenção do inteiro teor dos dados."
+      },
+      {
+        "letra": "D",
+        "texto": "A gratuidade somente se aplica aos tratamentos fundados no consentimento do titular, sendo onerosos os demais."
+      },
+      {
+        "letra": "E",
+        "texto": "As exigências são legítimas, pois o exercício dos direitos do titular perante o Poder Público depende da comprovação de interesse jurídico e do recolhimento de emolumentos."
+      }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A está correta por conjugar o art. 6º, IV, que consagra o livre acesso como garantia de consulta facilitada e gratuita sobre a forma e a duração do tratamento e sobre a integralidade dos dados, com o art. 18, §5º, que determina o atendimento do requerimento sem custos para o titular. A alternativa B erra porque a gratuidade decorre de norma geral de interesse nacional (art. 1º, parágrafo único), não podendo lei local instituir cobrança que a inviabilize. A alternativa C erra ao cindir indevidamente a garantia legal, pois o art. 6º, IV, refere-se expressamente à integralidade dos dados pessoais do titular. A alternativa D erra porque a gratuidade independe da base legal utilizada, aplicando-se a todo tratamento, na forma do art. 18, §5º, e do art. 7º, §6º, que preserva os direitos do titular mesmo quando dispensado o consentimento. A alternativa E erra porque a Lei condiciona o exercício dos direitos apenas a requerimento expresso do titular ou de representante legalmente constituído (art. 18, §3º), sem exigir demonstração de interesse jurídico específico.",
+    "fundamentacaoLegal": "Art. 6º, IV, da Lei nº 13.709/2018; art. 18, §§3º e 5º; art. 7º, §6º; art. 1º, parágrafo único."
+  },
+  {
+    "id": "lgpd-administracao-07",
+    "topicoId": "lgpd-administracao",
+    "topico": "LGPD aplicada à Administração Pública",
+    "dificuldade": "media",
+    "enunciado": "Secretaria municipal pretende realizar o tratamento e o uso compartilhado de dados pessoais necessários à execução de política pública prevista em lei e detalhada em regulamento. Sobre a base legal aplicável, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O tratamento depende, em qualquer hipótese, do consentimento prévio, específico e destacado de cada um dos titulares alcançados pela política pública."
+      },
+      {
+        "letra": "B",
+        "texto": "A hipótese de execução de políticas públicas autoriza apenas o tratamento pelo próprio órgão, sendo em qualquer caso vedado o uso compartilhado de dados dela decorrente."
+      },
+      {
+        "letra": "C",
+        "texto": "A adoção de base legal diversa do consentimento dispensa o órgão da observância dos princípios do art. 6º da Lei nº 13.709/2018."
+      },
+      {
+        "letra": "D",
+        "texto": "O tratamento pode fundar-se na hipótese legal que autoriza a administração pública a tratar e a compartilhar dados necessários à execução de políticas públicas previstas em leis e regulamentos ou respaldadas em contratos, convênios ou instrumentos congêneres, observadas as disposições do capítulo referente ao Poder Público."
+      },
+      {
+        "letra": "E",
+        "texto": "O tratamento somente pode fundar-se no legítimo interesse do controlador, base legal exclusiva das pessoas jurídicas de direito público."
+      }
+    ],
+    "gabarito": "D",
+    "comentario": "A alternativa D reproduz o art. 7º, III, que autoriza o tratamento e o uso compartilhado, pela administração pública, de dados necessários à execução de políticas públicas previstas em leis e regulamentos ou respaldadas em contratos, convênios ou instrumentos congêneres, observadas as disposições do Capítulo IV da Lei. A alternativa A erra porque o consentimento é apenas uma dentre as hipóteses do art. 7º, não sendo a base legal ordinária do Poder Público, cuja atuação se legitima pela finalidade pública e pelas competências legais (art. 23, caput). A alternativa B erra porque o próprio inciso III do art. 7º menciona expressamente o tratamento e o uso compartilhado de dados, disciplinado ainda pelo art. 26. A alternativa C erra porque o art. 7º, §6º, dispõe que a eventual dispensa da exigência de consentimento não desobriga os agentes de tratamento das demais obrigações da Lei, especialmente da observância dos princípios gerais e da garantia dos direitos do titular. A alternativa E erra porque o legítimo interesse é hipótese autônoma do art. 7º, IX, não exclusiva do Poder Público, cuja atuação encontra fundamento próprio no inciso III e no art. 23.",
+    "fundamentacaoLegal": "Art. 7º, III, IX e §6º, da Lei nº 13.709/2018; art. 23, caput; art. 26."
+  },
+  {
+    "id": "lgpd-administracao-08",
+    "topicoId": "lgpd-administracao",
+    "topico": "LGPD aplicada à Administração Pública",
+    "dificuldade": "media",
+    "enunciado": "Sobre o consentimento como hipótese de tratamento de dados pessoais na Lei nº 13.709/2018, assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O consentimento deverá referir-se a finalidades determinadas, sendo nulas as autorizações genéricas para o tratamento de dados pessoais."
+      },
+      {
+        "letra": "B",
+        "texto": "Cabe ao controlador o ônus da prova de que o consentimento foi obtido em conformidade com o disposto na Lei."
+      },
+      {
+        "letra": "C",
+        "texto": "É dispensada a exigência de consentimento para os dados tornados manifestamente públicos pelo titular, resguardados os direitos do titular e os princípios previstos na Lei."
+      },
+      {
+        "letra": "D",
+        "texto": "A eventual dispensa da exigência de consentimento desobriga os agentes de tratamento das demais obrigações previstas na Lei, notadamente da observância dos princípios gerais e da garantia dos direitos do titular."
+      },
+      {
+        "letra": "E",
+        "texto": "O consentimento pode ser revogado a qualquer momento mediante manifestação expressa do titular, por procedimento gratuito e facilitado."
+      }
+    ],
+    "gabarito": "D",
+    "comentario": "A alternativa D é a incorreta e, portanto, a que deve ser assinalada, pois enuncia exatamente o contrário do art. 7º, §6º, segundo o qual a eventual dispensa da exigência do consentimento NÃO desobriga os agentes de tratamento das demais obrigações previstas na Lei, especialmente da observância dos princípios gerais e da garantia dos direitos do titular. A alternativa A está correta e corresponde ao art. 8º, §4º. A alternativa B está correta e corresponde ao art. 8º, §2º, que atribui ao controlador o ônus da prova quanto à regularidade do consentimento. A alternativa C está correta e reproduz o art. 7º, §4º, relativo aos dados tornados manifestamente públicos pelo titular. A alternativa E está correta e reproduz o art. 8º, §5º, que assegura a revogação a qualquer momento, por procedimento gratuito e facilitado, ratificados os tratamentos realizados sob amparo do consentimento anteriormente manifestado enquanto não houver requerimento de eliminação.",
+    "fundamentacaoLegal": "Art. 7º, §§4º e 6º, da Lei nº 13.709/2018; art. 8º, §§2º, 4º e 5º."
+  },
+  {
+    "id": "lgpd-administracao-09",
+    "topicoId": "lgpd-administracao",
+    "topico": "LGPD aplicada à Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "Considerando a hipótese de tratamento fundada no legítimo interesse do controlador, tal como disciplinada nos arts. 7º, IX, e 10 da Lei nº 13.709/2018, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O legítimo interesse autoriza também o tratamento de dados pessoais sensíveis, desde que precedido da elaboração de relatório de impacto à proteção de dados pessoais."
+      },
+      {
+        "letra": "B",
+        "texto": "O legítimo interesse do controlador prevalece sobre os direitos e as liberdades fundamentais do titular, por decorrer de finalidade legítima previamente declarada."
+      },
+      {
+        "letra": "C",
+        "texto": "A autoridade nacional não pode solicitar relatório de impacto à proteção de dados pessoais quando o tratamento estiver fundado no legítimo interesse do controlador."
+      },
+      {
+        "letra": "D",
+        "texto": "As finalidades legítimas devem ser aferidas exclusivamente em abstrato, sendo vedada a consideração de situações concretas para a sua verificação."
+      },
+      {
+        "letra": "E",
+        "texto": "Somente os dados pessoais estritamente necessários para a finalidade pretendida poderão ser tratados, devendo o controlador adotar medidas para garantir a transparência do tratamento fundado em seu legítimo interesse."
+      }
+    ],
+    "gabarito": "E",
+    "comentario": "A alternativa E conjuga corretamente os §§1º e 2º do art. 10: o tratamento fundado no legítimo interesse limita-se aos dados estritamente necessários à finalidade pretendida, cabendo ao controlador adotar medidas para garantir a transparência. A alternativa A erra porque o rol do art. 11, que disciplina os dados pessoais sensíveis, não contempla o legítimo interesse como hipótese autorizadora, sendo o relatório de impacto instrumento de accountability que não cria base legal inexistente. A alternativa B erra porque o art. 7º, IX, ressalva expressamente os casos em que prevaleçam direitos e liberdades fundamentais do titular que exijam a proteção dos dados pessoais, impondo ponderação e não prevalência automática. A alternativa C erra porque o art. 10, §3º, autoriza a autoridade nacional a solicitar relatório de impacto justamente quando o tratamento tiver como fundamento o interesse legítimo, observados os segredos comercial e industrial. A alternativa D erra porque o art. 10, caput, determina que as finalidades legítimas sejam consideradas a partir de situações concretas, exemplificando com o apoio e a promoção de atividades do controlador e com a proteção do exercício regular de direitos do titular.",
+    "fundamentacaoLegal": "Art. 7º, IX, da Lei nº 13.709/2018; art. 10, caput e §§1º, 2º e 3º; art. 11."
+  },
+  {
+    "id": "lgpd-administracao-10",
+    "topicoId": "lgpd-administracao",
+    "topico": "LGPD aplicada à Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "Órgão municipal, na execução de política pública prevista em lei, verifica ser indispensável o tratamento compartilhado de dados pessoais qualificados como sensíveis pela Lei nº 13.709/2018. Sobre a solução jurídica cabível, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O tratamento é vedado em qualquer circunstância, ressalvada exclusivamente a hipótese de consentimento específico e destacado de cada titular."
+      },
+      {
+        "letra": "B",
+        "texto": "O tratamento pode ocorrer sem o fornecimento de consentimento, por ser indispensável ao tratamento compartilhado de dados necessários à execução, pela administração pública, de políticas públicas previstas em leis ou regulamentos, devendo ser dada publicidade à dispensa de consentimento."
+      },
+      {
+        "letra": "C",
+        "texto": "O tratamento independe de qualquer publicidade, bastando o registro interno da operação nos assentamentos do órgão."
+      },
+      {
+        "letra": "D",
+        "texto": "A hipótese exige autorização prévia e específica da autoridade nacional para cada operação de tratamento realizada pelo órgão."
+      },
+      {
+        "letra": "E",
+        "texto": "Os dados pessoais sensíveis podem ser tratados pelo órgão com fundamento no legítimo interesse do controlador público, dispensada qualquer formalidade adicional."
+      }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B conjuga o art. 11, II, alínea b, que autoriza o tratamento de dados sensíveis sem consentimento quando indispensável ao tratamento compartilhado de dados necessários à execução, pela administração pública, de políticas públicas previstas em leis ou regulamentos, com o art. 11, §2º, que impõe seja dada publicidade à dispensa de consentimento, nos termos do art. 23, I. A alternativa A erra porque generaliza indevidamente o consentimento como única via, ignorando as hipóteses de dispensa do art. 11, II. A alternativa C erra porque desconsidera o dever de publicidade do art. 11, §2º, e o dever de informação do art. 23, I, que exige informações claras e atualizadas sobre a previsão legal, a finalidade, os procedimentos e as práticas, preferencialmente em sítios eletrônicos. A alternativa D erra porque a Lei não condiciona o tratamento a autorização prévia da autoridade nacional, cuja atuação se dá por normas complementares, solicitação de informações e relatórios (arts. 29, 30 e 32). A alternativa E erra porque o legítimo interesse não figura entre as hipóteses do art. 11, não servindo de base legal para dados sensíveis.",
+    "fundamentacaoLegal": "Art. 11, II, alínea b, e §2º, da Lei nº 13.709/2018; art. 23, I; arts. 29, 30 e 32."
+  },
+  {
+    "id": "lgpd-administracao-11",
+    "topicoId": "lgpd-administracao",
+    "topico": "LGPD aplicada à Administração Pública",
+    "dificuldade": "media",
+    "enunciado": "Determinado ente municipal pretende divulgar bases estatísticas resultantes de processo de anonimização de dados pessoais anteriormente coletados no exercício de suas competências. Sobre o regime jurídico dos dados anonimizados, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os dados anonimizados jamais serão considerados dados pessoais, ainda que o processo de anonimização possa ser revertido com esforços razoáveis."
+      },
+      {
+        "letra": "B",
+        "texto": "A razoabilidade do esforço de reversão da anonimização é aferida exclusivamente segundo juízo discricionário do controlador, sem parâmetros legais."
+      },
+      {
+        "letra": "C",
+        "texto": "Os dados anonimizados não são considerados dados pessoais para os fins da Lei, salvo quando o processo de anonimização for revertido, utilizando exclusivamente meios próprios, ou quando, com esforços razoáveis, puder ser revertido."
+      },
+      {
+        "letra": "D",
+        "texto": "Os dados utilizados para formação do perfil comportamental de determinada pessoa natural, ainda que identificada, em nenhuma hipótese poderão ser considerados dados pessoais."
+      },
+      {
+        "letra": "E",
+        "texto": "A pseudonimização equivale à anonimização para todos os efeitos legais, afastando integralmente a incidência da Lei sobre os dados assim tratados."
+      }
+    ],
+    "gabarito": "C",
+    "comentario": "A alternativa C reproduz o art. 12, caput, que exclui os dados anonimizados do conceito de dado pessoal, ressalvadas a reversão do processo mediante meios próprios e a possibilidade de reversão com esforços razoáveis. A alternativa A erra porque suprime justamente a ressalva legal, transformando em absoluta uma regra que comporta exceção expressa. A alternativa B erra porque o art. 12, §1º, determina que a razoabilidade seja aferida por fatores objetivos, tais como custo e tempo necessários para reverter a anonimização, de acordo com as tecnologias disponíveis e a utilização exclusiva de meios próprios. A alternativa D erra porque o art. 12, §2º, dispõe que poderão ser igualmente considerados dados pessoais aqueles utilizados para formação do perfil comportamental de determinada pessoa natural, se identificada. A alternativa E erra porque a pseudonimização, definida no art. 13, §4º, é o tratamento por meio do qual o dado perde a possibilidade de associação direta ou indireta a um indivíduo senão pelo uso de informação mantida separadamente pelo controlador em ambiente controlado e seguro, não equivalendo à anonimização nem afastando a incidência da Lei.",
+    "fundamentacaoLegal": "Art. 12, caput e §§1º e 2º, da Lei nº 13.709/2018; art. 5º, III e XI; art. 13, §4º."
+  },
+  {
+    "id": "lgpd-administracao-12",
+    "topicoId": "lgpd-administracao",
+    "topico": "LGPD aplicada à Administração Pública",
+    "dificuldade": "media",
+    "enunciado": "Programa municipal de assistência estudantil demanda o tratamento de dados pessoais de crianças e de adolescentes matriculados na rede pública de ensino. À luz da Lei nº 13.709/2018, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O tratamento de dados pessoais de crianças e de adolescentes é integralmente vedado pela Lei, ainda que realizado por órgão público na execução de política pública."
+      },
+      {
+        "letra": "B",
+        "texto": "Exige-se o consentimento conjunto e cumulativo de ambos os pais, sob pena de nulidade do tratamento, sendo insuficiente a manifestação do responsável legal."
+      },
+      {
+        "letra": "C",
+        "texto": "É vedada, em qualquer hipótese, a coleta de dados pessoais de crianças sem o consentimento de pelo menos um dos pais ou do responsável legal."
+      },
+      {
+        "letra": "D",
+        "texto": "O tratamento deve ser realizado no melhor interesse da criança e do adolescente, exigindo-se, quanto aos dados de crianças, consentimento específico e em destaque dado por pelo menos um dos pais ou pelo responsável legal."
+      },
+      {
+        "letra": "E",
+        "texto": "É suficiente autorização genérica firmada pelos pais no ato da matrícula, abrangendo todo e qualquer tratamento futuro dos dados do estudante."
+      }
+    ],
+    "gabarito": "D",
+    "comentario": "A alternativa D conjuga o art. 14, caput, que impõe o tratamento no melhor interesse da criança e do adolescente, com o art. 14, §1º, que exige, para dados de crianças, consentimento específico e em destaque dado por pelo menos um dos pais ou pelo responsável legal. A alternativa A erra porque a Lei disciplina e condiciona o tratamento, não o proíbe. A alternativa B erra ao exigir manifestação conjunta de ambos os pais, quando o §1º se contenta com pelo menos um dos pais ou o responsável legal. A alternativa C erra porque o art. 14, §3º, admite a coleta de dados de crianças sem aquele consentimento quando necessária para contatar os pais ou o responsável legal, utilizados uma única vez e sem armazenamento, ou para sua proteção, vedado em qualquer caso o repasse a terceiro sem o consentimento. A alternativa E erra porque as autorizações genéricas são nulas (art. 8º, §4º), devendo o consentimento referir-se a finalidades determinadas e, no caso de crianças, ser específico e destacado.",
+    "fundamentacaoLegal": "Art. 14, caput e §§1º e 3º, da Lei nº 13.709/2018; art. 8º, §4º."
+  },
+  {
+    "id": "lgpd-administracao-13",
+    "topicoId": "lgpd-administracao",
+    "topico": "LGPD aplicada à Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre o término do tratamento de dados pessoais e a subsequente eliminação dos dados, nos termos dos arts. 15 e 16 da Lei nº 13.709/2018, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Encerrado o tratamento, a eliminação dos dados é sempre obrigatória e imediata, não admitindo a Lei qualquer hipótese de conservação."
+      },
+      {
+        "letra": "B",
+        "texto": "O término do tratamento ocorre exclusivamente por determinação da autoridade nacional, quando verificada violação à Lei."
+      },
+      {
+        "letra": "C",
+        "texto": "A revogação do consentimento pelo titular impõe o término imediato do tratamento, sem qualquer ressalva quanto ao interesse público."
+      },
+      {
+        "letra": "D",
+        "texto": "É vedada a conservação de dados para uso exclusivo do controlador, ainda que vedado o acesso por terceiro e anonimizados os dados."
+      },
+      {
+        "letra": "E",
+        "texto": "Os dados serão eliminados após o término do tratamento, sendo permitida a conservação para o cumprimento de obrigação legal ou regulatória pelo controlador, entre outras hipóteses legalmente previstas."
+      }
+    ],
+    "gabarito": "E",
+    "comentario": "A alternativa E corresponde ao art. 16, caput e inciso I, que impõe a eliminação após o término do tratamento, ressalvadas as hipóteses de conservação nele arroladas, dentre as quais o cumprimento de obrigação legal ou regulatória pelo controlador. A alternativa A erra por converter em absoluta uma regra expressamente excepcionada pelos incisos I a IV do art. 16. A alternativa B erra porque o art. 15 arrola quatro causas de término, quais sejam, a verificação de que a finalidade foi alcançada ou de que os dados deixaram de ser necessários ou pertinentes, o fim do período de tratamento, a comunicação do titular e a determinação da autoridade nacional, sendo esta apenas uma delas. A alternativa C erra porque o art. 15, III, ressalva expressamente o interesse público ao tratar da comunicação do titular, inclusive no exercício do direito de revogação do consentimento. A alternativa D erra porque o art. 16, IV, autoriza a conservação para uso exclusivo do controlador, vedado o acesso por terceiro e desde que anonimizados os dados.",
+    "fundamentacaoLegal": "Art. 15, I a IV, da Lei nº 13.709/2018; art. 16, caput e incisos I a IV; art. 8º, §5º."
+  },
+  {
+    "id": "lgpd-administracao-14",
+    "topicoId": "lgpd-administracao",
+    "topico": "LGPD aplicada à Administração Pública",
+    "dificuldade": "media",
+    "enunciado": "A Lei nº 13.709/2018 assegura ao titular, perante o agente de tratamento, um conjunto de direitos exercitáveis mediante requerimento expresso. Assinale a alternativa que apresenta prerrogativa que NÃO consta do rol legal de direitos do titular.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Confirmação da existência de tratamento e acesso aos dados."
+      },
+      {
+        "letra": "B",
+        "texto": "Correção de dados incompletos, inexatos ou desatualizados."
+      },
+      {
+        "letra": "C",
+        "texto": "Portabilidade dos dados a outro fornecedor de serviço ou produto, mediante requisição expressa, observados os segredos comercial e industrial."
+      },
+      {
+        "letra": "D",
+        "texto": "Informação das entidades públicas e privadas com as quais o controlador realizou uso compartilhado de dados."
+      },
+      {
+        "letra": "E",
+        "texto": "Indenização tarifada, previamente fixada em lei em múltiplos do salário mínimo, devida independentemente da comprovação de dano."
+      }
+    ],
+    "gabarito": "E",
+    "comentario": "A alternativa E é a que deve ser assinalada, pois a Lei nº 13.709/2018 não prevê indenização tarifada nem dispensa a comprovação do dano: a reparação segue o regime do art. 42, que exige dano patrimonial, moral, individual ou coletivo decorrente de violação à legislação de proteção de dados, admitida a inversão do ônus da prova pelo juiz (art. 42, §2º), mas sem tabelamento legal de valores. As alternativas A, B, C e D reproduzem, respectivamente, os incisos I e II, III, V e VII do art. 18. Registre-se que o rol do art. 18 abrange ainda a anonimização, o bloqueio ou a eliminação de dados desnecessários, excessivos ou tratados em desconformidade, a eliminação dos dados tratados com o consentimento, a informação sobre a possibilidade de não fornecer consentimento e a revogação do consentimento.",
+    "fundamentacaoLegal": "Art. 18, caput, incisos I a IX, da Lei nº 13.709/2018; art. 42, caput e §2º."
+  },
+  {
+    "id": "lgpd-administracao-15",
+    "topicoId": "lgpd-administracao",
+    "topico": "LGPD aplicada à Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "Titular de dados requer a órgão da Administração municipal a confirmação da existência de tratamento e o acesso aos seus dados pessoais. Sobre a forma e os prazos de atendimento previstos na Lei nº 13.709/2018, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A resposta em formato simplificado deve ser fornecida no prazo de 15 dias, ao passo que a declaração clara e completa deve ser prestada imediatamente."
+      },
+      {
+        "letra": "B",
+        "texto": "Ambas as modalidades de resposta sujeitam-se ao prazo comum de 30 dias, contado da data do requerimento."
+      },
+      {
+        "letra": "C",
+        "texto": "A resposta em formato simplificado deve ser fornecida imediatamente; a declaração clara e completa, que indique a origem dos dados, a inexistência de registro, os critérios utilizados e a finalidade do tratamento, deve ser fornecida no prazo de até 15 dias, contado da data do requerimento."
+      },
+      {
+        "letra": "D",
+        "texto": "O prazo é de 20 dias, prorrogável por mais 10 dias mediante justificativa expressa, por aplicação direta da Lei nº 13.709/2018."
+      },
+      {
+        "letra": "E",
+        "texto": "O atendimento pode ser condicionado ao prévio recolhimento de emolumentos fixados em regulamento do órgão."
+      }
+    ],
+    "gabarito": "C",
+    "comentario": "A alternativa C reproduz o art. 19, I e II: a confirmação de existência ou o acesso são providenciados em formato simplificado, imediatamente, ou por meio de declaração clara e completa, que indique a origem dos dados, a inexistência de registro, os critérios utilizados e a finalidade do tratamento, observados os segredos comercial e industrial, no prazo de até 15 dias contado da data do requerimento. A alternativa A inverte os prazos e as modalidades previstas nos incisos I e II do art. 19. A alternativa B erra ao criar prazo comum de 30 dias, inexistente na Lei. A alternativa D erra porque o prazo de 20 dias, prorrogável por mais 10 mediante justificativa, é o do art. 11, caput e §§1º e 2º, da Lei nº 12.527/2011, e não o do art. 19 da LGPD, embora o art. 23, §3º, da LGPD determine a observância da legislação específica quanto aos procedimentos perante o Poder Público. A alternativa E erra porque o art. 18, §5º, determina que o requerimento seja atendido sem custos para o titular.",
+    "fundamentacaoLegal": "Art. 19, caput, I e II, da Lei nº 13.709/2018; art. 18, §5º; art. 23, §3º; art. 11, §§1º e 2º, da Lei nº 12.527/2011."
+  },
+  {
+    "id": "lgpd-administracao-16",
+    "topicoId": "lgpd-administracao",
+    "topico": "LGPD aplicada à Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "Órgão fazendário municipal implanta sistema que, unicamente com base em tratamento automatizado de dados pessoais, classifica administrados em faixas de risco para fins de seleção de procedimentos fiscais. Sobre os direitos assegurados ao titular nessa situação, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O titular tem direito a solicitar a revisão de decisões tomadas unicamente com base em tratamento automatizado de dados pessoais que afetem seus interesses, devendo o controlador fornecer, sempre que solicitadas, informações claras e adequadas a respeito dos critérios e dos procedimentos utilizados, observados os segredos comercial e industrial."
+      },
+      {
+        "letra": "B",
+        "texto": "A Lei nº 13.709/2018 assegura, em seu texto vigente, que a revisão da decisão automatizada seja necessariamente realizada por pessoa natural."
+      },
+      {
+        "letra": "C",
+        "texto": "O direito à revisão alcança quaisquer decisões administrativas desfavoráveis ao administrado, ainda que não fundadas em tratamento automatizado."
+      },
+      {
+        "letra": "D",
+        "texto": "O controlador não está obrigado a fornecer informações sobre os critérios utilizados, por serem eles sigilosos por natureza."
+      },
+      {
+        "letra": "E",
+        "texto": "Invocado o segredo comercial e industrial para não fornecer as informações, a autoridade nacional fica impedida de adotar qualquer providência."
+      }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A conjuga o art. 20, caput, que assegura o direito de solicitar a revisão de decisões tomadas unicamente com base em tratamento automatizado que afetem os interesses do titular, com o §1º do mesmo artigo, que impõe ao controlador o dever de fornecer informações claras e adequadas sobre os critérios e procedimentos utilizados, observados os segredos comercial e industrial. A alternativa B erra porque a exigência de revisão por pessoa natural constava de dispositivo que não subsiste no texto vigente, de modo que a Lei assegura a revisão sem impor que seja humana. A alternativa C erra porque o art. 20 restringe-se às decisões tomadas unicamente com base em tratamento automatizado, não se confundindo com o direito genérico de recurso administrativo da Lei nº 9.784/1999. A alternativa D erra porque o dever de informar é expresso no art. 20, §1º, sendo o segredo comercial e industrial limite ao conteúdo, e não fundamento para negativa integral. A alternativa E erra porque o art. 20, §2º, autoriza a autoridade nacional a realizar auditoria para verificação de aspectos discriminatórios em tratamento automatizado quando não oferecidas as informações.",
+    "fundamentacaoLegal": "Art. 20, caput e §§1º e 2º, da Lei nº 13.709/2018."
+  },
+  {
+    "id": "lgpd-administracao-17",
+    "topicoId": "lgpd-administracao",
+    "topico": "LGPD aplicada à Administração Pública",
+    "dificuldade": "media",
+    "enunciado": "Sobre o regime do tratamento de dados pessoais pelo Poder Público, disciplinado no Capítulo IV da Lei nº 13.709/2018, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A divulgação das hipóteses em que o órgão realiza o tratamento de dados pessoais é meramente facultativa, por integrar o mérito administrativo."
+      },
+      {
+        "letra": "B",
+        "texto": "A indicação de encarregado é dispensada aos órgãos públicos, por já contarem com a autoridade de monitoramento prevista na Lei nº 12.527/2011."
+      },
+      {
+        "letra": "C",
+        "texto": "O Capítulo IV aplica-se somente aos órgãos da Administração direta federal, submetendo-se Estados e Municípios apenas às regras gerais dos Capítulos I a III."
+      },
+      {
+        "letra": "D",
+        "texto": "O tratamento deve ser realizado para o atendimento de sua finalidade pública, na persecução do interesse público, com o objetivo de executar as competências legais ou cumprir as atribuições legais do serviço público, informadas as hipóteses de tratamento em veículos de fácil acesso, preferencialmente nos sítios eletrônicos do órgão."
+      },
+      {
+        "letra": "E",
+        "texto": "O tratamento pelo Poder Público prescinde de finalidade pública específica, bastando a existência de dotação orçamentária que suporte a atividade."
+      }
+    ],
+    "gabarito": "D",
+    "comentario": "A alternativa D reproduz o art. 23, caput e inciso I, que condiciona o tratamento pelo Poder Público ao atendimento da finalidade pública, à persecução do interesse público e à execução de competências ou atribuições legais do serviço público, impondo ainda o dever de informar as hipóteses de tratamento, com informações claras e atualizadas sobre a previsão legal, a finalidade, os procedimentos e as práticas, em veículos de fácil acesso, preferencialmente em sítios eletrônicos. A alternativa A erra porque tal divulgação é dever legal, e não faculdade, sendo a publicidade princípio do art. 37, caput, da CF/88 e a transparência princípio do art. 6º, VI, da LGPD. A alternativa B erra porque o art. 23, III, exige a indicação de encarregado, e o §2º do mesmo artigo esclarece que a LGPD não dispensa a instituição das autoridades de que trata a Lei nº 12.527/2011, tratando-se de figuras cumulativas. A alternativa C erra porque o art. 1º, parágrafo único, estende as normas gerais a todos os entes federativos, e o art. 23 remete às pessoas jurídicas de direito público referidas no parágrafo único do art. 1º da Lei nº 12.527/2011. A alternativa E erra porque a finalidade pública é pressuposto expresso do art. 23, caput.",
+    "fundamentacaoLegal": "Art. 23, caput, incisos I e III, e §2º, da Lei nº 13.709/2018; art. 1º, parágrafo único; art. 6º, VI."
+  },
+  {
+    "id": "lgpd-administracao-18",
+    "topicoId": "lgpd-administracao",
+    "topico": "LGPD aplicada à Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "Considerando a articulação entre a Lei nº 13.709/2018 e os demais diplomas que regem a atuação administrativa e o acesso a informações, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A indicação do encarregado pelo tratamento de dados pessoais dispensa o órgão público de instituir as autoridades de que trata a Lei nº 12.527/2011."
+      },
+      {
+        "letra": "B",
+        "texto": "Os prazos e os procedimentos para o exercício dos direitos do titular perante o Poder Público observarão o disposto em legislação específica, em especial as disposições da Lei nº 9.507/1997, da Lei nº 9.784/1999 e da Lei nº 12.527/2011."
+      },
+      {
+        "letra": "C",
+        "texto": "A Lei nº 13.709/2018 revogou tacitamente a Lei nº 12.527/2011 na parte relativa ao tratamento de informações pessoais pelo Poder Público."
+      },
+      {
+        "letra": "D",
+        "texto": "O encarregado previsto na Lei nº 13.709/2018 e a autoridade de monitoramento da Lei nº 12.527/2011 devem, por imposição legal, recair necessariamente sobre a mesma pessoa."
+      },
+      {
+        "letra": "E",
+        "texto": "Os serviços notariais e de registro exercidos em caráter privado, por delegação do Poder Público, submetem-se ao mesmo regime das pessoas jurídicas de direito privado em geral."
+      }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B reproduz o art. 23, §3º, que remete os prazos e procedimentos de exercício dos direitos do titular perante o Poder Público à legislação específica, com menção expressa à Lei nº 9.507/1997 (habeas data), à Lei nº 9.784/1999 (processo administrativo) e à Lei nº 12.527/2011 (acesso à informação). A alternativa A erra porque o art. 23, §2º, dispõe expressamente que a LGPD não dispensa a instituição das autoridades de que trata a Lei nº 12.527/2011. A alternativa C erra porque não há revogação, mas convivência e complementaridade entre os diplomas, como demonstram o art. 23, caput e §§2º e 3º; a restrição de acesso a informações pessoais permanece regida pelo art. 31 da Lei nº 12.527/2011. A alternativa D erra porque a Lei não impõe a coincidência subjetiva entre encarregado e autoridade de monitoramento, embora não a proíba, tratando-se de decisão de organização administrativa. A alternativa E erra porque o art. 23, §4º, determina que os serviços notariais e de registro exercidos em caráter privado, por delegação, tenham o mesmo tratamento dispensado às pessoas jurídicas de direito público referidas no caput.",
+    "fundamentacaoLegal": "Art. 23, caput e §§2º, 3º e 4º, da Lei nº 13.709/2018; art. 31 da Lei nº 12.527/2011."
+  },
+  {
+    "id": "lgpd-administracao-19",
+    "topicoId": "lgpd-administracao",
+    "topico": "LGPD aplicada à Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre o regime aplicável às empresas públicas e às sociedades de economia mista em matéria de proteção de dados pessoais, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Por integrarem a Administração indireta, submetem-se sempre e integralmente ao regime do capítulo relativo ao tratamento de dados pelo Poder Público."
+      },
+      {
+        "letra": "B",
+        "texto": "Submetem-se sempre ao regime das pessoas jurídicas de direito privado, sem qualquer exceção, ante a natureza jurídica dessas entidades."
+      },
+      {
+        "letra": "C",
+        "texto": "Estão excluídas do âmbito de aplicação da Lei nº 13.709/2018, por força de disposição expressa que as remete a regulamentação setorial própria."
+      },
+      {
+        "letra": "D",
+        "texto": "O regime aplicável é definido por ato discricionário do ente federativo controlador, mediante decreto que opte pelo regime público ou privado."
+      },
+      {
+        "letra": "E",
+        "texto": "As que atuam em regime de concorrência, sujeitas ao disposto no art. 173 da Constituição Federal, terão o mesmo tratamento dispensado às pessoas jurídicas de direito privado; contudo, quando estiverem operacionalizando políticas públicas e no âmbito da execução delas, terão o mesmo tratamento dispensado aos órgãos e às entidades do Poder Público."
+      }
+    ],
+    "gabarito": "E",
+    "comentario": "A alternativa E reproduz o art. 24, caput e parágrafo único, que consagra regime dúplice: em regime concorrencial, submetido ao art. 173 da CF/88, aplica-se às estatais o tratamento das pessoas jurídicas de direito privado; quando operacionalizam políticas públicas e no âmbito da execução delas, aplica-se o regime do Capítulo IV, próprio do Poder Público. A alternativa A erra por generalizar o regime público, ignorando a regra do caput do art. 24. A alternativa B erra por generalizar o regime privado, desconsiderando a exceção do parágrafo único do art. 24. A alternativa C erra porque não há exclusão dessas entidades do âmbito da Lei, que expressamente as disciplina no art. 24. A alternativa D erra porque o critério é legal e objetivo, fundado na atividade desempenhada, e não discricionário do ente controlador.",
+    "fundamentacaoLegal": "Art. 24, caput e parágrafo único, da Lei nº 13.709/2018; art. 173 da CF/88."
+  },
+  {
+    "id": "lgpd-administracao-20",
+    "topicoId": "lgpd-administracao",
+    "topico": "LGPD aplicada à Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "A Lei nº 13.709/2018 veda ao Poder Público transferir a entidades privadas dados pessoais constantes de bases de dados a que tenha acesso, ressalvadas hipóteses expressamente previstas. Assinale a alternativa que NÃO configura exceção legal a essa vedação.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Execução descentralizada de atividade pública que exija a transferência, exclusivamente para esse fim específico e determinado, observado o disposto na Lei nº 12.527/2011."
+      },
+      {
+        "letra": "B",
+        "texto": "Hipótese em que os dados forem acessíveis publicamente, observadas as disposições da Lei nº 13.709/2018."
+      },
+      {
+        "letra": "C",
+        "texto": "Transferência destinada a viabilizar a exploração econômica dos dados por entidade privada, mediante contraprestação pecuniária ao ente público cedente."
+      },
+      {
+        "letra": "D",
+        "texto": "Existência de previsão legal ou transferência respaldada em contratos, convênios ou instrumentos congêneres."
+      },
+      {
+        "letra": "E",
+        "texto": "Transferência que objetive exclusivamente a prevenção de fraudes e irregularidades, ou proteger e resguardar a segurança e a integridade do titular dos dados, vedado o tratamento para outras finalidades."
+      }
+    ],
+    "gabarito": "C",
+    "comentario": "A alternativa C é a que deve ser assinalada, pois a exploração econômica de dados pessoais mediante contraprestação ao ente cedente não figura entre as exceções do art. 26, §1º, sendo incompatível com o art. 26, caput, que exige finalidades específicas de execução de políticas públicas e atribuição legal, e com os princípios do art. 6º. As demais alternativas reproduzem as exceções legais: a alternativa A corresponde ao art. 26, §1º, I; a alternativa B, ao art. 26, §1º, III; a alternativa D, ao art. 26, §1º, IV; e a alternativa E, ao art. 26, §1º, V. Registre-se ainda que, nos termos do art. 26, §2º, os contratos e convênios que respaldem a transferência deverão ser comunicados à autoridade nacional.",
+    "fundamentacaoLegal": "Art. 26, caput e §§1º, incisos I, III, IV e V, e 2º, da Lei nº 13.709/2018; art. 6º."
+  },
+  {
+    "id": "lgpd-administracao-21",
+    "topicoId": "lgpd-administracao",
+    "topico": "LGPD aplicada à Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "A respeito da comunicação ou do uso compartilhado de dados pessoais de pessoa jurídica de direito público a pessoa de direito privado, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É vedada em caráter absoluto, por incompatibilidade com o princípio da indisponibilidade do interesse público."
+      },
+      {
+        "letra": "B",
+        "texto": "Será informada à autoridade nacional e dependerá de consentimento do titular, ressalvadas as hipóteses de dispensa de consentimento previstas na Lei, os casos de uso compartilhado de dados em que seja dada publicidade nos termos do art. 23, I, e as exceções constantes do art. 26, §1º."
+      },
+      {
+        "letra": "C",
+        "texto": "Independe de comunicação à autoridade nacional e de consentimento do titular, bastando a motivação do ato administrativo que a autorize."
+      },
+      {
+        "letra": "D",
+        "texto": "Depende sempre de autorização legislativa específica do ente federativo a que pertença o órgão detentor dos dados."
+      },
+      {
+        "letra": "E",
+        "texto": "Depende de prévia anuência do Tribunal de Contas competente, a título de controle externo prévio da operação."
+      }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B reproduz o art. 27, caput e incisos I, II e III: a comunicação ou o uso compartilhado de dados pessoais de pessoa jurídica de direito público a pessoa de direito privado será informado à autoridade nacional e dependerá de consentimento do titular, salvo nas hipóteses de dispensa previstas na Lei, nos casos de uso compartilhado com publicidade nos termos do art. 23, I, e nas exceções do art. 26, §1º. A alternativa A erra por transformar em vedação absoluta o que a Lei disciplina como regra com exceções expressas. A alternativa C erra porque suprime simultaneamente o dever de informar a autoridade nacional e a exigência de consentimento, previstos no caput do art. 27. A alternativa D erra porque a Lei não condiciona a operação a autorização legislativa específica, bastando o enquadramento nas hipóteses legais. A alternativa E erra porque não há previsão de controle externo prévio pelo Tribunal de Contas, cuja atuação, no ponto, é posterior e fundada em suas competências constitucionais.",
+    "fundamentacaoLegal": "Art. 27, caput e incisos I, II e III, da Lei nº 13.709/2018; art. 23, I; art. 26, §1º."
+  },
+  {
+    "id": "lgpd-administracao-22",
+    "topicoId": "lgpd-administracao",
+    "topico": "LGPD aplicada à Administração Pública",
+    "dificuldade": "media",
+    "enunciado": "Verificada a ocorrência de infração à Lei nº 13.709/2018 em decorrência do tratamento de dados pessoais por órgão público, assinale a alternativa que indica providência expressamente atribuída à autoridade nacional.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Enviar informe com medidas cabíveis para fazer cessar a violação."
+      },
+      {
+        "letra": "B",
+        "texto": "Decretar, desde logo e obrigatoriamente, a suspensão definitiva de todas as atividades de tratamento do órgão infrator."
+      },
+      {
+        "letra": "C",
+        "texto": "Abster-se de qualquer providência, por não dispor de atribuições em face de órgãos e entidades públicos."
+      },
+      {
+        "letra": "D",
+        "texto": "Atuar exclusivamente mediante prévia provocação do Ministério Público ou do Tribunal de Contas competente."
+      },
+      {
+        "letra": "E",
+        "texto": "Solicitar a anulação do ato administrativo que deu causa à infração, por ser esta competência privativa da autoridade nacional."
+      }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A reproduz o art. 31, segundo o qual, havendo infração à Lei em decorrência do tratamento de dados pessoais por órgãos públicos, a autoridade nacional poderá enviar informe com medidas cabíveis para fazer cessar a violação. A alternativa B erra porque a suspensão é sanção do art. 52, X e XI, aplicável por prazo determinado, mediante processo administrativo com ampla defesa e de forma gradativa, jamais decretada de imediato e em caráter definitivo. A alternativa C erra porque a Lei confere atribuições expressas à autoridade nacional perante o Poder Público, como as dos arts. 29, 31 e 32. A alternativa D erra porque a atuação independe de provocação desses órgãos, sendo a autoridade nacional dotada de competência própria e podendo agir de ofício. A alternativa E erra porque a anulação de atos administrativos decorre da autotutela da própria Administração e do controle judicial, não constituindo competência privativa da autoridade nacional, à qual o art. 32 permite, ademais, solicitar a publicação de relatórios de impacto e sugerir padrões e boas práticas.",
+    "fundamentacaoLegal": "Arts. 29, 31 e 32 da Lei nº 13.709/2018; art. 52, X e XI, e §1º."
+  },
+  {
+    "id": "lgpd-administracao-23",
+    "topicoId": "lgpd-administracao",
+    "topico": "LGPD aplicada à Administração Pública",
+    "dificuldade": "media",
+    "enunciado": "A Lei nº 13.709/2018 impõe ao controlador a indicação de encarregado pelo tratamento de dados pessoais, arrolando as atividades por ele desempenhadas. Assinale a alternativa que apresenta atribuição que NÃO é conferida ao encarregado pela referida Lei.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aceitar reclamações e comunicações dos titulares, prestar esclarecimentos e adotar providências."
+      },
+      {
+        "letra": "B",
+        "texto": "Receber comunicações da autoridade nacional e adotar providências."
+      },
+      {
+        "letra": "C",
+        "texto": "Orientar os funcionários e os contratados da entidade a respeito das práticas a serem tomadas em relação à proteção de dados pessoais."
+      },
+      {
+        "letra": "D",
+        "texto": "Aplicar aos agentes de tratamento infratores as sanções administrativas de multa, bloqueio e suspensão previstas na Lei."
+      },
+      {
+        "letra": "E",
+        "texto": "Executar as demais atribuições determinadas pelo controlador ou estabelecidas em normas complementares."
+      }
+    ],
+    "gabarito": "D",
+    "comentario": "A alternativa D é a que deve ser assinalada, pois a aplicação das sanções administrativas é competência da autoridade nacional, nos termos do art. 52, caput, e do art. 55-J, IV, mediante processo administrativo que assegure o contraditório, a ampla defesa e o direito de recurso, não se incluindo entre as atividades do encarregado. As alternativas A, B, C e E reproduzem, respectivamente, os incisos I, II, III e IV do art. 41, §2º. Vale lembrar que o encarregado é definido no art. 5º, VIII, como a pessoa indicada pelo controlador e pelo operador para atuar como canal de comunicação entre o controlador, os titulares dos dados e a autoridade nacional.",
+    "fundamentacaoLegal": "Art. 41, §2º, incisos I a IV, da Lei nº 13.709/2018; art. 5º, VIII; art. 52, caput; art. 55-J, IV."
+  },
+  {
+    "id": "lgpd-administracao-24",
+    "topicoId": "lgpd-administracao",
+    "topico": "LGPD aplicada à Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "Município edita ato normativo para disciplinar a indicação do encarregado pelo tratamento de dados pessoais no âmbito de sua Administração direta. À luz da Lei nº 13.709/2018, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A identidade e as informações de contato do encarregado deverão ser divulgadas publicamente, de forma clara e objetiva, preferencialmente no sítio eletrônico do controlador."
+      },
+      {
+        "letra": "B",
+        "texto": "A Lei exige que o encarregado seja necessariamente ocupante de cargo de provimento efetivo e que exerça a função em regime de dedicação exclusiva."
+      },
+      {
+        "letra": "C",
+        "texto": "A indicação do encarregado compete à autoridade nacional, mediante ato de nomeação dirigido ao ente federativo."
+      },
+      {
+        "letra": "D",
+        "texto": "A Lei veda que a autoridade nacional estabeleça hipóteses de dispensa da necessidade de indicação de encarregado."
+      },
+      {
+        "letra": "E",
+        "texto": "A divulgação dos dados de contato do encarregado é facultativa, bastando comunicação interna aos servidores do órgão."
+      }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A reproduz o art. 41, §1º, que impõe a divulgação pública, de forma clara e objetiva, da identidade e das informações de contato do encarregado, preferencialmente no sítio eletrônico do controlador. A alternativa B erra porque a Lei não estabelece requisitos de vínculo funcional, de forma de provimento ou de dedicação exclusiva para o encarregado, cabendo à organização administrativa de cada ente definir tais aspectos. A alternativa C erra porque a indicação do encarregado compete ao controlador, conforme o art. 41, caput, e não à autoridade nacional. A alternativa D erra porque o art. 41, §3º, autoriza expressamente a autoridade nacional a estabelecer normas complementares sobre a definição e as atribuições do encarregado, inclusive hipóteses de dispensa da necessidade de sua indicação, conforme a natureza e o porte da entidade ou o volume de operações de tratamento. A alternativa E erra porque a divulgação é dever legal expresso, coerente com os princípios da publicidade e da transparência.",
+    "fundamentacaoLegal": "Art. 41, caput e §§1º, 2º e 3º, da Lei nº 13.709/2018; art. 23, III."
+  },
+  {
+    "id": "lgpd-administracao-25",
+    "topicoId": "lgpd-administracao",
+    "topico": "LGPD aplicada à Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "Administrado sofre dano em razão de tratamento irregular de seus dados pessoais realizado por órgão da Administração municipal, no exercício de atividade administrativa. Sobre a responsabilidade civil daí decorrente, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A responsabilidade do Município é subjetiva, dependendo da demonstração de dolo específico do agente público envolvido no tratamento."
+      },
+      {
+        "letra": "B",
+        "texto": "O operador jamais responde pelos danos causados, por atuar sempre segundo as instruções recebidas do controlador."
+      },
+      {
+        "letra": "C",
+        "texto": "O controlador ou o operador que, em razão do exercício de atividade de tratamento de dados pessoais, causar a outrem dano patrimonial, moral, individual ou coletivo, em violação à legislação de proteção de dados pessoais, é obrigado a repará-lo, incidindo, quanto à pessoa jurídica de direito público, a responsabilidade objetiva prevista no art. 37, §6º, da Constituição Federal, assegurado o direito de regresso contra o agente nos casos de dolo ou culpa."
+      },
+      {
+        "letra": "D",
+        "texto": "É vedada ao juiz, no processo civil, a inversão do ônus da prova em favor do titular dos dados, ainda que verossímil a alegação."
+      },
+      {
+        "letra": "E",
+        "texto": "A culpa exclusiva do titular dos dados ou de terceiro não afasta a responsabilidade dos agentes de tratamento, dada a natureza objetiva do regime."
+      }
+    ],
+    "gabarito": "C",
+    "comentario": "A alternativa C conjuga o art. 42, caput, da Lei nº 13.709/2018 com o art. 37, §6º, da CF/88, que consagra a responsabilidade objetiva das pessoas jurídicas de direito público pelos danos que seus agentes, nessa qualidade, causarem a terceiros, assegurado o direito de regresso contra o responsável nos casos de dolo ou culpa. A alternativa A erra porque afasta indevidamente a responsabilidade objetiva do ente público e ainda exige dolo específico, requisito inexistente. A alternativa B erra porque o art. 42, §1º, I, prevê que o operador responde solidariamente quando descumprir as obrigações da legislação de proteção de dados ou quando não tiver seguido as instruções lícitas do controlador, equiparando-se a este. A alternativa D erra porque o art. 42, §2º, autoriza o juiz a inverter o ônus da prova quando for verossímil a alegação, houver hipossuficiência para fins de produção de prova ou quando a produção de prova pelo titular resultar excessivamente onerosa. A alternativa E erra porque o art. 43, III, exclui a responsabilidade quando comprovado que o dano decorre de culpa exclusiva do titular dos dados ou de terceiro.",
+    "fundamentacaoLegal": "Art. 42, caput e §§1º, I, e 2º, da Lei nº 13.709/2018; art. 43, I a III; art. 44; art. 37, §6º, da CF/88."
+  },
+  {
+    "id": "lgpd-administracao-26",
+    "topicoId": "lgpd-administracao",
+    "topico": "LGPD aplicada à Administração Pública",
+    "dificuldade": "media",
+    "enunciado": "Sobre o dever de comunicação de incidente de segurança envolvendo dados pessoais, previsto na Lei nº 13.709/2018, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A Lei fixa expressamente, em seu próprio texto, o prazo de 30 dias corridos para a comunicação do incidente, contado da data de sua ocorrência."
+      },
+      {
+        "letra": "B",
+        "texto": "A comunicação é dirigida exclusivamente à autoridade nacional, sendo vedada a comunicação aos titulares, para evitar alarme social."
+      },
+      {
+        "letra": "C",
+        "texto": "A autoridade nacional não pode determinar a ampla divulgação do fato em meios de comunicação, por se tratar de medida estranha às suas atribuições."
+      },
+      {
+        "letra": "D",
+        "texto": "O dever de comunicação incide somente sobre controladores privados, estando os órgãos públicos submetidos apenas às normas de arquivo e sigilo administrativo."
+      },
+      {
+        "letra": "E",
+        "texto": "O controlador deverá comunicar à autoridade nacional e ao titular a ocorrência de incidente de segurança que possa acarretar risco ou dano relevante aos titulares, em prazo razoável, conforme definido pela autoridade nacional."
+      }
+    ],
+    "gabarito": "E",
+    "comentario": "A alternativa E reproduz o art. 48, caput e §1º: o controlador deve comunicar à autoridade nacional e ao titular a ocorrência de incidente de segurança que possa acarretar risco ou dano relevante aos titulares, em prazo razoável conforme definido pela autoridade nacional, devendo a comunicação mencionar, no mínimo, a natureza dos dados afetados, informações sobre os titulares envolvidos, as medidas técnicas e de segurança utilizadas, os riscos relacionados, os motivos da demora e as medidas adotadas para reverter ou mitigar os efeitos. A alternativa A erra porque o texto legal não fixa prazo em dias, remetendo sua definição à autoridade nacional. A alternativa B erra porque o caput do art. 48 impõe a comunicação também ao titular. A alternativa C erra porque o art. 48, §2º, I, autoriza a autoridade nacional a determinar a ampla divulgação do fato em meios de comunicação, além de medidas para reverter ou mitigar os efeitos do incidente. A alternativa D erra porque o dever alcança todos os controladores, inclusive os órgãos públicos, submetidos ao art. 23 e aos deveres de segurança do art. 46.",
+    "fundamentacaoLegal": "Art. 48, caput e §§1º e 2º, da Lei nº 13.709/2018; art. 46; art. 23."
+  },
+  {
+    "id": "lgpd-administracao-27",
+    "topicoId": "lgpd-administracao",
+    "topico": "LGPD aplicada à Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre as sanções administrativas previstas na Lei nº 13.709/2018 e sua aplicação aos órgãos e entidades públicos, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A multa simples tem por base de cálculo o faturamento da pessoa jurídica de direito privado, grupo ou conglomerado no Brasil, no seu último exercício, excluídos os tributos, limitada, no total, a R$ 50.000.000,00 por infração, razão pela qual, em relação aos órgãos e entidades de direito público, assumem relevo sanções como advertência, publicização da infração, bloqueio e eliminação dos dados."
+      },
+      {
+        "letra": "B",
+        "texto": "A multa simples aplicável ao ente público infrator corresponde a até 20% do valor de seu orçamento anual, limitada ao dobro do dano causado."
+      },
+      {
+        "letra": "C",
+        "texto": "As sanções são aplicadas de imediato pela autoridade nacional, independentemente de procedimento administrativo que possibilite a oportunidade de ampla defesa."
+      },
+      {
+        "letra": "D",
+        "texto": "A sanção de suspensão parcial do funcionamento do banco de dados a que se refere a infração é aplicada em caráter definitivo, vedada sua revisão."
+      },
+      {
+        "letra": "E",
+        "texto": "As sanções previstas na Lei nº 13.709/2018 substituem integralmente as sanções administrativas, civis ou penais definidas em legislação específica."
+      }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A está correta: o art. 52, II, define a multa simples em até 2% do faturamento da pessoa jurídica de direito privado, grupo ou conglomerado no Brasil no último exercício, excluídos os tributos, limitada, no total, a R$ 50.000.000,00 por infração; por ter a própria lei elegido base de cálculo referida a pessoa jurídica de direito privado, a doutrina majoritária reconhece a inaplicabilidade das sanções pecuniárias dos incisos II e III aos órgãos e entidades de direito público, remanescendo as demais sanções do art. 52 e os instrumentos específicos dos arts. 31 e 32. A alternativa B erra por inventar base de cálculo e limites inexistentes na Lei. A alternativa C erra porque o art. 52, §1º, condiciona a aplicação das sanções a procedimento administrativo que possibilite a oportunidade de ampla defesa, de forma gradativa, isolada ou cumulativa, observados os parâmetros ali fixados. A alternativa D erra porque o art. 52, X, prevê a suspensão parcial do funcionamento do banco de dados pelo período máximo de seis meses, prorrogável por igual período, até a regularização da atividade de tratamento. A alternativa E erra porque o art. 52, §3º, estabelece que o disposto no artigo não substitui a aplicação de sanções administrativas, civis ou penais definidas na Lei nº 8.078/1990 e em legislação específica.",
+    "fundamentacaoLegal": "Art. 52, caput, incisos I a XII, e §§1º e 3º, da Lei nº 13.709/2018; arts. 31 e 32; art. 53."
+  },
+  {
+    "id": "lgpd-administracao-28",
+    "topicoId": "lgpd-administracao",
+    "topico": "LGPD aplicada à Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "Órgão municipal recebe pedido de acesso à informação cujo atendimento implicaria a divulgação de informações pessoais relativas à intimidade, à vida privada, à honra e à imagem de terceiros. Considerando a articulação entre a Lei nº 12.527/2011 e a Lei nº 13.709/2018, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O princípio da publicidade assegura acesso irrestrito a informações pessoais constantes de bases de dados públicas, vedada qualquer restrição."
+      },
+      {
+        "letra": "B",
+        "texto": "As informações pessoais relativas à intimidade, à vida privada, à honra e à imagem terão seu acesso restrito, independentemente de classificação de sigilo, pelo prazo máximo de 100 anos a contar da sua data de produção, a agentes públicos legalmente autorizados e à pessoa a que elas se referirem."
+      },
+      {
+        "letra": "C",
+        "texto": "O prazo de restrição de acesso a tais informações é de 25 anos, prorrogável uma única vez por igual período."
+      },
+      {
+        "letra": "D",
+        "texto": "A Lei nº 13.709/2018 revogou o art. 31 da Lei nº 12.527/2011, passando a matéria a reger-se exclusivamente pelas bases legais de tratamento."
+      },
+      {
+        "letra": "E",
+        "texto": "O consentimento expresso do titular é sempre indispensável para a divulgação ou o acesso a informações pessoais, não admitindo o ordenamento qualquer exceção."
+      }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B reproduz o art. 31, §1º, I, da Lei nº 12.527/2011, segundo o qual as informações pessoais relativas à intimidade, vida privada, honra e imagem terão seu acesso restrito, independentemente de classificação de sigilo, pelo prazo máximo de 100 anos a contar da data de sua produção, a agentes públicos legalmente autorizados e à pessoa a que se referirem. A alternativa A erra porque o próprio art. 31 da Lei nº 12.527/2011 e o art. 5º, X, da CF/88 impõem restrição, sendo a publicidade princípio compatível com a proteção da intimidade. A alternativa C erra porque o prazo de 25 anos, prorrogável uma única vez, é o de sigilo da informação classificada como ultrassecreta, previsto no art. 24, §1º, I, e §2º, da Lei nº 12.527/2011, não se aplicando às informações pessoais. A alternativa D erra porque não houve revogação, convivendo os diplomas por força do art. 23, caput e §3º, da Lei nº 13.709/2018. A alternativa E erra porque o art. 31, §3º, da Lei nº 12.527/2011 dispensa o consentimento em hipóteses como a prevenção e o diagnóstico médico, a realização de estatísticas e pesquisas de interesse público com vedação à identificação, o cumprimento de ordem judicial, a defesa de direitos humanos e a proteção do interesse público e geral preponderante.",
+    "fundamentacaoLegal": "Art. 31, caput e §§1º, I, e 3º, da Lei nº 12.527/2011; art. 24, §1º, I, e §2º, da Lei nº 12.527/2011; art. 23, caput e §3º, da Lei nº 13.709/2018."
+  },
+  {
+    "id": "lgpd-administracao-29",
+    "topicoId": "lgpd-administracao",
+    "topico": "LGPD aplicada à Administração Pública",
+    "dificuldade": "media",
+    "enunciado": "Sobre o tratamento constitucional conferido à proteção de dados pessoais após a Emenda Constitucional nº 115/2022, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A competência para legislar sobre proteção e tratamento de dados pessoais é concorrente entre a União, os Estados e o Distrito Federal, cabendo à União apenas normas gerais."
+      },
+      {
+        "letra": "B",
+        "texto": "A proteção de dados pessoais permanece sem assento constitucional expresso, decorrendo exclusivamente de lei ordinária federal."
+      },
+      {
+        "letra": "C",
+        "texto": "Compete privativamente aos Municípios legislar sobre proteção de dados pessoais tratados por seus órgãos, por se tratar de assunto de interesse local."
+      },
+      {
+        "letra": "D",
+        "texto": "A Emenda Constitucional nº 115/2022 incluiu, entre os direitos e garantias fundamentais, o direito à proteção dos dados pessoais, inclusive nos meios digitais, e fixou a competência privativa da União para legislar sobre proteção e tratamento de dados pessoais."
+      },
+      {
+        "letra": "E",
+        "texto": "A organização e a fiscalização da proteção e do tratamento de dados pessoais competem aos Estados, em razão da competência remanescente prevista no art. 25, §1º, da Constituição Federal."
+      }
+    ],
+    "gabarito": "D",
+    "comentario": "A alternativa D está correta: a Emenda Constitucional nº 115/2022 acrescentou o inciso LXXIX ao art. 5º da CF/88, assegurando, nos termos da lei, o direito à proteção dos dados pessoais, inclusive nos meios digitais, e incluiu o inciso XXX no art. 22, atribuindo à União competência privativa para legislar sobre proteção e tratamento de dados pessoais, além do inciso XXVI do art. 21, que confere à União organizar e fiscalizar a proteção e o tratamento de dados pessoais, nos termos da lei. A alternativa A erra porque a competência legislativa é privativa da União (art. 22, XXX), e não concorrente. A alternativa B erra porque há previsão constitucional expressa desde a EC nº 115/2022, além de o STF já haver reconhecido, no julgamento das medidas cautelares nas ADIs 6.387, 6.388, 6.389, 6.390 e 6.393, a proteção de dados pessoais como direito fundamental autônomo. A alternativa C erra porque a competência privativa é da União, cabendo aos Municípios apenas suplementar a legislação federal e estadual no que couber (art. 30, II). A alternativa E erra porque a organização e a fiscalização competem à União, nos termos do art. 21, XXVI.",
+    "fundamentacaoLegal": "Art. 5º, LXXIX, art. 21, XXVI, art. 22, XXX, e art. 30, I e II, da CF/88, com a redação dada pela Emenda Constitucional nº 115/2022."
+  },
+  {
+    "id": "lgpd-administracao-30",
+    "topicoId": "lgpd-administracao",
+    "topico": "LGPD aplicada à Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "A respeito da vigência da Lei nº 13.709/2018 e do início da eficácia de seus dispositivos, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A Lei entrou integralmente em vigor na data de sua publicação, em razão da relevância dos direitos fundamentais por ela tutelados."
+      },
+      {
+        "letra": "B",
+        "texto": "Os dispositivos relativos à criação da autoridade nacional passaram a vigorar somente no ano de 2021, juntamente com as sanções administrativas."
+      },
+      {
+        "letra": "C",
+        "texto": "As sanções administrativas previstas nos arts. 52, 53 e 54 passaram a vigorar em 1º de agosto de 2021, ao passo que os demais dispositivos da Lei já se encontravam em vigor anteriormente a essa data."
+      },
+      {
+        "letra": "D",
+        "texto": "A Lei somente produz efeitos em relação aos órgãos e entidades do Poder Público após a edição de regulamento específico pela autoridade nacional."
+      },
+      {
+        "letra": "E",
+        "texto": "A vigência da Lei foi integralmente diferida para a data da instalação do Conselho Nacional de Proteção de Dados Pessoais e da Privacidade."
+      }
+    ],
+    "gabarito": "C",
+    "comentario": "A alternativa C está correta: o art. 65 da Lei nº 13.709/2018 estabeleceu vigência escalonada, e o inciso I-A, incluído pela Lei nº 14.010/2020, fixou em 1º de agosto de 2021 o início da vigência dos arts. 52, 53 e 54, relativos às sanções administrativas, enquanto os demais dispositivos já vigoravam desde momento anterior. A alternativa A erra porque a Lei foi publicada em 2018 com vacatio legis expressa, não tendo entrado em vigor de imediato. A alternativa B erra porque o art. 65, I, fixou em 28 de dezembro de 2018 a vigência dos dispositivos referentes à autoridade nacional e ao Conselho Nacional de Proteção de Dados Pessoais e da Privacidade, data diversa daquela prevista para as sanções. A alternativa D erra porque a eficácia da Lei perante o Poder Público não está condicionada a regulamento, sem prejuízo da competência da autoridade nacional para editar normas complementares (arts. 30 e 55-J). A alternativa E erra porque a vigência não foi condicionada à instalação do referido Conselho, órgão de composição plural com atribuições consultivas e propositivas.",
+    "fundamentacaoLegal": "Art. 65, incisos I, I-A e II, da Lei nº 13.709/2018, com as alterações das Leis nº 14.010/2020 e nº 14.058/2020; art. 58-A."
+  }
+]
