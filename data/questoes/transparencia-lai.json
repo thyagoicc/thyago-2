@@ -1,0 +1,172 @@
+[
+  {
+    "id": "transparencia-lai-01",
+    "topicoId": "transparencia-lai",
+    "topico": "Transparência e acesso à informação",
+    "dificuldade": "dificil",
+    "enunciado": "Associação civil sem fins lucrativos, sediada no Município de Campina Grande/PB, recebe recursos públicos municipais mediante termo de parceria para execução de programa de assistência social. Quanto à aplicação da Lei nº 12.527/2011 a essa entidade, é correto afirmar que:",
+    "alternativas": [
+      { "letra": "A", "texto": "a Lei nº 12.527/2011 não se aplica a entidades privadas, ainda que recebam recursos públicos, por serem pessoas jurídicas de direito privado alheias à Administração Pública." },
+      { "letra": "B", "texto": "as disposições da Lei nº 12.527/2011 aplicam-se subsidiariamente à entidade, no que couber, restringindo-se o dever de publicidade à parcela dos recursos públicos recebidos e à sua destinação." },
+      { "letra": "C", "texto": "a entidade sujeita-se ao regime integral da Lei nº 12.527/2011, inclusive quanto à divulgação de sua receita própria e de recursos de origem exclusivamente privada." },
+      { "letra": "D", "texto": "a aplicação da Lei nº 12.527/2011 depende de expressa previsão no termo de parceria, sem a qual a entidade permanece totalmente desobrigada de prestar informações sobre os recursos recebidos." },
+      { "letra": "E", "texto": "somente as entidades que recebem recursos públicos superiores a 50% de seu orçamento anual submetem-se à Lei nº 12.527/2011, por força de seu art. 2º." }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B está correta e reproduz o regime do art. 1º, parágrafo único, e do art. 2º da Lei nº 12.527/2011: entidades privadas sem fins lucrativos que recebam recursos públicos para realização de ações de interesse público, mediante termo de parceria, convênio, contrato de gestão ou instrumento congênere, sujeitam-se subsidiariamente às normas da lei, no que couber, limitando-se o dever de transparência à parcela dos recursos públicos recebidos e à sua destinação. A alternativa A está errada porque a lei expressamente estende sua aplicação, ainda que de forma subsidiária, a essas entidades. A alternativa C erra ao generalizar a incidência da lei a recursos de origem exclusivamente privada, que não se submetem ao dever de publicidade. A alternativa D erra porque a sujeição decorre diretamente da lei, e não de cláusula facultativa do instrumento de parceria. A alternativa E inventa percentual mínimo de recursos públicos inexistente no texto legal.",
+    "fundamentacaoLegal": "Art. 1º, parágrafo único, e art. 2º, caput e parágrafo único, da Lei nº 12.527/2011."
+  },
+  {
+    "id": "transparencia-lai-02",
+    "topicoId": "transparencia-lai",
+    "topico": "Transparência e acesso à informação",
+    "dificuldade": "media",
+    "enunciado": "O Município de Campina Grande/PB indeferiu pedido de acesso a informação de interesse coletivo formulado por munícipe, sem indicar qualquer fundamento de fato ou de direito para a recusa. Considerando o disposto no art. 5º, XXXIII, da Constituição Federal de 1988, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "O direito de acesso à informação é assegurado a todos, sendo prestada no prazo da lei, sob pena de responsabilidade, ressalvadas as informações cujo sigilo seja imprescindível à segurança da sociedade e do Estado." },
+      { "letra": "B", "texto": "O direito de acesso à informação somente alcança informações de interesse particular do requerente, não sendo extensível a informações de interesse coletivo ou geral." },
+      { "letra": "C", "texto": "O texto constitucional condiciona o fornecimento da informação à demonstração de interesse jurídico específico do requerente, sob pena de indeferimento legítimo." },
+      { "letra": "D", "texto": "A Constituição Federal não estabelece consequência para o descumprimento do dever de informar, cabendo à lei ordinária, facultativamente, prevê-la." },
+      { "letra": "E", "texto": "O sigilo é a regra geral em matéria de informações produzidas pelo Poder Público, somente cedendo diante de expressa autorização legislativa para divulgação." }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A reproduz a literalidade do art. 5º, XXXIII, da CF/88. A alternativa B erra ao restringir o direito ao interesse particular, quando o dispositivo constitucional expressamente também abrange informações de interesse coletivo ou geral. A alternativa C erra porque a Constituição não condiciona o fornecimento à demonstração de interesse jurídico específico, sobretudo quando se trata de interesse coletivo ou geral. A alternativa D erra porque o próprio texto constitucional prevê a prestação da informação sob pena de responsabilidade. A alternativa E inverte a lógica constitucional e legal: a publicidade é a regra geral da atuação administrativa, e o sigilo, a exceção, restrita às hipóteses em que seja imprescindível à segurança da sociedade e do Estado.",
+    "fundamentacaoLegal": "Art. 5º, XXXIII, da CF/88; art. 3º, I, da Lei nº 12.527/2011."
+  },
+  {
+    "id": "transparencia-lai-03",
+    "topicoId": "transparencia-lai",
+    "topico": "Transparência e acesso à informação",
+    "dificuldade": "media",
+    "enunciado": "São diretrizes que orientam os procedimentos previstos na Lei nº 12.527/2011, EXCETO:",
+    "alternativas": [
+      { "letra": "A", "texto": "observância da publicidade como preceito geral e do sigilo como exceção." },
+      { "letra": "B", "texto": "divulgação de informações de interesse público, independentemente de solicitações." },
+      { "letra": "C", "texto": "utilização de meios de comunicação viabilizados pela tecnologia da informação." },
+      { "letra": "D", "texto": "fomento ao desenvolvimento da cultura de transparência na administração pública." },
+      { "letra": "E", "texto": "presunção de legalidade dos atos de classificação de sigilo, insuscetíveis de reexame pela via administrativa." }
+    ],
+    "gabarito": "E",
+    "comentario": "A alternativa E deve ser assinalada, por não constituir diretriz prevista no art. 3º da Lei nº 12.527/2011 e por ser também substantivamente incorreta: os atos de classificação de sigilo são expressamente sujeitos a reexame administrativo, inclusive por meio de recurso e de revisão periódica pela Comissão Mista de Reavaliação de Informações. As demais alternativas reproduzem, respectivamente, os incisos I (A), II (B), III (C) e IV (D) do art. 3º da lei, todos efetivamente previstos como diretrizes.",
+    "fundamentacaoLegal": "Art. 3º, incisos I a IV, da Lei nº 12.527/2011."
+  },
+  {
+    "id": "transparencia-lai-04",
+    "topicoId": "transparencia-lai",
+    "topico": "Transparência e acesso à informação",
+    "dificuldade": "dificil",
+    "enunciado": "Determinado documento produzido por órgão da administração federal foi classificado no grau ultrassecreto, com fundamento no art. 24 da Lei nº 12.527/2011. Sobre o prazo de sigilo aplicável, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "O prazo máximo de restrição de acesso é de 25 (vinte e cinco) anos, admitida uma única renovação, por igual período, mediante decisão da própria autoridade que classificou a informação." },
+      { "letra": "B", "texto": "O prazo máximo de restrição de acesso é de 25 (vinte e cinco) anos, contado da data de produção da informação, admitida a prorrogação, por uma única vez, mediante deliberação da Comissão Mista de Reavaliação de Informações, sem que a soma dos períodos ultrapasse 50 (cinquenta) anos." },
+      { "letra": "C", "texto": "O prazo máximo de restrição de acesso é de 15 (quinze) anos, correspondente ao grau ultrassecreto, sendo o de 25 (vinte e cinco) anos aplicável ao grau secreto." },
+      { "letra": "D", "texto": "A classificação ultrassecreta é imprescritível, não estando sujeita a qualquer prazo de desclassificação, ainda que submetida à revisão pela Comissão Mista de Reavaliação de Informações." },
+      { "letra": "E", "texto": "O prazo máximo de restrição é de 25 (vinte e cinco) anos, insuscetível de prorrogação sob qualquer hipótese, ainda que persista o risco à segurança da sociedade ou do Estado." }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B está correta: o art. 24, §1º, I, fixa em 25 anos o prazo máximo de restrição para a informação ultrassecreta, contado da data de sua produção; excepcionalmente, esse prazo pode ser prorrogado por uma única vez, mediante deliberação do colegiado competente para a revisão da classificação, sem que a soma dos períodos ultrapasse o limite de 50 anos. A alternativa A erra ao atribuir a competência para a renovação à própria autoridade classificadora, quando se trata de competência de órgão colegiado de revisão. A alternativa C inverte os prazos dos graus ultrassecreto e secreto. A alternativa D erra ao afirmar imprescritibilidade da classificação, contrariando o princípio de que toda informação classificada deve, ao final do prazo ou evento fixado, tornar-se de acesso público. A alternativa E erra ao negar, em absoluto, a possibilidade de prorrogação excepcional.",
+    "fundamentacaoLegal": "Art. 24, §1º, inciso I, da Lei nº 12.527/2011; art. 35, §1º, inciso I, da Lei nº 12.527/2011."
+  },
+  {
+    "id": "transparencia-lai-05",
+    "topicoId": "transparencia-lai",
+    "topico": "Transparência e acesso à informação",
+    "dificuldade": "media",
+    "enunciado": "Nos termos do art. 5º da Lei nº 12.527/2011, é dever do Estado garantir o direito de acesso à informação, que será franqueada mediante procedimentos:",
+    "alternativas": [
+      { "letra": "A", "texto": "objetivos e ágeis, de forma transparente, clara e em linguagem de fácil compreensão." },
+      { "letra": "B", "texto": "sigilosos por padrão, somente se tornando públicos mediante decisão judicial transitada em julgado." },
+      { "letra": "C", "texto": "discricionários, cabendo à autoridade administrativa decidir, caso a caso, sobre a conveniência da divulgação." },
+      { "letra": "D", "texto": "sujeitos a prévia anuência do Ministério Público, como condição de validade do fornecimento da informação." },
+      { "letra": "E", "texto": "complexos e escalonados, de modo a desestimular pedidos de acesso considerados genéricos ou não fundamentados." }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A reproduz literalmente o art. 5º da Lei nº 12.527/2011. A alternativa B contraria a diretriz de que a publicidade é a regra e o sigilo, a exceção, e ainda condiciona indevidamente o acesso a decisão judicial. A alternativa C erra ao transformar em discricionário um direito fundamental cujo exercício deve observar procedimentos objetivos previstos em lei. A alternativa D cria condicionante inexistente na lei. A alternativa E contraria a própria finalidade da norma, que é facilitar, e não dificultar, o acesso à informação.",
+    "fundamentacaoLegal": "Art. 5º da Lei nº 12.527/2011."
+  },
+  {
+    "id": "transparencia-lai-06",
+    "topicoId": "transparencia-lai",
+    "topico": "Transparência e acesso à informação",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre restrições ao acesso à informação previstas na Lei nº 12.527/2011, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "Pode ser negado acesso a informação necessária à tutela judicial ou administrativa de direitos fundamentais, desde que a informação esteja classificada em qualquer grau de sigilo." },
+      { "letra": "B", "texto": "As informações ou documentos que versem sobre condutas que impliquem violação dos direitos humanos, praticada por agentes públicos ou a mando de autoridades públicas, não poderão ser objeto de restrição de acesso." },
+      { "letra": "C", "texto": "A classificação de sigilo, uma vez formalizada nos termos da lei, prevalece sobre o direito de acesso à informação necessária à tutela de direitos fundamentais, ainda que em sede de processo judicial." },
+      { "letra": "D", "texto": "A vedação de restrição de acesso a informações sobre violação de direitos humanos aplica-se somente às condutas praticadas após a entrada em vigor da Lei nº 12.527/2011." },
+      { "letra": "E", "texto": "O acesso a informação necessária à tutela de direitos fundamentais depende de prévia autorização judicial, não podendo ser obtido diretamente perante o órgão ou entidade detentor da informação." }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B reproduz o parágrafo único do art. 21 da Lei nº 12.527/2011, que veda de forma absoluta a restrição de acesso a informações ou documentos que versem sobre violação de direitos humanos praticada por agentes públicos ou a mando de autoridades públicas. A alternativa A contraria o caput do art. 21, que proíbe a negativa de acesso a informação necessária à tutela de direitos fundamentais, independentemente de eventual classificação. A alternativa C inverte a relação de prevalência estabelecida pela lei, que protege o acesso necessário à tutela de direitos fundamentais mesmo diante de classificação de sigilo. A alternativa D cria limitação temporal inexistente no texto legal. A alternativa E erra ao exigir autorização judicial prévia, quando o acesso pode ser obtido diretamente na via administrativa.",
+    "fundamentacaoLegal": "Art. 21, caput e parágrafo único, da Lei nº 12.527/2011."
+  },
+  {
+    "id": "transparencia-lai-07",
+    "topicoId": "transparencia-lai",
+    "topico": "Transparência e acesso à informação",
+    "dificuldade": "media",
+    "enunciado": "Quanto ao custo do exercício do direito de acesso à informação, nos termos da Lei nº 12.527/2011, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "O serviço de busca e fornecimento da informação é gratuito, ressalvada a cobrança do custo dos serviços e dos materiais utilizados na reprodução de documentos, sendo isento dessa cobrança aquele que comprovar insuficiência de recursos." },
+      { "letra": "B", "texto": "O serviço de busca é gratuito, mas a reprodução de documentos é sempre onerosa, inclusive para requerentes comprovadamente hipossuficientes." },
+      { "letra": "C", "texto": "É facultado ao órgão público cobrar taxa pela mera formulação do pedido de acesso, independentemente de haver reprodução de documentos." },
+      { "letra": "D", "texto": "A gratuidade alcança apenas os pedidos formulados por pessoas físicas, sendo sempre onerosos os pedidos formulados por pessoas jurídicas." },
+      { "letra": "E", "texto": "A cobrança pelo custo de reprodução de documentos pode exceder o valor de mercado, desde que o valor arrecadado reverta a fundo de modernização administrativa do órgão." }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A corresponde ao art. 12, caput e parágrafo único, da Lei nº 12.527/2011: o serviço de busca e fornecimento é gratuito, admitida a cobrança apenas do custo de reprodução, com isenção para quem comprovar insuficiência de recursos. A alternativa B erra ao negar a isenção prevista em lei para hipossuficientes. A alternativa C cria cobrança inexistente pela simples formulação do pedido. A alternativa D erra ao distinguir pessoa física de pessoa jurídica, distinção não prevista na lei. A alternativa E erra porque a cobrança não pode exceder o valor necessário ao ressarcimento do custo dos serviços e materiais empregados na reprodução.",
+    "fundamentacaoLegal": "Art. 12, caput e parágrafo único, da Lei nº 12.527/2011."
+  },
+  {
+    "id": "transparencia-lai-08",
+    "topicoId": "transparencia-lai",
+    "topico": "Transparência e acesso à informação",
+    "dificuldade": "dificil",
+    "enunciado": "O Município de Campina Grande/PB pretende editar decreto regulamentando o procedimento de acesso à informação no âmbito do Poder Executivo municipal. Sobre a relação entre essa regulamentação local e a Lei nº 12.527/2011, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A Lei nº 12.527/2011 aplica-se exclusivamente à União, cabendo aos Estados, ao Distrito Federal e aos Municípios editar legislação própria e autônoma, sem qualquer vinculação às normas gerais nela previstas." },
+      { "letra": "B", "texto": "Aplicam-se subsidiariamente, aos Estados, ao Distrito Federal e aos Municípios, as normas gerais da Lei nº 12.527/2011, cabendo a esses entes disciplinar, em legislação própria, os procedimentos no que couber, respeitadas as regras nela previstas." },
+      { "letra": "C", "texto": "A regulamentação municipal é dispensável, uma vez que a Lei nº 12.527/2011 possui eficácia plena e aplicabilidade imediata em todos os entes federados, sem necessidade de qualquer ato normativo local." },
+      { "letra": "D", "texto": "O Município somente pode regulamentar o acesso à informação mediante lei complementar municipal, sendo vedada a disciplina da matéria por decreto do Chefe do Poder Executivo." },
+      { "letra": "E", "texto": "A regulamentação municipal pode reduzir os prazos e as garantias mínimas previstas na Lei nº 12.527/2011, no exercício da autonomia municipal assegurada pelo art. 30 da Constituição Federal." }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B está correta e reflete o art. 45 da Lei nº 12.527/2011, que estende suas normas gerais, subsidiariamente, aos demais entes federados, cabendo a estes disciplinar os procedimentos no que couber, sem contrariar as regras mínimas nela fixadas. A alternativa A erra ao afastar por completo a vinculação dos demais entes às normas gerais da lei federal. A alternativa C erra ao dispensar qualquer regulamentação local, quando a própria lei prevê expressamente a edição de legislação própria pelos entes federados quanto aos procedimentos. A alternativa D cria exigência formal de lei complementar municipal inexistente na Lei nº 12.527/2011. A alternativa E erra porque a autonomia municipal não autoriza a redução das garantias mínimas de acesso fixadas pela norma geral federal.",
+    "fundamentacaoLegal": "Art. 45 da Lei nº 12.527/2011; art. 30, incisos I e II, da CF/88."
+  },
+  {
+    "id": "transparencia-lai-09",
+    "topicoId": "transparencia-lai",
+    "topico": "Transparência e acesso à informação",
+    "dificuldade": "media",
+    "enunciado": "Nos termos do art. 8º, §1º, da Lei nº 12.527/2011, a divulgação obrigatória de informações independentemente de requerimento (transparência ativa) deve conter, no mínimo, dados sobre:",
+    "alternativas": [
+      { "letra": "A", "texto": "exclusivamente o registro das competências e estrutura organizacional do órgão, sendo as demais informações fornecidas apenas mediante requerimento individual." },
+      { "letra": "B", "texto": "registro de competências e estrutura organizacional; registros de repasses ou transferências de recursos financeiros; registros das despesas; informações concernentes a procedimentos licitatórios e contratos; dados gerais para acompanhamento de programas, ações, projetos e obras; e respostas a perguntas mais frequentes da sociedade." },
+      { "letra": "C", "texto": "apenas informações orçamentárias e financeiras, remetendo-se as demais categorias de informação ao regime de transparência passiva." },
+      { "letra": "D", "texto": "unicamente o extrato de contratos e convênios celebrados, dispensada a divulgação de dados sobre despesas correntes e de pessoal." },
+      { "letra": "E", "texto": "informações relativas exclusivamente aos processos de licitação em andamento, sendo as licitações já concluídas submetidas a regime de sigilo temporário." }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B reproduz o rol mínimo do art. 8º, §1º, incisos I a VI, da Lei nº 12.527/2011. As demais alternativas restringem indevidamente esse rol a apenas uma ou duas categorias de informação, contrariando o caráter cumulativo e mínimo estabelecido pelo dispositivo, que abrange competências, repasses, despesas, licitações e contratos, dados de programas e respostas a perguntas frequentes.",
+    "fundamentacaoLegal": "Art. 8º, §1º, incisos I a VI, da Lei nº 12.527/2011."
+  },
+  {
+    "id": "transparencia-lai-10",
+    "topicoId": "transparencia-lai",
+    "topico": "Transparência e acesso à informação",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre as hipóteses de informação imprescindível à segurança da sociedade ou do Estado, passíveis de classificação em grau de sigilo nos termos do art. 23 da Lei nº 12.527/2011, e sobre a relação dessa lei com outros sigilos legais, assinale a alternativa INCORRETA.",
+    "alternativas": [
+      { "letra": "A", "texto": "Consideram-se imprescindíveis à segurança da sociedade ou do Estado as informações cuja divulgação ou acesso irrestrito possam pôr em risco a defesa e a soberania nacionais." },
+      { "letra": "B", "texto": "Também se incluem no rol as informações cuja divulgação possa comprometer atividades de inteligência, bem como de investigação ou fiscalização em andamento, relacionadas com a prevenção ou repressão de infrações." },
+      { "letra": "C", "texto": "A Lei nº 12.527/2011 revogou tacitamente as hipóteses legais de sigilo fiscal e bancário, unificando em seu próprio texto o regime de restrição de acesso a esse tipo de informação." },
+      { "letra": "D", "texto": "A divulgação de informações que possam prejudicar ou pôr em risco negociações ou relações internacionais do País também se insere entre as hipóteses do art. 23." },
+      { "letra": "E", "texto": "A proteção de projetos de pesquisa e desenvolvimento científico ou tecnológico cuja divulgação possa causar dano à segurança da sociedade ou do Estado igualmente compõe o rol do art. 23." }
+    ],
+    "gabarito": "C",
+    "comentario": "A alternativa C deve ser assinalada, por ser incorreta: o art. 22 da Lei nº 12.527/2011 estabelece expressamente que a lei não exclui as demais hipóteses legais de sigilo, como o fiscal e o bancário, e o segredo industrial decorrente da exploração direta de atividade econômica, não havendo, portanto, qualquer revogação tácita desses regimes. As demais alternativas reproduzem corretamente hipóteses do rol exemplificativo do art. 23: a alternativa A corresponde ao inciso I; a alternativa B, ao inciso VI; a alternativa D, ao inciso II; e a alternativa E, ao inciso IV.",
+    "fundamentacaoLegal": "Art. 22 e art. 23, incisos I, II, IV e VI, da Lei nº 12.527/2011."
+  }
+]
