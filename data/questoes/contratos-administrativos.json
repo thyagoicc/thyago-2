@@ -1,0 +1,512 @@
+[
+  {
+    "id": "contratos-administrativos-01",
+    "topicoId": "contratos-administrativos",
+    "topico": "Contratos administrativos",
+    "dificuldade": "media",
+    "enunciado": "Sobre as prerrogativas conferidas à Administração pelo regime jurídico dos contratos administrativos (cláusulas exorbitantes), nos termos do art. 104 da Lei nº 14.133/2021, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "As cláusulas econômico-financeiras e monetárias dos contratos podem ser alteradas unilateralmente pela Administração, independentemente da concordância do contratado." },
+      { "letra": "B", "texto": "A Administração pode extinguir unilateralmente o contrato inclusive quando o descumprimento decorrer de sua própria conduta." },
+      { "letra": "C", "texto": "A prerrogativa de ocupação provisória de bens e de utilização de pessoal e serviços vinculados ao objeto do contrato cessa com a extinção do contrato, em qualquer hipótese." },
+      { "letra": "D", "texto": "A Administração pode modificar unilateralmente o contrato para melhor adequação às finalidades de interesse público, respeitados os direitos do contratado, devendo, nessa hipótese, rever as cláusulas econômico-financeiras para manter o equilíbrio contratual." },
+      { "letra": "E", "texto": "A aplicação de sanções por inexecução do ajuste depende de prévia autorização judicial, em razão do princípio da inafastabilidade da jurisdição." }
+    ],
+    "gabarito": "D",
+    "comentario": "A alternativa D conjuga o art. 104, I, com o § 2º do mesmo artigo da Lei nº 14.133/2021. A alternativa A contraria o art. 104, § 1º, segundo o qual as cláusulas econômico-financeiras e monetárias não poderão ser alteradas sem prévia concordância do contratado. A alternativa B contraria o art. 138, I, que ressalva expressamente a extinção unilateral quando o descumprimento decorrer de conduta da própria Administração. A alternativa C contraria o art. 104, V, b, que admite a ocupação provisória para acautelar apuração administrativa de faltas contratuais, inclusive após a extinção do contrato. A alternativa E é falsa, pois a aplicação de sanções é prerrogativa administrativa (art. 104, IV), exercida em processo próprio, com contraditório, sujeita a posterior controle judicial.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 104, I, IV, V e §§ 1º e 2º; art. 138, I."
+  },
+  {
+    "id": "contratos-administrativos-02",
+    "topicoId": "contratos-administrativos",
+    "topico": "Contratos administrativos",
+    "dificuldade": "dificil",
+    "enunciado": "Contrato de obra celebrado pelo Município teve seu objeto acrescido, por determinação unilateral da Administração, em 30% do valor inicial atualizado. Considerando a Lei nº 14.133/2021, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "O acréscimo é ilegal, pois o contratado somente é obrigado a aceitar, nas mesmas condições contratuais, acréscimos ou supressões de até 25% do valor inicial atualizado do contrato em obras, serviços e compras, elevando-se o limite para 50% apenas nos acréscimos decorrentes de reforma de edifício ou de equipamento." },
+      { "letra": "B", "texto": "O acréscimo é regular, pois o limite legal para obras é de 50% do valor inicial atualizado." },
+      { "letra": "C", "texto": "O limite de 50% aplica-se indistintamente a acréscimos e supressões em contratos de reforma de edifício ou de equipamento." },
+      { "letra": "D", "texto": "Os limites legais de alteração quantitativa incidem apenas sobre as alterações consensuais, não se aplicando às alterações unilaterais." },
+      { "letra": "E", "texto": "Os limites são calculados sobre o valor global já aditado do contrato, e não sobre o valor inicial atualizado." }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A reproduz o art. 125 da Lei nº 14.133/2021. A alternativa B generaliza indevidamente o limite excepcional de 50%, que só se aplica à reforma de edifício ou de equipamento. A alternativa C erra ao estender esse limite às supressões: o percentual de 50% vale apenas para os ACRÉSCIMOS em reforma. A alternativa D inverte a incidência da norma, que se dirige justamente às alterações unilaterais previstas no art. 124, I. A alternativa E altera a base de cálculo legal, que é o valor inicial atualizado do contrato.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 124, I, e art. 125."
+  },
+  {
+    "id": "contratos-administrativos-03",
+    "topicoId": "contratos-administrativos",
+    "topico": "Contratos administrativos",
+    "dificuldade": "media",
+    "enunciado": "Assinale a alternativa que apresenta hipótese de alteração do contrato administrativo POR ACORDO ENTRE AS PARTES, nos termos do art. 124, II, da Lei nº 14.133/2021.",
+    "alternativas": [
+      { "letra": "A", "texto": "Modificação do projeto ou das especificações para melhor adequação técnica aos seus objetivos." },
+      { "letra": "B", "texto": "Modificação do valor contratual em decorrência de acréscimo ou diminuição quantitativa do objeto." },
+      { "letra": "C", "texto": "Aplicação de sanção de multa por atraso injustificado na execução." },
+      { "letra": "D", "texto": "Assunção imediata do objeto do contrato pela Administração, no estado e local em que se encontrar." },
+      { "letra": "E", "texto": "Restabelecimento do equilíbrio econômico-financeiro inicial do contrato em caso de força maior, caso fortuito ou fato do príncipe, ou em decorrência de fatos imprevisíveis ou previsíveis de consequências incalculáveis." }
+    ],
+    "gabarito": "E",
+    "comentario": "A alternativa E corresponde ao art. 124, II, d, da Lei nº 14.133/2021 (teoria da imprevisão e álea econômica extraordinária). As alternativas A e B correspondem, respectivamente, às alíneas a e b do inciso I, que tratam de alterações UNILATERAIS pela Administração. A alternativa C descreve exercício da prerrogativa sancionatória (art. 104, IV), e não alteração contratual. A alternativa D descreve consequência da extinção unilateral do contrato (art. 139, I), igualmente estranha ao rol de alterações consensuais.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 124, I, a e b, e II, a a d; art. 104, IV; art. 139, I."
+  },
+  {
+    "id": "contratos-administrativos-04",
+    "topicoId": "contratos-administrativos",
+    "topico": "Contratos administrativos",
+    "dificuldade": "dificil",
+    "enunciado": "Empresa contratada pelo Município pretende obter a recomposição do equilíbrio econômico-financeiro de contrato já encerrado, alegando fato superveniente ocorrido durante sua execução. Assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "O encerramento do contrato configura óbice absoluto ao reconhecimento do desequilíbrio econômico-financeiro, em qualquer hipótese." },
+      { "letra": "B", "texto": "A extinção do contrato não configura óbice para o reconhecimento do desequilíbrio econômico-financeiro, hipótese em que será concedida indenização por meio de termo indenizatório, devendo o pedido de restabelecimento ser formulado durante a vigência do contrato e antes de eventual prorrogação." },
+      { "letra": "C", "texto": "O pedido de restabelecimento do equilíbrio pode ser formulado a qualquer tempo após a extinção do contrato, respeitado apenas o prazo prescricional quinquenal." },
+      { "letra": "D", "texto": "A recomposição do equilíbrio econômico-financeiro é hipótese de alteração unilateral do contrato pela Administração." },
+      { "letra": "E", "texto": "Havendo alteração unilateral que aumente os encargos do contratado, o restabelecimento do equilíbrio deverá ser objeto de termo aditivo autônomo, posterior e independente." }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B reproduz o art. 131, caput e parágrafo único, da Lei nº 14.133/2021. A alternativa A nega a regra expressa do caput. A alternativa C ignora a exigência de que o pedido seja formulado durante a vigência do contrato e antes de eventual prorrogação, requisito do parágrafo único. A alternativa D erra a classificação: o restabelecimento do equilíbrio econômico-financeiro é hipótese de alteração por acordo entre as partes (art. 124, II, d). A alternativa E contraria o art. 130, que determina o restabelecimento do equilíbrio NO MESMO TERMO ADITIVO da alteração unilateral que aumente ou diminua os encargos do contratado.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, arts. 124, II, d, 130 e 131, caput e parágrafo único."
+  },
+  {
+    "id": "contratos-administrativos-05",
+    "topicoId": "contratos-administrativos",
+    "topico": "Contratos administrativos",
+    "dificuldade": "media",
+    "enunciado": "Sobre a duração dos contratos de serviços e fornecimentos contínuos na Lei nº 14.133/2021, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A Administração poderá celebrar tais contratos com prazo de até 12 meses, admitida uma única prorrogação por igual período." },
+      { "letra": "B", "texto": "A Administração poderá celebrar tais contratos com prazo de até 60 meses, vedada qualquer prorrogação." },
+      { "letra": "C", "texto": "A Administração poderá celebrar tais contratos com prazo de até 5 anos, podendo eles ser prorrogados sucessivamente, respeitada a vigência máxima decenal, desde que haja previsão em edital e que a autoridade competente ateste que as condições e os preços permanecem vantajosos." },
+      { "letra": "D", "texto": "A prorrogação é automática, independendo de previsão em edital e de atestação de vantajosidade." },
+      { "letra": "E", "texto": "A duração de tais contratos independe da disponibilidade de créditos orçamentários e da previsão no plano plurianual." }
+    ],
+    "gabarito": "C",
+    "comentario": "A alternativa C conjuga o art. 106, caput, com o art. 107 da Lei nº 14.133/2021. As alternativas A e B alteram os prazos legais e, no caso da B, negam a prorrogação expressamente autorizada. A alternativa D contraria o art. 107, que condiciona a prorrogação à previsão em edital e à atestação, pela autoridade competente, de que condições e preços permanecem vantajosos. A alternativa E contraria o art. 105, segundo o qual devem ser observadas, no momento da contratação e a cada exercício financeiro, a disponibilidade de créditos orçamentários e a previsão no plano plurianual quando o contrato ultrapassar um exercício financeiro.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, arts. 105, 106 e 107."
+  },
+  {
+    "id": "contratos-administrativos-06",
+    "topicoId": "contratos-administrativos",
+    "topico": "Contratos administrativos",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre prazos especiais de vigência dos contratos administrativos na Lei nº 14.133/2021, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "O contrato que previr a operação continuada de sistemas estruturantes de tecnologia da informação poderá ter vigência máxima de 15 anos, e a Administração poderá estabelecer vigência por prazo indeterminado nos contratos em que seja usuária de serviço público oferecido em regime de monopólio, desde que comprovada, a cada exercício financeiro, a existência de créditos orçamentários." },
+      { "letra": "B", "texto": "É vedada, em qualquer hipótese, a celebração de contrato administrativo por prazo indeterminado." },
+      { "letra": "C", "texto": "Os contratos de operação continuada de sistemas estruturantes de tecnologia da informação submetem-se ao prazo máximo geral de 5 anos." },
+      { "letra": "D", "texto": "Na contratação com escopo predefinido, o descumprimento do prazo acarreta a extinção automática do contrato, vedada a prorrogação." },
+      { "letra": "E", "texto": "A vigência por prazo indeterminado em contratos com prestadora de serviço público em regime de monopólio dispensa a comprovação anual de créditos orçamentários." }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A conjuga os arts. 114 e 109 da Lei nº 14.133/2021. A alternativa B afirma vedação absoluta que a lei expressamente excepciona no art. 109. A alternativa C ignora o prazo especial de 15 anos do art. 114. A alternativa D contraria o art. 111, segundo o qual, na contratação com escopo predefinido, o prazo de vigência é AUTOMATICAMENTE PRORROGADO quando o objeto não for concluído no período firmado, sem prejuízo da constituição em mora e das sanções quando a não conclusão decorrer de culpa do contratado. A alternativa E suprime a exigência expressa de comprovação, a cada exercício financeiro, da existência de créditos orçamentários.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, arts. 109, 111 e 114."
+  },
+  {
+    "id": "contratos-administrativos-07",
+    "topicoId": "contratos-administrativos",
+    "topico": "Contratos administrativos",
+    "dificuldade": "media",
+    "enunciado": "Sobre as garantias exigíveis nas contratações regidas pela Lei nº 14.133/2021, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A escolha da modalidade de garantia cabe privativamente à Administração, que a indicará no edital." },
+      { "letra": "B", "texto": "São modalidades admitidas exclusivamente a caução em dinheiro e a fiança bancária." },
+      { "letra": "C", "texto": "A garantia é obrigatória em todas as contratações de obras, serviços e fornecimentos, sem exceção." },
+      { "letra": "D", "texto": "A garantia poderá ser de até 5% do valor inicial do contrato, autorizada a majoração desse percentual para até 10%, desde que justificada mediante análise da complexidade técnica e dos riscos envolvidos, cabendo ao contratado optar entre caução em dinheiro ou títulos da dívida pública, seguro-garantia e fiança bancária." },
+      { "letra": "E", "texto": "A garantia poderá ser de até 20% do valor inicial do contrato nas contratações de serviços contínuos." }
+    ],
+    "gabarito": "D",
+    "comentario": "A alternativa D conjuga o art. 98 com o art. 96, § 1º, I a III, da Lei nº 14.133/2021. A alternativa A inverte a regra do art. 96, § 1º, que confere ao CONTRATADO a opção pela modalidade. A alternativa B omite o seguro-garantia, expressamente previsto. A alternativa C contraria o art. 96, caput, segundo o qual a prestação de garantia poderá ser exigida a critério da autoridade competente, mediante previsão no edital. A alternativa E altera o percentual legal e cria regra inexistente para serviços contínuos.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 96, caput e § 1º, I a III; art. 98."
+  },
+  {
+    "id": "contratos-administrativos-08",
+    "topicoId": "contratos-administrativos",
+    "topico": "Contratos administrativos",
+    "dificuldade": "dificil",
+    "enunciado": "Em contratação de obra de grande vulto, o Município pretende exigir seguro-garantia com cláusula de retomada. Assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A exigência é ilegal, pois o percentual máximo de garantia em qualquer contratação é de 10% do valor inicial do contrato." },
+      { "letra": "B", "texto": "Nas contratações de obras e serviços de engenharia de grande vulto, poderá ser exigida a prestação de garantia na modalidade seguro-garantia, com cláusula de retomada, em percentual equivalente a até 30% do valor inicial do contrato, hipótese em que a seguradora, em caso de inadimplemento do contratado, poderá assumir a execução e concluir o objeto." },
+      { "letra": "C", "texto": "A cláusula de retomada obriga a Administração a extinguir o contrato e a realizar nova licitação, vedada a conclusão do objeto pela seguradora." },
+      { "letra": "D", "texto": "A cláusula de retomada é exigível apenas em contratos de concessão de serviço público regidos pela Lei nº 8.987/1995." },
+      { "letra": "E", "texto": "A garantia adicional em obras de grande vulto substitui a responsabilidade do contratado pela execução do objeto." }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B conjuga o art. 99 com o art. 102 da Lei nº 14.133/2021. A alternativa A generaliza indevidamente o limite do art. 98, que não se aplica à hipótese especial de obras e serviços de engenharia de grande vulto. A alternativa C inverte a finalidade do instituto, que é justamente permitir a assunção e a conclusão do objeto pela seguradora, evitando a paralisação. A alternativa D restringe o instituto a contratos de concessão, quando a previsão consta expressamente da Lei nº 14.133/2021. A alternativa E é falsa, pois a garantia não exonera o contratado de suas obrigações, conforme decorre do regime dos arts. 96 a 102 e da responsabilidade contratual.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, arts. 98, 99 e 102; art. 6º, XXII (obras e serviços de grande vulto)."
+  },
+  {
+    "id": "contratos-administrativos-09",
+    "topicoId": "contratos-administrativos",
+    "topico": "Contratos administrativos",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre as sanções administrativas previstas no art. 156 da Lei nº 14.133/2021, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "As sanções são advertência, multa, suspensão temporária de participação em licitação e declaração de inidoneidade." },
+      { "letra": "B", "texto": "A multa não poderá ser inferior a 5% nem superior a 50% do valor do contrato licitado ou celebrado." },
+      { "letra": "C", "texto": "A sanção de advertência pode ser aplicada a qualquer das infrações do art. 155, a critério da autoridade competente." },
+      { "letra": "D", "texto": "A aplicação das sanções exclui a obrigação de reparação integral do dano causado à Administração Pública." },
+      { "letra": "E", "texto": "As sanções de advertência, impedimento de licitar e contratar e declaração de inidoneidade poderão ser aplicadas cumulativamente com a de multa, e sua aplicação não exclui, em hipótese alguma, a obrigação de reparação integral do dano causado à Administração Pública." }
+    ],
+    "gabarito": "E",
+    "comentario": "A alternativa E conjuga o art. 156, § 7º, com o § 9º da Lei nº 14.133/2021. A alternativa A mantém a antiga sanção de suspensão temporária da Lei nº 8.666/1993, substituída pelo impedimento de licitar e contratar (art. 156, III). A alternativa B altera os percentuais do art. 156, § 3º, segundo o qual a multa não pode ser inferior a 0,5% nem superior a 30% do valor do contrato licitado ou celebrado. A alternativa C contraria o art. 156, § 1º, que restringe a advertência à infração do art. 155, I, quando não se justificar penalidade mais grave. A alternativa D contraria frontalmente o § 9º.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 156, caput, I a IV, e §§ 1º, 3º, 7º e 9º; art. 155, I."
+  },
+  {
+    "id": "contratos-administrativos-10",
+    "topicoId": "contratos-administrativos",
+    "topico": "Contratos administrativos",
+    "dificuldade": "media",
+    "enunciado": "Sobre a distinção entre as sanções de impedimento de licitar e contratar e de declaração de inidoneidade para licitar ou contratar, na Lei nº 14.133/2021, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "Ambas produzem efeitos no âmbito da Administração Pública direta e indireta de todos os entes federativos, diferenciando-se apenas pelo prazo." },
+      { "letra": "B", "texto": "O impedimento de licitar e contratar tem prazo mínimo de 3 e máximo de 6 anos, e a declaração de inidoneidade tem prazo máximo de 3 anos." },
+      { "letra": "C", "texto": "O impedimento de licitar e contratar impede o responsável de licitar ou contratar no âmbito da Administração Pública direta e indireta do ente federativo que tiver aplicado a sanção, pelo prazo máximo de 3 anos; a declaração de inidoneidade impede o responsável de licitar ou contratar no âmbito da Administração Pública direta e indireta de todos os entes federativos, pelo prazo mínimo de 3 e máximo de 6 anos." },
+      { "letra": "D", "texto": "A declaração de inidoneidade produz efeitos apenas no âmbito do órgão que a aplicou." },
+      { "letra": "E", "texto": "Ambas as sanções podem ser aplicadas de plano, dispensada a instauração de processo de responsabilização." }
+    ],
+    "gabarito": "C",
+    "comentario": "A alternativa C conjuga os §§ 4º e 5º do art. 156 da Lei nº 14.133/2021. A alternativa A ignora a distinção de âmbito de eficácia, que é justamente o principal traço diferenciador. A alternativa B inverte os prazos das duas sanções. A alternativa D restringe indevidamente a eficácia da declaração de inidoneidade, que é nacional. A alternativa E contraria o art. 158, que exige processo de responsabilização conduzido por comissão de 2 ou mais servidores estáveis, com prazo de 15 dias úteis para defesa escrita.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 156, §§ 4º e 5º; art. 158, caput."
+  },
+  {
+    "id": "contratos-administrativos-11",
+    "topicoId": "contratos-administrativos",
+    "topico": "Contratos administrativos",
+    "dificuldade": "media",
+    "enunciado": "Sobre a reabilitação do licitante ou contratado sancionado, prevista na Lei nº 14.133/2021, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A reabilitação é automática com o simples transcurso do prazo da sanção aplicada." },
+      { "letra": "B", "texto": "A reabilitação é admitida perante a própria autoridade que aplicou a penalidade, exigidos cumulativamente a reparação integral do dano, o pagamento da multa, o transcurso do prazo mínimo de 1 ano da aplicação da penalidade no caso de impedimento e de 3 anos no caso de declaração de inidoneidade, o cumprimento das condições de reabilitação definidas no ato punitivo e a análise jurídica prévia." },
+      { "letra": "C", "texto": "A reabilitação deve ser requerida ao Tribunal de Contas competente, a quem cabe deferi-la." },
+      { "letra": "D", "texto": "O prazo mínimo para reabilitação é de 5 anos, tanto no impedimento quanto na declaração de inidoneidade." },
+      { "letra": "E", "texto": "A implantação ou o aperfeiçoamento de programa de integridade jamais pode ser exigido como condição de reabilitação." }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B reproduz o art. 163, caput, I a V, da Lei nº 14.133/2021. A alternativa A ignora que a reabilitação depende de requerimento e do preenchimento cumulativo de requisitos. A alternativa C atribui competência a órgão errado, pois a reabilitação é requerida perante a própria autoridade que aplicou a penalidade. A alternativa D altera os prazos legais. A alternativa E contraria o parágrafo único do art. 163, que exige a implantação ou o aperfeiçoamento de programa de integridade como condição de reabilitação nas infrações dos incisos VIII e XII do art. 155.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 163, caput, I a V, e parágrafo único; art. 155, VIII e XII."
+  },
+  {
+    "id": "contratos-administrativos-12",
+    "topicoId": "contratos-administrativos",
+    "topico": "Contratos administrativos",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre o processo de responsabilização e a dosimetria das sanções na Lei nº 14.133/2021, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "O prazo de defesa escrita no processo de responsabilização é de 5 dias corridos, contados da intimação." },
+      { "letra": "B", "texto": "Os atos tipificados como infrações nesta Lei que também constituam atos lesivos na Lei nº 12.846/2013 devem ser apurados em processos autônomos e independentes, vedada a apuração conjunta." },
+      { "letra": "C", "texto": "A implantação ou o aperfeiçoamento de programa de integridade é circunstância agravante na dosimetria das sanções." },
+      { "letra": "D", "texto": "A comissão do processo de responsabilização é composta por um único servidor, designado pela autoridade competente." },
+      { "letra": "E", "texto": "A aplicação das sanções de impedimento de licitar e contratar e de declaração de inidoneidade requer processo de responsabilização conduzido por comissão de 2 ou mais servidores estáveis, com prazo de 15 dias úteis para defesa escrita, devendo a dosimetria considerar a natureza e a gravidade da infração, as peculiaridades do caso concreto, as circunstâncias agravantes ou atenuantes e os danos causados." }
+    ],
+    "gabarito": "E",
+    "comentario": "A alternativa E conjuga o art. 158, caput, com o art. 156, § 1º, e o art. 162, caput, da Lei nº 14.133/2021. A alternativa A altera prazo e unidade de contagem, que é de 15 dias úteis (art. 158, caput; e art. 157, para a multa). A alternativa B contraria o art. 159, que determina a apuração e o julgamento conjuntos, nos mesmos autos, dos atos que também configurem ato lesivo da Lei Anticorrupção. A alternativa C inverte o parágrafo único do art. 162, que trata a implantação ou o aperfeiçoamento de programa de integridade como ATENUANTE. A alternativa D contraria a exigência legal de comissão composta por 2 ou mais servidores estáveis.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, arts. 157, 158, caput, 159 e 162, caput e parágrafo único."
+  },
+  {
+    "id": "contratos-administrativos-13",
+    "topicoId": "contratos-administrativos",
+    "topico": "Contratos administrativos",
+    "dificuldade": "media",
+    "enunciado": "Sobre a extinção dos contratos administrativos na Lei nº 14.133/2021, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A extinção pode ser determinada por ato unilateral e escrito da Administração, exceto no caso de descumprimento decorrente de sua própria conduta; pode ainda ser consensual, por acordo entre as partes, conciliação, mediação ou comitê de resolução de disputas, desde que haja interesse da Administração; ou determinada por decisão arbitral ou judicial." },
+      { "letra": "B", "texto": "A extinção consensual independe de autorização escrita e fundamentada da autoridade competente." },
+      { "letra": "C", "texto": "Razões de interesse público não constituem motivo apto a ensejar a extinção do contrato." },
+      { "letra": "D", "texto": "Quando a extinção decorrer de culpa exclusiva da Administração, o contratado não fará jus ao pagamento do custo da desmobilização." },
+      { "letra": "E", "texto": "A extinção do contrato dispensa motivação formal nos autos, bastando a comunicação ao contratado." }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A reproduz o art. 138, I a III, da Lei nº 14.133/2021. A alternativa B contraria o art. 138, § 1º, que exige autorização escrita e fundamentada da autoridade competente, reduzida a termo no processo. A alternativa C contraria o art. 137, VIII, que arrola razões de interesse público, justificadas pela autoridade máxima do órgão ou entidade contratante, como motivo de extinção. A alternativa D contraria o art. 138, § 2º, III, que assegura ao contratado o pagamento do custo da desmobilização, além da devolução da garantia e dos pagamentos devidos pela execução até a extinção. A alternativa E contraria o art. 137, caput, que exige motivação formal nos autos, assegurados o contraditório e a ampla defesa.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 137, caput e VIII; art. 138, I a III e §§ 1º e 2º."
+  },
+  {
+    "id": "contratos-administrativos-14",
+    "topicoId": "contratos-administrativos",
+    "topico": "Contratos administrativos",
+    "dificuldade": "dificil",
+    "enunciado": "Empresa contratada pelo Município para prestação de serviços não recebe os pagamentos devidos há mais de dois meses, contados da emissão das respectivas notas fiscais, sem que exista calamidade pública ou culpa sua. Assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "O contratado deve prosseguir na execução até o final do contrato, pois a cláusula exorbitante afasta integralmente a exceção do contrato não cumprido no direito administrativo brasileiro." },
+      { "letra": "B", "texto": "O contratado pode suspender imediatamente a execução independentemente de qualquer prazo, bastando a existência de parcela vencida e não paga." },
+      { "letra": "C", "texto": "O contratado terá direito à extinção do contrato em razão de atraso superior a 2 meses, contado da emissão da nota fiscal, dos pagamentos devidos pela Administração, sendo-lhe assegurada, alternativamente, a opção pela suspensão do cumprimento das obrigações assumidas até a normalização da situação." },
+      { "letra": "D", "texto": "O prazo legal que autoriza a extinção por atraso de pagamento é de 90 dias úteis, contados do vencimento da obrigação." },
+      { "letra": "E", "texto": "A suspensão da execução pelo contratado configura, em qualquer hipótese, inexecução contratual sujeita à declaração de inidoneidade." }
+    ],
+    "gabarito": "C",
+    "comentario": "A alternativa C conjuga o art. 137, § 2º, IV, com o § 3º, II, da Lei nº 14.133/2021, que consagram a exceção do contrato não cumprido em favor do contratado, de forma mitigada. A alternativa A afirma a inaplicabilidade absoluta da exceptio non adimpleti contractus, superada pela previsão legal expressa. A alternativa B dispensa o prazo de 2 meses fixado em lei. A alternativa D altera o prazo e o termo inicial legais. A alternativa E ignora que a suspensão, nas hipóteses do § 3º, II, é faculdade legítima do contratado, e não infração; ademais, a hipótese não é admitida quando houver calamidade pública, grave perturbação da ordem interna ou guerra, ou quando o fato for imputável ao contratado (§ 3º, I).",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 137, § 2º, IV, e § 3º, I e II; art. 124, II, d."
+  },
+  {
+    "id": "contratos-administrativos-15",
+    "topicoId": "contratos-administrativos",
+    "topico": "Contratos administrativos",
+    "dificuldade": "dificil",
+    "enunciado": "O Município extinguiu unilateralmente contrato de obra por culpa do contratado. Sobre as consequências dessa extinção, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A assunção do objeto pela Administração depende de prévia autorização judicial e de imissão na posse." },
+      { "letra": "B", "texto": "A execução da garantia contratual não pode ser destinada ao pagamento de verbas trabalhistas e previdenciárias." },
+      { "letra": "C", "texto": "A retenção dos créditos decorrentes do contrato é ilimitada, podendo alcançar valores superiores aos prejuízos causados." },
+      { "letra": "D", "texto": "A extinção poderá acarretar a assunção imediata do objeto no estado e local em que se encontrar, a ocupação e utilização do local, das instalações, dos equipamentos, do material e do pessoal empregados na execução do contrato, a execução da garantia contratual e a retenção dos créditos decorrentes do contrato até o limite dos prejuízos causados e das multas aplicadas." },
+      { "letra": "E", "texto": "As consequências da extinção unilateral substituem as sanções administrativas, sendo vedada sua cumulação." }
+    ],
+    "gabarito": "D",
+    "comentario": "A alternativa D reproduz o art. 139, I a IV, da Lei nº 14.133/2021. A alternativa A cria condição inexistente: a assunção do objeto é prerrogativa administrativa autoexecutória (art. 104, V). A alternativa B contraria o art. 139, III, b, que expressamente autoriza o uso da garantia para pagamento de verbas trabalhistas, fundiárias e previdenciárias, quando cabível. A alternativa C contraria o art. 139, IV, que limita a retenção ao montante dos prejuízos causados e das multas aplicadas. A alternativa E contraria o caput do art. 139, segundo o qual essas consequências incidem SEM PREJUÍZO das sanções previstas na Lei.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 139, caput e I a IV; art. 104, V."
+  },
+  {
+    "id": "contratos-administrativos-16",
+    "topicoId": "contratos-administrativos",
+    "topico": "Contratos administrativos",
+    "dificuldade": "media",
+    "enunciado": "Sobre o recebimento do objeto do contrato administrativo, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "O recebimento definitivo exonera o contratado da responsabilidade civil pela solidez e pela segurança da obra." },
+      { "letra": "B", "texto": "O objeto do contrato não pode ser rejeitado após o recebimento provisório, ainda que em desacordo com o contrato." },
+      { "letra": "C", "texto": "Em obras e serviços, o recebimento provisório e o definitivo competem necessariamente à mesma autoridade." },
+      { "letra": "D", "texto": "O recebimento definitivo de compras é ato do próprio fornecedor, mediante declaração de conformidade." },
+      { "letra": "E", "texto": "Em obras e serviços, o recebimento provisório cabe ao responsável por seu acompanhamento e fiscalização e o definitivo a servidor ou comissão designada pela autoridade competente, mediante termo detalhado, e o recebimento, provisório ou definitivo, não exclui a responsabilidade civil pela solidez e pela segurança da obra ou do serviço." }
+    ],
+    "gabarito": "E",
+    "comentario": "A alternativa E conjuga o art. 140, I, alíneas a e b, com o § 2º do mesmo artigo da Lei nº 14.133/2021. A alternativa A contraria expressamente esse § 2º, que preserva a responsabilidade civil pela solidez e segurança, bem como a responsabilidade ético-profissional. A alternativa B contraria o art. 140, § 1º, que autoriza a rejeição total ou parcial do objeto em desacordo com o contrato. A alternativa C contraria a distinção legal de competências entre recebimento provisório e definitivo. A alternativa D transfere ao particular ato que a lei atribui a servidor ou comissão designada pela Administração (art. 140, II, b).",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 140, I e II, e §§ 1º e 2º."
+  },
+  {
+    "id": "contratos-administrativos-17",
+    "topicoId": "contratos-administrativos",
+    "topico": "Contratos administrativos",
+    "dificuldade": "media",
+    "enunciado": "Sobre a ordem cronológica de pagamentos prevista na Lei nº 14.133/2021, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A ordem cronológica é única para todo o órgão, não se admitindo subdivisão por fonte de recursos ou por categoria de contrato." },
+      { "letra": "B", "texto": "A ordem cronológica é absoluta e não comporta qualquer exceção." },
+      { "letra": "C", "texto": "A ordem cronológica será observada para cada fonte diferenciada de recursos, subdividida em categorias de contratos, e poderá ser alterada mediante prévia justificativa da autoridade competente e posterior comunicação ao órgão de controle interno e ao tribunal de contas competente, nas situações taxativamente previstas em lei." },
+      { "letra": "D", "texto": "A alteração da ordem cronológica independe de justificativa, desde que comunicada ao tribunal de contas." },
+      { "letra": "E", "texto": "A inobservância imotivada da ordem cronológica não gera consequências para o agente público responsável." }
+    ],
+    "gabarito": "C",
+    "comentario": "A alternativa C conjuga o art. 141, caput, com o § 1º da Lei nº 14.133/2021. A alternativa A nega a subdivisão legal por fonte de recursos e por categorias (fornecimento de bens, locações, prestação de serviços e realização de obras). A alternativa B ignora as exceções expressas do § 1º, entre elas grave perturbação da ordem, emergência ou calamidade pública e pagamento a microempresas e empresas de pequeno porte quando demonstrado risco de descontinuidade. A alternativa D suprime a exigência de prévia justificativa da autoridade competente. A alternativa E contraria o art. 141, § 2º, que impõe a responsabilização de quem der causa à inobservância imotivada.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 141, caput, I a IV, e §§ 1º e 2º."
+  },
+  {
+    "id": "contratos-administrativos-18",
+    "topicoId": "contratos-administrativos",
+    "topico": "Contratos administrativos",
+    "dificuldade": "dificil",
+    "enunciado": "Empresa contratada pelo Município para prestação de serviço contínuo com regime de dedicação exclusiva de mão de obra deixou de recolher encargos previdenciários e trabalhistas de seus empregados, tendo restado comprovada falha na fiscalização do contrato pela Administração. Assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A Administração responderá solidariamente pelos encargos previdenciários e subsidiariamente pelos encargos trabalhistas, dada a comprovada falha na fiscalização." },
+      { "letra": "B", "texto": "A Administração responderá solidariamente por todos os encargos, inclusive fiscais e comerciais, independentemente de culpa." },
+      { "letra": "C", "texto": "A inadimplência do contratado transfere automaticamente à Administração a responsabilidade pelo pagamento de quaisquer encargos, em qualquer modalidade contratual." },
+      { "letra": "D", "texto": "A Administração jamais responde por encargos trabalhistas do contratado, ainda que comprovada falha na fiscalização." },
+      { "letra": "E", "texto": "A inadimplência do contratado onera o objeto do contrato e impede a regularização das obras e edificações perante o registro de imóveis." }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A reproduz o art. 121, § 2º, da Lei nº 14.133/2021, em linha com a Súmula 331, V, do TST e com o Tema 246 da repercussão geral do STF, que afasta a transferência automática de responsabilidade, admitindo-a apenas quando comprovada a conduta culposa na fiscalização. A alternativa B amplia indevidamente a responsabilidade a encargos fiscais e comerciais e adota responsabilidade objetiva, contrariando o § 1º. A alternativa C contraria o § 1º, que veda a transferência automática. A alternativa D nega a exceção legal do § 2º, expressamente prevista para serviços contínuos com dedicação exclusiva de mão de obra. A alternativa E contraria o § 1º, que expressamente afasta o ônus sobre o objeto do contrato e sobre a regularização das obras e edificações.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 121, caput e §§ 1º e 2º; Súmula 331, V, do TST; STF, Tema 246."
+  },
+  {
+    "id": "contratos-administrativos-19",
+    "topicoId": "contratos-administrativos",
+    "topico": "Contratos administrativos",
+    "dificuldade": "media",
+    "enunciado": "Sobre a formalização dos contratos administrativos na Lei nº 14.133/2021, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "O instrumento de contrato é sempre obrigatório, não se admitindo sua substituição por outro instrumento hábil." },
+      { "letra": "B", "texto": "O contrato verbal com a Administração é válido sempre que houver testemunhas e execução comprovada." },
+      { "letra": "C", "texto": "A substituição do termo de contrato por nota de empenho afasta integralmente a aplicação das cláusulas necessárias previstas na Lei." },
+      { "letra": "D", "texto": "O instrumento de contrato é obrigatório, salvo nas hipóteses de dispensa de licitação em razão do valor e de compras com entrega imediata e integral dos bens dos quais não resultem obrigações futuras, inclusive quanto a assistência técnica, casos em que poderá ser substituído por carta-contrato, nota de empenho de despesa, autorização de compra ou ordem de execução de serviço." },
+      { "letra": "E", "texto": "A divulgação do contrato e de seus aditamentos no Portal Nacional de Contratações Públicas é facultativa." }
+    ],
+    "gabarito": "D",
+    "comentario": "A alternativa D reproduz o art. 95, caput, I e II, da Lei nº 14.133/2021. A alternativa A nega as hipóteses legais de substituição. A alternativa B contraria o art. 95, § 2º, que declara nulo e de nenhum efeito o contrato verbal com a Administração, ressalvadas apenas as pequenas compras e a prestação de serviços de pronto pagamento até o valor legalmente fixado. A alternativa C contraria o art. 95, § 1º, que manda aplicar, no que couber, o disposto no art. 92. A alternativa E contraria o art. 94, que condiciona a eficácia dos contratos e de seus aditamentos à divulgação no PNCP.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, arts. 94 e 95, caput, I e II, e §§ 1º e 2º; art. 92."
+  },
+  {
+    "id": "contratos-administrativos-20",
+    "topicoId": "contratos-administrativos",
+    "topico": "Contratos administrativos",
+    "dificuldade": "dificil",
+    "enunciado": "Constatada irregularidade insanável em contrato administrativo municipal em plena execução, cuja paralisação acarretaria graves prejuízos sociais e econômicos, assinale a alternativa correta à luz da Lei nº 14.133/2021.",
+    "alternativas": [
+      { "letra": "A", "texto": "A nulidade deve ser declarada de imediato e produz efeitos apenas prospectivos, preservados integralmente os efeitos já produzidos." },
+      { "letra": "B", "texto": "A decisão sobre a suspensão da execução ou a declaração de nulidade somente será adotada se se revelar medida de interesse público, avaliados, entre outros, os impactos econômicos e financeiros, os riscos sociais e ambientais e o custo de nova contratação; caso a paralisação ou anulação não se revele medida de interesse público, o poder público deverá optar pela continuidade do contrato e pela solução da irregularidade por meio de indenização por perdas e danos." },
+      { "letra": "C", "texto": "Declarada a nulidade, a Administração fica exonerada do dever de indenizar o contratado pelo que houver executado, ainda que a irregularidade não lhe seja imputável." },
+      { "letra": "D", "texto": "A declaração de nulidade não admite modulação de efeitos, sendo vedado à autoridade postergar sua eficácia." },
+      { "letra": "E", "texto": "A nulidade do contrato afasta a apuração de responsabilidade de quem lhe deu causa." }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B conjuga o art. 147, caput e parágrafo único, da Lei nº 14.133/2021, expressão do consequencialismo introduzido pela LINDB (arts. 20 a 22). A alternativa A contraria o art. 148, caput, segundo o qual a declaração de nulidade opera retroativamente, desconstituindo os efeitos já produzidos. A alternativa C contraria o art. 149, que preserva o dever de indenizar o contratado pelo que houver executado e por outros prejuízos comprovados, desde que a nulidade não lhe seja imputável. A alternativa D contraria o art. 148, § 2º, que autoriza a autoridade a decidir que a nulidade só tenha eficácia em momento futuro, por prazo de até 6 meses, prorrogável uma única vez. A alternativa E contraria os arts. 147, parágrafo único, 148, § 1º, e 149, que preservam a responsabilização.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, arts. 147, caput e parágrafo único, 148, caput e §§ 1º e 2º, e 149; LINDB, arts. 20 a 22."
+  },
+  {
+    "id": "contratos-administrativos-21",
+    "topicoId": "contratos-administrativos",
+    "topico": "Contratos administrativos",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre a fiscalização e a gestão dos contratos administrativos na Lei nº 14.133/2021, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A fiscalização do contrato pode ser integralmente delegada a terceiros contratados, que substituem o representante da Administração." },
+      { "letra": "B", "texto": "O fiscal do contrato decide isoladamente todas as questões surgidas na execução, sendo-lhe vedado submeter matérias a seus superiores." },
+      { "letra": "C", "texto": "A execução do contrato deverá ser acompanhada e fiscalizada por um ou mais fiscais do contrato, representantes da Administração especialmente designados, permitida a contratação de terceiros para assisti-los e subsidiá-los com informações, devendo o fiscal anotar em registro próprio todas as ocorrências e ser auxiliado pelos órgãos de assessoramento jurídico e de controle interno." },
+      { "letra": "D", "texto": "A designação do fiscal do contrato independe do atendimento aos requisitos de qualificação previstos na Lei." },
+      { "letra": "E", "texto": "A fiscalização do contrato é faculdade da Administração, que pode dela abrir mão mediante cláusula contratual expressa." }
+    ],
+    "gabarito": "C",
+    "comentario": "A alternativa C conjuga o art. 117, caput, com os §§ 1º e 3º da Lei nº 14.133/2021. A alternativa A é falsa porque a contratação de terceiros serve apenas para ASSISTIR e SUBSIDIAR o fiscal, sem substituí-lo. A alternativa B contraria o art. 117, § 2º, que impõe ao fiscal informar seus superiores, em tempo hábil, sobre situações que ultrapassem sua competência. A alternativa D contraria o art. 117, caput, que remete aos requisitos do art. 7º. A alternativa E contraria o art. 104, III, que trata a fiscalização como prerrogativa e dever da Administração, indisponível por cláusula contratual.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 117, caput e §§ 1º, 2º e 3º; arts. 7º e 104, III."
+  },
+  {
+    "id": "contratos-administrativos-22",
+    "topicoId": "contratos-administrativos",
+    "topico": "Contratos administrativos",
+    "dificuldade": "media",
+    "enunciado": "Sobre a subcontratação na execução dos contratos administrativos regidos pela Lei nº 14.133/2021, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A subcontratação total do objeto é permitida, desde que autorizada pela Administração." },
+      { "letra": "B", "texto": "O contratado poderá subcontratar partes da obra, do serviço ou do fornecimento até o limite autorizado, em cada caso, pela Administração, sem prejuízo das suas responsabilidades contratuais e legais, sendo vedada a subcontratação de pessoa física ou jurídica que mantenha vínculo com dirigente do órgão contratante ou com agente público que atue na licitação, na fiscalização ou na gestão do contrato, ou que deles seja cônjuge, companheiro ou parente até o terceiro grau." },
+      { "letra": "C", "texto": "A subcontratação transfere ao subcontratado a responsabilidade perante a Administração pela parcela executada." },
+      { "letra": "D", "texto": "A subcontratação independe da comprovação da capacidade técnica do subcontratado." },
+      { "letra": "E", "texto": "A vedação de subcontratação por vínculo de parentesco alcança apenas parentes em linha reta até o segundo grau." }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B conjuga o art. 122, caput, com o § 3º da Lei nº 14.133/2021. A alternativa A é falsa: a lei autoriza a subcontratação de PARTES do objeto, e a subcontratação total desnaturaria o contrato e frustraria a seleção do contratado. A alternativa C contraria o caput, que preserva integralmente as responsabilidades contratuais e legais do contratado, único responsável perante a Administração. A alternativa D contraria o art. 122, § 1º, que exige a apresentação de documentação comprobatória da capacidade técnica do subcontratado. A alternativa E restringe indevidamente o § 3º, que alcança parentes em linha reta, colateral ou por afinidade até o terceiro grau.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 122, caput e §§ 1º e 3º."
+  },
+  {
+    "id": "contratos-administrativos-23",
+    "topicoId": "contratos-administrativos",
+    "topico": "Contratos administrativos",
+    "dificuldade": "media",
+    "enunciado": "Sobre as cláusulas necessárias dos contratos administrativos, previstas no art. 92 da Lei nº 14.133/2021, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "O contrato não precisa indicar o crédito pelo qual correrá a despesa, bastando a menção genérica ao orçamento do órgão." },
+      { "letra": "B", "texto": "É dispensável a cláusula que estabeleça o índice de reajustamento de preços em contratos com duração inferior a um ano." },
+      { "letra": "C", "texto": "É vedada a inclusão de cláusula sobre matriz de alocação de riscos entre contratante e contratado." },
+      { "letra": "D", "texto": "Entre as cláusulas necessárias figura a obrigação do contratado de manter, durante toda a execução do contrato, em compatibilidade com as obrigações assumidas, todas as condições exigidas para a habilitação na licitação ou para a qualificação, na contratação direta." },
+      { "letra": "E", "texto": "As cláusulas necessárias são meramente exemplificativas e podem ser afastadas por acordo entre as partes." }
+    ],
+    "gabarito": "D",
+    "comentario": "A alternativa D reproduz o art. 92, XVI, da Lei nº 14.133/2021. A alternativa A contraria o art. 92, IX, e o art. 150, que exigem a indicação dos créditos orçamentários, sob pena de nulidade e responsabilização. A alternativa B contraria o art. 92, § 3º, segundo o qual, INDEPENDENTEMENTE do prazo de duração, o contrato deve conter cláusula que estabeleça o índice de reajustamento de preço, com data-base vinculada à data do orçamento estimado. A alternativa C contraria os arts. 22 e 103, que expressamente disciplinam a matriz de alocação de riscos, obrigatória em obras e serviços de grande vulto e nos regimes de contratação integrada e semi-integrada. A alternativa E nega o caráter necessário das cláusulas do art. 92.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 92, IX, XVI e § 3º; arts. 22, 103 e 150."
+  },
+  {
+    "id": "contratos-administrativos-24",
+    "topicoId": "contratos-administrativos",
+    "topico": "Contratos administrativos",
+    "dificuldade": "dificil",
+    "enunciado": "Em contrato de obra municipal, a Administração promoveu supressão de parte dos serviços após o contratado já haver adquirido e colocado os materiais no local dos trabalhos. Assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "O contratado deve arcar integralmente com o custo dos materiais adquiridos, por se tratar de risco ordinário do negócio." },
+      { "letra": "B", "texto": "A supressão desonera a Administração de qualquer pagamento, ainda que os materiais já estejam no local da obra." },
+      { "letra": "C", "texto": "O contratado somente será ressarcido se comprovar má-fé da Administração na supressão." },
+      { "letra": "D", "texto": "O ressarcimento limita-se ao valor de mercado atual dos materiais, vedada qualquer atualização monetária." },
+      { "letra": "E", "texto": "Os materiais deverão ser pagos pela Administração pelos custos de aquisição regularmente comprovados e monetariamente reajustados, podendo caber indenização por outros danos eventualmente decorrentes da supressão, desde que regularmente comprovados." }
+    ],
+    "gabarito": "E",
+    "comentario": "A alternativa E reproduz o art. 129 da Lei nº 14.133/2021, que preserva o equilíbrio econômico-financeiro diante da alteração unilateral. As alternativas A e B transferem ao contratado prejuízo decorrente de ato da Administração, contrariando o art. 104, § 2º, e o art. 130. A alternativa C cria requisito de má-fé inexistente, pois o direito ao ressarcimento decorre do simples fato da supressão. A alternativa D contraria a determinação legal de reajuste monetário dos custos de aquisição regularmente comprovados.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, arts. 104, § 2º, 125, 129 e 130."
+  },
+  {
+    "id": "contratos-administrativos-25",
+    "topicoId": "contratos-administrativos",
+    "topico": "Contratos administrativos",
+    "dificuldade": "media",
+    "enunciado": "Sobre o reajustamento de preços e a repactuação nos contratos de serviços contínuos regidos pela Lei nº 14.133/2021, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "Observado o interregno mínimo de 1 ano, adota-se o reajustamento em sentido estrito quando não houver regime de dedicação exclusiva de mão de obra ou predominância de mão de obra, mediante índices específicos ou setoriais, e a repactuação quando houver tal regime ou predominância, mediante demonstração analítica da variação dos custos." },
+      { "letra": "B", "texto": "Reajuste e repactuação são sinônimos, aplicando-se indistintamente a qualquer contrato de serviço contínuo." },
+      { "letra": "C", "texto": "O interregno mínimo para o reajuste é de 6 meses, contados da assinatura do contrato." },
+      { "letra": "D", "texto": "A repactuação independe de demonstração analítica da variação dos custos contratuais, bastando a juntada da convenção coletiva." },
+      { "letra": "E", "texto": "O reajuste e a repactuação constituem hipóteses de alteração unilateral do contrato pela Administração." }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A reproduz o art. 92, § 4º, I e II, da Lei nº 14.133/2021, complementado pelo art. 135, que disciplina a repactuação. A alternativa B iguala institutos distintos: o reajuste em sentido estrito opera por índice setorial predefinido, ao passo que a repactuação exige demonstração analítica da variação de custos, especialmente de mão de obra. A alternativa C altera o interregno mínimo legal, que é de 1 ano. A alternativa D contraria o art. 135, que exige demonstração analítica. A alternativa E erra a natureza jurídica: a recomposição de preços não é alteração unilateral, mas mecanismo de manutenção do equilíbrio econômico-financeiro previsto contratualmente.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 92, § 4º, I e II; art. 135, I e II."
+  },
+  {
+    "id": "contratos-administrativos-26",
+    "topicoId": "contratos-administrativos",
+    "topico": "Contratos administrativos",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre os meios alternativos de prevenção e resolução de controvérsias nas contratações regidas pela Lei nº 14.133/2021, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A arbitragem em contratos administrativos poderá ser de direito ou por equidade, conforme convencionado pelas partes." },
+      { "letra": "B", "texto": "Os meios alternativos são admitidos inclusive para controvérsias sobre direitos patrimoniais indisponíveis." },
+      { "letra": "C", "texto": "Os contratos em curso não podem ser aditados para permitir a adoção de meios alternativos de resolução de controvérsias." },
+      { "letra": "D", "texto": "Poderão ser utilizados a conciliação, a mediação, o comitê de resolução de disputas e a arbitragem, aplicáveis a controvérsias relacionadas a direitos patrimoniais disponíveis, sendo a arbitragem sempre de direito e observando o princípio da publicidade." },
+      { "letra": "E", "texto": "A arbitragem em contratos administrativos é sigilosa, por envolver informações estratégicas da Administração." }
+    ],
+    "gabarito": "D",
+    "comentario": "A alternativa D conjuga o art. 151, caput e parágrafo único, com o art. 152 da Lei nº 14.133/2021. A alternativa A contraria o art. 152, que impõe a arbitragem de direito, incompatível com o julgamento por equidade em razão do princípio da legalidade. A alternativa B contraria o parágrafo único do art. 151, que restringe os meios alternativos a direitos patrimoniais disponíveis, como o restabelecimento do equilíbrio econômico-financeiro, o inadimplemento de obrigações contratuais e o cálculo de indenizações. A alternativa C contraria o art. 153, que autoriza o aditamento dos contratos para essa finalidade. A alternativa E contraria o art. 152, que impõe a observância do princípio da publicidade.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, arts. 151, caput e parágrafo único, 152, 153 e 154."
+  },
+  {
+    "id": "contratos-administrativos-27",
+    "topicoId": "contratos-administrativos",
+    "topico": "Contratos administrativos",
+    "dificuldade": "dificil",
+    "enunciado": "Concluída a licitação, o adjudicatário, regularmente convocado, não compareceu para assinar o termo de contrato no prazo estabelecido no edital. Assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "O adjudicatário decairá do direito à contratação, sem prejuízo das sanções previstas na Lei, sendo facultado à Administração convocar os licitantes remanescentes, na ordem de classificação, para a celebração do contrato nas condições propostas pelo licitante vencedor." },
+      { "letra": "B", "texto": "A Administração deverá obrigatoriamente revogar a licitação e instaurar novo certame." },
+      { "letra": "C", "texto": "Os licitantes remanescentes serão convocados a celebrar o contrato nas condições de suas próprias propostas originais, vedada qualquer negociação." },
+      { "letra": "D", "texto": "O prazo de convocação é improrrogável em qualquer hipótese." },
+      { "letra": "E", "texto": "Não sendo aceita a contratação pelos remanescentes, é vedado à Administração negociar preço superior ao ofertado pelo adjudicatário, ainda que dentro do valor estimado." }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A conjuga o art. 90, caput, com o § 2º da Lei nº 14.133/2021. A alternativa B suprime a faculdade legal de convocação dos remanescentes e impõe consequência não prevista. A alternativa C contraria o § 2º, que determina a celebração nas condições propostas pelo LICITANTE VENCEDOR, e não nas propostas originais dos remanescentes. A alternativa D contraria o art. 90, § 1º, que admite a prorrogação do prazo de convocação uma vez, por igual período, mediante solicitação justificada aceita pela Administração. A alternativa E contraria o art. 90, § 4º, I, que autoriza a negociação com os remanescentes, na ordem de classificação, mesmo que acima do preço do adjudicatário, observados o valor estimado e sua eventual atualização.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 90, caput e §§ 1º, 2º e 4º."
+  },
+  {
+    "id": "contratos-administrativos-28",
+    "topicoId": "contratos-administrativos",
+    "topico": "Contratos administrativos",
+    "dificuldade": "media",
+    "enunciado": "Sobre a matriz de alocação de riscos nos contratos regidos pela Lei nº 14.133/2021, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A matriz de riscos é sempre facultativa, ainda que se trate de obras e serviços de grande vulto." },
+      { "letra": "B", "texto": "Os riscos que tenham cobertura oferecida por seguradoras serão preferencialmente assumidos pela Administração." },
+      { "letra": "C", "texto": "A matriz de alocação de riscos define o equilíbrio econômico-financeiro inicial do contrato em relação a eventos supervenientes e deve ser observada na solução de eventuais pleitos das partes, sendo obrigatória sua previsão no edital quando se tratar de obras e serviços de grande vulto ou quando adotados os regimes de contratação integrada e semi-integrada." },
+      { "letra": "D", "texto": "Atendidas as condições do contrato e da matriz de riscos, as partes renunciam a pedidos de reequilíbrio, inclusive quanto às alterações unilaterais determinadas pela Administração." },
+      { "letra": "E", "texto": "A alocação de riscos não é quantificada, por se tratar de instrumento de natureza meramente descritiva." }
+    ],
+    "gabarito": "C",
+    "comentario": "A alternativa C conjuga o art. 103, § 4º, com o art. 22, § 3º, da Lei nº 14.133/2021. A alternativa A nega a obrigatoriedade expressa do art. 22, § 3º. A alternativa B inverte o art. 103, § 2º, segundo o qual os riscos com cobertura securitária são preferencialmente transferidos ao CONTRATADO. A alternativa D generaliza indevidamente a renúncia prevista no art. 103, § 5º, que ressalva expressamente as alterações unilaterais determinadas pela Administração e o aumento ou redução, por legislação superveniente, de tributos diretamente pagos pelo contratado. A alternativa E contraria o art. 103, § 3º, que determina a quantificação da alocação de riscos para fins de projeção de seus reflexos no valor estimado da contratação.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 22, caput e § 3º; art. 103, §§ 2º, 3º, 4º e 5º."
+  },
+  {
+    "id": "contratos-administrativos-29",
+    "topicoId": "contratos-administrativos",
+    "topico": "Contratos administrativos",
+    "dificuldade": "media",
+    "enunciado": "Assinale a alternativa que NÃO corresponde a infração administrativa tipificada no art. 155 da Lei nº 14.133/2021.",
+    "alternativas": [
+      { "letra": "A", "texto": "Dar causa à inexecução total do contrato." },
+      { "letra": "B", "texto": "Deixar de comparecer à sessão pública de abertura das propostas, ainda que tenha mantido sua proposta válida." },
+      { "letra": "C", "texto": "Apresentar declaração ou documentação falsa exigida para o certame ou prestar declaração falsa durante a licitação ou a execução do contrato." },
+      { "letra": "D", "texto": "Ensejar o retardamento da execução ou da entrega do objeto da licitação sem motivo justificado." },
+      { "letra": "E", "texto": "Praticar ato lesivo previsto no art. 5º da Lei nº 12.846/2013." }
+    ],
+    "gabarito": "B",
+    "comentario": "O art. 155 da Lei nº 14.133/2021 arrola taxativamente as infrações administrativas. A alternativa B não consta do rol: o simples não comparecimento à sessão pública, mantida a validade da proposta, não é tipificado como infração; a lei pune, sim, o não manter a proposta, salvo em decorrência de fato superveniente devidamente justificado (inciso V), e o não celebrar o contrato quando convocado (inciso VI). As alternativas A, C, D e E correspondem, respectivamente, aos incisos III, VIII, VII e XII do art. 155.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 155, III, V, VI, VII, VIII e XII; Lei nº 12.846/2013, art. 5º."
+  },
+  {
+    "id": "contratos-administrativos-30",
+    "topicoId": "contratos-administrativos",
+    "topico": "Contratos administrativos",
+    "dificuldade": "dificil",
+    "enunciado": "A Secretaria Municipal de Finanças pretende celebrar contrato de prestação de serviços sem que os autos indiquem os créditos orçamentários para pagamento das parcelas vincendas no exercício da contratação. Assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A indicação dos créditos orçamentários é exigível apenas nos contratos com duração superior a um exercício financeiro." },
+      { "letra": "B", "texto": "A ausência de indicação orçamentária configura mera irregularidade formal, sanável a qualquer tempo, sem consequências para o agente público." },
+      { "letra": "C", "texto": "A indicação dos créditos orçamentários é substituída pela simples previsão da despesa no plano plurianual." },
+      { "letra": "D", "texto": "A caracterização adequada do objeto é dispensável quando a contratação decorrer de dispensa de licitação em razão do valor." },
+      { "letra": "E", "texto": "Nenhuma contratação será feita sem a caracterização adequada de seu objeto e sem a indicação dos créditos orçamentários para pagamento das parcelas contratuais vincendas no exercício em que for realizada a contratação, sob pena de nulidade do ato e de responsabilização de quem lhe tiver dado causa." }
+    ],
+    "gabarito": "E",
+    "comentario": "A alternativa E reproduz o art. 150 da Lei nº 14.133/2021, em consonância com os arts. 105 e 92, IX, e com o art. 167, II, da CF/88, que veda a realização de despesas que excedam os créditos orçamentários. A alternativa A restringe indevidamente a exigência, que incide em toda contratação. A alternativa B nega a sanção de nulidade e a responsabilização expressamente previstas. A alternativa C confunde instrumentos: a previsão no plano plurianual é exigida quando o contrato ultrapassar um exercício financeiro (art. 105), mas não substitui a indicação dos créditos orçamentários. A alternativa D é falsa, pois a caracterização adequada do objeto é exigida em qualquer contratação, inclusive nas diretas, conforme o art. 72, I e II.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, arts. 92, IX, 105, 150 e 72; CF/88, art. 167, II."
+  }
+]

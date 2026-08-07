@@ -1,0 +1,962 @@
+[
+  {
+    "id": "organizacao-administrativa-01",
+    "topicoId": "organizacao-administrativa",
+    "topico": "Organização administrativa",
+    "dificuldade": "media",
+    "enunciado": "Sobre as técnicas de organização administrativa, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A desconcentração pressupõe a criação de nova pessoa jurídica, à qual são transferidas atribuições administrativas do ente central."
+      },
+      {
+        "letra": "B",
+        "texto": "Na descentralização administrativa há relação de hierarquia entre o ente central e a entidade descentralizada, o que permite a avocação de competências."
+      },
+      {
+        "letra": "C",
+        "texto": "A descentralização pressupõe a existência de duas pessoas distintas, com transferência de atribuições de uma para a outra, inexistindo entre elas relação hierárquica; já a desconcentração é a distribuição interna de competências entre órgãos de uma mesma pessoa jurídica, em que há hierarquia."
+      },
+      {
+        "letra": "D",
+        "texto": "Concentração e centralização são expressões sinônimas, ambas designando o exercício das competências pela própria pessoa jurídica central."
+      },
+      {
+        "letra": "E",
+        "texto": "A desconcentração somente é admitida no âmbito das entidades da Administração indireta, sendo vedada na Administração direta."
+      }
+    ],
+    "gabarito": "C",
+    "comentario": "A alternativa C está correta e reproduz a distinção clássica entre descentralização, que envolve duas pessoas jurídicas e afasta a hierarquia, e desconcentração, que ocorre dentro de uma mesma pessoa jurídica e pressupõe hierarquia. A alternativa A confunde os institutos, pois a criação de nova pessoa jurídica caracteriza descentralização. A alternativa B erra ao afirmar hierarquia na descentralização, em que existe apenas controle finalístico ou tutela administrativa, exercida nos limites da lei. A alternativa D erra porque concentração e centralização não são sinônimas: a centralização se opõe à descentralização (critério de pessoas jurídicas), enquanto a concentração se opõe à desconcentração (critério de órgãos). A alternativa E é falsa, pois a desconcentração é técnica típica também da Administração direta, como se vê da repartição de competências entre Secretarias e Departamentos municipais.",
+    "fundamentacaoLegal": "Decreto-Lei nº 200/1967, arts. 6º, 10 e 11; Lei nº 9.784/1999, arts. 11 a 15; doutrina de Maria Sylvia Zanella Di Pietro."
+  },
+  {
+    "id": "organizacao-administrativa-02",
+    "topicoId": "organizacao-administrativa",
+    "topico": "Organização administrativa",
+    "dificuldade": "media",
+    "enunciado": "Sobre as espécies de descentralização administrativa, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Na descentralização por colaboração há transferência da titularidade do serviço público ao particular colaborador."
+      },
+      {
+        "letra": "B",
+        "texto": "A descentralização por serviços é realizada por contrato administrativo, ao passo que a descentralização por colaboração se opera por lei."
+      },
+      {
+        "letra": "C",
+        "texto": "A criação de autarquia municipal para a prestação de serviço público configura descentralização por colaboração."
+      },
+      {
+        "letra": "D",
+        "texto": "Na descentralização por serviços, a entidade criada recebe apenas a execução do serviço, podendo o ente instituidor retomá-lo a qualquer tempo por simples ato administrativo unilateral, independentemente de lei."
+      },
+      {
+        "letra": "E",
+        "texto": "A descentralização por serviços, funcional ou técnica, opera-se por lei, que cria ou autoriza a criação de entidade da Administração indireta e lhe transfere a titularidade e a execução do serviço; a descentralização por colaboração se dá por contrato ou ato unilateral, transferindo-se ao particular apenas a execução, conservando o poder público a titularidade."
+      }
+    ],
+    "gabarito": "E",
+    "comentario": "A alternativa E está correta e reflete a distinção consagrada por Maria Sylvia Zanella Di Pietro. A alternativa A é incorreta porque, na descentralização por colaboração, transfere-se ao particular somente a execução do serviço, e não sua titularidade. A alternativa B inverte os instrumentos de cada espécie. A alternativa C erra porque a criação de autarquia é descentralização por serviços. A alternativa D é incorreta porque, criada a entidade por lei, sua extinção ou a retomada do serviço exige lei, em razão do princípio do paralelismo das formas, e, na concessão, a retomada antecipada por interesse público (encampação) depende de lei autorizativa específica e de prévio pagamento de indenização.",
+    "fundamentacaoLegal": "CF/88, art. 37, XIX, e art. 175; Lei nº 8.987/1995, arts. 2º e 37; doutrina de Maria Sylvia Zanella Di Pietro."
+  },
+  {
+    "id": "organizacao-administrativa-03",
+    "topicoId": "organizacao-administrativa",
+    "topico": "Organização administrativa",
+    "dificuldade": "dificil",
+    "enunciado": "Com base no Decreto-Lei nº 200/1967 e na sistemática constitucional da organização administrativa, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Integram a Administração indireta, na dicção do Decreto-Lei nº 200/1967, as autarquias, as fundações públicas, as empresas públicas, as sociedades de economia mista e os serviços sociais autônomos."
+      },
+      {
+        "letra": "B",
+        "texto": "A Administração direta constitui-se dos serviços integrados na estrutura administrativa da chefia do Poder Executivo e de seus órgãos auxiliares, ao passo que a Administração indireta compreende as autarquias, as empresas públicas, as sociedades de economia mista e as fundações públicas, todas dotadas de personalidade jurídica própria."
+      },
+      {
+        "letra": "C",
+        "texto": "As entidades integrantes da Administração indireta não possuem personalidade jurídica própria, constituindo meros centros de competência do ente instituidor."
+      },
+      {
+        "letra": "D",
+        "texto": "As concessionárias e permissionárias de serviço público integram a Administração indireta, uma vez que prestam serviço público por delegação estatal."
+      },
+      {
+        "letra": "E",
+        "texto": "As organizações sociais e as organizações da sociedade civil de interesse público passam a integrar a Administração indireta a partir da celebração, respectivamente, do contrato de gestão e do termo de parceria."
+      }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B está correta e corresponde ao art. 4º, I e II, do Decreto-Lei nº 200/1967, adaptado à estrutura dos demais entes federados. A alternativa A erra ao incluir os serviços sociais autônomos, que são entidades paraestatais de direito privado, integrantes do chamado terceiro setor, e não da Administração indireta. A alternativa C contraria a nota essencial da descentralização por serviços, que é a criação de pessoa jurídica dotada de personalidade própria. A alternativa D é falsa: concessionárias e permissionárias são particulares em colaboração, permanecendo fora da estrutura da Administração. A alternativa E é incorreta porque as organizações sociais e as OSCIP são entidades privadas sem fins lucrativos, meramente qualificadas pelo poder público, e não integram a Administração indireta.",
+    "fundamentacaoLegal": "Decreto-Lei nº 200/1967, art. 4º, I e II, e art. 5º; Lei nº 9.637/1998; Lei nº 9.790/1999; CF/88, art. 37, XIX."
+  },
+  {
+    "id": "organizacao-administrativa-04",
+    "topicoId": "organizacao-administrativa",
+    "topico": "Organização administrativa",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre a criação e a extinção de entidades da Administração indireta, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A lei cria diretamente as autarquias, as fundações públicas, as empresas públicas e as sociedades de economia mista, que adquirem personalidade jurídica com a publicação do respectivo diploma legal."
+      },
+      {
+        "letra": "B",
+        "texto": "A criação de empresa pública depende apenas de decreto do Chefe do Poder Executivo, dispensada autorização legislativa, por se tratar de pessoa jurídica de direito privado."
+      },
+      {
+        "letra": "C",
+        "texto": "A extinção de autarquia pode ser realizada por decreto do Chefe do Poder Executivo, desde que a medida não implique aumento de despesa."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente por lei específica poderá ser criada autarquia e autorizada a instituição de empresa pública, de sociedade de economia mista e de fundação, cabendo à lei complementar, neste último caso, definir as áreas de sua atuação."
+      },
+      {
+        "letra": "E",
+        "texto": "A criação de subsidiárias das entidades da Administração indireta independe de qualquer autorização legislativa, bastando deliberação do órgão de administração da entidade matriz."
+      }
+    ],
+    "gabarito": "D",
+    "comentario": "A alternativa D reproduz o art. 37, XIX, da CF/88, na redação da EC nº 19/1998. A alternativa A erra porque a lei cria diretamente apenas as autarquias, limitando-se a autorizar a instituição das demais entidades, cuja personalidade jurídica surge com o registro dos atos constitutivos. A alternativa B contraria a exigência de lei autorizativa específica. A alternativa C viola o princípio do paralelismo das formas: criada por lei, a autarquia somente por lei pode ser extinta, sendo que o art. 84, VI, a, da CF/88 expressamente ressalva a criação e a extinção de órgãos. A alternativa E contraria o art. 37, XX, da CF/88, que exige autorização legislativa para a criação de subsidiárias e para a participação de qualquer delas em empresa privada, admitindo o STF que essa autorização conste, de forma genérica, da própria lei instituidora da entidade matriz.",
+    "fundamentacaoLegal": "CF/88, art. 37, XIX e XX, e art. 84, VI, a; STF, ADI 1.649/DF."
+  },
+  {
+    "id": "organizacao-administrativa-05",
+    "topicoId": "organizacao-administrativa",
+    "topico": "Organização administrativa",
+    "dificuldade": "media",
+    "enunciado": "Sobre as autarquias e seu regime jurídico, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A autarquia é o serviço autônomo, criado por lei, com personalidade jurídica de direito público, patrimônio e receita próprios, para executar atividades típicas da Administração Pública que requeiram, para seu melhor funcionamento, gestão administrativa e financeira descentralizada."
+      },
+      {
+        "letra": "B",
+        "texto": "A autarquia possui personalidade jurídica de direito privado e submete-se ao regime falimentar comum às sociedades empresárias."
+      },
+      {
+        "letra": "C",
+        "texto": "Os bens das autarquias são penhoráveis, não se submetendo os débitos judiciais dessas entidades ao regime constitucional de precatórios."
+      },
+      {
+        "letra": "D",
+        "texto": "A autarquia é hierarquicamente subordinada ao ente federado que a instituiu, o qual pode, a qualquer tempo, avocar suas competências."
+      },
+      {
+        "letra": "E",
+        "texto": "A autarquia não goza de imunidade tributária recíproca quanto ao patrimônio, à renda e aos serviços vinculados às suas finalidades essenciais."
+      }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A reproduz o conceito do art. 5º, I, do Decreto-Lei nº 200/1967. A alternativa B é falsa: a autarquia é pessoa jurídica de direito público e não se sujeita à falência, expressamente excluída do regime da Lei nº 11.101/2005. A alternativa C erra porque os bens autárquicos são bens públicos, impenhoráveis, e as condenações judiciais submetem-se ao regime de precatórios do art. 100 da CF/88. A alternativa D erra ao afirmar subordinação hierárquica: entre o ente instituidor e a autarquia há apenas controle finalístico ou tutela, exercido nos limites da lei, o que exclui a avocação. A alternativa E contraria o art. 150, VI, a, e § 2º, da CF/88, que estende às autarquias e fundações instituídas e mantidas pelo poder público a imunidade recíproca quanto ao patrimônio, à renda e aos serviços vinculados a suas finalidades essenciais ou delas decorrentes.",
+    "fundamentacaoLegal": "Decreto-Lei nº 200/1967, art. 5º, I; CF/88, art. 100 e art. 150, VI, a, e § 2º; Código Civil, arts. 41, IV, 98 e 100; Lei nº 11.101/2005, art. 2º, I."
+  },
+  {
+    "id": "organizacao-administrativa-06",
+    "topicoId": "organizacao-administrativa",
+    "topico": "Organização administrativa",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre as agências reguladoras no direito brasileiro, notadamente à luz da Lei nº 13.848/2019, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As agências reguladoras são pessoas jurídicas de direito privado, criadas por decreto do Chefe do Poder Executivo, com atribuição de regulação setorial."
+      },
+      {
+        "letra": "B",
+        "texto": "Os dirigentes das agências reguladoras são exoneráveis a qualquer tempo, por ato discricionário do Chefe do Poder Executivo, em razão do poder hierárquico."
+      },
+      {
+        "letra": "C",
+        "texto": "As agências reguladoras são autarquias de natureza especial, caracterizadas pela ausência de tutela ou de subordinação hierárquica, pela autonomia funcional, decisória, administrativa e financeira e pela investidura a termo de seus dirigentes, nomeados pelo Chefe do Poder Executivo após aprovação pelo Senado Federal, com estabilidade durante os mandatos."
+      },
+      {
+        "letra": "D",
+        "texto": "O poder normativo das agências reguladoras, por força da deslegalização, autoriza a criação originária de obrigações não previstas em lei, inclusive restritivas de direitos fundamentais."
+      },
+      {
+        "letra": "E",
+        "texto": "As agências reguladoras integram a Administração direta, funcionando como órgãos autônomos vinculados aos Ministérios ou Secretarias setoriais."
+      }
+    ],
+    "gabarito": "C",
+    "comentario": "A alternativa C está correta e reflete os arts. 3º e 5º da Lei nº 13.848/2019, bem como o art. 52, III, f, da CF/88. A alternativa A é falsa: as agências reguladoras são autarquias, pessoas jurídicas de direito público criadas por lei específica (art. 37, XIX, da CF/88). A alternativa B contraria a nota central do regime especial, que é a investidura a termo, com estabilidade dos dirigentes durante o mandato, admitida a perda apenas nas hipóteses legalmente previstas. A alternativa D extrapola os limites do poder normativo: as normas editadas pelas agências devem observar os parâmetros legais, sendo vedada a criação originária de deveres não fundados em lei, sobretudo os restritivos de direitos fundamentais. A alternativa E confunde órgão com entidade, pois a agência reguladora possui personalidade jurídica própria e integra a Administração indireta.",
+    "fundamentacaoLegal": "Lei nº 13.848/2019, arts. 3º, 5º, 6º e 8º; CF/88, art. 37, XIX, art. 52, III, f, e art. 174."
+  },
+  {
+    "id": "organizacao-administrativa-07",
+    "topicoId": "organizacao-administrativa",
+    "topico": "Organização administrativa",
+    "dificuldade": "media",
+    "enunciado": "Sobre a qualificação de entidades como agências executivas, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A agência executiva constitui nova espécie de entidade da Administração indireta, criada por lei específica, ao lado das autarquias e fundações."
+      },
+      {
+        "letra": "B",
+        "texto": "A qualificação como agência executiva possui caráter permanente e irrevogável, uma vez concedida por decreto."
+      },
+      {
+        "letra": "C",
+        "texto": "A qualificação como agência executiva independe da celebração de contrato de gestão com o órgão supervisor, bastando o requerimento da entidade interessada."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente empresas públicas e sociedades de economia mista podem ser qualificadas como agências executivas."
+      },
+      {
+        "letra": "E",
+        "texto": "Agência executiva é qualificação conferida por decreto a autarquia ou fundação que tenha plano estratégico de reestruturação e de desenvolvimento institucional em andamento e que celebre contrato de gestão com o respectivo órgão supervisor, não se tratando de nova espécie de entidade."
+      }
+    ],
+    "gabarito": "E",
+    "comentario": "A alternativa E está correta e corresponde ao art. 51 da Lei nº 9.649/1998. A alternativa A erra porque a agência executiva não é nova pessoa jurídica, mas mera qualificação atribuída a autarquia ou fundação preexistente. A alternativa B é falsa: a qualificação pode ser desconstituída, notadamente em caso de descumprimento das metas pactuadas, sendo revista periodicamente. A alternativa C contraria o art. 51, II, que exige a celebração do contrato de gestão. A alternativa D restringe indevidamente o universo de entidades qualificáveis, que abrange autarquias e fundações, e não as empresas estatais.",
+    "fundamentacaoLegal": "Lei nº 9.649/1998, arts. 51 e 52; CF/88, art. 37, § 8º; Decreto nº 2.487/1998."
+  },
+  {
+    "id": "organizacao-administrativa-08",
+    "topicoId": "organizacao-administrativa",
+    "topico": "Organização administrativa",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre as fundações instituídas pelo Poder Público, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Toda fundação instituída pelo Poder Público possui personalidade jurídica de direito privado, sujeitando-se integralmente ao regime do Código Civil, inclusive quanto ao velamento pelo Ministério Público."
+      },
+      {
+        "letra": "B",
+        "texto": "A doutrina majoritária e a jurisprudência admitem que as fundações instituídas pelo Poder Público possuam personalidade jurídica de direito público, hipótese em que constituem espécie do gênero autarquia, ou de direito privado, caso em que a lei apenas autoriza sua instituição, adquirindo elas personalidade com o registro dos atos constitutivos."
+      },
+      {
+        "letra": "C",
+        "texto": "A criação de fundação pública de direito público independe de lei, bastando a inscrição de seus atos constitutivos no registro civil de pessoas jurídicas."
+      },
+      {
+        "letra": "D",
+        "texto": "As fundações públicas de direito público não gozam de imunidade tributária recíproca, uma vez que esta se restringe às pessoas políticas."
+      },
+      {
+        "letra": "E",
+        "texto": "Cabe a lei ordinária federal definir as áreas de atuação das fundações instituídas pelo Poder Público, nos termos do art. 37, XIX, da Constituição Federal."
+      }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B está correta e reflete o entendimento consolidado sobre a possibilidade de fundações públicas de direito público, tratadas como autarquias fundacionais, e de fundações públicas de direito privado. A alternativa A generaliza indevidamente, desconsiderando a categoria das fundações autárquicas. A alternativa C é falsa: as fundações públicas de direito público são criadas diretamente por lei específica, tal como as autarquias. A alternativa D contraria o art. 150, § 2º, da CF/88, que estende a imunidade recíproca às autarquias e às fundações instituídas e mantidas pelo poder público, quanto ao patrimônio, à renda e aos serviços vinculados a suas finalidades essenciais. A alternativa E erra quanto à espécie normativa, pois o art. 37, XIX, exige lei complementar para a definição das áreas de atuação das fundações.",
+    "fundamentacaoLegal": "CF/88, art. 37, XIX, e art. 150, VI, a, e § 2º; Código Civil, arts. 41, IV e V, e 62 a 69; Decreto-Lei nº 200/1967, art. 5º, IV."
+  },
+  {
+    "id": "organizacao-administrativa-09",
+    "topicoId": "organizacao-administrativa",
+    "topico": "Organização administrativa",
+    "dificuldade": "media",
+    "enunciado": "Sobre as empresas públicas, nos termos da Lei nº 13.303/2016, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A empresa pública admite a participação de capital privado minoritário, desde que a maioria das ações com direito a voto pertença ao ente instituidor."
+      },
+      {
+        "letra": "B",
+        "texto": "A empresa pública deve necessariamente adotar a forma de sociedade anônima, aplicando-se-lhe integralmente a Lei nº 6.404/1976."
+      },
+      {
+        "letra": "C",
+        "texto": "As causas em que é parte empresa pública federal são julgadas pela Justiça comum estadual, nos termos da Súmula 556 do Supremo Tribunal Federal."
+      },
+      {
+        "letra": "D",
+        "texto": "A empresa pública é entidade dotada de personalidade jurídica de direito privado, com criação autorizada por lei e com patrimônio próprio, cujo capital social é integralmente detido pelo ente federativo instituidor, admitida a participação de outras pessoas jurídicas de direito público interno e de entidades da administração indireta, desde que a maioria do capital votante permaneça em propriedade do ente instituidor."
+      },
+      {
+        "letra": "E",
+        "texto": "A empresa pública não se sujeita à exigência de licitação nem à de concurso público, por possuir personalidade jurídica de direito privado."
+      }
+    ],
+    "gabarito": "D",
+    "comentario": "A alternativa D corresponde ao art. 3º, caput e parágrafo único, da Lei nº 13.303/2016. A alternativa A é incorreta porque o capital da empresa pública é integralmente público, admitindo-se apenas a participação de outras pessoas jurídicas de direito público interno e de entidades da administração indireta, e não de capital privado. A alternativa B erra porque a empresa pública pode adotar qualquer das formas admitidas em direito, inclusive a de sociedade unipessoal. A alternativa C confunde os regimes: a Súmula 556 do STF trata das sociedades de economia mista, ao passo que as causas em que são partes empresas públicas federais competem à Justiça Federal, nos termos do art. 109, I, da CF/88. A alternativa E é falsa: as empresas estatais submetem-se à exigência de concurso público (art. 37, II, da CF/88) e a procedimento licitatório, na forma dos arts. 28 e seguintes da Lei nº 13.303/2016.",
+    "fundamentacaoLegal": "Lei nº 13.303/2016, art. 3º, caput e parágrafo único, e arts. 28 a 32; CF/88, art. 37, II e XIX, e art. 109, I."
+  },
+  {
+    "id": "organizacao-administrativa-10",
+    "topicoId": "organizacao-administrativa",
+    "topico": "Organização administrativa",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre as sociedades de economia mista, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A sociedade de economia mista é pessoa jurídica de direito privado, constituída sob a forma de sociedade anônima, cuja criação é autorizada por lei e cujas ações com direito a voto pertencem em sua maioria ao ente federativo instituidor ou a entidade da respectiva administração indireta; as causas em que é parte, ainda que federal, são julgadas, em regra, pela Justiça comum estadual."
+      },
+      {
+        "letra": "B",
+        "texto": "A sociedade de economia mista pode adotar qualquer forma societária admitida na legislação civil e empresarial, conforme dispuser seu estatuto social."
+      },
+      {
+        "letra": "C",
+        "texto": "A totalidade do capital social da sociedade de economia mista pertence ao poder público, sendo vedada a participação de acionistas privados."
+      },
+      {
+        "letra": "D",
+        "texto": "As causas em que é parte sociedade de economia mista federal são de competência da Justiça Federal, por força do art. 109, I, da Constituição Federal."
+      },
+      {
+        "letra": "E",
+        "texto": "A sociedade de economia mista, por ser pessoa jurídica de direito privado, não se submete à fiscalização do respectivo Tribunal de Contas."
+      }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A está correta, conjugando o art. 4º da Lei nº 13.303/2016 com a Súmula 556 do STF. A alternativa B erra porque a sociedade de economia mista deve necessariamente assumir a forma de sociedade anônima. A alternativa C confunde a sociedade de economia mista com a empresa pública, sendo que naquela há conjugação de capital público e privado. A alternativa D contraria a Súmula 556 do STF, sendo certo que, nos termos da Súmula 517 do mesmo Tribunal, a competência da Justiça Federal somente se firma quando a União intervém como assistente ou opoente. A alternativa E é falsa: o art. 71, II, da CF/88 submete ao controle do Tribunal de Contas as contas dos administradores e demais responsáveis por dinheiros, bens e valores públicos da administração direta e indireta, incluídas as sociedades de economia mista.",
+    "fundamentacaoLegal": "Lei nº 13.303/2016, arts. 4º e 5º; Súmulas 517 e 556 do STF; CF/88, art. 71, II, e art. 109, I."
+  },
+  {
+    "id": "organizacao-administrativa-11",
+    "topicoId": "organizacao-administrativa",
+    "topico": "Organização administrativa",
+    "dificuldade": "media",
+    "enunciado": "Sobre o âmbito de incidência e as exigências da Lei nº 13.303/2016 (Estatuto Jurídico das Empresas Estatais), assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A Lei nº 13.303/2016 aplica-se apenas às empresas estatais federais, cabendo a cada Estado e Município editar o seu próprio estatuto jurídico."
+      },
+      {
+        "letra": "B",
+        "texto": "A Lei nº 13.303/2016 dispensa as empresas estatais da elaboração de código de conduta e integridade, em razão de sua natureza privada."
+      },
+      {
+        "letra": "C",
+        "texto": "A Lei nº 13.303/2016 abrange toda e qualquer empresa pública e sociedade de economia mista da União, dos Estados, do Distrito Federal e dos Municípios que explore atividade econômica de produção ou comercialização de bens ou de prestação de serviços, ainda que a atividade econômica esteja sujeita ao regime de monopólio da União ou seja de prestação de serviços públicos."
+      },
+      {
+        "letra": "D",
+        "texto": "A Lei nº 13.303/2016 veda a instituição de Conselho Fiscal nas sociedades de economia mista, atribuindo a fiscalização exclusivamente ao Tribunal de Contas."
+      },
+      {
+        "letra": "E",
+        "texto": "Os administradores das empresas estatais podem ser livremente escolhidos pelo Chefe do Poder Executivo, sem observância de requisitos de formação acadêmica e de experiência profissional."
+      }
+    ],
+    "gabarito": "C",
+    "comentario": "A alternativa C reproduz o art. 1º, caput, da Lei nº 13.303/2016. A alternativa A restringe indevidamente o alcance da lei, que é nacional e vincula todos os entes federados. A alternativa B contraria o art. 9º, § 1º, I, que exige a elaboração e divulgação de código de conduta e integridade. A alternativa D é falsa: o art. 26 da lei determina que a sociedade de economia mista terá obrigatoriamente Conselho Fiscal, com funcionamento permanente. A alternativa E contraria o art. 17, que estabelece requisitos objetivos de formação acadêmica, experiência profissional e reputação ilibada, além de vedações à indicação de determinadas autoridades e dirigentes partidários.",
+    "fundamentacaoLegal": "Lei nº 13.303/2016, art. 1º, caput, art. 9º, § 1º, art. 17 e art. 26; CF/88, art. 22, XXVII, e art. 173, § 1º."
+  },
+  {
+    "id": "organizacao-administrativa-12",
+    "topicoId": "organizacao-administrativa",
+    "topico": "Organização administrativa",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre o regime jurídico das empresas públicas e das sociedades de economia mista que exploram atividade econômica, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tais entidades gozam de imunidade tributária recíproca quanto ao seu patrimônio, à sua renda e aos seus serviços, por integrarem a Administração indireta."
+      },
+      {
+        "letra": "B",
+        "texto": "Os bens dessas entidades são impenhoráveis, e seus débitos judiciais submetem-se ao regime constitucional de precatórios."
+      },
+      {
+        "letra": "C",
+        "texto": "A responsabilidade civil dessas entidades pelos danos causados a terceiros é objetiva, com fundamento direto no art. 37, § 6º, da Constituição Federal."
+      },
+      {
+        "letra": "D",
+        "texto": "Tais entidades estão dispensadas de realizar licitação em qualquer hipótese, por força do art. 173, § 1º, da Constituição Federal."
+      },
+      {
+        "letra": "E",
+        "texto": "A empresa pública e a sociedade de economia mista que explorem atividade econômica de produção ou comercialização de bens ou de prestação de serviços sujeitam-se ao regime jurídico próprio das empresas privadas, inclusive quanto aos direitos e obrigações civis, comerciais, trabalhistas e tributários, sendo-lhes vedado gozar de privilégios fiscais não extensivos às do setor privado."
+      }
+    ],
+    "gabarito": "E",
+    "comentario": "A alternativa E conjuga o art. 173, § 1º, II, e o art. 173, § 2º, da CF/88. A alternativa A contraria o art. 150, § 3º, da CF/88, que afasta a imunidade recíproca quanto ao patrimônio, à renda e aos serviços relacionados com exploração de atividades econômicas regidas pelas normas aplicáveis a empreendimentos privados. A alternativa B é falsa: os bens dessas entidades são privados e penhoráveis, não se aplicando o regime de precatórios do art. 100 da CF/88. A alternativa C erra porque o art. 37, § 6º, alcança as pessoas jurídicas de direito privado prestadoras de serviços públicos, e não as exploradoras de atividade econômica, cuja responsabilidade se rege pelo direito comum. A alternativa D contraria o art. 173, § 1º, III, da CF/88 e os arts. 28 e seguintes da Lei nº 13.303/2016, que impõem procedimento licitatório, ainda que simplificado e com hipóteses próprias de dispensa.",
+    "fundamentacaoLegal": "CF/88, art. 37, § 6º, art. 100, art. 150, § 3º, e art. 173, §§ 1º, II e III, e 2º; Lei nº 13.303/2016, arts. 28 a 32."
+  },
+  {
+    "id": "organizacao-administrativa-13",
+    "topicoId": "organizacao-administrativa",
+    "topico": "Organização administrativa",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre o regime jurídico das empresas estatais prestadoras de serviço público, à luz da jurisprudência do Supremo Tribunal Federal, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As empresas estatais prestadoras de serviço público em regime de exclusividade não fazem jus a qualquer prerrogativa própria da Fazenda Pública, por serem pessoas jurídicas de direito privado."
+      },
+      {
+        "letra": "B",
+        "texto": "A Empresa Brasileira de Correios e Telégrafos, por ser empresa pública prestadora de serviço público em regime de exclusividade, faz jus à imunidade tributária recíproca e à execução de seus débitos judiciais pelo regime de precatórios."
+      },
+      {
+        "letra": "C",
+        "texto": "A imunidade tributária recíproca alcança indistintamente todas as empresas públicas e sociedades de economia mista, independentemente da atividade por elas desenvolvida."
+      },
+      {
+        "letra": "D",
+        "texto": "As empresas estatais prestadoras de serviço público respondem subjetivamente pelos danos causados a terceiros, exigindo-se a demonstração de culpa ou dolo do agente."
+      },
+      {
+        "letra": "E",
+        "texto": "A distinção entre estatais prestadoras de serviço público e estatais exploradoras de atividade econômica é irrelevante para a definição de seu regime jurídico."
+      }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B está correta e reflete a orientação firmada pelo STF quanto à Empresa Brasileira de Correios e Telégrafos. A alternativa A é falsa justamente porque a jurisprudência reconhece prerrogativas fazendárias a essas entidades quando prestam serviço público em regime de exclusividade. A alternativa C generaliza indevidamente: a imunidade não alcança as estatais que exploram atividade econômica em regime concorrencial, por força do art. 150, § 3º, da CF/88. A alternativa D contraria o art. 37, § 6º, da CF/88, que impõe responsabilidade objetiva às pessoas jurídicas de direito privado prestadoras de serviços públicos. A alternativa E é incorreta porque a natureza da atividade é justamente o critério determinante do regime jurídico aplicável às estatais.",
+    "fundamentacaoLegal": "CF/88, art. 21, X, art. 37, § 6º, art. 100, art. 150, VI, a, e § 3º, e art. 173, § 1º; STF, RE 601.392/PR (Tema 235 da repercussão geral) e RE 220.906/DF."
+  },
+  {
+    "id": "organizacao-administrativa-14",
+    "topicoId": "organizacao-administrativa",
+    "topico": "Organização administrativa",
+    "dificuldade": "media",
+    "enunciado": "Determinado Município instituiu autarquia municipal para a gestão de serviços de trânsito. Em razão de conduta de agente da autarquia, no exercício de suas funções, particular sofre dano patrimonial. Sobre a responsabilidade civil no caso, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A responsabilidade objetiva prevista no art. 37, § 6º, da Constituição Federal alcança apenas as pessoas jurídicas de direito público integrantes da Administração direta."
+      },
+      {
+        "letra": "B",
+        "texto": "As entidades da Administração indireta respondem sempre de forma subsidiária, cabendo ao ente instituidor a responsabilidade principal pelos danos causados."
+      },
+      {
+        "letra": "C",
+        "texto": "A responsabilidade do agente público causador do dano perante a entidade lesada é objetiva, dispensando a demonstração de dolo ou culpa."
+      },
+      {
+        "letra": "D",
+        "texto": "As pessoas jurídicas de direito público e as de direito privado prestadoras de serviços públicos responderão pelos danos que seus agentes, nessa qualidade, causarem a terceiros, assegurado o direito de regresso contra o responsável nos casos de dolo ou culpa."
+      },
+      {
+        "letra": "E",
+        "texto": "A responsabilidade civil da autarquia exclui em definitivo a responsabilidade do ente instituidor, ainda que exaurido o patrimônio da entidade descentralizada."
+      }
+    ],
+    "gabarito": "D",
+    "comentario": "A alternativa D reproduz o art. 37, § 6º, da CF/88. A alternativa A restringe indevidamente o dispositivo, que abrange também as pessoas jurídicas de direito privado prestadoras de serviços públicos, além das autarquias e fundações públicas. A alternativa B inverte a lógica da personalidade jurídica própria: a entidade descentralizada responde de forma principal por seus próprios atos. A alternativa C erra porque a responsabilidade do agente é subjetiva, em ação de regresso, condicionada à demonstração de dolo ou culpa. A alternativa E é incorreta porque a doutrina e a jurisprudência admitem a responsabilidade subsidiária do ente instituidor quando exaurido o patrimônio da entidade descentralizada.",
+    "fundamentacaoLegal": "CF/88, art. 37, § 6º; LINDB, art. 28; doutrina de José dos Santos Carvalho Filho e Maria Sylvia Zanella Di Pietro."
+  },
+  {
+    "id": "organizacao-administrativa-15",
+    "topicoId": "organizacao-administrativa",
+    "topico": "Organização administrativa",
+    "dificuldade": "media",
+    "enunciado": "Sobre o controle exercido pela Administração direta em relação às entidades da Administração indireta, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Trata-se de controle finalístico, também denominado tutela administrativa ou supervisão, limitado às hipóteses e aos limites estabelecidos em lei, não se confundindo com o controle hierárquico."
+      },
+      {
+        "letra": "B",
+        "texto": "Trata-se de controle hierárquico, que autoriza a avocação e a delegação de competências entre o ente instituidor e a entidade descentralizada."
+      },
+      {
+        "letra": "C",
+        "texto": "A tutela administrativa é presumida, dispensando previsão legal expressa que a autorize, em razão da unidade da Administração Pública."
+      },
+      {
+        "letra": "D",
+        "texto": "A Administração direta pode anular atos praticados pelas entidades da Administração indireta a qualquer tempo e independentemente de previsão legal, com fundamento na autotutela."
+      },
+      {
+        "letra": "E",
+        "texto": "O controle finalístico abrange o exame da conveniência e da oportunidade de todos os atos praticados pelas entidades da Administração indireta."
+      }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A está correta: o vínculo entre a Administração direta e as entidades da indireta é de vinculação, e não de subordinação, sendo o controle finalístico exercido nos estritos limites da lei. A alternativa B erra ao afirmar hierarquia, que pressupõe identidade de pessoa jurídica. A alternativa C contraria a máxima de que a tutela não se presume, dependendo de expressa previsão legal. A alternativa D é falsa, pois a autotutela é exercida pela própria entidade sobre seus atos, cabendo à Administração direta apenas os controles previstos em lei, como o recurso hierárquico impróprio. A alternativa E extrapola o objeto do controle finalístico, que se volta à verificação do cumprimento das finalidades institucionais e das metas fixadas, e não à revisão indiscriminada do mérito de todos os atos.",
+    "fundamentacaoLegal": "Decreto-Lei nº 200/1967, arts. 19, 20 e 26; CF/88, art. 37, XIX; doutrina de Maria Sylvia Zanella Di Pietro."
+  },
+  {
+    "id": "organizacao-administrativa-16",
+    "topicoId": "organizacao-administrativa",
+    "topico": "Organização administrativa",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre a natureza jurídica dos consórcios públicos, nos termos da Lei nº 11.107/2005, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O consórcio público constitui necessariamente pessoa jurídica de direito privado, submetida integralmente ao regime do Código Civil."
+      },
+      {
+        "letra": "B",
+        "texto": "O consórcio público não possui personalidade jurídica própria, configurando mero ajuste de vontades entre entes federados para a execução de objetivos comuns."
+      },
+      {
+        "letra": "C",
+        "texto": "O consórcio público constituirá associação pública, com personalidade jurídica de direito público, hipótese em que integra a administração indireta de todos os entes da Federação consorciados, ou pessoa jurídica de direito privado, caso em que observará as normas de direito público quanto à realização de licitação, à celebração de contratos, à prestação de contas e à admissão de pessoal."
+      },
+      {
+        "letra": "D",
+        "texto": "O consórcio público com personalidade jurídica de direito privado está dispensado de licitar e de prestar contas ao respectivo Tribunal de Contas."
+      },
+      {
+        "letra": "E",
+        "texto": "Somente os Municípios podem constituir consórcios públicos, sendo vedada a participação da União e dos Estados nesse tipo de ajuste."
+      }
+    ],
+    "gabarito": "C",
+    "comentario": "A alternativa C conjuga o art. 1º, § 1º, e o art. 6º, caput e §§ 1º e 2º, da Lei nº 11.107/2005. A alternativa A é falsa porque a lei prevê expressamente as duas modalidades. A alternativa B contraria a essência do instituto, que confere personalidade jurídica ao consórcio, distinguindo-o do simples convênio. A alternativa D contraria o art. 6º, § 2º, que impõe ao consórcio de direito privado a observância das normas de direito público quanto a licitação, contratos, prestação de contas e admissão de pessoal, regido pela CLT. A alternativa E erra porque todos os entes federados podem consorciar-se, observada a regra do art. 1º, § 2º, segundo a qual a União somente participará de consórcios de que também façam parte todos os Estados em cujos territórios estejam situados os Municípios consorciados.",
+    "fundamentacaoLegal": "Lei nº 11.107/2005, art. 1º, §§ 1º e 2º, e art. 6º, caput e §§ 1º e 2º; Código Civil, art. 41, IV; CF/88, art. 241."
+  },
+  {
+    "id": "organizacao-administrativa-17",
+    "topicoId": "organizacao-administrativa",
+    "topico": "Organização administrativa",
+    "dificuldade": "media",
+    "enunciado": "Sobre a formação do consórcio público e o protocolo de intenções, nos termos da Lei nº 11.107/2005, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O contrato de consórcio público é celebrado mediante decreto do Chefe do Poder Executivo de cada ente consorciado."
+      },
+      {
+        "letra": "B",
+        "texto": "A ratificação do protocolo de intenções por lei é dispensável sempre que o consórcio público adotar personalidade jurídica de direito privado."
+      },
+      {
+        "letra": "C",
+        "texto": "O protocolo de intenções não precisa ser publicado, por se tratar de documento meramente preparatório e de eficácia interna."
+      },
+      {
+        "letra": "D",
+        "texto": "A ratificação do protocolo de intenções realizada após dois anos de sua subscrição é nula de pleno direito, impedindo o ingresso do ente no consórcio."
+      },
+      {
+        "letra": "E",
+        "texto": "O consórcio público será constituído por contrato, cuja celebração dependerá da prévia subscrição de protocolo de intenções, sendo o contrato celebrado com a ratificação, mediante lei, do protocolo, dispensada essa ratificação para o ente que, antes de subscrever o protocolo, houver disciplinado por lei a sua participação no consórcio."
+      }
+    ],
+    "gabarito": "E",
+    "comentario": "A alternativa E conjuga os arts. 3º e 5º, caput e § 4º, da Lei nº 11.107/2005. A alternativa A erra quanto ao instrumento: a formalização depende de contrato precedido de protocolo de intenções e de ratificação por lei. A alternativa B é falsa, pois a exigência de ratificação legal independe da personalidade adotada pelo consórcio. A alternativa C contraria o art. 4º, § 5º, que determina a publicação do protocolo de intenções na imprensa oficial. A alternativa D erra na consequência jurídica: nos termos do art. 5º, § 3º, a ratificação realizada após dois anos da subscrição do protocolo depende de homologação da assembleia geral do consórcio, e não é nula.",
+    "fundamentacaoLegal": "Lei nº 11.107/2005, arts. 3º, 4º, § 5º, e 5º, caput e §§ 3º e 4º."
+  },
+  {
+    "id": "organizacao-administrativa-18",
+    "topicoId": "organizacao-administrativa",
+    "topico": "Organização administrativa",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre o contrato de rateio e o contrato de programa no âmbito dos consórcios públicos, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O contrato de rateio pode ser celebrado com prazo de vigência superior ao das dotações que o suportam em qualquer hipótese, dada a natureza continuada das despesas consorciais."
+      },
+      {
+        "letra": "B",
+        "texto": "Os entes consorciados somente entregarão recursos ao consórcio público mediante contrato de rateio, formalizado em cada exercício financeiro, vedada a aplicação dos recursos para o atendimento de despesas genéricas, inclusive transferências ou operações de crédito; já as obrigações que um ente da Federação constituir para com outro ente ou para com o consórcio, no âmbito de gestão associada de serviços públicos, deverão ser constituídas e reguladas por contrato de programa, como condição de sua validade."
+      },
+      {
+        "letra": "C",
+        "texto": "O contrato de programa destina-se exclusivamente ao repasse de recursos financeiros dos entes consorciados ao consórcio público."
+      },
+      {
+        "letra": "D",
+        "texto": "O ente consorciado que não consignar em sua lei orçamentária ou em créditos adicionais as dotações suficientes para suportar as despesas assumidas por meio de contrato de rateio não pode ser excluído do consórcio público."
+      },
+      {
+        "letra": "E",
+        "texto": "O contrato de rateio dispensa a prévia celebração do contrato de consórcio público, bastando o protocolo de intenções subscrito pelos entes interessados."
+      }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B conjuga o art. 8º, caput, §§ 1º e 2º, e o art. 13 da Lei nº 11.107/2005. A alternativa A contraria o art. 8º, § 1º, que veda prazo superior ao das dotações que suportam o contrato, ressalvados apenas os contratos que tenham por objeto exclusivamente projetos consistentes em programas e ações contemplados em plano plurianual ou a gestão associada de serviços públicos custeados por tarifas ou outros preços públicos. A alternativa C confunde os institutos, pois o contrato de programa disciplina obrigações relativas à prestação de serviços e à transferência de encargos, serviços, pessoal e bens, e não o simples repasse de recursos. A alternativa D contraria o art. 8º, § 5º, que autoriza a exclusão do ente inadimplente, após prévia suspensão. A alternativa E é falsa, pois o contrato de rateio pressupõe consórcio regularmente constituído.",
+    "fundamentacaoLegal": "Lei nº 11.107/2005, art. 8º, caput e §§ 1º, 2º e 5º, e art. 13."
+  },
+  {
+    "id": "organizacao-administrativa-19",
+    "topicoId": "organizacao-administrativa",
+    "topico": "Organização administrativa",
+    "dificuldade": "media",
+    "enunciado": "Sobre a retirada de ente consorciado e a alteração ou extinção do contrato de consórcio público, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A retirada de ente consorciado independe de ato formal de seu representante na assembleia geral, bastando comunicação escrita aos demais consorciados."
+      },
+      {
+        "letra": "B",
+        "texto": "A retirada do ente consorciado extingue automaticamente todas as obrigações já constituídas, inclusive os contratos de programa em execução."
+      },
+      {
+        "letra": "C",
+        "texto": "Os bens destinados ao consórcio público pelo consorciado que se retira são sempre revertidos ou retrocedidos ao ente retirante, independentemente de previsão contratual."
+      },
+      {
+        "letra": "D",
+        "texto": "A retirada do ente da Federação do consórcio público dependerá de ato formal de seu representante na assembleia geral, na forma previamente disciplinada por lei, e não prejudicará as obrigações já constituídas, inclusive os contratos de programa, cuja extinção dependerá do prévio pagamento das indenizações eventualmente devidas."
+      },
+      {
+        "letra": "E",
+        "texto": "A alteração ou a extinção do contrato de consórcio público depende apenas de deliberação da assembleia geral, sendo dispensada a ratificação por lei dos entes consorciados."
+      }
+    ],
+    "gabarito": "D",
+    "comentario": "A alternativa D reproduz o art. 11, caput e § 2º, da Lei nº 11.107/2005. A alternativa A contraria a exigência de ato formal do representante na assembleia geral. A alternativa B é falsa diante da regra expressa de preservação das obrigações já constituídas. A alternativa C contraria o art. 11, § 1º, segundo o qual os bens somente serão revertidos ou retrocedidos no caso de expressa previsão no contrato de consórcio público ou no instrumento de transferência ou de alienação. A alternativa E contraria o art. 12, que exige instrumento aprovado pela assembleia geral e ratificado mediante lei por todos os entes consorciados.",
+    "fundamentacaoLegal": "Lei nº 11.107/2005, arts. 11, caput e §§ 1º e 2º, e 12."
+  },
+  {
+    "id": "organizacao-administrativa-20",
+    "topicoId": "organizacao-administrativa",
+    "topico": "Organização administrativa",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre a gestão associada de serviços públicos e as prerrogativas dos consórcios públicos, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A Constituição Federal determina que a União, os Estados, o Distrito Federal e os Municípios disciplinem por meio de lei os consórcios públicos e os convênios de cooperação entre os entes federados, autorizando a gestão associada de serviços públicos, bem como a transferência total ou parcial de encargos, serviços, pessoal e bens essenciais à continuidade dos serviços transferidos."
+      },
+      {
+        "letra": "B",
+        "texto": "A gestão associada de serviços públicos somente é admitida entre entes federados da mesma esfera, sendo vedada a cooperação entre entes de esferas distintas."
+      },
+      {
+        "letra": "C",
+        "texto": "Os consórcios públicos não podem outorgar concessão, permissão ou autorização de obras ou serviços públicos em nenhuma hipótese, por ausência de titularidade."
+      },
+      {
+        "letra": "D",
+        "texto": "Os limites de valor para a contratação direta por dispensa de licitação são reduzidos à metade quando a contratação for realizada por consórcio público."
+      },
+      {
+        "letra": "E",
+        "texto": "Os consórcios públicos não podem receber servidores cedidos pelos entes consorciados, em razão da vedação constitucional de cessão de pessoal entre pessoas jurídicas distintas."
+      }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A reproduz o art. 241 da CF/88. A alternativa B é falsa, pois a cooperação federativa é justamente vocacionada a reunir entes de esferas distintas, observada a restrição do art. 1º, § 2º, da Lei nº 11.107/2005 quanto à participação da União. A alternativa C contraria o art. 2º, § 3º, da Lei nº 11.107/2005, que autoriza o consórcio a outorgar concessão, permissão ou autorização de obras ou serviços públicos, mediante autorização prevista no contrato de consórcio, que deverá indicar de forma específica o objeto e as condições da outorga. A alternativa D inverte a regra do art. 75, § 2º, da Lei nº 14.133/2021, segundo o qual os valores de dispensa são duplicados para as contratações realizadas por consórcio público ou por autarquia ou fundação qualificadas como agências executivas. A alternativa E contraria o art. 4º, § 4º, da Lei nº 11.107/2005, que admite a cessão de servidores dos entes consorciados, na forma e nas condições da legislação de cada um.",
+    "fundamentacaoLegal": "CF/88, art. 241; Lei nº 11.107/2005, arts. 1º, § 2º, 2º, § 3º, e 4º, § 4º; Lei nº 14.133/2021, art. 75, § 2º."
+  },
+  {
+    "id": "organizacao-administrativa-21",
+    "topicoId": "organizacao-administrativa",
+    "topico": "Organização administrativa",
+    "dificuldade": "media",
+    "enunciado": "Sobre as organizações sociais e o contrato de gestão, nos termos da Lei nº 9.637/1998 e da jurisprudência do Supremo Tribunal Federal, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A qualificação de entidade privada como organização social transfere a ela a titularidade do serviço público objeto do contrato de gestão."
+      },
+      {
+        "letra": "B",
+        "texto": "As organizações sociais passam a integrar a Administração indireta a partir da celebração do contrato de gestão com o poder público."
+      },
+      {
+        "letra": "C",
+        "texto": "A organização social é pessoa jurídica de direito privado, sem fins lucrativos, qualificada pelo Poder Executivo para o desempenho de atividades dirigidas ao ensino, à pesquisa científica, ao desenvolvimento tecnológico, à proteção e preservação do meio ambiente, à cultura e à saúde, mediante a celebração de contrato de gestão, devendo tanto a qualificação quanto a celebração do ajuste observar procedimento público, objetivo e impessoal, com critérios previamente definidos."
+      },
+      {
+        "letra": "D",
+        "texto": "O contrato de gestão celebrado com organizações sociais dispensa a fixação de metas e a previsão de indicadores de desempenho, limitando-se a autorizar o repasse de recursos."
+      },
+      {
+        "letra": "E",
+        "texto": "As organizações sociais devem contratar todo o seu pessoal mediante concurso público e observar integralmente a Lei nº 14.133/2021 em suas contratações."
+      }
+    ],
+    "gabarito": "C",
+    "comentario": "A alternativa C está correta, conjugando os arts. 1º, 5º, 6º e 7º da Lei nº 9.637/1998 com a interpretação conforme a Constituição conferida pelo STF na ADI 1.923/DF, que exigiu procedimento objetivo e impessoal para a qualificação e para a celebração do contrato de gestão. A alternativa A é falsa, pois há apenas fomento e delegação da execução de atividades, permanecendo com o poder público a titularidade e o dever de fiscalização. A alternativa B erra porque a organização social permanece entidade privada, não integrando a Administração indireta. A alternativa D contraria o art. 7º, I, que exige a especificação do programa de trabalho, das metas e dos prazos de execução, bem como dos critérios objetivos de avaliação de desempenho mediante indicadores. A alternativa E é incorreta: segundo o STF, as organizações sociais não se submetem à exigência de concurso público nem ao regime integral da lei de licitações, devendo, contudo, adotar procedimento seletivo objetivo e impessoal, com observância do núcleo essencial dos princípios da Administração Pública.",
+    "fundamentacaoLegal": "Lei nº 9.637/1998, arts. 1º, 2º, 5º, 6º e 7º; CF/88, art. 37, caput; STF, ADI 1.923/DF."
+  },
+  {
+    "id": "organizacao-administrativa-22",
+    "topicoId": "organizacao-administrativa",
+    "topico": "Organização administrativa",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre as Organizações da Sociedade Civil de Interesse Público (OSCIP), disciplinadas pela Lei nº 9.790/1999, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A qualificação como OSCIP constitui ato discricionário, sujeito a juízo de conveniência e oportunidade da autoridade competente."
+      },
+      {
+        "letra": "B",
+        "texto": "As organizações sociais podem qualificar-se simultaneamente como OSCIP, desde que preencham os requisitos legais de ambas as leis."
+      },
+      {
+        "letra": "C",
+        "texto": "O vínculo de cooperação entre o poder público e a OSCIP formaliza-se por meio de contrato de gestão."
+      },
+      {
+        "letra": "D",
+        "texto": "Podem qualificar-se como OSCIP as sociedades comerciais e as cooperativas, desde que destinem integralmente os resultados obtidos a finalidades sociais."
+      },
+      {
+        "letra": "E",
+        "texto": "A qualificação como OSCIP é ato vinculado, conferido a pessoas jurídicas de direito privado sem fins lucrativos constituídas e em funcionamento regular há, no mínimo, três anos, formalizando-se o vínculo com o poder público por meio de termo de parceria."
+      }
+    ],
+    "gabarito": "E",
+    "comentario": "A alternativa E conjuga o art. 1º, caput e § 2º, e o art. 9º da Lei nº 9.790/1999. A alternativa A contraria o § 2º do art. 1º, que qualifica expressamente a outorga como ato vinculado ao cumprimento dos requisitos legais, sendo essa uma das principais distinções em relação à qualificação como organização social. A alternativa B contraria o art. 2º, IX, que veda a qualificação das organizações sociais como OSCIP. A alternativa C confunde os instrumentos: o contrato de gestão é próprio das organizações sociais, ao passo que o vínculo com a OSCIP se dá por termo de parceria. A alternativa D contraria o art. 2º, I e X, que exclui expressamente as sociedades comerciais e as cooperativas do rol de entidades qualificáveis.",
+    "fundamentacaoLegal": "Lei nº 9.790/1999, art. 1º, caput e § 2º, art. 2º, I, IX e X, art. 3º e art. 9º; Lei nº 13.019/2014."
+  },
+  {
+    "id": "organizacao-administrativa-23",
+    "topicoId": "organizacao-administrativa",
+    "topico": "Organização administrativa",
+    "dificuldade": "media",
+    "enunciado": "Sobre os serviços sociais autônomos, integrantes do denominado Sistema S, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os serviços sociais autônomos integram a Administração indireta, na qualidade de autarquias corporativas."
+      },
+      {
+        "letra": "B",
+        "texto": "Os serviços sociais autônomos são pessoas jurídicas de direito privado, sem fins lucrativos, cuja criação é autorizada por lei e que são mantidos, sobretudo, por contribuições parafiscais; não integram a Administração Pública, mas sujeitam-se à fiscalização do Tribunal de Contas por gerirem recursos de natureza pública."
+      },
+      {
+        "letra": "C",
+        "texto": "Os serviços sociais autônomos submetem-se integralmente à Lei nº 14.133/2021 e à exigência constitucional de concurso público para a admissão de seu pessoal."
+      },
+      {
+        "letra": "D",
+        "texto": "As contribuições destinadas aos serviços sociais autônomos possuem natureza de preço público, não se sujeitando ao regime jurídico tributário."
+      },
+      {
+        "letra": "E",
+        "texto": "Os empregados dos serviços sociais autônomos são estatutários e gozam da estabilidade prevista no art. 41 da Constituição Federal."
+      }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B está correta: os serviços sociais autônomos são entidades paraestatais, de direito privado, que colaboram com o Estado e se submetem ao controle do Tribunal de Contas por força do art. 70, parágrafo único, da CF/88. A alternativa A é falsa, pois tais entidades não integram a Administração indireta. A alternativa C contraria o entendimento do STF, firmado no Tema 569 da repercussão geral, no sentido de que os serviços sociais autônomos não estão sujeitos à regra do concurso público, devendo, contudo, adotar procedimentos seletivos objetivos e regulamentos próprios de contratação pautados pelos princípios gerais da Administração. A alternativa D erra porque as contribuições de interesse das categorias profissionais ou econômicas possuem natureza tributária, nos termos do art. 149 da CF/88. A alternativa E é incorreta porque o vínculo é celetista, sem a estabilidade do art. 41 da CF/88.",
+    "fundamentacaoLegal": "CF/88, art. 70, parágrafo único, art. 149 e art. 240; STF, RE 789.874/DF (Tema 569 da repercussão geral)."
+  },
+  {
+    "id": "organizacao-administrativa-24",
+    "topicoId": "organizacao-administrativa",
+    "topico": "Organização administrativa",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre as fundações de apoio disciplinadas pela Lei nº 8.958/1994, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As fundações de apoio integram a Administração indireta das instituições federais de ensino superior às quais se vinculam."
+      },
+      {
+        "letra": "B",
+        "texto": "As fundações de apoio podem ser contratadas pelas instituições apoiadas independentemente de prévio registro e credenciamento perante os Ministérios competentes."
+      },
+      {
+        "letra": "C",
+        "texto": "As fundações de apoio são pessoas jurídicas de direito público, criadas por lei específica, com finalidade de fomento à pesquisa."
+      },
+      {
+        "letra": "D",
+        "texto": "As fundações de apoio são pessoas jurídicas de direito privado, sem fins lucrativos, registradas e credenciadas nos Ministérios competentes, que podem ser contratadas por dispensa de licitação pelas instituições apoiadas para dar suporte a projetos de ensino, pesquisa, extensão, desenvolvimento institucional, científico e tecnológico e de estímulo à inovação, sujeitando-se à fiscalização pelo Ministério Público e ao controle finalístico e de prestação de contas pelo Tribunal de Contas."
+      },
+      {
+        "letra": "E",
+        "texto": "Os recursos públicos repassados às fundações de apoio perdem a natureza pública ao ingressarem em seu patrimônio, ficando imunes ao controle externo."
+      }
+    ],
+    "gabarito": "D",
+    "comentario": "A alternativa D está correta e reflete os arts. 1º, 2º e 3º da Lei nº 8.958/1994, combinados com a hipótese de contratação direta hoje prevista no art. 75, XV, da Lei nº 14.133/2021. A alternativa A é falsa: as fundações de apoio são entidades privadas, não integrantes da Administração indireta. A alternativa B contraria o art. 2º, que exige registro e credenciamento renovável periodicamente. A alternativa C erra quanto à natureza jurídica e à forma de instituição, pois se trata de fundação privada constituída na forma do Código Civil. A alternativa E é incorreta porque os recursos públicos repassados conservam sua natureza, atraindo o dever de prestação de contas e a fiscalização do Tribunal de Contas, na forma do art. 70, parágrafo único, da CF/88.",
+    "fundamentacaoLegal": "Lei nº 8.958/1994, arts. 1º, 2º e 3º; Lei nº 14.133/2021, art. 75, XV; CF/88, art. 70, parágrafo único; Código Civil, arts. 62 a 69."
+  },
+  {
+    "id": "organizacao-administrativa-25",
+    "topicoId": "organizacao-administrativa",
+    "topico": "Organização administrativa",
+    "dificuldade": "media",
+    "enunciado": "Sobre o regime jurídico das parcerias voluntárias entre a Administração Pública e as organizações da sociedade civil, disciplinado pela Lei nº 13.019/2014, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A Lei nº 13.019/2014 estabelece o regime jurídico das parcerias entre a Administração Pública e as organizações da sociedade civil, prevendo o termo de colaboração, o termo de fomento e o acordo de cooperação, sendo os dois primeiros precedidos, em regra, de chamamento público."
+      },
+      {
+        "letra": "B",
+        "texto": "O acordo de cooperação é o instrumento adequado sempre que houver transferência de recursos financeiros à organização da sociedade civil."
+      },
+      {
+        "letra": "C",
+        "texto": "O termo de colaboração é utilizado nas parcerias propostas pela organização da sociedade civil, ao passo que o termo de fomento se destina às parcerias propostas pela Administração Pública."
+      },
+      {
+        "letra": "D",
+        "texto": "O chamamento público é vedado pela Lei nº 13.019/2014, por comprometer a autonomia das organizações da sociedade civil."
+      },
+      {
+        "letra": "E",
+        "texto": "As parcerias regidas pela Lei nº 13.019/2014 dispensam a prestação de contas dos recursos públicos recebidos, bastando a apresentação de relatório de execução do objeto."
+      }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A está correta e reflete o art. 2º, incisos VII, VIII e VIII-A, e os arts. 16, 17 e 24 da Lei nº 13.019/2014. A alternativa B é falsa: o acordo de cooperação é justamente o instrumento que não envolve transferência de recursos financeiros. A alternativa C inverte os conceitos, pois o termo de colaboração corresponde às parcerias propostas pela Administração e o termo de fomento às propostas pelas organizações da sociedade civil. A alternativa D contraria o art. 24, que estabelece o chamamento público como regra, com as exceções dos arts. 30 e 31. A alternativa E contraria os arts. 63 a 72, que disciplinam minuciosamente a prestação de contas dos recursos recebidos.",
+    "fundamentacaoLegal": "Lei nº 13.019/2014, art. 2º, VII, VIII e VIII-A, arts. 16, 17, 24, 30, 31 e 63 a 72."
+  },
+  {
+    "id": "organizacao-administrativa-26",
+    "topicoId": "organizacao-administrativa",
+    "topico": "Organização administrativa",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre o regime de pessoal das empresas públicas e das sociedades de economia mista, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os empregados das empresas estatais são servidores estatutários e adquirem estabilidade após três anos de efetivo exercício, mediante aprovação em avaliação especial de desempenho."
+      },
+      {
+        "letra": "B",
+        "texto": "A contratação de empregados pelas empresas estatais dispensa a prévia aprovação em concurso público, dada a natureza celetista e privada do vínculo."
+      },
+      {
+        "letra": "C",
+        "texto": "Os empregados das empresas estatais são regidos pela Consolidação das Leis do Trabalho, exigindo-se a prévia aprovação em concurso público, sem que a eles se estenda a estabilidade do art. 41 da Constituição Federal; o teto remuneratório constitucional aplica-se às empresas públicas, às sociedades de economia mista e a suas subsidiárias que receberem recursos do ente federado para pagamento de despesas de pessoal ou de custeio em geral."
+      },
+      {
+        "letra": "D",
+        "texto": "O teto remuneratório constitucional aplica-se indistintamente a todas as empresas públicas e sociedades de economia mista, independentemente do recebimento de recursos do ente federado."
+      },
+      {
+        "letra": "E",
+        "texto": "Aos empregados das empresas estatais não se aplica a vedação constitucional de acumulação remunerada de cargos, empregos e funções públicas."
+      }
+    ],
+    "gabarito": "C",
+    "comentario": "A alternativa C conjuga o art. 37, II e § 9º, da CF/88 com o entendimento consolidado na Súmula 390, II, do TST. A alternativa A erra quanto ao regime jurídico e à estabilidade, que é privativa dos servidores estatutários nomeados para cargo de provimento efetivo. A alternativa B contraria o art. 37, II, da CF/88, que exige concurso público também para os empregos públicos. A alternativa D generaliza indevidamente, pois o art. 37, § 9º, condiciona a aplicação do teto ao recebimento de recursos do ente federado para pagamento de despesas de pessoal ou de custeio em geral. A alternativa E contraria o art. 37, XVII, da CF/88, segundo o qual a proibição de acumular estende-se a empregos e funções e abrange autarquias, fundações, empresas públicas, sociedades de economia mista, suas subsidiárias e sociedades controladas, direta ou indiretamente, pelo poder público.",
+    "fundamentacaoLegal": "CF/88, art. 37, II, XI, XVI, XVII e § 9º, e art. 41; Súmula 390 do TST; Lei nº 13.303/2016."
+  },
+  {
+    "id": "organizacao-administrativa-27",
+    "topicoId": "organizacao-administrativa",
+    "topico": "Organização administrativa",
+    "dificuldade": "media",
+    "enunciado": "Sobre a criação de subsidiárias e a participação de entidades da Administração indireta em empresas privadas, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A criação de subsidiárias independe de autorização legislativa, por decorrer do poder de auto-organização da entidade matriz."
+      },
+      {
+        "letra": "B",
+        "texto": "A participação de entidade da Administração indireta em empresa privada é vedada em qualquer hipótese pela Constituição Federal."
+      },
+      {
+        "letra": "C",
+        "texto": "A autorização legislativa deve ser específica para cada subsidiária criada, sendo inconstitucional a autorização veiculada de forma genérica."
+      },
+      {
+        "letra": "D",
+        "texto": "As subsidiárias das empresas públicas e das sociedades de economia mista não se submetem à Lei nº 13.303/2016."
+      },
+      {
+        "letra": "E",
+        "texto": "Depende de autorização legislativa, em cada caso, a criação de subsidiárias das entidades da Administração indireta, assim como a participação de qualquer delas em empresa privada, admitindo o Supremo Tribunal Federal que essa autorização seja veiculada de forma genérica na própria lei que autorizou a instituição da entidade matriz."
+      }
+    ],
+    "gabarito": "E",
+    "comentario": "A alternativa E conjuga o art. 37, XX, da CF/88 com o entendimento firmado pelo STF na ADI 1.649/DF. A alternativa A contraria expressamente o texto constitucional. A alternativa B é falsa, pois a participação é admitida, exigindo-se autorização legislativa. A alternativa C erra ao afirmar a inconstitucionalidade da autorização genérica, expressamente admitida pelo STF quando constante da lei instituidora da entidade matriz. A alternativa D contraria o art. 1º da Lei nº 13.303/2016, que dispõe sobre o estatuto jurídico da empresa pública, da sociedade de economia mista e de suas subsidiárias.",
+    "fundamentacaoLegal": "CF/88, art. 37, XIX e XX; Lei nº 13.303/2016, art. 1º; STF, ADI 1.649/DF."
+  },
+  {
+    "id": "organizacao-administrativa-28",
+    "topicoId": "organizacao-administrativa",
+    "topico": "Organização administrativa",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre o regime jurídico dos bens pertencentes às entidades da Administração indireta, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Todos os bens pertencentes a entidades da Administração indireta são bens públicos, independentemente da natureza jurídica da pessoa a que pertençam."
+      },
+      {
+        "letra": "B",
+        "texto": "São públicos os bens do domínio nacional pertencentes às pessoas jurídicas de direito público interno, o que abrange autarquias e fundações públicas de direito público; já os bens das empresas públicas e das sociedades de economia mista são, em regra, privados, admitindo a jurisprudência a impenhorabilidade daqueles diretamente afetados à prestação de serviço público, em razão do princípio da continuidade."
+      },
+      {
+        "letra": "C",
+        "texto": "Os bens das empresas estatais são sempre impenhoráveis, ainda que afetados exclusivamente à exploração de atividade econômica em regime concorrencial."
+      },
+      {
+        "letra": "D",
+        "texto": "Os bens das autarquias podem ser adquiridos por usucapião extraordinário após quinze anos de posse mansa e pacífica, por não ostentarem afetação específica."
+      },
+      {
+        "letra": "E",
+        "texto": "A alienação de bens imóveis das autarquias independe de autorização legislativa e de avaliação prévia, bastando a demonstração do interesse público."
+      }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B está correta e conjuga o art. 98 do Código Civil com a orientação jurisprudencial sobre a impenhorabilidade dos bens afetados à continuidade do serviço público. A alternativa A é incorreta porque a qualificação do bem como público segue a natureza da pessoa jurídica titular. A alternativa C generaliza indevidamente, pois os bens das estatais que exploram atividade econômica submetem-se ao regime de direito privado, sendo penhoráveis, conforme o art. 173, § 1º, II, da CF/88. A alternativa D contraria o art. 183, § 3º, e o art. 191, parágrafo único, da CF/88, o art. 102 do Código Civil e a Súmula 340 do STF, que vedam a usucapião de bens públicos. A alternativa E contraria o art. 76, I, da Lei nº 14.133/2021, que condiciona a alienação de bens imóveis da Administração à existência de interesse público devidamente justificado, à avaliação prévia e, quanto aos entes da Administração direta e às entidades autárquicas e fundacionais, à autorização legislativa, além de licitação na modalidade adequada, ressalvadas as hipóteses legais de dispensa.",
+    "fundamentacaoLegal": "Código Civil, arts. 98 a 102; CF/88, art. 100, art. 173, § 1º, II, art. 183, § 3º, e art. 191, parágrafo único; Súmula 340 do STF; Lei nº 14.133/2021, art. 76, I."
+  },
+  {
+    "id": "organizacao-administrativa-29",
+    "topicoId": "organizacao-administrativa",
+    "topico": "Organização administrativa",
+    "dificuldade": "media",
+    "enunciado": "Sobre o impedimento imposto aos ex-dirigentes de agências reguladoras, comumente denominado quarentena, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O ex-dirigente de agência reguladora pode, imediatamente após deixar o cargo, prestar serviços a empresas integrantes do setor regulado, desde que não utilize informações sigilosas."
+      },
+      {
+        "letra": "B",
+        "texto": "O período de impedimento é de vinte e quatro meses, contados da exoneração, sem direito a qualquer remuneração compensatória."
+      },
+      {
+        "letra": "C",
+        "texto": "As agências reguladoras não podem editar normas técnicas sobre os setores regulados, competência reservada exclusivamente ao Ministério ou à Secretaria supervisora."
+      },
+      {
+        "letra": "D",
+        "texto": "Os dirigentes de agência reguladora ficam impedidos de exercer atividade ou de prestar qualquer serviço no setor regulado pela respectiva agência por período de seis meses, contados da exoneração ou do término do mandato, assegurada durante esse período a remuneração compensatória."
+      },
+      {
+        "letra": "E",
+        "texto": "O descumprimento do impedimento acarreta apenas a aplicação de sanção administrativa de advertência ao ex-dirigente."
+      }
+    ],
+    "gabarito": "D",
+    "comentario": "A alternativa D reproduz o art. 8º da Lei nº 9.986/2000, com a redação dada pela Lei nº 13.848/2019. A alternativa A contraria a existência do próprio impedimento legal. A alternativa B erra quanto ao prazo e à remuneração compensatória, expressamente assegurada. A alternativa C é falsa: o poder normativo técnico é característica central das agências reguladoras, exercido nos limites da lei setorial. A alternativa E contraria o art. 8º, § 4º, da Lei nº 9.986/2000, segundo o qual o ex-dirigente que violar o impedimento incorre na prática de crime de advocacia administrativa, sem prejuízo das demais sanções administrativas e civis cabíveis.",
+    "fundamentacaoLegal": "Lei nº 9.986/2000, art. 8º, caput e §§ 1º a 4º (redação da Lei nº 13.848/2019); Lei nº 13.848/2019, art. 3º."
+  },
+  {
+    "id": "organizacao-administrativa-30",
+    "topicoId": "organizacao-administrativa",
+    "topico": "Organização administrativa",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre a natureza jurídica dos conselhos de fiscalização do exercício profissional, à luz da jurisprudência do Supremo Tribunal Federal, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os conselhos de fiscalização profissional possuem natureza jurídica autárquica, exercem poder de polícia e submetem-se à exigência de concurso público, ao dever de licitar e ao controle do Tribunal de Contas da União, tendo suas anuidades natureza tributária; a Ordem dos Advogados do Brasil, contudo, recebeu tratamento diferenciado, não se lhe aplicando integralmente esse regime."
+      },
+      {
+        "letra": "B",
+        "texto": "Os conselhos de fiscalização profissional são pessoas jurídicas de direito privado, conforme expressamente reconhecido pelo Supremo Tribunal Federal no julgamento da ADI 1.717."
+      },
+      {
+        "letra": "C",
+        "texto": "As anuidades cobradas pelos conselhos profissionais possuem natureza de preço público, submetendo-se ao regime contratual e não ao regime tributário."
+      },
+      {
+        "letra": "D",
+        "texto": "Os conselhos de fiscalização profissional não se submetem à prestação de contas perante o Tribunal de Contas da União, por gerirem exclusivamente recursos privados."
+      },
+      {
+        "letra": "E",
+        "texto": "A Ordem dos Advogados do Brasil submete-se integralmente ao regime jurídico das autarquias, inclusive quanto à exigência de concurso público para a contratação de seus servidores e à sujeição ao controle do Tribunal de Contas da União."
+      }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A está correta: no julgamento da ADI 1.717/DF, o STF declarou a inconstitucionalidade da delegação do poder de polícia de fiscalização profissional a entidades privadas, reafirmando a natureza autárquica desses conselhos; no julgamento da ADI 3.026/DF, conferiu à Ordem dos Advogados do Brasil tratamento singular, afastando a exigência de concurso público para seus servidores. A alternativa B inverte o resultado do julgamento da ADI 1.717. A alternativa C erra porque as anuidades constituem contribuições de interesse das categorias profissionais, de natureza tributária, nos termos do art. 149 da CF/88. A alternativa D contraria o art. 70, parágrafo único, da CF/88 e a jurisprudência consolidada sobre a sujeição desses conselhos ao controle externo. A alternativa E contraria o entendimento firmado na ADI 3.026/DF.",
+    "fundamentacaoLegal": "CF/88, art. 5º, XIII, art. 21, XXIV, art. 70, parágrafo único, e art. 149; STF, ADI 1.717/DF e ADI 3.026/DF."
+  }
+]
