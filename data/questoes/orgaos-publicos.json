@@ -1,0 +1,962 @@
+[
+  {
+    "id": "orgaos-publicos-01",
+    "topicoId": "orgaos-publicos",
+    "topico": "Órgãos públicos e teoria do órgão",
+    "dificuldade": "media",
+    "enunciado": "Sobre o conceito de órgão público, à luz da Lei nº 9.784/1999 e da doutrina administrativista, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Órgão público é a unidade de atuação dotada de personalidade jurídica própria, integrante exclusivamente da estrutura da Administração indireta."
+      },
+      {
+        "letra": "B",
+        "texto": "Órgão público e entidade são expressões sinônimas para os fins da Lei nº 9.784/1999, ambas designando unidades de atuação personalizadas."
+      },
+      {
+        "letra": "C",
+        "texto": "Os órgãos públicos existem apenas na Administração direta, não havendo desconcentração no interior das entidades da Administração indireta."
+      },
+      {
+        "letra": "D",
+        "texto": "Órgão público é a unidade de atuação integrante da estrutura da Administração direta e da estrutura da Administração indireta, desprovida de personalidade jurídica própria, constituindo centro de competência instituído para o desempenho de funções estatais."
+      },
+      {
+        "letra": "E",
+        "texto": "Órgão público é o servidor ou agente público dotado de poder de decisão dentro da estrutura administrativa."
+      }
+    ],
+    "gabarito": "D",
+    "comentario": "A alternativa D está correta e conjuga o art. 1º, § 2º, I, da Lei nº 9.784/1999 com a noção doutrinária de órgão como centro de competência despersonalizado. A alternativa A erra ao atribuir personalidade jurídica ao órgão e ao restringi-lo à Administração indireta. A alternativa B contraria o art. 1º, § 2º, II, que define entidade como a unidade de atuação dotada de personalidade jurídica, em contraposição ao órgão. A alternativa C é falsa porque a desconcentração ocorre também dentro das entidades da Administração indireta, que possuem órgãos internos, como diretorias e superintendências. A alternativa E reproduz o conceito legal de autoridade, previsto no art. 1º, § 2º, III, e não o de órgão.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, art. 1º, § 2º, incisos I, II e III; doutrina de Celso Antônio Bandeira de Mello e Maria Sylvia Zanella Di Pietro."
+  },
+  {
+    "id": "orgaos-publicos-02",
+    "topicoId": "orgaos-publicos",
+    "topico": "Órgãos públicos e teoria do órgão",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre a teoria do órgão e sua adoção pelo direito administrativo brasileiro, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pela teoria do órgão, também denominada teoria da imputação volitiva, a atuação do agente público é imputada diretamente à pessoa jurídica estatal, por força de uma relação de imputação, e não de representação, de modo que a vontade manifestada pelo órgão é a vontade da própria pessoa jurídica."
+      },
+      {
+        "letra": "B",
+        "texto": "Pela teoria do órgão, o agente público é mandatário do Estado, respondendo pessoalmente, perante terceiros, pelos atos praticados além dos limites do mandato conferido."
+      },
+      {
+        "letra": "C",
+        "texto": "A teoria do órgão foi rejeitada pelo direito brasileiro, que adota, de forma majoritária, a teoria da representação para explicar a atuação estatal."
+      },
+      {
+        "letra": "D",
+        "texto": "A teoria do órgão pressupõe que o órgão detenha personalidade jurídica própria, distinta daquela da pessoa jurídica em cuja estrutura se insere."
+      },
+      {
+        "letra": "E",
+        "texto": "A teoria do órgão aplica-se apenas aos órgãos independentes, não alcançando os órgãos subalternos, cujos atos são imputados diretamente a seus titulares."
+      }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A está correta: formulada por Otto Gierke e amplamente acolhida no Brasil, a teoria do órgão explica a atuação estatal pela imputação da vontade do agente à pessoa jurídica, servindo de fundamento, entre outros, para a responsabilidade objetiva do art. 37, § 6º, da CF/88 e para o princípio da impessoalidade. A alternativa B descreve a superada teoria do mandato. A alternativa C inverte a realidade dogmática, pois é a teoria do órgão que prevalece. A alternativa D contraria a nota essencial do órgão, que é a ausência de personalidade jurídica. A alternativa E restringe indevidamente o alcance da teoria, que se aplica a todos os órgãos, independentemente de sua posição na estrutura estatal.",
+    "fundamentacaoLegal": "CF/88, art. 37, caput e § 6º; Lei nº 9.784/1999, art. 1º, § 2º, I; doutrina de Otto Gierke, Maria Sylvia Zanella Di Pietro e Celso Antônio Bandeira de Mello."
+  },
+  {
+    "id": "orgaos-publicos-03",
+    "topicoId": "orgaos-publicos",
+    "topico": "Órgãos públicos e teoria do órgão",
+    "dificuldade": "media",
+    "enunciado": "Sobre a teoria do mandato, formulada para explicar a relação entre o Estado e seus agentes, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A teoria do mandato é a atualmente adotada pelo direito administrativo brasileiro para explicar a imputação dos atos dos agentes ao Estado."
+      },
+      {
+        "letra": "B",
+        "texto": "A teoria do mandato explica satisfatoriamente a responsabilidade estatal pelos atos praticados por agentes com excesso de poder."
+      },
+      {
+        "letra": "C",
+        "texto": "A teoria do mandato, que concebia o agente público como mandatário do Estado, foi criticada por não explicar como o Estado, desprovido de vontade própria, poderia outorgar o mandato, além de permitir que o Estado se eximisse de responsabilidade pelos atos praticados fora dos limites da outorga."
+      },
+      {
+        "letra": "D",
+        "texto": "Pela teoria do mandato, os atos praticados pelo agente são imputados diretamente à pessoa jurídica estatal, independentemente de qualquer outorga de poderes."
+      },
+      {
+        "letra": "E",
+        "texto": "A teoria do mandato foi substituída pela teoria da representação, hoje majoritária na doutrina e na jurisprudência brasileiras."
+      }
+    ],
+    "gabarito": "C",
+    "comentario": "A alternativa C está correta e sintetiza as objeções classicamente opostas à teoria do mandato. A alternativa A é falsa, pois prevalece no Brasil a teoria do órgão. A alternativa B erra porque a principal crítica à teoria é justamente a impossibilidade de responsabilizar o Estado quando o agente extrapola os poderes outorgados. A alternativa D descreve o funcionamento da teoria do órgão, e não o da teoria do mandato. A alternativa E é incorreta porque a teoria da representação, embora posterior ao mandato, também foi superada, prevalecendo hoje a teoria da imputação volitiva.",
+    "fundamentacaoLegal": "Código Civil, arts. 653 e seguintes; doutrina de Maria Sylvia Zanella Di Pietro e José dos Santos Carvalho Filho."
+  },
+  {
+    "id": "orgaos-publicos-04",
+    "topicoId": "orgaos-publicos",
+    "topico": "Órgãos públicos e teoria do órgão",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre a teoria da representação e sua superação pela teoria do órgão, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A teoria da representação é idêntica à teoria do mandato, distinguindo-se apenas pela terminologia empregada por seus formuladores."
+      },
+      {
+        "letra": "B",
+        "texto": "A teoria da representação foi expressamente acolhida pelo art. 37, § 6º, da Constituição Federal de 1988."
+      },
+      {
+        "letra": "C",
+        "texto": "Pela teoria da representação, o Estado não responde pelos atos de seus representantes, cabendo à vítima demandar diretamente o agente causador do dano."
+      },
+      {
+        "letra": "D",
+        "texto": "A teoria da representação foi acolhida sem ressalvas pela doutrina administrativista brasileira contemporânea."
+      },
+      {
+        "letra": "E",
+        "texto": "A teoria da representação, que equiparava o Estado ao incapaz e o agente ao seu tutor ou curador, é criticada por atribuir ao ente estatal a condição de incapaz, por pressupor que o próprio incapaz outorgasse a representação e por não explicar a responsabilidade estatal quando o representante atua além dos poderes conferidos."
+      }
+    ],
+    "gabarito": "E",
+    "comentario": "A alternativa E está correta e reúne as críticas doutrinárias clássicas à teoria da representação. A alternativa A erra porque, embora ambas as teorias tenham sido superadas, elas não se confundem: o mandato pressupõe contrato, ao passo que a representação se inspira no regime de proteção dos incapazes. A alternativa B é falsa, pois o art. 37, § 6º, é explicado à luz da teoria do órgão. A alternativa C traduz consequência incompatível com o regime constitucional vigente, que impõe responsabilidade objetiva do Estado. A alternativa D é incorreta, uma vez que a doutrina contemporânea rejeita a teoria da representação em favor da teoria da imputação volitiva.",
+    "fundamentacaoLegal": "CF/88, art. 37, § 6º; Código Civil, arts. 3º, 4º e 1.767 e seguintes; doutrina de Maria Sylvia Zanella Di Pietro."
+  },
+  {
+    "id": "orgaos-publicos-05",
+    "topicoId": "orgaos-publicos",
+    "topico": "Órgãos públicos e teoria do órgão",
+    "dificuldade": "dificil",
+    "enunciado": "Servidor de determinada Secretaria Municipal de Finanças tem sua nomeação anulada em razão de vício ocorrido no concurso público, depois de haver praticado, durante vários meses, atos administrativos perante contribuintes de boa-fé. Sobre a situação narrada, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Todos os atos praticados são nulos e devem ser desconstituídos com efeitos retroativos, ainda que daí resultem prejuízos a terceiros de boa-fé."
+      },
+      {
+        "letra": "B",
+        "texto": "Os atos praticados pelo denominado funcionário de fato são, em regra, considerados válidos perante terceiros de boa-fé, em aplicação da teoria da aparência e em atenção aos princípios da segurança jurídica e da boa-fé objetiva."
+      },
+      {
+        "letra": "C",
+        "texto": "A hipótese configura usurpação de função pública, de modo que os atos praticados devem ser reputados juridicamente inexistentes."
+      },
+      {
+        "letra": "D",
+        "texto": "A preservação dos efeitos dos atos praticados depende de autorização judicial específica, não podendo ser reconhecida na esfera administrativa."
+      },
+      {
+        "letra": "E",
+        "texto": "O servidor deve restituir integralmente os valores recebidos a título de remuneração, ainda que tenha efetivamente prestado o serviço e agido de boa-fé."
+      }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B está correta: o funcionário de fato é aquele cuja investidura é irregular, mas cuja atuação se reveste de aparência de legitimidade, razão pela qual seus atos, em regra, são preservados em benefício de terceiros de boa-fé. A alternativa A desconsidera a teoria da aparência e a proteção da confiança legítima, ambas amparadas pelos arts. 2º, XIII, 54 e 55 da Lei nº 9.784/1999. A alternativa C confunde o funcionário de fato com o usurpador de função, que atua sem qualquer investidura. A alternativa D é falsa, pois a própria Administração pode reconhecer a manutenção dos efeitos, no exercício da autotutela e observados os limites legais. A alternativa E contraria a orientação consolidada no sentido de que não cabe a devolução de valores recebidos de boa-fé em contraprestação a serviços efetivamente prestados, sob pena de enriquecimento sem causa da Administração.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, art. 2º, parágrafo único, XIII, e arts. 54 e 55; Código Civil, art. 884; doutrina de Maria Sylvia Zanella Di Pietro e José dos Santos Carvalho Filho."
+  },
+  {
+    "id": "orgaos-publicos-06",
+    "topicoId": "orgaos-publicos",
+    "topico": "Órgãos públicos e teoria do órgão",
+    "dificuldade": "media",
+    "enunciado": "Sobre a distinção entre usurpação de função pública e exercício de fato da função pública, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Usurpação de função e funcionário de fato são expressões sinônimas, designando o exercício irregular de atribuições públicas."
+      },
+      {
+        "letra": "B",
+        "texto": "O usurpador de função possui investidura irregular, mas ainda assim juridicamente válida, o que legitima os atos por ele praticados."
+      },
+      {
+        "letra": "C",
+        "texto": "Os atos praticados pelo usurpador de função podem ser convalidados pela Administração, desde que não causem prejuízo a terceiros."
+      },
+      {
+        "letra": "D",
+        "texto": "O usurpador de função é aquele que se apossa do exercício de função pública sem qualquer investidura, hipótese em que a doutrina majoritária reputa inexistentes os atos praticados; o funcionário de fato, ao contrário, possui investidura irregular ou viciada, admitindo-se a preservação dos efeitos de seus atos perante terceiros de boa-fé."
+      },
+      {
+        "letra": "E",
+        "texto": "A usurpação de função pública constitui mero ilícito administrativo, sem qualquer repercussão na esfera penal."
+      }
+    ],
+    "gabarito": "D",
+    "comentario": "A alternativa D está correta e traduz a distinção doutrinária consagrada. A alternativa A erra ao equiparar situações juridicamente distintas. A alternativa B é falsa porque o usurpador não possui investidura alguma, regular ou irregular. A alternativa C é incorreta, pois a convalidação pressupõe ato existente com defeito sanável, nos termos do art. 55 da Lei nº 9.784/1999, o que não ocorre nos atos do usurpador. A alternativa E contraria o art. 328 do Código Penal, que tipifica a usurpação de função pública como crime contra a Administração Pública.",
+    "fundamentacaoLegal": "Código Penal, art. 328; Lei nº 9.784/1999, art. 55; doutrina de Maria Sylvia Zanella Di Pietro."
+  },
+  {
+    "id": "orgaos-publicos-07",
+    "topicoId": "orgaos-publicos",
+    "topico": "Órgãos públicos e teoria do órgão",
+    "dificuldade": "media",
+    "enunciado": "Sobre a ausência de personalidade jurídica dos órgãos públicos e suas consequências processuais, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os órgãos públicos são despersonalizados, razão pela qual, em regra, não possuem capacidade processual; excepcionalmente, admite-se a personalidade judiciária de determinados órgãos para a defesa de suas prerrogativas institucionais."
+      },
+      {
+        "letra": "B",
+        "texto": "Os órgãos públicos possuem personalidade jurídica própria e respondem diretamente, com patrimônio autônomo, pelos danos que causarem a terceiros."
+      },
+      {
+        "letra": "C",
+        "texto": "Os órgãos públicos podem, em qualquer hipótese, figurar no polo passivo de ações de indenização por danos causados a particulares."
+      },
+      {
+        "letra": "D",
+        "texto": "A ausência de personalidade jurídica impede que qualquer órgão público figure em juízo, ainda que para a defesa de prerrogativas institucionais violadas por outro órgão do mesmo ente."
+      },
+      {
+        "letra": "E",
+        "texto": "A capacidade processual dos órgãos públicos decorre da atribuição de inscrição própria no Cadastro Nacional da Pessoa Jurídica."
+      }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A está correta: os órgãos são centros de competência despersonalizados, mas a jurisprudência reconhece a chamada personalidade judiciária a órgãos como as Câmaras Municipais, para a defesa de direitos institucionais próprios. A alternativa B contraria a natureza do órgão e o art. 37, § 6º, da CF/88, que imputa a responsabilidade à pessoa jurídica. A alternativa C é falsa: as ações indenizatórias devem ser propostas contra a pessoa jurídica, e não contra o órgão. A alternativa D generaliza indevidamente, desconsiderando a exceção consagrada na Súmula 525 do STJ. A alternativa E erra porque a inscrição no cadastro fiscal é providência de natureza operacional e não confere personalidade jurídica nem capacidade processual.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, art. 1º, § 2º, I e II; CF/88, art. 37, § 6º; Súmula 525 do STJ."
+  },
+  {
+    "id": "orgaos-publicos-08",
+    "topicoId": "orgaos-publicos",
+    "topico": "Órgãos públicos e teoria do órgão",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre a classificação dos órgãos públicos quanto à posição estatal, segundo Hely Lopes Meirelles, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Órgãos autônomos são aqueles originários da Constituição, representativos dos Poderes do Estado e sem qualquer subordinação hierárquica."
+      },
+      {
+        "letra": "B",
+        "texto": "Órgãos superiores possuem ampla autonomia administrativa e financeira, situando-se na cúpula da Administração Pública."
+      },
+      {
+        "letra": "C",
+        "texto": "Quanto à posição estatal, os órgãos classificam-se em independentes, originários da Constituição e representativos dos Poderes, sem subordinação hierárquica; autônomos, situados na cúpula da Administração, com ampla autonomia administrativa, financeira e técnica; superiores, dotados de poder de direção, controle e decisão, porém subordinados a uma chefia e sem autonomia administrativa e financeira; e subalternos, com predominância de atribuições de mera execução."
+      },
+      {
+        "letra": "D",
+        "texto": "Órgãos subalternos são aqueles que detêm amplo poder de decisão e de comando sobre os assuntos de sua competência, subordinando-se apenas ao Chefe do Poder Executivo."
+      },
+      {
+        "letra": "E",
+        "texto": "A classificação dos órgãos em independentes, autônomos, superiores e subalternos toma por critério a estrutura interna do órgão, e não sua posição na hierarquia estatal."
+      }
+    ],
+    "gabarito": "C",
+    "comentario": "A alternativa C está correta e reproduz a classificação consagrada por Hely Lopes Meirelles. A alternativa A atribui aos órgãos autônomos característica própria dos órgãos independentes. A alternativa B confere aos órgãos superiores autonomia administrativa e financeira que eles não possuem, sendo essa a nota dos órgãos autônomos. A alternativa D inverte o conceito de órgão subalterno, cuja marca é a predominância de atribuições de execução e o reduzido poder decisório. A alternativa E confunde os critérios classificatórios, pois a estrutura interna fundamenta a distinção entre órgãos simples e compostos.",
+    "fundamentacaoLegal": "Doutrina de Hely Lopes Meirelles; CF/88, arts. 2º, 44, 76, 92, 127 e 131."
+  },
+  {
+    "id": "orgaos-publicos-09",
+    "topicoId": "orgaos-publicos",
+    "topico": "Órgãos públicos e teoria do órgão",
+    "dificuldade": "media",
+    "enunciado": "Sobre os órgãos independentes, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As Secretarias Municipais constituem exemplos típicos de órgãos independentes, por gozarem de autonomia administrativa e financeira."
+      },
+      {
+        "letra": "B",
+        "texto": "Os órgãos independentes estão hierarquicamente subordinados ao Chefe do Poder Executivo da respectiva esfera federativa."
+      },
+      {
+        "letra": "C",
+        "texto": "Os Tribunais de Contas não se enquadram como órgãos independentes, uma vez que auxiliam o Poder Legislativo no controle externo."
+      },
+      {
+        "letra": "D",
+        "texto": "Os órgãos independentes não exercem funções políticas, limitando-se à execução material de atividades administrativas."
+      },
+      {
+        "letra": "E",
+        "texto": "São exemplos de órgãos independentes as Casas Legislativas, a Chefia do Poder Executivo em cada esfera federativa, os Tribunais do Poder Judiciário, o Ministério Público e os Tribunais de Contas, todos originários da Constituição e desprovidos de subordinação hierárquica."
+      }
+    ],
+    "gabarito": "E",
+    "comentario": "A alternativa E está correta e reúne exemplos clássicos de órgãos independentes, cuja nota distintiva é a origem constitucional e a ausência de subordinação hierárquica, sujeitando-se apenas aos controles constitucionais recíprocos. A alternativa A erra porque as Secretarias Municipais são órgãos autônomos, situados imediatamente abaixo dos independentes. A alternativa B contraria a característica essencial dos órgãos independentes. A alternativa C confunde auxílio funcional com subordinação hierárquica: os Tribunais de Contas auxiliam o Legislativo, mas possuem competências próprias fixadas na Constituição e são classificados como órgãos independentes. A alternativa D é falsa, pois esses órgãos exercem funções políticas, judiciais e quase judiciais, além das administrativas.",
+    "fundamentacaoLegal": "CF/88, arts. 2º, 44, 71, 76, 92 e 127; doutrina de Hely Lopes Meirelles."
+  },
+  {
+    "id": "orgaos-publicos-10",
+    "topicoId": "orgaos-publicos",
+    "topico": "Órgãos públicos e teoria do órgão",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre a distinção entre órgãos autônomos e órgãos superiores, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Órgãos autônomos e superiores distinguem-se exclusivamente pelo número de agentes públicos que os integram e pelo volume de atribuições exercidas."
+      },
+      {
+        "letra": "B",
+        "texto": "Os órgãos autônomos situam-se imediatamente abaixo dos independentes e gozam de ampla autonomia administrativa, financeira e técnica, competindo-lhes o planejamento e a direção superior de suas áreas; já os órgãos superiores, embora detenham poder de direção, controle e decisão, não possuem autonomia administrativa nem financeira e sujeitam-se à subordinação hierárquica de uma chefia."
+      },
+      {
+        "letra": "C",
+        "texto": "Os órgãos superiores são criados diretamente pela Constituição Federal, tal como ocorre com os órgãos independentes."
+      },
+      {
+        "letra": "D",
+        "texto": "Os órgãos autônomos, por gozarem de autonomia financeira, possuem personalidade jurídica própria, distinta da do ente federado."
+      },
+      {
+        "letra": "E",
+        "texto": "Gabinetes, coordenadorias, departamentos e divisões constituem exemplos típicos de órgãos autônomos."
+      }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B está correta e sintetiza a distinção entre as duas categorias na classificação de Hely Lopes Meirelles. A alternativa A é falsa, pois o critério não é quantitativo, mas de posição hierárquica e de grau de autonomia. A alternativa C erra porque os órgãos superiores são criados por lei ou por ato de organização administrativa, e não diretamente pela Constituição. A alternativa D confunde autonomia administrativa e financeira com personalidade jurídica, atributos distintos, sendo certo que nenhum órgão possui personalidade jurídica própria. A alternativa E indica exemplos de órgãos superiores, e não de órgãos autônomos, cujos exemplos típicos são os Ministérios e as Secretarias de Estado e de Município.",
+    "fundamentacaoLegal": "Doutrina de Hely Lopes Meirelles; CF/88, art. 84, II e VI, e art. 88; Lei nº 9.784/1999, art. 1º, § 2º, I."
+  },
+  {
+    "id": "orgaos-publicos-11",
+    "topicoId": "orgaos-publicos",
+    "topico": "Órgãos públicos e teoria do órgão",
+    "dificuldade": "media",
+    "enunciado": "Sobre os órgãos subalternos, na classificação dos órgãos públicos quanto à posição estatal, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Órgãos subalternos são aqueles que exercem amplo poder de decisão sobre as matérias de sua competência, sujeitando-se apenas a controle finalístico."
+      },
+      {
+        "letra": "B",
+        "texto": "Órgãos subalternos possuem reduzida autonomia administrativa e financeira, porém ampla autonomia técnica e normativa."
+      },
+      {
+        "letra": "C",
+        "texto": "Órgãos subalternos situam-se na cúpula da Administração Pública, imediatamente abaixo dos órgãos independentes."
+      },
+      {
+        "letra": "D",
+        "texto": "Órgãos subalternos são aqueles hierarquizados a órgãos mais elevados, com reduzido poder decisório e predominância de atribuições de mera execução, a exemplo das seções de expediente, de pessoal, de material e de portaria."
+      },
+      {
+        "letra": "E",
+        "texto": "Órgãos subalternos não integram a estrutura da Administração direta, sendo categoria própria das entidades da Administração indireta."
+      }
+    ],
+    "gabarito": "D",
+    "comentario": "A alternativa D está correta e reproduz a caracterização doutrinária dos órgãos subalternos. A alternativa A atribui a eles poder decisório amplo, próprio dos órgãos superiores e autônomos. A alternativa B erra ao afirmar autonomia técnica e normativa, incompatível com a subordinação característica dessa categoria. A alternativa C descreve os órgãos autônomos. A alternativa E é falsa, pois órgãos subalternos existem tanto na Administração direta quanto na estrutura interna das entidades da Administração indireta, fruto da desconcentração.",
+    "fundamentacaoLegal": "Doutrina de Hely Lopes Meirelles; Lei nº 9.784/1999, art. 1º, § 2º, I."
+  },
+  {
+    "id": "orgaos-publicos-12",
+    "topicoId": "orgaos-publicos",
+    "topico": "Órgãos públicos e teoria do órgão",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre a classificação dos órgãos públicos quanto à sua estrutura, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Quanto à estrutura, os órgãos classificam-se em simples ou unitários, constituídos por um único centro de competência, sem outros órgãos incrustados em sua estrutura, e compostos, que reúnem em sua estrutura diversos órgãos menores, com atividade-fim idêntica ou com atividades auxiliares."
+      },
+      {
+        "letra": "B",
+        "texto": "A classificação dos órgãos em simples e compostos toma por critério o número de agentes públicos que neles atuam."
+      },
+      {
+        "letra": "C",
+        "texto": "Órgão simples é aquele cuja decisão é tomada por um único agente, ao passo que órgão composto é aquele que decide mediante deliberação da maioria de seus membros."
+      },
+      {
+        "letra": "D",
+        "texto": "Todo órgão composto é necessariamente colegiado, pois a pluralidade de unidades internas impõe a deliberação conjunta."
+      },
+      {
+        "letra": "E",
+        "texto": "A técnica da desconcentração é incompatível com a existência de órgãos compostos, que pressupõem concentração de competências."
+      }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A está correta e reproduz a classificação estrutural consagrada por Hely Lopes Meirelles. A alternativa B erra ao adotar critério quantitativo de pessoal, irrelevante para essa classificação. A alternativa C descreve, na verdade, a classificação quanto à atuação funcional, que distingue órgãos singulares e colegiados. A alternativa D confunde as duas classificações: um órgão composto pode ser singular, como uma Secretaria Municipal que reúne diversos departamentos, mas decide pela vontade do Secretário. A alternativa E inverte a realidade, pois os órgãos compostos resultam justamente do processo de desconcentração administrativa.",
+    "fundamentacaoLegal": "Doutrina de Hely Lopes Meirelles e Maria Sylvia Zanella Di Pietro; Decreto-Lei nº 200/1967, arts. 6º e 10."
+  },
+  {
+    "id": "orgaos-publicos-13",
+    "topicoId": "orgaos-publicos",
+    "topico": "Órgãos públicos e teoria do órgão",
+    "dificuldade": "media",
+    "enunciado": "Sobre a classificação dos órgãos públicos quanto à atuação funcional, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Órgãos singulares são aqueles integrados por um único servidor, sem qualquer auxílio de outros agentes públicos."
+      },
+      {
+        "letra": "B",
+        "texto": "Órgãos colegiados são aqueles cujas decisões são tomadas pela vontade isolada de seu presidente, a quem cabe representar o colegiado."
+      },
+      {
+        "letra": "C",
+        "texto": "Quanto à atuação funcional, os órgãos classificam-se em singulares ou unipessoais, que decidem pela manifestação de vontade de um único agente, seu chefe e representante, e colegiados ou pluripessoais, que decidem pela manifestação conjunta e majoritária da vontade de seus membros."
+      },
+      {
+        "letra": "D",
+        "texto": "A existência de diversos servidores auxiliares no órgão descaracteriza a sua natureza singular, convertendo-o em órgão colegiado."
+      },
+      {
+        "letra": "E",
+        "texto": "Os órgãos colegiados não podem delegar competência a seus respectivos presidentes, sob pena de violação do princípio da colegialidade."
+      }
+    ],
+    "gabarito": "C",
+    "comentario": "A alternativa C está correta: o critério é o modo de formação da vontade do órgão, e não o número de agentes que nele atuam. A alternativa A é falsa porque o órgão singular pode contar com inúmeros servidores auxiliares, sendo singular a manifestação decisória. A alternativa B contraria a essência do colegiado, cuja vontade se forma pela deliberação majoritária de seus membros. A alternativa D repete o equívoco da alternativa A. A alternativa E contraria o art. 12, parágrafo único, da Lei nº 9.784/1999, que expressamente admite a delegação de competência dos órgãos colegiados aos respectivos presidentes.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, art. 12, parágrafo único, e art. 50, § 3º; doutrina de Hely Lopes Meirelles."
+  },
+  {
+    "id": "orgaos-publicos-14",
+    "topicoId": "orgaos-publicos",
+    "topico": "Órgãos públicos e teoria do órgão",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre a classificação dos órgãos públicos quanto às funções que exercem, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Órgãos consultivos são aqueles que exercem a execução material das decisões administrativas, sem competência opinativa."
+      },
+      {
+        "letra": "B",
+        "texto": "Órgãos de controle exercem exclusivamente o controle externo, sendo sempre estranhos à estrutura da entidade controlada."
+      },
+      {
+        "letra": "C",
+        "texto": "Órgãos ativos limitam-se a emitir opiniões técnicas e pareceres, sem qualquer poder de decisão."
+      },
+      {
+        "letra": "D",
+        "texto": "A classificação em ativos, consultivos e de controle é sinônima da classificação em independentes, autônomos e superiores."
+      },
+      {
+        "letra": "E",
+        "texto": "Quanto às funções que exercem, os órgãos podem ser classificados em ativos, que executam e decidem, expressando a vontade da Administração; consultivos, que emitem pareceres, opiniões e orientações técnicas ou jurídicas; e de controle, incumbidos de fiscalizar e verificar a legalidade e a legitimidade da atuação de outros órgãos e agentes."
+      }
+    ],
+    "gabarito": "E",
+    "comentario": "A alternativa E está correta e reproduz classificação amplamente acolhida na doutrina. A alternativa A inverte o conteúdo da função consultiva, que é opinativa. A alternativa B é falsa porque existem órgãos de controle interno, integrantes da própria estrutura fiscalizada, como as controladorias e as auditorias internas, previstas no art. 74 da CF/88. A alternativa C atribui aos órgãos ativos característica dos consultivos. A alternativa D confunde critérios distintos, pois a classificação em independentes, autônomos, superiores e subalternos toma por base a posição estatal do órgão, e não a função por ele desempenhada.",
+    "fundamentacaoLegal": "CF/88, arts. 70, 71 e 74; doutrina de Hely Lopes Meirelles e Maria Sylvia Zanella Di Pietro."
+  },
+  {
+    "id": "orgaos-publicos-15",
+    "topicoId": "orgaos-publicos",
+    "topico": "Órgãos públicos e teoria do órgão",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre a criação e a extinção de órgãos públicos, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A criação e a extinção de órgãos públicos podem ser realizadas por decreto do Chefe do Poder Executivo, desde que a medida não implique aumento de despesa."
+      },
+      {
+        "letra": "B",
+        "texto": "A criação e a extinção de órgãos públicos dependem de lei; ao Chefe do Poder Executivo cabe, mediante decreto, dispor sobre a organização e o funcionamento da administração quando não implicar aumento de despesa nem criação ou extinção de órgãos públicos, bem como extinguir funções ou cargos públicos quando vagos."
+      },
+      {
+        "letra": "C",
+        "texto": "A criação de órgãos públicos independe de lei, bastando a edição de regimento interno pelo órgão hierarquicamente superior."
+      },
+      {
+        "letra": "D",
+        "texto": "A iniciativa da lei que dispõe sobre a criação de órgãos da administração municipal é concorrente entre o Prefeito e os Vereadores."
+      },
+      {
+        "letra": "E",
+        "texto": "A extinção de órgão público exige lei complementar, por envolver alteração substancial da estrutura administrativa do ente federado."
+      }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B conjuga o art. 48, XI, o art. 84, VI, a e b, e o art. 88 da CF/88. A alternativa A contraria expressamente a ressalva contida no art. 84, VI, a, que exclui do alcance do decreto autônomo a criação e a extinção de órgãos. A alternativa C é falsa, pois o regimento interno organiza o funcionamento do órgão previamente criado por lei, mas não pode criá-lo. A alternativa D contraria o art. 61, § 1º, II, e, da CF/88, aplicável aos Municípios por simetria, que reserva ao Chefe do Poder Executivo a iniciativa das leis sobre criação e estruturação de órgãos da Administração. A alternativa E erra quanto à espécie normativa, sendo suficiente lei ordinária, salvo previsão constitucional específica em sentido diverso.",
+    "fundamentacaoLegal": "CF/88, art. 48, XI, art. 61, § 1º, II, e, art. 84, VI, a e b, e art. 88."
+  },
+  {
+    "id": "orgaos-publicos-16",
+    "topicoId": "orgaos-publicos",
+    "topico": "Órgãos públicos e teoria do órgão",
+    "dificuldade": "media",
+    "enunciado": "A Câmara Municipal de determinado Município ajuíza ação em face do Poder Executivo local, alegando violação de suas prerrogativas institucionais em razão da recusa de repasse de duodécimos. Sobre a capacidade processual do órgão legislativo, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A Câmara Municipal possui personalidade jurídica de direito público própria, podendo demandar em juízo em qualquer matéria, inclusive patrimonial."
+      },
+      {
+        "letra": "B",
+        "texto": "A Câmara Municipal não pode figurar em juízo em nenhuma hipótese, por ser órgão inteiramente despersonalizado."
+      },
+      {
+        "letra": "C",
+        "texto": "A Câmara Municipal pode pleitear em juízo indenização por dano moral que entenda ter sofrido em razão de críticas públicas dirigidas à instituição."
+      },
+      {
+        "letra": "D",
+        "texto": "A Câmara Municipal não possui personalidade jurídica, mas apenas personalidade judiciária, somente podendo demandar em juízo para defender os seus direitos institucionais."
+      },
+      {
+        "letra": "E",
+        "texto": "A Câmara Municipal, por integrar a estrutura do Município, deve ser representada em juízo pelo Prefeito Municipal, ainda que a demanda seja dirigida contra ato deste."
+      }
+    ],
+    "gabarito": "D",
+    "comentario": "A alternativa D reproduz a Súmula 525 do STJ. A alternativa A erra ao atribuir personalidade jurídica ao órgão, atributo que pertence apenas ao Município. A alternativa B generaliza indevidamente, desconsiderando a personalidade judiciária excepcionalmente reconhecida. A alternativa C é incorreta porque o órgão despersonalizado não é titular de direitos da personalidade, não podendo pleitear indenização por dano moral. A alternativa E é falsa, pois seria juridicamente inviável que o órgão fosse representado justamente pela autoridade contra a qual litiga, hipótese em que se justifica o reconhecimento da personalidade judiciária.",
+    "fundamentacaoLegal": "Súmula 525 do STJ; Lei nº 9.784/1999, art. 1º, § 2º, I e II; CF/88, art. 29-A, § 2º."
+  },
+  {
+    "id": "orgaos-publicos-17",
+    "topicoId": "orgaos-publicos",
+    "topico": "Órgãos públicos e teoria do órgão",
+    "dificuldade": "media",
+    "enunciado": "Sobre a competência dos órgãos administrativos, nos termos da Lei nº 9.784/1999, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A competência é irrenunciável e se exerce pelos órgãos administrativos a que foi atribuída como própria, salvo os casos de delegação e avocação legalmente admitidos."
+      },
+      {
+        "letra": "B",
+        "texto": "A competência administrativa é renunciável sempre que o órgão titular reputar inconveniente ou inoportuno o seu exercício."
+      },
+      {
+        "letra": "C",
+        "texto": "A delegação transfere definitivamente a titularidade da competência ao órgão delegado, que passa a exercê-la como própria."
+      },
+      {
+        "letra": "D",
+        "texto": "A competência é sempre delegável, ainda que se trate de matéria atribuída com exclusividade ao órgão ou à autoridade."
+      },
+      {
+        "letra": "E",
+        "texto": "A competência administrativa decorre exclusivamente de decreto regulamentar editado pelo Chefe do Poder Executivo."
+      }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A reproduz o art. 11 da Lei nº 9.784/1999. A alternativa B contraria a irrenunciabilidade da competência, que é atributo decorrente de sua natureza de poder-dever. A alternativa C erra porque a delegação transfere apenas o exercício de parte da competência, e não sua titularidade, sendo revogável a qualquer tempo pela autoridade delegante, nos termos do art. 14, § 2º. A alternativa D contraria o art. 13, III, que veda a delegação das matérias de competência exclusiva do órgão ou autoridade. A alternativa E é falsa: a competência decorre de lei, podendo o regulamento apenas detalhar sua distribuição interna nos limites legais.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, arts. 11, 12, 13 e 14; CF/88, art. 37, caput."
+  },
+  {
+    "id": "orgaos-publicos-18",
+    "topicoId": "orgaos-publicos",
+    "topico": "Órgãos públicos e teoria do órgão",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre a delegação de competência no âmbito do processo administrativo, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A delegação de competência somente é admitida entre órgãos ou titulares que mantenham entre si relação de subordinação hierárquica."
+      },
+      {
+        "letra": "B",
+        "texto": "O ato de delegação é irrevogável durante o prazo de duração nele expressamente fixado."
+      },
+      {
+        "letra": "C",
+        "texto": "Um órgão administrativo e seu titular poderão, se não houver impedimento legal, delegar parte de sua competência a outros órgãos ou titulares, ainda que estes não lhes sejam hierarquicamente subordinados, quando conveniente em razão de circunstâncias de índole técnica, social, econômica, jurídica ou territorial, sendo vedada a delegação da edição de atos de caráter normativo, da decisão de recursos administrativos e das matérias de competência exclusiva do órgão ou autoridade."
+      },
+      {
+        "letra": "D",
+        "texto": "As decisões adotadas por delegação consideram-se editadas pela autoridade delegante, contra a qual deve ser dirigido eventual mandado de segurança."
+      },
+      {
+        "letra": "E",
+        "texto": "O ato de delegação dispensa publicação no meio oficial, bastando a comunicação interna dirigida ao órgão delegado."
+      }
+    ],
+    "gabarito": "C",
+    "comentario": "A alternativa C conjuga o art. 12, caput, e o art. 13, I a III, da Lei nº 9.784/1999. A alternativa A contraria o art. 12, que expressamente admite a delegação a órgãos ou titulares não subordinados hierarquicamente. A alternativa B contraria o art. 14, § 2º, segundo o qual o ato de delegação é revogável a qualquer tempo pela autoridade delegante. A alternativa D contraria o art. 14, § 3º, que reputa as decisões adotadas por delegação como editadas pelo delegado, orientação reforçada pela Súmula 510 do STF, que dirige contra a autoridade delegada o mandado de segurança. A alternativa E contraria o art. 14, caput, que exige a publicação do ato de delegação e de sua revogação no meio oficial.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, arts. 12, 13 e 14, caput e §§ 1º a 3º; Súmula 510 do STF."
+  },
+  {
+    "id": "orgaos-publicos-19",
+    "topicoId": "orgaos-publicos",
+    "topico": "Órgãos públicos e teoria do órgão",
+    "dificuldade": "media",
+    "enunciado": "Sobre a avocação de competência, nos termos da Lei nº 9.784/1999, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A avocação é permitida em caráter definitivo, sempre que a autoridade superior reputar conveniente concentrar a decisão."
+      },
+      {
+        "letra": "B",
+        "texto": "A avocação pode recair sobre competência atribuída a órgão que não seja hierarquicamente subordinado à autoridade avocante."
+      },
+      {
+        "letra": "C",
+        "texto": "A avocação dispensa qualquer justificativa, por constituir decorrência natural do poder hierárquico."
+      },
+      {
+        "letra": "D",
+        "texto": "A avocação transfere a titularidade da competência ao órgão superior, que passa a exercê-la em caráter permanente."
+      },
+      {
+        "letra": "E",
+        "texto": "Será permitida, em caráter excepcional e por motivos relevantes devidamente justificados, a avocação temporária de competência atribuída a órgão hierarquicamente inferior."
+      }
+    ],
+    "gabarito": "E",
+    "comentario": "A alternativa E reproduz o art. 15 da Lei nº 9.784/1999. A alternativa A erra ao admitir avocação definitiva, quando a lei a autoriza apenas em caráter temporário. A alternativa B contraria a exigência de subordinação hierárquica, que é pressuposto da avocação, ao contrário do que ocorre na delegação. A alternativa C é falsa, pois a lei exige motivos relevantes devidamente justificados, em consonância com o dever de motivação do art. 50 da mesma lei. A alternativa D erra porque a avocação não transfere a titularidade da competência, tampouco tem caráter permanente.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, arts. 11, 15 e 50."
+  },
+  {
+    "id": "orgaos-publicos-20",
+    "topicoId": "orgaos-publicos",
+    "topico": "Órgãos públicos e teoria do órgão",
+    "dificuldade": "dificil",
+    "enunciado": "Procurador de determinado Município emite parecer jurídico em processo de contratação direta conduzido por Secretaria Municipal. Sobre a natureza do parecer e a eventual responsabilização do parecerista, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O parecer jurídico, por seu caráter opinativo, jamais gera responsabilidade para o parecerista, ainda que emitido com dolo ou erro grosseiro."
+      },
+      {
+        "letra": "B",
+        "texto": "Segundo a jurisprudência do Supremo Tribunal Federal, o parecer meramente opinativo, de caráter facultativo, não vincula o administrador e, em regra, não enseja a responsabilização do parecerista; quando, porém, a lei estabelece a vinculação do ato administrativo à prévia manifestação jurídica, há partilha do poder de decisão, admitindo-se a responsabilização do parecerista em caso de dolo ou erro grosseiro."
+      },
+      {
+        "letra": "C",
+        "texto": "Todo parecer jurídico possui natureza vinculante, obrigando a autoridade administrativa a decidir em conformidade com sua conclusão."
+      },
+      {
+        "letra": "D",
+        "texto": "No parecer obrigatório, a autoridade está vinculada ao conteúdo da manifestação jurídica, não lhe sendo permitido dela discordar em nenhuma hipótese."
+      },
+      {
+        "letra": "E",
+        "texto": "A responsabilidade do parecerista é objetiva, bastando a demonstração do nexo causal entre a manifestação emitida e o dano causado ao erário."
+      }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B está correta e reflete a distinção firmada pelo STF no MS 24.631/DF entre parecer facultativo, obrigatório e vinculante, hoje reforçada pelo art. 28 da LINDB, que condiciona a responsabilização pessoal do agente por opiniões técnicas à existência de dolo ou erro grosseiro. A alternativa A generaliza indevidamente a irresponsabilidade do parecerista. A alternativa C é falsa, pois apenas o parecer vinculante, quando assim previsto em lei, obriga a autoridade quanto ao conteúdo. A alternativa D confunde parecer obrigatório com parecer vinculante: no primeiro, a consulta é obrigatória, mas a autoridade pode dele divergir mediante motivação idônea. A alternativa E contraria o art. 28 da LINDB, que exige elemento subjetivo qualificado.",
+    "fundamentacaoLegal": "STF, MS 24.631/DF; LINDB, art. 28; Lei nº 14.133/2021, art. 53; Lei nº 9.784/1999, art. 50, § 1º."
+  },
+  {
+    "id": "orgaos-publicos-21",
+    "topicoId": "orgaos-publicos",
+    "topico": "Órgãos públicos e teoria do órgão",
+    "dificuldade": "media",
+    "enunciado": "Agente lotado na Secretaria Municipal de Finanças, no exercício de suas atribuições fiscalizatórias, causa dano patrimonial a determinado contribuinte. Sobre a responsabilidade civil decorrente do fato, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A ação indenizatória deve ser proposta contra a Secretaria Municipal de Finanças, órgão dotado de capacidade para responder patrimonialmente por seus próprios atos."
+      },
+      {
+        "letra": "B",
+        "texto": "A ação deve ser proposta diretamente contra o agente público causador do dano, cabendo a este denunciar a lide ao Município."
+      },
+      {
+        "letra": "C",
+        "texto": "O Município somente responderá se comprovada a culpa individualizada do agente, aplicando-se a teoria da culpa administrativa."
+      },
+      {
+        "letra": "D",
+        "texto": "Em razão da teoria do órgão, a conduta do agente é imputada ao Município, pessoa jurídica dotada de personalidade, que responde objetivamente pelo dano, assegurado o direito de regresso contra o agente nos casos de dolo ou culpa."
+      },
+      {
+        "letra": "E",
+        "texto": "A responsabilidade do Município é subsidiária em relação à do órgão ao qual o agente causador do dano se encontra vinculado."
+      }
+    ],
+    "gabarito": "D",
+    "comentario": "A alternativa D está correta e conjuga a teoria do órgão com o art. 37, § 6º, da CF/88. A alternativa A é falsa porque a Secretaria é órgão despersonalizado, sem patrimônio próprio e sem legitimidade para figurar no polo passivo da demanda indenizatória. A alternativa B contraria a tese fixada pelo STF no Tema 940 da repercussão geral, segundo a qual a ação por danos causados por agente público deve ser ajuizada contra o Estado ou a pessoa jurídica de direito privado prestadora de serviço público, sendo parte ilegítima o autor do ato. A alternativa C erra ao exigir culpa, uma vez que a responsabilidade do ente é objetiva, fundada na teoria do risco administrativo. A alternativa E é incorreta porque o órgão não possui personalidade nem patrimônio, inexistindo responsabilidade principal a ser subsidiada.",
+    "fundamentacaoLegal": "CF/88, art. 37, § 6º; Lei nº 9.784/1999, art. 1º, § 2º, I; STF, RE 1.027.633/SP (Tema 940 da repercussão geral)."
+  },
+  {
+    "id": "orgaos-publicos-22",
+    "topicoId": "orgaos-publicos",
+    "topico": "Órgãos públicos e teoria do órgão",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre a distinção entre órgão, entidade e agente público, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Órgão é a unidade de atuação integrante da estrutura da Administração, desprovida de personalidade jurídica; entidade é a unidade de atuação dotada de personalidade jurídica; e agente é a pessoa física cuja manifestação de vontade é imputada à pessoa jurídica, sendo autoridade o agente dotado de poder de decisão."
+      },
+      {
+        "letra": "B",
+        "texto": "Órgão e entidade são espécies do gênero pessoa jurídica, distinguindo-se apenas pelo grau de autonomia administrativa e financeira de que dispõem."
+      },
+      {
+        "letra": "C",
+        "texto": "O agente público, por manifestar vontade própria, é o titular das competências que exerce, podendo delas dispor livremente no interesse do serviço."
+      },
+      {
+        "letra": "D",
+        "texto": "As entidades da Administração indireta não possuem órgãos internos, pois a desconcentração é técnica privativa da Administração direta."
+      },
+      {
+        "letra": "E",
+        "texto": "A extinção de um órgão público acarreta, por consequência lógica, a extinção da pessoa jurídica em cuja estrutura ele se inseria."
+      }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A reproduz as definições do art. 1º, § 2º, I, II e III, da Lei nº 9.784/1999. A alternativa B é falsa, pois o órgão não possui personalidade jurídica, sendo essa exatamente a nota que o distingue da entidade. A alternativa C contraria o art. 11 da mesma lei, segundo o qual a competência é irrenunciável e pertence ao órgão, e não ao agente, que apenas a exerce. A alternativa D é incorreta porque as entidades da Administração indireta possuem estrutura interna desconcentrada, composta de órgãos. A alternativa E inverte a relação lógica, pois o órgão é parte da pessoa jurídica, e sua extinção em nada afeta a existência desta.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, art. 1º, § 2º, I, II e III, e art. 11; Código Civil, arts. 41 e 47."
+  },
+  {
+    "id": "orgaos-publicos-23",
+    "topicoId": "orgaos-publicos",
+    "topico": "Órgãos públicos e teoria do órgão",
+    "dificuldade": "media",
+    "enunciado": "Sobre a motivação das decisões proferidas por órgãos colegiados e comissões, nos termos da Lei nº 9.784/1999, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As decisões de órgãos colegiados dispensam motivação, uma vez que resultam da deliberação majoritária de seus membros."
+      },
+      {
+        "letra": "B",
+        "texto": "A motivação de decisões orais é vedada, exigindo-se sempre a redução a termo escrito antes da respectiva manifestação de vontade."
+      },
+      {
+        "letra": "C",
+        "texto": "A motivação das decisões de órgãos colegiados e comissões, bem como a das decisões orais, constará da respectiva ata ou de termo escrito."
+      },
+      {
+        "letra": "D",
+        "texto": "As decisões de órgãos colegiados devem ser tomadas por unanimidade de seus membros, sob pena de nulidade da deliberação."
+      },
+      {
+        "letra": "E",
+        "texto": "Os órgãos colegiados não se submetem ao dever de motivação previsto no art. 50 da Lei nº 9.784/1999, aplicável apenas aos órgãos singulares."
+      }
+    ],
+    "gabarito": "C",
+    "comentario": "A alternativa C reproduz o art. 50, § 3º, da Lei nº 9.784/1999. A alternativa A é falsa, pois o dever de motivação alcança as decisões colegiadas nas hipóteses do art. 50, caput. A alternativa B erra porque a lei expressamente contempla a possibilidade de decisões orais, cuja motivação será registrada em ata ou termo escrito. A alternativa D é incorreta, uma vez que a deliberação dos órgãos colegiados se forma, em regra, pela maioria, e não por unanimidade. A alternativa E contraria o próprio § 3º do art. 50, que trata especificamente dos órgãos colegiados e das comissões.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, art. 50, caput e §§ 1º a 3º."
+  },
+  {
+    "id": "orgaos-publicos-24",
+    "topicoId": "orgaos-publicos",
+    "topico": "Órgãos públicos e teoria do órgão",
+    "dificuldade": "dificil",
+    "enunciado": "Determinada Secretaria Municipal, dotada de inscrição própria em cadastro fiscal e de dotações orçamentárias específicas, conduz processo de contratação e firma contrato de prestação de serviços. Sobre a natureza jurídica dessa contratação, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os órgãos públicos, por possuírem inscrição própria em cadastro fiscal, adquirem personalidade jurídica para fins contratuais e tributários."
+      },
+      {
+        "letra": "B",
+        "texto": "Os contratos celebrados por órgão público geram direitos e obrigações exclusivamente para o próprio órgão contratante, e não para a pessoa jurídica em cuja estrutura ele se insere."
+      },
+      {
+        "letra": "C",
+        "texto": "O órgão público pode ser sujeito de direitos e obrigações na ordem civil, desde que autorizado por decreto do Chefe do Poder Executivo."
+      },
+      {
+        "letra": "D",
+        "texto": "É vedado ao órgão público conduzir processo de contratação pública, por se tratar de competência privativa e indelegável da autoridade máxima do ente federado."
+      },
+      {
+        "letra": "E",
+        "texto": "Ainda que disponham de inscrição própria em cadastros fiscais e de dotações orçamentárias específicas, os órgãos públicos não adquirem personalidade jurídica, de modo que os direitos e as obrigações decorrentes dos contratos por eles firmados são imputados à pessoa jurídica em cuja estrutura se inserem."
+      }
+    ],
+    "gabarito": "E",
+    "comentario": "A alternativa E está correta: a inscrição em cadastro fiscal e a existência de dotação orçamentária própria são providências de natureza operacional e financeira, que não conferem personalidade jurídica ao órgão, permanecendo a imputação dos efeitos jurídicos à pessoa jurídica, conforme a teoria do órgão. A alternativa A confunde capacidade operacional com personalidade jurídica. A alternativa B é falsa, pois quem se obriga e responde patrimonialmente é o ente federado. A alternativa C erra porque a personalidade jurídica decorre de lei, e não de decreto, sendo o órgão, por definição, despersonalizado. A alternativa D contraria a sistemática da Lei nº 14.133/2021, que distribui competências entre agentes de contratação e autoridades dos diversos órgãos, admitindo inclusive a delegação nos limites legais.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, art. 1º, § 2º, I e II, e arts. 12 e 13; Código Civil, arts. 41 e 45; Lei nº 14.133/2021, arts. 7º e 8º."
+  },
+  {
+    "id": "orgaos-publicos-25",
+    "topicoId": "orgaos-publicos",
+    "topico": "Órgãos públicos e teoria do órgão",
+    "dificuldade": "media",
+    "enunciado": "Sobre a hierarquia entre órgãos públicos e os recursos administrativos dela decorrentes, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O recurso hierárquico impróprio é aquele dirigido à autoridade imediatamente superior dentro do próprio órgão que proferiu a decisão recorrida."
+      },
+      {
+        "letra": "B",
+        "texto": "O recurso hierárquico próprio é dirigido à autoridade imediatamente superior dentro da mesma pessoa jurídica, decorre do poder hierárquico e independe de previsão legal expressa; já o recurso hierárquico impróprio é dirigido a autoridade ou órgão estranho àquele que proferiu a decisão, dependendo de expressa previsão legal."
+      },
+      {
+        "letra": "C",
+        "texto": "Não há relação de hierarquia entre os órgãos de uma mesma pessoa jurídica, mas apenas vinculação e controle finalístico."
+      },
+      {
+        "letra": "D",
+        "texto": "O poder hierárquico não autoriza a revisão, pela autoridade superior, dos atos praticados por órgãos subordinados."
+      },
+      {
+        "letra": "E",
+        "texto": "O recurso administrativo, em regra, é recebido com efeito suspensivo, salvo disposição legal em contrário."
+      }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B está correta e traduz a distinção doutrinária consagrada entre recurso hierárquico próprio e impróprio. A alternativa A inverte os conceitos. A alternativa C é falsa, pois a hierarquia é justamente a nota característica das relações entre órgãos de uma mesma pessoa jurídica, decorrente da desconcentração; a vinculação e o controle finalístico dizem respeito às relações entre a Administração direta e as entidades da indireta. A alternativa D contraria o poder hierárquico, que compreende as faculdades de ordenar, fiscalizar, rever, delegar e avocar. A alternativa E inverte a regra do art. 61 da Lei nº 9.784/1999, segundo a qual, salvo disposição legal em contrário, o recurso não tem efeito suspensivo, podendo a autoridade competente atribuí-lo diante de justo receio de prejuízo de difícil ou incerta reparação.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, arts. 56, 57, 61 e 63; doutrina de Maria Sylvia Zanella Di Pietro e Hely Lopes Meirelles."
+  },
+  {
+    "id": "orgaos-publicos-26",
+    "topicoId": "orgaos-publicos",
+    "topico": "Órgãos públicos e teoria do órgão",
+    "dificuldade": "dificil",
+    "enunciado": "Ato administrativo relativo à concessão de benefício fiscal foi praticado por autoridade de órgão diverso daquele legalmente competente, sem que se trate de competência exclusiva e sem prejuízo a terceiros ou lesão ao interesse público. Sobre a situação, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O vício de competência é sempre insanável, acarretando a nulidade absoluta e insuperável do ato administrativo."
+      },
+      {
+        "letra": "B",
+        "texto": "O ato praticado por agente incompetente é juridicamente inexistente, equiparando-se ao ato praticado pelo usurpador de função pública."
+      },
+      {
+        "letra": "C",
+        "texto": "A convalidação do vício de competência é possível ainda que se trate de matéria de competência exclusiva do órgão ou autoridade."
+      },
+      {
+        "letra": "D",
+        "texto": "O vício de competência quanto à pessoa é, em regra, sanável, admitindo-se a convalidação do ato pela autoridade competente quando não se tratar de competência exclusiva e desde que a manutenção do ato não acarrete lesão ao interesse público nem prejuízo a terceiros."
+      },
+      {
+        "letra": "E",
+        "texto": "A convalidação produz efeitos somente a partir de sua edição, não alcançando os efeitos já produzidos pelo ato viciado."
+      }
+    ],
+    "gabarito": "D",
+    "comentario": "A alternativa D está correta e reflete o art. 55 da Lei nº 9.784/1999, bem como o entendimento doutrinário de que os vícios de competência quanto à pessoa e os de forma, quando não essencial, são sanáveis. A alternativa A generaliza indevidamente, desconsiderando a possibilidade legal de convalidação. A alternativa B confunde o agente incompetente, que possui investidura regular, com o usurpador de função, que não possui investidura alguma. A alternativa C erra porque os vícios relativos à competência exclusiva e à competência em razão da matéria são insanáveis. A alternativa E é incorreta porque a convalidação opera efeitos retroativos, ex tunc, justamente para preservar os efeitos produzidos desde a edição do ato.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, arts. 11, 13, III, 53 e 55; doutrina de Celso Antônio Bandeira de Mello e Maria Sylvia Zanella Di Pietro."
+  },
+  {
+    "id": "orgaos-publicos-27",
+    "topicoId": "orgaos-publicos",
+    "topico": "Órgãos públicos e teoria do órgão",
+    "dificuldade": "media",
+    "enunciado": "Sobre a desconcentração administrativa e os critérios segundo os quais ela pode ser realizada, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A desconcentração pode operar-se segundo critérios de matéria, de hierarquia ou grau e de território, resultando na criação de órgãos internos dentro de uma mesma pessoa jurídica, entre os quais existe relação de subordinação."
+      },
+      {
+        "letra": "B",
+        "texto": "A desconcentração pressupõe a criação de nova pessoa jurídica e afasta a existência de relação hierárquica entre as unidades envolvidas."
+      },
+      {
+        "letra": "C",
+        "texto": "A desconcentração territorial é vedada no âmbito municipal, admitindo-se apenas nas esferas federal e estadual."
+      },
+      {
+        "letra": "D",
+        "texto": "Desconcentração e descentralização são expressões sinônimas, ambas designando a transferência de atribuições a pessoa jurídica distinta."
+      },
+      {
+        "letra": "E",
+        "texto": "A desconcentração em razão da matéria é a única modalidade admitida no direito administrativo brasileiro."
+      }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A está correta: a doutrina identifica a desconcentração em razão da matéria, do grau hierárquico e do território, sempre no interior de uma mesma pessoa jurídica. A alternativa B confunde desconcentração com descentralização. A alternativa C é falsa, pois nada impede a criação de unidades regionais no âmbito municipal, como subprefeituras e postos de atendimento descentralizados. A alternativa D erra ao equiparar institutos distintos, sendo a existência ou não de nova pessoa jurídica o critério diferenciador. A alternativa E restringe indevidamente as modalidades admitidas.",
+    "fundamentacaoLegal": "Decreto-Lei nº 200/1967, arts. 6º e 10; Lei nº 9.784/1999, art. 1º, § 2º, I; doutrina de Maria Sylvia Zanella Di Pietro."
+  },
+  {
+    "id": "orgaos-publicos-28",
+    "topicoId": "orgaos-publicos",
+    "topico": "Órgãos públicos e teoria do órgão",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre a hierarquia e sua incidência sobre os órgãos públicos, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Todos os órgãos públicos submetem-se a relação de hierarquia, não havendo exceções no ordenamento jurídico brasileiro."
+      },
+      {
+        "letra": "B",
+        "texto": "Os órgãos independentes subordinam-se hierarquicamente ao órgão de cúpula do respectivo Poder, que sobre eles exerce controle disciplinar."
+      },
+      {
+        "letra": "C",
+        "texto": "Entre os órgãos independentes não há subordinação hierárquica, mas apenas os controles recíprocos previstos na Constituição Federal, sendo a hierarquia fenômeno típico da função administrativa e inexistente no desempenho das funções legislativa e jurisdicional típicas."
+      },
+      {
+        "letra": "D",
+        "texto": "A hierarquia caracteriza a relação existente entre a Administração direta e as entidades da Administração indireta, autorizando a avocação de competências."
+      },
+      {
+        "letra": "E",
+        "texto": "A ausência de hierarquia entre os órgãos independentes impede qualquer forma de controle recíproco entre os Poderes do Estado."
+      }
+    ],
+    "gabarito": "C",
+    "comentario": "A alternativa C está correta: a hierarquia é escalonamento vertical próprio da função administrativa, não se verificando entre órgãos independentes nem no exercício das funções típicas legislativa e jurisdicional, em que atuam apenas os freios e contrapesos constitucionais. A alternativa A generaliza indevidamente. A alternativa B contraria a nota distintiva dos órgãos independentes, que é a ausência de subordinação hierárquica. A alternativa D confunde hierarquia com vinculação: entre a Administração direta e as entidades da indireta há controle finalístico, e não hierarquia, razão pela qual não cabe avocação, admitida pelo art. 15 da Lei nº 9.784/1999 apenas em relação a órgão hierarquicamente inferior. A alternativa E é falsa, pois a inexistência de hierarquia não exclui os controles recíprocos previstos no sistema de separação de poderes.",
+    "fundamentacaoLegal": "CF/88, art. 2º; Lei nº 9.784/1999, arts. 11, 13, II, e 15; doutrina de Hely Lopes Meirelles."
+  },
+  {
+    "id": "orgaos-publicos-29",
+    "topicoId": "orgaos-publicos",
+    "topico": "Órgãos públicos e teoria do órgão",
+    "dificuldade": "media",
+    "enunciado": "Sobre a existência de órgãos públicos no interior das entidades da Administração indireta, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As entidades da Administração indireta não possuem órgãos internos, por já constituírem, em si mesmas, resultado da descentralização administrativa."
+      },
+      {
+        "letra": "B",
+        "texto": "A criação de órgãos internos em autarquias independe, em qualquer caso, de previsão legal ou de ato normativo de organização, podendo decorrer de simples deliberação informal de sua diretoria."
+      },
+      {
+        "letra": "C",
+        "texto": "Os órgãos existentes no interior de uma autarquia possuem personalidade jurídica própria, distinta da personalidade da entidade."
+      },
+      {
+        "letra": "D",
+        "texto": "A Lei nº 9.784/1999 define órgão como unidade de atuação integrante apenas da estrutura da Administração direta."
+      },
+      {
+        "letra": "E",
+        "texto": "As entidades da Administração indireta também se organizam internamente por meio de órgãos, fruto da desconcentração, os quais são igualmente despersonalizados e mantêm entre si relações de hierarquia."
+      }
+    ],
+    "gabarito": "E",
+    "comentario": "A alternativa E está correta: descentralização e desconcentração são técnicas que podem coexistir, de modo que uma autarquia, resultado da descentralização, organiza-se internamente por meio de órgãos desconcentrados. A alternativa A opõe indevidamente as duas técnicas. A alternativa B é falsa, pois a estrutura organizacional das entidades decorre de lei ou de ato normativo de organização, como o estatuto ou o regimento interno aprovado na forma legal. A alternativa C contraria a natureza despersonalizada do órgão. A alternativa D contraria a literalidade do art. 1º, § 2º, I, da Lei nº 9.784/1999, que menciona expressamente a estrutura da Administração direta e da Administração indireta.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, art. 1º, § 2º, I; Decreto-Lei nº 200/1967, arts. 5º, 6º e 10; CF/88, art. 37, XIX."
+  },
+  {
+    "id": "orgaos-publicos-30",
+    "topicoId": "orgaos-publicos",
+    "topico": "Órgãos públicos e teoria do órgão",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre o alcance e os limites da teoria do órgão como fundamento da imputação da conduta do agente à pessoa jurídica, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A teoria do órgão não se aplica às pessoas jurídicas de direito privado prestadoras de serviço público, cuja responsabilidade se rege exclusivamente pelo direito civil."
+      },
+      {
+        "letra": "B",
+        "texto": "A teoria do órgão é aplicável tanto às pessoas jurídicas de direito público quanto às de direito privado, sendo pressuposto da imputação que o agente atue nessa qualidade, isto é, que exista nexo entre a conduta e o exercício da função pública, ainda que a conduta seja praticada com abuso ou excesso."
+      },
+      {
+        "letra": "C",
+        "texto": "A imputação da conduta à pessoa jurídica ocorre mesmo quando o agente atua na estrita condição de particular, fora de qualquer relação com o exercício da função pública."
+      },
+      {
+        "letra": "D",
+        "texto": "A teoria do órgão exige, para a imputação, que o ato tenha sido praticado dentro dos estritos limites legais da competência do agente, excluindo-se os atos praticados com excesso de poder."
+      },
+      {
+        "letra": "E",
+        "texto": "A teoria do órgão foi substituída, no direito brasileiro contemporâneo, pela teoria da culpa anônima do serviço, que dispensa a identificação do agente e da pessoa jurídica."
+      }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B está correta: o art. 37, § 6º, da CF/88 alcança as pessoas jurídicas de direito público e as de direito privado prestadoras de serviços públicos, exigindo que o agente atue nessa qualidade, o que se verifica sempre que houver nexo entre a conduta e o exercício da função, ainda que praticada com abuso. A alternativa A contraria a literalidade do dispositivo constitucional. A alternativa C é falsa, pois a atuação do agente como particular, sem qualquer vínculo com a função, rompe o nexo de imputação. A alternativa D é incorreta porque a jurisprudência reconhece a imputação também nas hipóteses de excesso ou abuso praticado no exercício da função, justamente para não frustrar a proteção do lesado. A alternativa E erra porque a teoria da culpa anônima do serviço é utilizada, sobretudo, para a responsabilidade por omissão, e não substituiu a teoria do órgão, que permanece como fundamento da imputação volitiva.",
+    "fundamentacaoLegal": "CF/88, art. 37, § 6º; Código Civil, art. 47; STF, RE 1.027.633/SP (Tema 940 da repercussão geral); doutrina de Maria Sylvia Zanella Di Pietro e Celso Antônio Bandeira de Mello."
+  }
+]

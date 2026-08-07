@@ -6,11 +6,26 @@
     "dificuldade": "media",
     "enunciado": "Nos termos do art. 37, § 6º, da Constituição Federal de 1988, que disciplina a responsabilidade civil do Estado, assinale a alternativa correta.",
     "alternativas": [
-      { "letra": "A", "texto": "A responsabilidade das pessoas jurídicas de direito público pelos danos causados por seus agentes é subjetiva, exigindo-se da vítima a prova do dolo ou da culpa do agente causador do dano." },
-      { "letra": "B", "texto": "As pessoas jurídicas de direito público e as de direito privado prestadoras de serviços públicos responderão pelos danos que seus agentes, nessa qualidade, causarem a terceiros, assegurado o direito de regresso contra o responsável nos casos de dolo ou culpa." },
-      { "letra": "C", "texto": "A responsabilidade objetiva alcança todas as pessoas jurídicas de direito privado integrantes da Administração indireta, inclusive as empresas públicas e sociedades de economia mista exploradoras de atividade econômica." },
-      { "letra": "D", "texto": "O direito de regresso do Estado contra o agente causador do dano independe da demonstração de dolo ou culpa, uma vez que também é objetiva a responsabilidade do agente perante a pessoa jurídica." },
-      { "letra": "E", "texto": "O dispositivo consagrou a teoria do risco integral, de modo que as causas excludentes do nexo de causalidade são juridicamente irrelevantes para afastar o dever de indenizar." }
+      {
+        "letra": "A",
+        "texto": "A responsabilidade das pessoas jurídicas de direito público pelos danos causados por seus agentes é subjetiva, exigindo-se da vítima a prova do dolo ou da culpa do agente causador do dano."
+      },
+      {
+        "letra": "B",
+        "texto": "As pessoas jurídicas de direito público e as de direito privado prestadoras de serviços públicos responderão pelos danos que seus agentes, nessa qualidade, causarem a terceiros, assegurado o direito de regresso contra o responsável nos casos de dolo ou culpa."
+      },
+      {
+        "letra": "C",
+        "texto": "A responsabilidade objetiva alcança todas as pessoas jurídicas de direito privado integrantes da Administração indireta, inclusive as empresas públicas e sociedades de economia mista exploradoras de atividade econômica."
+      },
+      {
+        "letra": "D",
+        "texto": "O direito de regresso do Estado contra o agente causador do dano independe da demonstração de dolo ou culpa, uma vez que também é objetiva a responsabilidade do agente perante a pessoa jurídica."
+      },
+      {
+        "letra": "E",
+        "texto": "O dispositivo consagrou a teoria do risco integral, de modo que as causas excludentes do nexo de causalidade são juridicamente irrelevantes para afastar o dever de indenizar."
+      }
     ],
     "gabarito": "B",
     "comentario": "A alternativa B reproduz a literalidade do art. 37, § 6º, da CF/88. A alternativa A está errada porque a responsabilidade da pessoa jurídica perante a vítima é objetiva, bastando a demonstração de conduta, dano e nexo causal, sem perquirição de culpa. A alternativa C generaliza indevidamente: o dispositivo alcança as pessoas de direito privado prestadoras de serviços públicos, não as estatais exploradoras de atividade econômica, que se sujeitam ao regime próprio das empresas privadas (art. 173, § 1º, II, da CF/88). A alternativa D inverte a regra: o regresso é expressamente condicionado ao dolo ou à culpa do agente, sendo, portanto, de natureza subjetiva. A alternativa E confunde risco administrativo com risco integral: a doutrina e a jurisprudência majoritárias reconhecem que o § 6º adotou a teoria do risco administrativo, que admite excludentes como culpa exclusiva da vítima, caso fortuito e força maior.",
@@ -23,14 +38,29 @@
     "dificuldade": "dificil",
     "enunciado": "Servidor do Município de Campina Grande/PB, conduzindo veículo oficial em serviço de fiscalização, colide com automóvel particular e causa danos materiais ao proprietário. A vítima ajuíza ação indenizatória diretamente contra o servidor, sem incluir o Município no polo passivo. À luz do entendimento firmado pelo Supremo Tribunal Federal em repercussão geral, assinale a alternativa correta.",
     "alternativas": [
-      { "letra": "A", "texto": "A ação é admissível, pois existe solidariedade entre o Estado e o agente público perante a vítima, cabendo a esta escolher o réu que melhor lhe convier." },
-      { "letra": "B", "texto": "A ação deve ser ajuizada contra o Estado ou contra a pessoa jurídica de direito privado prestadora de serviço público, sendo o agente causador do dano parte ilegítima para figurar no polo passivo, assegurado o direito de regresso nos casos de dolo ou culpa." },
-      { "letra": "C", "texto": "A ação é admissível desde que a vítima demonstre, já na petição inicial, que o agente atuou com dolo, hipótese em que a responsabilidade deste será objetiva." },
-      { "letra": "D", "texto": "A ação é admissível, mas o servidor deverá necessariamente promover a denunciação da lide ao Município, sob pena de perder o direito de regresso." },
-      { "letra": "E", "texto": "A ação somente será admissível se antes restar comprovada a insolvência do Município, caracterizando responsabilidade subsidiária do agente público." }
+      {
+        "letra": "A",
+        "texto": "A ação é admissível, pois existe solidariedade entre o Estado e o agente público perante a vítima, cabendo a esta escolher o réu que melhor lhe convier."
+      },
+      {
+        "letra": "B",
+        "texto": "A ação é admissível, mas o servidor deverá necessariamente promover a denunciação da lide ao Município, sob pena de perder o direito de regresso."
+      },
+      {
+        "letra": "C",
+        "texto": "A ação é admissível desde que a vítima demonstre, já na petição inicial, que o agente atuou com dolo, hipótese em que a responsabilidade deste será objetiva."
+      },
+      {
+        "letra": "D",
+        "texto": "A ação deve ser ajuizada contra o Estado ou contra a pessoa jurídica de direito privado prestadora de serviço público, sendo o agente causador do dano parte ilegítima para figurar no polo passivo, assegurado o direito de regresso nos casos de dolo ou culpa."
+      },
+      {
+        "letra": "E",
+        "texto": "A ação somente será admissível se antes restar comprovada a insolvência do Município, caracterizando responsabilidade subsidiária do agente público."
+      }
     ],
-    "gabarito": "B",
-    "comentario": "A alternativa B corresponde à tese da chamada dupla garantia, fixada pelo STF no RE 1.027.633 (Tema 940): o art. 37, § 6º, da CF/88 garante à vítima a responsabilização objetiva do ente estatal e garante ao agente público que somente responderá regressivamente perante a Administração, nos casos de dolo ou culpa. A alternativa A afirma solidariedade inexistente, contrária à tese fixada. A alternativa C erra ao atribuir responsabilidade objetiva ao agente e ao admitir a demanda direta mesmo em caso de dolo, hipótese que apenas autoriza o regresso. A alternativa D inverte a lógica do instituto: a denunciação da lide, quando cabível, é do ente público ao agente, e sua ausência não extingue o direito de regresso, que pode ser exercido em ação autônoma. A alternativa E cria hipótese de responsabilidade subsidiária do agente sem qualquer previsão normativa ou jurisprudencial.",
+    "gabarito": "D",
+    "comentario": "A alternativa D corresponde à tese da chamada dupla garantia, fixada pelo STF no RE 1.027.633 (Tema 940): o art. 37, § 6º, da CF/88 garante à vítima a responsabilização objetiva do ente estatal e garante ao agente público que somente responderá regressivamente perante a Administração, nos casos de dolo ou culpa. A alternativa A afirma solidariedade inexistente, contrária à tese fixada. A alternativa C erra ao atribuir responsabilidade objetiva ao agente e ao admitir a demanda direta mesmo em caso de dolo, hipótese que apenas autoriza o regresso. A alternativa B inverte a lógica do instituto: a denunciação da lide, quando cabível, é do ente público ao agente, e sua ausência não extingue o direito de regresso, que pode ser exercido em ação autônoma. A alternativa E cria hipótese de responsabilidade subsidiária do agente sem qualquer previsão normativa ou jurisprudencial.",
     "fundamentacaoLegal": "CF/88, art. 37, § 6º; STF, RE 1.027.633/SP, Tema 940 de repercussão geral."
   },
   {
@@ -40,11 +70,26 @@
     "dificuldade": "media",
     "enunciado": "Sobre a teoria do risco administrativo e as causas excludentes ou atenuantes da responsabilidade civil do Estado, é correto afirmar que:",
     "alternativas": [
-      { "letra": "A", "texto": "a culpa exclusiva da vítima não afasta o dever de indenizar, apenas reduz proporcionalmente o valor da indenização." },
-      { "letra": "B", "texto": "a força maior, por ser evento humano imprevisível, jamais é apta a romper o nexo de causalidade entre a conduta estatal e o dano." },
-      { "letra": "C", "texto": "a culpa exclusiva da vítima e o caso fortuito externo rompem o nexo de causalidade e afastam o dever de indenizar, ao passo que a culpa concorrente conduz à repartição proporcional do dever de reparar." },
-      { "letra": "D", "texto": "o fato exclusivo de terceiro é irrelevante, pois o Estado responde por todo dano ocorrido em seu território, ainda que ausente qualquer conduta estatal." },
-      { "letra": "E", "texto": "as excludentes de responsabilidade operam sobre o elemento culpa, e não sobre o nexo causal, motivo pelo qual são incompatíveis com a responsabilidade objetiva." }
+      {
+        "letra": "A",
+        "texto": "a culpa exclusiva da vítima não afasta o dever de indenizar, apenas reduz proporcionalmente o valor da indenização."
+      },
+      {
+        "letra": "B",
+        "texto": "a força maior, por ser evento humano imprevisível, jamais é apta a romper o nexo de causalidade entre a conduta estatal e o dano."
+      },
+      {
+        "letra": "C",
+        "texto": "a culpa exclusiva da vítima e o caso fortuito externo rompem o nexo de causalidade e afastam o dever de indenizar, ao passo que a culpa concorrente conduz à repartição proporcional do dever de reparar."
+      },
+      {
+        "letra": "D",
+        "texto": "o fato exclusivo de terceiro é irrelevante, pois o Estado responde por todo dano ocorrido em seu território, ainda que ausente qualquer conduta estatal."
+      },
+      {
+        "letra": "E",
+        "texto": "as excludentes de responsabilidade operam sobre o elemento culpa, e não sobre o nexo causal, motivo pelo qual são incompatíveis com a responsabilidade objetiva."
+      }
     ],
     "gabarito": "C",
     "comentario": "A alternativa C descreve corretamente o regime do risco administrativo: as excludentes atuam sobre o nexo causal, de modo que a culpa exclusiva da vítima e o caso fortuito externo afastam integralmente o dever de indenizar, enquanto a culpa concorrente apenas atenua o quantum, na linha do art. 945 do Código Civil. A alternativa A confunde culpa exclusiva com culpa concorrente. A alternativa B erra duplamente: força maior é evento externo e irresistível, e é apta a romper o nexo causal. A alternativa D consagra responsabilidade universal do Estado sem nexo causal, inexistente no ordenamento. A alternativa E inverte o fundamento: justamente por incidirem sobre o nexo de causalidade, as excludentes são plenamente compatíveis com a responsabilidade objetiva.",
@@ -57,11 +102,26 @@
     "dificuldade": "dificil",
     "enunciado": "A respeito da responsabilidade civil do Estado por condutas omissivas, considerando a doutrina majoritária e a jurisprudência dos tribunais superiores, assinale a alternativa correta.",
     "alternativas": [
-      { "letra": "A", "texto": "A responsabilidade por omissão é sempre objetiva, bastando ao lesado demonstrar a existência do dano e a inércia genérica do Poder Público." },
-      { "letra": "B", "texto": "Para corrente doutrinária majoritária, a omissão genérica do Estado enseja responsabilidade subjetiva, fundada na teoria da culpa administrativa (faute du service), exigindo-se a demonstração de que o serviço não funcionou, funcionou mal ou funcionou tardiamente; já a omissão específica, decorrente do descumprimento de dever legal de agir individualizado, atrai a responsabilidade objetiva." },
-      { "letra": "C", "texto": "A omissão estatal nunca gera dever de indenizar, pois a responsabilidade do art. 37, § 6º, da CF/88 pressupõe conduta comissiva de agente público." },
-      { "letra": "D", "texto": "A teoria da culpa administrativa exige a identificação nominal do agente público responsável pela falha do serviço, sob pena de improcedência do pedido." },
-      { "letra": "E", "texto": "Nas omissões, aplica-se necessariamente a teoria do risco integral, motivo pelo qual não se admitem excludentes de responsabilidade." }
+      {
+        "letra": "A",
+        "texto": "A responsabilidade por omissão é sempre objetiva, bastando ao lesado demonstrar a existência do dano e a inércia genérica do Poder Público."
+      },
+      {
+        "letra": "B",
+        "texto": "Para corrente doutrinária majoritária, a omissão genérica do Estado enseja responsabilidade subjetiva, fundada na teoria da culpa administrativa (faute du service), exigindo-se a demonstração de que o serviço não funcionou, funcionou mal ou funcionou tardiamente; já a omissão específica, decorrente do descumprimento de dever legal de agir individualizado, atrai a responsabilidade objetiva."
+      },
+      {
+        "letra": "C",
+        "texto": "A omissão estatal nunca gera dever de indenizar, pois a responsabilidade do art. 37, § 6º, da CF/88 pressupõe conduta comissiva de agente público."
+      },
+      {
+        "letra": "D",
+        "texto": "A teoria da culpa administrativa exige a identificação nominal do agente público responsável pela falha do serviço, sob pena de improcedência do pedido."
+      },
+      {
+        "letra": "E",
+        "texto": "Nas omissões, aplica-se necessariamente a teoria do risco integral, motivo pelo qual não se admitem excludentes de responsabilidade."
+      }
     ],
     "gabarito": "B",
     "comentario": "A alternativa B sintetiza a distinção consagrada entre omissão genérica, que atrai a responsabilidade subjetiva fundada na culpa anônima do serviço (faute du service, defendida por Celso Antônio Bandeira de Mello), e omissão específica, em que há dever jurídico individualizado de agir e o Estado responde objetivamente, como reconhecido pelo STF em casos de dever de custódia. A alternativa A está errada porque generaliza a responsabilidade objetiva para toda omissão. A alternativa C nega qualquer responsabilidade por omissão, contrariando jurisprudência pacífica. A alternativa D contraria justamente a nota característica da faute du service, que é a culpa anônima, dispensando a identificação do agente. A alternativa E confunde os regimes: o risco integral é excepcional e não decorre da natureza omissiva da conduta.",
@@ -74,11 +134,26 @@
     "dificuldade": "media",
     "enunciado": "Pedestre é atropelado por ônibus de empresa concessionária de transporte coletivo municipal enquanto atravessava a via, não sendo, portanto, usuário do serviço. Sobre o regime de responsabilidade civil aplicável, segundo o Supremo Tribunal Federal, assinale a alternativa correta.",
     "alternativas": [
-      { "letra": "A", "texto": "A responsabilidade da concessionária é subjetiva em relação aos não usuários, pois o art. 37, § 6º, da CF/88 protege apenas os destinatários diretos do serviço público." },
-      { "letra": "B", "texto": "A concessionária responde objetivamente apenas perante os usuários, cabendo ao não usuário demandar diretamente o poder concedente com base na culpa in vigilando." },
-      { "letra": "C", "texto": "A pessoa jurídica de direito privado prestadora de serviço público responde objetivamente pelos danos causados a terceiros, sejam eles usuários ou não usuários do serviço." },
-      { "letra": "D", "texto": "A responsabilidade da concessionária é integral, não se admitindo excludente alguma, ainda que comprovada a culpa exclusiva da vítima." },
-      { "letra": "E", "texto": "A responsabilidade da concessionária perante não usuários é solidária com a do motorista, que pode ser demandado diretamente pela vítima." }
+      {
+        "letra": "A",
+        "texto": "A responsabilidade da concessionária é subjetiva em relação aos não usuários, pois o art. 37, § 6º, da CF/88 protege apenas os destinatários diretos do serviço público."
+      },
+      {
+        "letra": "B",
+        "texto": "A concessionária responde objetivamente apenas perante os usuários, cabendo ao não usuário demandar diretamente o poder concedente com base na culpa in vigilando."
+      },
+      {
+        "letra": "C",
+        "texto": "A pessoa jurídica de direito privado prestadora de serviço público responde objetivamente pelos danos causados a terceiros, sejam eles usuários ou não usuários do serviço."
+      },
+      {
+        "letra": "D",
+        "texto": "A responsabilidade da concessionária é integral, não se admitindo excludente alguma, ainda que comprovada a culpa exclusiva da vítima."
+      },
+      {
+        "letra": "E",
+        "texto": "A responsabilidade da concessionária perante não usuários é solidária com a do motorista, que pode ser demandado diretamente pela vítima."
+      }
     ],
     "gabarito": "C",
     "comentario": "A alternativa C reproduz a tese do STF no RE 591.874 (Tema 130): a responsabilidade objetiva das pessoas jurídicas de direito privado prestadoras de serviço público alcança também os terceiros não usuários, superando entendimento anterior restritivo. As alternativas A e B repetem justamente a orientação superada, restringindo a responsabilidade objetiva aos usuários. A alternativa D confunde risco administrativo com risco integral, pois a culpa exclusiva da vítima permanece como excludente. A alternativa E contraria a tese da dupla garantia (Tema 940), segundo a qual o agente causador do dano não pode ser demandado diretamente pela vítima.",
@@ -91,14 +166,29 @@
     "dificuldade": "dificil",
     "enunciado": "Detento sob custódia do Estado é morto por outro preso no interior de estabelecimento prisional. A família ajuíza ação indenizatória. Considerando a jurisprudência do Supremo Tribunal Federal, assinale a alternativa correta.",
     "alternativas": [
-      { "letra": "A", "texto": "O Estado não responde, pois a conduta lesiva foi praticada por terceiro, o que configura fato exclusivo de terceiro e rompe o nexo causal." },
-      { "letra": "B", "texto": "Em caso de inobservância do dever específico de proteção previsto no art. 5º, XLIX, da CF/88, o Estado é responsável pela morte do detento, salvo se comprovar que lhe era absolutamente impossível evitar o resultado." },
-      { "letra": "C", "texto": "O Estado responde apenas se restar demonstrada a culpa individualizada de agente penitenciário determinado, sendo insuficiente a alegação de falha genérica do serviço." },
-      { "letra": "D", "texto": "A responsabilidade estatal, nessa hipótese, é subjetiva e depende da demonstração de dolo específico dos agentes públicos encarregados da custódia." },
-      { "letra": "E", "texto": "O Estado responde com base na teoria do risco integral, sendo vedado alegar qualquer causa excludente do nexo de causalidade." }
+      {
+        "letra": "A",
+        "texto": "O Estado não responde, pois a conduta lesiva foi praticada por terceiro, o que configura fato exclusivo de terceiro e rompe o nexo causal."
+      },
+      {
+        "letra": "B",
+        "texto": "O Estado responde com base na teoria do risco integral, sendo vedado alegar qualquer causa excludente do nexo de causalidade."
+      },
+      {
+        "letra": "C",
+        "texto": "O Estado responde apenas se restar demonstrada a culpa individualizada de agente penitenciário determinado, sendo insuficiente a alegação de falha genérica do serviço."
+      },
+      {
+        "letra": "D",
+        "texto": "A responsabilidade estatal, nessa hipótese, é subjetiva e depende da demonstração de dolo específico dos agentes públicos encarregados da custódia."
+      },
+      {
+        "letra": "E",
+        "texto": "Em caso de inobservância do dever específico de proteção previsto no art. 5º, XLIX, da CF/88, o Estado é responsável pela morte do detento, salvo se comprovar que lhe era absolutamente impossível evitar o resultado."
+      }
     ],
-    "gabarito": "B",
-    "comentario": "A alternativa B corresponde à tese do Tema 592 do STF (RE 841.526), que reconhece o dever específico de proteção do preso decorrente do art. 5º, XLIX, da CF/88 (respeito à integridade física e moral do preso), admitindo o afastamento da responsabilidade quando demonstrada a impossibilidade absoluta de evitar o dano. A alternativa A ignora o dever de custódia, que impede a invocação do fato de terceiro. A alternativa C exige individualização de culpa incompatível com o regime objetivo aplicável. A alternativa D exige dolo específico, requisito inexistente. A alternativa E aplica indevidamente o risco integral, teoria reservada a hipóteses excepcionais como dano nuclear e dano ambiental.",
+    "gabarito": "E",
+    "comentario": "A alternativa E corresponde à tese do Tema 592 do STF (RE 841.526), que reconhece o dever específico de proteção do preso decorrente do art. 5º, XLIX, da CF/88 (respeito à integridade física e moral do preso), admitindo o afastamento da responsabilidade quando demonstrada a impossibilidade absoluta de evitar o dano. A alternativa A ignora o dever de custódia, que impede a invocação do fato de terceiro. A alternativa C exige individualização de culpa incompatível com o regime objetivo aplicável. A alternativa D exige dolo específico, requisito inexistente. A alternativa B aplica indevidamente o risco integral, teoria reservada a hipóteses excepcionais como dano nuclear e dano ambiental.",
     "fundamentacaoLegal": "CF/88, art. 5º, XLIX, e art. 37, § 6º; STF, RE 841.526/RS, Tema 592 de repercussão geral."
   },
   {
@@ -108,11 +198,26 @@
     "dificuldade": "media",
     "enunciado": "Quanto ao prazo prescricional da pretensão indenizatória do particular em face da Fazenda Pública por danos causados por seus agentes, assinale a alternativa correta.",
     "alternativas": [
-      { "letra": "A", "texto": "O prazo é de três anos, por aplicação do art. 206, § 3º, V, do Código Civil, norma posterior e especial em relação ao Decreto nº 20.910/1932." },
-      { "letra": "B", "texto": "O prazo é de cinco anos, conforme o Decreto nº 20.910/1932 e o art. 1º-C da Lei nº 9.494/1997, prevalecendo esse prazo especial sobre o prazo trienal do Código Civil, segundo entendimento consolidado do Superior Tribunal de Justiça." },
-      { "letra": "C", "texto": "O prazo é de dez anos, aplicando-se a regra geral do art. 205 do Código Civil, ante a inexistência de prazo específico para as pretensões contra o Poder Público." },
-      { "letra": "D", "texto": "A pretensão é imprescritível, por envolver reparação de dano decorrente de atuação estatal." },
-      { "letra": "E", "texto": "O prazo é de vinte anos quando o dano for causado por concessionária de serviço público, e de cinco anos quando causado por pessoa jurídica de direito público." }
+      {
+        "letra": "A",
+        "texto": "O prazo é de três anos, por aplicação do art. 206, § 3º, V, do Código Civil, norma posterior e especial em relação ao Decreto nº 20.910/1932."
+      },
+      {
+        "letra": "B",
+        "texto": "O prazo é de cinco anos, conforme o Decreto nº 20.910/1932 e o art. 1º-C da Lei nº 9.494/1997, prevalecendo esse prazo especial sobre o prazo trienal do Código Civil, segundo entendimento consolidado do Superior Tribunal de Justiça."
+      },
+      {
+        "letra": "C",
+        "texto": "O prazo é de dez anos, aplicando-se a regra geral do art. 205 do Código Civil, ante a inexistência de prazo específico para as pretensões contra o Poder Público."
+      },
+      {
+        "letra": "D",
+        "texto": "A pretensão é imprescritível, por envolver reparação de dano decorrente de atuação estatal."
+      },
+      {
+        "letra": "E",
+        "texto": "O prazo é de vinte anos quando o dano for causado por concessionária de serviço público, e de cinco anos quando causado por pessoa jurídica de direito público."
+      }
     ],
     "gabarito": "B",
     "comentario": "A alternativa B reflete o entendimento consolidado do STJ, firmado em recurso repetitivo (REsp 1.251.993/PR), no sentido de que prevalece o prazo quinquenal do Decreto nº 20.910/1932, reforçado pelo art. 1º-C da Lei nº 9.494/1997, sobre o prazo trienal do Código Civil. A alternativa A adota a tese trienal, superada. A alternativa C ignora a existência de prazo especial. A alternativa D confunde a pretensão indenizatória do particular com a imprescritibilidade excepcional das ações de ressarcimento ao erário fundadas em ato doloso de improbidade (Tema 897 do STF). A alternativa E cria distinção inexistente, pois o próprio art. 1º-C da Lei nº 9.494/1997 abrange expressamente as pessoas jurídicas de direito privado prestadoras de serviços públicos.",
@@ -125,11 +230,26 @@
     "dificuldade": "dificil",
     "enunciado": "Preso foragido de estabelecimento penal pratica, dezoito meses após a fuga, crime patrimonial contra particular. A vítima pretende responsabilizar o Estado pela falha na custódia. Segundo a orientação do Supremo Tribunal Federal em repercussão geral, assinale a alternativa correta.",
     "alternativas": [
-      { "letra": "A", "texto": "Configura-se a responsabilidade objetiva do Estado, pois a fuga do preso é, por si só, causa suficiente de todos os danos posteriormente praticados pelo foragido." },
-      { "letra": "B", "texto": "Não se caracteriza a responsabilidade civil objetiva do Estado por danos decorrentes de crime praticado por pessoa foragida do sistema prisional quando não demonstrado o nexo causal direto entre o momento da fuga e a conduta praticada." },
-      { "letra": "C", "texto": "A responsabilidade estatal é presumida durante os cinco anos seguintes à fuga, cabendo ao Estado provar a ausência de nexo causal." },
-      { "letra": "D", "texto": "A responsabilidade é subjetiva e depende da comprovação de dolo do diretor do estabelecimento prisional." },
-      { "letra": "E", "texto": "O Estado responde de forma subsidiária, somente após a comprovação da insolvência civil do foragido." }
+      {
+        "letra": "A",
+        "texto": "Configura-se a responsabilidade objetiva do Estado, pois a fuga do preso é, por si só, causa suficiente de todos os danos posteriormente praticados pelo foragido."
+      },
+      {
+        "letra": "B",
+        "texto": "Não se caracteriza a responsabilidade civil objetiva do Estado por danos decorrentes de crime praticado por pessoa foragida do sistema prisional quando não demonstrado o nexo causal direto entre o momento da fuga e a conduta praticada."
+      },
+      {
+        "letra": "C",
+        "texto": "A responsabilidade estatal é presumida durante os cinco anos seguintes à fuga, cabendo ao Estado provar a ausência de nexo causal."
+      },
+      {
+        "letra": "D",
+        "texto": "A responsabilidade é subjetiva e depende da comprovação de dolo do diretor do estabelecimento prisional."
+      },
+      {
+        "letra": "E",
+        "texto": "O Estado responde de forma subsidiária, somente após a comprovação da insolvência civil do foragido."
+      }
     ],
     "gabarito": "B",
     "comentario": "A alternativa B reproduz a tese do Tema 362 do STF (RE 608.880): a responsabilidade estatal por crime praticado por foragido depende da demonstração de nexo causal direto e imediato entre a fuga e o dano, aplicando-se a teoria da causalidade direta e imediata (art. 403 do Código Civil). A alternativa A elimina a exigência de nexo causal. A alternativa C cria presunção legal e inversão do ônus da prova por prazo não previsto em lei. A alternativa D exige dolo de autoridade determinada, requisito estranho ao regime do art. 37, § 6º. A alternativa E institui responsabilidade subsidiária do Estado sem base normativa.",
@@ -142,11 +262,26 @@
     "dificuldade": "media",
     "enunciado": "Sobre a responsabilidade civil do Estado decorrente de atos jurisdicionais, assinale a alternativa correta.",
     "alternativas": [
-      { "letra": "A", "texto": "A Constituição Federal assegura ao condenado por erro judiciário, assim como a quem ficar preso além do tempo fixado na sentença, o direito à indenização pelo Estado." },
-      { "letra": "B", "texto": "O Estado responde objetivamente por toda sentença posteriormente reformada em grau de recurso, dada a natureza objetiva do art. 37, § 6º, da CF/88." },
-      { "letra": "C", "texto": "A responsabilidade por erro judiciário é subjetiva e exige a demonstração de dolo do magistrado pela própria vítima, sendo vedada a demanda contra o Estado." },
-      { "letra": "D", "texto": "A prisão além do tempo fixado na sentença não gera dever de indenizar, por se tratar de mero irregularidade administrativa de execução penal." },
-      { "letra": "E", "texto": "A indenização por erro judiciário depende de prévia ação penal privada contra o magistrado responsável pela decisão." }
+      {
+        "letra": "A",
+        "texto": "A Constituição Federal assegura ao condenado por erro judiciário, assim como a quem ficar preso além do tempo fixado na sentença, o direito à indenização pelo Estado."
+      },
+      {
+        "letra": "B",
+        "texto": "O Estado responde objetivamente por toda sentença posteriormente reformada em grau de recurso, dada a natureza objetiva do art. 37, § 6º, da CF/88."
+      },
+      {
+        "letra": "C",
+        "texto": "A responsabilidade por erro judiciário é subjetiva e exige a demonstração de dolo do magistrado pela própria vítima, sendo vedada a demanda contra o Estado."
+      },
+      {
+        "letra": "D",
+        "texto": "A prisão além do tempo fixado na sentença não gera dever de indenizar, por se tratar de mero irregularidade administrativa de execução penal."
+      },
+      {
+        "letra": "E",
+        "texto": "A indenização por erro judiciário depende de prévia ação penal privada contra o magistrado responsável pela decisão."
+      }
     ],
     "gabarito": "A",
     "comentario": "A alternativa A reproduz o art. 5º, LXXV, da CF/88. A alternativa B está errada porque a mera reforma de decisão em grau recursal não gera dever de indenizar, sob pena de inviabilizar a atividade jurisdicional, prevalecendo a regra da irresponsabilidade estatal por atos jurisdicionais típicos, salvo as hipóteses constitucionais e legais expressas. A alternativa C nega o direito de ação contra o Estado, expressamente assegurado pelo texto constitucional. A alternativa D contraria a literalidade do art. 5º, LXXV. A alternativa E cria condição de procedibilidade inexistente; a responsabilidade pessoal do magistrado, quando cabível, é apurada regressivamente e nas hipóteses do art. 143 do CPC.",
@@ -159,14 +294,29 @@
     "dificuldade": "dificil",
     "enunciado": "A respeito da responsabilidade civil do Estado por atos legislativos, considerando a doutrina majoritária e a jurisprudência, é correto afirmar que:",
     "alternativas": [
-      { "letra": "A", "texto": "a edição de lei em sentido formal e material jamais pode gerar dever de indenizar, ante a soberania do Poder Legislativo e a generalidade e abstração das normas." },
-      { "letra": "B", "texto": "a regra é a irresponsabilidade do Estado por atos legislativos típicos, admitindo-se excepcionalmente o dever de indenizar nos casos de lei declarada inconstitucional e de leis de efeitos concretos que causem dano anormal e específico a pessoa determinada." },
-      { "letra": "C", "texto": "toda lei que cause prejuízo econômico a um setor da atividade privada enseja indenização, por caracterizar quebra da isonomia perante os encargos públicos." },
-      { "letra": "D", "texto": "a responsabilidade do Estado por lei inconstitucional independe de prévia declaração de inconstitucionalidade pelo Poder Judiciário, bastando a alegação de vício pelo lesado." },
-      { "letra": "E", "texto": "o Estado responde objetivamente pela omissão legislativa sempre que deixar de editar norma regulamentadora de direito constitucional, ainda que inexistente prazo constitucional para a edição." }
+      {
+        "letra": "A",
+        "texto": "a edição de lei em sentido formal e material jamais pode gerar dever de indenizar, ante a soberania do Poder Legislativo e a generalidade e abstração das normas."
+      },
+      {
+        "letra": "B",
+        "texto": "a responsabilidade do Estado por lei inconstitucional independe de prévia declaração de inconstitucionalidade pelo Poder Judiciário, bastando a alegação de vício pelo lesado."
+      },
+      {
+        "letra": "C",
+        "texto": "toda lei que cause prejuízo econômico a um setor da atividade privada enseja indenização, por caracterizar quebra da isonomia perante os encargos públicos."
+      },
+      {
+        "letra": "D",
+        "texto": "a regra é a irresponsabilidade do Estado por atos legislativos típicos, admitindo-se excepcionalmente o dever de indenizar nos casos de lei declarada inconstitucional e de leis de efeitos concretos que causem dano anormal e específico a pessoa determinada."
+      },
+      {
+        "letra": "E",
+        "texto": "o Estado responde objetivamente pela omissão legislativa sempre que deixar de editar norma regulamentadora de direito constitucional, ainda que inexistente prazo constitucional para a edição."
+      }
     ],
-    "gabarito": "B",
-    "comentario": "A alternativa B expressa a posição doutrinária dominante (Di Pietro, Carvalho Filho): em regra não há responsabilidade por atos legislativos típicos, dada a generalidade e abstração da lei, mas ela é admitida excepcionalmente quando a lei é declarada inconstitucional e quando se trata de lei de efeitos concretos que impõe ônus anormal e específico. A alternativa A absolutiza a irresponsabilidade, desconsiderando as exceções consagradas. A alternativa C generaliza indevidamente, pois o dano genérico e distribuído por toda a coletividade não é indenizável. A alternativa D dispensa a declaração de inconstitucionalidade, pressuposto exigido pela jurisprudência para essa modalidade de responsabilização. A alternativa E confere responsabilidade objetiva automática por omissão legislativa, tese não acolhida, pois a jurisprudência exige, ao menos, mora legislativa caracterizada.",
+    "gabarito": "D",
+    "comentario": "A alternativa D expressa a posição doutrinária dominante (Di Pietro, Carvalho Filho): em regra não há responsabilidade por atos legislativos típicos, dada a generalidade e abstração da lei, mas ela é admitida excepcionalmente quando a lei é declarada inconstitucional e quando se trata de lei de efeitos concretos que impõe ônus anormal e específico. A alternativa A absolutiza a irresponsabilidade, desconsiderando as exceções consagradas. A alternativa C generaliza indevidamente, pois o dano genérico e distribuído por toda a coletividade não é indenizável. A alternativa B dispensa a declaração de inconstitucionalidade, pressuposto exigido pela jurisprudência para essa modalidade de responsabilização. A alternativa E confere responsabilidade objetiva automática por omissão legislativa, tese não acolhida, pois a jurisprudência exige, ao menos, mora legislativa caracterizada.",
     "fundamentacaoLegal": "CF/88, art. 37, § 6º; doutrina de Maria Sylvia Zanella Di Pietro e José dos Santos Carvalho Filho."
   },
   {
@@ -176,14 +326,29 @@
     "dificuldade": "media",
     "enunciado": "Sobre as hipóteses excepcionais em que o ordenamento jurídico brasileiro adota a teoria do risco integral, assinale a alternativa correta.",
     "alternativas": [
-      { "letra": "A", "texto": "A responsabilidade civil por danos nucleares independe da existência de culpa, sendo essa uma das hipóteses apontadas pela doutrina como de risco integral." },
-      { "letra": "B", "texto": "A teoria do risco integral é a regra geral no direito brasileiro, aplicando-se a todos os danos causados por agentes públicos no exercício de suas funções." },
-      { "letra": "C", "texto": "O risco integral aplica-se aos danos causados por veículos oficiais em serviço, razão pela qual não se admite alegação de culpa exclusiva da vítima nesses casos." },
-      { "letra": "D", "texto": "A responsabilidade por dano ambiental submete-se ao risco administrativo, admitindo-se o caso fortuito como excludente do dever de reparar." },
-      { "letra": "E", "texto": "A assunção pela União de responsabilidades civis perante terceiros por atentados terroristas contra aeronaves brasileiras foi expressamente vedada pela legislação vigente." }
+      {
+        "letra": "A",
+        "texto": "A responsabilidade por dano ambiental submete-se ao risco administrativo, admitindo-se o caso fortuito como excludente do dever de reparar."
+      },
+      {
+        "letra": "B",
+        "texto": "A teoria do risco integral é a regra geral no direito brasileiro, aplicando-se a todos os danos causados por agentes públicos no exercício de suas funções."
+      },
+      {
+        "letra": "C",
+        "texto": "O risco integral aplica-se aos danos causados por veículos oficiais em serviço, razão pela qual não se admite alegação de culpa exclusiva da vítima nesses casos."
+      },
+      {
+        "letra": "D",
+        "texto": "A responsabilidade civil por danos nucleares independe da existência de culpa, sendo essa uma das hipóteses apontadas pela doutrina como de risco integral."
+      },
+      {
+        "letra": "E",
+        "texto": "A assunção pela União de responsabilidades civis perante terceiros por atentados terroristas contra aeronaves brasileiras foi expressamente vedada pela legislação vigente."
+      }
     ],
-    "gabarito": "A",
-    "comentario": "A alternativa A reproduz o art. 21, XXIII, alínea d, da CF/88, dispositivo tradicionalmente citado como exemplo de risco integral. A alternativa B inverte regra e exceção: a regra constitucional é o risco administrativo. A alternativa C estende indevidamente o risco integral a acidentes de trânsito com veículos oficiais, nos quais as excludentes são plenamente admitidas. A alternativa D contraria a jurisprudência do STJ, que aplica ao dano ambiental a teoria do risco integral, afastando excludentes como caso fortuito e força maior. A alternativa E contraria a Lei nº 10.744/2003, que expressamente autorizou a União a assumir despesas de responsabilidades civis perante terceiros na hipótese de atentados terroristas ou atos de guerra contra aeronaves de matrícula brasileira.",
+    "gabarito": "D",
+    "comentario": "A alternativa D reproduz o art. 21, XXIII, alínea d, da CF/88, dispositivo tradicionalmente citado como exemplo de risco integral. A alternativa B inverte regra e exceção: a regra constitucional é o risco administrativo. A alternativa C estende indevidamente o risco integral a acidentes de trânsito com veículos oficiais, nos quais as excludentes são plenamente admitidas. A alternativa A contraria a jurisprudência do STJ, que aplica ao dano ambiental a teoria do risco integral, afastando excludentes como caso fortuito e força maior. A alternativa E contraria a Lei nº 10.744/2003, que expressamente autorizou a União a assumir despesas de responsabilidades civis perante terceiros na hipótese de atentados terroristas ou atos de guerra contra aeronaves de matrícula brasileira.",
     "fundamentacaoLegal": "CF/88, art. 21, XXIII, d; Lei nº 10.744/2003, art. 1º; STJ, REsp 1.374.284/MG (repetitivo, dano ambiental e risco integral)."
   },
   {
@@ -193,11 +358,26 @@
     "dificuldade": "dificil",
     "enunciado": "Tabelião de notas, no exercício da delegação recebida do Poder Público, lavra escritura pública com base em documentação falsa, causando prejuízo patrimonial a terceiro de boa-fé. Considerando o entendimento do Supremo Tribunal Federal em repercussão geral, assinale a alternativa correta.",
     "alternativas": [
-      { "letra": "A", "texto": "O Estado responde objetivamente pelos atos dos tabeliães e registradores oficiais que, no exercício de suas funções, causem dano a terceiros, assegurado o direito de regresso contra o responsável nos casos de dolo ou culpa." },
-      { "letra": "B", "texto": "O Estado não responde, pois os serviços notariais e de registro são exercidos em caráter privado, por delegação, o que exclui a incidência do art. 37, § 6º, da CF/88." },
-      { "letra": "C", "texto": "A responsabilidade do Estado é subsidiária e somente se configura após o exaurimento do patrimônio pessoal do tabelião." },
-      { "letra": "D", "texto": "A responsabilidade do tabelião perante o Estado, em ação regressiva, é objetiva, dispensando a demonstração de dolo ou culpa." },
-      { "letra": "E", "texto": "A responsabilidade é exclusiva do tabelião, cabendo ao lesado demandá-lo diretamente, sob pena de ilegitimidade passiva do Estado." }
+      {
+        "letra": "A",
+        "texto": "O Estado responde objetivamente pelos atos dos tabeliães e registradores oficiais que, no exercício de suas funções, causem dano a terceiros, assegurado o direito de regresso contra o responsável nos casos de dolo ou culpa."
+      },
+      {
+        "letra": "B",
+        "texto": "O Estado não responde, pois os serviços notariais e de registro são exercidos em caráter privado, por delegação, o que exclui a incidência do art. 37, § 6º, da CF/88."
+      },
+      {
+        "letra": "C",
+        "texto": "A responsabilidade do Estado é subsidiária e somente se configura após o exaurimento do patrimônio pessoal do tabelião."
+      },
+      {
+        "letra": "D",
+        "texto": "A responsabilidade do tabelião perante o Estado, em ação regressiva, é objetiva, dispensando a demonstração de dolo ou culpa."
+      },
+      {
+        "letra": "E",
+        "texto": "A responsabilidade é exclusiva do tabelião, cabendo ao lesado demandá-lo diretamente, sob pena de ilegitimidade passiva do Estado."
+      }
     ],
     "gabarito": "A",
     "comentario": "A alternativa A reproduz a tese do Tema 777 do STF (RE 842.846): o Estado responde objetivamente pelos danos causados por tabeliães e registradores no exercício da função delegada, com direito de regresso condicionado a dolo ou culpa. As alternativas B e E afastam a responsabilidade estatal, contrariando frontalmente a tese fixada, pois a delegação não retira a natureza pública do serviço. A alternativa C afirma subsidiariedade não acolhida pelo STF nessa hipótese, em que a responsabilidade estatal é direta e objetiva. A alternativa D erra ao qualificar como objetiva a responsabilidade regressiva do delegatário, que é subjetiva por expressa dicção constitucional.",
@@ -210,11 +390,26 @@
     "dificuldade": "media",
     "enunciado": "O Código Civil de 2002 disciplina, em seu art. 43, a responsabilidade civil das pessoas jurídicas de direito público interno. Sobre esse dispositivo e sua relação com o texto constitucional, assinale a alternativa INCORRETA.",
     "alternativas": [
-      { "letra": "A", "texto": "As pessoas jurídicas de direito público interno são civilmente responsáveis por atos dos seus agentes que nessa qualidade causem danos a terceiros." },
-      { "letra": "B", "texto": "O dispositivo ressalva o direito regressivo contra os causadores do dano, se houver, por parte destes, culpa ou dolo." },
-      { "letra": "C", "texto": "O art. 43 do Código Civil restringe o alcance do art. 37, § 6º, da CF/88, afastando a responsabilidade objetiva das pessoas jurídicas de direito privado prestadoras de serviços públicos." },
-      { "letra": "D", "texto": "A expressão nessa qualidade indica a necessidade de que o dano guarde relação com o exercício da função pública desempenhada pelo agente." },
-      { "letra": "E", "texto": "O dispositivo é compatível com a responsabilidade objetiva, pois não condiciona o dever de indenizar da pessoa jurídica à demonstração de culpa." }
+      {
+        "letra": "A",
+        "texto": "As pessoas jurídicas de direito público interno são civilmente responsáveis por atos dos seus agentes que nessa qualidade causem danos a terceiros."
+      },
+      {
+        "letra": "B",
+        "texto": "O dispositivo ressalva o direito regressivo contra os causadores do dano, se houver, por parte destes, culpa ou dolo."
+      },
+      {
+        "letra": "C",
+        "texto": "O art. 43 do Código Civil restringe o alcance do art. 37, § 6º, da CF/88, afastando a responsabilidade objetiva das pessoas jurídicas de direito privado prestadoras de serviços públicos."
+      },
+      {
+        "letra": "D",
+        "texto": "A expressão nessa qualidade indica a necessidade de que o dano guarde relação com o exercício da função pública desempenhada pelo agente."
+      },
+      {
+        "letra": "E",
+        "texto": "O dispositivo é compatível com a responsabilidade objetiva, pois não condiciona o dever de indenizar da pessoa jurídica à demonstração de culpa."
+      }
     ],
     "gabarito": "C",
     "comentario": "A questão pede a alternativa incorreta. A alternativa C é incorreta porque uma norma infraconstitucional não restringe o alcance do art. 37, § 6º, da CF/88; o art. 43 do Código Civil trata apenas das pessoas jurídicas de direito público interno, sem excluir a responsabilidade objetiva das prestadoras privadas de serviço público, que decorre diretamente da Constituição. As alternativas A e B reproduzem a literalidade do art. 43. A alternativa D descreve corretamente o requisito da atuação funcional, exigido tanto pela Constituição quanto pelo Código Civil. A alternativa E está correta, pois o art. 43 não exige culpa da pessoa jurídica, mas apenas a condiciona no plano regressivo.",
@@ -227,14 +422,29 @@
     "dificuldade": "dificil",
     "enunciado": "Considerando a evolução histórica das teorias sobre a responsabilidade civil do Estado, analise e assinale a alternativa correta.",
     "alternativas": [
-      { "letra": "A", "texto": "A teoria da irresponsabilidade estatal, sintetizada nas máximas de que o rei não erra, foi a primeira fase da evolução e encontra-se hoje superada nos Estados de Direito." },
-      { "letra": "B", "texto": "A teoria civilista da culpa dispensava a demonstração de culpa do agente, bastando a comprovação do dano e do nexo causal." },
-      { "letra": "C", "texto": "A teoria da culpa administrativa, ou faute du service, tornou desnecessária a discussão sobre o funcionamento do serviço público, adotando responsabilidade puramente objetiva." },
-      { "letra": "D", "texto": "A distinção entre atos de império e atos de gestão surgiu na fase publicista, após a consolidação da teoria do risco administrativo." },
-      { "letra": "E", "texto": "A teoria do risco administrativo, por prescindir do nexo de causalidade, foi expressamente afastada pela Constituição Federal de 1988." }
+      {
+        "letra": "A",
+        "texto": "A teoria do risco administrativo, por prescindir do nexo de causalidade, foi expressamente afastada pela Constituição Federal de 1988."
+      },
+      {
+        "letra": "B",
+        "texto": "A teoria civilista da culpa dispensava a demonstração de culpa do agente, bastando a comprovação do dano e do nexo causal."
+      },
+      {
+        "letra": "C",
+        "texto": "A teoria da culpa administrativa, ou faute du service, tornou desnecessária a discussão sobre o funcionamento do serviço público, adotando responsabilidade puramente objetiva."
+      },
+      {
+        "letra": "D",
+        "texto": "A distinção entre atos de império e atos de gestão surgiu na fase publicista, após a consolidação da teoria do risco administrativo."
+      },
+      {
+        "letra": "E",
+        "texto": "A teoria da irresponsabilidade estatal, sintetizada nas máximas de que o rei não erra, foi a primeira fase da evolução e encontra-se hoje superada nos Estados de Direito."
+      }
     ],
-    "gabarito": "A",
-    "comentario": "A alternativa A descreve corretamente a fase da irresponsabilidade absoluta, hoje superada. A alternativa B inverte o conteúdo da teoria civilista, que justamente exigia a prova da culpa do agente. A alternativa C inverte a essência da faute du service, cujo núcleo é exatamente a análise do funcionamento do serviço (não funcionou, funcionou mal ou tardiamente), tratando-se de responsabilidade subjetiva fundada em culpa anônima. A alternativa D erra na cronologia: a distinção entre atos de império e de gestão é própria da fase civilista, anterior à publicista. A alternativa E está errada em dois pontos: o risco administrativo exige nexo causal e foi acolhido, e não afastado, pelo art. 37, § 6º, da CF/88.",
+    "gabarito": "E",
+    "comentario": "A alternativa E descreve corretamente a fase da irresponsabilidade absoluta, hoje superada. A alternativa B inverte o conteúdo da teoria civilista, que justamente exigia a prova da culpa do agente. A alternativa C inverte a essência da faute du service, cujo núcleo é exatamente a análise do funcionamento do serviço (não funcionou, funcionou mal ou tardiamente), tratando-se de responsabilidade subjetiva fundada em culpa anônima. A alternativa D erra na cronologia: a distinção entre atos de império e de gestão é própria da fase civilista, anterior à publicista. A alternativa A está errada em dois pontos: o risco administrativo exige nexo causal e foi acolhido, e não afastado, pelo art. 37, § 6º, da CF/88.",
     "fundamentacaoLegal": "CF/88, art. 37, § 6º; doutrina de Maria Sylvia Zanella Di Pietro e Celso Antônio Bandeira de Mello."
   },
   {
@@ -244,11 +454,26 @@
     "dificuldade": "media",
     "enunciado": "O Município contrata empresa privada, mediante licitação, para execução de obra de duplicação de avenida. Durante os trabalhos, imóvel vizinho sofre danos estruturais. Sobre a responsabilidade civil nessa situação, segundo a doutrina majoritária, assinale a alternativa correta.",
     "alternativas": [
-      { "letra": "A", "texto": "Se o dano decorrer do simples fato da obra, isto é, da sua própria existência e execução regular, a responsabilidade é objetiva do ente público que a determinou; se decorrer de má execução pela empreiteira, a responsabilidade é subjetiva desta, respondendo o Município subsidiariamente." },
-      { "letra": "B", "texto": "A responsabilidade é sempre exclusiva da empreiteira, pois a celebração do contrato administrativo transfere integralmente o risco da atividade ao particular contratado." },
-      { "letra": "C", "texto": "A responsabilidade é sempre objetiva do Município, ainda que comprovado que o dano decorreu exclusivamente de erro técnico da empresa contratada." },
-      { "letra": "D", "texto": "Não há dever de indenizar quando a obra é de interesse público e foi precedida de licitação regular, por se tratar de atuação lícita da Administração." },
-      { "letra": "E", "texto": "A responsabilidade pelo fato da obra é subjetiva do Município e exige a demonstração de dolo do gestor que autorizou a execução." }
+      {
+        "letra": "A",
+        "texto": "Se o dano decorrer do simples fato da obra, isto é, da sua própria existência e execução regular, a responsabilidade é objetiva do ente público que a determinou; se decorrer de má execução pela empreiteira, a responsabilidade é subjetiva desta, respondendo o Município subsidiariamente."
+      },
+      {
+        "letra": "B",
+        "texto": "A responsabilidade é sempre exclusiva da empreiteira, pois a celebração do contrato administrativo transfere integralmente o risco da atividade ao particular contratado."
+      },
+      {
+        "letra": "C",
+        "texto": "A responsabilidade é sempre objetiva do Município, ainda que comprovado que o dano decorreu exclusivamente de erro técnico da empresa contratada."
+      },
+      {
+        "letra": "D",
+        "texto": "Não há dever de indenizar quando a obra é de interesse público e foi precedida de licitação regular, por se tratar de atuação lícita da Administração."
+      },
+      {
+        "letra": "E",
+        "texto": "A responsabilidade pelo fato da obra é subjetiva do Município e exige a demonstração de dolo do gestor que autorizou a execução."
+      }
     ],
     "gabarito": "A",
     "comentario": "A alternativa A reproduz a distinção clássica firmada pela doutrina (Carvalho Filho, Di Pietro) entre dano decorrente do só fato da obra, imputável objetivamente ao ente público, e dano decorrente de má execução, imputável ao executor a título de culpa, com responsabilidade subsidiária do ente. A alternativa B transfere integralmente o risco ao contratado, o que não se admite quanto ao fato da obra. A alternativa C ignora a hipótese de culpa exclusiva da empreiteira. A alternativa D confunde licitude da conduta com ausência de dever de indenizar: atos lícitos podem gerar responsabilidade quando produzem dano anormal e específico. A alternativa E exige dolo do gestor, requisito estranho ao regime objetivo do art. 37, § 6º.",
@@ -261,11 +486,26 @@
     "dificuldade": "dificil",
     "enunciado": "Sobre a prescritibilidade das pretensões de ressarcimento ao erário e a ação de regresso do Estado contra o agente causador do dano, considerando a jurisprudência do Supremo Tribunal Federal, assinale a alternativa correta.",
     "alternativas": [
-      { "letra": "A", "texto": "São imprescritíveis todas as ações de ressarcimento ao erário, qualquer que seja a origem do dano, por força do art. 37, § 5º, da CF/88." },
-      { "letra": "B", "texto": "São imprescritíveis as ações de ressarcimento ao erário fundadas na prática de ato doloso tipificado na Lei de Improbidade Administrativa, ao passo que é prescritível a ação de reparação de danos à Fazenda Pública decorrente de ilícito civil." },
-      { "letra": "C", "texto": "Todas as pretensões de ressarcimento ao erário são prescritíveis no prazo de cinco anos, sem exceção." },
-      { "letra": "D", "texto": "A ação de regresso contra o agente público prescinde da demonstração de dolo ou culpa, bastando a comprovação do pagamento da indenização pelo Estado." },
-      { "letra": "E", "texto": "A ação regressiva deve ser necessariamente ajuizada em litisconsórcio com a ação indenizatória proposta pela vítima, sob pena de preclusão do direito de regresso." }
+      {
+        "letra": "A",
+        "texto": "São imprescritíveis todas as ações de ressarcimento ao erário, qualquer que seja a origem do dano, por força do art. 37, § 5º, da CF/88."
+      },
+      {
+        "letra": "B",
+        "texto": "São imprescritíveis as ações de ressarcimento ao erário fundadas na prática de ato doloso tipificado na Lei de Improbidade Administrativa, ao passo que é prescritível a ação de reparação de danos à Fazenda Pública decorrente de ilícito civil."
+      },
+      {
+        "letra": "C",
+        "texto": "Todas as pretensões de ressarcimento ao erário são prescritíveis no prazo de cinco anos, sem exceção."
+      },
+      {
+        "letra": "D",
+        "texto": "A ação de regresso contra o agente público prescinde da demonstração de dolo ou culpa, bastando a comprovação do pagamento da indenização pelo Estado."
+      },
+      {
+        "letra": "E",
+        "texto": "A ação regressiva deve ser necessariamente ajuizada em litisconsórcio com a ação indenizatória proposta pela vítima, sob pena de preclusão do direito de regresso."
+      }
     ],
     "gabarito": "B",
     "comentario": "A alternativa B combina corretamente as teses do Tema 897 (RE 852.475), que reconheceu a imprescritibilidade restrita às ações de ressarcimento fundadas em ato doloso de improbidade, e do Tema 666 (RE 669.069), que assentou a prescritibilidade da reparação de danos decorrente de ilícito civil. A alternativa A generaliza indevidamente a imprescritibilidade, leitura expressamente rejeitada pelo STF. A alternativa C nega qualquer exceção, contrariando o Tema 897. A alternativa D dispensa o elemento subjetivo, requisito expresso do art. 37, § 6º, para o regresso. A alternativa E cria condição processual inexistente, pois a ação regressiva é autônoma e pode ser proposta após o trânsito em julgado e o pagamento da condenação.",
@@ -278,14 +518,29 @@
     "dificuldade": "media",
     "enunciado": "De acordo com a Lei nº 8.987/1995, que dispõe sobre o regime de concessão e permissão da prestação de serviços públicos, quanto à responsabilidade da concessionária, é correto afirmar que:",
     "alternativas": [
-      { "letra": "A", "texto": "incumbe à concessionária a execução do serviço concedido, respondendo por todos os prejuízos causados ao poder concedente, aos usuários ou a terceiros, sem que a fiscalização exercida pelo órgão competente exclua ou atenue essa responsabilidade." },
-      { "letra": "B", "texto": "a fiscalização exercida pelo poder concedente transfere a este a responsabilidade pelos danos causados pela concessionária a terceiros." },
-      { "letra": "C", "texto": "a concessionária responde apenas pelos prejuízos causados aos usuários do serviço, cabendo ao poder concedente indenizar terceiros não usuários." },
-      { "letra": "D", "texto": "a contratação de terceiros para atividades inerentes ao serviço transfere a estes, integralmente, a responsabilidade perante os usuários, exonerando a concessionária." },
-      { "letra": "E", "texto": "a responsabilidade da concessionária por danos a terceiros somente se configura mediante prova de culpa de seus prepostos." }
+      {
+        "letra": "A",
+        "texto": "a contratação de terceiros para atividades inerentes ao serviço transfere a estes, integralmente, a responsabilidade perante os usuários, exonerando a concessionária."
+      },
+      {
+        "letra": "B",
+        "texto": "a fiscalização exercida pelo poder concedente transfere a este a responsabilidade pelos danos causados pela concessionária a terceiros."
+      },
+      {
+        "letra": "C",
+        "texto": "a concessionária responde apenas pelos prejuízos causados aos usuários do serviço, cabendo ao poder concedente indenizar terceiros não usuários."
+      },
+      {
+        "letra": "D",
+        "texto": "incumbe à concessionária a execução do serviço concedido, respondendo por todos os prejuízos causados ao poder concedente, aos usuários ou a terceiros, sem que a fiscalização exercida pelo órgão competente exclua ou atenue essa responsabilidade."
+      },
+      {
+        "letra": "E",
+        "texto": "a responsabilidade da concessionária por danos a terceiros somente se configura mediante prova de culpa de seus prepostos."
+      }
     ],
-    "gabarito": "A",
-    "comentario": "A alternativa A reproduz o art. 25, caput, da Lei nº 8.987/1995. A alternativa B contraria a parte final do dispositivo, que expressamente afirma que a fiscalização não exclui nem atenua a responsabilidade da concessionária. A alternativa C restringe indevidamente a responsabilidade aos usuários, contrariando o texto legal e a tese do Tema 130 do STF. A alternativa D contraria o art. 25, § 1º, segundo o qual a contratação de terceiros não altera a responsabilidade da concessionária perante o poder concedente e os usuários. A alternativa E exige culpa, ao passo que a concessionária, prestadora de serviço público, responde objetivamente nos termos do art. 37, § 6º, da CF/88.",
+    "gabarito": "D",
+    "comentario": "A alternativa D reproduz o art. 25, caput, da Lei nº 8.987/1995. A alternativa B contraria a parte final do dispositivo, que expressamente afirma que a fiscalização não exclui nem atenua a responsabilidade da concessionária. A alternativa C restringe indevidamente a responsabilidade aos usuários, contrariando o texto legal e a tese do Tema 130 do STF. A alternativa A contraria o art. 25, § 1º, segundo o qual a contratação de terceiros não altera a responsabilidade da concessionária perante o poder concedente e os usuários. A alternativa E exige culpa, ao passo que a concessionária, prestadora de serviço público, responde objetivamente nos termos do art. 37, § 6º, da CF/88.",
     "fundamentacaoLegal": "Lei nº 8.987/1995, art. 25, caput e §§ 1º e 2º; CF/88, art. 37, § 6º."
   },
   {
@@ -295,14 +550,29 @@
     "dificuldade": "dificil",
     "enunciado": "Concessionária de serviço público municipal é condenada a indenizar usuário por danos decorrentes da má prestação do serviço, mas torna-se insolvente antes do pagamento. Sobre a posição do poder concedente, segundo a doutrina majoritária, assinale a alternativa correta.",
     "alternativas": [
-      { "letra": "A", "texto": "O poder concedente responde solidariamente desde o início, podendo o usuário incluí-lo no polo passivo em litisconsórcio necessário." },
-      { "letra": "B", "texto": "O poder concedente é responsável subsidiariamente, respondendo quando exauridos os meios de satisfação do crédito junto à concessionária, dada a titularidade estatal do serviço delegado." },
-      { "letra": "C", "texto": "O poder concedente não responde em hipótese alguma, pois a delegação transfere ao concessionário a titularidade do serviço público." },
-      { "letra": "D", "texto": "O poder concedente responde objetivamente e em caráter primário, ficando a concessionária excluída da relação obrigacional após a delegação." },
-      { "letra": "E", "texto": "A responsabilidade do poder concedente depende de prévia declaração judicial de caducidade da concessão." }
+      {
+        "letra": "A",
+        "texto": "O poder concedente responde solidariamente desde o início, podendo o usuário incluí-lo no polo passivo em litisconsórcio necessário."
+      },
+      {
+        "letra": "B",
+        "texto": "A responsabilidade do poder concedente depende de prévia declaração judicial de caducidade da concessão."
+      },
+      {
+        "letra": "C",
+        "texto": "O poder concedente não responde em hipótese alguma, pois a delegação transfere ao concessionário a titularidade do serviço público."
+      },
+      {
+        "letra": "D",
+        "texto": "O poder concedente responde objetivamente e em caráter primário, ficando a concessionária excluída da relação obrigacional após a delegação."
+      },
+      {
+        "letra": "E",
+        "texto": "O poder concedente é responsável subsidiariamente, respondendo quando exauridos os meios de satisfação do crédito junto à concessionária, dada a titularidade estatal do serviço delegado."
+      }
     ],
-    "gabarito": "B",
-    "comentario": "A alternativa B corresponde ao entendimento doutrinário predominante: como a delegação transfere apenas a execução, e não a titularidade do serviço público, o Estado responde subsidiariamente pelos danos quando o concessionário não puder satisfazer a obrigação. A alternativa A afirma solidariedade e litisconsórcio necessário, não reconhecidos como regra. A alternativa C erra ao afirmar transferência de titularidade, que permanece com o poder concedente. A alternativa D inverte a ordem de responsabilização, pois a responsabilidade primária é da concessionária, conforme art. 25 da Lei nº 8.987/1995. A alternativa E condiciona a responsabilidade subsidiária à declaração de caducidade, requisito inexistente, já que a caducidade é forma de extinção da concessão por inexecução, com procedimento próprio no art. 38 da mesma lei.",
+    "gabarito": "E",
+    "comentario": "A alternativa E corresponde ao entendimento doutrinário predominante: como a delegação transfere apenas a execução, e não a titularidade do serviço público, o Estado responde subsidiariamente pelos danos quando o concessionário não puder satisfazer a obrigação. A alternativa A afirma solidariedade e litisconsórcio necessário, não reconhecidos como regra. A alternativa C erra ao afirmar transferência de titularidade, que permanece com o poder concedente. A alternativa D inverte a ordem de responsabilização, pois a responsabilidade primária é da concessionária, conforme art. 25 da Lei nº 8.987/1995. A alternativa B condiciona a responsabilidade subsidiária à declaração de caducidade, requisito inexistente, já que a caducidade é forma de extinção da concessão por inexecução, com procedimento próprio no art. 38 da mesma lei.",
     "fundamentacaoLegal": "Lei nº 8.987/1995, arts. 25 e 38; CF/88, art. 175 e art. 37, § 6º; doutrina de José dos Santos Carvalho Filho."
   },
   {
@@ -312,11 +582,26 @@
     "dificuldade": "media",
     "enunciado": "Sobre o âmbito subjetivo de incidência da responsabilidade objetiva prevista no art. 37, § 6º, da Constituição Federal, assinale a alternativa correta.",
     "alternativas": [
-      { "letra": "A", "texto": "Sociedade de economia mista que explora atividade econômica em regime de concorrência submete-se à responsabilidade objetiva do art. 37, § 6º, por integrar a Administração indireta." },
-      { "letra": "B", "texto": "Empresa pública prestadora de serviço público submete-se à responsabilidade objetiva, ao passo que a estatal exploradora de atividade econômica sujeita-se ao regime jurídico próprio das empresas privadas, inclusive quanto à responsabilidade civil." },
-      { "letra": "C", "texto": "Autarquias e fundações públicas de direito público respondem subjetivamente, pois somente os entes federativos se sujeitam ao art. 37, § 6º." },
-      { "letra": "D", "texto": "Concessionárias e permissionárias de serviço público estão excluídas do dispositivo, por serem pessoas jurídicas de direito privado não integrantes da Administração." },
-      { "letra": "E", "texto": "Os serviços sociais autônomos e as organizações sociais, por receberem recursos públicos, submetem-se integralmente à responsabilidade objetiva do art. 37, § 6º, ainda que não prestem serviço público delegado." }
+      {
+        "letra": "A",
+        "texto": "Sociedade de economia mista que explora atividade econômica em regime de concorrência submete-se à responsabilidade objetiva do art. 37, § 6º, por integrar a Administração indireta."
+      },
+      {
+        "letra": "B",
+        "texto": "Empresa pública prestadora de serviço público submete-se à responsabilidade objetiva, ao passo que a estatal exploradora de atividade econômica sujeita-se ao regime jurídico próprio das empresas privadas, inclusive quanto à responsabilidade civil."
+      },
+      {
+        "letra": "C",
+        "texto": "Autarquias e fundações públicas de direito público respondem subjetivamente, pois somente os entes federativos se sujeitam ao art. 37, § 6º."
+      },
+      {
+        "letra": "D",
+        "texto": "Concessionárias e permissionárias de serviço público estão excluídas do dispositivo, por serem pessoas jurídicas de direito privado não integrantes da Administração."
+      },
+      {
+        "letra": "E",
+        "texto": "Os serviços sociais autônomos e as organizações sociais, por receberem recursos públicos, submetem-se integralmente à responsabilidade objetiva do art. 37, § 6º, ainda que não prestem serviço público delegado."
+      }
     ],
     "gabarito": "B",
     "comentario": "A alternativa B distingue corretamente os regimes, à luz do art. 37, § 6º, e do art. 173, § 1º, II, da CF/88: o critério decisivo não é a integração formal à Administração indireta, mas a prestação de serviço público. A alternativa A confunde esse critério e aplica a responsabilidade objetiva à estatal econômica. A alternativa C está errada porque autarquias e fundações públicas são pessoas jurídicas de direito público, expressamente alcançadas pelo dispositivo. A alternativa D exclui concessionárias e permissionárias, quando o texto constitucional as abrange justamente por prestarem serviço público. A alternativa E generaliza indevidamente, pois o simples recebimento de recursos públicos não converte a entidade em prestadora de serviço público delegado para fins do § 6º.",
@@ -329,14 +614,29 @@
     "dificuldade": "dificil",
     "enunciado": "A respeito da responsabilidade civil do Estado decorrente de atos lícitos, assinale a alternativa correta.",
     "alternativas": [
-      { "letra": "A", "texto": "A licitude da conduta estatal exclui, por definição, o dever de indenizar, pois a responsabilidade civil pressupõe ato ilícito." },
-      { "letra": "B", "texto": "O Estado pode ser responsabilizado por atos lícitos quando destes resultar dano anormal e específico a determinado administrado, rompendo-se a igualdade na repartição dos encargos públicos." },
-      { "letra": "C", "texto": "A responsabilidade por atos lícitos exige a demonstração de desvio de finalidade na atuação administrativa." },
-      { "letra": "D", "texto": "Os danos genéricos suportados por toda a coletividade em razão de atos lícitos são indenizáveis individualmente a cada cidadão afetado." },
-      { "letra": "E", "texto": "A responsabilidade por atos lícitos é subjetiva e depende de prova de negligência do agente que praticou o ato." }
+      {
+        "letra": "A",
+        "texto": "A licitude da conduta estatal exclui, por definição, o dever de indenizar, pois a responsabilidade civil pressupõe ato ilícito."
+      },
+      {
+        "letra": "B",
+        "texto": "Os danos genéricos suportados por toda a coletividade em razão de atos lícitos são indenizáveis individualmente a cada cidadão afetado."
+      },
+      {
+        "letra": "C",
+        "texto": "A responsabilidade por atos lícitos exige a demonstração de desvio de finalidade na atuação administrativa."
+      },
+      {
+        "letra": "D",
+        "texto": "O Estado pode ser responsabilizado por atos lícitos quando destes resultar dano anormal e específico a determinado administrado, rompendo-se a igualdade na repartição dos encargos públicos."
+      },
+      {
+        "letra": "E",
+        "texto": "A responsabilidade por atos lícitos é subjetiva e depende de prova de negligência do agente que praticou o ato."
+      }
     ],
-    "gabarito": "B",
-    "comentario": "A alternativa B expressa o fundamento clássico da responsabilidade por ato lícito, ancorado no princípio da igualdade de todos perante os encargos públicos: exige-se dano anormal (que excede os inconvenientes ordinários da vida em sociedade) e especial (que atinge pessoa ou grupo determinado). A alternativa A confunde o pressuposto da responsabilidade estatal, que é o dano injusto, e não necessariamente o ilícito. A alternativa C introduz o desvio de finalidade, que caracterizaria ilicitude, descaracterizando a hipótese. A alternativa D contraria o requisito da especialidade do dano. A alternativa E converte em subjetiva uma responsabilidade que permanece objetiva, calcada no nexo causal e no dano anormal e específico.",
+    "gabarito": "D",
+    "comentario": "A alternativa D expressa o fundamento clássico da responsabilidade por ato lícito, ancorado no princípio da igualdade de todos perante os encargos públicos: exige-se dano anormal (que excede os inconvenientes ordinários da vida em sociedade) e especial (que atinge pessoa ou grupo determinado). A alternativa A confunde o pressuposto da responsabilidade estatal, que é o dano injusto, e não necessariamente o ilícito. A alternativa C introduz o desvio de finalidade, que caracterizaria ilicitude, descaracterizando a hipótese. A alternativa B contraria o requisito da especialidade do dano. A alternativa E converte em subjetiva uma responsabilidade que permanece objetiva, calcada no nexo causal e no dano anormal e específico.",
     "fundamentacaoLegal": "CF/88, art. 5º, caput, e art. 37, § 6º; doutrina de Celso Antônio Bandeira de Mello e Rafael Carvalho Rezende Oliveira."
   },
   {
@@ -346,11 +646,26 @@
     "dificuldade": "media",
     "enunciado": "Sobre o nexo de causalidade na responsabilidade civil do Estado, é correto afirmar que:",
     "alternativas": [
-      { "letra": "A", "texto": "o direito brasileiro adota, quanto ao nexo causal, a teoria da causalidade direta e imediata, de modo que as perdas e danos só incluem os prejuízos efetivos e os lucros cessantes por efeito direto e imediato da conduta." },
-      { "letra": "B", "texto": "adota-se a teoria da equivalência dos antecedentes causais, respondendo o Estado por todos os danos remotamente ligados à sua conduta." },
-      { "letra": "C", "texto": "o nexo causal é presumido sempre que houver dano sofrido por administrado em repartição pública, invertendo-se o ônus da prova." },
-      { "letra": "D", "texto": "por ser objetiva a responsabilidade estatal, o nexo de causalidade é dispensável, bastando a comprovação do dano." },
-      { "letra": "E", "texto": "a demonstração do nexo causal cabe exclusivamente ao Estado, que deve provar não ter concorrido para o evento danoso." }
+      {
+        "letra": "A",
+        "texto": "o direito brasileiro adota, quanto ao nexo causal, a teoria da causalidade direta e imediata, de modo que as perdas e danos só incluem os prejuízos efetivos e os lucros cessantes por efeito direto e imediato da conduta."
+      },
+      {
+        "letra": "B",
+        "texto": "adota-se a teoria da equivalência dos antecedentes causais, respondendo o Estado por todos os danos remotamente ligados à sua conduta."
+      },
+      {
+        "letra": "C",
+        "texto": "o nexo causal é presumido sempre que houver dano sofrido por administrado em repartição pública, invertendo-se o ônus da prova."
+      },
+      {
+        "letra": "D",
+        "texto": "por ser objetiva a responsabilidade estatal, o nexo de causalidade é dispensável, bastando a comprovação do dano."
+      },
+      {
+        "letra": "E",
+        "texto": "a demonstração do nexo causal cabe exclusivamente ao Estado, que deve provar não ter concorrido para o evento danoso."
+      }
     ],
     "gabarito": "A",
     "comentario": "A alternativa A reflete o art. 403 do Código Civil, que consagra a teoria do dano direto e imediato, adotada pela jurisprudência inclusive em matéria de responsabilidade estatal (vide Tema 362 do STF). A alternativa B adota teoria não acolhida pelo direito civil brasileiro para fins indenizatórios, por conduzir a regressos infinitos. A alternativa C cria presunção de nexo causal sem previsão legal. A alternativa D suprime elemento essencial: a responsabilidade objetiva dispensa a culpa, jamais o nexo de causalidade. A alternativa E inverte o ônus probatório quanto ao nexo, que, em regra, incumbe ao autor da demanda demonstrar.",
@@ -363,14 +678,29 @@
     "dificuldade": "dificil",
     "enunciado": "Agente público de órgão de segurança, fora do horário de expediente e em situação alheia ao exercício de suas atribuições, utiliza arma de fogo pertencente à corporação e fere terceiro em discussão pessoal. Sobre a responsabilidade civil do Estado, assinale a alternativa correta.",
     "alternativas": [
-      { "letra": "A", "texto": "O Estado jamais responde por danos causados por agente fora do horário de trabalho, pois ausente, em qualquer caso, a atuação nessa qualidade exigida pelo art. 37, § 6º, da CF/88." },
-      { "letra": "B", "texto": "A jurisprudência admite a responsabilização estatal quando o dano guarda relação com a condição funcional do agente, notadamente pelo uso de arma pertencente à corporação, hipótese em que se reconhece a falha do dever de guarda e vigilância sobre o armamento." },
-      { "letra": "C", "texto": "O Estado responde objetivamente por qualquer conduta de seus agentes, ainda que absolutamente desvinculada da função, por força da teoria do risco integral." },
-      { "letra": "D", "texto": "A responsabilidade é exclusivamente do agente e deve ser apurada em ação penal, não havendo pretensão indenizatória cível contra o Estado." },
-      { "letra": "E", "texto": "A responsabilidade estatal, nesse caso, é subjetiva e depende de prova de dolo do superior hierárquico do agente." }
+      {
+        "letra": "A",
+        "texto": "O Estado jamais responde por danos causados por agente fora do horário de trabalho, pois ausente, em qualquer caso, a atuação nessa qualidade exigida pelo art. 37, § 6º, da CF/88."
+      },
+      {
+        "letra": "B",
+        "texto": "A responsabilidade estatal, nesse caso, é subjetiva e depende de prova de dolo do superior hierárquico do agente."
+      },
+      {
+        "letra": "C",
+        "texto": "O Estado responde objetivamente por qualquer conduta de seus agentes, ainda que absolutamente desvinculada da função, por força da teoria do risco integral."
+      },
+      {
+        "letra": "D",
+        "texto": "A responsabilidade é exclusivamente do agente e deve ser apurada em ação penal, não havendo pretensão indenizatória cível contra o Estado."
+      },
+      {
+        "letra": "E",
+        "texto": "A jurisprudência admite a responsabilização estatal quando o dano guarda relação com a condição funcional do agente, notadamente pelo uso de arma pertencente à corporação, hipótese em que se reconhece a falha do dever de guarda e vigilância sobre o armamento."
+      }
     ],
-    "gabarito": "B",
-    "comentario": "A alternativa B corresponde à orientação jurisprudencial que, sem abandonar a exigência de que o agente atue nessa qualidade, reconhece o dever de indenizar quando o dano se liga à condição funcional, sobretudo pela guarda de armamento fornecido pela corporação. A alternativa A absolutiza a exclusão pelo critério horário, quando o critério correto é a relação com a função. A alternativa C aplica o risco integral e desconsidera a exigência constitucional do vínculo funcional. A alternativa D nega a via indenizatória cível, que é autônoma em relação à esfera penal. A alternativa E converte a responsabilidade em subjetiva e exige dolo de superior hierárquico, requisitos inexistentes no art. 37, § 6º.",
+    "gabarito": "E",
+    "comentario": "A alternativa E corresponde à orientação jurisprudencial que, sem abandonar a exigência de que o agente atue nessa qualidade, reconhece o dever de indenizar quando o dano se liga à condição funcional, sobretudo pela guarda de armamento fornecido pela corporação. A alternativa A absolutiza a exclusão pelo critério horário, quando o critério correto é a relação com a função. A alternativa C aplica o risco integral e desconsidera a exigência constitucional do vínculo funcional. A alternativa D nega a via indenizatória cível, que é autônoma em relação à esfera penal. A alternativa B converte a responsabilidade em subjetiva e exige dolo de superior hierárquico, requisitos inexistentes no art. 37, § 6º.",
     "fundamentacaoLegal": "CF/88, art. 37, § 6º; jurisprudência do STF e do STJ sobre dano causado com arma da corporação."
   },
   {
@@ -380,11 +710,26 @@
     "dificuldade": "media",
     "enunciado": "Durante manifestação pública não autorizada no centro do Município, grupo de pessoas depreda estabelecimentos comerciais. O comerciante lesado ajuíza ação contra o Município. Sobre a responsabilidade civil do Estado por danos decorrentes de atos de multidão, assinale a alternativa correta.",
     "alternativas": [
-      { "letra": "A", "texto": "O Estado responde objetivamente, pois os danos ocorreram em via pública sob sua administração." },
-      { "letra": "B", "texto": "O Estado não responde em nenhuma hipótese, por se tratar de fato exclusivo de terceiros." },
-      { "letra": "C", "texto": "Trata-se, em regra, de responsabilidade por omissão, de natureza subjetiva, exigindo-se a demonstração de que o Poder Público, sabendo ou devendo saber do risco, deixou de adotar as providências de segurança que lhe eram exigíveis." },
-      { "letra": "D", "texto": "A responsabilidade estatal decorre da teoria do risco integral, sendo inadmissível a alegação de força maior." },
-      { "letra": "E", "texto": "O Estado responde apenas se houver prévia autorização administrativa para a manifestação, hipótese em que a responsabilidade passa a ser contratual." }
+      {
+        "letra": "A",
+        "texto": "O Estado responde objetivamente, pois os danos ocorreram em via pública sob sua administração."
+      },
+      {
+        "letra": "B",
+        "texto": "O Estado não responde em nenhuma hipótese, por se tratar de fato exclusivo de terceiros."
+      },
+      {
+        "letra": "C",
+        "texto": "Trata-se, em regra, de responsabilidade por omissão, de natureza subjetiva, exigindo-se a demonstração de que o Poder Público, sabendo ou devendo saber do risco, deixou de adotar as providências de segurança que lhe eram exigíveis."
+      },
+      {
+        "letra": "D",
+        "texto": "A responsabilidade estatal decorre da teoria do risco integral, sendo inadmissível a alegação de força maior."
+      },
+      {
+        "letra": "E",
+        "texto": "O Estado responde apenas se houver prévia autorização administrativa para a manifestação, hipótese em que a responsabilidade passa a ser contratual."
+      }
     ],
     "gabarito": "C",
     "comentario": "A alternativa C está correta porque, nos danos causados por multidões, não há conduta comissiva estatal, mas eventual omissão no dever de segurança pública, aferida segundo a teoria da culpa administrativa e o padrão do que era razoavelmente exigível do Poder Público. A alternativa A aplica responsabilidade objetiva sem conduta estatal. A alternativa B afasta em absoluto o dever de indenizar, desconsiderando a hipótese de omissão culposa demonstrada. A alternativa D invoca risco integral, teoria excepcional inaplicável. A alternativa E cria vínculo contratual inexistente entre o Estado e o comerciante lesado.",
@@ -397,14 +742,29 @@
     "dificuldade": "dificil",
     "enunciado": "Passageiro de ônibus de concessionária municipal sofre lesões em acidente causado pela conduta imprudente de motorista de outro veículo particular. A concessionária alega culpa exclusiva de terceiro para se eximir. Considerando a Súmula 187 do Supremo Tribunal Federal, assinale a alternativa correta.",
     "alternativas": [
-      { "letra": "A", "texto": "A responsabilidade contratual do transportador, pelo acidente com o passageiro, não é elidida por culpa de terceiro, contra o qual tem ação regressiva." },
-      { "letra": "B", "texto": "A culpa de terceiro é excludente absoluta da responsabilidade do transportador, que fica desonerado de indenizar o passageiro." },
-      { "letra": "C", "texto": "A responsabilidade do transportador é elidida pela culpa de terceiro apenas quando o transporte for remunerado." },
-      { "letra": "D", "texto": "O passageiro deve demandar exclusivamente o terceiro causador do acidente, sendo o transportador parte ilegítima." },
-      { "letra": "E", "texto": "A responsabilidade do transportador é subjetiva, cabendo ao passageiro provar a culpa do preposto da concessionária." }
+      {
+        "letra": "A",
+        "texto": "A responsabilidade do transportador é subjetiva, cabendo ao passageiro provar a culpa do preposto da concessionária."
+      },
+      {
+        "letra": "B",
+        "texto": "A culpa de terceiro é excludente absoluta da responsabilidade do transportador, que fica desonerado de indenizar o passageiro."
+      },
+      {
+        "letra": "C",
+        "texto": "A responsabilidade do transportador é elidida pela culpa de terceiro apenas quando o transporte for remunerado."
+      },
+      {
+        "letra": "D",
+        "texto": "O passageiro deve demandar exclusivamente o terceiro causador do acidente, sendo o transportador parte ilegítima."
+      },
+      {
+        "letra": "E",
+        "texto": "A responsabilidade contratual do transportador, pelo acidente com o passageiro, não é elidida por culpa de terceiro, contra o qual tem ação regressiva."
+      }
     ],
-    "gabarito": "A",
-    "comentario": "A alternativa A reproduz literalmente a Súmula 187 do STF, reforçada pelo art. 735 do Código Civil. A alternativa B contraria a súmula ao tratar a culpa de terceiro como excludente absoluta no transporte. A alternativa C cria distinção inexistente quanto à remuneração, sendo certo que o transporte gratuito por cortesia é regido por regra diversa (Súmula 145 do STJ), inaplicável ao transporte público remunerado. A alternativa D nega a legitimidade passiva do transportador, contrariando a súmula. A alternativa E converte em subjetiva responsabilidade que é objetiva, tanto pela relação contratual de transporte quanto pelo art. 37, § 6º, da CF/88.",
+    "gabarito": "E",
+    "comentario": "A alternativa E reproduz literalmente a Súmula 187 do STF, reforçada pelo art. 735 do Código Civil. A alternativa B contraria a súmula ao tratar a culpa de terceiro como excludente absoluta no transporte. A alternativa C cria distinção inexistente quanto à remuneração, sendo certo que o transporte gratuito por cortesia é regido por regra diversa (Súmula 145 do STJ), inaplicável ao transporte público remunerado. A alternativa D nega a legitimidade passiva do transportador, contrariando a súmula. A alternativa A converte em subjetiva responsabilidade que é objetiva, tanto pela relação contratual de transporte quanto pelo art. 37, § 6º, da CF/88.",
     "fundamentacaoLegal": "Súmula 187 do STF; Código Civil, art. 735; CF/88, art. 37, § 6º."
   },
   {
@@ -414,11 +774,26 @@
     "dificuldade": "media",
     "enunciado": "Sobre a indenização por danos morais a detentos submetidos a condições degradantes de encarceramento, segundo o Supremo Tribunal Federal, é correto afirmar que:",
     "alternativas": [
-      { "letra": "A", "texto": "é dever do Estado manter em seus presídios os padrões mínimos de humanidade previstos no ordenamento jurídico, sendo de sua responsabilidade ressarcir os danos, inclusive morais, comprovadamente causados aos detentos em decorrência da falta ou insuficiência das condições legais de encarceramento." },
-      { "letra": "B", "texto": "a reserva do possível e o princípio da separação dos poderes impedem, em qualquer hipótese, a condenação do Estado ao pagamento de indenização por essas condições." },
-      { "letra": "C", "texto": "a reparação somente pode ocorrer mediante remição de pena, sendo vedada a indenização pecuniária." },
-      { "letra": "D", "texto": "a responsabilidade do Estado, nesse caso, é subjetiva e exige a identificação do agente público responsável pela superlotação." },
-      { "letra": "E", "texto": "a indenização é devida independentemente da comprovação de qualquer dano, por se tratar de dano presumido decorrente da simples condição de preso." }
+      {
+        "letra": "A",
+        "texto": "é dever do Estado manter em seus presídios os padrões mínimos de humanidade previstos no ordenamento jurídico, sendo de sua responsabilidade ressarcir os danos, inclusive morais, comprovadamente causados aos detentos em decorrência da falta ou insuficiência das condições legais de encarceramento."
+      },
+      {
+        "letra": "B",
+        "texto": "a reserva do possível e o princípio da separação dos poderes impedem, em qualquer hipótese, a condenação do Estado ao pagamento de indenização por essas condições."
+      },
+      {
+        "letra": "C",
+        "texto": "a reparação somente pode ocorrer mediante remição de pena, sendo vedada a indenização pecuniária."
+      },
+      {
+        "letra": "D",
+        "texto": "a responsabilidade do Estado, nesse caso, é subjetiva e exige a identificação do agente público responsável pela superlotação."
+      },
+      {
+        "letra": "E",
+        "texto": "a indenização é devida independentemente da comprovação de qualquer dano, por se tratar de dano presumido decorrente da simples condição de preso."
+      }
     ],
     "gabarito": "A",
     "comentario": "A alternativa A reproduz a tese fixada pelo STF no RE 580.252 (Tema 365). A alternativa B invoca reserva do possível e separação de poderes como óbices absolutos, argumentos expressamente rejeitados pelo STF nesse julgamento. A alternativa C exclui a via pecuniária, quando a tese fixada é justamente de ressarcimento; a remição foi discutida em outra oportunidade e não substitui obrigatoriamente a indenização. A alternativa D exige elemento subjetivo e individualização de agente, incompatíveis com a responsabilidade estatal reconhecida. A alternativa E dispensa a comprovação do dano, ao passo que a tese fala em danos comprovadamente causados pela falta ou insuficiência das condições legais de encarceramento.",
@@ -431,14 +806,29 @@
     "dificuldade": "dificil",
     "enunciado": "Explosão em estabelecimento comercial que comercializava fogos de artifício causa mortes e danos a vizinhos, alegando-se falha do Município na fiscalização da atividade. Sobre a responsabilidade civil do Estado por deficiência no exercício do poder de polícia fiscalizatório, assinale a alternativa correta.",
     "alternativas": [
-      { "letra": "A", "texto": "A responsabilidade do Estado é objetiva e decorre automaticamente da existência de norma que lhe atribui competência fiscalizatória sobre a atividade." },
-      { "letra": "B", "texto": "Para que fique caracterizada a responsabilidade civil do Estado por danos decorrentes do comércio de fogos de artifício, é necessário que exista a violação de dever jurídico específico de agir, o que ocorre quando notório o poder do Estado para impedir o dano ou quando presente a omissão do dever de fiscalizar." },
-      { "letra": "C", "texto": "O Estado responde solidariamente com o comerciante em razão do risco da atividade, independentemente de qualquer análise sobre o dever de fiscalizar." },
-      { "letra": "D", "texto": "O Estado nunca responde por danos causados por particulares no exercício de atividade econômica privada, ainda que sujeita a licenciamento." },
-      { "letra": "E", "texto": "A responsabilidade estatal, nesse caso, submete-se à teoria do risco integral, por envolver atividade perigosa autorizada pelo Poder Público." }
+      {
+        "letra": "A",
+        "texto": "A responsabilidade do Estado é objetiva e decorre automaticamente da existência de norma que lhe atribui competência fiscalizatória sobre a atividade."
+      },
+      {
+        "letra": "B",
+        "texto": "O Estado nunca responde por danos causados por particulares no exercício de atividade econômica privada, ainda que sujeita a licenciamento."
+      },
+      {
+        "letra": "C",
+        "texto": "O Estado responde solidariamente com o comerciante em razão do risco da atividade, independentemente de qualquer análise sobre o dever de fiscalizar."
+      },
+      {
+        "letra": "D",
+        "texto": "Para que fique caracterizada a responsabilidade civil do Estado por danos decorrentes do comércio de fogos de artifício, é necessário que exista a violação de dever jurídico específico de agir, o que ocorre quando notório o poder do Estado para impedir o dano ou quando presente a omissão do dever de fiscalizar."
+      },
+      {
+        "letra": "E",
+        "texto": "A responsabilidade estatal, nesse caso, submete-se à teoria do risco integral, por envolver atividade perigosa autorizada pelo Poder Público."
+      }
     ],
-    "gabarito": "B",
-    "comentario": "A alternativa B corresponde à tese fixada pelo STF no RE 136.861 (Tema 366), que condiciona a responsabilização à violação de dever jurídico específico de agir. A alternativa A dispensa a análise da omissão específica, transformando toda competência fiscalizatória em garantia universal contra danos. A alternativa C afirma solidariedade automática fundada no risco da atividade privada, tese não acolhida para o Poder Público fiscalizador. A alternativa D exclui de modo absoluto a responsabilidade, contrariando a própria tese, que admite a responsabilização em caso de omissão do dever de fiscalizar. A alternativa E aplica o risco integral, reservado a hipóteses excepcionais como dano nuclear e dano ambiental.",
+    "gabarito": "D",
+    "comentario": "A alternativa D corresponde à tese fixada pelo STF no RE 136.861 (Tema 366), que condiciona a responsabilização à violação de dever jurídico específico de agir. A alternativa A dispensa a análise da omissão específica, transformando toda competência fiscalizatória em garantia universal contra danos. A alternativa C afirma solidariedade automática fundada no risco da atividade privada, tese não acolhida para o Poder Público fiscalizador. A alternativa B exclui de modo absoluto a responsabilidade, contrariando a própria tese, que admite a responsabilização em caso de omissão do dever de fiscalizar. A alternativa E aplica o risco integral, reservado a hipóteses excepcionais como dano nuclear e dano ambiental.",
     "fundamentacaoLegal": "CF/88, art. 37, § 6º; STF, RE 136.861/SP, Tema 366 de repercussão geral."
   },
   {
@@ -448,14 +838,29 @@
     "dificuldade": "media",
     "enunciado": "Sobre a extensão do dano indenizável e a denunciação da lide ao agente público na ação de responsabilidade civil do Estado, assinale a alternativa correta.",
     "alternativas": [
-      { "letra": "A", "texto": "A indenização abrange apenas o dano emergente, sendo incabível a condenação em lucros cessantes contra a Fazenda Pública." },
-      { "letra": "B", "texto": "A indenização mede-se pela extensão do dano, abrangendo danos emergentes, lucros cessantes e dano moral; quanto à denunciação da lide ao agente, prevalece o entendimento de que ela é facultativa, podendo ser indeferida quando implicar a introdução de fundamento novo, de natureza subjetiva, na lide objetiva instaurada contra o Estado." },
-      { "letra": "C", "texto": "A denunciação da lide ao agente público é obrigatória, sob pena de perda do direito de regresso pelo ente público." },
-      { "letra": "D", "texto": "É vedada a cumulação de indenização por dano material e dano moral decorrentes do mesmo fato imputado ao Estado." },
-      { "letra": "E", "texto": "A condenação do Estado limita-se ao valor do dano material efetivamente comprovado, sendo o dano moral, contra a Fazenda Pública, presumido e fixado em salários mínimos." }
+      {
+        "letra": "A",
+        "texto": "A indenização abrange apenas o dano emergente, sendo incabível a condenação em lucros cessantes contra a Fazenda Pública."
+      },
+      {
+        "letra": "B",
+        "texto": "A condenação do Estado limita-se ao valor do dano material efetivamente comprovado, sendo o dano moral, contra a Fazenda Pública, presumido e fixado em salários mínimos."
+      },
+      {
+        "letra": "C",
+        "texto": "A denunciação da lide ao agente público é obrigatória, sob pena de perda do direito de regresso pelo ente público."
+      },
+      {
+        "letra": "D",
+        "texto": "É vedada a cumulação de indenização por dano material e dano moral decorrentes do mesmo fato imputado ao Estado."
+      },
+      {
+        "letra": "E",
+        "texto": "A indenização mede-se pela extensão do dano, abrangendo danos emergentes, lucros cessantes e dano moral; quanto à denunciação da lide ao agente, prevalece o entendimento de que ela é facultativa, podendo ser indeferida quando implicar a introdução de fundamento novo, de natureza subjetiva, na lide objetiva instaurada contra o Estado."
+      }
     ],
-    "gabarito": "B",
-    "comentario": "A alternativa B combina corretamente o art. 944 do Código Civil (a indenização mede-se pela extensão do dano) com a orientação jurisprudencial predominante sobre a facultatividade da denunciação da lide ao agente, que pode ser indeferida para não retardar a solução da lide objetiva. A alternativa A exclui os lucros cessantes sem base legal. A alternativa C torna obrigatória a denunciação e cria sanção de perda do direito de regresso, inexistente, pois o regresso pode ser buscado em ação autônoma. A alternativa D contraria a Súmula 37 do STJ, que admite a cumulação de danos material e moral oriundos do mesmo fato. A alternativa E é incorreta quanto à presunção e à fixação obrigatória em salários mínimos, critério não adotado pelo ordenamento.",
+    "gabarito": "E",
+    "comentario": "A alternativa E combina corretamente o art. 944 do Código Civil (a indenização mede-se pela extensão do dano) com a orientação jurisprudencial predominante sobre a facultatividade da denunciação da lide ao agente, que pode ser indeferida para não retardar a solução da lide objetiva. A alternativa A exclui os lucros cessantes sem base legal. A alternativa C torna obrigatória a denunciação e cria sanção de perda do direito de regresso, inexistente, pois o regresso pode ser buscado em ação autônoma. A alternativa D contraria a Súmula 37 do STJ, que admite a cumulação de danos material e moral oriundos do mesmo fato. A alternativa B é incorreta quanto à presunção e à fixação obrigatória em salários mínimos, critério não adotado pelo ordenamento.",
     "fundamentacaoLegal": "Código Civil, arts. 402 e 944; CPC, art. 125, II; Súmula 37 do STJ; CF/88, art. 37, § 6º."
   },
   {
@@ -465,11 +870,26 @@
     "dificuldade": "dificil",
     "enunciado": "Sobre a responsabilidade civil do Estado por dano ambiental decorrente de omissão no dever de fiscalização, segundo a jurisprudência do Superior Tribunal de Justiça, é correto afirmar que:",
     "alternativas": [
-      { "letra": "A", "texto": "a responsabilidade do Estado é solidária com a do degradador direto, mas de execução subsidiária, de modo que o ente público figura como devedor-reserva, acionado apenas se o causador direto não satisfizer a obrigação." },
-      { "letra": "B", "texto": "a responsabilidade do Estado é exclusiva e primária, exonerando o degradador direto da obrigação de reparar." },
-      { "letra": "C", "texto": "não há responsabilidade estatal por dano ambiental, pois a obrigação de reparar recai unicamente sobre o poluidor, nos termos da legislação ambiental." },
-      { "letra": "D", "texto": "a responsabilidade do Estado é subjetiva e exige a demonstração de dolo do agente fiscalizador." },
-      { "letra": "E", "texto": "a pretensão de reparação do dano ambiental prescreve em cinco anos, contados da data do fato gerador do dano." }
+      {
+        "letra": "A",
+        "texto": "a responsabilidade do Estado é solidária com a do degradador direto, mas de execução subsidiária, de modo que o ente público figura como devedor-reserva, acionado apenas se o causador direto não satisfizer a obrigação."
+      },
+      {
+        "letra": "B",
+        "texto": "a responsabilidade do Estado é exclusiva e primária, exonerando o degradador direto da obrigação de reparar."
+      },
+      {
+        "letra": "C",
+        "texto": "não há responsabilidade estatal por dano ambiental, pois a obrigação de reparar recai unicamente sobre o poluidor, nos termos da legislação ambiental."
+      },
+      {
+        "letra": "D",
+        "texto": "a responsabilidade do Estado é subjetiva e exige a demonstração de dolo do agente fiscalizador."
+      },
+      {
+        "letra": "E",
+        "texto": "a pretensão de reparação do dano ambiental prescreve em cinco anos, contados da data do fato gerador do dano."
+      }
     ],
     "gabarito": "A",
     "comentario": "A alternativa A reproduz a orientação consolidada do STJ, segundo a qual o Estado que se omite no dever de fiscalização responde solidariamente pelo dano ambiental, mas com execução subsidiária, atuando como devedor-reserva. A alternativa B exonera o poluidor direto, contrariando o princípio do poluidor-pagador e o art. 14, § 1º, da Lei nº 6.938/1981. A alternativa C nega qualquer responsabilidade estatal, desconsiderando a jurisprudência firmada. A alternativa D exige dolo, elemento não requerido. A alternativa E contraria o entendimento do STF e do STJ, que reconhecem a imprescritibilidade da pretensão de reparação civil de dano ambiental (STF, RE 654.833, Tema 999).",
@@ -482,14 +902,29 @@
     "dificuldade": "media",
     "enunciado": "Transitada em julgado sentença que condena o Município ao pagamento de indenização por danos causados por seus agentes, quanto à forma de satisfação do crédito, assinale a alternativa correta.",
     "alternativas": [
-      { "letra": "A", "texto": "Os pagamentos devidos pelas Fazendas Públicas em virtude de sentença judiciária far-se-ão exclusivamente na ordem cronológica de apresentação dos precatórios, admitida a expedição de requisição de pequeno valor nas hipóteses definidas em lei." },
-      { "letra": "B", "texto": "A execução contra a Fazenda Pública municipal admite penhora de bens públicos de uso comum do povo para satisfação do crédito." },
-      { "letra": "C", "texto": "O pagamento independe de inclusão orçamentária, devendo ser feito imediatamente após o trânsito em julgado, sob pena de sequestro automático de receitas." },
-      { "letra": "D", "texto": "Os créditos de natureza alimentícia perdem a precedência sobre os demais quando o devedor for Município com população inferior a duzentos mil habitantes." },
-      { "letra": "E", "texto": "Em nenhuma hipótese é possível o pagamento fora do regime de precatórios, sendo vedada a requisição de pequeno valor contra Municípios." }
+      {
+        "letra": "A",
+        "texto": "O pagamento independe de inclusão orçamentária, devendo ser feito imediatamente após o trânsito em julgado, sob pena de sequestro automático de receitas."
+      },
+      {
+        "letra": "B",
+        "texto": "A execução contra a Fazenda Pública municipal admite penhora de bens públicos de uso comum do povo para satisfação do crédito."
+      },
+      {
+        "letra": "C",
+        "texto": "Os pagamentos devidos pelas Fazendas Públicas em virtude de sentença judiciária far-se-ão exclusivamente na ordem cronológica de apresentação dos precatórios, admitida a expedição de requisição de pequeno valor nas hipóteses definidas em lei."
+      },
+      {
+        "letra": "D",
+        "texto": "Os créditos de natureza alimentícia perdem a precedência sobre os demais quando o devedor for Município com população inferior a duzentos mil habitantes."
+      },
+      {
+        "letra": "E",
+        "texto": "Em nenhuma hipótese é possível o pagamento fora do regime de precatórios, sendo vedada a requisição de pequeno valor contra Municípios."
+      }
     ],
-    "gabarito": "A",
-    "comentario": "A alternativa A reproduz a sistemática do art. 100, caput e § 3º, da CF/88, que autoriza o pagamento por requisição de pequeno valor nas obrigações definidas em lei como de pequeno valor. A alternativa B contraria a impenhorabilidade dos bens públicos, característica reconhecida pelo regime jurídico administrativo. A alternativa C dispensa a inclusão orçamentária, exigida pelo art. 100, § 5º, da CF/88, e prevê sequestro automático, medida cabível apenas em hipóteses específicas de preterição da ordem ou de não alocação orçamentária (art. 100, § 6º). A alternativa D retira a preferência dos créditos alimentares por critério populacional inexistente na Constituição. A alternativa E veda a requisição de pequeno valor contra Municípios, contrariando o art. 100, §§ 3º e 4º, que permite a cada ente fixar seus valores por lei própria.",
+    "gabarito": "C",
+    "comentario": "A alternativa C reproduz a sistemática do art. 100, caput e § 3º, da CF/88, que autoriza o pagamento por requisição de pequeno valor nas obrigações definidas em lei como de pequeno valor. A alternativa B contraria a impenhorabilidade dos bens públicos, característica reconhecida pelo regime jurídico administrativo. A alternativa A dispensa a inclusão orçamentária, exigida pelo art. 100, § 5º, da CF/88, e prevê sequestro automático, medida cabível apenas em hipóteses específicas de preterição da ordem ou de não alocação orçamentária (art. 100, § 6º). A alternativa D retira a preferência dos créditos alimentares por critério populacional inexistente na Constituição. A alternativa E veda a requisição de pequeno valor contra Municípios, contrariando o art. 100, §§ 3º e 4º, que permite a cada ente fixar seus valores por lei própria.",
     "fundamentacaoLegal": "CF/88, art. 100, caput e §§ 1º, 3º, 4º, 5º e 6º."
   },
   {
@@ -499,11 +934,26 @@
     "dificuldade": "dificil",
     "enunciado": "Motorista particular, trafegando acima da velocidade permitida e sem cinto de segurança, colide com viatura municipal cujo condutor avançou sinal vermelho sem acionar os dispositivos sonoros e luminosos de emergência. Comprovado que ambos concorreram para o evento, assinale a alternativa correta.",
     "alternativas": [
-      { "letra": "A", "texto": "A culpa concorrente da vítima exclui integralmente o dever de indenizar do Município, por romper o nexo de causalidade." },
-      { "letra": "B", "texto": "A culpa concorrente da vítima é irrelevante no regime da responsabilidade objetiva, devendo a indenização ser fixada pela integralidade do dano." },
-      { "letra": "C", "texto": "A concorrência de culpas atenua o dever de indenizar do Município, devendo a indenização ser fixada considerando a gravidade da culpa da vítima em confronto com a do causador do dano." },
-      { "letra": "D", "texto": "A responsabilidade do Município torna-se subjetiva pela simples alegação de culpa concorrente, cabendo à vítima provar a culpa do condutor da viatura." },
-      { "letra": "E", "texto": "O Município fica isento de responsabilidade sempre que o particular houver infringido norma de trânsito, ainda que a conduta estatal tenha sido causa preponderante do dano." }
+      {
+        "letra": "A",
+        "texto": "A culpa concorrente da vítima exclui integralmente o dever de indenizar do Município, por romper o nexo de causalidade."
+      },
+      {
+        "letra": "B",
+        "texto": "A culpa concorrente da vítima é irrelevante no regime da responsabilidade objetiva, devendo a indenização ser fixada pela integralidade do dano."
+      },
+      {
+        "letra": "C",
+        "texto": "A concorrência de culpas atenua o dever de indenizar do Município, devendo a indenização ser fixada considerando a gravidade da culpa da vítima em confronto com a do causador do dano."
+      },
+      {
+        "letra": "D",
+        "texto": "A responsabilidade do Município torna-se subjetiva pela simples alegação de culpa concorrente, cabendo à vítima provar a culpa do condutor da viatura."
+      },
+      {
+        "letra": "E",
+        "texto": "O Município fica isento de responsabilidade sempre que o particular houver infringido norma de trânsito, ainda que a conduta estatal tenha sido causa preponderante do dano."
+      }
     ],
     "gabarito": "C",
     "comentario": "A alternativa C está de acordo com o art. 945 do Código Civil, aplicável à responsabilidade estatal: havendo culpa da vítima concorrente com a do causador do dano, a indenização é fixada tendo-se em conta a gravidade de sua culpa em confronto com a do autor do dano. A alternativa A confunde culpa concorrente com culpa exclusiva, única apta a romper integralmente o nexo. A alternativa B ignora o art. 945 e a construção jurisprudencial que admite a atenuação também no regime objetivo. A alternativa D altera o regime de responsabilidade por mera alegação defensiva, invertendo indevidamente o ônus da prova. A alternativa E generaliza a exclusão a partir de infração de trânsito da vítima, desconsiderando a análise da causa preponderante do evento.",
