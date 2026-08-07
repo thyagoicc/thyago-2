@@ -1,6 +1,6 @@
 const STORAGE_STATS_KEY = "idecan-gerador-stats";
-const STORAGE_HISTORICO_KEY = "idecan-gerador-historico";
-const MAX_HISTORICO = 8;
+const STORAGE_VISTAS_KEY = "idecan-gerador-vistas";
+const MAX_VISTAS = 600;
 
 const el = {
   topicosList: document.getElementById("topicosList"),
@@ -53,19 +53,19 @@ function atualizarStatsUI() {
   el.statPercentual.textContent = `${pct}%`;
 }
 
-function carregarHistorico() {
+function carregarVistas() {
   try {
-    return JSON.parse(localStorage.getItem(STORAGE_HISTORICO_KEY)) || [];
+    return JSON.parse(localStorage.getItem(STORAGE_VISTAS_KEY)) || [];
   } catch {
     return [];
   }
 }
 
-function registrarHistorico(topico, enunciado) {
-  const historico = carregarHistorico();
-  historico.push(`[${topico}] ${enunciado.slice(0, 140)}`);
-  while (historico.length > MAX_HISTORICO) historico.shift();
-  localStorage.setItem(STORAGE_HISTORICO_KEY, JSON.stringify(historico));
+function registrarVista(id) {
+  const vistas = carregarVistas();
+  if (!vistas.includes(id)) vistas.push(id);
+  while (vistas.length > MAX_VISTAS) vistas.shift();
+  localStorage.setItem(STORAGE_VISTAS_KEY, JSON.stringify(vistas));
 }
 
 async function carregarTopicos() {
@@ -76,7 +76,7 @@ async function carregarTopicos() {
     const label = document.createElement("label");
     label.className = "topico-item";
     label.title = t.descricao;
-    label.innerHTML = `<input type="checkbox" value="${t.id}" checked /> <span>${t.nome}</span>`;
+    label.innerHTML = `<input type="checkbox" value="${t.id}" checked /> <span>${t.nome} <small>(${t.totalQuestoes ?? 0})</small></span>`;
     el.topicosList.appendChild(label);
   });
 }
@@ -102,26 +102,26 @@ async function gerarQuestao() {
 
   const topicoIds = getTopicosSelecionados();
   const dificuldade = getDificuldadeSelecionada();
-  const temasRecentes = carregarHistorico();
+  const excluirIds = carregarVistas();
 
   try {
     const res = await fetch("/api/questao", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ topicoIds, dificuldade, temasRecentes }),
+      body: JSON.stringify({ topicoIds, dificuldade, excluirIds }),
     });
 
     const data = await res.json();
 
     if (!res.ok) {
-      throw new Error(data.erro || "Erro ao gerar questão.");
+      throw new Error(data.erro || "Erro ao buscar questão.");
     }
 
     questaoAtual = data;
     respondida = false;
     alternativaSelecionada = null;
     renderQuestao(data);
-    registrarHistorico(data.topico || "Direito Administrativo", data.enunciado);
+    registrarVista(data.id);
     setState("questao");
   } catch (err) {
     el.erro.textContent = err.message || "Não foi possível gerar a questão. Tente novamente.";
@@ -135,6 +135,11 @@ function renderQuestao(q) {
   el.badgeTopico.textContent = q.topico || "Direito Administrativo";
   el.badgeDificuldade.textContent = q.dificuldade === "dificil" ? "Difícil" : "Média";
   el.enunciado.textContent = q.enunciado;
+
+  const badgeReiniciado = document.getElementById("badgeReiniciado");
+  if (badgeReiniciado) {
+    badgeReiniciado.classList.toggle("hidden", !q.reiniciado);
+  }
 
   el.alternativas.innerHTML = "";
   q.alternativas.forEach((alt) => {

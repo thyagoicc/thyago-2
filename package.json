@@ -1,7 +1,7 @@
 {
   "name": "gerador-questoes-idecan-direito-administrativo",
   "version": "1.0.0",
-  "description": "Gerador de questões em tempo real, no padrão da banca IDECAN, de Direito Administrativo para o concurso de Auditor Fiscal de Campina Grande/PB (Edital 01/2026).",
+  "description": "Banco de 30 questões por tópico, no padrão da banca IDECAN, de Direito Administrativo para o concurso de Auditor Fiscal de Campina Grande/PB (Edital 01/2026).",
   "type": "module",
   "private": true,
   "scripts": {
@@ -9,8 +9,6 @@
     "dev": "node --watch server.js"
   },
   "dependencies": {
-    "@anthropic-ai/sdk": "^0.32.1",
-    "dotenv": "^16.4.5",
     "express": "^4.21.1"
   }
 }

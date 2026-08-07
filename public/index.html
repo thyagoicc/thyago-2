@@ -50,11 +50,12 @@
         </div>
       </div>
 
-      <button id="btnGerar" class="btn btn--primary btn--block">Gerar questão</button>
+      <button id="btnGerar" class="btn btn--primary btn--block">Sortear questão</button>
       <p class="disclaimer">
-        As questões são geradas em tempo real por IA, reproduzindo o padrão de
-        redação da banca IDECAN. Não são itens reais de provas aplicadas —
-        use como treino complementar de estilo e conteúdo.
+        Banco fixo de 30 questões por tópico (600 no total), elaboradas para
+        reproduzir o padrão de redação da banca IDECAN. Não são itens reais
+        de provas aplicadas — use como treino complementar de estilo e
+        conteúdo.
       </p>
     </aside>
 
@@ -65,7 +66,7 @@
 
       <div id="loading" class="loading-state hidden">
         <div class="spinner"></div>
-        <p>Gerando questão no padrão IDECAN…</p>
+        <p>Buscando questão…</p>
       </div>
 
       <div id="erro" class="erro-state hidden"></div>
@@ -76,6 +77,7 @@
           <span class="badge badge--cargo">Auditor Fiscal · Campina Grande/PB · 2026</span>
           <span id="badgeTopico" class="badge badge--topico"></span>
           <span id="badgeDificuldade" class="badge badge--dificuldade"></span>
+          <span id="badgeReiniciado" class="badge badge--info hidden" title="Você já viu todas as questões desse filtro; o ciclo recomeçou.">Ciclo reiniciado</span>
         </div>
 
         <p id="enunciado" class="questao-card__enunciado"></p>

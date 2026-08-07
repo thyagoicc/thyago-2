@@ -1,48 +1,54 @@
 # Gerador de Questões — Direito Administrativo (estilo IDECAN)
 
-Aplicativo web simples que **gera questões de concurso em tempo real**, no
-estilo visual do Qconcursos/TecConcursos, reproduzindo o padrão de redação da
-banca **IDECAN**, focado em **Direito Administrativo** para o concurso de
-**Auditor Fiscal da Receita Municipal — Prefeitura de Campina Grande/PB**
-(Edital nº 01/2026, prova em 30/08/2026).
+Aplicativo web simples, no estilo visual do Qconcursos/TecConcursos, com um
+**banco fixo de 600 questões** (30 por tópico × 20 tópicos) de Direito
+Administrativo, escritas para reproduzir o padrão de redação da banca
+**IDECAN**, voltado ao concurso de **Auditor Fiscal da Receita Municipal —
+Prefeitura de Campina Grande/PB** (Edital nº 01/2026, prova em 30/08/2026).
 
-Cada questão é gerada na hora por um modelo de linguagem (Claude, via API da
-Anthropic), a partir de um "guia de estilo" que descreve com detalhe como a
-IDECAN costuma redigir enunciados e alternativas. Não é um banco de questões
-estático: a cada clique em "Gerar questão" uma questão nova é criada.
+Não há chamadas a nenhuma API de IA em tempo de execução: as questões já
+estão escritas e salvas em arquivos JSON no repositório. O servidor apenas
+sorteia uma questão do banco, respeitando os filtros de tópico/dificuldade
+escolhidos e evitando repetir questões já vistas na sessão. **Não é
+necessária nenhuma chave de API para rodar o app.**
 
 ## Como funciona
 
-- **Backend** (`server.js`, Express): recebe o pedido do frontend, monta um
-  prompt combinando o guia de estilo da IDECAN + o(s) tópico(s) escolhido(s)
-  + o nível de dificuldade, chama a API da Anthropic e devolve a questão em
-  JSON (enunciado, 5 alternativas, gabarito, comentário e fundamentação
-  legal).
+- **Backend** (`server.js`, Express): carrega os arquivos JSON de
+  `data/questoes/<topicoId>.json` na memória ao iniciar e expõe:
+  - `GET /api/topicos` — lista de tópicos com a contagem de questões de cada
+    um;
+  - `POST /api/questao` — recebe `{ topicoIds, dificuldade, excluirIds }` e
+    devolve uma questão sorteada dentre as que casam com o filtro e ainda
+    não foram vistas (quando todas já foram vistas, reinicia o ciclo).
 - **Frontend** (`public/`): página única, sem framework, com sidebar de
   filtros (tópico e dificuldade), cartão de questão com alternativas
   clicáveis, correção instantânea e estatísticas de acertos/erros salvas no
-  `localStorage` do navegador.
+  `localStorage` do navegador (que também guarda quais questões já foram
+  vistas, para não repetir).
 
 ## Sobre o padrão IDECAN usado (transparência)
 
 O arquivo [`lib/idecanStyleGuide.js`](lib/idecanStyleGuide.js) descreve o
-padrão de redação que o modelo deve seguir: 5 alternativas (A–E), comandos de
-enunciado típicos da banca ("Assinale a alternativa correta", situações
-hipotéticas curtas, etc.), literalidade da lei como base das questões,
-técnicas de "pegadinha" recorrentes (troca de institutos parecidos, inversão
-de regra/exceção, prazos e competências trocados) e exigência de dificuldade
-média/difícil, compatível com o nível de um cargo de Auditor Fiscal.
+padrão de redação seguido ao escrever as questões: 5 alternativas (A–E),
+comandos de enunciado típicos da banca ("Assinale a alternativa correta",
+situações hipotéticas curtas, etc.), literalidade da lei como base das
+questões, técnicas de "pegadinha" recorrentes (troca de institutos
+parecidos, inversão de regra/exceção, prazos e competências trocados) e
+dificuldade média/difícil, compatível com o nível de um cargo de Auditor
+Fiscal.
 
 Esse guia foi construído a partir das características **consolidadas e bem
-documentadas** do estilo de redação da IDECAN em concursos de nível superior.
-Durante a criação deste projeto, o PDF oficial do edital 01/2026 de Campina
-Grande/PB (hospedado em `concurso.idecan.org.br`) bloqueou o download
-automatizado (HTTP 403), então **não há provas reais da banca embutidas ou
-copiadas no app** — as questões geradas são inéditas, no estilo da banca, não
-itens de provas aplicadas. Se você tiver PDFs de provas reais da IDECAN e
-quiser calibrar ainda mais o padrão, edite `lib/idecanStyleGuide.js` com
-observações adicionais (ex.: colar trechos de enunciados reais como
-referência de tom).
+documentadas** do estilo de redação da IDECAN em concursos de nível
+superior. Durante a criação deste projeto, o PDF oficial do edital 01/2026
+de Campina Grande/PB (hospedado em `concurso.idecan.org.br`) bloqueou o
+download automatizado (HTTP 403), então **não há provas reais da banca
+embutidas ou copiadas no app** — todas as 600 questões são inéditas, no
+estilo da banca, escritas com base em legislação, jurisprudência e doutrina
+reais, mas não são itens de provas aplicadas. Se você tiver PDFs de provas
+reais da IDECAN e quiser calibrar ainda mais o padrão, use
+`lib/idecanStyleGuide.js` como referência de tom ao revisar/reescrever
+questões em `data/questoes/`.
 
 O conteúdo programático de Direito Administrativo em
 [`lib/topicos.js`](lib/topicos.js) segue os tópicos clássicos dessa
@@ -56,58 +62,69 @@ livremente caso o anexo oficial do edital detalhe itens diferentes.
 ## Pré-requisitos
 
 - Node.js 18+
-- Uma chave de API da Anthropic (https://console.anthropic.com/)
 
 ## Instalação e execução
 
 ```bash
 npm install
-cp .env.example .env
-# edite .env e defina ANTHROPIC_API_KEY=sk-ant-...
 npm start
 ```
 
 Acesse `http://localhost:3000`.
 
-Variáveis de ambiente (`.env`):
-
-| Variável            | Obrigatória | Descrição                                             |
-|---------------------|:-----------:|---------------------------------------------------------|
-| `ANTHROPIC_API_KEY` | Sim         | Chave da API da Anthropic usada para gerar as questões. |
-| `ANTHROPIC_MODEL`   | Não         | Modelo a usar (padrão: `claude-sonnet-5`).               |
-| `PORT`              | Não         | Porta do servidor (padrão: `3000`).                      |
-
-Sem `ANTHROPIC_API_KEY`, o app sobe normalmente e mostra os tópicos, mas o
-botão "Gerar questão" retorna um erro explicando que a chave precisa ser
-configurada.
-
 ## Uso
 
 1. Escolha a dificuldade (média, difícil, ou sorteada entre as duas).
 2. Marque os tópicos de Direito Administrativo desejados (todos vêm marcados
-   por padrão).
-3. Clique em **Gerar questão**.
+   por padrão, com a contagem de questões de cada um entre parênteses).
+3. Clique em **Sortear questão**.
 4. Selecione uma alternativa e clique em **Responder** para ver o gabarito,
    o comentário explicativo e a fundamentação legal.
 5. Clique em **Próxima questão** para continuar treinando. As estatísticas
    de acertos/erros ficam salvas no navegador (botão **Zerar** limpa o
-   histórico).
+   histórico). Quando todas as questões de um filtro já tiverem sido vistas,
+   o app avisa com o rótulo "Ciclo reiniciado" e volta a sorteá-las.
 
 ## Estrutura do projeto
 
 ```
-server.js                 servidor Express + endpoint /api/questao
-lib/topicos.js             conteúdo programático de Direito Administrativo
-lib/idecanStyleGuide.js    guia de estilo da banca IDECAN (prompt de sistema)
-lib/promptBuilder.js       monta o prompt enviado ao modelo
-public/index.html          página única do app
-public/styles.css          estilo visual (inspirado em Qconcursos/TecConcursos)
-public/app.js               lógica do frontend (fetch, estado, estatísticas)
+server.js                    servidor Express + endpoint /api/questao (sorteio no banco estático)
+lib/topicos.js                conteúdo programático de Direito Administrativo (20 tópicos)
+lib/idecanStyleGuide.js       guia de estilo da banca IDECAN usado na redação das questões
+data/questoes/<topicoId>.json banco de 30 questões por tópico (20 arquivos, 600 questões)
+public/index.html             página única do app
+public/styles.css             estilo visual (inspirado em Qconcursos/TecConcursos)
+public/app.js                  lógica do frontend (fetch, estado, estatísticas, controle de repetição)
+```
+
+## Ampliando o banco
+
+Para adicionar mais questões a um tópico, edite o array JSON correspondente
+em `data/questoes/<topicoId>.json`, seguindo o schema:
+
+```json
+{
+  "id": "ato-administrativo-31",
+  "topicoId": "ato-administrativo",
+  "topico": "Ato administrativo",
+  "dificuldade": "media",
+  "enunciado": "...",
+  "alternativas": [
+    { "letra": "A", "texto": "..." },
+    { "letra": "B", "texto": "..." },
+    { "letra": "C", "texto": "..." },
+    { "letra": "D", "texto": "..." },
+    { "letra": "E", "texto": "..." }
+  ],
+  "gabarito": "C",
+  "comentario": "...",
+  "fundamentacaoLegal": "..."
+}
 ```
 
 ## Aviso legal
 
-As questões são geradas por inteligência artificial para fins de estudo e
-treino de estilo. Não têm vínculo oficial com a IDECAN, com a Prefeitura de
-Campina Grande ou com o edital 01/2026, e não substituem a leitura do edital
-oficial e do material didático especializado.
+As questões foram elaboradas com apoio de inteligência artificial para fins
+de estudo e treino de estilo. Não têm vínculo oficial com a IDECAN, com a
+Prefeitura de Campina Grande ou com o edital 01/2026, e não substituem a
+leitura do edital oficial e do material didático especializado.
