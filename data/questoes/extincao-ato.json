@@ -1,0 +1,512 @@
+[
+  {
+    "id": "extincao-ato-01",
+    "topicoId": "extincao-ato",
+    "topico": "Extinção e controle do ato administrativo",
+    "dificuldade": "media",
+    "enunciado": "A Súmula 473 do Supremo Tribunal Federal é o principal enunciado sumular sobre a autotutela administrativa. Assinale a alternativa que reproduz corretamente o seu conteúdo.",
+    "alternativas": [
+      { "letra": "A", "texto": "A Administração pode anular seus próprios atos quando eivados de vícios que os tornem ilegais, porque deles não se originam direitos; e pode revogá-los por motivo de conveniência ou oportunidade, ainda que desrespeitados os direitos adquiridos, ressalvada a apreciação judicial." },
+      { "letra": "B", "texto": "A Administração deve revogar seus próprios atos quando eivados de vícios que os tornem ilegais e pode anulá-los por motivo de conveniência ou oportunidade, respeitados os direitos adquiridos." },
+      { "letra": "C", "texto": "A Administração pode anular seus próprios atos quando eivados de vícios que os tornem ilegais, porque deles não se originam direitos; ou revogá-los por motivo de conveniência ou oportunidade, respeitados os direitos adquiridos, e ressalvada, em todos os casos, a apreciação judicial." },
+      { "letra": "D", "texto": "A Administração pode anular seus próprios atos ainda que deles tenham decorrido direitos adquiridos, sendo vedada, nessa hipótese, a apreciação judicial da matéria." },
+      { "letra": "E", "texto": "A Administração pode revogar atos ilegais com efeitos retroativos, respeitados os direitos adquiridos e ressalvada, em todos os casos, a apreciação judicial." }
+    ],
+    "gabarito": "C",
+    "comentario": "C (correta): reproduz fielmente a Súmula 473 do STF. A (errada): a súmula ressalva expressamente os direitos adquiridos como limite à revogação; a alternativa inverte esse limite. B (errada): há troca de institutos — anula-se por ilegalidade e revoga-se por conveniência e oportunidade, e não o contrário. D (errada): o direito adquirido é limite à retirada do ato, e a apreciação judicial é sempre ressalvada (CF/88, art. 5º, XXXV). E (errada): a revogação não recai sobre atos ilegais nem produz efeitos retroativos; seus efeitos são ex nunc.",
+    "fundamentacaoLegal": "Súmula 473 do STF; CF/88, art. 5º, XXXV."
+  },
+  {
+    "id": "extincao-ato-02",
+    "topicoId": "extincao-ato",
+    "topico": "Extinção e controle do ato administrativo",
+    "dificuldade": "media",
+    "enunciado": "Sobre a Súmula 346 do Supremo Tribunal Federal, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "Enuncia que a Administração Pública pode declarar a nulidade dos seus próprios atos, consagrando o princípio da autotutela e dispensando prévia manifestação do Poder Judiciário." },
+      { "letra": "B", "texto": "Enuncia que somente o Poder Judiciário pode declarar a nulidade dos atos administrativos, em respeito à separação dos poderes." },
+      { "letra": "C", "texto": "Enuncia que a Administração deve indenizar o particular em toda e qualquer hipótese de anulação de ato ampliativo de direitos." },
+      { "letra": "D", "texto": "Fixa em cinco anos o prazo decadencial para a anulação dos atos administrativos de que decorram efeitos favoráveis aos destinatários." },
+      { "letra": "E", "texto": "Foi integralmente superada pela Lei nº 9.784/1999, que transferiu ao Poder Judiciário o exame da nulidade dos atos administrativos." }
+    ],
+    "gabarito": "A",
+    "comentario": "A (correta): a Súmula 346 do STF dispõe que 'a Administração Pública pode declarar a nulidade dos seus próprios atos', sendo o fundamento sumular clássico da autotutela, posteriormente reforçado pela Súmula 473 e pelo art. 53 da Lei nº 9.784/1999. B (errada): é justamente o oposto do enunciado sumular. C (errada): a súmula não trata de indenização; eventual dever de indenizar depende da comprovação de dano e das regras do art. 37, §6º, da CF/88. D (errada): o prazo quinquenal está no art. 54 da Lei nº 9.784/1999, não na Súmula 346. E (errada): a Lei nº 9.784/1999 confirmou a autotutela (art. 53), em vez de superá-la.",
+    "fundamentacaoLegal": "Súmula 346 do STF; Súmula 473 do STF; Lei nº 9.784/1999, art. 53."
+  },
+  {
+    "id": "extincao-ato-03",
+    "topicoId": "extincao-ato",
+    "topico": "Extinção e controle do ato administrativo",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre os efeitos da anulação do ato administrativo, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A anulação produz efeitos ex nunc, preservando integralmente as situações constituídas sob a vigência do ato viciado." },
+      { "letra": "B", "texto": "A anulação de ato ampliativo autoriza, em qualquer caso, a devolução ao erário dos valores recebidos pelo beneficiário de boa-fé." },
+      { "letra": "C", "texto": "Os efeitos da anulação são idênticos aos da revogação, uma vez que ambas são formas de retirada do ato e retroagem à data de sua edição." },
+      { "letra": "D", "texto": "A anulação opera, em regra, efeitos retroativos (ex tunc), desconstituindo os efeitos já produzidos, ressalvados os direitos de terceiros de boa-fé; quanto a verbas de natureza alimentar recebidas de boa-fé em razão de errônea interpretação da lei pela Administração, o STJ afasta a devolução." },
+      { "letra": "E", "texto": "A anulação, por recair sobre ato ilegal, dispensa a observância do contraditório mesmo quando repercuta desfavoravelmente na esfera jurídica do administrado." }
+    ],
+    "gabarito": "D",
+    "comentario": "D (correta): a regra é a retroatividade da anulação, com a ressalva clássica dos terceiros de boa-fé; e, no julgamento do REsp 1.244.182/PB (Tema 531, rito dos repetitivos), o STJ firmou que é incabível a devolução de valores de natureza alimentar recebidos de boa-fé pelo servidor em virtude de interpretação equivocada da lei pela Administração. A (errada): os efeitos ex nunc são próprios da revogação. B (errada): contraria o entendimento consolidado do STJ quanto à boa-fé e à natureza alimentar da verba. C (errada): anulação e revogação diferem no pressuposto (ilegalidade x conveniência) e nos efeitos (ex tunc x ex nunc). E (errada): a anulação de ato que afete interesses do administrado exige processo com contraditório e ampla defesa (CF/88, art. 5º, LV; Lei nº 9.784/1999, art. 2º, parágrafo único, X).",
+    "fundamentacaoLegal": "Súmula 473 do STF; Lei nº 9.784/1999, arts. 53 e 2º, parágrafo único, X; STJ, REsp 1.244.182/PB (Tema 531)."
+  },
+  {
+    "id": "extincao-ato-04",
+    "topicoId": "extincao-ato",
+    "topico": "Extinção e controle do ato administrativo",
+    "dificuldade": "media",
+    "enunciado": "A revogação do ato administrativo:",
+    "alternativas": [
+      { "letra": "A", "texto": "pressupõe vício de legalidade no ato revogado e produz efeitos retroativos à data de sua edição." },
+      { "letra": "B", "texto": "recai sobre ato válido e conveniente à época em que editado, funda-se em juízo posterior de conveniência e oportunidade e produz efeitos prospectivos (ex nunc)." },
+      { "letra": "C", "texto": "pode ser determinada pelo Poder Judiciário, no exercício de sua função jurisdicional típica, sempre que reputar inconveniente o ato praticado pelo Executivo." },
+      { "letra": "D", "texto": "alcança os atos vinculados, desde que estes ainda não tenham exaurido integralmente os seus efeitos." },
+      { "letra": "E", "texto": "opera efeitos ex tunc, gerando, em qualquer hipótese, dever de indenizar o particular atingido." }
+    ],
+    "gabarito": "B",
+    "comentario": "B (correta): a revogação incide sobre ato válido que se tornou inconveniente ou inoportuno, sendo privativa da Administração e produzindo efeitos apenas para o futuro, respeitados os direitos adquiridos (Súmula 473 do STF). A (errada): o pressuposto da revogação é o mérito, não a ilegalidade — esta enseja anulação. C (errada): o Judiciário, em função jurisdicional, anula por ilegalidade; revogar por mérito alheio é vedado. D (errada): atos vinculados são irrevogáveis, pois não há juízo de conveniência a ser reavaliado. E (errada): a revogação não retroage; o dever de indenizar depende da demonstração de dano e não é automático.",
+    "fundamentacaoLegal": "Súmula 473 do STF; Lei nº 9.784/1999, art. 53; CF/88, art. 5º, XXXVI."
+  },
+  {
+    "id": "extincao-ato-05",
+    "topicoId": "extincao-ato",
+    "topico": "Extinção e controle do ato administrativo",
+    "dificuldade": "dificil",
+    "enunciado": "A doutrina aponta atos administrativos insuscetíveis de revogação. Assinale a alternativa que apresenta hipótese de ato IRREVOGÁVEL.",
+    "alternativas": [
+      { "letra": "A", "texto": "Autorização de uso de bem público municipal outorgada a título precário." },
+      { "letra": "B", "texto": "Permissão de uso de bem público concedida sem prazo determinado." },
+      { "letra": "C", "texto": "Ato discricionário editado, mas que ainda não produziu efeitos concretos." },
+      { "letra": "D", "texto": "Ato ampliativo de direitos submetido a condição suspensiva ainda não implementada." },
+      { "letra": "E", "texto": "Ato administrativo que já exauriu integralmente os seus efeitos." }
+    ],
+    "gabarito": "E",
+    "comentario": "E (correta): o ato consumado, que já exauriu seus efeitos, é irrevogável, pois não há mais relação jurídica a ser desfeita para o futuro — restaria apenas a anulação, se houvesse ilegalidade. Também são irrevogáveis os atos vinculados, os enunciativos, os que geraram direitos adquiridos, os de controle e aqueles cuja competência já se exauriu. A (errada): a autorização de uso é ato precário por excelência e, por isso, revogável a qualquer tempo. B (errada): a permissão de uso sem prazo é igualmente precária e revogável, em regra sem indenização. C (errada): ato ainda não eficaz é plenamente revogável. D (errada): a pendência de condição suspensiva não gera direito adquirido, apenas expectativa, de modo que a revogação é possível.",
+    "fundamentacaoLegal": "Súmula 473 do STF; CF/88, art. 5º, XXXVI; doutrina consolidada (Hely Lopes Meirelles; Di Pietro)."
+  },
+  {
+    "id": "extincao-ato-06",
+    "topicoId": "extincao-ato",
+    "topico": "Extinção e controle do ato administrativo",
+    "dificuldade": "media",
+    "enunciado": "Nos termos do art. 53 da Lei nº 9.784/1999, a Administração:",
+    "alternativas": [
+      { "letra": "A", "texto": "pode anular seus atos quando eivados de vício de legalidade e deve revogá-los por motivo de conveniência ou oportunidade." },
+      { "letra": "B", "texto": "deve anular seus atos ilegais e deve revogá-los por razões de interesse público, produzindo ambas as medidas efeitos retroativos." },
+      { "letra": "C", "texto": "pode revogar seus atos ilegais, respeitados os direitos adquiridos, e deve anular aqueles que se tornarem inconvenientes." },
+      { "letra": "D", "texto": "deve anular seus próprios atos quando eivados de vício de legalidade e pode revogá-los por motivo de conveniência ou oportunidade, respeitados os direitos adquiridos." },
+      { "letra": "E", "texto": "somente pode anular seus atos mediante provocação do interessado, sendo-lhe vedada a atuação de ofício." }
+    ],
+    "gabarito": "D",
+    "comentario": "D (correta): é a literalidade do art. 53 da Lei nº 9.784/1999, que emprega 'deve' para a anulação e 'pode' para a revogação, ressalvando os direitos adquiridos. A (errada): inverte os verbos de dever e faculdade. B (errada): além de qualificar a revogação como dever, atribui-lhe indevidamente efeitos retroativos. C (errada): troca os institutos — revoga-se por conveniência e anula-se por ilegalidade. E (errada): a autotutela é exercida de ofício ou mediante provocação (Súmula 346 do STF).",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, art. 53; Súmulas 346 e 473 do STF."
+  },
+  {
+    "id": "extincao-ato-07",
+    "topicoId": "extincao-ato",
+    "topico": "Extinção e controle do ato administrativo",
+    "dificuldade": "media",
+    "enunciado": "Segundo a Lei nº 9.784/1999, o direito da Administração de anular os atos administrativos de que decorram efeitos favoráveis para os destinatários decai em:",
+    "alternativas": [
+      { "letra": "A", "texto": "cinco anos, contados da data em que foram praticados, salvo comprovada má-fé." },
+      { "letra": "B", "texto": "cinco anos, contados da ciência do interessado, ainda que comprovada a má-fé." },
+      { "letra": "C", "texto": "dez anos, contados da data em que foram praticados, salvo comprovada má-fé." },
+      { "letra": "D", "texto": "dois anos, contados da data em que foram praticados, prorrogáveis uma única vez por igual período." },
+      { "letra": "E", "texto": "cinco anos, contados do trânsito em julgado de decisão judicial que reconheça a ilegalidade do ato." }
+    ],
+    "gabarito": "A",
+    "comentario": "A (correta): é a literalidade do art. 54, caput, da Lei nº 9.784/1999 — prazo decadencial de cinco anos, contado da prática do ato, que não corre em caso de comprovada má-fé do beneficiário. B (errada): erra no termo inicial (é a prática do ato) e desconsidera a ressalva da má-fé. C (errada): altera o prazo legal. D (errada): o prazo de dois anos, prorrogável, não guarda relação com o art. 54; trata-se de pegadinha com prazos de outros institutos. E (errada): o termo inicial legal é a prática do ato, não eventual decisão judicial.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, art. 54, caput."
+  },
+  {
+    "id": "extincao-ato-08",
+    "topicoId": "extincao-ato",
+    "topico": "Extinção e controle do ato administrativo",
+    "dificuldade": "dificil",
+    "enunciado": "Servidor municipal passou a receber, em janeiro de 2018, gratificação concedida por ato administrativo ilegal, sem que se tenha demonstrado má-fé de sua parte, com pagamentos mensais sucessivos desde então. Sobre o termo inicial do prazo decadencial para a anulação do ato, é correto afirmar que:",
+    "alternativas": [
+      { "letra": "A", "texto": "o prazo renova-se a cada pagamento mensal, tornando, na prática, imprescritível a pretensão anulatória da Administração." },
+      { "letra": "B", "texto": "no caso de efeitos patrimoniais contínuos, o prazo decadencial de cinco anos conta-se da percepção do primeiro pagamento." },
+      { "letra": "C", "texto": "o prazo conta-se do último pagamento realizado antes da instauração do processo administrativo de anulação." },
+      { "letra": "D", "texto": "não corre prazo decadencial algum, por se tratar de ato nulo de pleno direito, insuscetível de convalidação pelo tempo." },
+      { "letra": "E", "texto": "o prazo é de dez anos, contado da publicação do ato concessivo no diário oficial do Município." }
+    ],
+    "gabarito": "B",
+    "comentario": "B (correta): é a regra do art. 54, §1º, da Lei nº 9.784/1999, que fixa como termo inicial, nos atos de efeitos patrimoniais contínuos, a percepção do primeiro pagamento. A (errada): a tese da renovação mensal do prazo esvaziaria a decadência legalmente prevista e contraria o §1º. C (errada): o marco é o primeiro pagamento, e não o último. D (errada): a lei submete expressamente a anulação de atos favoráveis a prazo decadencial, salvo comprovada má-fé, o que não ocorre na hipótese. E (errada): o prazo legal é quinquenal, e o termo inicial, no caso, é a primeira percepção, não a publicação.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, art. 54, caput e §1º."
+  },
+  {
+    "id": "extincao-ato-09",
+    "topicoId": "extincao-ato",
+    "topico": "Extinção e controle do ato administrativo",
+    "dificuldade": "dificil",
+    "enunciado": "Nos termos do §2º do art. 54 da Lei nº 9.784/1999, considera-se exercício do direito de anular:",
+    "alternativas": [
+      { "letra": "A", "texto": "exclusivamente a decisão final de anulação, devidamente publicada na imprensa oficial." },
+      { "letra": "B", "texto": "apenas a instauração formal de processo administrativo, por portaria específica da autoridade competente." },
+      { "letra": "C", "texto": "qualquer medida de autoridade administrativa que importe impugnação à validade do ato." },
+      { "letra": "D", "texto": "somente a propositura de ação judicial anulatória pelo órgão de representação judicial do ente." },
+      { "letra": "E", "texto": "a simples notificação do interessado para exercer o contraditório, desde que acompanhada da suspensão imediata dos efeitos do ato." }
+    ],
+    "gabarito": "C",
+    "comentario": "C (correta): reproduz o art. 54, §2º, da Lei nº 9.784/1999, que adota fórmula ampla — basta medida de autoridade administrativa que impugne a validade do ato para que se tenha por exercido o direito de anular, obstando a consumação da decadência. A (errada): restringe indevidamente o dispositivo à decisão final. B (errada): a lei não exige forma específica de instauração; qualquer medida impugnativa basta. D (errada): o dispositivo trata da atuação administrativa, e não da via judicial. E (errada): a lei não condiciona o efeito à suspensão dos efeitos do ato, que é medida cautelar autônoma (art. 45).",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, art. 54, §2º; art. 45."
+  },
+  {
+    "id": "extincao-ato-10",
+    "topicoId": "extincao-ato",
+    "topico": "Extinção e controle do ato administrativo",
+    "dificuldade": "media",
+    "enunciado": "A convalidação de atos administrativos, na forma do art. 55 da Lei nº 9.784/1999, exige a presença cumulativa dos seguintes requisitos:",
+    "alternativas": [
+      { "letra": "A", "texto": "vício de finalidade, ausência de prejuízo a terceiros e prévia autorização do Poder Judiciário." },
+      { "letra": "B", "texto": "vício insanável, inexistência de lesão ao interesse público e concordância expressa do interessado." },
+      { "letra": "C", "texto": "decurso do prazo de cinco anos, boa-fé do beneficiário e existência de efeitos patrimoniais contínuos." },
+      { "letra": "D", "texto": "vício de objeto, motivação expressa e publicação do ato convalidatório na imprensa oficial." },
+      { "letra": "E", "texto": "defeitos sanáveis, ausência de lesão ao interesse público e inexistência de prejuízo a terceiros, mediante decisão em que se evidenciem tais circunstâncias." }
+    ],
+    "gabarito": "E",
+    "comentario": "E (correta): o art. 55 da Lei nº 9.784/1999 admite a convalidação, em decisão na qual se evidencie não acarretarem lesão ao interesse público nem prejuízo a terceiros, dos atos que apresentarem defeitos sanáveis. A (errada): o vício de finalidade é insanável e a convalidação é ato da própria Administração, sem intervenção judicial. B (errada): vício insanável impede a convalidação; a concordância do interessado não é requisito legal. C (errada): descreve os pressupostos da decadência do art. 54, não os da convalidação. D (errada): o vício de objeto é insanável; publicação e motivação são exigências gerais, não os requisitos específicos do art. 55.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, art. 55; art. 54."
+  },
+  {
+    "id": "extincao-ato-11",
+    "topicoId": "extincao-ato",
+    "topico": "Extinção e controle do ato administrativo",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre a possibilidade de convalidação segundo o elemento viciado do ato administrativo, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "São, em regra, sanáveis os vícios de competência quanto à pessoa, desde que não se trate de competência exclusiva, e os vícios de forma não essencial; são insanáveis os vícios de finalidade, de motivo e de objeto." },
+      { "letra": "B", "texto": "O vício de finalidade é sanável mediante ratificação pela autoridade hierarquicamente superior à que praticou o ato." },
+      { "letra": "C", "texto": "O vício de competência em razão da matéria é sanável por meio de delegação superveniente." },
+      { "letra": "D", "texto": "O vício de objeto pode ser convalidado sempre que o ato tiver produzido efeitos favoráveis a administrado de boa-fé." },
+      { "letra": "E", "texto": "Todos os vícios do ato administrativo são sanáveis, desde que não decorridos cinco anos da data de sua prática." }
+    ],
+    "gabarito": "A",
+    "comentario": "A (correta): a doutrina majoritária e a leitura do art. 55 da Lei nº 9.784/1999 admitem a convalidação apenas de defeitos sanáveis, assim entendidos os de competência quanto à pessoa (ressalvada a competência exclusiva) e os de forma não essencial; finalidade, motivo e objeto envolvem o próprio conteúdo substancial do ato e não comportam saneamento. B (errada): o desvio de finalidade é vício substancial insanável, ainda que praticado por autoridade competente. C (errada): a incompetência em razão da matéria é insanável, pois nem sequer poderia ser objeto de delegação. D (errada): a boa-fé do administrado pode repercutir na modulação dos efeitos e na decadência, mas não converte vício de objeto em defeito sanável. E (errada): confunde convalidação (art. 55) com decadência (art. 54); o decurso do prazo estabiliza o ato, mas não o convalida tecnicamente.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, arts. 13, 55 e 54; Lei nº 4.717/1965, art. 2º, parágrafo único."
+  },
+  {
+    "id": "extincao-ato-12",
+    "topicoId": "extincao-ato",
+    "topico": "Extinção e controle do ato administrativo",
+    "dificuldade": "dificil",
+    "enunciado": "A doutrina distingue diferentes espécies e efeitos da convalidação dos atos administrativos. Assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "Ratificação é a supressão da parte inválida do ato, com manutenção da parte que permanece hígida." },
+      { "letra": "B", "texto": "Reforma é o suprimento do vício de competência realizado por autoridade estranha à estrutura do órgão que praticou o ato." },
+      { "letra": "C", "texto": "Ratificação é a convalidação feita pela própria autoridade que praticou o ato ou por sua superior, suprindo vício de competência ou de forma; reforma é a retirada da parte inválida do ato, com manutenção da parte válida; e conversão é a transformação do ato inválido em outro, de categoria diversa, válido." },
+      { "letra": "D", "texto": "Conversão e convalidação são expressões sinônimas, designando o mesmo fenômeno de saneamento retroativo do vício." },
+      { "letra": "E", "texto": "A convalidação produz efeitos ex nunc, alcançando apenas os fatos ocorridos após o suprimento do vício." }
+    ],
+    "gabarito": "C",
+    "comentario": "C (correta): apresenta corretamente as três figuras usualmente sistematizadas pela doutrina (ratificação, reforma e conversão), todas espécies do gênero convalidação (ou sanatória). A (errada): a definição corresponde à reforma, não à ratificação. B (errada): a ratificação é realizada pela própria autoridade competente ou por seu superior hierárquico; autoridade estranha à estrutura não tem competência para tanto. D (errada): a conversão é apenas uma das espécies de convalidação, e não seu sinônimo. E (errada): a convalidação retroage à data da prática do ato originário (efeitos ex tunc), justamente para preservar os efeitos já produzidos.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, art. 55; doutrina consolidada (Celso Antônio Bandeira de Mello; Di Pietro)."
+  },
+  {
+    "id": "extincao-ato-13",
+    "topicoId": "extincao-ato",
+    "topico": "Extinção e controle do ato administrativo",
+    "dificuldade": "media",
+    "enunciado": "A extinção do ato administrativo motivada pelo descumprimento, por parte do beneficiário, das condições que deveriam permanecer atendidas para a manutenção da situação constituída denomina-se:",
+    "alternativas": [
+      { "letra": "A", "texto": "caducidade." },
+      { "letra": "B", "texto": "contraposição." },
+      { "letra": "C", "texto": "revogação." },
+      { "letra": "D", "texto": "anulação." },
+      { "letra": "E", "texto": "cassação." }
+    ],
+    "gabarito": "E",
+    "comentario": "E (correta): a cassação é a retirada do ato em razão de o beneficiário descumprir condições que deveriam permanecer satisfeitas — exemplo clássico é a cassação da licença de funcionamento de hotel que passa a ser utilizado como casa de tolerância. A (errada): a caducidade decorre de norma jurídica superveniente que torna inadmissível a situação antes permitida. B (errada): a contraposição resulta da edição de novo ato, com efeitos opostos aos do anterior. C (errada): a revogação funda-se em juízo de conveniência e oportunidade da Administração, e não em falta do beneficiário. D (errada): a anulação pressupõe vício de legalidade contemporâneo à edição do ato.",
+    "fundamentacaoLegal": "Súmula 473 do STF; doutrina consolidada (Celso Antônio Bandeira de Mello — modalidades de extinção do ato)."
+  },
+  {
+    "id": "extincao-ato-14",
+    "topicoId": "extincao-ato",
+    "topico": "Extinção e controle do ato administrativo",
+    "dificuldade": "media",
+    "enunciado": "Particular obteve permissão de uso de área pública municipal para exploração de atividade comercial. Posteriormente, sobreveio lei municipal que passou a destinar aquele espaço exclusivamente a área de preservação ambiental, tornando juridicamente inadmissível o uso antes permitido. A extinção do ato por esse fundamento denomina-se:",
+    "alternativas": [
+      { "letra": "A", "texto": "cassação." },
+      { "letra": "B", "texto": "revogação." },
+      { "letra": "C", "texto": "anulação." },
+      { "letra": "D", "texto": "caducidade." },
+      { "letra": "E", "texto": "contraposição." }
+    ],
+    "gabarito": "D",
+    "comentario": "D (correta): a caducidade é a extinção do ato em razão de norma jurídica superveniente que torna inadmissível a situação anteriormente permitida — exatamente o que ocorre com a lei municipal que reafeta a área. A (errada): a cassação pressupõe descumprimento de condições pelo beneficiário, o que não se verifica no enunciado. B (errada): a revogação decorre de juízo discricionário de conveniência e oportunidade da Administração, não de alteração legislativa. C (errada): não há vício de legalidade originário — o ato era válido quando praticado. E (errada): a contraposição pressupõe novo ato administrativo de efeitos contrapostos, e não lei nova.",
+    "fundamentacaoLegal": "Súmula 473 do STF; Lei nº 8.987/1995, art. 35, IV (caducidade como categoria correlata); doutrina consolidada."
+  },
+  {
+    "id": "extincao-ato-15",
+    "topicoId": "extincao-ato",
+    "topico": "Extinção e controle do ato administrativo",
+    "dificuldade": "dificil",
+    "enunciado": "Ocorre contraposição (também chamada de derrubada) do ato administrativo quando:",
+    "alternativas": [
+      { "letra": "A", "texto": "o beneficiário deixa de cumprir as condições legalmente exigidas para a manutenção da situação constituída pelo ato." },
+      { "letra": "B", "texto": "é editado novo ato administrativo, fundado em competência diversa, cujos efeitos são contrapostos aos do ato anterior, acarretando a extinção deste." },
+      { "letra": "C", "texto": "sobrevém norma jurídica que torna inadmissível a situação anteriormente permitida pelo ato." },
+      { "letra": "D", "texto": "a Administração reconhece vício de legalidade no ato e o desconstitui com efeitos retroativos." },
+      { "letra": "E", "texto": "o interessado abdica voluntariamente da situação jurídica favorável que o ato lhe conferia." }
+    ],
+    "gabarito": "B",
+    "comentario": "B (correta): na contraposição, dois atos coexistem em oposição — o segundo, praticado com base em competência diversa, produz efeitos incompatíveis com os do primeiro e o extingue; o exemplo tradicional é a exoneração, que se contrapõe à nomeação. A (errada): a descrição é de cassação. C (errada): a descrição é de caducidade. D (errada): a descrição é de anulação. E (errada): a descrição é de renúncia, forma de extinção que depende de manifestação do próprio beneficiário.",
+    "fundamentacaoLegal": "Doutrina consolidada (Celso Antônio Bandeira de Mello; Di Pietro — formas de extinção do ato administrativo); Lei nº 8.112/1990, arts. 33, I, e 35 (parâmetro do exemplo de exoneração)."
+  },
+  {
+    "id": "extincao-ato-16",
+    "topicoId": "extincao-ato",
+    "topico": "Extinção e controle do ato administrativo",
+    "dificuldade": "media",
+    "enunciado": "Segundo a doutrina, a extinção do ato administrativo pode decorrer de diferentes causas. Assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A extinção natural decorre do cumprimento normal dos efeitos do ato ou do implemento de seu termo final; a extinção subjetiva decorre do desaparecimento do sujeito beneficiário; e a extinção objetiva, do desaparecimento do objeto sobre o qual o ato incidia." },
+      { "letra": "B", "texto": "A renúncia é forma de extinção do ato praticada por iniciativa exclusiva da Administração Pública." },
+      { "letra": "C", "texto": "A extinção objetiva ocorre com o falecimento do beneficiário do ato administrativo." },
+      { "letra": "D", "texto": "O implemento de condição resolutiva prevista no próprio ato configura hipótese de anulação." },
+      { "letra": "E", "texto": "A retirada do ato pela Administração somente pode ocorrer por anulação, sendo a revogação atribuição privativa do Poder Legislativo." }
+    ],
+    "gabarito": "A",
+    "comentario": "A (correta): a alternativa reproduz corretamente as categorias doutrinárias de extinção natural, subjetiva e objetiva, ao lado da retirada (anulação, revogação, cassação, caducidade e contraposição) e da renúncia. B (errada): a renúncia parte do beneficiário, que abre mão da situação favorável. C (errada): o falecimento do beneficiário configura extinção subjetiva, não objetiva. D (errada): o implemento de condição resolutiva é extinção natural do ato, e não anulação, que pressupõe vício de legalidade. E (errada): a revogação é privativa da Administração que editou o ato; o Legislativo pode sustar atos normativos exorbitantes (CF/88, art. 49, V), o que é fenômeno distinto.",
+    "fundamentacaoLegal": "CF/88, art. 49, V; Súmula 473 do STF; doutrina consolidada (Celso Antônio Bandeira de Mello)."
+  },
+  {
+    "id": "extincao-ato-17",
+    "topicoId": "extincao-ato",
+    "topico": "Extinção e controle do ato administrativo",
+    "dificuldade": "media",
+    "enunciado": "A teoria dos motivos determinantes estabelece que:",
+    "alternativas": [
+      { "letra": "A", "texto": "o ato administrativo é válido independentemente da veracidade dos motivos declarados, desde que a lei não exija motivação para a sua prática." },
+      { "letra": "B", "texto": "a Administração pode substituir livremente os motivos declarados no ato durante o curso do processo de controle, judicial ou administrativo." },
+      { "letra": "C", "texto": "a validade do ato administrativo vincula-se aos motivos expressamente declarados pela Administração, de modo que, sendo eles inexistentes ou falsos, o ato é nulo, ainda que a motivação não fosse legalmente obrigatória." },
+      { "letra": "D", "texto": "a teoria aplica-se exclusivamente aos atos vinculados, pois neles o motivo é integralmente predeterminado pela lei." },
+      { "letra": "E", "texto": "a inexistência do motivo declarado acarreta a revogação do ato, com efeitos meramente prospectivos." }
+    ],
+    "gabarito": "C",
+    "comentario": "C (correta): pela teoria dos motivos determinantes, uma vez enunciados os motivos, eles passam a integrar a validade do ato, e sua inexistência ou falsidade material o vicia. A (errada): a facultatividade da motivação não neutraliza a vinculação aos motivos efetivamente declarados. B (errada): a substituição posterior dos motivos (motivação superveniente) não é admitida como regra, sob pena de esvaziar o controle. D (errada): a teoria é especialmente relevante nos atos discricionários, exatamente onde o controle é mais difícil. E (errada): a consequência é a nulidade (anulação, com efeitos ex tunc), e não a revogação.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, arts. 2º, parágrafo único, VII, e 50; Lei nº 4.717/1965, art. 2º, parágrafo único, 'd'; doutrina consolidada."
+  },
+  {
+    "id": "extincao-ato-18",
+    "topicoId": "extincao-ato",
+    "topico": "Extinção e controle do ato administrativo",
+    "dificuldade": "dificil",
+    "enunciado": "Prefeito Municipal exonera ocupante de cargo em comissão e declara expressamente, no ato de exoneração, que a medida decorre de reiteradas faltas injustificadas ao serviço. Posteriormente, comprova-se que tais faltas nunca ocorreram. À luz da teoria dos motivos determinantes, é correto afirmar que:",
+    "alternativas": [
+      { "letra": "A", "texto": "o ato é válido, pois a exoneração de cargo em comissão é de livre iniciativa da autoridade, sendo juridicamente irrelevantes os motivos declarados." },
+      { "letra": "B", "texto": "o ato é nulo, pois, embora a motivação não fosse obrigatória, uma vez declarados os motivos a validade do ato a eles se vincula, e a sua inexistência material o invalida." },
+      { "letra": "C", "texto": "o ato é meramente anulável, admitindo convalidação mediante substituição do motivo declarado por outro verdadeiro." },
+      { "letra": "D", "texto": "o ato deve ser revogado por conveniência e oportunidade, com efeitos ex nunc, preservando-se os vencimentos já pagos." },
+      { "letra": "E", "texto": "o ato é válido, mas gera direito exclusivamente à indenização por dano moral, sem desconstituição da exoneração." }
+    ],
+    "gabarito": "B",
+    "comentario": "B (correta): a exoneração de cargo em comissão é, em regra, ad nutum e dispensa motivação (CF/88, art. 37, II, parte final); contudo, motivada a decisão, incide a teoria dos motivos determinantes, e a falsidade do motivo declarado acarreta a nulidade do ato. A (errada): a irrelevância dos motivos só se sustentaria se a autoridade não os tivesse declarado. C (errada): vício de motivo é insanável, não comportando convalidação nem troca de motivação a posteriori. D (errada): o vício é de legalidade e conduz à anulação (ex tunc), não à revogação. E (errada): a nulidade impõe a desconstituição do ato, sem prejuízo de eventual reparação de danos comprovados.",
+    "fundamentacaoLegal": "CF/88, art. 37, II, parte final; Lei nº 9.784/1999, art. 50; teoria dos motivos determinantes."
+  },
+  {
+    "id": "extincao-ato-19",
+    "topicoId": "extincao-ato",
+    "topico": "Extinção e controle do ato administrativo",
+    "dificuldade": "media",
+    "enunciado": "Sobre o controle judicial dos atos administrativos, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "O Poder Judiciário pode revogar atos administrativos ilegais praticados pelo Poder Executivo." },
+      { "letra": "B", "texto": "O Poder Judiciário pode anular atos administrativos por razões de conveniência e oportunidade." },
+      { "letra": "C", "texto": "O Poder Judiciário não pode apreciar atos administrativos discricionários sob nenhum aspecto, ainda que se alegue desvio de finalidade." },
+      { "letra": "D", "texto": "O Poder Judiciário pode anular atos administrativos ilegais, mas não pode revogá-los por razões de mérito alheias, ressalvada a revogação de seus próprios atos administrativos praticados no exercício de função atípica." },
+      { "letra": "E", "texto": "O Poder Judiciário pode substituir a autoridade administrativa na escolha da penalidade disciplinar que reputar mais adequada ao caso concreto." }
+    ],
+    "gabarito": "D",
+    "comentario": "D (correta): o controle judicial é de legalidade em sentido amplo; a revogação, fundada em conveniência e oportunidade, é privativa da Administração que editou o ato, podendo o Judiciário revogar apenas os atos administrativos que ele próprio pratica em função atípica. A (errada): ato ilegal é anulado, não revogado. B (errada): a anulação pressupõe ilegalidade, não juízo de mérito. C (errada): atos discricionários são sindicáveis quanto à competência, à finalidade, à forma, à existência dos motivos e à razoabilidade/proporcionalidade. E (errada): a substituição do juízo administrativo pela valoração judicial invade o mérito e viola a separação dos poderes (CF/88, art. 2º).",
+    "fundamentacaoLegal": "CF/88, arts. 2º e 5º, XXXV; Súmula 473 do STF; Lei nº 4.717/1965, art. 2º."
+  },
+  {
+    "id": "extincao-ato-20",
+    "topicoId": "extincao-ato",
+    "topico": "Extinção e controle do ato administrativo",
+    "dificuldade": "dificil",
+    "enunciado": "A Administração Municipal pretende anular ato que concedeu vantagem pecuniária a servidor há três anos, por entender que houve equívoco na aplicação da legislação de regência. Sobre o procedimento a ser adotado, é correto afirmar que:",
+    "alternativas": [
+      { "letra": "A", "texto": "a anulação prescinde de contraditório, uma vez que do ato ilegal não se originam direitos." },
+      { "letra": "B", "texto": "a anulação depende de prévia autorização do Tribunal de Contas competente, sob pena de nulidade." },
+      { "letra": "C", "texto": "a anulação exige prévia autorização judicial, por envolver desconstituição de situação funcional consolidada." },
+      { "letra": "D", "texto": "por recair sobre ato ilegal, a decisão anulatória fica dispensada de motivação expressa." },
+      { "letra": "E", "texto": "a anulação deve ser precedida de processo administrativo com contraditório e ampla defesa e formalizada em decisão motivada, por se tratar de ato que repercute desfavoravelmente na esfera de interesses do administrado." }
+    ],
+    "gabarito": "E",
+    "comentario": "E (correta): embora a Administração possa anular seus atos de ofício, quando a anulação repercute desfavoravelmente na esfera jurídica do administrado exige-se processo prévio com contraditório e ampla defesa (CF/88, art. 5º, LV; Lei nº 9.784/1999, art. 2º, parágrafo único, X, e art. 26) e decisão motivada (art. 50, I). A (errada): a máxima de que do ato ilegal não nascem direitos não afasta a garantia processual do interessado. B (errada): a autotutela é exercida pela própria Administração, sem necessidade de autorização do controle externo. C (errada): a anulação administrativa independe de autorização judicial, sendo o Judiciário instância de controle posterior. D (errada): a motivação é obrigatória nos atos que neguem, limitem ou afetem direitos (art. 50, I).",
+    "fundamentacaoLegal": "CF/88, art. 5º, LIV e LV; Lei nº 9.784/1999, arts. 2º, parágrafo único, X, 26, 50, I, e 53; Súmula 473 do STF."
+  },
+  {
+    "id": "extincao-ato-21",
+    "topicoId": "extincao-ato",
+    "topico": "Extinção e controle do ato administrativo",
+    "dificuldade": "media",
+    "enunciado": "Nos termos do art. 50 da Lei nº 9.784/1999, os atos administrativos deverão ser motivados, com indicação dos fatos e dos fundamentos jurídicos, quando:",
+    "alternativas": [
+      { "letra": "A", "texto": "forem discricionários, ficando dispensados de motivação, em qualquer hipótese, os atos vinculados." },
+      { "letra": "B", "texto": "importarem deferimento de pedido formulado pelo administrado, dispensando-se a motivação nas decisões de indeferimento." },
+      { "letra": "C", "texto": "neguem, limitem ou afetem direitos ou interesses; imponham ou agravem deveres, encargos ou sanções; decidam recursos administrativos; e nas demais hipóteses legalmente previstas." },
+      { "letra": "D", "texto": "forem praticados por autoridade delegada, dispensando-se a motivação nos atos de competência originária." },
+      { "letra": "E", "texto": "forem praticados por órgãos colegiados, dispensando-se a motivação nas decisões monocráticas." }
+    ],
+    "gabarito": "C",
+    "comentario": "C (correta): reproduz hipóteses expressas dos incisos I, II e V do art. 50 da Lei nº 9.784/1999, cujo rol também abrange atos que decidam processos de concurso ou seleção, que dispensem ou declarem inexigível licitação, que importem anulação, revogação, suspensão ou convalidação de ato administrativo, entre outros. A (errada): a exigência de motivação não se define pela discricionariedade, e atos vinculados restritivos também devem ser motivados. B (errada): a lei exige motivação justamente nos atos que neguem ou limitem direitos. D (errada): a delegação não é critério legal para a exigência de motivação; o art. 14, §1º, apenas impõe publicação do ato de delegação. E (errada): a colegialidade não é critério; decisões monocráticas restritivas também devem ser motivadas.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, art. 50, incisos I a VIII, e §1º."
+  },
+  {
+    "id": "extincao-ato-22",
+    "topicoId": "extincao-ato",
+    "topico": "Extinção e controle do ato administrativo",
+    "dificuldade": "dificil",
+    "enunciado": "Determinado ato administrativo revogatório é, ele próprio, posteriormente revogado por nova manifestação da Administração. Sobre os efeitos dessa segunda revogação, é correto afirmar que:",
+    "alternativas": [
+      { "letra": "A", "texto": "não há efeito repristinatório automático no direito administrativo brasileiro, entendendo a doutrina majoritária que a revogação da revogação não restaura, por si só, o ato originário, salvo manifestação expressa nesse sentido." },
+      { "letra": "B", "texto": "o ato originalmente revogado é automaticamente restaurado, com efeitos retroativos à data da primeira revogação." },
+      { "letra": "C", "texto": "a segunda revogação é juridicamente inexistente, pois o ato revogatório não é passível de revogação." },
+      { "letra": "D", "texto": "o efeito repristinatório automático ocorre apenas quando o ato originário for de natureza vinculada." },
+      { "letra": "E", "texto": "a segunda revogação equivale, quanto aos efeitos, à anulação da primeira, operando ex tunc." }
+    ],
+    "gabarito": "A",
+    "comentario": "A (correta): prevalece o entendimento de que a repristinação não se presume, exigindo declaração expressa da Administração para que o ato originário volte a produzir efeitos, em coerência com a diretriz do art. 2º, §3º, da Lei de Introdução às Normas do Direito Brasileiro para o fenômeno normativo. B (errada): a restauração automática e retroativa comprometeria a segurança jurídica e a confiança legítima de terceiros. C (errada): o ato revogatório é ato administrativo como qualquer outro e pode ser revogado ou anulado. D (errada): ato vinculado sequer é revogável, o que torna a hipótese contraditória. E (errada): revogação e anulação têm pressupostos e efeitos distintos, não se convertendo uma na outra.",
+    "fundamentacaoLegal": "Decreto-Lei nº 4.657/1942 (LINDB), art. 2º, §3º (por analogia); Súmula 473 do STF; doutrina consolidada."
+  },
+  {
+    "id": "extincao-ato-23",
+    "topicoId": "extincao-ato",
+    "topico": "Extinção e controle do ato administrativo",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre a anulação de atos administrativos ilegais pela própria Administração Pública, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A Súmula 473 do STF e o art. 53 da Lei nº 9.784/1999 empregam ambos a expressão 'pode', configurando a anulação mera faculdade administrativa." },
+      { "letra": "B", "texto": "A Súmula 473 do STF emprega a expressão 'pode', ao passo que o art. 53 da Lei nº 9.784/1999 emprega 'deve'; prevalece o entendimento de que a anulação constitui dever da Administração, ressalvadas as hipóteses de convalidação e de estabilização pelo decurso do prazo decadencial." },
+      { "letra": "C", "texto": "A anulação de ofício foi vedada pela Lei nº 9.784/1999, que passou a exigir provocação do interessado ou de terceiro." },
+      { "letra": "D", "texto": "A anulação depende sempre de prévia decisão do Tribunal de Contas competente, que exerce o controle de legalidade dos atos administrativos." },
+      { "letra": "E", "texto": "A autotutela alcança apenas os atos vinculados, pois os discricionários somente podem ser retirados por revogação." }
+    ],
+    "gabarito": "B",
+    "comentario": "B (correta): há efetiva diferença de redação entre a Súmula 473 ('pode') e o art. 53 da Lei nº 9.784/1999 ('deve'), prevalecendo a leitura de que, em face do princípio da legalidade, a anulação é dever, salvo quando cabível a convalidação (art. 55) ou quando consumada a decadência (art. 54). A (errada): a redação do art. 53 é imperativa. C (errada): a autotutela pode ser exercida de ofício (Súmula 346 do STF). D (errada): a Administração não depende do controle externo para anular seus próprios atos. E (errada): atos discricionários ilegais também são anuláveis; a revogação incide sobre atos válidos.",
+    "fundamentacaoLegal": "Súmulas 346 e 473 do STF; Lei nº 9.784/1999, arts. 53, 54 e 55; CF/88, art. 37, caput."
+  },
+  {
+    "id": "extincao-ato-24",
+    "topicoId": "extincao-ato",
+    "topico": "Extinção e controle do ato administrativo",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre a Súmula Vinculante 3 do Supremo Tribunal Federal, é correto afirmar que:",
+    "alternativas": [
+      { "letra": "A", "texto": "assegura contraditório e ampla defesa em todos os processos que tramitam perante o Tribunal de Contas da União, sem qualquer exceção." },
+      { "letra": "B", "texto": "dispensa contraditório e ampla defesa em qualquer processo perante o Tribunal de Contas da União, dada a natureza técnica do controle externo." },
+      { "letra": "C", "texto": "impõe a presença de defesa técnica por advogado em todas as fases do processo administrativo disciplinar." },
+      { "letra": "D", "texto": "assegura contraditório e ampla defesa nos processos perante o Tribunal de Contas da União de que resulte anulação ou revogação de ato administrativo que beneficie o interessado, excetuada a apreciação da legalidade do ato de concessão inicial de aposentadoria, reforma e pensão." },
+      { "letra": "E", "texto": "fixa em cinco anos, contados da publicação do ato pelo órgão de origem, o prazo para o Tribunal de Contas apreciar a legalidade da concessão inicial de aposentadoria." }
+    ],
+    "gabarito": "D",
+    "comentario": "D (correta): reproduz o enunciado da Súmula Vinculante 3, inclusive a exceção relativa à apreciação da legalidade do ato de concessão inicial de aposentadoria, reforma e pensão, por se tratar de ato complexo ainda não aperfeiçoado. A (errada): omite a exceção expressa da própria súmula. B (errada): inverte integralmente o conteúdo do enunciado. C (errada): a matéria é objeto da Súmula Vinculante 5, que dispõe em sentido oposto — a falta de defesa técnica por advogado no PAD não ofende a Constituição. E (errada): o prazo quinquenal foi fixado no Tema 445 da repercussão geral, com termo inicial na chegada do processo à Corte de Contas, e não na súmula vinculante.",
+    "fundamentacaoLegal": "Súmula Vinculante 3 do STF; Súmula Vinculante 5 do STF; CF/88, art. 71, III."
+  },
+  {
+    "id": "extincao-ato-25",
+    "topicoId": "extincao-ato",
+    "topico": "Extinção e controle do ato administrativo",
+    "dificuldade": "dificil",
+    "enunciado": "No julgamento do RE 636.553 (Tema 445 da repercussão geral), o Supremo Tribunal Federal fixou tese acerca do prazo para que os Tribunais de Contas apreciem a legalidade do ato de concessão inicial de aposentadoria, reforma ou pensão. Segundo essa tese:",
+    "alternativas": [
+      { "letra": "A", "texto": "o prazo é de cinco anos, contados da publicação do ato concessivo pelo órgão de origem, após o que se opera a decadência." },
+      { "letra": "B", "texto": "não há prazo algum, pois o registro é ato complexo que somente se aperfeiçoa com a manifestação da Corte de Contas, a ser proferida a qualquer tempo." },
+      { "letra": "C", "texto": "o prazo é de dois anos, contados da chegada do processo ao Tribunal de Contas, por aplicação analógica do art. 54 da Lei nº 9.784/1999." },
+      { "letra": "D", "texto": "o prazo é de dez anos, contados da concessão, findo o qual o registro é tido por tacitamente deferido." },
+      { "letra": "E", "texto": "os Tribunais de Contas estão sujeitos ao prazo de cinco anos para o julgamento da legalidade do ato de concessão inicial, contado da chegada do processo à respectiva Corte de Contas, em atenção aos princípios da segurança jurídica e da confiança legítima." }
+    ],
+    "gabarito": "E",
+    "comentario": "E (correta): é a tese fixada no Tema 445, que combina o prazo quinquenal com termo inicial na chegada do processo à Corte de Contas, fundada na segurança jurídica e na confiança legítima. A (errada): a pegadinha está no termo inicial — não é a publicação pelo órgão de origem, mas a chegada do processo ao Tribunal de Contas. B (errada): esse era o entendimento anterior, superado pela fixação de prazo. C (errada): o prazo do art. 54 da Lei nº 9.784/1999, tal como o da tese, é de cinco anos, e não de dois. D (errada): não há previsão de prazo decenal nem de deferimento tácito do registro.",
+    "fundamentacaoLegal": "STF, RE 636.553/RS (Tema 445 da repercussão geral); CF/88, art. 71, III; Lei nº 9.784/1999, art. 54."
+  },
+  {
+    "id": "extincao-ato-26",
+    "topicoId": "extincao-ato",
+    "topico": "Extinção e controle do ato administrativo",
+    "dificuldade": "dificil",
+    "enunciado": "O art. 24 do Decreto-Lei nº 4.657/1942 (LINDB), incluído pela Lei nº 13.655/2018, disciplina a revisão da validade de atos, contratos, ajustes, processos e normas administrativas. Segundo esse dispositivo:",
+    "alternativas": [
+      { "letra": "A", "texto": "a revisão, nas esferas administrativa, controladora ou judicial, quanto à validade de ato do qual já se tenham exaurido os efeitos, levará em conta as orientações gerais da época, sendo vedado que, com base em mudança posterior de orientação geral, se declarem inválidas situações plenamente constituídas." },
+      { "letra": "B", "texto": "a revisão deve sempre aplicar a orientação jurídica vigente no momento do julgamento, ainda que mais gravosa ao administrado." },
+      { "letra": "C", "texto": "a mudança de orientação geral autoriza a invalidação retroativa de todas as situações constituídas sob a orientação anterior." },
+      { "letra": "D", "texto": "o dispositivo é aplicável exclusivamente à esfera judicial, não vinculando os órgãos de controle externo nem a própria Administração." },
+      { "letra": "E", "texto": "o dispositivo revogou o art. 54 da Lei nº 9.784/1999, unificando em três anos o prazo de revisão dos atos administrativos." }
+    ],
+    "gabarito": "A",
+    "comentario": "A (correta): reproduz o caput e o parágrafo único do art. 24 da LINDB, que consagram a proteção da confiança legítima ao impedir a invalidação retroativa de situações constituídas sob orientação geral então vigente. B (errada): contraria expressamente a diretriz do dispositivo. C (errada): é exatamente o que a norma veda. D (errada): o dispositivo alcança as esferas administrativa, controladora e judicial. E (errada): não houve revogação do art. 54 da Lei nº 9.784/1999, cujo prazo permanece quinquenal.",
+    "fundamentacaoLegal": "Decreto-Lei nº 4.657/1942 (LINDB), art. 24, caput e parágrafo único, incluído pela Lei nº 13.655/2018; Lei nº 9.784/1999, art. 54."
+  },
+  {
+    "id": "extincao-ato-27",
+    "topicoId": "extincao-ato",
+    "topico": "Extinção e controle do ato administrativo",
+    "dificuldade": "media",
+    "enunciado": "Sobre os arts. 20 e 21 do Decreto-Lei nº 4.657/1942 (LINDB), incluídos pela Lei nº 13.655/2018, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "É suficiente, nas esferas administrativa, controladora e judicial, a invocação de valores jurídicos abstratos para fundamentar decisões, dispensada a análise de consequências práticas." },
+      { "letra": "B", "texto": "A decisão que decretar a invalidação de ato administrativo pode limitar-se à declaração de nulidade, sendo-lhe vedado indicar consequências jurídicas concretas." },
+      { "letra": "C", "texto": "Não se decidirá com base em valores jurídicos abstratos sem que sejam consideradas as consequências práticas da decisão; e a decisão que decretar a invalidação de ato, contrato, ajuste, processo ou norma administrativa deverá indicar de modo expresso suas consequências jurídicas e administrativas." },
+      { "letra": "D", "texto": "A indicação das consequências jurídicas da invalidação é facultativa e somente ocorre mediante requerimento expresso do interessado." },
+      { "letra": "E", "texto": "Os dispositivos aplicam-se somente ao controle exercido pelos Tribunais de Contas, não alcançando a Administração nem o Poder Judiciário." }
+    ],
+    "gabarito": "C",
+    "comentario": "C (correta): sintetiza o art. 20, caput, e o art. 21, caput, da LINDB, que impõem o consequencialismo motivado e a indicação expressa dos efeitos da invalidação. A (errada): o art. 20 veda exatamente essa fundamentação puramente abstrata. B (errada): o art. 21 impõe a indicação das consequências jurídicas e administrativas. D (errada): trata-se de dever de ofício do julgador, não de faculdade condicionada a requerimento. E (errada): os dispositivos alcançam expressamente as esferas administrativa, controladora e judicial.",
+    "fundamentacaoLegal": "Decreto-Lei nº 4.657/1942 (LINDB), arts. 20 e 21, incluídos pela Lei nº 13.655/2018."
+  },
+  {
+    "id": "extincao-ato-28",
+    "topicoId": "extincao-ato",
+    "topico": "Extinção e controle do ato administrativo",
+    "dificuldade": "media",
+    "enunciado": "Município que não dispõe de lei própria disciplinando o prazo para a Administração anular atos de que decorram efeitos favoráveis aos administrados pretende anular ato concessivo praticado há sete anos, não havendo prova de má-fé do beneficiário. À luz da jurisprudência do Superior Tribunal de Justiça, é correto afirmar que:",
+    "alternativas": [
+      { "letra": "A", "texto": "o Município pode anular o ato a qualquer tempo, pois a Lei nº 9.784/1999 aplica-se exclusivamente à Administração Pública federal, sem qualquer projeção sobre os demais entes." },
+      { "letra": "B", "texto": "aplica-se o prazo prescricional geral de dez anos previsto no Código Civil, de modo que a anulação ainda é possível." },
+      { "letra": "C", "texto": "o Município deve postular a anulação em juízo, por não deter competência anulatória própria em relação a atos que geraram efeitos favoráveis." },
+      { "letra": "D", "texto": "a anulação é possível porque o prazo decadencial somente corre em favor do beneficiário que comprovar sua boa-fé em processo administrativo específico." },
+      { "letra": "E", "texto": "aplica-se subsidiariamente o prazo decadencial de cinco anos do art. 54 da Lei nº 9.784/1999, por inexistir norma local específica, estando decaído o direito de anular." }
+    ],
+    "gabarito": "E",
+    "comentario": "E (correta): a Súmula 633 do STJ admite a aplicação subsidiária da Lei nº 9.784/1999, especialmente quanto ao prazo decadencial para revisão de atos administrativos, a Estados e Municípios que não possuam norma local específica; decorridos sete anos e ausente má-fé, opera-se a decadência. A (errada): contraria a Súmula 633 do STJ. B (errada): a hipótese é de decadência regida por norma administrativa específica, e não de prescrição civil. C (errada): a autotutela é exercida pela própria Administração municipal. D (errada): a boa-fé se presume; cabe à Administração demonstrar a má-fé para afastar a decadência (art. 54, caput).",
+    "fundamentacaoLegal": "Súmula 633 do STJ; Lei nº 9.784/1999, art. 54, caput; Súmula 473 do STF."
+  },
+  {
+    "id": "extincao-ato-29",
+    "topicoId": "extincao-ato",
+    "topico": "Extinção e controle do ato administrativo",
+    "dificuldade": "media",
+    "enunciado": "Servidor cuja posse veio a ser anulada, anos depois, em razão de vício constatado no certame, praticou, durante o período em que exerceu publicamente o cargo, diversos atos administrativos perante os administrados. Sobre a validade desses atos, é correto afirmar que:",
+    "alternativas": [
+      { "letra": "A", "texto": "todos os atos são nulos, por vício insanável de competência, devendo ser integralmente refeitos pela autoridade legítima." },
+      { "letra": "B", "texto": "os atos somente serão válidos se expressamente ratificados pela autoridade superior no prazo de cinco anos contados de sua prática." },
+      { "letra": "C", "texto": "os atos são anuláveis, restando ao terceiro de boa-fé apenas pleitear indenização, sem possibilidade de preservação de seus efeitos." },
+      { "letra": "D", "texto": "os atos praticados pelo chamado funcionário de fato, em situação de aparência de legalidade, são considerados válidos perante terceiros de boa-fé, em homenagem à segurança jurídica, à boa-fé e à continuidade do serviço público." },
+      { "letra": "E", "texto": "os atos permanecem válidos, mas os administrados beneficiados devem restituir ao erário os valores correspondentes às vantagens obtidas." }
+    ],
+    "gabarito": "D",
+    "comentario": "D (correta): a teoria da aparência (funcionário de fato) preserva os atos praticados por quem exercia publicamente a função, na perspectiva do terceiro de boa-fé, com fundamento na segurança jurídica, na boa-fé e na continuidade do serviço público, diretrizes expressamente acolhidas pelo art. 2º, parágrafo único, IV e XIII, da Lei nº 9.784/1999. A (errada): a nulidade em cadeia de todos os atos praticados violaria a confiança legítima dos administrados. B (errada): a lei não condiciona a preservação desses efeitos a ratificação formal em prazo determinado. C (errada): a indenização não é a única solução; os efeitos dos atos são, em regra, preservados. E (errada): não há fundamento para impor devolução aos administrados que agiram de boa-fé e não deram causa ao vício.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, art. 2º, caput e parágrafo único, IV e XIII; Súmula 473 do STF; doutrina consolidada (teoria da aparência)."
+  },
+  {
+    "id": "extincao-ato-30",
+    "topicoId": "extincao-ato",
+    "topico": "Extinção e controle do ato administrativo",
+    "dificuldade": "dificil",
+    "enunciado": "Nos termos do art. 2º, parágrafo único, XIII, da Lei nº 9.784/1999, nos processos administrativos será observado, entre outros, o critério de:",
+    "alternativas": [
+      { "letra": "A", "texto": "aplicação retroativa da nova interpretação, sempre que esta se revelar mais favorável ao interesse público primário." },
+      { "letra": "B", "texto": "interpretação da norma administrativa da forma que melhor garanta o atendimento do fim público a que se dirige, vedada aplicação retroativa de nova interpretação." },
+      { "letra": "C", "texto": "revisão de ofício de todos os atos praticados sob interpretação posteriormente superada, no prazo máximo de dois anos." },
+      { "letra": "D", "texto": "prevalência absoluta do interesse público sobre a proteção da confiança legítima do administrado, em qualquer circunstância." },
+      { "letra": "E", "texto": "aplicação da interpretação vigente ao tempo do julgamento do processo, ainda que mais gravosa ao administrado." }
+    ],
+    "gabarito": "B",
+    "comentario": "B (correta): é a literalidade do inciso XIII do parágrafo único do art. 2º da Lei nº 9.784/1999, que consagra a proteção da confiança legítima e da segurança jurídica ao vedar a retroatividade de nova interpretação administrativa. A, C, D e E (erradas): todas contrariam o dispositivo — a lei veda a aplicação retroativa da nova interpretação (afastando A e E), não impõe revisão de ofício dos atos praticados sob orientação anterior (afastando C, que ainda inventa prazo inexistente) e não autoriza o sacrifício irrestrito da confiança legítima em nome do interesse público (afastando D), diretriz reforçada pelo art. 24 da LINDB.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, art. 2º, caput e parágrafo único, incisos IV e XIII; Decreto-Lei nº 4.657/1942 (LINDB), art. 24."
+  }
+]

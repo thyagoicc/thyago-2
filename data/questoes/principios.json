@@ -1,0 +1,962 @@
+[
+  {
+    "id": "principios-01",
+    "topicoId": "principios",
+    "topico": "Princípios da Administração Pública",
+    "dificuldade": "media",
+    "enunciado": "Sobre o princípio da legalidade aplicável à Administração Pública, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O princípio da legalidade permite à Administração Pública praticar todos os atos que a lei não proíba expressamente, tal como ocorre com os particulares."
+      },
+      {
+        "letra": "B",
+        "texto": "A Administração Pública, no exercício da função administrativa, só pode agir segundo o que a lei autoriza ou determina, submetendo-se ainda aos demais princípios expressos no caput do art. 37 da Constituição Federal."
+      },
+      {
+        "letra": "C",
+        "texto": "O princípio da legalidade é implícito na Constituição Federal de 1988, tendo sido expressamente positivado apenas na Lei nº 9.784/1999."
+      },
+      {
+        "letra": "D",
+        "texto": "A edição de decreto regulamentar autoriza a criação de obrigações não previstas em lei, desde que voltada à satisfação do interesse público."
+      },
+      {
+        "letra": "E",
+        "texto": "Os regulamentos autônomos são amplamente admitidos no ordenamento brasileiro, podendo dispor originariamente sobre qualquer matéria administrativa."
+      }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B está correta: a legalidade administrativa traduz relação de subordinação à lei, sendo princípio expresso no caput do art. 37 da CF/88 e reiterado no art. 2º da Lei nº 9.784/1999. A alternativa A descreve a legalidade aplicável ao particular (art. 5º, II, da CF/88), fundada na não contradição à lei. A alternativa C erra porque a legalidade é princípio expresso no texto constitucional. A alternativa D contraria o art. 84, IV, da CF/88: o regulamento de execução não pode inovar na ordem jurídica criando obrigações não previstas em lei, sob pena de ilegalidade e de sustação pelo Congresso Nacional (art. 49, V). A alternativa E generaliza indevidamente: o decreto autônomo é admitido apenas nas hipóteses restritas do art. 84, VI, da CF/88, quais sejam, organização e funcionamento da administração federal quando não implicar aumento de despesa nem criação ou extinção de órgãos públicos, e extinção de funções ou cargos públicos vagos.",
+    "fundamentacaoLegal": "CF/88, art. 5º, II, art. 37, caput, art. 49, V, e art. 84, IV e VI; Lei nº 9.784/1999, art. 2º."
+  },
+  {
+    "id": "principios-02",
+    "topicoId": "principios",
+    "topico": "Princípios da Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre o princípio da impessoalidade e suas manifestações no ordenamento jurídico brasileiro, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O princípio da impessoalidade possui uma única acepção, consistente na vedação à promoção pessoal de autoridades na publicidade institucional."
+      },
+      {
+        "letra": "B",
+        "texto": "A publicidade dos atos, programas, obras, serviços e campanhas dos órgãos públicos pode conter nomes, símbolos ou imagens que caracterizem promoção pessoal de autoridades ou servidores, desde que custeada com recursos privados."
+      },
+      {
+        "letra": "C",
+        "texto": "A teoria do órgão é incompatível com o princípio da impessoalidade, pois imputa ao agente, e não à pessoa jurídica, os atos praticados no exercício da função."
+      },
+      {
+        "letra": "D",
+        "texto": "O princípio da impessoalidade possui dupla acepção: em relação aos administrados, impõe tratamento isonômico e atuação voltada à finalidade legal, vedando favorecimentos e perseguições; em relação à Administração, determina que os atos sejam imputados à pessoa jurídica, e não ao agente que materialmente os pratica."
+      },
+      {
+        "letra": "E",
+        "texto": "A vedação de promoção pessoal não alcança a publicidade de obras públicas, que pode ostentar o nome do administrador responsável por sua inauguração."
+      }
+    ],
+    "gabarito": "D",
+    "comentario": "A alternativa D está correta e reflete a dupla dimensão do princípio, tal como sistematizada por Maria Sylvia Zanella Di Pietro e Celso Antônio Bandeira de Mello. A alternativa A é incompleta e, por isso, incorreta, ao reduzir o princípio a uma única acepção. A alternativa B contraria o art. 37, § 1º, da CF/88, que veda a promoção pessoal na publicidade oficial, sendo irrelevante a origem dos recursos empregados. A alternativa C inverte o sentido da teoria do órgão, que justamente reforça a impessoalidade ao imputar a atuação do agente à pessoa jurídica. A alternativa E é falsa, pois a vedação constitucional alcança toda a publicidade de atos, programas, obras, serviços e campanhas dos órgãos públicos.",
+    "fundamentacaoLegal": "CF/88, art. 37, caput e § 1º; doutrina de Maria Sylvia Zanella Di Pietro."
+  },
+  {
+    "id": "principios-03",
+    "topicoId": "principios",
+    "topico": "Princípios da Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre o princípio da moralidade administrativa e a vedação ao nepotismo, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A vedação ao nepotismo decorre diretamente dos princípios constitucionais da moralidade e da impessoalidade, independendo de lei formal que a preveja; segundo o Supremo Tribunal Federal, contudo, ela não incide, em regra, sobre a nomeação para cargos de natureza política, ressalvadas as hipóteses de fraude à lei ou de manifesta inaptidão do nomeado."
+      },
+      {
+        "letra": "B",
+        "texto": "A vedação ao nepotismo somente é exigível quando expressamente prevista em lei formal do respectivo ente federado, em razão do princípio da legalidade estrita."
+      },
+      {
+        "letra": "C",
+        "texto": "A Súmula Vinculante 13 do Supremo Tribunal Federal alcança apenas o cônjuge e os parentes em linha reta, excluídos os colaterais e os parentes por afinidade."
+      },
+      {
+        "letra": "D",
+        "texto": "A nomeação de parente para cargo em comissão é sempre válida quando o nomeado possuir qualificação técnica compatível com as atribuições do cargo."
+      },
+      {
+        "letra": "E",
+        "texto": "O ajuste mediante designações recíprocas entre autoridades de órgãos distintos não configura nepotismo, por inexistir relação de subordinação direta entre nomeante e nomeado."
+      }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A está correta: o STF firmou que a proibição do nepotismo decorre diretamente dos princípios do art. 37, caput, da CF/88, dispensando lei específica, e que, em regra, ela não se aplica aos cargos de natureza política, salvo situações de fraude à lei ou de inequívoca ausência de qualificação do nomeado. A alternativa B contraria essa orientação, pois os princípios constitucionais têm eficácia direta. A alternativa C contraria o texto da Súmula Vinculante 13, que abrange cônjuge, companheiro e parente em linha reta, colateral ou por afinidade, até o terceiro grau. A alternativa D é falsa, pois a qualificação técnica, isoladamente, não convalida a nomeação vedada pela súmula. A alternativa E contraria expressamente a parte final da Súmula Vinculante 13, que veda o nepotismo cruzado, isto é, o ajuste mediante designações recíprocas.",
+    "fundamentacaoLegal": "CF/88, art. 37, caput e inciso V; Súmula Vinculante 13 do STF; STF, RE 579.951/RN e Rcl 6.650-MC/PR."
+  },
+  {
+    "id": "principios-04",
+    "topicoId": "principios",
+    "topico": "Princípios da Administração Pública",
+    "dificuldade": "media",
+    "enunciado": "Sobre o princípio da publicidade e seu alcance na atividade administrativa, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A publicidade constitui requisito de validade do ato administrativo, de modo que a ausência de publicação acarreta sua nulidade desde a edição."
+      },
+      {
+        "letra": "B",
+        "texto": "O princípio da publicidade é absoluto, não comportando exceções no ordenamento constitucional brasileiro."
+      },
+      {
+        "letra": "C",
+        "texto": "A publicidade dos atos administrativos pode ser realizada exclusivamente por comunicação verbal aos interessados, dispensada, em qualquer caso, a publicação em órgão oficial."
+      },
+      {
+        "letra": "D",
+        "texto": "O direito de acesso a informações públicas não alcança documentos relativos a processos administrativos ainda em curso, cujo sigilo é sempre necessário."
+      },
+      {
+        "letra": "E",
+        "texto": "A publicidade, como regra, constitui condição de eficácia dos atos administrativos e pressuposto de seu controle, comportando exceções quando o sigilo seja imprescindível à segurança da sociedade e do Estado ou necessário à proteção da intimidade e da vida privada."
+      }
+    ],
+    "gabarito": "E",
+    "comentario": "A alternativa E está correta: a publicidade, em regra, é condição de eficácia e não requisito de validade do ato, e comporta as exceções previstas no art. 5º, XXXIII e LX, e no art. 37, § 3º, II, da CF/88, regulamentadas pela Lei nº 12.527/2011. A alternativa A erra ao tratar a publicidade como requisito de validade, com nulidade desde a edição. A alternativa B é falsa diante das exceções constitucionais e legais ao acesso à informação. A alternativa C é incorreta porque a publicidade dos atos de efeitos externos exige, em regra, publicação em órgão oficial, admitindo-se a intimação pessoal nas hipóteses legais. A alternativa D generaliza indevidamente: a Lei nº 12.527/2011 assegura o acesso a documentos de processos administrativos, ressalvadas as informações classificadas como sigilosas ou pessoais, e o art. 3º, II, e o art. 46 da Lei nº 9.784/1999 garantem ao interessado vista dos autos.",
+    "fundamentacaoLegal": "CF/88, art. 5º, XXXIII e LX, e art. 37, caput e § 3º, II; Lei nº 12.527/2011, arts. 7º, 23 e 31; Lei nº 9.784/1999, arts. 3º, II, e 46."
+  },
+  {
+    "id": "principios-05",
+    "topicoId": "principios",
+    "topico": "Princípios da Administração Pública",
+    "dificuldade": "media",
+    "enunciado": "Sobre o princípio da eficiência, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O princípio da eficiência foi introduzido no texto constitucional pela Emenda Constitucional nº 45/2004, no bojo da reforma do Poder Judiciário."
+      },
+      {
+        "letra": "B",
+        "texto": "O princípio da eficiência autoriza o administrador a afastar a aplicação da lei sempre que entender que ela conduz a resultado antieconômico."
+      },
+      {
+        "letra": "C",
+        "texto": "O princípio da eficiência foi inserido no caput do art. 37 da Constituição Federal pela Emenda Constitucional nº 19/1998 e manifesta-se, entre outras hipóteses, na previsão de perda do cargo do servidor estável mediante procedimento de avaliação periódica de desempenho, assegurada ampla defesa."
+      },
+      {
+        "letra": "D",
+        "texto": "A eficiência, por possuir conteúdo econômico, não é sindicável pelo Poder Judiciário nem pelos Tribunais de Contas."
+      },
+      {
+        "letra": "E",
+        "texto": "A eficiência sobrepõe-se hierarquicamente aos demais princípios previstos no art. 37 da Constituição Federal, devendo prevalecer em caso de colisão."
+      }
+    ],
+    "gabarito": "C",
+    "comentario": "A alternativa C está correta: a eficiência foi constitucionalizada pela EC nº 19/1998 e encontra concretização, entre outras, na hipótese do art. 41, § 1º, III, da CF/88. A alternativa A erra quanto à emenda, pois a EC nº 45/2004 tratou da reforma do Judiciário, tendo inserido, no art. 5º, LXXVIII, a razoável duração do processo. A alternativa B é falsa: a eficiência não afasta a legalidade, sendo ambos princípios do caput do art. 37. A alternativa D é incorreta, pois o art. 70 da CF/88 submete a Administração ao controle de legalidade, legitimidade e economicidade, exercido pelo controle interno e pelos Tribunais de Contas, sem prejuízo do controle judicial de legalidade. A alternativa E é falsa, pois não há hierarquia entre os princípios do art. 37, resolvendo-se eventual colisão pela ponderação no caso concreto.",
+    "fundamentacaoLegal": "CF/88, art. 37, caput, art. 41, § 1º, III, e art. 70 (com a redação da EC nº 19/1998)."
+  },
+  {
+    "id": "principios-06",
+    "topicoId": "principios",
+    "topico": "Princípios da Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre o princípio da supremacia do interesse público sobre o interesse privado, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A supremacia do interesse público está expressamente prevista no caput do art. 37 da Constituição Federal, ao lado da legalidade e da moralidade."
+      },
+      {
+        "letra": "B",
+        "texto": "A supremacia do interesse público é princípio implícito e estruturante do regime jurídico-administrativo, do qual derivam prerrogativas como a autoexecutoriedade dos atos administrativos e as cláusulas exorbitantes dos contratos; parte da doutrina contemporânea, contudo, critica sua formulação como regra de prevalência apriorística, defendendo a ponderação proporcional entre interesses públicos e privados."
+      },
+      {
+        "letra": "C",
+        "texto": "A supremacia do interesse público autoriza a Administração a restringir direitos fundamentais independentemente de previsão legal e de juízo de proporcionalidade."
+      },
+      {
+        "letra": "D",
+        "texto": "A doutrina brasileira é unânime ao reconhecer a supremacia do interesse público como princípio absoluto e insuscetível de ponderação no caso concreto."
+      },
+      {
+        "letra": "E",
+        "texto": "Por ser princípio implícito, a supremacia do interesse público não produz efeitos jurídicos concretos, servindo apenas como diretriz política de atuação governamental."
+      }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B está correta: a supremacia do interesse público é princípio implícito, fundamento das prerrogativas administrativas, e vem sendo objeto de releitura crítica por autores como Humberto Ávila, Gustavo Binenbojm e Daniel Sarmento, que rejeitam a prevalência abstrata e apriorística em favor da ponderação proporcional. A alternativa A é incorreta porque o princípio não figura no rol expresso do caput do art. 37. A alternativa C é falsa: qualquer restrição a direitos fundamentais exige base legal e proporcionalidade, conforme o devido processo legal substantivo (art. 5º, LIV, da CF/88) e o art. 2º, parágrafo único, VI, da Lei nº 9.784/1999. A alternativa D erra ao afirmar unanimidade doutrinária, inexistente na matéria. A alternativa E é incorreta, pois princípios implícitos são normas jurídicas dotadas de eficácia, produzindo efeitos concretos.",
+    "fundamentacaoLegal": "CF/88, art. 5º, LIV, e art. 37, caput; Lei nº 9.784/1999, art. 2º, parágrafo único, VI; Lei nº 14.133/2021, art. 104; doutrina de Celso Antônio Bandeira de Mello, Humberto Ávila e Gustavo Binenbojm."
+  },
+  {
+    "id": "principios-07",
+    "topicoId": "principios",
+    "topico": "Princípios da Administração Pública",
+    "dificuldade": "media",
+    "enunciado": "Sobre o princípio da autotutela administrativa, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A autotutela permite à Administração revogar os atos ilegais e anular os atos inconvenientes ou inoportunos."
+      },
+      {
+        "letra": "B",
+        "texto": "A anulação de ato administrativo pela própria Administração depende sempre de prévia autorização do Poder Judiciário."
+      },
+      {
+        "letra": "C",
+        "texto": "A revogação de ato administrativo produz efeitos retroativos, atingindo as situações já consolidadas sob a vigência do ato revogado."
+      },
+      {
+        "letra": "D",
+        "texto": "A Administração pode anular seus próprios atos quando eivados de vícios que os tornem ilegais e revogá-los por motivo de conveniência e oportunidade, respeitados os direitos adquiridos e ressalvada, em todos os casos, a apreciação judicial."
+      },
+      {
+        "letra": "E",
+        "texto": "A autotutela dispensa a instauração de processo administrativo e a observância do contraditório, ainda quando a anulação do ato repercutir no campo de interesses individuais."
+      }
+    ],
+    "gabarito": "D",
+    "comentario": "A alternativa D está correta e reproduz o enunciado da Súmula 473 do STF, também acolhido no art. 53 da Lei nº 9.784/1999. A alternativa A inverte os institutos: anulam-se os atos ilegais e revogam-se os inconvenientes ou inoportunos. A alternativa B é falsa, pois a autotutela dispensa provocação judicial, sem prejuízo do controle jurisdicional posterior. A alternativa C erra porque a revogação produz efeitos ex nunc, prospectivos, ao passo que a anulação, em regra, opera efeitos ex tunc. A alternativa E contraria a Súmula Vinculante 3 do STF e o art. 5º, LV, da CF/88, pois a anulação de ato que repercuta no campo de interesses individuais exige processo administrativo com contraditório e ampla defesa, na forma do art. 2º, parágrafo único, X, da Lei nº 9.784/1999.",
+    "fundamentacaoLegal": "Súmulas 346 e 473 do STF; Súmula Vinculante 3 do STF; CF/88, art. 5º, LV; Lei nº 9.784/1999, arts. 2º, 53 e 54."
+  },
+  {
+    "id": "principios-08",
+    "topicoId": "principios",
+    "topico": "Princípios da Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre os princípios da razoabilidade e da proporcionalidade na atividade administrativa, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A Lei nº 9.784/1999 impõe, nos processos administrativos federais, a adequação entre meios e fins, vedada a imposição de obrigações, restrições e sanções em medida superior àquelas estritamente necessárias ao atendimento do interesse público."
+      },
+      {
+        "letra": "B",
+        "texto": "A razoabilidade e a proporcionalidade estão expressamente previstas no caput do art. 37 da Constituição Federal, ao lado da moralidade e da eficiência."
+      },
+      {
+        "letra": "C",
+        "texto": "O controle judicial da proporcionalidade de sanção administrativa configura, necessariamente, indevida substituição do mérito administrativo pelo juízo do magistrado."
+      },
+      {
+        "letra": "D",
+        "texto": "A proporcionalidade decompõe-se em adequação, necessidade e tipicidade, entendida esta última como a exigência de prévia definição legal da conduta sancionada."
+      },
+      {
+        "letra": "E",
+        "texto": "A razoabilidade tornou-se princípio expresso na Constituição Federal com a Emenda Constitucional nº 19/1998, aplicando-se exclusivamente à Administração Pública federal."
+      }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A reproduz o art. 2º, parágrafo único, VI, da Lei nº 9.784/1999. A alternativa B é incorreta porque razoabilidade e proporcionalidade são princípios constitucionais implícitos, extraídos do devido processo legal substantivo (art. 5º, LIV), embora expressos em leis infraconstitucionais e em constituições estaduais. A alternativa C generaliza indevidamente: o controle de proporcionalidade da sanção é controle de legalidade em sentido amplo, admitido pela jurisprudência, e não substituição do mérito. A alternativa D erra ao substituir o terceiro subprincípio, que é a proporcionalidade em sentido estrito, pela tipicidade. A alternativa E é falsa quanto à emenda, ao caráter expresso do princípio na Constituição e ao âmbito de aplicação, que alcança todos os entes federados.",
+    "fundamentacaoLegal": "CF/88, art. 5º, LIV; Lei nº 9.784/1999, art. 2º, caput e parágrafo único, VI; Lei nº 14.133/2021, art. 5º."
+  },
+  {
+    "id": "principios-09",
+    "topicoId": "principios",
+    "topico": "Princípios da Administração Pública",
+    "dificuldade": "media",
+    "enunciado": "Sobre o dever de motivação dos atos administrativos, nos termos da Lei nº 9.784/1999, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A motivação é exigível apenas nos atos vinculados, sendo dispensável nos atos discricionários, em razão da liberdade de escolha do administrador."
+      },
+      {
+        "letra": "B",
+        "texto": "A motivação deve ser sempre anterior à prática do ato, sendo nula a motivação apresentada de forma concomitante à sua edição."
+      },
+      {
+        "letra": "C",
+        "texto": "A motivação por remissão a fundamentos de pareceres anteriores, denominada motivação aliunde, é expressamente vedada pela Lei nº 9.784/1999."
+      },
+      {
+        "letra": "D",
+        "texto": "Os atos que decidem recursos administrativos dispensam motivação, por serem meramente confirmatórios da decisão anterior."
+      },
+      {
+        "letra": "E",
+        "texto": "Devem ser motivados, com indicação dos fatos e dos fundamentos jurídicos, os atos que neguem, limitem ou afetem direitos ou interesses, imponham ou agravem deveres, encargos ou sanções, decidam recursos administrativos e deixem de aplicar jurisprudência firmada sobre a questão, entre outras hipóteses legalmente previstas."
+      }
+    ],
+    "gabarito": "E",
+    "comentario": "A alternativa E reproduz hipóteses do art. 50, caput, incisos I, II, V e VII, da Lei nº 9.784/1999. A alternativa A é incorreta: a motivação é ainda mais relevante nos atos discricionários, pois viabiliza o controle da finalidade e da razoabilidade da escolha. A alternativa B erra porque a motivação deve ser prévia ou contemporânea à prática do ato, admitindo-se, portanto, a motivação concomitante. A alternativa C contraria o art. 50, § 1º, que autoriza a motivação consistente em declaração de concordância com fundamentos de anteriores pareceres, informações, decisões ou propostas, que passam a integrar o ato. A alternativa D contraria expressamente o art. 50, V, que exige motivação para os atos que decidam recursos administrativos.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, art. 2º, parágrafo único, VII, e art. 50, caput, incisos I a VIII, e §§ 1º a 3º."
+  },
+  {
+    "id": "principios-10",
+    "topicoId": "principios",
+    "topico": "Princípios da Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "Determinado órgão fazendário municipal, após anos de interpretação consolidada quanto ao enquadramento de certa atividade econômica, altera seu entendimento e pretende aplicar a nova orientação a fatos geradores já ocorridos. À luz do princípio da segurança jurídica, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A Administração pode aplicar retroativamente a nova interpretação, desde que ela se mostre mais favorável ao interesse patrimonial do ente público."
+      },
+      {
+        "letra": "B",
+        "texto": "A mudança de interpretação administrativa produz efeitos automáticos sobre todos os atos praticados no passado, por força do poder de autotutela."
+      },
+      {
+        "letra": "C",
+        "texto": "Nos processos administrativos, é vedada a aplicação retroativa de nova interpretação de norma administrativa, em atenção ao princípio da segurança jurídica."
+      },
+      {
+        "letra": "D",
+        "texto": "O princípio da segurança jurídica impede, em termos absolutos, qualquer alteração de interpretação administrativa já consolidada, ainda que para o futuro."
+      },
+      {
+        "letra": "E",
+        "texto": "A segurança jurídica é princípio próprio do direito privado, não tendo sido acolhido entre os critérios de atuação previstos na Lei nº 9.784/1999."
+      }
+    ],
+    "gabarito": "C",
+    "comentario": "A alternativa C está correta e corresponde ao art. 2º, parágrafo único, XIII, da Lei nº 9.784/1999, que veda a aplicação retroativa de nova interpretação. A alternativa A é incorreta porque o interesse patrimonial do ente, interesse público secundário, não autoriza a retroatividade vedada em lei. A alternativa B erra porque a autotutela não se confunde com mudança de interpretação e não legitima efeitos retroativos em prejuízo do administrado de boa-fé. A alternativa D generaliza indevidamente: a alteração de interpretação é possível, produzindo efeitos prospectivos, cabendo à autoridade, quando impuser novo dever ou condicionamento, prever regime de transição, na forma do art. 23 da LINDB. A alternativa E é falsa, pois a segurança jurídica é expressamente contemplada na Lei nº 9.784/1999 e reforçada pelos arts. 23 e 24 da LINDB.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, art. 2º, caput e parágrafo único, XIII; LINDB, arts. 23 e 24."
+  },
+  {
+    "id": "principios-11",
+    "topicoId": "principios",
+    "topico": "Princípios da Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre o princípio da continuidade do serviço público e suas repercussões, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O princípio da continuidade impede, em qualquer hipótese, a interrupção da prestação do serviço público, ainda que haja inadimplemento do usuário."
+      },
+      {
+        "letra": "B",
+        "texto": "Não se caracteriza como descontinuidade do serviço público a sua interrupção em situação de emergência ou, após prévio aviso, quando motivada por razões de ordem técnica ou de segurança das instalações, ou por inadimplemento do usuário, considerado o interesse da coletividade."
+      },
+      {
+        "letra": "C",
+        "texto": "O direito de greve dos servidores públicos civis é vedado pela Constituição Federal, precisamente em razão do princípio da continuidade do serviço público."
+      },
+      {
+        "letra": "D",
+        "texto": "A interrupção do serviço por inadimplemento do usuário dispensa o prévio aviso, bastando a comunicação posterior ao corte."
+      },
+      {
+        "letra": "E",
+        "texto": "O princípio da continuidade autoriza o particular contratado a suspender de imediato a execução do contrato administrativo diante do primeiro atraso no pagamento pela Administração."
+      }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B reproduz o art. 6º, § 3º, I e II, da Lei nº 8.987/1995. A alternativa A é incorreta justamente porque o próprio dispositivo excepciona as hipóteses de interrupção legítima. A alternativa C contraria o art. 37, VII, da CF/88, que assegura o direito de greve ao servidor público civil, a ser exercido nos termos e limites definidos em lei específica, aplicando-se, por decisão do STF, a Lei nº 7.783/1989 no que couber. A alternativa D erra ao dispensar o aviso prévio, expressamente exigido pela lei fora das situações de emergência. A alternativa E é falsa: a exceção de contrato não cumprido é mitigada nos contratos administrativos, sendo que a Lei nº 14.133/2021 admite a extinção do contrato pelo contratado apenas após atraso superior a dois meses nos pagamentos, contado da emissão da nota fiscal.",
+    "fundamentacaoLegal": "Lei nº 8.987/1995, art. 6º, §§ 1º e 3º, I e II; CF/88, art. 37, VII; Lei nº 14.133/2021, art. 137, § 2º, IV."
+  },
+  {
+    "id": "principios-12",
+    "topicoId": "principios",
+    "topico": "Princípios da Administração Pública",
+    "dificuldade": "media",
+    "enunciado": "Nos termos do art. 2º da Lei nº 9.784/1999, que regula o processo administrativo, a Administração Pública obedecerá aos princípios da:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "legalidade, impessoalidade, moralidade, publicidade e eficiência, exclusivamente, em reprodução literal do caput do art. 37 da Constituição Federal."
+      },
+      {
+        "letra": "B",
+        "texto": "legalidade, finalidade, motivação, razoabilidade, proporcionalidade, moralidade, ampla defesa, contraditório, segurança jurídica, interesse público e eficiência, em rol de natureza taxativa."
+      },
+      {
+        "letra": "C",
+        "texto": "legalidade, celeridade, oralidade e economia processual, princípios extraídos do Código de Processo Civil e aplicáveis subsidiariamente ao processo administrativo."
+      },
+      {
+        "letra": "D",
+        "texto": "legalidade, finalidade, motivação, razoabilidade, proporcionalidade, moralidade, ampla defesa, contraditório, segurança jurídica, interesse público e eficiência, em rol expressamente exemplificativo."
+      },
+      {
+        "letra": "E",
+        "texto": "supremacia do interesse público, autotutela, hierarquia e especialidade, todos expressamente enumerados no referido dispositivo legal."
+      }
+    ],
+    "gabarito": "D",
+    "comentario": "A alternativa D está correta: o art. 2º, caput, da Lei nº 9.784/1999 relaciona os princípios ali indicados precedidos da expressão dentre outros, o que revela a natureza exemplificativa do rol. A alternativa B contém exatamente a mesma enumeração, mas erra ao qualificá-la como taxativa. A alternativa A confunde o dispositivo legal com o caput do art. 37 da Constituição Federal e ainda acrescenta a limitação exclusivamente, incompatível com a norma. A alternativa C arrola princípios que não constam do art. 2º da Lei nº 9.784/1999. A alternativa E menciona princípios reconhecidos pela doutrina, mas que não figuram expressamente no dispositivo indicado.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, art. 2º, caput e parágrafo único, incisos I a XIII; CF/88, art. 37, caput."
+  },
+  {
+    "id": "principios-13",
+    "topicoId": "principios",
+    "topico": "Princípios da Administração Pública",
+    "dificuldade": "media",
+    "enunciado": "Com base nas disposições introduzidas na Lei de Introdução às Normas do Direito Brasileiro pela Lei nº 13.655/2018, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "nas esferas administrativa, controladora e judicial, não se decidirá com base em valores jurídicos abstratos sem que sejam consideradas as consequências práticas da decisão."
+      },
+      {
+        "letra": "B",
+        "texto": "a exigência de consideração das consequências práticas aplica-se exclusivamente à esfera judicial, não alcançando as decisões dos órgãos de controle externo."
+      },
+      {
+        "letra": "C",
+        "texto": "é vedado às autoridades administrativas decidir com fundamento em princípios jurídicos, admitindo-se apenas a aplicação de regras expressas."
+      },
+      {
+        "letra": "D",
+        "texto": "a motivação da decisão que impõe medida ou invalida ato administrativo dispensa a demonstração de necessidade e adequação, bastando a indicação do dispositivo legal aplicado."
+      },
+      {
+        "letra": "E",
+        "texto": "a consideração das consequências práticas da decisão constitui mera faculdade do julgador, sem qualquer repercussão sobre a validade do ato decisório."
+      }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A reproduz o caput do art. 20 da LINDB. A alternativa B erra ao restringir o alcance da norma, que expressamente abrange as esferas administrativa, controladora e judicial. A alternativa C interpreta equivocadamente o dispositivo, que não proíbe o emprego de princípios, mas condiciona a decisão fundada em valores jurídicos abstratos à consideração de suas consequências práticas. A alternativa D contraria o parágrafo único do art. 20, que exige motivação demonstrando a necessidade e a adequação da medida imposta ou da invalidação, inclusive em face das possíveis alternativas. A alternativa E é falsa, pois se trata de dever legal, cuja inobservância compromete a validade da decisão por vício de motivação.",
+    "fundamentacaoLegal": "LINDB (Decreto-Lei nº 4.657/1942), art. 20, caput e parágrafo único, incluído pela Lei nº 13.655/2018."
+  },
+  {
+    "id": "principios-14",
+    "topicoId": "principios",
+    "topico": "Princípios da Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre os deveres impostos ao órgão decisor quando da invalidação de atos, contratos, ajustes, processos ou normas administrativas, nos termos da LINDB, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A decisão que invalida ato ou contrato administrativo produz efeitos automáticos, sendo desnecessária a indicação de suas consequências jurídicas e administrativas."
+      },
+      {
+        "letra": "B",
+        "texto": "A regularização decorrente da invalidação deve ser imposta da forma mais gravosa possível aos sujeitos atingidos, como medida de desestímulo a novas irregularidades."
+      },
+      {
+        "letra": "C",
+        "texto": "A LINDB veda a invalidação de contratos administrativos eivados de vício de legalidade, impondo, em qualquer hipótese, a convalidação do ajuste."
+      },
+      {
+        "letra": "D",
+        "texto": "O dever de indicar as consequências da invalidação incide somente quando a decisão for proferida na esfera judicial."
+      },
+      {
+        "letra": "E",
+        "texto": "A decisão que, nas esferas administrativa, controladora ou judicial, decretar a invalidação de ato, contrato, ajuste, processo ou norma administrativa deverá indicar de modo expresso suas consequências jurídicas e administrativas e, quando for o caso, as condições para que a regularização ocorra de modo proporcional e equânime, sem que se imponham aos sujeitos atingidos ônus ou perdas anormais ou excessivos."
+      }
+    ],
+    "gabarito": "E",
+    "comentario": "A alternativa E reproduz o art. 21, caput e parágrafo único, da LINDB. A alternativa A contraria expressamente o caput do dispositivo. A alternativa B inverte a diretriz legal, que impõe proporcionalidade e equanimidade e veda ônus anormais ou excessivos. A alternativa C é falsa: a LINDB não veda a invalidação, apenas disciplina seus efeitos, sendo que a convalidação, quando cabível, segue o regime do art. 55 da Lei nº 9.784/1999. A alternativa D restringe indevidamente o alcance da norma, que se aplica igualmente às esferas administrativa e controladora.",
+    "fundamentacaoLegal": "LINDB, art. 21, caput e parágrafo único, incluído pela Lei nº 13.655/2018; Lei nº 9.784/1999, art. 55."
+  },
+  {
+    "id": "principios-15",
+    "topicoId": "principios",
+    "topico": "Princípios da Administração Pública",
+    "dificuldade": "media",
+    "enunciado": "Sobre a interpretação de normas de gestão pública e a dosimetria de sanções, conforme a LINDB, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Na interpretação de normas sobre gestão pública, é vedado considerar os obstáculos e as dificuldades reais do gestor, sob pena de indevida relativização do princípio da legalidade."
+      },
+      {
+        "letra": "B",
+        "texto": "Na aplicação de sanções, considera-se exclusivamente a natureza da infração cometida, sendo juridicamente irrelevantes os antecedentes do agente."
+      },
+      {
+        "letra": "C",
+        "texto": "Na interpretação de normas sobre gestão pública, serão considerados os obstáculos e as dificuldades reais do gestor e as exigências das políticas públicas a seu cargo, sem prejuízo dos direitos dos administrados."
+      },
+      {
+        "letra": "D",
+        "texto": "As sanções já aplicadas ao agente não podem ser levadas em conta na dosimetria de outras sanções de mesma natureza relativas ao mesmo fato."
+      },
+      {
+        "letra": "E",
+        "texto": "As circunstâncias práticas que houverem imposto, limitado ou condicionado a ação do agente somente podem ser consideradas em processo judicial, jamais em processo administrativo."
+      }
+    ],
+    "gabarito": "C",
+    "comentario": "A alternativa C reproduz o caput do art. 22 da LINDB. A alternativa A contraria frontalmente esse dispositivo. A alternativa B contraria o art. 22, § 2º, que manda considerar a natureza e a gravidade da infração, os danos dela decorrentes, as circunstâncias agravantes ou atenuantes e os antecedentes do agente. A alternativa D contraria o art. 22, § 3º, que determina que as sanções aplicadas ao agente sejam levadas em conta na dosimetria das demais sanções de mesma natureza e relativas ao mesmo fato. A alternativa E contraria o art. 22, § 1º, que se refere expressamente às decisões sobre regularidade de conduta ou validade de ato, contrato, ajuste, processo ou norma administrativa, alcançando também a esfera administrativa.",
+    "fundamentacaoLegal": "LINDB, art. 22, caput e §§ 1º a 3º, incluído pela Lei nº 13.655/2018."
+  },
+  {
+    "id": "principios-16",
+    "topicoId": "principios",
+    "topico": "Princípios da Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "A respeito do regime de transição previsto na LINDB para as hipóteses de interpretação ou orientação nova sobre norma de conteúdo indeterminado, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A decisão que estabelece interpretação nova sobre norma de conteúdo indeterminado deve prever, obrigatoriamente e em qualquer caso, regime de transição de, no mínimo, doze meses."
+      },
+      {
+        "letra": "B",
+        "texto": "A decisão administrativa, controladora ou judicial que estabelecer interpretação ou orientação nova sobre norma de conteúdo indeterminado, impondo novo dever ou novo condicionamento de direito, deverá prever regime de transição quando indispensável para que o novo dever ou condicionamento seja cumprido de modo proporcional, equânime e eficiente e sem prejuízo aos interesses gerais."
+      },
+      {
+        "letra": "C",
+        "texto": "O regime de transição previsto na LINDB aplica-se exclusivamente às decisões proferidas pelos Tribunais de Contas em processos de fiscalização."
+      },
+      {
+        "letra": "D",
+        "texto": "É vedada a alteração de interpretação administrativa sobre normas de conteúdo indeterminado, em razão do princípio da segurança jurídica."
+      },
+      {
+        "letra": "E",
+        "texto": "O regime de transição somente é cabível quando a nova interpretação vier a beneficiar o administrado, sendo dispensável nas hipóteses de imposição de novos deveres."
+      }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B reproduz o art. 23 da LINDB. A alternativa A erra ao criar prazo mínimo inexistente e ao tornar obrigatório o regime de transição em qualquer caso, quando a lei o exige apenas quando indispensável. A alternativa C restringe indevidamente o âmbito de incidência, que abrange as esferas administrativa, controladora e judicial. A alternativa D é falsa, pois a mudança de interpretação é admitida, exigindo-se apenas a modulação de seus efeitos e a vedação de aplicação retroativa. A alternativa E inverte a lógica do dispositivo, cuja finalidade é precisamente proteger o administrado diante da imposição de novo dever ou condicionamento de direito.",
+    "fundamentacaoLegal": "LINDB, art. 23, incluído pela Lei nº 13.655/2018; Lei nº 9.784/1999, art. 2º, parágrafo único, XIII."
+  },
+  {
+    "id": "principios-17",
+    "topicoId": "principios",
+    "topico": "Princípios da Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre a revisão da validade de atos administrativos já produzidos, à luz do art. 24 da LINDB, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A revisão quanto à validade de ato já produzido deve levar em conta a orientação geral vigente no momento da revisão, e não aquela existente à época da prática do ato."
+      },
+      {
+        "letra": "B",
+        "texto": "Consideram-se orientações gerais, para os fins do dispositivo, apenas as súmulas vinculantes editadas pelo Supremo Tribunal Federal."
+      },
+      {
+        "letra": "C",
+        "texto": "A mudança posterior de orientação geral autoriza a declaração de invalidade de situações plenamente constituídas, em homenagem à legalidade objetiva."
+      },
+      {
+        "letra": "D",
+        "texto": "A revisão, nas esferas administrativa, controladora ou judicial, quanto à validade de ato, contrato, ajuste, processo ou norma administrativa cuja produção já se houver completado levará em conta as orientações gerais da época, sendo vedado que, com base em mudança posterior de orientação geral, se declarem inválidas situações plenamente constituídas."
+      },
+      {
+        "letra": "E",
+        "texto": "A prática administrativa reiterada e de amplo conhecimento público não pode ser considerada orientação geral para os fins do art. 24 da LINDB."
+      }
+    ],
+    "gabarito": "D",
+    "comentario": "A alternativa D reproduz o caput do art. 24 da LINDB, expressão do princípio do tempus regit actum e da segurança jurídica. A alternativa A inverte o comando legal. A alternativa B contraria o parágrafo único do art. 24, que define orientações gerais como as interpretações e especificações contidas em atos públicos de caráter geral ou em jurisprudência judicial ou administrativa majoritária, além das adotadas por prática administrativa reiterada e de amplo conhecimento público. A alternativa C contraria a vedação expressa do caput. A alternativa E também contraria o parágrafo único, que inclui a prática administrativa reiterada no conceito de orientação geral.",
+    "fundamentacaoLegal": "LINDB, art. 24, caput e parágrafo único, incluído pela Lei nº 13.655/2018."
+  },
+  {
+    "id": "principios-18",
+    "topicoId": "principios",
+    "topico": "Princípios da Administração Pública",
+    "dificuldade": "media",
+    "enunciado": "Sobre a responsabilização pessoal do agente público por suas decisões ou opiniões técnicas, nos termos do art. 28 da LINDB, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O agente público responderá pessoalmente por suas decisões ou opiniões técnicas em caso de dolo ou erro grosseiro."
+      },
+      {
+        "letra": "B",
+        "texto": "O agente público responde pessoalmente por culpa em qualquer grau, inclusive levíssima, desde que demonstrado o nexo causal com o dano."
+      },
+      {
+        "letra": "C",
+        "texto": "O art. 28 da LINDB afastou integralmente a responsabilidade pessoal do agente público por decisões ou opiniões de natureza técnica."
+      },
+      {
+        "letra": "D",
+        "texto": "A responsabilização pessoal do agente independe da demonstração de dolo ou erro grosseiro sempre que houver dano ao erário."
+      },
+      {
+        "letra": "E",
+        "texto": "A responsabilidade do agente público por opinião técnica é objetiva, bastando o nexo causal entre a manifestação e o resultado danoso."
+      }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A reproduz o art. 28 da LINDB. A alternativa B contraria o dispositivo, que exigiu dolo ou erro grosseiro, elevando o padrão de imputação e afastando a culpa leve ou levíssima. A alternativa C erra porque a norma não excluiu a responsabilidade, apenas delimitou seus pressupostos. A alternativa D é falsa: a existência de dano ao erário não dispensa a demonstração do elemento subjetivo qualificado exigido em lei. A alternativa E é incorreta porque a responsabilidade objetiva do art. 37, § 6º, da CF/88 é do Estado perante terceiros, ao passo que a responsabilidade do agente é subjetiva, em ação regressiva.",
+    "fundamentacaoLegal": "LINDB, art. 28, incluído pela Lei nº 13.655/2018; Decreto nº 9.830/2019, art. 12, §§ 1º e 2º; CF/88, art. 37, § 6º."
+  },
+  {
+    "id": "principios-19",
+    "topicoId": "principios",
+    "topico": "Princípios da Administração Pública",
+    "dificuldade": "media",
+    "enunciado": "Sobre o compromisso previsto no art. 26 da LINDB como instrumento de consensualidade na Administração Pública, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O compromisso produz efeitos desde a data de sua assinatura pelas partes, independentemente de publicação oficial."
+      },
+      {
+        "letra": "B",
+        "texto": "O compromisso pode conferir desoneração permanente de dever ou condicionamento de direito reconhecidos por orientação geral."
+      },
+      {
+        "letra": "C",
+        "texto": "A celebração do compromisso dispensa a prévia oitiva do órgão jurídico, dada a natureza consensual do instrumento."
+      },
+      {
+        "letra": "D",
+        "texto": "O compromisso é cabível apenas para a expedição de licenças ambientais, não se aplicando a outras situações de incerteza jurídica."
+      },
+      {
+        "letra": "E",
+        "texto": "Para eliminar irregularidade, incerteza jurídica ou situação contenciosa na aplicação do direito público, a autoridade administrativa poderá, após oitiva do órgão jurídico e, quando for o caso, após realização de consulta pública, e presentes razões de relevante interesse geral, celebrar compromisso com os interessados, o qual só produzirá efeitos a partir de sua publicação oficial."
+      }
+    ],
+    "gabarito": "E",
+    "comentario": "A alternativa E reproduz o caput do art. 26 da LINDB. A alternativa A contraria a parte final do dispositivo, que condiciona a produção de efeitos à publicação oficial. A alternativa B contraria o art. 26, § 1º, III, que veda ao compromisso conferir desoneração permanente de dever ou condicionamento de direito reconhecidos por orientação geral. A alternativa C erra porque a oitiva do órgão jurídico é exigência legal expressa. A alternativa D restringe indevidamente o cabimento do instrumento, que se aplica a qualquer situação de irregularidade, incerteza jurídica ou contenciosidade na aplicação do direito público, inclusive, mas não apenas, no caso de expedição de licença.",
+    "fundamentacaoLegal": "LINDB, art. 26, caput e § 1º, incisos I, III e IV, incluído pela Lei nº 13.655/2018."
+  },
+  {
+    "id": "principios-20",
+    "topicoId": "principios",
+    "topico": "Princípios da Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre o dever das autoridades públicas de atuar para aumentar a segurança jurídica na aplicação das normas, previsto no art. 30 da LINDB, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os regulamentos, as súmulas administrativas e as respostas a consultas possuem caráter meramente orientativo, não vinculando sequer o órgão que os editou."
+      },
+      {
+        "letra": "B",
+        "texto": "As autoridades públicas devem abster-se de editar súmulas administrativas, sob pena de usurpação de competência jurisdicional."
+      },
+      {
+        "letra": "C",
+        "texto": "As autoridades públicas devem atuar para aumentar a segurança jurídica na aplicação das normas, inclusive por meio de regulamentos, súmulas administrativas e respostas a consultas, instrumentos que terão caráter vinculante em relação ao órgão ou entidade a que se destinam, até ulterior revisão."
+      },
+      {
+        "letra": "D",
+        "texto": "As súmulas administrativas vinculam o Poder Judiciário, que fica impedido de adotar interpretação diversa daquela nelas consagrada."
+      },
+      {
+        "letra": "E",
+        "texto": "As respostas a consultas formuladas pelos administrados não podem ser publicadas, por veicularem informações necessariamente protegidas por sigilo."
+      }
+    ],
+    "gabarito": "C",
+    "comentario": "A alternativa C reproduz o art. 30, caput e parágrafo único, da LINDB. A alternativa A contraria o parágrafo único, que confere caráter vinculante aos instrumentos em relação ao órgão ou entidade a que se destinam. A alternativa B é falsa, pois a edição de súmulas administrativas é expressamente estimulada pelo dispositivo, não se confundindo com atividade jurisdicional. A alternativa D extrapola o alcance da norma, cuja vinculação é interna à Administração e não alcança o Poder Judiciário, ante a inafastabilidade da jurisdição prevista no art. 5º, XXXV, da CF/88. A alternativa E é incorreta porque a regra é a publicidade, e o sigilo constitui exceção limitada às hipóteses legais.",
+    "fundamentacaoLegal": "LINDB, art. 30, caput e parágrafo único, incluído pela Lei nº 13.655/2018; CF/88, art. 5º, XXXV, e art. 37, caput."
+  },
+  {
+    "id": "principios-21",
+    "topicoId": "principios",
+    "topico": "Princípios da Administração Pública",
+    "dificuldade": "media",
+    "enunciado": "Sobre o princípio da especialidade no âmbito da Administração Pública, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O princípio da especialidade autoriza as entidades da Administração indireta a exercer quaisquer atividades de interesse público, ainda que estranhas às finalidades definidas em sua lei instituidora."
+      },
+      {
+        "letra": "B",
+        "texto": "O princípio da especialidade impõe que as entidades da Administração indireta atuem estritamente dentro das finalidades específicas para as quais foram criadas ou tiveram autorizada sua criação por lei, sendo-lhes vedado desviar-se para objetivos diversos."
+      },
+      {
+        "letra": "C",
+        "texto": "O princípio da especialidade decorre da relação de hierarquia existente entre os órgãos da Administração direta e as entidades da Administração indireta."
+      },
+      {
+        "letra": "D",
+        "texto": "A alteração das finalidades institucionais de uma autarquia pode ser realizada por decreto do Chefe do Poder Executivo, em razão de seu poder de organização administrativa."
+      },
+      {
+        "letra": "E",
+        "texto": "O princípio da especialidade aplica-se exclusivamente às autarquias, não alcançando as empresas públicas e as sociedades de economia mista."
+      }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B está correta: como as entidades da Administração indireta são criadas por lei ou por autorização legal para o desempenho de finalidades determinadas, elas se vinculam a esses fins, sob pena de invalidade de sua atuação. A alternativa A contraria frontalmente o princípio. A alternativa C erra porque não há hierarquia entre a Administração direta e as entidades da indireta, mas apenas controle finalístico ou tutela administrativa. A alternativa D é incorreta porque as finalidades da autarquia são fixadas em lei, e o paralelismo das formas impõe que sua alteração se dê também por lei (art. 37, XIX, da CF/88). A alternativa E restringe indevidamente o alcance do princípio, que se aplica a toda a Administração indireta, inclusive às empresas estatais, cujos objetos sociais são delimitados pela lei autorizadora.",
+    "fundamentacaoLegal": "CF/88, art. 37, XIX; Decreto-Lei nº 200/1967, arts. 4º, 5º e 6º; Lei nº 13.303/2016, art. 2º."
+  },
+  {
+    "id": "principios-22",
+    "topicoId": "principios",
+    "topico": "Princípios da Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre o princípio da proteção da confiança legítima e sua relação com a boa-fé do administrado, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A proteção da confiança legítima possui índole exclusivamente objetiva, sendo indiferente o estado subjetivo do administrado atingido pelo ato."
+      },
+      {
+        "letra": "B",
+        "texto": "A boa-fé do administrado é juridicamente irrelevante para a manutenção dos efeitos já produzidos por ato administrativo posteriormente anulado."
+      },
+      {
+        "letra": "C",
+        "texto": "A proteção da confiança legítima autoriza a manutenção de atos administrativos obtidos mediante fraude, desde que decorrido longo lapso temporal desde a sua prática."
+      },
+      {
+        "letra": "D",
+        "texto": "A proteção da confiança legítima constitui a dimensão subjetiva do princípio da segurança jurídica e pode justificar a preservação de efeitos já produzidos por ato administrativo inválido em favor do administrado de boa-fé, especialmente diante do decurso do tempo e da estabilização das relações jurídicas."
+      },
+      {
+        "letra": "E",
+        "texto": "O princípio da proteção da confiança legítima não foi acolhido pelo direito administrativo brasileiro, por ausência de previsão expressa em texto normativo."
+      }
+    ],
+    "gabarito": "D",
+    "comentario": "A alternativa D está correta: a doutrina distingue a segurança jurídica em sentido objetivo, ligada à estabilidade das relações jurídicas, e a proteção da confiança, de caráter subjetivo, voltada à tutela das expectativas legítimas do administrado de boa-fé. A alternativa A erra ao negar o componente subjetivo, que é justamente a nota distintiva da confiança legítima. A alternativa B contraria o art. 54 da Lei nº 9.784/1999, que ressalva expressamente a hipótese de má-fé, revelando a relevância jurídica da boa-fé. A alternativa C é inaceitável: a fraude afasta a boa-fé e, por consequência, a tutela da confiança. A alternativa E é falsa, pois o princípio encontra assento nos arts. 2º, XIII, 54 e 55 da Lei nº 9.784/1999 e nos arts. 23 e 24 da LINDB, além de ampla acolhida jurisprudencial.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, art. 2º, parágrafo único, XIII, e arts. 54 e 55; LINDB, arts. 23 e 24; doutrina de Almiro do Couto e Silva e Maria Sylvia Zanella Di Pietro."
+  },
+  {
+    "id": "principios-23",
+    "topicoId": "principios",
+    "topico": "Princípios da Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "O Prefeito de determinado Município, valendo-se de competência legalmente prevista e observando rigorosamente a forma exigida em lei, remove servidor estável para localidade distante com o propósito exclusivo de puni-lo por críticas públicas dirigidas à gestão municipal. Sobre a situação narrada, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O ato é inválido por desvio de finalidade, espécie de abuso de poder que vicia o elemento finalidade, ainda que observados os requisitos de competência e de forma."
+      },
+      {
+        "letra": "B",
+        "texto": "O ato é válido, pois a observância da competência e da forma prescritas em lei é suficiente para assegurar sua legitimidade."
+      },
+      {
+        "letra": "C",
+        "texto": "Trata-se de hipótese de excesso de poder, uma vez que a autoridade atuou fora dos limites materiais de sua competência legal."
+      },
+      {
+        "letra": "D",
+        "texto": "O ato é válido, pois a remoção constitui ato discricionário, insuscetível de qualquer espécie de controle jurisdicional."
+      },
+      {
+        "letra": "E",
+        "texto": "O vício recai sobre o elemento motivo, e não sobre a finalidade, sendo o ato passível de convalidação pela própria autoridade que o praticou."
+      }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A está correta: há desvio de finalidade quando o agente pratica o ato visando a fim diverso daquele previsto, explícita ou implicitamente, na regra de competência, o que ocorre na utilização da remoção como punição disfarçada. A alternativa B é incorreta porque a finalidade é elemento autônomo do ato administrativo, cuja violação acarreta nulidade ainda que competência e forma estejam regulares. A alternativa C confunde as modalidades de abuso de poder: no excesso de poder o agente age além dos limites de sua competência, ao passo que no desvio de finalidade age dentro da competência, mas com finalidade estranha à prevista em lei. A alternativa D é falsa: a discricionariedade não afasta o controle judicial de legalidade, que alcança finalidade e motivo do ato. A alternativa E erra na qualificação do vício e na consequência, pois os vícios de finalidade e de motivo são insanáveis, não comportando convalidação, admitida esta apenas quanto a defeitos sanáveis de competência e de forma.",
+    "fundamentacaoLegal": "Lei nº 4.717/1965, art. 2º, alínea e, e parágrafo único, alínea e; Lei nº 9.784/1999, art. 2º, parágrafo único, II, XIII, e art. 55; CF/88, art. 37, caput."
+  },
+  {
+    "id": "principios-24",
+    "topicoId": "principios",
+    "topico": "Princípios da Administração Pública",
+    "dificuldade": "media",
+    "enunciado": "Sobre as concretizações constitucionais do princípio da impessoalidade, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A investidura em cargo ou emprego público depende exclusivamente de nomeação pela autoridade competente, sendo dispensado o concurso público para os empregos das empresas públicas e sociedades de economia mista."
+      },
+      {
+        "letra": "B",
+        "texto": "A exigência de licitação não se aplica às empresas públicas e às sociedades de economia mista, que se submetem integralmente ao regime jurídico de direito privado."
+      },
+      {
+        "letra": "C",
+        "texto": "O prazo de validade do concurso público é de até quatro anos, prorrogável uma vez, por igual período, a critério da Administração."
+      },
+      {
+        "letra": "D",
+        "texto": "As nomeações para cargo em comissão dependem de prévia aprovação em concurso público de provas ou de provas e títulos."
+      },
+      {
+        "letra": "E",
+        "texto": "O concurso público e a licitação constituem concretizações do princípio da impessoalidade, assegurando igualdade de condições a todos os interessados e prevenindo favorecimentos pessoais, ressalvadas as hipóteses constitucionais e legais de nomeação para cargo em comissão e de contratação direta."
+      }
+    ],
+    "gabarito": "E",
+    "comentario": "A alternativa E está correta, pois tanto o concurso público (art. 37, II) quanto a licitação (art. 37, XXI) realizam a igualdade e a impessoalidade, com as ressalvas constitucionais e legais expressas. A alternativa A contraria o art. 37, II, da CF/88, que exige concurso público também para os empregos públicos, inclusive nas empresas estatais. A alternativa B é falsa: as estatais submetem-se a licitação, nos termos do art. 173, § 1º, III, da CF/88 e da Lei nº 13.303/2016. A alternativa C erra o prazo, que é de até dois anos, prorrogável uma vez por igual período (art. 37, III). A alternativa D contraria o art. 37, II, parte final, e o inciso V, pois os cargos em comissão são de livre nomeação e exoneração, destinados às atribuições de direção, chefia e assessoramento.",
+    "fundamentacaoLegal": "CF/88, art. 37, II, III, V e XXI, e art. 173, § 1º, III; Lei nº 13.303/2016, arts. 28 a 32; Lei nº 14.133/2021, arts. 74 e 75."
+  },
+  {
+    "id": "principios-25",
+    "topicoId": "principios",
+    "topico": "Princípios da Administração Pública",
+    "dificuldade": "media",
+    "enunciado": "Sobre a participação do usuário na Administração Pública, prevista no art. 37, § 3º, da Constituição Federal, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A participação do usuário na Administração Pública é vedada, por incompatibilidade com o princípio da supremacia do interesse público."
+      },
+      {
+        "letra": "B",
+        "texto": "O acesso dos usuários a registros administrativos e a informações sobre atos de governo é irrestrito, não comportando limitações fundadas na intimidade ou na segurança da sociedade e do Estado."
+      },
+      {
+        "letra": "C",
+        "texto": "A Constituição Federal determina que a lei discipline as formas de participação do usuário na administração pública direta e indireta, regulando especialmente as reclamações relativas à prestação dos serviços públicos, o acesso a registros administrativos e a informações sobre atos de governo e a representação contra o exercício negligente ou abusivo de cargo, emprego ou função."
+      },
+      {
+        "letra": "D",
+        "texto": "A avaliação periódica da qualidade dos serviços públicos deve ser exclusivamente interna, sendo vedada a avaliação externa realizada com participação dos usuários."
+      },
+      {
+        "letra": "E",
+        "texto": "A representação contra o exercício abusivo de cargo, emprego ou função pública somente pode ser apresentada por servidor público lotado no mesmo órgão do representado."
+      }
+    ],
+    "gabarito": "C",
+    "comentario": "A alternativa C reproduz o art. 37, § 3º, I a III, da CF/88, na redação dada pela EC nº 19/1998. A alternativa A é falsa, pois a participação popular é diretriz constitucional e manifestação da administração dialógica. A alternativa B erra ao afirmar acesso irrestrito, uma vez que o próprio inciso II remete às ressalvas do art. 5º, X e XXXIII, da CF/88, detalhadas na Lei nº 12.527/2011. A alternativa D contraria o inciso I, que assegura a avaliação periódica, externa e interna, da qualidade dos serviços. A alternativa E restringe indevidamente a legitimidade para representar, que é ampla, cabendo a qualquer pessoa, conforme o inciso III e a Lei nº 13.460/2017.",
+    "fundamentacaoLegal": "CF/88, art. 5º, X e XXXIII, e art. 37, § 3º, I a III (redação da EC nº 19/1998); Lei nº 13.460/2017; Lei nº 12.527/2011."
+  },
+  {
+    "id": "principios-26",
+    "topicoId": "principios",
+    "topico": "Princípios da Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "Servidor de determinado Município vem recebendo, há seis anos, vantagem pecuniária concedida por ato administrativo posteriormente reconhecido como ilegal, sem que tenha concorrido com má-fé para a sua edição. Inexiste lei municipal específica sobre processo administrativo. À luz do princípio da segurança jurídica, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A Administração pode anular o ato a qualquer tempo, pois os atos nulos não convalescem com o decurso do tempo."
+      },
+      {
+        "letra": "B",
+        "texto": "Operou-se a decadência do direito de a Administração anular o ato, pois o direito de anular atos administrativos de que decorram efeitos favoráveis para os destinatários decai em cinco anos, contados da data em que foram praticados, salvo comprovada má-fé, sendo que, no caso de efeitos patrimoniais contínuos, o prazo se conta da percepção do primeiro pagamento."
+      },
+      {
+        "letra": "C",
+        "texto": "O prazo decadencial é de dez anos, contados da data em que a Administração tomou conhecimento da ilegalidade do ato."
+      },
+      {
+        "letra": "D",
+        "texto": "A decadência prevista na Lei nº 9.784/1999 incide inclusive sobre os atos praticados mediante comprovada má-fé do beneficiário, em nome da estabilização das relações jurídicas."
+      },
+      {
+        "letra": "E",
+        "texto": "O prazo decadencial não se interrompe nem se suspende, sendo juridicamente irrelevante qualquer medida de autoridade administrativa que importe impugnação à validade do ato."
+      }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B reproduz o art. 54, caput e § 1º, da Lei nº 9.784/1999, aplicável subsidiariamente aos Municípios quando inexistir norma local específica, conforme a Súmula 633 do STJ. A alternativa A ignora a decadência legalmente estabelecida, que excepciona a Súmula 473 do STF. A alternativa C erra tanto o prazo quanto o termo inicial. A alternativa D contraria a ressalva expressa do caput do art. 54, que afasta a decadência em caso de comprovada má-fé. A alternativa E contraria o art. 54, § 2º, segundo o qual se considera exercício do direito de anular qualquer medida de autoridade administrativa que importe impugnação à validade do ato.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, art. 54, caput e §§ 1º e 2º; Súmula 633 do STJ; Súmula 473 do STF."
+  },
+  {
+    "id": "principios-27",
+    "topicoId": "principios",
+    "topico": "Princípios da Administração Pública",
+    "dificuldade": "media",
+    "enunciado": "Sobre os princípios da legitimidade e da economicidade e o controle da atividade administrativa, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O controle externo exercido pelo Poder Legislativo limita-se ao exame da legalidade formal dos atos administrativos praticados."
+      },
+      {
+        "letra": "B",
+        "texto": "A economicidade é princípio aplicável somente às empresas estatais exploradoras de atividade econômica, por atuarem em regime de concorrência."
+      },
+      {
+        "letra": "C",
+        "texto": "A fiscalização quanto à legitimidade e à economicidade compete exclusivamente ao sistema de controle interno de cada Poder, sendo vedada aos Tribunais de Contas."
+      },
+      {
+        "letra": "D",
+        "texto": "A fiscalização contábil, financeira, orçamentária, operacional e patrimonial das entidades da administração direta e indireta, quanto à legalidade, legitimidade, economicidade, aplicação das subvenções e renúncia de receitas, é exercida pelo Poder Legislativo, mediante controle externo, e pelo sistema de controle interno de cada Poder."
+      },
+      {
+        "letra": "E",
+        "texto": "A renúncia de receitas está excluída do âmbito da fiscalização prevista no art. 70 da Constituição Federal, por constituir opção de política fiscal insindicável."
+      }
+    ],
+    "gabarito": "D",
+    "comentario": "A alternativa D reproduz o art. 70, caput, da CF/88, norma de observância obrigatória pelos Municípios por força do art. 31 e do art. 75. A alternativa A é incorreta porque o controle externo abrange também legitimidade e economicidade, ou seja, o mérito da gestão sob a ótica da eficiência e da relação custo-benefício. A alternativa B é falsa: a economicidade orienta toda a atividade administrativa, e não apenas as estatais. A alternativa C erra ao excluir os Tribunais de Contas, que exercem justamente o controle externo em auxílio ao Legislativo (art. 71 e art. 31, § 1º). A alternativa E contraria a literalidade do art. 70, que menciona expressamente a renúncia de receitas.",
+    "fundamentacaoLegal": "CF/88, art. 31, §§ 1º e 2º, art. 70, caput e parágrafo único, art. 71 e art. 74."
+  },
+  {
+    "id": "principios-28",
+    "topicoId": "principios",
+    "topico": "Princípios da Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre os princípios expressamente enunciados na Lei nº 14.133/2021 e sua aplicação às contratações públicas, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Na aplicação da Lei nº 14.133/2021 serão observados, entre outros, os princípios do planejamento, da transparência, da segregação de funções, da vinculação ao edital, do julgamento objetivo e do desenvolvimento nacional sustentável, bem como as disposições da Lei de Introdução às Normas do Direito Brasileiro."
+      },
+      {
+        "letra": "B",
+        "texto": "O princípio da segregação de funções autoriza a concentração de todas as etapas do procedimento de contratação em um único agente público, com vistas à celeridade e à eficiência."
+      },
+      {
+        "letra": "C",
+        "texto": "O princípio da vinculação ao edital permite à Administração alterar as regras do certame após a abertura das propostas, desde que o faça de forma motivada e publicada."
+      },
+      {
+        "letra": "D",
+        "texto": "O desenvolvimento nacional sustentável não figura entre os princípios da Lei nº 14.133/2021, tendo sido suprimido em relação ao regime da Lei nº 8.666/1993."
+      },
+      {
+        "letra": "E",
+        "texto": "A Lei nº 14.133/2021 afastou expressamente a aplicação das disposições da Lei de Introdução às Normas do Direito Brasileiro aos processos de contratação pública."
+      }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A está correta e reflete o art. 5º da Lei nº 14.133/2021, que arrola extenso conjunto de princípios e remete expressamente à LINDB. A alternativa B inverte o conteúdo da segregação de funções, que veda a designação do mesmo agente público para atuação simultânea em funções mais suscetíveis a riscos, de modo a reduzir a possibilidade de ocultação de erros e de fraudes (art. 7º, § 1º). A alternativa C contraria a vinculação ao instrumento convocatório, que obriga a Administração e os licitantes aos termos do edital, sendo que eventual alteração exige nova divulgação e reabertura de prazo quando afetar a formulação das propostas (art. 55, § 1º). A alternativa D é falsa, pois o desenvolvimento nacional sustentável consta expressamente do art. 5º. A alternativa E contraria a parte final do mesmo art. 5º, que determina a observância da LINDB.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 5º, art. 7º, § 1º, e art. 55, § 1º; LINDB, arts. 20 a 30."
+  },
+  {
+    "id": "principios-29",
+    "topicoId": "principios",
+    "topico": "Princípios da Administração Pública",
+    "dificuldade": "media",
+    "enunciado": "Sobre o princípio da indisponibilidade do interesse público e suas consequências práticas, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A indisponibilidade do interesse público autoriza o administrador a renunciar a direitos titularizados pela Administração sempre que reputar conveniente e oportuno."
+      },
+      {
+        "letra": "B",
+        "texto": "Em razão da indisponibilidade, é vedada a celebração de qualquer espécie de acordo pela Administração Pública, ainda que expressamente autorizada em lei."
+      },
+      {
+        "letra": "C",
+        "texto": "A indisponibilidade do interesse público significa que os bens públicos podem ser livremente alienados, desde que observado o preço de mercado apurado em avaliação prévia."
+      },
+      {
+        "letra": "D",
+        "texto": "A indisponibilidade do interesse público é princípio expressamente enunciado no caput do art. 37 da Constituição Federal, ao lado da legalidade e da eficiência."
+      },
+      {
+        "letra": "E",
+        "texto": "Do princípio da indisponibilidade do interesse público decorrem, entre outras consequências, a exigência de licitação para contratar, a exigência de concurso público para o provimento de cargos efetivos e as restrições legais à alienação de bens públicos."
+      }
+    ],
+    "gabarito": "E",
+    "comentario": "A alternativa E está correta: a indisponibilidade se traduz em sujeições, das quais decorrem, entre outras, as exigências de licitação e de concurso público e as restrições ao regime dos bens públicos. A alternativa A contraria a essência do princípio, pois o administrador é gestor de interesses alheios. A alternativa B generaliza indevidamente, já que o ordenamento admite a autocomposição autorizada em lei, como nos arts. 26 da LINDB e 32 a 40 da Lei nº 13.140/2015. A alternativa C é falsa: os bens de uso comum do povo e os de uso especial são inalienáveis enquanto conservarem essa qualificação, e a alienação dos dominicais depende de desafetação, autorização legislativa, avaliação e licitação, nos termos da lei. A alternativa D erra porque a indisponibilidade é princípio implícito, não constando do rol expresso do art. 37, caput.",
+    "fundamentacaoLegal": "CF/88, art. 37, caput, II e XXI; Código Civil, arts. 100 e 101; Lei nº 14.133/2021, art. 76; LINDB, art. 26; Lei nº 13.140/2015."
+  },
+  {
+    "id": "principios-30",
+    "topicoId": "principios",
+    "topico": "Princípios da Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre a distinção entre princípios expressos e princípios implícitos da Administração Pública, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os princípios implícitos possuem hierarquia normativa inferior à dos princípios expressos, cedendo sempre diante destes em caso de colisão no caso concreto."
+      },
+      {
+        "letra": "B",
+        "texto": "São princípios expressos no caput do art. 37 da Constituição Federal a legalidade, a impessoalidade, a moralidade, a publicidade, a eficiência, a razoabilidade e a motivação."
+      },
+      {
+        "letra": "C",
+        "texto": "São princípios expressos no caput do art. 37 da Constituição Federal a legalidade, a impessoalidade, a moralidade, a publicidade e a eficiência; já a razoabilidade, a proporcionalidade, a motivação, a autotutela e a segurança jurídica, embora não constem daquele dispositivo, são reconhecidos como princípios implícitos dotados de plena eficácia normativa."
+      },
+      {
+        "letra": "D",
+        "texto": "Os princípios do caput do art. 37 da Constituição Federal aplicam-se apenas à Administração direta dos entes federados, não alcançando as entidades da Administração indireta."
+      },
+      {
+        "letra": "E",
+        "texto": "Os princípios implícitos não podem servir de fundamento autônomo para a invalidação de atos administrativos, ante a ausência de previsão normativa expressa."
+      }
+    ],
+    "gabarito": "C",
+    "comentario": "A alternativa C está correta: o caput do art. 37 da CF/88 enuncia expressamente legalidade, impessoalidade, moralidade, publicidade e eficiência, e a doutrina e a jurisprudência reconhecem diversos princípios implícitos, muitos deles positivados em normas infraconstitucionais, como no art. 2º da Lei nº 9.784/1999. A alternativa A é falsa, pois não há hierarquia entre princípios constitucionais, resolvendo-se a colisão por ponderação. A alternativa B inclui indevidamente razoabilidade e motivação entre os princípios expressos do art. 37, caput. A alternativa D contraria a literalidade do dispositivo, que alcança a administração pública direta e indireta de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios. A alternativa E é incorreta, pois princípios são normas jurídicas e podem fundamentar a invalidação de atos, observado o dever de motivação e o art. 20 da LINDB.",
+    "fundamentacaoLegal": "CF/88, art. 37, caput; Lei nº 9.784/1999, art. 2º; LINDB, art. 20."
+  }
+]

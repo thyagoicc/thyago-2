@@ -1,0 +1,512 @@
+[
+  {
+    "id": "intervencao-propriedade-01",
+    "topicoId": "intervencao-propriedade",
+    "topico": "Intervenção do Estado na propriedade",
+    "dificuldade": "media",
+    "enunciado": "A doutrina administrativista costuma classificar as formas de intervenção do Estado na propriedade privada em restritivas (ou brandas) e supressiva (ou drástica). Sobre essa classificação, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A desapropriação é a única forma supressiva de intervenção, pois retira a propriedade do particular e a transfere ao Poder Público, ao passo que servidão administrativa, requisição, ocupação temporária, tombamento e limitação administrativa são formas restritivas." },
+      { "letra": "B", "texto": "O tombamento é forma supressiva de intervenção, pois transfere a propriedade do bem tombado ao ente que o tombou." },
+      { "letra": "C", "texto": "A servidão administrativa é forma supressiva de intervenção, uma vez que extingue o direito de propriedade do particular sobre a área serviente." },
+      { "letra": "D", "texto": "A requisição administrativa é forma supressiva de intervenção, pois implica perda definitiva da propriedade do bem requisitado, com indenização prévia." },
+      { "letra": "E", "texto": "A limitação administrativa é forma supressiva de intervenção, sempre indenizável, por atingir individualmente proprietários determinados." }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A está correta: apenas a desapropriação retira a propriedade do particular, transferindo-a ao patrimônio público (intervenção supressiva); as demais modalidades apenas condicionam ou restringem o exercício do direito, sem suprimi-lo. A alternativa B erra porque o tombamento não transfere a propriedade: o bem tombado permanece com o proprietário, que fica sujeito a restrições de uso e ao dever de conservação (arts. 17 e 19 do Decreto-Lei nº 25/1937). A alternativa C erra porque a servidão administrativa institui direito real de uso em favor do Poder Público sobre imóvel alheio, que continua pertencendo ao particular. A alternativa D erra duplamente: a requisição é transitória (cessa com o fim do perigo público) e a indenização, quando devida, é ULTERIOR, e não prévia (art. 5º, XXV, da CF/88). A alternativa E erra porque a limitação administrativa é geral e abstrata, atingindo proprietários indeterminados, e por isso, em regra, não é indenizável.",
+    "fundamentacaoLegal": "Art. 5º, XXIV e XXV, da CF/88; Decreto-Lei nº 3.365/1941; Decreto-Lei nº 25/1937; doutrina de José dos Santos Carvalho Filho e Maria Sylvia Zanella Di Pietro."
+  },
+  {
+    "id": "intervencao-propriedade-02",
+    "topicoId": "intervencao-propriedade",
+    "topico": "Intervenção do Estado na propriedade",
+    "dificuldade": "dificil",
+    "enunciado": "O Município de Campina Grande/PB pretende desapropriar imóvel pertencente ao Estado da Paraíba, situado em seu território, para a construção de um centro de atendimento ao contribuinte. Nos termos do Decreto-Lei nº 3.365/1941, tal pretensão:",
+    "alternativas": [
+      { "letra": "A", "texto": "é juridicamente viável, desde que precedida de autorização legislativa estadual e de prévia avaliação do bem." },
+      { "letra": "B", "texto": "é inviável, pois os bens dos Estados poderão ser desapropriados pela União, e os dos Municípios pelos Estados, não se admitindo a desapropriação de bem estadual por Município." },
+      { "letra": "C", "texto": "é viável independentemente de qualquer autorização legislativa, bastando decreto do Prefeito declarando a utilidade pública." },
+      { "letra": "D", "texto": "é viável apenas se houver prévia anuência do Tribunal de Contas do Estado e do Ministério Público estadual." },
+      { "letra": "E", "texto": "é inviável, pois é vedada, em qualquer hipótese, a desapropriação de bens públicos por outro ente da Federação, dada a impenhorabilidade e a inalienabilidade que os caracterizam." }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B está correta e reproduz o art. 2º, §2º, do Decreto-Lei nº 3.365/1941: os bens do domínio dos Estados, Municípios, Distrito Federal e Territórios poderão ser desapropriados pela União, e os dos Municípios pelos Estados, sempre mediante prévia autorização legislativa. O dispositivo consagra a chamada hierarquia federativa da desapropriação, que segue sentido descendente (do ente maior para o menor), sendo vedado o caminho inverso. A alternativa A erra porque nenhuma autorização legislativa supre a impossibilidade de o ente menor desapropriar bem do ente maior. A alternativa C erra por duas razões: além de a hipótese ser vedada, mesmo nos casos permitidos exige-se autorização legislativa. A alternativa D cria exigências inexistentes em lei e atribui competências a órgãos que não as detêm. A alternativa E generaliza indevidamente, pois a desapropriação de bens públicos é admitida, desde que observada a hierarquia federativa do art. 2º, §2º.",
+    "fundamentacaoLegal": "Art. 2º, caput e §2º, do Decreto-Lei nº 3.365/1941."
+  },
+  {
+    "id": "intervencao-propriedade-03",
+    "topicoId": "intervencao-propriedade",
+    "topico": "Intervenção do Estado na propriedade",
+    "dificuldade": "media",
+    "enunciado": "Sobre a fase declaratória da desapropriação por utilidade pública, disciplinada no Decreto-Lei nº 3.365/1941, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A declaração de utilidade pública far-se-á por decreto do Presidente da República, Governador, Interventor ou Prefeito, admitindo-se, ainda, que o Poder Legislativo tome a iniciativa da desapropriação, cabendo ao Executivo praticar os atos necessários à sua efetivação." },
+      { "letra": "B", "texto": "A declaração de utilidade pública é ato privativo do Poder Legislativo, sendo vedado ao Chefe do Executivo deflagrar o procedimento expropriatório." },
+      { "letra": "C", "texto": "A declaração de utilidade pública transfere, desde logo, a propriedade do bem ao expropriante, cabendo ao particular apenas discutir o valor da indenização." },
+      { "letra": "D", "texto": "A declaração de utilidade pública deve ser veiculada por lei em sentido formal, sendo nulo o decreto expropriatório." },
+      { "letra": "E", "texto": "A declaração de utilidade pública impede que o proprietário utilize ou aliene o bem, que se torna automaticamente indisponível a partir da publicação do decreto." }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A conjuga corretamente os arts. 6º e 8º do Decreto-Lei nº 3.365/1941. A alternativa B inverte a regra do art. 6º, que atribui ao Chefe do Executivo a expedição do decreto expropriatório; o Legislativo apenas pode tomar a iniciativa, na forma do art. 8º. A alternativa C erra porque a declaração não transfere a propriedade: a fase declaratória apenas submete o bem à força expropriatória e fixa o estado do bem, sendo a transferência operada na fase executória, por acordo ou por sentença, com o pagamento da indenização. A alternativa D erra porque o próprio art. 6º prevê o decreto como veículo típico da declaração. A alternativa E erra porque o proprietário conserva a posse, o uso e o poder de alienar o bem até a efetiva transferência; a declaração apenas autoriza as autoridades a penetrarem no imóvel para verificações e medições (art. 7º).",
+    "fundamentacaoLegal": "Arts. 6º, 7º e 8º do Decreto-Lei nº 3.365/1941."
+  },
+  {
+    "id": "intervencao-propriedade-04",
+    "topicoId": "intervencao-propriedade",
+    "topico": "Intervenção do Estado na propriedade",
+    "dificuldade": "media",
+    "enunciado": "Assinale a alternativa que NÃO corresponde a hipótese de utilidade pública prevista no art. 5º do Decreto-Lei nº 3.365/1941.",
+    "alternativas": [
+      { "letra": "A", "texto": "O socorro público em caso de calamidade." },
+      { "letra": "B", "texto": "A abertura, conservação e melhoramento de vias ou logradouros públicos e a execução de planos de urbanização." },
+      { "letra": "C", "texto": "A preservação e conservação dos monumentos históricos e artísticos." },
+      { "letra": "D", "texto": "A desapropriação de imóvel rural que não esteja cumprindo sua função social, para fins de reforma agrária." },
+      { "letra": "E", "texto": "A exploração ou a conservação dos serviços públicos." }
+    ],
+    "gabarito": "D",
+    "comentario": "A alternativa D deve ser assinalada. A desapropriação de imóvel rural que não cumpre a função social, para fins de reforma agrária, não é hipótese de utilidade pública do art. 5º do Decreto-Lei nº 3.365/1941, mas modalidade autônoma de desapropriação por INTERESSE SOCIAL, de competência exclusiva da União, disciplinada no art. 184 da CF/88 e na Lei Complementar nº 76/1993, com pagamento em títulos da dívida agrária. Trata-se de pegadinha clássica de mistura de regimes expropriatórios. As demais alternativas correspondem a alíneas do art. 5º: a alternativa A à alínea c; a alternativa B à alínea i; a alternativa C à alínea k; e a alternativa E à alínea h.",
+    "fundamentacaoLegal": "Art. 5º, alíneas c, h, i e k, do Decreto-Lei nº 3.365/1941; art. 184 da CF/88; Lei Complementar nº 76/1993."
+  },
+  {
+    "id": "intervencao-propriedade-05",
+    "topicoId": "intervencao-propriedade",
+    "topico": "Intervenção do Estado na propriedade",
+    "dificuldade": "dificil",
+    "enunciado": "Decreto municipal declarou a utilidade pública de determinado imóvel em 10 de março de 2019, mas o Município não celebrou acordo com o proprietário nem ajuizou a ação expropriatória. Nos termos do Decreto-Lei nº 3.365/1941, é correto afirmar que:",
+    "alternativas": [
+      { "letra": "A", "texto": "o decreto caducou em cinco anos contados de sua expedição, e o mesmo bem somente poderá ser objeto de nova declaração depois de decorrido um ano." },
+      { "letra": "B", "texto": "o decreto caducou em dois anos contados de sua expedição, podendo o bem ser imediatamente objeto de nova declaração." },
+      { "letra": "C", "texto": "o decreto não caduca, permanecendo válido até que o expropriante decida efetivar a desapropriação, dada a supremacia do interesse público." },
+      { "letra": "D", "texto": "o decreto caducou em cinco anos, ficando o Município impedido, em definitivo, de declarar novamente a utilidade pública do mesmo bem." },
+      { "letra": "E", "texto": "o decreto caducou em dez anos, prazo que corresponde à prescrição da pretensão indenizatória contra a Fazenda Pública." }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A reproduz o art. 10, caput e parágrafo único, do Decreto-Lei nº 3.365/1941: a desapropriação deve efetivar-se por acordo ou ser intentada judicialmente em cinco anos contados da expedição do decreto, sob pena de caducidade; ocorrida a caducidade, somente após um ano o mesmo bem poderá ser objeto de nova declaração. A alternativa B aplica indevidamente o prazo de dois anos, que é o da desapropriação por INTERESSE SOCIAL (art. 3º da Lei nº 4.132/1962), e ainda suprime o intervalo de um ano. A alternativa C nega a existência do prazo decadencial, contrariando o texto expresso. A alternativa D transforma a caducidade em impedimento definitivo, quando a lei apenas exige o intervalo de um ano. A alternativa E utiliza prazo estranho ao instituto, confundindo caducidade do decreto com prescrição de pretensão indenizatória.",
+    "fundamentacaoLegal": "Art. 10, caput e parágrafo único, do Decreto-Lei nº 3.365/1941; art. 3º da Lei nº 4.132/1962."
+  },
+  {
+    "id": "intervencao-propriedade-06",
+    "topicoId": "intervencao-propriedade",
+    "topico": "Intervenção do Estado na propriedade",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre a desapropriação por interesse social disciplinada pela Lei nº 4.132/1962, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "O expropriante tem o prazo de dois anos, a partir da decretação da desapropriação por interesse social, para efetivá-la e iniciar as providências de aproveitamento do bem expropriado." },
+      { "letra": "B", "texto": "O expropriante tem o prazo de cinco anos para efetivar a desapropriação, aplicando-se integralmente o prazo do Decreto-Lei nº 3.365/1941." },
+      { "letra": "C", "texto": "A desapropriação por interesse social é de competência exclusiva da União, sendo vedada aos Estados e Municípios." },
+      { "letra": "D", "texto": "A indenização na desapropriação por interesse social da Lei nº 4.132/1962 é paga em títulos da dívida agrária, resgatáveis em até vinte anos." },
+      { "letra": "E", "texto": "A desapropriação por interesse social dispensa o pagamento de indenização, por se tratar de sanção ao descumprimento da função social da propriedade." }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A reproduz o art. 3º da Lei nº 4.132/1962, que fixa prazo de dois anos, mais curto que o quinquênio do art. 10 do Decreto-Lei nº 3.365/1941, e ainda exige o início das providências de aproveitamento do bem. A alternativa B ignora a regra especial, generalizando indevidamente o prazo da lei geral das desapropriações. A alternativa C confunde a desapropriação por interesse social comum (Lei nº 4.132/1962), que pode ser promovida por todos os entes federativos, com a desapropriação por interesse social para fins de reforma agrária (art. 184 da CF/88), esta sim de competência exclusiva da União. A alternativa D também mistura regimes: os títulos da dívida agrária são próprios da desapropriação para reforma agrária, ao passo que na Lei nº 4.132/1962 a indenização segue a regra geral, prévia, justa e em dinheiro. A alternativa E contraria o art. 5º, XXIV, da CF/88, pois a desapropriação por interesse social é indenizada; sem indenização apenas a expropriação-confisco do art. 243 da CF/88.",
+    "fundamentacaoLegal": "Arts. 2º e 3º da Lei nº 4.132/1962; art. 5º, XXIV, e art. 184 da CF/88; art. 10 do Decreto-Lei nº 3.365/1941."
+  },
+  {
+    "id": "intervencao-propriedade-07",
+    "topicoId": "intervencao-propriedade",
+    "topico": "Intervenção do Estado na propriedade",
+    "dificuldade": "media",
+    "enunciado": "Citado em ação de desapropriação por utilidade pública, o proprietário pretende que o juiz reconheça a inexistência de utilidade pública na medida, sustentando que a obra é dispensável. À luz do Decreto-Lei nº 3.365/1941, é correto afirmar que:",
+    "alternativas": [
+      { "letra": "A", "texto": "ao Poder Judiciário é vedado, no processo de desapropriação, decidir se se verificam ou não os casos de utilidade pública, sem prejuízo do controle de legalidade em ação autônoma." },
+      { "letra": "B", "texto": "o juiz da ação expropriatória deve necessariamente examinar o mérito administrativo da declaração de utilidade pública, sob pena de negativa de prestação jurisdicional." },
+      { "letra": "C", "texto": "a alegação é cabível na contestação, pois o art. 20 do referido decreto-lei admite qualquer matéria de defesa." },
+      { "letra": "D", "texto": "a matéria somente pode ser apreciada pelo Tribunal de Contas competente, no exercício do controle externo." },
+      { "letra": "E", "texto": "a alegação é insindicável em qualquer via, pois o ato declaratório de utilidade pública é imune a controle jurisdicional." }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A está correta: o art. 9º do Decreto-Lei nº 3.365/1941 veda ao Judiciário, no processo de desapropriação, decidir sobre a ocorrência dos casos de utilidade pública; isso não afasta, porém, o controle de legalidade e de eventual desvio de finalidade em ação direta e autônoma, como ressalva a doutrina e o próprio art. 20 ao remeter as demais questões à ação direta. A alternativa B contraria frontalmente o art. 9º. A alternativa C interpreta erroneamente o art. 20, que restringe a contestação ao vício do processo judicial e à impugnação do preço. A alternativa D atribui competência a órgão que não a possui para desconstituir o ato expropriatório. A alternativa E é excessiva, pois o ato não é imune a controle jurisdicional: a vedação do art. 9º é apenas de ordem processual, limitada ao próprio feito expropriatório.",
+    "fundamentacaoLegal": "Arts. 9º e 20 do Decreto-Lei nº 3.365/1941; art. 5º, XXXV, da CF/88."
+  },
+  {
+    "id": "intervencao-propriedade-08",
+    "topicoId": "intervencao-propriedade",
+    "topico": "Intervenção do Estado na propriedade",
+    "dificuldade": "dificil",
+    "enunciado": "Em ação de desapropriação por utilidade pública, o expropriado apresenta contestação em que alega, cumulativamente: (i) a nulidade da citação; (ii) que o valor ofertado é inferior ao valor de mercado; e (iii) que a área desapropriada pertence a terceiro, e não a ele. Nos termos do art. 20 do Decreto-Lei nº 3.365/1941:",
+    "alternativas": [
+      { "letra": "A", "texto": "todas as alegações serão conhecidas, pois a contestação em ação expropriatória admite ampla defesa sem restrição de matérias." },
+      { "letra": "B", "texto": "somente as alegações (i) e (ii) poderão ser conhecidas, pois a contestação só pode versar sobre vício do processo judicial ou impugnação do preço, devendo a questão dominial ser decidida por ação direta." },
+      { "letra": "C", "texto": "somente a alegação (ii) poderá ser conhecida, pois vícios processuais devem ser deduzidos em exceção de pré-executividade." },
+      { "letra": "D", "texto": "somente a alegação (iii) poderá ser conhecida, pois a titularidade do bem é questão prejudicial ao mérito da desapropriação." },
+      { "letra": "E", "texto": "nenhuma das alegações poderá ser conhecida, devendo o expropriado deduzi-las integralmente em ação autônoma de indenização." }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B está correta. O art. 20 do Decreto-Lei nº 3.365/1941 restringe a contestação ao vício do processo judicial e à impugnação do preço, determinando que qualquer outra questão seja decidida por ação direta. A discussão sobre a titularidade do domínio (questão dominial) não impede o prosseguimento da desapropriação, resolvendo-se, se for o caso, no levantamento do preço ou em ação própria. A alternativa A ignora a restrição legal expressa. A alternativa C erra ao excluir o vício processual, que é justamente uma das duas matérias admitidas pelo art. 20. A alternativa D erra ao admitir apenas a questão dominial, exatamente a matéria excluída pelo dispositivo. A alternativa E remete todas as matérias à ação autônoma, esvaziando indevidamente a contestação expressamente admitida no art. 20.",
+    "fundamentacaoLegal": "Arts. 20 e 34 do Decreto-Lei nº 3.365/1941."
+  },
+  {
+    "id": "intervencao-propriedade-09",
+    "topicoId": "intervencao-propriedade",
+    "topico": "Intervenção do Estado na propriedade",
+    "dificuldade": "media",
+    "enunciado": "Sobre a imissão provisória na posse no processo de desapropriação por utilidade pública, é correto afirmar que:",
+    "alternativas": [
+      { "letra": "A", "texto": "a alegação de urgência pode ser renovada tantas vezes quantas necessárias, não havendo prazo para requerer a imissão provisória." },
+      { "letra": "B", "texto": "alegada a urgência, que não poderá ser renovada, o expropriante fica obrigado a requerer a imissão provisória dentro do prazo improrrogável de cento e vinte dias, sob pena de não ser concedida." },
+      { "letra": "C", "texto": "a imissão provisória depende sempre da prévia citação do réu e do trânsito em julgado da decisão que fixa o valor do bem." },
+      { "letra": "D", "texto": "a imissão provisória prescinde de qualquer depósito prévio, bastando a alegação de urgência pelo expropriante." },
+      { "letra": "E", "texto": "a imissão provisória somente é cabível na desapropriação para fins de reforma agrária, sendo vedada na desapropriação por utilidade pública." }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B corresponde ao art. 15, §§2º e 3º, do Decreto-Lei nº 3.365/1941. A alternativa A contraria o texto legal em dois pontos: a alegação de urgência não pode ser renovada e há prazo improrrogável de cento e vinte dias. A alternativa C erra porque o §1º do art. 15 permite expressamente que a imissão provisória se faça independentemente da citação do réu, mediante depósito, sendo incompatível com a natureza provisória a exigência de trânsito em julgado. A alternativa D erra porque a imissão provisória pressupõe depósito da quantia arbitrada, sendo essa a garantia patrimonial do expropriado. A alternativa E restringe indevidamente o instituto, que é próprio do procedimento do Decreto-Lei nº 3.365/1941, aplicável também subsidiariamente a outras modalidades.",
+    "fundamentacaoLegal": "Art. 15, caput e §§1º a 3º, do Decreto-Lei nº 3.365/1941."
+  },
+  {
+    "id": "intervencao-propriedade-10",
+    "topicoId": "intervencao-propriedade",
+    "topico": "Intervenção do Estado na propriedade",
+    "dificuldade": "dificil",
+    "enunciado": "A respeito dos juros compensatórios na desapropriação, à luz do art. 15-A do Decreto-Lei nº 3.365/1941 e da jurisprudência do Superior Tribunal de Justiça, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "Os juros compensatórios incidem sobre o valor total da indenização fixada na sentença, a contar do trânsito em julgado, admitida a capitalização composta." },
+      { "letra": "B", "texto": "Havendo imissão prévia na posse e divergência entre o preço ofertado em juízo e o valor do bem fixado na sentença, os juros compensatórios incidem sobre o valor da diferença apurada, a contar da imissão na posse, vedado o cálculo de juros compostos." },
+      { "letra": "C", "texto": "Os juros compensatórios são incabíveis na desapropriação, por já estar a perda patrimonial integralmente recomposta pela correção monetária." },
+      { "letra": "D", "texto": "Na desapropriação indireta, os juros compensatórios incidem somente a partir do ajuizamento da ação indenizatória, e não da efetiva ocupação do imóvel." },
+      { "letra": "E", "texto": "Os juros compensatórios e os juros moratórios não podem ser cumulados em desapropriação, por configurar bis in idem." }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B reproduz o núcleo do art. 15-A do Decreto-Lei nº 3.365/1941: a base de cálculo é a DIFERENÇA entre o preço ofertado em juízo e o valor fixado na sentença, o termo inicial é a imissão na posse e é vedada a capitalização composta. A alternativa A erra na base de cálculo (valor total), no termo inicial (trânsito em julgado) e ao admitir juros compostos, expressamente vedados. A alternativa C nega a própria função dos juros compensatórios, que é remunerar a perda antecipada da posse, distinta da recomposição inflacionária feita pela correção monetária. A alternativa D contraria as Súmulas 69 e 114 do STJ, segundo as quais, na desapropriação indireta, os juros compensatórios incidem a partir da efetiva OCUPAÇÃO do imóvel. A alternativa E contraria a Súmula 12 do STJ, que admite expressamente a cumulação de juros compensatórios e moratórios.",
+    "fundamentacaoLegal": "Art. 15-A do Decreto-Lei nº 3.365/1941; Súmulas 12, 69 e 114 do STJ."
+  },
+  {
+    "id": "intervencao-propriedade-11",
+    "topicoId": "intervencao-propriedade",
+    "topico": "Intervenção do Estado na propriedade",
+    "dificuldade": "media",
+    "enunciado": "Nos termos do art. 15-B do Decreto-Lei nº 3.365/1941, os juros moratórios devidos na ação de desapropriação:",
+    "alternativas": [
+      { "letra": "A", "texto": "destinam-se a recompor a perda decorrente do atraso no efetivo pagamento da indenização fixada na decisão final de mérito e são devidos a partir de 1º de janeiro do exercício seguinte àquele em que o pagamento deveria ser feito, nos termos do art. 100 da Constituição Federal." },
+      { "letra": "B", "texto": "são devidos desde a data da expedição do decreto expropriatório, independentemente do regime de precatórios." },
+      { "letra": "C", "texto": "são devidos desde a imissão provisória na posse, substituindo integralmente os juros compensatórios." },
+      { "letra": "D", "texto": "somente são devidos se houver expressa condenação em sentença, não decorrendo automaticamente da lei." },
+      { "letra": "E", "texto": "incidem à razão de doze por cento ao ano, por aplicação analógica da Súmula 618 do Supremo Tribunal Federal." }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A reproduz o art. 15-B do Decreto-Lei nº 3.365/1941, que vincula o termo inicial dos juros moratórios ao regime de precatórios do art. 100 da CF/88. A alternativa B erra no termo inicial: a mora do expropriante só se configura quando descumprido o prazo constitucional de pagamento do precatório, e não desde o decreto. A alternativa C confunde os institutos: os juros compensatórios remuneram a perda antecipada da posse e não são substituídos pelos moratórios, que sancionam o atraso no pagamento; ademais, a Súmula 12 do STJ admite a cumulação. A alternativa D erra porque a incidência decorre da lei, e a Súmula 102 do STJ, inclusive, afirma que a incidência dos juros moratórios sobre os compensatórios não constitui anatocismo vedado. A alternativa E aplica percentual e súmula pertinentes aos juros COMPENSATÓRIOS, não aos moratórios, além de desconsiderar a taxa legal do art. 15-B.",
+    "fundamentacaoLegal": "Art. 15-B do Decreto-Lei nº 3.365/1941; art. 100 da CF/88; Súmulas 12 e 102 do STJ."
+  },
+  {
+    "id": "intervencao-propriedade-12",
+    "topicoId": "intervencao-propriedade",
+    "topico": "Intervenção do Estado na propriedade",
+    "dificuldade": "dificil",
+    "enunciado": "Considerando a jurisprudência sumulada do Superior Tribunal de Justiça em matéria de desapropriação, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "Em desapropriação, são cumuláveis juros compensatórios e moratórios, e a incidência dos moratórios sobre os compensatórios não constitui anatocismo vedado em lei." },
+      { "letra": "B", "texto": "Em desapropriação, a cumulação de juros compensatórios e moratórios configura enriquecimento sem causa do expropriado e é vedada." },
+      { "letra": "C", "texto": "Na desapropriação direta, os juros compensatórios somente são devidos a partir do trânsito em julgado da sentença que fixa a indenização." },
+      { "letra": "D", "texto": "Na desapropriação indireta, os juros compensatórios incidem a partir da citação válida do ente público na ação indenizatória." },
+      { "letra": "E", "texto": "Os honorários advocatícios em desapropriação direta são calculados sobre o valor total da indenização fixada na sentença." }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A conjuga as Súmulas 12 e 102 do STJ. A alternativa B nega a Súmula 12, que expressamente admite a cumulação, uma vez que os juros têm naturezas distintas: compensatórios remuneram a perda antecipada da posse; moratórios sancionam o atraso no pagamento. A alternativa C contraria a Súmula 69 do STJ, segundo a qual, na desapropriação direta, os juros compensatórios são devidos desde a antecipada imissão na posse. A alternativa D contraria as Súmulas 69 e 114 do STJ: na desapropriação indireta, o termo inicial é a efetiva ocupação do imóvel, e não a citação. A alternativa E contraria a Súmula 141 do STJ e o art. 27, §1º, do Decreto-Lei nº 3.365/1941: os honorários são calculados sobre a DIFERENÇA entre a indenização e a oferta, corrigidas monetariamente.",
+    "fundamentacaoLegal": "Súmulas 12, 69, 102, 114 e 141 do STJ; art. 27, §1º, do Decreto-Lei nº 3.365/1941."
+  },
+  {
+    "id": "intervencao-propriedade-13",
+    "topicoId": "intervencao-propriedade",
+    "topico": "Intervenção do Estado na propriedade",
+    "dificuldade": "media",
+    "enunciado": "Sobre o pagamento da indenização na desapropriação por necessidade ou utilidade pública, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A Constituição Federal assegura ao expropriado justa e prévia indenização em dinheiro, ressalvados os casos de desapropriação sancionatória por ela previstos, e o Decreto-Lei nº 3.365/1941 dispõe que o pagamento do preço será prévio e em dinheiro." },
+      { "letra": "B", "texto": "A indenização pode ser paga em títulos da dívida pública em qualquer modalidade de desapropriação, desde que assegurado o valor real e os juros legais." },
+      { "letra": "C", "texto": "A indenização é sempre posterior à transferência da propriedade, que se opera com a publicação do decreto expropriatório." },
+      { "letra": "D", "texto": "A indenização abrange apenas o valor do solo, excluídas as benfeitorias existentes no imóvel na data da declaração de utilidade pública." },
+      { "letra": "E", "texto": "O levantamento do preço pelo expropriado independe de prova de propriedade e de quitação de dívidas fiscais que recaiam sobre o bem." }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A conjuga o art. 5º, XXIV, da CF/88 com o art. 32 do Decreto-Lei nº 3.365/1941. A alternativa B generaliza indevidamente a exceção: o pagamento em títulos é excepcional e restrito à desapropriação urbanística sancionatória (art. 182, §4º, III, da CF/88) e à desapropriação rural para reforma agrária (art. 184 da CF/88). A alternativa C erra porque a indenização é PRÉVIA à transferência da propriedade, que não se opera com o simples decreto declaratório. A alternativa D erra porque a justa indenização abrange o valor do bem em sua integralidade, incluídas as benfeitorias, ressalvadas apenas as voluptuárias realizadas após a declaração de utilidade pública sem autorização (art. 26, §1º, do Decreto-Lei nº 3.365/1941). A alternativa E contraria o art. 34 do mesmo decreto-lei, que condiciona o levantamento do preço à prova de propriedade, à quitação de dívidas fiscais que recaiam sobre o bem e à publicação de editais.",
+    "fundamentacaoLegal": "Art. 5º, XXIV, da CF/88; arts. 26, 32 e 34 do Decreto-Lei nº 3.365/1941."
+  },
+  {
+    "id": "intervencao-propriedade-14",
+    "topicoId": "intervencao-propriedade",
+    "topico": "Intervenção do Estado na propriedade",
+    "dificuldade": "dificil",
+    "enunciado": "Em ação de desapropriação direta, o Município ofertou R$ 200.000,00 e a sentença fixou a indenização em R$ 500.000,00. Quanto à verba honorária, nos termos do Decreto-Lei nº 3.365/1941 e da jurisprudência do STJ, é correto afirmar que:",
+    "alternativas": [
+      { "letra": "A", "texto": "os honorários advocatícios serão fixados entre meio e cinco por cento sobre a diferença entre a indenização e a oferta, corrigidas monetariamente, observado o teto legal." },
+      { "letra": "B", "texto": "os honorários advocatícios serão fixados entre dez e vinte por cento sobre o valor total da condenação, na forma da regra geral do Código de Processo Civil." },
+      { "letra": "C", "texto": "os honorários advocatícios incidirão sobre o valor da oferta inicial, por representar o proveito econômico imediato do expropriante." },
+      { "letra": "D", "texto": "não são devidos honorários advocatícios, pois a desapropriação é procedimento de jurisdição voluntária." },
+      { "letra": "E", "texto": "os honorários serão arbitrados por equidade, sem qualquer percentual mínimo ou máximo, dada a natureza especial do procedimento." }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A conjuga o art. 27, §1º, do Decreto-Lei nº 3.365/1941, que fixa a faixa de meio a cinco por cento sobre a diferença e estabelece teto em valor nominal, com a Súmula 141 do STJ, segundo a qual os honorários de advogado em desapropriação direta são calculados sobre a diferença entre a indenização e a oferta, corrigidas monetariamente. A alternativa B aplica a regra geral do CPC, afastada pela norma especial. A alternativa C erra na base de cálculo, pois o proveito econômico do expropriado é a diferença obtida, não a oferta. A alternativa D erra na natureza do procedimento, que é contencioso, havendo litígio sobre o preço. A alternativa E ignora os limites percentuais expressos na lei especial.",
+    "fundamentacaoLegal": "Art. 27, §1º, do Decreto-Lei nº 3.365/1941; Súmula 141 do STJ."
+  },
+  {
+    "id": "intervencao-propriedade-15",
+    "topicoId": "intervencao-propriedade",
+    "topico": "Intervenção do Estado na propriedade",
+    "dificuldade": "media",
+    "enunciado": "Sobre a desapropriação de imóvel rural para fins de reforma agrária, nos termos do art. 184 da Constituição Federal, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "Compete à União desapropriar por interesse social, para fins de reforma agrária, o imóvel rural que não esteja cumprindo sua função social, mediante prévia e justa indenização em títulos da dívida agrária, resgatáveis no prazo de até vinte anos, a partir do segundo ano de sua emissão, sendo as benfeitorias úteis e necessárias indenizadas em dinheiro." },
+      { "letra": "B", "texto": "Compete concorrentemente à União, aos Estados e aos Municípios promover a desapropriação para fins de reforma agrária, mediante indenização em títulos da dívida agrária." },
+      { "letra": "C", "texto": "A indenização é integralmente paga em títulos da dívida agrária, inclusive quanto às benfeitorias úteis e necessárias, resgatáveis em até dez anos." },
+      { "letra": "D", "texto": "A indenização é paga em títulos da dívida pública de emissão previamente aprovada pelo Senado Federal, com prazo de resgate de até dez anos." },
+      { "letra": "E", "texto": "A desapropriação para fins de reforma agrária independe de indenização, por constituir sanção ao descumprimento da função social da propriedade rural." }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A reproduz o art. 184, caput e §1º, da CF/88. A alternativa B erra na competência, que é EXCLUSIVA da União (art. 184, caput), não se estendendo a Estados e Municípios. A alternativa C erra em dois pontos: as benfeitorias úteis e necessárias são indenizadas EM DINHEIRO (art. 184, §1º), e o prazo de resgate dos títulos da dívida agrária é de até vinte anos, e não dez. A alternativa D descreve o regime da desapropriação urbanística sancionatória do art. 182, §4º, III, da CF/88, que utiliza títulos da DÍVIDA PÚBLICA aprovados pelo Senado, com resgate em até dez anos: trata-se de troca de institutos semelhantes. A alternativa E confunde a desapropriação-sanção do art. 184, que é indenizada, com a expropriação-confisco do art. 243 da CF/88, esta sim sem indenização.",
+    "fundamentacaoLegal": "Art. 184, caput e §1º, da CF/88; Lei Complementar nº 76/1993; Lei nº 8.629/1993."
+  },
+  {
+    "id": "intervencao-propriedade-16",
+    "topicoId": "intervencao-propriedade",
+    "topico": "Intervenção do Estado na propriedade",
+    "dificuldade": "dificil",
+    "enunciado": "Nos termos do art. 185 da Constituição Federal, são insuscetíveis de desapropriação para fins de reforma agrária:",
+    "alternativas": [
+      { "letra": "A", "texto": "a pequena e média propriedade rural, assim definida em lei, desde que seu proprietário não possua outra, e a propriedade produtiva." },
+      { "letra": "B", "texto": "a pequena propriedade rural, ainda que o proprietário possua outros imóveis rurais, e a propriedade improdutiva situada em faixa de fronteira." },
+      { "letra": "C", "texto": "a grande propriedade produtiva e a pequena propriedade rural, independentemente de o proprietário possuir outros imóveis." },
+      { "letra": "D", "texto": "apenas a propriedade produtiva, não havendo qualquer proteção constitucional para a pequena e a média propriedade rural." },
+      { "letra": "E", "texto": "a propriedade rural explorada por meio de trabalho em condições análogas à de escravo, quando o proprietário aderir a termo de ajustamento de conduta." }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A reproduz literalmente o art. 185, incisos I e II, da CF/88. A alternativa B suprime a condição legal expressa de que o proprietário não possua outra propriedade e inventa proteção à propriedade improdutiva em faixa de fronteira, inexistente no dispositivo. A alternativa C também suprime a condição do inciso I e altera a redação do inciso II, que protege a propriedade produtiva sem qualificá-la como grande propriedade. A alternativa D nega a proteção constitucional expressa do inciso I. A alternativa E inverte gravemente o regime jurídico: a exploração de trabalho escravo é justamente causa de EXPROPRIAÇÃO SEM INDENIZAÇÃO, nos termos do art. 243 da CF/88.",
+    "fundamentacaoLegal": "Art. 185, incisos I e II, e parágrafo único, da CF/88; art. 243 da CF/88."
+  },
+  {
+    "id": "intervencao-propriedade-17",
+    "topicoId": "intervencao-propriedade",
+    "topico": "Intervenção do Estado na propriedade",
+    "dificuldade": "dificil",
+    "enunciado": "Determinado terreno urbano não edificado, incluído em área abrangida pelo plano diretor do Município, permanece subutilizado há anos. Sobre os instrumentos de que dispõe o Município, à luz do art. 182, §4º, da Constituição Federal e da Lei nº 10.257/2001 (Estatuto da Cidade), assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "O Município pode desapropriar imediatamente o imóvel com pagamento em títulos da dívida pública, independentemente da adoção das medidas anteriores." },
+      { "letra": "B", "texto": "Mediante lei municipal específica para área incluída no plano diretor, o Município pode exigir o adequado aproveitamento do solo, sob pena, sucessivamente, de parcelamento ou edificação compulsórios, de IPTU progressivo no tempo e, por fim, de desapropriação com pagamento em títulos da dívida pública de emissão previamente aprovada pelo Senado Federal, resgatáveis em até dez anos." },
+      { "letra": "C", "texto": "A ordem das medidas é facultativa, podendo o Município escolher livremente entre o IPTU progressivo, o parcelamento compulsório e a desapropriação sancionatória." },
+      { "letra": "D", "texto": "O IPTU progressivo no tempo pode ser cobrado por prazo indeterminado, sem qualquer limite de alíquota, até que o proprietário cumpra a obrigação." },
+      { "letra": "E", "texto": "A desapropriação urbanística sancionatória é de competência do Estado-membro, ao qual cabe aprovar previamente a emissão dos títulos da dívida pública." }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B reproduz o art. 182, §4º, incisos I a III, da CF/88, regulamentado pelos arts. 5º a 8º da Lei nº 10.257/2001. A alternativa A ignora o caráter SUCESSIVO das medidas, expressamente previsto no texto constitucional. A alternativa C erra pelo mesmo motivo: a Constituição impõe ordem obrigatória, e não faculdade de escolha. A alternativa D contraria o art. 7º, caput e §1º, da Lei nº 10.257/2001, que limita a cobrança do IPTU progressivo a cinco anos consecutivos e fixa alíquota máxima de quinze por cento, vedada a majoração superior ao dobro do valor do ano anterior. A alternativa E erra na competência: o instrumento é do Município (art. 182, §4º, caput), e a aprovação prévia da emissão dos títulos cabe ao SENADO FEDERAL, e não ao Estado-membro.",
+    "fundamentacaoLegal": "Art. 182, §4º, incisos I a III, da CF/88; arts. 5º, 7º e 8º da Lei nº 10.257/2001."
+  },
+  {
+    "id": "intervencao-propriedade-18",
+    "topicoId": "intervencao-propriedade",
+    "topico": "Intervenção do Estado na propriedade",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre a expropriação prevista no art. 243 da Constituição Federal, conhecida na doutrina como desapropriação-confisco, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "As propriedades rurais e urbanas onde forem localizadas culturas ilegais de plantas psicotrópicas ou a exploração de trabalho escravo serão expropriadas e destinadas à reforma agrária e a programas de habitação popular, sem qualquer indenização ao proprietário e sem prejuízo de outras sanções previstas em lei." },
+      { "letra": "B", "texto": "A medida alcança apenas as propriedades rurais, sendo os imóveis urbanos submetidos exclusivamente ao regime da desapropriação urbanística sancionatória." },
+      { "letra": "C", "texto": "A expropriação é acompanhada de indenização em títulos da dívida agrária, resgatáveis em até vinte anos, dada a natureza sancionatória da medida." },
+      { "letra": "D", "texto": "A expropriação alcança apenas a área efetivamente cultivada com plantas psicotrópicas, preservando-se o restante da gleba em favor do proprietário." },
+      { "letra": "E", "texto": "A expropriação depende de prévia condenação criminal transitada em julgado do proprietário pelo crime de tráfico de drogas." }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A reproduz o caput do art. 243 da CF/88, com a redação dada pela Emenda Constitucional nº 81/2014, que estendeu a medida às propriedades urbanas e acrescentou a hipótese de exploração de trabalho escravo. A alternativa B desconsidera a extensão às propriedades urbanas promovida pela EC nº 81/2014. A alternativa C contraria o texto expresso, que veda qualquer indenização, confundindo o instituto com a desapropriação para reforma agrária do art. 184. A alternativa D erra porque a expropriação incide sobre a totalidade da gleba, e não apenas sobre a área cultivada, conforme entendimento consolidado do STF. A alternativa E cria condição inexistente: a expropriação é medida de natureza civil, não dependendo de condenação criminal prévia, embora o STF exija a demonstração de culpa do proprietário, ainda que in vigilando ou in eligendo.",
+    "fundamentacaoLegal": "Art. 243, caput e parágrafo único, da CF/88 (redação da EC nº 81/2014); Lei nº 8.257/1991."
+  },
+  {
+    "id": "intervencao-propriedade-19",
+    "topicoId": "intervencao-propriedade",
+    "topico": "Intervenção do Estado na propriedade",
+    "dificuldade": "media",
+    "enunciado": "O Município, sem observar o devido procedimento expropriatório, apossou-se administrativamente de área particular e nela construiu uma unidade de saúde já em funcionamento. O proprietário pretende reaver o imóvel. Nos termos do Decreto-Lei nº 3.365/1941, é correto afirmar que:",
+    "alternativas": [
+      { "letra": "A", "texto": "os bens expropriados, uma vez incorporados à Fazenda Pública, não podem ser objeto de reivindicação, ainda que fundada em nulidade do processo de desapropriação, resolvendo-se qualquer ação julgada procedente em perdas e danos." },
+      { "letra": "B", "texto": "o proprietário tem direito à reintegração de posse do imóvel, devendo o Município demolir a construção às suas expensas." },
+      { "letra": "C", "texto": "a incorporação do bem ao patrimônio público é nula de pleno direito, cabendo ao proprietário ação reivindicatória imprescritível." },
+      { "letra": "D", "texto": "o proprietário nada pode pleitear, pois a afetação do bem ao serviço público extingue automaticamente o direito de propriedade sem qualquer indenização." },
+      { "letra": "E", "texto": "a solução depende de prévia autorização legislativa municipal que convalide o apossamento administrativo." }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A reproduz o art. 35 do Decreto-Lei nº 3.365/1941, base normativa da chamada desapropriação indireta: consumada a incorporação do bem ao patrimônio público, a tutela do particular converte-se em indenização (perdas e danos), sendo vedada a reivindicação. A alternativa B erra porque a reintegração de posse é inviável após a incorporação e a afetação do bem ao serviço público. A alternativa C erra porque o art. 35 impede a reivindicação ainda que haja nulidade no procedimento. A alternativa D erra porque o particular tem direito à justa indenização, sob pena de violação ao art. 5º, XXIV, da CF/88 e de enriquecimento sem causa do Estado. A alternativa E cria requisito inexistente, pois o direito à indenização independe de autorização legislativa convalidatória.",
+    "fundamentacaoLegal": "Art. 35 do Decreto-Lei nº 3.365/1941; art. 5º, XXIV, da CF/88."
+  },
+  {
+    "id": "intervencao-propriedade-20",
+    "topicoId": "intervencao-propriedade",
+    "topico": "Intervenção do Estado na propriedade",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre a ação de indenização por desapropriação indireta, considerando o entendimento consolidado do Superior Tribunal de Justiça, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A pretensão indenizatória decorrente de desapropriação indireta prescreve em cinco anos, por aplicação do Decreto nº 20.910/1932, contados da publicação do decreto expropriatório." },
+      { "letra": "B", "texto": "A pretensão indenizatória decorrente de desapropriação indireta é imprescritível, por envolver direito fundamental de propriedade." },
+      { "letra": "C", "texto": "Prevalece no STJ o prazo prescricional decenal, por aplicação do parágrafo único do art. 1.238 do Código Civil, quando o Poder Público tiver realizado obras ou serviços de caráter produtivo no imóvel, incidindo os juros compensatórios a partir da efetiva ocupação, na forma da Súmula 114 do STJ." },
+      { "letra": "D", "texto": "O prazo prescricional é de vinte anos, por aplicação do prazo da usucapião extraordinária do Código Civil de 1916, independentemente da data do apossamento." },
+      { "letra": "E", "texto": "A pretensão prescreve em três anos, por se tratar de pretensão de reparação civil, nos termos do art. 206, §3º, V, do Código Civil." }
+    ],
+    "gabarito": "C",
+    "comentario": "A alternativa C está correta: o STJ firmou entendimento de que a pretensão indenizatória por desapropriação indireta submete-se ao prazo decenal do parágrafo único do art. 1.238 do Código Civil quando o Poder Público realizou obras ou serviços de caráter produtivo no imóvel, uma vez que a prescrição da ação do particular acompanha o prazo de aquisição da propriedade pelo ente público; e a Súmula 114 do STJ fixa a incidência dos juros compensatórios a partir da ocupação. A alternativa A aplica prazo e termo inicial inadequados, pois a desapropriação indireta caracteriza-se justamente pela ausência de decreto e de procedimento regular. A alternativa B erra porque a pretensão é patrimonial e, portanto, prescritível. A alternativa D aplica prazo do Código Civil revogado sem observar as regras de direito intertemporal. A alternativa E aplica prazo de reparação civil comum, afastado pela natureza real subjacente da pretensão.",
+    "fundamentacaoLegal": "Art. 1.238, parágrafo único, do Código Civil; art. 35 do Decreto-Lei nº 3.365/1941; Súmulas 69 e 114 do STJ."
+  },
+  {
+    "id": "intervencao-propriedade-21",
+    "topicoId": "intervencao-propriedade",
+    "topico": "Intervenção do Estado na propriedade",
+    "dificuldade": "dificil",
+    "enunciado": "Imóvel desapropriado para a construção de uma escola municipal acabou sendo utilizado para a instalação de uma unidade básica de saúde. Em outro caso, imóvel desapropriado para obra viária foi revendido a empresa privada para exploração comercial. Sobre a tredestinação e a retrocessão, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "Na primeira hipótese, há tredestinação lícita, pois preservado o interesse público na destinação dada ao bem; na segunda, há tredestinação ilícita, ensejando ao expropriado, nos termos do art. 519 do Código Civil, direito de preferência pelo preço atual da coisa." },
+      { "letra": "B", "texto": "Ambas as hipóteses configuram tredestinação ilícita, pois qualquer alteração da finalidade declarada no decreto expropriatório enseja retrocessão." },
+      { "letra": "C", "texto": "Ambas as hipóteses configuram tredestinação lícita, pois, consumada a incorporação do bem, o expropriante detém liberdade absoluta na sua destinação." },
+      { "letra": "D", "texto": "Na primeira hipótese cabe retrocessão, e na segunda a solução é a simples anulação do decreto expropriatório, com retorno do bem ao patrimônio do expropriado." },
+      { "letra": "E", "texto": "A retrocessão, nos termos do Código Civil, confere ao expropriado o direito de reaver o bem pelo preço originalmente recebido, corrigido monetariamente, independentemente do valor atual da coisa." }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A está correta. A doutrina e a jurisprudência distinguem a tredestinação LÍCITA, em que o bem recebe destinação diversa da declarada, mas ainda de interesse público (mantida a causa expropriandi em sentido amplo), da tredestinação ILÍCITA, em que o bem é desviado para finalidade privada ou é simplesmente não utilizado, hipótese que atrai o art. 519 do Código Civil. A alternativa B erra ao equiparar as hipóteses, desconsiderando a tredestinação lícita, amplamente admitida. A alternativa C erra ao afirmar liberdade absoluta do expropriante, o que esvaziaria a garantia do art. 5º, XXIV, da CF/88. A alternativa D inverte as consequências das duas situações. A alternativa E erra no critério legal de preço: o art. 519 do Código Civil confere direito de preferência pelo PREÇO ATUAL da coisa, e não pelo preço originalmente recebido.",
+    "fundamentacaoLegal": "Art. 519 do Código Civil; art. 5º, XXIV, da CF/88; doutrina de José dos Santos Carvalho Filho e Rafael Carvalho Rezende Oliveira sobre tredestinação e retrocessão."
+  },
+  {
+    "id": "intervencao-propriedade-22",
+    "topicoId": "intervencao-propriedade",
+    "topico": "Intervenção do Estado na propriedade",
+    "dificuldade": "media",
+    "enunciado": "Concessionária de serviço público de distribuição de energia elétrica pretende promover a desapropriação de áreas necessárias à implantação de linha de transmissão. Nos termos do Decreto-Lei nº 3.365/1941, é correto afirmar que:",
+    "alternativas": [
+      { "letra": "A", "texto": "os concessionários de serviços públicos e os estabelecimentos que exerçam funções delegadas do poder público poderão promover a desapropriação mediante autorização expressa constante de lei ou contrato." },
+      { "letra": "B", "texto": "a concessionária pode declarar a utilidade pública do bem e promover a desapropriação, independentemente de autorização em lei ou contrato." },
+      { "letra": "C", "texto": "é vedado a qualquer pessoa jurídica de direito privado promover desapropriação, ainda que delegatária de serviço público." },
+      { "letra": "D", "texto": "a concessionária pode promover a desapropriação, mas a indenização será integralmente suportada pelo poder concedente, ainda que o contrato disponha em sentido contrário." },
+      { "letra": "E", "texto": "a concessionária somente pode instituir servidão administrativa, sendo-lhe vedado promover a fase executória de qualquer desapropriação." }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A reproduz o art. 3º do Decreto-Lei nº 3.365/1941. A distinção fundamental é que a delegatária pode promover a fase EXECUTÓRIA (acordo ou ação judicial), mas não a fase DECLARATÓRIA, cuja competência é do Poder Público. A alternativa B erra exatamente nesse ponto: a declaração de utilidade pública é privativa do ente político (art. 6º), e a atuação da concessionária depende de autorização em lei ou contrato. A alternativa C nega o próprio art. 3º, que expressamente admite a atuação de delegatários. A alternativa D erra porque o ônus da indenização é normalmente atribuído à concessionária, nos termos do contrato de concessão, sendo a hipótese contratualmente disciplinada. A alternativa E restringe indevidamente a atuação da concessionária, que pode promover tanto desapropriações quanto servidões, na forma do art. 40 do mesmo decreto-lei e do art. 31, VI, da Lei nº 8.987/1995.",
+    "fundamentacaoLegal": "Arts. 3º, 6º e 40 do Decreto-Lei nº 3.365/1941; art. 31, VI, da Lei nº 8.987/1995."
+  },
+  {
+    "id": "intervencao-propriedade-23",
+    "topicoId": "intervencao-propriedade",
+    "topico": "Intervenção do Estado na propriedade",
+    "dificuldade": "media",
+    "enunciado": "Sobre a servidão administrativa, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "Constitui direito real público que autoriza o Poder Público a usar propriedade imóvel alheia para permitir a execução de obras e serviços de interesse coletivo, sendo a indenização condicionada à comprovação de efetivo prejuízo pelo proprietário." },
+      { "letra": "B", "texto": "Constitui direito pessoal de uso, sempre temporário, extinguindo-se automaticamente no prazo máximo de cinco anos." },
+      { "letra": "C", "texto": "Transfere a propriedade do bem serviente ao ente público, mediante indenização prévia, justa e em dinheiro." },
+      { "letra": "D", "texto": "Impõe ao proprietário obrigação de fazer, consistente na execução das obras necessárias ao serviço público beneficiado." },
+      { "letra": "E", "texto": "Somente pode ser instituída por sentença judicial, sendo vedada sua constituição por acordo entre o Poder Público e o proprietário." }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A descreve corretamente a servidão administrativa. Trata-se de direito real de natureza pública sobre coisa alheia, em regra perpétuo, cuja indenização é condicionada e proporcional ao prejuízo efetivamente demonstrado, e não automática. A alternativa B erra ao qualificá-la como direito pessoal e temporário com prazo fixo; a servidão tem natureza real e caráter, em regra, permanente. A alternativa C confunde servidão com desapropriação: não há transferência de propriedade, apenas restrição ao seu uso. A alternativa D erra na natureza da obrigação imposta: o proprietário do prédio serviente tem obrigação de SUPORTAR (tolerar) a utilização, e não de fazer. A alternativa E erra porque a servidão pode ser instituída por acordo entre as partes, precedido de declaração de utilidade pública, ou judicialmente, na forma do art. 40 do Decreto-Lei nº 3.365/1941.",
+    "fundamentacaoLegal": "Art. 40 do Decreto-Lei nº 3.365/1941; Súmula 56 do STJ; doutrina de Maria Sylvia Zanella Di Pietro e de Celso Antônio Bandeira de Mello sobre servidão administrativa."
+  },
+  {
+    "id": "intervencao-propriedade-24",
+    "topicoId": "intervencao-propriedade",
+    "topico": "Intervenção do Estado na propriedade",
+    "dificuldade": "dificil",
+    "enunciado": "Considere duas situações: (i) lei municipal de zoneamento fixa gabarito máximo de altura para edificações em toda a zona central da cidade; (ii) o Município impõe a passagem de adutora pelo subsolo de determinado imóvel privado, individualizado em decreto. Sobre a natureza jurídica dessas intervenções, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A situação (i) configura limitação administrativa, geral e abstrata, em regra não indenizável; a situação (ii) configura servidão administrativa, específica e indenizável quando comprovado o prejuízo." },
+      { "letra": "B", "texto": "A situação (i) configura servidão administrativa e a situação (ii), limitação administrativa, pois a primeira decorre de lei e a segunda de decreto." },
+      { "letra": "C", "texto": "Ambas configuram limitações administrativas, sendo ambas indenizáveis pelo valor de mercado da área atingida." },
+      { "letra": "D", "texto": "Ambas configuram servidões administrativas, pois restringem o direito de propriedade sem suprimi-lo." },
+      { "letra": "E", "texto": "A situação (i) configura ocupação temporária e a situação (ii), requisição administrativa, dada a natureza de iminente perigo público das obras de saneamento." }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A está correta. Os critérios distintivos consagrados pela doutrina são: a limitação administrativa é geral, abstrata, atinge proprietários indeterminados, impõe em regra obrigação de NÃO FAZER e não é indenizável (salvo se esvaziar economicamente a propriedade); a servidão administrativa é específica, recai sobre imóvel determinado, impõe obrigação de SUPORTAR e é indenizável mediante comprovação do prejuízo. A alternativa B inverte os institutos e apoia-se em critério formal irrelevante (lei ou decreto), quando o que importa é a generalidade ou especificidade da restrição. A alternativa C erra ao classificar a situação (ii) como limitação e ao afirmar indenização pelo valor de mercado, o que corresponderia à desapropriação. A alternativa D erra ao classificar a situação (i) como servidão, ignorando seu caráter geral e abstrato. A alternativa E confunde ambos com institutos transitórios: a ocupação temporária pressupõe uso transitório de terreno vizinho a obra pública, e a requisição pressupõe iminente perigo público, inexistente na hipótese.",
+    "fundamentacaoLegal": "Art. 5º, XXV, e art. 182 da CF/88; art. 40 do Decreto-Lei nº 3.365/1941; doutrina de Maria Sylvia Zanella Di Pietro sobre limitação administrativa e servidão administrativa."
+  },
+  {
+    "id": "intervencao-propriedade-25",
+    "topicoId": "intervencao-propriedade",
+    "topico": "Intervenção do Estado na propriedade",
+    "dificuldade": "media",
+    "enunciado": "Durante enchente que atingiu bairro do Município, a autoridade municipal competente determinou o uso imediato de galpão particular para abrigar as famílias desalojadas. Sobre essa intervenção, é correto afirmar que:",
+    "alternativas": [
+      { "letra": "A", "texto": "trata-se de requisição administrativa, cabível no caso de iminente perigo público, assegurada ao proprietário indenização ulterior, se houver dano." },
+      { "letra": "B", "texto": "trata-se de requisição administrativa, que somente é válida se precedida de indenização prévia, justa e em dinheiro." },
+      { "letra": "C", "texto": "trata-se de ocupação temporária, instituto que pressupõe a existência de obra pública em terreno vizinho não edificado." },
+      { "letra": "D", "texto": "trata-se de desapropriação por utilidade pública fundada em socorro público em caso de calamidade, com transferência definitiva da propriedade do galpão ao Município." },
+      { "letra": "E", "texto": "a medida é inconstitucional, pois a requisição administrativa somente pode recair sobre bens móveis e serviços, jamais sobre bens imóveis." }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A reproduz o art. 5º, XXV, da CF/88: no caso de iminente perigo público, a autoridade competente poderá usar de propriedade particular, assegurada ao proprietário indenização ULTERIOR, se houver dano. A alternativa B inverte o momento da indenização, que na requisição é posterior e condicionada à existência de dano, ao contrário da desapropriação. A alternativa C descreve a ocupação temporária do art. 36 do Decreto-Lei nº 3.365/1941, que pressupõe terreno não edificado vizinho a obra pública, situação diversa da narrada. A alternativa D erra porque a requisição é transitória e não transfere a propriedade; a desapropriação por calamidade (art. 5º, c, do Decreto-Lei nº 3.365/1941) exigiria decreto declaratório e indenização prévia. A alternativa E é incorreta porque a requisição pode incidir sobre bens móveis, bens imóveis e serviços.",
+    "fundamentacaoLegal": "Art. 5º, XXV, da CF/88; art. 5º, alínea c, e art. 36 do Decreto-Lei nº 3.365/1941."
+  },
+  {
+    "id": "intervencao-propriedade-26",
+    "topicoId": "intervencao-propriedade",
+    "topico": "Intervenção do Estado na propriedade",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre a competência normativa e material em matéria de requisição administrativa, à luz da Constituição Federal de 1988, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "Compete privativamente à União legislar sobre requisições civis e militares, em caso de iminente perigo e em tempo de guerra, o que não impede que autoridades estaduais e municipais executem requisições com base na legislação federal e no art. 5º, XXV, da Constituição." },
+      { "letra": "B", "texto": "A competência para legislar sobre requisições civis e militares é concorrente entre União, Estados e Distrito Federal, cabendo à União as normas gerais." },
+      { "letra": "C", "texto": "Somente a União pode executar requisições administrativas, sendo vedado a Estados e Municípios utilizarem o instituto em qualquer hipótese." },
+      { "letra": "D", "texto": "A requisição administrativa depende sempre de autorização legislativa específica do ente que a executa, editada previamente ao ato requisitório." },
+      { "letra": "E", "texto": "A requisição administrativa é modalidade de intervenção prevista apenas para o estado de sítio e o estado de defesa, sendo inconstitucional fora dessas hipóteses." }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A está correta e distingue competência LEGISLATIVA de competência MATERIAL/EXECUTIVA: o art. 22, III, da CF/88 atribui privativamente à União legislar sobre requisições civis e militares, mas o art. 5º, XXV, autoriza a autoridade competente de qualquer ente a usar a propriedade particular em caso de iminente perigo público. A alternativa B erra ao qualificar como concorrente competência expressamente privativa da União. A alternativa C confunde competência legislativa com competência executiva, negando a Estados e Municípios a possibilidade de requisitar. A alternativa D cria requisito incompatível com a urgência que caracteriza o instituto, sendo a requisição ato administrativo praticado com base direta na Constituição e na legislação federal. A alternativa E restringe indevidamente a requisição, que não se limita às hipóteses de estado de defesa e estado de sítio (arts. 136, §1º, II, e 139, VII, da CF/88), tendo previsão autônoma no art. 5º, XXV.",
+    "fundamentacaoLegal": "Art. 5º, XXV, art. 22, III, art. 136, §1º, II, e art. 139, VII, da CF/88."
+  },
+  {
+    "id": "intervencao-propriedade-27",
+    "topicoId": "intervencao-propriedade",
+    "topico": "Intervenção do Estado na propriedade",
+    "dificuldade": "media",
+    "enunciado": "Nos termos do art. 36 do Decreto-Lei nº 3.365/1941, a ocupação temporária:",
+    "alternativas": [
+      { "letra": "A", "texto": "é permitida sobre terrenos não edificados, vizinhos às obras e necessários à sua realização, será indenizada afinal por ação própria e o expropriante prestará caução, quando exigida." },
+      { "letra": "B", "texto": "é permitida sobre quaisquer imóveis, edificados ou não, mediante prévia e justa indenização em dinheiro, sob pena de nulidade." },
+      { "letra": "C", "texto": "transfere ao Poder Público a propriedade do terreno ocupado, dispensada a lavratura de escritura pública." },
+      { "letra": "D", "texto": "somente pode recair sobre bens públicos dominicais, sendo vedada sobre imóveis particulares." },
+      { "letra": "E", "texto": "independe de qualquer indenização, por constituir mero exercício regular do poder de polícia administrativa." }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A reproduz o art. 36 do Decreto-Lei nº 3.365/1941. A alternativa B erra em dois pontos: o dispositivo restringe a ocupação a terrenos NÃO EDIFICADOS vizinhos à obra, e a indenização é POSTERIOR, apurada afinal em ação própria, e não prévia. A alternativa C erra porque a ocupação temporária é transitória e não transfere a propriedade. A alternativa D inverte o objeto do instituto, que recai justamente sobre imóveis particulares vizinhos à obra pública. A alternativa E erra ao negar a indenização expressamente prevista em lei e ao confundir a ocupação temporária com o poder de polícia, cujo exercício regular é, esse sim, em regra não indenizável.",
+    "fundamentacaoLegal": "Art. 36 do Decreto-Lei nº 3.365/1941."
+  },
+  {
+    "id": "intervencao-propriedade-28",
+    "topicoId": "intervencao-propriedade",
+    "topico": "Intervenção do Estado na propriedade",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre o tombamento, disciplinado pelo Decreto-Lei nº 25/1937, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "O tombamento é voluntário quando o proprietário o pedir e a coisa se revestir dos requisitos legais, ou quando anuir por escrito à notificação que lhe for expedida; será compulsório quando o proprietário se recusar a anuir à inscrição da coisa." },
+      { "letra": "B", "texto": "O tombamento é sempre compulsório, não se admitindo iniciativa ou anuência do proprietário no procedimento." },
+      { "letra": "C", "texto": "O tombamento transfere a propriedade do bem tombado ao ente que o promoveu, mediante indenização prévia e em dinheiro." },
+      { "letra": "D", "texto": "As coisas tombadas pertencentes à União, aos Estados ou aos Municípios podem ser livremente alienadas a particulares, desde que preservadas as restrições de uso." },
+      { "letra": "E", "texto": "O tombamento provisório, decorrente da notificação, não produz qualquer efeito jurídico antes da inscrição definitiva no Livro do Tombo." }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A conjuga os arts. 6º, 7º e 8º do Decreto-Lei nº 25/1937. A alternativa B nega a existência do tombamento voluntário, expressamente previsto no art. 7º. A alternativa C erra na natureza do instituto: o tombamento é intervenção restritiva, não supressiva, e não gera, em regra, dever de indenizar, salvo comprovado esvaziamento econômico do bem. A alternativa D contraria o art. 11, segundo o qual as coisas tombadas pertencentes à União, aos Estados ou aos Municípios são inalienáveis por natureza, só podendo ser transferidas de uma a outra dessas entidades. A alternativa E contraria o art. 10, parágrafo único, do mesmo decreto-lei, que equipara, para os efeitos legais, o tombamento provisório ao definitivo, salvo quanto à obrigação de transcrição no registro de imóveis.",
+    "fundamentacaoLegal": "Arts. 6º, 7º, 8º, 10, parágrafo único, e 11 do Decreto-Lei nº 25/1937; art. 216, §1º, da CF/88."
+  },
+  {
+    "id": "intervencao-propriedade-29",
+    "topicoId": "intervencao-propriedade",
+    "topico": "Intervenção do Estado na propriedade",
+    "dificuldade": "media",
+    "enunciado": "O Decreto-Lei nº 25/1937 estabelece que o tombamento se efetiva mediante inscrição do bem em um dos Livros do Tombo. São Livros do Tombo previstos no art. 4º do referido diploma:",
+    "alternativas": [
+      { "letra": "A", "texto": "Livro do Tombo Arqueológico, Etnográfico e Paisagístico; Livro do Tombo Histórico; Livro do Tombo das Belas Artes; e Livro do Tombo das Artes Aplicadas." },
+      { "letra": "B", "texto": "Livro do Tombo Imaterial; Livro do Tombo Ambiental; Livro do Tombo Urbanístico; e Livro do Tombo Documental." },
+      { "letra": "C", "texto": "Livro do Tombo Nacional; Livro do Tombo Estadual; Livro do Tombo Municipal; e Livro do Tombo Distrital." },
+      { "letra": "D", "texto": "Livro do Tombo dos Bens Móveis; Livro do Tombo dos Bens Imóveis; e Livro do Tombo dos Bens Incorpóreos." },
+      { "letra": "E", "texto": "Livro do Tombo Provisório e Livro do Tombo Definitivo, conforme a fase do procedimento administrativo." }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A reproduz o rol dos quatro Livros do Tombo do art. 4º do Decreto-Lei nº 25/1937. A alternativa B relaciona livros inexistentes, confundindo o tombamento com o registro de bens culturais de natureza imaterial, disciplinado por norma diversa (Decreto nº 3.551/2000). A alternativa C adota critério de ente federativo, estranho ao art. 4º, que classifica os livros pela natureza do bem protegido. A alternativa D adota classificação civilista dos bens, também estranha ao dispositivo. A alternativa E confunde os livros com as fases do procedimento: o tombamento provisório e o definitivo são etapas do processo (art. 10), e não livros de inscrição.",
+    "fundamentacaoLegal": "Arts. 1º, §1º, 4º e 10 do Decreto-Lei nº 25/1937."
+  },
+  {
+    "id": "intervencao-propriedade-30",
+    "topicoId": "intervencao-propriedade",
+    "topico": "Intervenção do Estado na propriedade",
+    "dificuldade": "dificil",
+    "enunciado": "Proprietário de imóvel situado ao lado de casarão tombado pretende erguer edifício que reduzirá substancialmente a visibilidade do bem protegido, bem como instalar painel publicitário em sua fachada. Em outro imóvel, tombado, o proprietário pretende repintar as paredes externas. À luz do Decreto-Lei nº 25/1937, é correto afirmar que:",
+    "alternativas": [
+      { "letra": "A", "texto": "ambas as intervenções dependem de prévia autorização do órgão de proteção do patrimônio: na vizinhança da coisa tombada não se pode fazer construção que impeça ou reduza a visibilidade nem colocar anúncios ou cartazes, e a coisa tombada não pode ser reparada, pintada ou restaurada sem autorização especial." },
+      { "letra": "B", "texto": "somente a intervenção no imóvel tombado depende de autorização, pois o tombamento não produz qualquer efeito sobre imóveis vizinhos." },
+      { "letra": "C", "texto": "somente a construção no imóvel vizinho depende de autorização, pois a pintura de bem tombado é ato de mera conservação, livre de controle." },
+      { "letra": "D", "texto": "nenhuma das intervenções depende de autorização, bastando a comunicação posterior ao órgão de proteção do patrimônio." },
+      { "letra": "E", "texto": "ambas as intervenções são absolutamente vedadas, não se admitindo autorização administrativa em qualquer hipótese." }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A conjuga os arts. 17 e 18 do Decreto-Lei nº 25/1937. O art. 17 veda a destruição, demolição e mutilação da coisa tombada e condiciona sua reparação, pintura ou restauração a autorização especial do órgão de proteção, sob pena de multa de cinquenta por cento do dano causado. O art. 18 impõe a chamada servidão de vizinhança do bem tombado, exigindo autorização prévia para construção que impeça ou reduza a visibilidade e vedando anúncios e cartazes, sob pena de destruição da obra ou retirada do objeto, além de multa. A alternativa B ignora o art. 18. A alternativa C ignora o art. 17, que abrange expressamente a pintura. A alternativa D dispensa autorização exigida em lei, invertendo o regime de controle prévio. A alternativa E é excessiva, pois a lei não veda em absoluto as intervenções, mas as submete a autorização prévia do órgão competente.",
+    "fundamentacaoLegal": "Arts. 17, 18 e 19 do Decreto-Lei nº 25/1937."
+  }
+]

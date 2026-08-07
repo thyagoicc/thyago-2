@@ -1,0 +1,512 @@
+[
+  {
+    "id": "bens-publicos-01",
+    "topicoId": "bens-publicos",
+    "topico": "Bens públicos",
+    "dificuldade": "media",
+    "enunciado": "O Código Civil de 2002 adotou critério específico para definir quais bens integram a categoria de bens públicos. Sobre essa definição legal, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "O critério adotado pelo Código Civil é o da destinação do bem a uma finalidade pública, de modo que todo bem afetado a serviço público é bem público, independentemente de quem seja o seu titular." },
+      { "letra": "B", "texto": "São públicos os bens do domínio nacional pertencentes às pessoas jurídicas de direito público interno, considerando-se particulares todos os demais, seja qual for a pessoa a que pertencerem." },
+      { "letra": "C", "texto": "Os bens pertencentes a sociedade de economia mista prestadora de serviço público são, por definição legal, bens públicos, ante a natureza da atividade desempenhada." },
+      { "letra": "D", "texto": "As fundações públicas de direito privado integram o rol das pessoas jurídicas de direito público interno, razão pela qual seus bens são qualificados como públicos pelo Código Civil." },
+      { "letra": "E", "texto": "Os bens das empresas públicas federais são públicos por expressa determinação do Código Civil, ainda que a entidade explore atividade econômica em regime de concorrência." }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B reproduz a literalidade do art. 98 do Código Civil, que adotou o critério da TITULARIDADE (e não o da destinação) para definir bem público. A alternativa A está errada porque inverte o critério legal: o Código Civil não adotou o critério da afetação/destinação, mas o subjetivo (titularidade por pessoa jurídica de direito público interno); a afetação serve apenas para classificar os bens já públicos (art. 99). A alternativa C erra porque sociedade de economia mista é pessoa jurídica de direito PRIVADO (art. 5º, III, do Decreto-Lei nº 200/1967), de modo que seus bens são privados, ainda que parte deles receba proteção especial quando afetada a serviço público. A alternativa D erra porque as pessoas jurídicas de direito público interno estão taxativamente enumeradas no art. 41 do Código Civil (União, Estados, DF, Territórios, Municípios, autarquias e demais entidades de caráter público criadas por lei); fundação pública de direito privado não é pessoa jurídica de direito público, e seus bens são privados. A alternativa E erra pelo mesmo motivo da C: empresa pública é pessoa jurídica de direito privado, e o art. 173, §1º, II, da CF/88 reforça a sujeição ao regime próprio das empresas privadas quando explora atividade econômica.",
+    "fundamentacaoLegal": "Art. 98 do Código Civil (Lei nº 10.406/2002); art. 41 do Código Civil; art. 173, §1º, II, da CF/88."
+  },
+  {
+    "id": "bens-publicos-02",
+    "topicoId": "bens-publicos",
+    "topico": "Bens públicos",
+    "dificuldade": "dificil",
+    "enunciado": "A respeito da classificação dos bens públicos estabelecida no art. 99 do Código Civil, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "Os bens de uso comum do povo constituem o patrimônio das pessoas jurídicas de direito público, como objeto de direito pessoal ou real de cada uma dessas entidades." },
+      { "letra": "B", "texto": "Rios, mares, estradas, ruas e praças são bens de uso especial, por estarem afetados a uma finalidade pública específica e determinada." },
+      { "letra": "C", "texto": "Não dispondo a lei em contrário, consideram-se dominicais os bens pertencentes às pessoas jurídicas de direito público a que se tenha dado estrutura de direito privado." },
+      { "letra": "D", "texto": "Os edifícios ou terrenos destinados a estabelecimento da administração municipal classificam-se como bens de uso comum do povo, por serem acessíveis à população." },
+      { "letra": "E", "texto": "Os bens dominicais integram o patrimônio indisponível do Estado e, por isso, não podem figurar como objeto de relação jurídica regida pelo direito privado." }
+    ],
+    "gabarito": "C",
+    "comentario": "A alternativa C reproduz o parágrafo único do art. 99 do Código Civil, dispositivo pouco lembrado e frequentemente cobrado: os bens de pessoas jurídicas de direito público às quais se tenha dado estrutura de direito privado presumem-se dominicais, salvo disposição legal em contrário. A alternativa A está errada porque a definição transcrita é a dos bens DOMINICAIS (art. 99, III), e não a dos bens de uso comum do povo (art. 99, I). A alternativa B inverte a classificação: rios, mares, estradas, ruas e praças são exemplos legais expressos de bens de USO COMUM DO POVO (art. 99, I). A alternativa D também inverte: os edifícios ou terrenos destinados a serviço ou estabelecimento da administração federal, estadual, territorial ou municipal são bens de USO ESPECIAL (art. 99, II); a mera acessibilidade física do público não converte o bem em de uso comum. A alternativa E erra porque os bens dominicais compõem justamente o patrimônio DISPONÍVEL do Estado, podendo ser alienados (art. 101) e ser objeto de relações de direito privado, como locação e comodato.",
+    "fundamentacaoLegal": "Art. 99, incisos I a III, e parágrafo único, do Código Civil; art. 101 do Código Civil."
+  },
+  {
+    "id": "bens-publicos-03",
+    "topicoId": "bens-publicos",
+    "topico": "Bens públicos",
+    "dificuldade": "media",
+    "enunciado": "O Município de Campina Grande/PB é titular dos seguintes bens: (i) uma praça central aberta ao uso da população em geral; (ii) o edifício onde funciona a Secretaria Municipal de Finanças; e (iii) um terreno urbano vago, sem qualquer destinação administrativa ou uso pela coletividade. Classificando-se tais bens à luz do art. 99 do Código Civil, é correto afirmar que:",
+    "alternativas": [
+      { "letra": "A", "texto": "(i) é bem de uso comum do povo; (ii) é bem de uso especial; e (iii) é bem dominical." },
+      { "letra": "B", "texto": "(i) é bem de uso comum do povo; (ii) é bem dominical; e (iii) é bem de uso especial." },
+      { "letra": "C", "texto": "(i) é bem de uso especial; (ii) é bem de uso comum do povo; e (iii) é bem dominical." },
+      { "letra": "D", "texto": "os três bens são de uso especial, pois todos integram o patrimônio de pessoa jurídica de direito público interno." },
+      { "letra": "E", "texto": "(i) é bem de uso comum do povo; (ii) e (iii) são bens de uso especial, pois todo bem público é presumidamente afetado a uma finalidade pública." }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A é a correta. A praça é exemplo literal de bem de uso comum do povo (art. 99, I); o edifício destinado a estabelecimento da administração municipal é bem de uso especial (art. 99, II); e o terreno urbano sem destinação é bem dominical, integrando o patrimônio disponível do ente (art. 99, III). A alternativa B troca as classificações de (ii) e (iii). A alternativa C troca as classificações de (i) e (ii). A alternativa D confunde o critério de definição (titularidade, art. 98) com o critério de classificação (destinação, art. 99): a titularidade pública torna o bem público, mas não o torna necessariamente de uso especial. A alternativa E parte de premissa falsa, pois não há presunção de afetação de todo bem público; justamente os bens dominicais são os NÃO afetados.",
+    "fundamentacaoLegal": "Art. 99, incisos I, II e III, do Código Civil; art. 98 do Código Civil."
+  },
+  {
+    "id": "bens-publicos-04",
+    "topicoId": "bens-publicos",
+    "topico": "Bens públicos",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre a afetação e a desafetação de bens públicos, segundo a doutrina administrativista majoritária e a disciplina do Código Civil, assinale a alternativa INCORRETA.",
+    "alternativas": [
+      { "letra": "A", "texto": "A afetação consiste na atribuição, ao bem público, de uma destinação específica de interesse público, podendo decorrer de lei, de ato administrativo ou de fato administrativo." },
+      { "letra": "B", "texto": "A desafetação converte bens de uso comum do povo ou de uso especial em bens dominicais, viabilizando sua alienação nos termos do art. 101 do Código Civil." },
+      { "letra": "C", "texto": "Os bens dominicais não são afetados a qualquer destinação pública específica, razão pela qual sua alienação prescinde de prévia desafetação." },
+      { "letra": "D", "texto": "A mera ausência de utilização efetiva de uma praça pública pela população, por longo período, opera automaticamente a sua desafetação, convertendo-a em bem dominical." },
+      { "letra": "E", "texto": "A desafetação de bem de uso comum do povo pode decorrer de fato da natureza, como no caso de um rio que seca em definitivo, além das hipóteses de lei ou de ato administrativo autorizado por lei." }
+    ],
+    "gabarito": "D",
+    "comentario": "A questão pede a alternativa INCORRETA, que é a D. O não uso do bem, por si só, não desafeta: a doutrina majoritária (Di Pietro, Carvalho Filho) é firme no sentido de que o simples desuso ou abandono NÃO produz desafetação, exigindo-se manifestação expressa do Poder Público (lei ou ato administrativo com respaldo legal) ou fato juridicamente relevante que retire a destinação. A alternativa A está correta ao descrever a afetação e suas fontes possíveis. A alternativa B está correta: desafetado, o bem passa à categoria de dominical e submete-se ao art. 101, que autoriza a alienação observadas as exigências da lei. A alternativa C está correta, pois o bem dominical, por não ser afetado, já se encontra na categoria alienável, sendo desnecessária desafetação prévia. A alternativa E está correta: a doutrina admite a desafetação por fato da natureza (evento natural que suprime a destinação) e por fato administrativo, ao lado da desafetação por lei ou por ato administrativo autorizado em lei.",
+    "fundamentacaoLegal": "Arts. 99, 100 e 101 do Código Civil; doutrina de Maria Sylvia Zanella Di Pietro e José dos Santos Carvalho Filho sobre afetação e desafetação."
+  },
+  {
+    "id": "bens-publicos-05",
+    "topicoId": "bens-publicos",
+    "topico": "Bens públicos",
+    "dificuldade": "media",
+    "enunciado": "Assinale a alternativa que reproduz corretamente o regime de inalienabilidade dos bens públicos previsto no Código Civil.",
+    "alternativas": [
+      { "letra": "A", "texto": "Todos os bens públicos são absolutamente inalienáveis, sendo nulo de pleno direito qualquer negócio jurídico que tenha por objeto sua alienação." },
+      { "letra": "B", "texto": "Os bens públicos de uso comum do povo e os de uso especial são inalienáveis enquanto conservarem a sua qualificação, na forma que a lei determinar." },
+      { "letra": "C", "texto": "Os bens dominicais são inalienáveis, ao passo que os bens de uso comum do povo podem ser livremente alienados pela Administração." },
+      { "letra": "D", "texto": "Os bens de uso especial podem ser alienados independentemente de desafetação, bastando prévia avaliação e autorização do Tribunal de Contas." },
+      { "letra": "E", "texto": "A inalienabilidade dos bens de uso comum do povo é absoluta e insuscetível de supressão, não se admitindo desafetação nem mesmo por lei específica." }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B reproduz o art. 100 do Código Civil. Note-se que a inalienabilidade é RELATIVA e CONDICIONADA: dura enquanto o bem conservar a qualificação de uso comum ou de uso especial. A alternativa A generaliza indevidamente: os bens dominicais podem ser alienados (art. 101), de modo que a inalienabilidade não é absoluta nem alcança todos os bens públicos. A alternativa C inverte completamente a regra legal, atribuindo aos dominicais a inalienabilidade e aos de uso comum a livre alienabilidade. A alternativa D erra porque o bem de uso especial permanece inalienável enquanto conservar essa qualificação, sendo indispensável a prévia desafetação; ademais, o Tribunal de Contas não detém competência para autorizar alienações, que dependem, no caso de imóveis, de autorização legislativa (art. 76, I, da Lei nº 14.133/2021). A alternativa E erra ao transformar a inalienabilidade relativa em absoluta, negando a possibilidade de desafetação, que é expressamente admitida pelo ordenamento.",
+    "fundamentacaoLegal": "Arts. 100 e 101 do Código Civil; art. 76, I, da Lei nº 14.133/2021."
+  },
+  {
+    "id": "bens-publicos-06",
+    "topicoId": "bens-publicos",
+    "topico": "Bens públicos",
+    "dificuldade": "dificil",
+    "enunciado": "O Município recebeu, em dação em pagamento de créditos tributários inscritos em dívida ativa, um imóvel urbano, que agora pretende alienar. Nos termos da Lei nº 14.133/2021, tal alienação:",
+    "alternativas": [
+      { "letra": "A", "texto": "exigirá autorização legislativa específica, avaliação prévia e licitação na modalidade concorrência." },
+      { "letra": "B", "texto": "dispensará autorização legislativa e exigirá apenas avaliação prévia e licitação na modalidade leilão." },
+      { "letra": "C", "texto": "dispensará avaliação prévia e licitação, por se tratar de bem dominical não afetado a qualquer finalidade pública." },
+      { "letra": "D", "texto": "exigirá autorização legislativa e avaliação prévia, sendo dispensada a licitação em razão da origem do bem." },
+      { "letra": "E", "texto": "somente será possível após a edição de lei municipal de desafetação, ainda que o bem jamais tenha recebido destinação pública." }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B corresponde ao art. 76, §1º, da Lei nº 14.133/2021, que estabelece regime excepcional para imóveis cuja aquisição tenha derivado de procedimentos judiciais ou de dação em pagamento: dispensa-se a autorização legislativa, exigindo-se apenas avaliação prévia e leilão. A alternativa A aplica a regra geral do art. 76, I (autorização legislativa), que é justamente afastada pelo §1º, além de indicar modalidade errada (a modalidade legal para alienação é o leilão, não a concorrência). A alternativa C erra porque, mesmo no regime excepcional, a avaliação prévia e o leilão continuam obrigatórios; a natureza dominical do bem apenas o torna alienável, não dispensa o procedimento. A alternativa D mantém indevidamente a autorização legislativa e dispensa indevidamente a licitação, invertendo exatamente o que dispõe o §1º. A alternativa E erra porque a desafetação pressupõe afetação anterior; bem dominical adquirido por dação em pagamento nunca foi afetado, sendo desnecessária lei desafetadora.",
+    "fundamentacaoLegal": "Art. 76, caput, inciso I, e §1º, da Lei nº 14.133/2021; art. 101 do Código Civil."
+  },
+  {
+    "id": "bens-publicos-07",
+    "topicoId": "bens-publicos",
+    "topico": "Bens públicos",
+    "dificuldade": "media",
+    "enunciado": "Assinale a alternativa correta acerca da aquisição de bens públicos por usucapião.",
+    "alternativas": [
+      { "letra": "A", "texto": "Os bens públicos dominicais, por não serem afetados a finalidade pública, podem ser adquiridos por usucapião extraordinária após quinze anos de posse ininterrupta e sem oposição." },
+      { "letra": "B", "texto": "Os bens públicos não estão sujeitos a usucapião, entendimento consolidado na Súmula 340 do STF, segundo a qual, desde a vigência do Código Civil, os bens dominicais, como os demais bens públicos, não podem ser adquiridos por usucapião." },
+      { "letra": "C", "texto": "Somente os bens de uso comum do povo são imprescritíveis, admitindo-se a usucapião dos bens de uso especial e dos dominicais." },
+      { "letra": "D", "texto": "A imprescritibilidade dos bens públicos decorre exclusivamente de construção jurisprudencial, não havendo dispositivo expresso no Código Civil a respeito." },
+      { "letra": "E", "texto": "Admite-se a usucapião de bem público na modalidade especial urbana, desde que a área não ultrapasse duzentos e cinquenta metros quadrados e seja utilizada para moradia." }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B está correta e conjuga o art. 102 do Código Civil com a Súmula 340 do STF. A alternativa A cria exceção inexistente: a imprescritibilidade alcança todos os bens públicos, inclusive os dominicais, exatamente o que a Súmula 340 do STF afirma. A alternativa C restringe indevidamente a imprescritibilidade aos bens de uso comum, contrariando o art. 102, que se refere a bens públicos sem distinção. A alternativa D está errada porque há previsão expressa: o art. 102 do Código Civil dispõe que os bens públicos não estão sujeitos a usucapião; a jurisprudência apenas reforça o texto legal. A alternativa E está errada porque a própria Constituição veda a usucapião de imóveis públicos tanto na modalidade urbana (art. 183, §3º) quanto na rural (art. 191, parágrafo único); o que existe para o possuidor de área pública urbana de até 250 m² é a concessão de uso especial para fins de moradia (MP nº 2.220/2001), que não transfere propriedade.",
+    "fundamentacaoLegal": "Art. 102 do Código Civil; Súmula 340 do STF; arts. 183, §3º, e 191, parágrafo único, da CF/88."
+  },
+  {
+    "id": "bens-publicos-08",
+    "topicoId": "bens-publicos",
+    "topico": "Bens públicos",
+    "dificuldade": "dificil",
+    "enunciado": "Empresa pública municipal, prestadora exclusiva do serviço público de coleta de resíduos sólidos, teve caminhões diretamente empregados na prestação do serviço penhorados em execução movida por credor privado. Considerando a doutrina e a jurisprudência dos tribunais superiores, é correto afirmar que:",
+    "alternativas": [
+      { "letra": "A", "texto": "os bens das empresas públicas são, por natureza, bens públicos, sendo absolutamente impenhoráveis por força do art. 98 do Código Civil." },
+      { "letra": "B", "texto": "os bens das empresas públicas são, em regra, bens privados e penhoráveis; admite-se, contudo, a impenhorabilidade daqueles diretamente afetados à prestação do serviço público, em homenagem ao princípio da continuidade." },
+      { "letra": "C", "texto": "a penhora é válida em qualquer hipótese, pois as empresas públicas submetem-se integralmente ao regime jurídico de direito privado, sem qualquer exceção." },
+      { "letra": "D", "texto": "toda empresa pública, por integrar a Administração indireta, submete-se ao regime constitucional de precatórios, sendo nula qualquer penhora sobre seus bens." },
+      { "letra": "E", "texto": "a impenhorabilidade dependeria de prévia lei municipal específica que desafetasse os bens da atividade empresarial." }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B está correta: por serem pessoas jurídicas de direito privado, as empresas públicas têm bens privados, em regra penhoráveis; a doutrina e a jurisprudência, todavia, reconhecem a impenhorabilidade dos bens diretamente afetados à prestação do serviço público, para preservar a continuidade do serviço. A alternativa A erra ao qualificar os bens como públicos: o art. 98 do Código Civil vincula a natureza pública à titularidade por pessoa jurídica de direito público interno. A alternativa C erra ao afirmar submissão integral e sem exceções ao direito privado; o art. 173, §1º, II, da CF/88 fala em regime próprio das empresas privadas, mas a jurisprudência do STF construiu exceções para prestadoras de serviço público em regime não concorrencial. A alternativa D generaliza indevidamente: o regime de precatórios foi excepcionalmente estendido pelo STF a prestadoras de serviço público em regime de exclusividade e sem intuito lucrativo (caso da ECT), não alcançando indistintamente toda empresa pública, sobretudo as exploradoras de atividade econômica. A alternativa E inverte a lógica: a proteção decorre justamente da AFETAÇÃO do bem ao serviço, e não de desafetação; ademais, não se exige lei específica para tanto.",
+    "fundamentacaoLegal": "Art. 98 do Código Civil; art. 173, §1º, II, da CF/88; art. 6º, §1º, da Lei nº 8.987/1995 (princípio da continuidade do serviço público)."
+  },
+  {
+    "id": "bens-publicos-09",
+    "topicoId": "bens-publicos",
+    "topico": "Bens públicos",
+    "dificuldade": "dificil",
+    "enunciado": "A impenhorabilidade dos bens públicos, embora não enunciada de forma expressa no Código Civil, é reconhecida pela doutrina e decorre sistematicamente do regime constitucional de pagamento das dívidas da Fazenda Pública. Sobre o tema, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A execução contra a Fazenda Pública municipal segue o regime de precatórios, ressalvados os pagamentos de obrigações definidas em lei como de pequeno valor, que independem de precatório." },
+      { "letra": "B", "texto": "Os bens dominicais, por não serem afetados a finalidade pública, podem ser objeto de penhora em execução movida contra o Município." },
+      { "letra": "C", "texto": "A impenhorabilidade dos bens públicos é absoluta, não se admitindo sequer o sequestro de verbas públicas em caso de preterição do direito de precedência na ordem dos precatórios." },
+      { "letra": "D", "texto": "O regime de precatórios aplica-se apenas à União e aos Estados, submetendo-se os Municípios ao regime comum de execução por quantia certa, com penhora de bens." },
+      { "letra": "E", "texto": "A penhora de bem público municipal é admitida desde que autorizada por lei municipal específica que a preveja para dívidas de natureza tributária." }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A está correta e reflete o art. 100, caput e §3º, da CF/88: os pagamentos devidos pelas Fazendas Públicas federal, estaduais, distrital e municipais em virtude de sentença judiciária far-se-ão na ordem cronológica de apresentação dos precatórios, excetuadas as obrigações de pequeno valor definidas em lei. A alternativa B está errada porque a impenhorabilidade alcança todos os bens públicos, inclusive os dominicais; alienabilidade e penhorabilidade não se confundem. A alternativa C erra ao afirmar caráter absoluto: o art. 100, §6º, da CF/88 autoriza expressamente o sequestro da quantia respectiva em caso de preterição do direito de precedência ou de não alocação orçamentária do valor necessário. A alternativa D erra ao excluir os Municípios do regime de precatórios, que o art. 100 estende a todas as Fazendas Públicas. A alternativa E erra porque lei municipal não pode afastar garantia decorrente do regime constitucional de execução contra a Fazenda Pública.",
+    "fundamentacaoLegal": "Art. 100, caput, §§3º e 6º, da CF/88; art. 910 do CPC/2015."
+  },
+  {
+    "id": "bens-publicos-10",
+    "topicoId": "bens-publicos",
+    "topico": "Bens públicos",
+    "dificuldade": "media",
+    "enunciado": "Nos termos do art. 103 do Código Civil, o uso comum dos bens públicos:",
+    "alternativas": [
+      { "letra": "A", "texto": "é sempre gratuito, sendo vedada à Administração qualquer forma de cobrança de retribuição pelo uso." },
+      { "letra": "B", "texto": "pode ser gratuito ou retribuído, conforme for estabelecido legalmente pela entidade a cuja administração pertencerem os bens." },
+      { "letra": "C", "texto": "somente pode ser retribuído após prévia desafetação do bem e sua conversão em bem dominical." },
+      { "letra": "D", "texto": "somente pode ser retribuído quando se tratar de bem de uso especial cedido a particular." },
+      { "letra": "E", "texto": "pode ser retribuído por simples ato administrativo do Chefe do Poder Executivo, independentemente de previsão legal." }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B reproduz literalmente o art. 103 do Código Civil. A alternativa A erra ao afirmar gratuidade obrigatória, contrariando o texto legal, que admite expressamente a retribuição. A alternativa C erra porque a cobrança pelo uso comum não exige desafetação: o bem continua sendo de uso comum do povo, apenas com uso remunerado (por exemplo, pedágio em via pública ou estacionamento rotativo). A alternativa D confunde as categorias do art. 99, pois o dispositivo trata precisamente do uso COMUM, e não do uso especial. A alternativa E contém a pegadinha central do dispositivo: a retribuição deve ser estabelecida LEGALMENTE pela entidade a cuja administração o bem pertence, não bastando ato administrativo desprovido de base legal.",
+    "fundamentacaoLegal": "Art. 103 do Código Civil; art. 99, I, do Código Civil."
+  },
+  {
+    "id": "bens-publicos-11",
+    "topicoId": "bens-publicos",
+    "topico": "Bens públicos",
+    "dificuldade": "media",
+    "enunciado": "A característica dos bens públicos denominada pela doutrina de não onerabilidade (ou impossibilidade de oneração) significa que os bens públicos:",
+    "alternativas": [
+      { "letra": "A", "texto": "não podem ser objeto de direitos reais de garantia, tais como penhor, hipoteca e anticrese." },
+      { "letra": "B", "texto": "não podem ser objeto de qualquer forma de uso privativo por particulares, ainda que mediante título jurídico outorgado pela Administração." },
+      { "letra": "C", "texto": "não podem ser alcançados por tributos instituídos por outros entes federados, em razão da imunidade tributária recíproca." },
+      { "letra": "D", "texto": "não podem ser gravados com cláusula de inalienabilidade, por já serem legalmente inalienáveis." },
+      { "letra": "E", "texto": "não podem sofrer a instituição de servidão administrativa por ente federativo diverso do proprietário." }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A está correta: a não onerabilidade traduz a impossibilidade de instituição de direitos reais de garantia sobre bens públicos, pois tais garantias pressupõem a possibilidade de excussão judicial do bem, incompatível com a impenhorabilidade. A alternativa B está errada porque o uso privativo de bem público por particular é amplamente admitido mediante autorização, permissão, concessão de uso, concessão de direito real de uso e cessão. A alternativa C descreve a imunidade tributária recíproca (art. 150, VI, a, da CF/88), instituto diverso da não onerabilidade. A alternativa D confunde a característica com a cláusula testamentária ou contratual de inalienabilidade do direito civil, sem pertinência com o conceito cobrado. A alternativa E está errada, pois é juridicamente possível a instituição de servidão administrativa sobre bem público, observada a hierarquia federativa prevista, por analogia, no art. 2º, §2º, do Decreto-Lei nº 3.365/1941.",
+    "fundamentacaoLegal": "Arts. 1.419 e seguintes do Código Civil (direitos reais de garantia); art. 100 da CF/88; doutrina de Celso Antônio Bandeira de Mello e de José dos Santos Carvalho Filho sobre as características dos bens públicos."
+  },
+  {
+    "id": "bens-publicos-12",
+    "topicoId": "bens-publicos",
+    "topico": "Bens públicos",
+    "dificuldade": "dificil",
+    "enunciado": "Comerciante requer ao Município permissão para instalar, por trinta dias, uma banca de venda de bebidas em calçada pública durante festejo junino, no seu interesse predominantemente privado. O pedido é deferido por ato unilateral, discricionário e precário, revogável a qualquer tempo, sem indenização. O instituto de uso privativo de bem público utilizado foi a:",
+    "alternativas": [
+      { "letra": "A", "texto": "concessão de uso de bem público, por consubstanciar contrato administrativo de execução continuada." },
+      { "letra": "B", "texto": "autorização de uso de bem público, ato unilateral, discricionário e precário, editado no interesse predominante do particular." },
+      { "letra": "C", "texto": "permissão qualificada de uso, que gera ao permissionário direito adquirido à manutenção do uso durante todo o prazo assinalado." },
+      { "letra": "D", "texto": "concessão de direito real de uso, nos termos do art. 7º do Decreto-Lei nº 271/1967." },
+      { "letra": "E", "texto": "cessão de uso, instituto restrito à transferência de bens entre órgãos e entidades da Administração Pública." }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B está correta. A doutrina distingue os institutos de uso privativo pelo interesse preponderante: na AUTORIZAÇÃO de uso, o interesse é predominantemente do particular, sendo ato unilateral, discricionário e precário; na PERMISSÃO de uso, há interesse público concorrente com o do particular; na CONCESSÃO de uso, há contrato administrativo. A alternativa A erra porque concessão de uso é contrato bilateral, formalizado por prazo determinado e precedido de licitação, incompatível com a descrição de ato unilateral e precário. A alternativa C erra porque, mesmo na chamada permissão qualificada (com prazo), o instituto descrito no enunciado é a autorização; além disso, a fixação de prazo gera, no máximo, dever de indenizar em caso de revogação antecipada, e não direito adquirido à manutenção do uso. A alternativa D erra porque a concessão de direito real de uso é direito real resolúvel, formalizada por contrato e registrável, destinada a finalidades específicas do art. 7º do Decreto-Lei nº 271/1967, o que não se ajusta à hipótese. A alternativa E erra porque a cessão de uso se opera entre entidades e órgãos públicos, e não em favor de comerciante particular.",
+    "fundamentacaoLegal": "Art. 99, I, e art. 103 do Código Civil; art. 7º do Decreto-Lei nº 271/1967 (por contraste); doutrina de Maria Sylvia Zanella Di Pietro sobre autorização, permissão e concessão de uso de bem público."
+  },
+  {
+    "id": "bens-publicos-13",
+    "topicoId": "bens-publicos",
+    "topico": "Bens públicos",
+    "dificuldade": "dificil",
+    "enunciado": "A concessão de direito real de uso, prevista no art. 7º do Decreto-Lei nº 271/1967, caracteriza-se por:",
+    "alternativas": [
+      { "letra": "A", "texto": "ser ato administrativo unilateral e precário, revogável a qualquer tempo, sem qualquer direito à indenização." },
+      { "letra": "B", "texto": "constituir contrato administrativo que transfere ao concessionário a propriedade plena do bem, mediante autorização legislativa." },
+      { "letra": "C", "texto": "constituir direito real resolúvel, remunerado ou gratuito, por tempo certo ou indeterminado, para fins específicos de regularização fundiária de interesse social, urbanização, industrialização, edificação, cultivo da terra ou outras modalidades de interesse social em áreas urbanas." },
+      { "letra": "D", "texto": "aplicar-se exclusivamente a terrenos públicos, sendo juridicamente impossível sua instituição sobre terrenos particulares." },
+      { "letra": "E", "texto": "transferir apenas a posse direta do bem, sem natureza de direito real, razão pela qual não é passível de registro no cartório de registro de imóveis." }
+    ],
+    "gabarito": "C",
+    "comentario": "A alternativa C reproduz o núcleo do art. 7º do Decreto-Lei nº 271/1967. A alternativa A confunde a concessão de direito real de uso com a autorização de uso: a primeira é contratual e gera direito real, incompatível com a precariedade pura. A alternativa B erra porque o instituto não transfere a propriedade, mas apenas o direito real de uso, resolúvel. A alternativa D contém a pegadinha da questão: o art. 7º autoriza a concessão sobre terrenos públicos OU PARTICULARES. A alternativa E erra porque a concessão de direito real de uso tem natureza de direito real, sendo registrável, inclusive transmissível por ato inter vivos ou por sucessão legítima ou testamentária, nos termos do §4º do mesmo artigo.",
+    "fundamentacaoLegal": "Art. 7º, caput e §§, do Decreto-Lei nº 271/1967; art. 1.225, XII, do Código Civil."
+  },
+  {
+    "id": "bens-publicos-14",
+    "topicoId": "bens-publicos",
+    "topico": "Bens públicos",
+    "dificuldade": "dificil",
+    "enunciado": "João ocupou, sem qualquer título jurídico, área pertencente ao Município e nela edificou uma residência e realizou benfeitorias. Notificado a desocupar o imóvel, pretende ser indenizado pelas acessões e benfeitorias e exercer direito de retenção até o pagamento. À luz do entendimento sumulado do Superior Tribunal de Justiça, é correto afirmar que:",
+    "alternativas": [
+      { "letra": "A", "texto": "João é possuidor de boa-fé e faz jus à indenização pelas benfeitorias necessárias e úteis, com direito de retenção até que seja pago." },
+      { "letra": "B", "texto": "a ocupação indevida de bem público configura mera detenção, de natureza precária, insuscetível de retenção ou indenização por acessões e benfeitorias." },
+      { "letra": "C", "texto": "João poderá usucapir a área após dez anos de posse mansa e pacífica, por se tratar de bem dominical não afetado." },
+      { "letra": "D", "texto": "João faz jus à indenização apenas pelas benfeitorias necessárias, sem direito de retenção, por ser possuidor de má-fé." },
+      { "letra": "E", "texto": "a ocupação configura posse precária que se convalida com o decurso do tempo, gerando direito subjetivo à permanência no imóvel." }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B reproduz a Súmula 619 do STJ. A chave da questão é a qualificação jurídica: quem ocupa bem público sem título não é POSSUIDOR, mas mero DETENTOR, o que afasta os efeitos possessórios previstos nos arts. 1.219 e 1.220 do Código Civil. A alternativa A erra ao pressupor posse de boa-fé, pressuposto inexistente diante da mera detenção. A alternativa C erra porque os bens públicos, inclusive os dominicais, são imprescritíveis (art. 102 do Código Civil e Súmula 340 do STF). A alternativa D erra porque nem mesmo a indenização por benfeitorias necessárias é devida ao detentor de bem público, conforme a Súmula 619 do STJ. A alternativa E erra porque a detenção sobre bem público não se convalida pelo tempo, permanecendo sempre precária.",
+    "fundamentacaoLegal": "Súmula 619 do STJ; art. 1.198 do Código Civil (detenção); art. 102 do Código Civil; Súmula 340 do STF."
+  },
+  {
+    "id": "bens-publicos-15",
+    "topicoId": "bens-publicos",
+    "topico": "Bens públicos",
+    "dificuldade": "media",
+    "enunciado": "Segundo a Lei nº 14.133/2021, a alienação de bens MÓVEIS da Administração Pública:",
+    "alternativas": [
+      { "letra": "A", "texto": "exige autorização legislativa específica, avaliação prévia e licitação na modalidade leilão." },
+      { "letra": "B", "texto": "subordina-se à existência de interesse público devidamente justificado, será precedida de avaliação e dependerá de licitação na modalidade leilão, dispensada a licitação nas hipóteses legalmente previstas." },
+      { "letra": "C", "texto": "depende de licitação na modalidade concorrência, admitindo-se a dispensa apenas na hipótese de doação." },
+      { "letra": "D", "texto": "é livre, independentemente de avaliação prévia, sempre que o valor do bem for inferior ao limite legal de dispensa de licitação para compras." },
+      { "letra": "E", "texto": "exige, além da avaliação prévia e da licitação, prévia autorização do Tribunal de Contas competente." }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B corresponde ao art. 76, caput e inciso II, da Lei nº 14.133/2021. A alternativa A insere requisito inexistente: a autorização legislativa é exigida apenas para bens IMÓVEIS (art. 76, I), não para móveis. A alternativa C indica modalidade incorreta, pois a lei prevê o leilão, além de restringir indevidamente as hipóteses de dispensa, que abrangem também permuta entre órgãos, venda de ações e títulos, venda de bens produzidos pela entidade e venda de materiais e equipamentos sem utilização previsível a outros órgãos. A alternativa D erra porque a avaliação prévia é exigência incondicional do caput do art. 76, e não há liberação por valor. A alternativa E cria exigência não prevista em lei: o controle do Tribunal de Contas é a posteriori e não configura condição de validade da alienação.",
+    "fundamentacaoLegal": "Art. 76, caput e inciso II, alíneas a a f, da Lei nº 14.133/2021."
+  },
+  {
+    "id": "bens-publicos-16",
+    "topicoId": "bens-publicos",
+    "topico": "Bens públicos",
+    "dificuldade": "dificil",
+    "enunciado": "Ao concluir obra de alargamento viário, o Município ficou com área remanescente que se tornou inaproveitável isoladamente, e pretende aliená-la ao proprietário do imóvel lindeiro. Nos termos da Lei nº 14.133/2021, tal alienação configura:",
+    "alternativas": [
+      { "letra": "A", "texto": "doação com encargo, dependente de autorização legislativa específica e de prévia licitação na modalidade leilão." },
+      { "letra": "B", "texto": "investidura, hipótese de dispensa de licitação, devendo o preço não ser inferior ao da avaliação." },
+      { "letra": "C", "texto": "permuta, dispensadas a avaliação prévia e a autorização legislativa, por se tratar de área residual." },
+      { "letra": "D", "texto": "concessão de direito real de uso, a ser registrada no cartório de registro de imóveis competente." },
+      { "letra": "E", "texto": "legitimação fundiária, instituto próprio da Regularização Fundiária Urbana disciplinada na Lei nº 13.465/2017." }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B está correta. O art. 76, §5º, I, da Lei nº 14.133/2021 define investidura como a alienação, ao proprietário de imóvel lindeiro, de área remanescente ou resultante de obra pública que se tornar inaproveitável isoladamente, por preço não inferior ao da avaliação e observado o teto legal; trata-se de hipótese de dispensa de licitação prevista no art. 76, I, alínea d. A alternativa A erra porque não há doação: o instituto é oneroso, e a licitação é dispensada. A alternativa C erra porque não há troca de bens (permuta) e porque a avaliação prévia é sempre exigida pelo caput do art. 76. A alternativa D erra porque não se transfere apenas o uso, mas a própria propriedade da área remanescente. A alternativa E erra porque a legitimação fundiária é instrumento de aquisição originária de propriedade no âmbito da Reurb, destinado à regularização de núcleos urbanos informais consolidados, sem relação com área residual de obra pública.",
+    "fundamentacaoLegal": "Art. 76, caput, inciso I, alínea d, e §5º, inciso I, da Lei nº 14.133/2021; art. 23 da Lei nº 13.465/2017 (por contraste)."
+  },
+  {
+    "id": "bens-publicos-17",
+    "topicoId": "bens-publicos",
+    "topico": "Bens públicos",
+    "dificuldade": "media",
+    "enunciado": "Sobre as terras devolutas, à luz da Constituição Federal de 1988, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "Todas as terras devolutas pertencem à União, independentemente de sua localização ou de sua destinação." },
+      { "letra": "B", "texto": "Incluem-se entre os bens da União as terras devolutas indispensáveis à defesa das fronteiras, das fortificações e construções militares, das vias federais de comunicação e à preservação ambiental, definidas em lei, pertencendo aos Estados as demais terras devolutas." },
+      { "letra": "C", "texto": "As terras devolutas pertencem aos Municípios em cujo território estejam localizadas, cabendo à União apenas as situadas em faixa de fronteira." },
+      { "letra": "D", "texto": "As terras devolutas classificam-se como bens de uso especial, em razão de sua afetação à preservação ambiental." },
+      { "letra": "E", "texto": "As terras devolutas podem ser adquiridas por usucapião especial rural, desde que a área não exceda cinquenta hectares e seja tornada produtiva pelo possuidor." }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B conjuga o art. 20, II, da CF/88 (bens da União) com o art. 26, IV, da CF/88 (terras devolutas não compreendidas entre as da União pertencem aos Estados). A alternativa A generaliza indevidamente, ignorando a repartição constitucional. A alternativa C atribui a titularidade a ente errado, pois os Municípios não figuram como titulares de terras devolutas na Constituição. A alternativa D erra na classificação: terras devolutas, por não terem destinação específica, são bens DOMINICAIS. A alternativa E contraria o art. 191, parágrafo único, da CF/88, que veda expressamente a aquisição de imóveis públicos por usucapião, ainda que rural.",
+    "fundamentacaoLegal": "Art. 20, II, art. 26, IV, e art. 191, parágrafo único, da CF/88; art. 99, III, do Código Civil."
+  },
+  {
+    "id": "bens-publicos-18",
+    "topicoId": "bens-publicos",
+    "topico": "Bens públicos",
+    "dificuldade": "dificil",
+    "enunciado": "Assinale a alternativa que NÃO indica bem da União, conforme o rol do art. 20 da Constituição Federal de 1988.",
+    "alternativas": [
+      { "letra": "A", "texto": "As ilhas fluviais e lacustres nas zonas limítrofes com outros países." },
+      { "letra": "B", "texto": "Os recursos minerais, inclusive os do subsolo." },
+      { "letra": "C", "texto": "As terras tradicionalmente ocupadas pelos índios." },
+      { "letra": "D", "texto": "As cavidades naturais subterrâneas e os sítios arqueológicos e pré-históricos." },
+      { "letra": "E", "texto": "As águas superficiais ou subterrâneas, fluentes, emergentes e em depósito, ressalvadas, neste caso, na forma da lei, as decorrentes de obras da União." }
+    ],
+    "gabarito": "E",
+    "comentario": "A alternativa E deve ser assinalada porque descreve bem dos ESTADOS, previsto no art. 26, I, da CF/88, e não bem da União. Trata-se de pegadinha clássica de troca de ente federativo. As demais alternativas reproduzem incisos do art. 20 da CF/88: a alternativa A corresponde ao inciso III (ilhas fluviais e lacustres nas zonas limítrofes com outros países); a alternativa B corresponde ao inciso IX (recursos minerais, inclusive os do subsolo); a alternativa C corresponde ao inciso XI (terras tradicionalmente ocupadas pelos índios); e a alternativa D corresponde ao inciso X (cavidades naturais subterrâneas e sítios arqueológicos e pré-históricos).",
+    "fundamentacaoLegal": "Art. 20, incisos III, IX, X e XI, da CF/88; art. 26, I, da CF/88."
+  },
+  {
+    "id": "bens-publicos-19",
+    "topicoId": "bens-publicos",
+    "topico": "Bens públicos",
+    "dificuldade": "media",
+    "enunciado": "Os terrenos de marinha, nos termos do Decreto-Lei nº 9.760/1946, são os situados, em uma profundidade de 33 metros, medidos horizontalmente para a parte da terra, contados a partir da posição da:",
+    "alternativas": [
+      { "letra": "A", "texto": "linha do preamar médio do ano de 1831." },
+      { "letra": "B", "texto": "linha do preamar máximo atual, apurada anualmente pela Marinha do Brasil." },
+      { "letra": "C", "texto": "linha da baixa-mar média do ano de 1946, data de edição do referido decreto-lei." },
+      { "letra": "D", "texto": "linha média das enchentes ordinárias das correntes navegáveis." },
+      { "letra": "E", "texto": "linha limite da vegetação de restinga fixadora de dunas, definida pela legislação ambiental." }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A reproduz o art. 2º do Decreto-Lei nº 9.760/1946, que fixa como marco a linha do preamar médio de 1831. As alternativas B e C alteram o marco temporal e o critério de maré (preamar máximo atual e baixa-mar de 1946), sendo ambas incorretas. A alternativa D descreve o critério dos TERRENOS MARGINAIS (ou reservados), definidos no art. 4º do mesmo decreto-lei como os banhados por correntes navegáveis, fora do alcance das marés, que vão até 15 metros medidos horizontalmente para a parte da terra, contados da linha média das enchentes ordinárias: trata-se de troca de institutos semelhantes. A alternativa E utiliza critério da legislação ambiental, estranho à definição dominial dos terrenos de marinha. Registre-se, ainda, a Súmula 496 do STJ, segundo a qual os registros de propriedade particular de imóveis situados em terrenos de marinha não são oponíveis à União.",
+    "fundamentacaoLegal": "Arts. 2º e 4º do Decreto-Lei nº 9.760/1946; art. 20, VII, da CF/88; Súmula 496 do STJ."
+  },
+  {
+    "id": "bens-publicos-20",
+    "topicoId": "bens-publicos",
+    "topico": "Bens públicos",
+    "dificuldade": "dificil",
+    "enunciado": "Considerando a jurisprudência sumulada do Supremo Tribunal Federal e o regime constitucional das terras indígenas, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "Segundo a Súmula 650 do STF, os incisos I e XI do art. 20 da Constituição Federal não alcançam terras de aldeamentos extintos, ainda que ocupadas por indígenas em passado remoto." },
+      { "letra": "B", "texto": "Segundo a Súmula 650 do STF, todo território outrora ocupado por indígenas, ainda que em passado remoto, integra o patrimônio da União." },
+      { "letra": "C", "texto": "As terras tradicionalmente ocupadas pelos índios pertencem, em propriedade plena, às comunidades indígenas, podendo ser alienadas mediante autorização do Congresso Nacional." },
+      { "letra": "D", "texto": "As terras de aldeamentos extintos constituem bens dos Estados, por força do art. 26, IV, da Constituição Federal." },
+      { "letra": "E", "texto": "Os direitos dos índios sobre as terras que tradicionalmente ocupam prescrevem em vinte anos, contados da efetiva desocupação da área." }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A reproduz a Súmula 650 do STF. A alternativa B afirma exatamente o oposto do enunciado sumular, sendo a pegadinha principal da questão. A alternativa C contraria o art. 231, §§2º e 4º, da CF/88: as terras tradicionalmente ocupadas pelos índios são bens da UNIÃO (art. 20, XI), cabendo aos indígenas a posse permanente e o usufruto exclusivo das riquezas do solo, dos rios e dos lagos nelas existentes; tais terras são inalienáveis e indisponíveis. A alternativa D erra ao atribuir a titularidade aos Estados com fundamento em dispositivo relativo a terras devolutas, sem pertinência com aldeamentos extintos. A alternativa E contraria o art. 231, §4º, da CF/88, que declara imprescritíveis os direitos sobre as terras indígenas.",
+    "fundamentacaoLegal": "Súmula 650 do STF; art. 20, XI, e art. 231, §§2º e 4º, da CF/88."
+  },
+  {
+    "id": "bens-publicos-21",
+    "topicoId": "bens-publicos",
+    "topico": "Bens públicos",
+    "dificuldade": "media",
+    "enunciado": "A cessão de uso de bem público, como instrumento de utilização de bens da Administração, caracteriza-se por:",
+    "alternativas": [
+      { "letra": "A", "texto": "consistir na transferência gratuita da posse de bem público de um órgão ou entidade da Administração a outro, para que o cessionário o utilize nas condições fixadas no respectivo termo, por prazo certo ou indeterminado." },
+      { "letra": "B", "texto": "consistir em contrato administrativo oneroso, celebrado com particular, obrigatoriamente precedido de licitação na modalidade concorrência." },
+      { "letra": "C", "texto": "transferir a propriedade do bem ao cessionário, mediante prévia autorização legislativa e avaliação." },
+      { "letra": "D", "texto": "constituir direito real resolúvel, oponível erga omnes e registrável no cartório de registro de imóveis." },
+      { "letra": "E", "texto": "consistir em ato precário editado no interesse exclusivo do particular cessionário, revogável a qualquer tempo sem indenização." }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A descreve corretamente a cessão de uso, forma de colaboração entre órgãos e entidades da Administração, em regra gratuita, formalizada em termo próprio. A alternativa B erra porque a cessão de uso, por dar-se entre entes e órgãos públicos e ser em regra gratuita, não se confunde com contrato oneroso licitado com particular; a modalidade licitatória indicada, ademais, é incompatível com o regime de utilização de bens da Lei nº 14.133/2021. A alternativa C erra porque não há transferência de propriedade, mas apenas de uso. A alternativa D descreve a concessão de direito real de uso (art. 7º do Decreto-Lei nº 271/1967), instituto diverso. A alternativa E descreve a autorização de uso, ato unilateral e precário editado no interesse preponderante do particular, que também não se confunde com a cessão.",
+    "fundamentacaoLegal": "Art. 18 da Lei nº 9.636/1998 (parâmetro normativo federal da cessão de uso); doutrina de Hely Lopes Meirelles e Maria Sylvia Zanella Di Pietro sobre formas de uso privativo de bem público."
+  },
+  {
+    "id": "bens-publicos-22",
+    "topicoId": "bens-publicos",
+    "topico": "Bens públicos",
+    "dificuldade": "dificil",
+    "enunciado": "Em processo de desapropriação de imóvel ribeirinho, o expropriado pretende ser indenizado também pela área correspondente às margens do rio navegável que corta a propriedade. Segundo a Súmula 479 do Supremo Tribunal Federal, é correto afirmar que:",
+    "alternativas": [
+      { "letra": "A", "texto": "as margens dos rios navegáveis são de domínio público, insuscetíveis de expropriação e, por isso mesmo, excluídas de indenização." },
+      { "letra": "B", "texto": "as margens dos rios navegáveis integram a propriedade particular ribeirinha e devem ser indenizadas pelo valor de mercado apurado em perícia." },
+      { "letra": "C", "texto": "as margens dos rios navegáveis somente são indenizáveis quando o proprietário comprovar título dominial anterior a 1946." },
+      { "letra": "D", "texto": "as margens dos rios navegáveis são bens de uso especial da União, indenizáveis a título de dano emergente." },
+      { "letra": "E", "texto": "a indenização é devida pela metade do valor de avaliação, em razão da restrição de uso decorrente da dominialidade pública das margens." }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A reproduz a Súmula 479 do STF. A razão de ser do enunciado é simples: não se indeniza aquilo que já pertence ao Poder Público, sob pena de enriquecimento sem causa do particular. A alternativa B contraria frontalmente a súmula ao afirmar a natureza privada das margens. A alternativa C cria condição temporal inexistente no enunciado sumular. A alternativa D erra ao classificar as margens como bens de uso especial e, principalmente, ao admitir indenização, quando a súmula expressamente a exclui. A alternativa E cria solução intermediária de indenização parcial, igualmente sem respaldo na súmula ou na legislação expropriatória.",
+    "fundamentacaoLegal": "Súmula 479 do STF; art. 20, III, da CF/88; Decreto-Lei nº 3.365/1941."
+  },
+  {
+    "id": "bens-publicos-23",
+    "topicoId": "bens-publicos",
+    "topico": "Bens públicos",
+    "dificuldade": "media",
+    "enunciado": "Aberta a sucessão de pessoa falecida sem herdeiros conhecidos e declarada a vacância da herança, os bens arrecadados, se localizados no território do Município de Campina Grande/PB:",
+    "alternativas": [
+      { "letra": "A", "texto": "passarão imediatamente ao domínio do Estado da Paraíba com a prolação da sentença de vacância." },
+      { "letra": "B", "texto": "passarão ao domínio do Município, decorridos cinco anos da abertura da sucessão." },
+      { "letra": "C", "texto": "incorporar-se-ão ao domínio da União, por se tratar de bens vagos sem titular determinado." },
+      { "letra": "D", "texto": "serão incorporados ao domínio do Município imediatamente após a declaração de vacância, sem qualquer prazo de espera." },
+      { "letra": "E", "texto": "permanecerão sob administração judicial por prazo indeterminado, até que eventualmente se habilite algum herdeiro." }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B corresponde ao art. 1.822 do Código Civil: declarada a vacância, decorridos cinco anos da abertura da sucessão, os bens arrecadados passam ao domínio do Município ou do Distrito Federal, se localizados nas respectivas circunscrições, incorporando-se ao domínio da União quando situados em território federal. Trata-se de forma de aquisição de bens públicos. A alternativa A atribui a titularidade a ente errado (Estado). A alternativa C também erra o ente: a União só recebe os bens quando situados em território federal. A alternativa D suprime o prazo quinquenal expressamente previsto em lei, sendo essa a pegadinha central. A alternativa E erra porque a lei fixa termo certo para a incorporação ao patrimônio público, não havendo administração judicial por prazo indeterminado.",
+    "fundamentacaoLegal": "Art. 1.822 do Código Civil; arts. 1.819 a 1.821 do Código Civil."
+  },
+  {
+    "id": "bens-publicos-24",
+    "topicoId": "bens-publicos",
+    "topico": "Bens públicos",
+    "dificuldade": "dificil",
+    "enunciado": "O Município doou imóvel de sua propriedade a autarquia estadual, com dispensa de licitação, para instalação de unidade de atendimento ao cidadão. Sobre essa alienação, nos termos da Lei nº 14.133/2021, é correto afirmar que:",
+    "alternativas": [
+      { "letra": "A", "texto": "a doação de bem imóvel da Administração é permitida a qualquer pessoa jurídica, pública ou privada, desde que haja interesse público devidamente justificado." },
+      { "letra": "B", "texto": "cessadas as razões que justificaram a doação, o imóvel será revertido ao patrimônio da pessoa jurídica doadora, vedada sua alienação pelo beneficiário." },
+      { "letra": "C", "texto": "a doação dispensa autorização legislativa e avaliação prévia, uma vez que inexiste contraprestação pecuniária." },
+      { "letra": "D", "texto": "a doação é nula, pois a alienação de bem imóvel público exige, sem exceção, licitação na modalidade leilão." },
+      { "letra": "E", "texto": "a reversão do bem ao patrimônio do doador somente ocorrerá se expressamente pactuada como cláusula resolutiva no termo de doação." }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B reproduz o art. 76, §2º, da Lei nº 14.133/2021, que impõe a reversão automática do imóvel doado quando cessadas as razões da doação, vedando ainda sua alienação pelo beneficiário. A alternativa A erra porque a doação de imóvel prevista no art. 76, I, b, é permitida EXCLUSIVAMENTE para outro órgão ou entidade da Administração Pública, de qualquer esfera de governo, ressalvadas as hipóteses específicas das alíneas f, g e h. A alternativa C erra porque a dispensa alcança apenas a LICITAÇÃO: a autorização legislativa (art. 76, I, caput) e a avaliação prévia (caput do art. 76) permanecem exigíveis. A alternativa D erra ao negar as hipóteses legais de dispensa de licitação expressamente arroladas no art. 76, I. A alternativa E erra porque a reversão decorre diretamente da lei, independendo de cláusula contratual expressa.",
+    "fundamentacaoLegal": "Art. 76, caput, inciso I, alínea b, e §2º, da Lei nº 14.133/2021."
+  },
+  {
+    "id": "bens-publicos-25",
+    "topicoId": "bens-publicos",
+    "topico": "Bens públicos",
+    "dificuldade": "media",
+    "enunciado": "Extinta, pelo advento do termo contratual, a concessão do serviço público de transporte coletivo municipal, discute-se a destinação dos bens vinculados à prestação do serviço. Nos termos da Lei nº 8.987/1995, é correto afirmar que:",
+    "alternativas": [
+      { "letra": "A", "texto": "todos os bens do concessionário, reversíveis ou não, incorporam-se ao patrimônio do poder concedente, sem qualquer indenização." },
+      { "letra": "B", "texto": "extinta a concessão, retornam ao poder concedente todos os bens reversíveis, direitos e privilégios transferidos ao concessionário, conforme previsto no edital e estabelecido no contrato." },
+      { "letra": "C", "texto": "os bens reversíveis somente retornam ao poder concedente mediante processo de desapropriação, com prévia e justa indenização em dinheiro." },
+      { "letra": "D", "texto": "a reversão dos bens depende de autorização legislativa específica, ainda que expressamente prevista no contrato de concessão." },
+      { "letra": "E", "texto": "os bens reversíveis integram definitivamente o patrimônio do concessionário, cabendo ao poder concedente apenas direito de preferência na sua aquisição." }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B reproduz o art. 35, §1º, da Lei nº 8.987/1995. A alternativa A erra em dois pontos: a reversão alcança somente os bens REVERSÍVEIS previstos no edital e no contrato, e o art. 36 assegura a indenização das parcelas dos investimentos vinculados a bens reversíveis ainda não amortizados ou depreciados. A alternativa C confunde reversão com desapropriação: a reversão opera por força do contrato e da lei, no advento do termo, sem necessidade de ação expropriatória. A alternativa D cria exigência inexistente, pois a reversão decorre do contrato e da lei, e não de autorização legislativa. A alternativa E inverte a regra, negando o próprio instituto da reversão, cuja finalidade é assegurar a continuidade do serviço público.",
+    "fundamentacaoLegal": "Arts. 35, §1º, e 36 da Lei nº 8.987/1995."
+  },
+  {
+    "id": "bens-publicos-26",
+    "topicoId": "bens-publicos",
+    "topico": "Bens públicos",
+    "dificuldade": "dificil",
+    "enunciado": "No regime dos terrenos de marinha da União submetidos a aforamento (enfiteuse), o particular titular do domínio útil:",
+    "alternativas": [
+      { "letra": "A", "texto": "paga anualmente o foro, correspondente a 0,6% do valor do domínio pleno do terreno, e recolhe o laudêmio, correspondente a 5% do valor atualizado do domínio pleno e das benfeitorias, nas transferências onerosas entre vivos do domínio útil." },
+      { "letra": "B", "texto": "paga apenas a taxa de ocupação anual, não havendo incidência de foro nem de laudêmio no regime enfitêutico." },
+      { "letra": "C", "texto": "adquire o domínio pleno do imóvel após vinte anos de aforamento regular, por usucapião extraordinária." },
+      { "letra": "D", "texto": "recolhe o laudêmio anualmente e o foro apenas por ocasião da primeira transferência do domínio útil." },
+      { "letra": "E", "texto": "está isento de qualquer contraprestação em favor da União, por se tratar de bem dominical já desafetado." }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A está correta: o foro anual de 0,6% do valor do domínio pleno está previsto no art. 101 do Decreto-Lei nº 9.760/1946, e o laudêmio de 5% do valor atualizado do domínio pleno e das benfeitorias, exigível nas transferências onerosas entre vivos do domínio útil, está previsto no art. 3º do Decreto-Lei nº 2.398/1987. A alternativa B confunde regimes: a taxa de ocupação é devida pelo OCUPANTE inscrito, e não pelo enfiteuta titular do domínio útil. A alternativa C contraria a imprescritibilidade dos bens públicos (art. 102 do Código Civil e Súmula 340 do STF), além de ignorar a Súmula 496 do STJ. A alternativa D inverte a periodicidade e o fato gerador de cada exação: o foro é anual e o laudêmio incide nas transferências onerosas. A alternativa E erra porque a natureza dominical do bem não afasta as obrigações legais do enfiteuta perante a União.",
+    "fundamentacaoLegal": "Art. 101 do Decreto-Lei nº 9.760/1946; art. 3º do Decreto-Lei nº 2.398/1987; art. 49, §3º, do ADCT; art. 102 do Código Civil."
+  },
+  {
+    "id": "bens-publicos-27",
+    "topicoId": "bens-publicos",
+    "topico": "Bens públicos",
+    "dificuldade": "media",
+    "enunciado": "Sobre a permissão de uso de bem público, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "Trata-se de contrato administrativo bilateral, celebrado sempre por prazo determinado, que confere ao permissionário direito adquirido à continuidade do uso até o termo final." },
+      { "letra": "B", "texto": "Trata-se de ato administrativo unilateral, discricionário e precário, pelo qual a Administração faculta ao particular o uso privativo de bem público, atendendo simultaneamente ao interesse público e ao do particular, devendo ser precedida de licitação quando houver mais de um interessado." },
+      { "letra": "C", "texto": "Trata-se de ato vinculado, devendo ser necessariamente deferida sempre que o particular interessado preencher os requisitos previstos em regulamento." },
+      { "letra": "D", "texto": "Somente pode recair sobre bens dominicais, sendo juridicamente vedada a permissão de uso de bem de uso comum do povo." },
+      { "letra": "E", "texto": "Confere ao permissionário direito real oponível erga omnes, sujeito a registro no cartório de registro de imóveis." }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B está correta e sintetiza a lição doutrinária consolidada: a permissão de uso é ato unilateral, discricionário e precário, distinguindo-se da autorização de uso pelo interesse público concorrente; havendo pluralidade de interessados, impõe-se licitação, por força dos princípios da isonomia e da impessoalidade (art. 37, caput e XXI, da CF/88). A alternativa A confunde a permissão com a concessão de uso, esta sim de natureza contratual. A alternativa C erra ao qualificar a permissão como ato vinculado, quando é ato discricionário quanto à conveniência e oportunidade. A alternativa D erra porque a permissão de uso pode recair sobre bens de uso comum do povo, como no caso de bancas de jornal e quiosques instalados em calçadas e praças. A alternativa E confunde permissão de uso com concessão de direito real de uso (art. 7º do Decreto-Lei nº 271/1967), único dos institutos citados que gera direito real registrável.",
+    "fundamentacaoLegal": "Art. 37, caput e inciso XXI, da CF/88; art. 103 do Código Civil; doutrina de Maria Sylvia Zanella Di Pietro e de José dos Santos Carvalho Filho sobre uso privativo de bem público."
+  },
+  {
+    "id": "bens-publicos-28",
+    "topicoId": "bens-publicos",
+    "topico": "Bens públicos",
+    "dificuldade": "dificil",
+    "enunciado": "Particular apresenta, em juízo, escritura pública devidamente registrada no cartório de registro de imóveis, relativa a imóvel situado em terreno de marinha, opondo-a à União em ação possessória. Conforme entendimento sumulado do Superior Tribunal de Justiça, é correto afirmar que:",
+    "alternativas": [
+      { "letra": "A", "texto": "o registro imobiliário gera presunção absoluta de propriedade, oponível inclusive à União." },
+      { "letra": "B", "texto": "os registros de propriedade particular de imóveis situados em terrenos de marinha não são oponíveis à União." },
+      { "letra": "C", "texto": "o particular adquire a propriedade plena do imóvel após dez anos de registro de boa-fé, por usucapião ordinária." },
+      { "letra": "D", "texto": "a União deve indenizar o particular pelo valor do domínio pleno do imóvel, sob pena de enriquecimento sem causa." },
+      { "letra": "E", "texto": "o conflito resolve-se em favor do particular, cabendo à União apenas cobrar a taxa de ocupação correspondente." }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B reproduz a Súmula 496 do STJ. Os terrenos de marinha são bens da União por força do art. 20, VII, da CF/88, de modo que o registro em nome de particular não tem aptidão para desconstituir a dominialidade pública. A alternativa A erra porque a presunção decorrente do registro é relativa (juris tantum), cedendo diante da dominialidade constitucional da União. A alternativa C contraria o art. 102 do Código Civil e a Súmula 340 do STF, que vedam a usucapião de bens públicos em qualquer modalidade. A alternativa D erra porque não há indenização pela perda de propriedade que juridicamente nunca existiu em face da União. A alternativa E inverte a solução sumulada, reconhecendo o direito do particular em detrimento do domínio da União.",
+    "fundamentacaoLegal": "Súmula 496 do STJ; art. 20, VII, da CF/88; art. 2º do Decreto-Lei nº 9.760/1946; art. 102 do Código Civil."
+  },
+  {
+    "id": "bens-publicos-29",
+    "topicoId": "bens-publicos",
+    "topico": "Bens públicos",
+    "dificuldade": "media",
+    "enunciado": "A legitimação fundiária, prevista na Lei nº 13.465/2017, constitui:",
+    "alternativas": [
+      { "letra": "A", "texto": "forma derivada de aquisição da propriedade, dependente da validade e do registro do título aquisitivo anterior." },
+      { "letra": "B", "texto": "forma originária de aquisição de direito real de propriedade, conferida por ato do poder público exclusivamente no âmbito da Regularização Fundiária Urbana (Reurb), àquele que detiver em área pública ou possuir em área privada unidade imobiliária com destinação urbana integrante de núcleo urbano informal consolidado." },
+      { "letra": "C", "texto": "modalidade de usucapião administrativa de bens públicos, com prazo de cinco anos de posse ininterrupta." },
+      { "letra": "D", "texto": "espécie de concessão de uso especial para fins de moradia, de natureza precária e revogável a qualquer tempo." },
+      { "letra": "E", "texto": "instrumento restrito a imóveis privados, sendo vedada sua aplicação a áreas de titularidade pública." }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B corresponde ao art. 23 da Lei nº 13.465/2017. A alternativa A erra na natureza: por ser aquisição ORIGINÁRIA, a legitimação fundiária independe da cadeia dominial anterior e desonera o beneficiário de eventuais ônus incidentes sobre o imóvel. A alternativa C erra porque o instituto não é usucapião: não há requisito de tempo de posse na definição legal, e a usucapião de bem público é vedada pelos arts. 183, §3º, e 191, parágrafo único, da CF/88; a legitimação fundiária opera por ato do poder público no âmbito da Reurb, e não por prescrição aquisitiva. A alternativa D confunde institutos: a concessão de uso especial para fins de moradia é regida pela Medida Provisória nº 2.220/2001 e não transfere propriedade. A alternativa E contraria o próprio art. 23, que expressamente contempla a detenção em área PÚBLICA.",
+    "fundamentacaoLegal": "Art. 23, caput e §§, da Lei nº 13.465/2017; arts. 183, §3º, e 191, parágrafo único, da CF/88."
+  },
+  {
+    "id": "bens-publicos-30",
+    "topicoId": "bens-publicos",
+    "topico": "Bens públicos",
+    "dificuldade": "dificil",
+    "enunciado": "Maria ocupa, como se sua fosse, desde 2005, área de 180 m² de imóvel público municipal situado em zona urbana, utilizando-a exclusivamente para moradia de sua família, de forma ininterrupta e sem oposição, e não é proprietária nem concessionária de outro imóvel urbano ou rural. À luz da Medida Provisória nº 2.220/2001, é correto afirmar que Maria:",
+    "alternativas": [
+      { "letra": "A", "texto": "adquiriu a propriedade do imóvel por usucapião especial urbana, na forma do art. 183 da Constituição Federal." },
+      { "letra": "B", "texto": "tem direito à concessão de uso especial para fins de moradia, instituto que não transfere a propriedade do bem público, preservada sua imprescritibilidade." },
+      { "letra": "C", "texto": "é mera detentora do bem, não fazendo jus a qualquer direito subjetivo em relação ao imóvel público ocupado." },
+      { "letra": "D", "texto": "tem direito à concessão de direito real de uso do Decreto-Lei nº 271/1967, limitada ao prazo máximo de dez anos, renovável uma única vez." },
+      { "letra": "E", "texto": "somente teria direito ao instituto se a área ocupada não excedesse cem metros quadrados e se a ocupação tivesse iniciado após 2016." }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B está correta. O art. 1º da Medida Provisória nº 2.220/2001, com a redação dada pela Lei nº 13.465/2017, assegura a concessão de uso especial para fins de moradia a quem, até 22 de dezembro de 2016, possuiu como seu, por cinco anos ininterruptos e sem oposição, até 250 m² de imóvel público urbano utilizado para sua moradia ou de sua família, desde que não seja proprietário ou concessionário de outro imóvel urbano ou rural. O instituto confere direito de uso, e não propriedade, preservando a imprescritibilidade do bem público. A alternativa A erra porque o art. 183, §3º, da CF/88 veda expressamente a usucapião de imóveis públicos. A alternativa C erra porque a Medida Provisória cria direito subjetivo à concessão quando preenchidos os requisitos legais, afastando a solução da Súmula 619 do STJ para essa hipótese específica. A alternativa D confunde institutos e inventa prazo inexistente no Decreto-Lei nº 271/1967, que admite concessão por tempo certo ou indeterminado. A alternativa E altera os requisitos legais: o limite de área é de 250 m², e a ocupação deve estar consolidada ATÉ 22 de dezembro de 2016, e não iniciada após essa data.",
+    "fundamentacaoLegal": "Art. 1º da Medida Provisória nº 2.220/2001 (redação da Lei nº 13.465/2017); art. 183, §3º, da CF/88; art. 102 do Código Civil."
+  }
+]

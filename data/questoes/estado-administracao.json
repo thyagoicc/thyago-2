@@ -1,0 +1,962 @@
+[
+  {
+    "id": "estado-administracao-01",
+    "topicoId": "estado-administracao",
+    "topico": "Estado, governo e Administração Pública",
+    "dificuldade": "media",
+    "enunciado": "A doutrina clássica do Direito Público identifica os elementos constitutivos do Estado. Sobre o tema, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O Estado é composto por três elementos constitutivos: povo, território e governo soberano."
+      },
+      {
+        "letra": "B",
+        "texto": "Povo e população são expressões sinônimas, designando o conjunto de pessoas presentes no território estatal em determinado momento histórico."
+      },
+      {
+        "letra": "C",
+        "texto": "O território, por ser elemento meramente físico, não integra o conceito jurídico de Estado, interessando apenas ao Direito Internacional Público."
+      },
+      {
+        "letra": "D",
+        "texto": "A soberania é atributo compartilhado pela União, pelos Estados, pelo Distrito Federal e pelos Municípios, todos igualmente soberanos no âmbito de suas competências."
+      },
+      {
+        "letra": "E",
+        "texto": "O governo confunde-se com a Administração Pública em sentido subjetivo, pois ambos se limitam ao exercício da função executiva."
+      }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A está correta: a doutrina majoritária aponta como elementos do Estado o povo (elemento humano, ligado ao ente estatal pelo vínculo jurídico-político da nacionalidade), o território (base física) e o governo soberano (poder político organizado). A alternativa B erra ao equiparar povo e população: população é conceito demográfico, que abrange todos os que se encontram no território, inclusive estrangeiros de passagem; povo é conceito jurídico, formado pelos nacionais. A alternativa C erra porque o território é elemento constitutivo do Estado, delimitando o âmbito espacial de validade da ordem jurídica estatal. A alternativa D confunde soberania com autonomia: a soberania pertence à República Federativa do Brasil; os entes federados possuem apenas autonomia (art. 18 da CF/88). A alternativa E erra ao identificar governo e Administração: o governo exerce função política, de fixação de diretrizes e planos de ação, ao passo que a Administração executa concretamente essas diretrizes.",
+    "fundamentacaoLegal": "CF/88, art. 1º, caput e inciso I, e art. 18; doutrina de Maria Sylvia Zanella Di Pietro e Dalmo de Abreu Dallari."
+  },
+  {
+    "id": "estado-administracao-02",
+    "topicoId": "estado-administracao",
+    "topico": "Estado, governo e Administração Pública",
+    "dificuldade": "media",
+    "enunciado": "Sobre a forma de Estado adotada pela Constituição Federal de 1988 e suas repercussões na organização administrativa, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O Estado brasileiro é unitário descentralizado, pois os Municípios constituem meras circunscrições administrativas dos Estados-membros."
+      },
+      {
+        "letra": "B",
+        "texto": "A autonomia dos entes federados compreende a soberania, sendo lícito a Estados e Municípios celebrar tratados internacionais em nome próprio."
+      },
+      {
+        "letra": "C",
+        "texto": "A organização político-administrativa da República Federativa do Brasil compreende a União, os Estados, o Distrito Federal e os Municípios, todos autônomos, nos termos da Constituição."
+      },
+      {
+        "letra": "D",
+        "texto": "A criação, a incorporação, a fusão e o desmembramento de Municípios far-se-ão por decreto do Governador do Estado, dispensada a consulta às populações diretamente interessadas."
+      },
+      {
+        "letra": "E",
+        "texto": "Os Territórios Federais integram a Federação como entes autônomos, dotados de autogoverno e de capacidade de auto-organização."
+      }
+    ],
+    "gabarito": "C",
+    "comentario": "A alternativa C reproduz o art. 18, caput, da CF/88. A alternativa A erra porque o Brasil adota a forma federativa de Estado, e o Município é ente federado dotado de autonomia, e não simples circunscrição administrativa. A alternativa B confunde autonomia com soberania: a competência para manter relações com Estados estrangeiros e celebrar tratados é da União (art. 21, I, da CF/88), que age em nome da República Federativa do Brasil. A alternativa D contraria o art. 18, § 4º, da CF/88, que exige lei estadual, dentro do período determinado por lei complementar federal, precedida de consulta prévia às populações interessadas mediante plebiscito e de divulgação dos Estudos de Viabilidade Municipal. A alternativa E erra porque os Territórios Federais integram a União (art. 18, § 2º), não sendo entes federados autônomos.",
+    "fundamentacaoLegal": "CF/88, art. 18, caput, §§ 2º e 4º, e art. 21, I."
+  },
+  {
+    "id": "estado-administracao-03",
+    "topicoId": "estado-administracao",
+    "topico": "Estado, governo e Administração Pública",
+    "dificuldade": "media",
+    "enunciado": "A doutrina distingue forma de Estado, forma de governo e sistema de governo. Assinale a alternativa que apresenta corretamente essa distinção no ordenamento constitucional brasileiro.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A forma de governo adotada é a federação; a forma de Estado é a república; e o sistema de governo é o parlamentarismo."
+      },
+      {
+        "letra": "B",
+        "texto": "A forma de Estado adotada é a federação; a forma de governo é a república; e o sistema de governo é o presidencialismo."
+      },
+      {
+        "letra": "C",
+        "texto": "O presidencialismo constitui forma de governo, ao passo que a república configura sistema de governo, ambos definidos no art. 1º da Constituição Federal."
+      },
+      {
+        "letra": "D",
+        "texto": "A forma republicana de governo constitui cláusula pétrea expressamente prevista no art. 60, § 4º, da Constituição Federal."
+      },
+      {
+        "letra": "E",
+        "texto": "O sistema de governo brasileiro foi alterado para o parlamentarismo pela Emenda Constitucional nº 19/1998, mantida a forma federativa de Estado."
+      }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B está correta: a forma de Estado diz respeito ao modo de distribuição espacial do poder (federação, art. 18); a forma de governo, ao modo de instituição e sucessão no poder (república, art. 1º); e o sistema de governo, à relação entre Executivo e Legislativo (presidencialismo). As alternativas A e C invertem os conceitos. A alternativa D é incorreta porque o art. 60, § 4º, I, protege como cláusula pétrea a forma federativa de Estado, e não a forma republicana de governo, que figura como princípio constitucional sensível no art. 34, VII, a. A alternativa E é falsa: o sistema presidencialista foi confirmado pelo plebiscito de 21 de abril de 1993, previsto no art. 2º do ADCT, e a EC nº 19/1998 tratou da reforma administrativa, e não do sistema de governo.",
+    "fundamentacaoLegal": "CF/88, art. 1º, caput e parágrafo único, art. 18, art. 34, VII, a, e art. 60, § 4º, I; ADCT, art. 2º."
+  },
+  {
+    "id": "estado-administracao-04",
+    "topicoId": "estado-administracao",
+    "topico": "Estado, governo e Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "Considerando o princípio da separação de poderes (art. 2º da CF/88) e a teoria das funções estatais, assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O Poder Legislativo exerce atipicamente função administrativa quando promove concurso público para provimento dos cargos de seus servidores e realiza licitações para suas contratações."
+      },
+      {
+        "letra": "B",
+        "texto": "O Poder Judiciário exerce atipicamente função normativa ao elaborar os regimentos internos dos tribunais, dispondo sobre a competência e o funcionamento de seus órgãos."
+      },
+      {
+        "letra": "C",
+        "texto": "A função jurisdicional caracteriza-se pela aptidão para a produção da coisa julgada material, atributo que não se estende às decisões proferidas em processo administrativo."
+      },
+      {
+        "letra": "D",
+        "texto": "O Poder Executivo exerce atipicamente função legislativa ao editar medida provisória, com força de lei, em caso de relevância e urgência."
+      },
+      {
+        "letra": "E",
+        "texto": "A separação de poderes, por constituir cláusula pétrea, impede que o Poder Judiciário determine ao Poder Executivo a realização de obras em estabelecimentos prisionais destinadas a assegurar a integridade física dos detentos."
+      }
+    ],
+    "gabarito": "E",
+    "comentario": "O enunciado pede a alternativa INCORRETA, que é a letra E: segundo o Supremo Tribunal Federal, é lícito ao Poder Judiciário, em situações excepcionais, determinar que a Administração Pública adote medidas assecuratórias de direitos constitucionalmente reconhecidos como essenciais, como a realização de obras em estabelecimentos prisionais, sem que isso configure violação ao princípio da separação de poderes nem indevida interferência no mérito administrativo. As demais alternativas estão corretas: a letra A retrata função administrativa atípica do Legislativo; a letra B encontra respaldo no art. 96, I, a, da CF/88; a letra C expressa a nota distintiva da jurisdição, sendo certo que no Brasil vigora a jurisdição una, de modo que a chamada coisa julgada administrativa gera apenas preclusão na via administrativa; e a letra D corresponde ao art. 62 da CF/88.",
+    "fundamentacaoLegal": "CF/88, art. 2º, art. 60, § 4º, III, art. 62 e art. 96, I, a; STF, RE 592.581/RS (Tema 220 da repercussão geral)."
+  },
+  {
+    "id": "estado-administracao-05",
+    "topicoId": "estado-administracao",
+    "topico": "Estado, governo e Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "A identificação da função administrativa entre as demais funções estatais é objeto de intensa elaboração doutrinária. Sobre o tema, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A função administrativa distingue-se da jurisdicional porque somente aquela aplica a lei ao caso concreto com definitividade e força de coisa julgada material."
+      },
+      {
+        "letra": "B",
+        "texto": "A função legislativa caracteriza-se pela edição de atos concretos e individuais, ao passo que a função administrativa produz atos gerais e abstratos."
+      },
+      {
+        "letra": "C",
+        "texto": "Pelo critério subjetivo ou orgânico, tudo quanto pratica o Poder Executivo constitui função administrativa, razão pela qual a sanção e o veto a projeto de lei são atos administrativos típicos."
+      },
+      {
+        "letra": "D",
+        "texto": "Pelo critério residual ou por exclusão, a função administrativa é aquela exercida pelo Estado que não corresponde nem à função legislativa nem à função jurisdicional."
+      },
+      {
+        "letra": "E",
+        "texto": "No exercício da função administrativa, a Administração inova originariamente na ordem jurídica, criando direitos e obrigações independentemente de previsão legal."
+      }
+    ],
+    "gabarito": "D",
+    "comentario": "A alternativa D está correta: pelo critério residual ou negativo, largamente difundido na doutrina, define-se a função administrativa por exclusão, como aquela atividade estatal que não é legislativa nem jurisdicional. A alternativa A inverte os conceitos: a definitividade com força de coisa julgada material é nota da função jurisdicional, e não da administrativa. A alternativa B também inverte: a lei, em regra, é geral e abstrata, enquanto a função administrativa se realiza de forma concreta, direta e imediata. A alternativa C é incorreta porque o critério subjetivo é insuficiente: nem tudo o que o Executivo pratica é função administrativa, uma vez que a sanção e o veto a projeto de lei configuram atos políticos ou de governo, e não atos administrativos típicos. A alternativa E é falsa: a inovação originária na ordem jurídica é própria da função legislativa; a função administrativa é infralegal e se desenvolve com fundamento e nos limites da lei.",
+    "fundamentacaoLegal": "CF/88, art. 2º, art. 5º, XXXV, e art. 84, IV e V; doutrina de Celso Antônio Bandeira de Mello e Maria Sylvia Zanella Di Pietro."
+  },
+  {
+    "id": "estado-administracao-06",
+    "topicoId": "estado-administracao",
+    "topico": "Estado, governo e Administração Pública",
+    "dificuldade": "media",
+    "enunciado": "A expressão Administração Pública comporta acepções distintas. Em sentido subjetivo, formal ou orgânico, a Administração Pública compreende:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o conjunto de órgãos, entidades e agentes públicos aos quais o ordenamento atribui o exercício da função administrativa."
+      },
+      {
+        "letra": "B",
+        "texto": "a atividade concreta e imediata de satisfação do interesse público, independentemente de quem a exerça."
+      },
+      {
+        "letra": "C",
+        "texto": "exclusivamente os órgãos integrantes do Poder Executivo, excluídos os órgãos administrativos dos Poderes Legislativo e Judiciário."
+      },
+      {
+        "letra": "D",
+        "texto": "apenas as pessoas jurídicas de direito público, excluídas as empresas públicas e as sociedades de economia mista."
+      },
+      {
+        "letra": "E",
+        "texto": "o conjunto de normas e princípios de direito público que disciplinam a atuação estatal na consecução do interesse coletivo."
+      }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A está correta: no sentido subjetivo, formal ou orgânico, a Administração Pública responde à pergunta quem administra, abrangendo órgãos, entidades e agentes incumbidos da função administrativa. A alternativa B descreve o sentido objetivo, material ou funcional (o que se administra). A alternativa C erra por restringir a Administração ao Poder Executivo: os Poderes Legislativo e Judiciário também possuem estruturas administrativas, submetidas ao art. 37 da CF/88. A alternativa D erra porque a Administração indireta abrange também pessoas jurídicas de direito privado, como empresas públicas e sociedades de economia mista (art. 4º, II, do Decreto-Lei nº 200/1967). A alternativa E define o Direito Administrativo, e não a Administração Pública.",
+    "fundamentacaoLegal": "CF/88, art. 37, caput; Decreto-Lei nº 200/1967, art. 4º; doutrina de Maria Sylvia Zanella Di Pietro."
+  },
+  {
+    "id": "estado-administracao-07",
+    "topicoId": "estado-administracao",
+    "topico": "Estado, governo e Administração Pública",
+    "dificuldade": "media",
+    "enunciado": "Sobre a Administração Pública em sentido objetivo, material ou funcional, e as atividades que a integram segundo classificação doutrinária consagrada, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A polícia administrativa incide sobre pessoas, e não sobre bens e atividades, possuindo caráter exclusivamente repressivo."
+      },
+      {
+        "letra": "B",
+        "texto": "O serviço público, em sentido objetivo, abrange toda e qualquer atividade econômica explorada pelo Estado em regime de concorrência com a iniciativa privada."
+      },
+      {
+        "letra": "C",
+        "texto": "O fomento consiste na atividade administrativa de incentivo à iniciativa privada de utilidade pública, realizada mediante auxílios financeiros, subvenções, financiamentos e favores fiscais."
+      },
+      {
+        "letra": "D",
+        "texto": "A intervenção do Estado no domínio econômico e na propriedade privada não integra a Administração Pública em sentido objetivo, por constituir manifestação da função política."
+      },
+      {
+        "letra": "E",
+        "texto": "A função de governo, consistente na fixação das diretrizes políticas fundamentais do Estado, integra a Administração Pública em sentido objetivo."
+      }
+    ],
+    "gabarito": "C",
+    "comentario": "A alternativa C está correta e reproduz a noção doutrinária de fomento como atividade de incentivo à iniciativa privada de utilidade pública. A alternativa A inverte a distinção clássica: a polícia administrativa incide sobre bens, direitos e atividades, ao passo que a polícia judiciária incide sobre pessoas; ademais, a polícia administrativa possui caráter preventivo e também repressivo. A alternativa B é incorreta porque a exploração de atividade econômica pelo Estado (art. 173 da CF/88) não se confunde com serviço público (art. 175 da CF/88). A alternativa D erra porque a intervenção na propriedade e no domínio econômico integra a Administração em sentido objetivo, ao lado do fomento, da polícia administrativa e do serviço público. A alternativa E é falsa: a função de governo ou função política é distinta da função administrativa, envolvendo escolhas de diretrizes superiores, e não a execução concreta e imediata da lei.",
+    "fundamentacaoLegal": "CF/88, arts. 173 e 175; doutrina de Maria Sylvia Zanella Di Pietro e José dos Santos Carvalho Filho."
+  },
+  {
+    "id": "estado-administracao-08",
+    "topicoId": "estado-administracao",
+    "topico": "Estado, governo e Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "O Prefeito de determinado Município encaminha à Câmara Municipal o projeto de lei orçamentária anual e, no mesmo dia, assina o decreto de nomeação de candidato aprovado em concurso público para o cargo de Auditor Fiscal da Receita Municipal. Sobre a natureza jurídica desses atos, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ambos constituem atos administrativos em sentido estrito, submetidos integralmente ao controle jurisdicional de legalidade e de mérito."
+      },
+      {
+        "letra": "B",
+        "texto": "O encaminhamento do projeto de lei orçamentária configura ato político ou de governo, ao passo que a nomeação do candidato aprovado constitui ato administrativo típico."
+      },
+      {
+        "letra": "C",
+        "texto": "Ambos configuram atos de governo, uma vez que praticados pelo Chefe do Poder Executivo no exercício de competência constitucional."
+      },
+      {
+        "letra": "D",
+        "texto": "Os atos políticos, por decorrerem diretamente da Constituição, são absolutamente insuscetíveis de controle judicial, ainda que lesionem direitos individuais."
+      },
+      {
+        "letra": "E",
+        "texto": "A nomeação do candidato aprovado é ato político, pois traduz opção discricionária de governo quanto à oportunidade e à conveniência do provimento do cargo."
+      }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B está correta: a iniciativa legislativa do Chefe do Executivo, inclusive quanto às leis orçamentárias, é manifestação da função política ou de governo, praticada com fundamento direto na Constituição; já a nomeação de candidato aprovado em concurso é ato administrativo típico, infralegal, sujeito a controle de legalidade. A alternativa A erra ao qualificar ambos como atos administrativos e, ainda, ao admitir controle judicial de mérito, que é vedado ao Judiciário. A alternativa C erra porque a nomeação não é ato político. A alternativa D generaliza indevidamente: embora os atos políticos comportem ampla discricionariedade, admitem controle judicial quando violarem direitos fundamentais ou limites constitucionais. A alternativa E é incorreta porque, nos termos da jurisprudência do STF, o candidato aprovado dentro do número de vagas previsto no edital possui direito subjetivo à nomeação, o que evidencia o caráter administrativo e vinculado do ato.",
+    "fundamentacaoLegal": "CF/88, art. 37, I a IV, art. 84, XXIII, e art. 165; doutrina de Maria Sylvia Zanella Di Pietro e José dos Santos Carvalho Filho; STF, RE 598.099/MS (Tema 161 da repercussão geral)."
+  },
+  {
+    "id": "estado-administracao-09",
+    "topicoId": "estado-administracao",
+    "topico": "Estado, governo e Administração Pública",
+    "dificuldade": "media",
+    "enunciado": "Sobre o regime jurídico-administrativo e seus fundamentos, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o regime jurídico-administrativo é integralmente regido por normas de direito privado, apenas derrogadas em hipóteses excepcionais expressamente previstas em lei."
+      },
+      {
+        "letra": "B",
+        "texto": "as prerrogativas e as sujeições da Administração decorrem, ambas, exclusivamente do princípio da indisponibilidade do interesse público."
+      },
+      {
+        "letra": "C",
+        "texto": "a supremacia do interesse público autoriza a Administração a dispor livremente dos bens e direitos públicos, desde que o faça de forma motivada."
+      },
+      {
+        "letra": "D",
+        "texto": "o regime jurídico-administrativo aplica-se exclusivamente às pessoas jurídicas de direito público, não alcançando as empresas estatais prestadoras de serviço público."
+      },
+      {
+        "letra": "E",
+        "texto": "as prerrogativas da Administração decorrem da supremacia do interesse público sobre o privado, ao passo que as sujeições decorrem da indisponibilidade, pela Administração, do interesse público."
+      }
+    ],
+    "gabarito": "E",
+    "comentario": "A alternativa E está correta: segundo Celso Antônio Bandeira de Mello, o regime jurídico-administrativo assenta-se em duas pedras angulares, a supremacia do interesse público sobre o particular, da qual derivam as prerrogativas, e a indisponibilidade do interesse público, da qual derivam as sujeições ou restrições. A alternativa A é falsa, pois o regime jurídico-administrativo é um regime de direito público. A alternativa B erra ao atribuir ambos os aspectos a um único princípio. A alternativa C contraria a indisponibilidade: a Administração é mera gestora de bens e interesses que não lhe pertencem, e a disposição depende de autorização legal. A alternativa D erra porque as empresas estatais prestadoras de serviço público submetem-se a regime de direito privado parcialmente derrogado por normas de direito público, como se vê da responsabilidade objetiva do art. 37, § 6º, da CF/88.",
+    "fundamentacaoLegal": "CF/88, art. 37, caput e § 6º; doutrina de Celso Antônio Bandeira de Mello."
+  },
+  {
+    "id": "estado-administracao-10",
+    "topicoId": "estado-administracao",
+    "topico": "Estado, governo e Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "A doutrina, com apoio na lição de Renato Alessi, distingue o interesse público primário do interesse público secundário. Sobre essa distinção, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Interesse público primário é o interesse patrimonial da pessoa jurídica estatal, ao passo que interesse público secundário é o interesse da coletividade."
+      },
+      {
+        "letra": "B",
+        "texto": "Os interesses secundários do Estado gozam de supremacia sobre os interesses primários, por força do princípio da indisponibilidade do erário."
+      },
+      {
+        "letra": "C",
+        "texto": "A supremacia do interesse público autoriza a Administração a, invocando o interesse secundário de contenção de despesas, deixar de cumprir decisão judicial transitada em julgado."
+      },
+      {
+        "letra": "D",
+        "texto": "Interesse público primário é o interesse da coletividade, e interesse público secundário é o interesse patrimonial e instrumental da pessoa jurídica estatal, que somente pode ser perseguido quando compatível com o primário."
+      },
+      {
+        "letra": "E",
+        "texto": "A distinção entre interesse público primário e secundário foi expressamente abolida pela Lei de Introdução às Normas do Direito Brasileiro, após as alterações da Lei nº 13.655/2018."
+      }
+    ],
+    "gabarito": "D",
+    "comentario": "A alternativa D está correta: o interesse público primário é o interesse da coletividade, fim último da atuação estatal; o secundário é o interesse do aparato estatal enquanto pessoa jurídica, de natureza patrimonial e instrumental, legítimo apenas quando não colidir com o primário. As alternativas A e B invertem os conceitos e a relação de prevalência entre eles. A alternativa C é inaceitável, pois o descumprimento de decisão judicial transitada em julgado viola a coisa julgada e o próprio Estado de Direito, existindo mecanismos legais próprios, como o regime de precatórios, para conciliar o pagamento com a ordem orçamentária. A alternativa E é falsa: a Lei nº 13.655/2018 acrescentou dispositivos à LINDB voltados à segurança jurídica e à eficiência na criação e aplicação do direito público, sem abolir a distinção doutrinária mencionada.",
+    "fundamentacaoLegal": "CF/88, art. 5º, XXXVI, art. 37, caput, e art. 100; Decreto-Lei nº 4.657/1942 (LINDB), arts. 20 a 30; doutrina de Renato Alessi e Celso Antônio Bandeira de Mello."
+  },
+  {
+    "id": "estado-administracao-11",
+    "topicoId": "estado-administracao",
+    "topico": "Estado, governo e Administração Pública",
+    "dificuldade": "media",
+    "enunciado": "O Secretário Municipal de Finanças, com o objetivo de encerrar litígio administrativo, celebra acordo com determinado contribuinte no qual renuncia integralmente a crédito tributário regularmente constituído, sem que exista lei autorizadora. À luz do princípio da indisponibilidade do interesse público, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O acordo é válido, pois o poder de autotutela permite à Administração rever seus próprios atos, inclusive para extinguir créditos."
+      },
+      {
+        "letra": "B",
+        "texto": "O acordo é inválido, pois os bens e interesses públicos não pertencem à Administração nem a seus agentes, que apenas os gerem, sendo indispensável autorização legal para transigir ou renunciar."
+      },
+      {
+        "letra": "C",
+        "texto": "O acordo é válido, pois o princípio da eficiência autoriza a solução consensual de conflitos independentemente de previsão legal específica."
+      },
+      {
+        "letra": "D",
+        "texto": "A indisponibilidade do interesse público impede, em termos absolutos, qualquer forma de autocomposição pela Administração Pública, ainda que expressamente autorizada em lei."
+      },
+      {
+        "letra": "E",
+        "texto": "O acordo é válido porque o crédito tributário constitui interesse público secundário e, por essa razão, é livremente disponível pelo administrador."
+      }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B está correta: a indisponibilidade do interesse público significa que o administrador é gestor de bens e interesses alheios, de titularidade da coletividade, de modo que a renúncia ou a transação dependem de autorização legal expressa. A alternativa A é incorreta porque a autotutela permite anular atos ilegais e revogar atos inconvenientes, mas não autoriza a renúncia a créditos regularmente constituídos. A alternativa C erra ao dispensar a lei: a eficiência não afasta a legalidade, e o Código Tributário Nacional exige lei para a transação e para a extinção do crédito tributário. A alternativa D generaliza indevidamente, pois o ordenamento admite a autocomposição quando autorizada em lei, como se vê do art. 26 da LINDB e da Lei nº 13.140/2015. A alternativa E incorre em erro duplo, pois o interesse secundário não é livremente disponível e o crédito tributário está submetido à legalidade estrita.",
+    "fundamentacaoLegal": "CTN (Lei nº 5.172/1966), arts. 141 e 171; LINDB, art. 26; Lei nº 13.140/2015, arts. 32 a 40; CF/88, art. 37, caput."
+  },
+  {
+    "id": "estado-administracao-12",
+    "topicoId": "estado-administracao",
+    "topico": "Estado, governo e Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre as fontes do Direito Administrativo brasileiro, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A lei é a fonte primária do Direito Administrativo, ao passo que a doutrina, a jurisprudência e os costumes são fontes secundárias, admitindo-se o costume administrativo apenas nas modalidades secundum legem e praeter legem, jamais contra legem."
+      },
+      {
+        "letra": "B",
+        "texto": "O costume administrativo constitui fonte primária do Direito Administrativo, podendo revogar disposição legal em sentido contrário quando reiteradamente observado pela Administração."
+      },
+      {
+        "letra": "C",
+        "texto": "A jurisprudência é sempre dotada de efeito vinculante em relação à Administração Pública, independentemente do procedimento adotado para a formação do precedente."
+      },
+      {
+        "letra": "D",
+        "texto": "A doutrina, por não possuir força cogente, não constitui fonte do Direito Administrativo, servindo apenas como elemento de persuasão em processos judiciais."
+      },
+      {
+        "letra": "E",
+        "texto": "O Direito Administrativo brasileiro é integralmente codificado, o que exclui os princípios gerais de direito do rol de suas fontes."
+      }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A está correta: a lei, em sentido amplo, é a fonte primária; doutrina, jurisprudência e costumes atuam como fontes secundárias, sendo o costume contra legem inadmissível diante do princípio da legalidade. A alternativa B erra ao conferir ao costume força revogatória de lei. A alternativa C generaliza indevidamente: apenas determinadas manifestações jurisprudenciais possuem efeito vinculante, como as súmulas vinculantes do STF (art. 103-A da CF/88) e as decisões proferidas em controle concentrado de constitucionalidade. A alternativa D é incorreta, pois a doutrina é reconhecida como fonte secundária, contribuindo para a construção dos institutos do Direito Administrativo. A alternativa E é falsa: o Direito Administrativo brasileiro não é codificado, e os princípios gerais de direito constituem importante fonte, tanto que expressamente referidos no art. 2º da Lei nº 9.784/1999.",
+    "fundamentacaoLegal": "CF/88, art. 5º, II, art. 37, caput, e art. 103-A; Lei nº 9.784/1999, art. 2º; doutrina de Hely Lopes Meirelles e Maria Sylvia Zanella Di Pietro."
+  },
+  {
+    "id": "estado-administracao-13",
+    "topicoId": "estado-administracao",
+    "topico": "Estado, governo e Administração Pública",
+    "dificuldade": "media",
+    "enunciado": "Sobre os sistemas administrativos e o modelo adotado pelo ordenamento jurídico brasileiro, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O Brasil adota o sistema do contencioso administrativo, de origem francesa, no qual os litígios entre a Administração e os administrados são julgados por tribunais administrativos com força de coisa julgada."
+      },
+      {
+        "letra": "B",
+        "texto": "O esgotamento prévio da via administrativa constitui condição de admissibilidade para o acesso ao Poder Judiciário em qualquer matéria de Direito Administrativo."
+      },
+      {
+        "letra": "C",
+        "texto": "O Brasil adota o sistema de jurisdição una, de modo que as decisões proferidas em processo administrativo não fazem coisa julgada material e podem ser revistas pelo Poder Judiciário."
+      },
+      {
+        "letra": "D",
+        "texto": "No sistema francês do contencioso administrativo, os litígios envolvendo a Administração são julgados pelo Poder Judiciário comum, tal como ocorre no Brasil."
+      },
+      {
+        "letra": "E",
+        "texto": "A denominada coisa julgada administrativa produz efeitos erga omnes e impede a apreciação da mesma matéria pelo Poder Judiciário."
+      }
+    ],
+    "gabarito": "C",
+    "comentario": "A alternativa C está correta: o art. 5º, XXXV, da CF/88 consagra a inafastabilidade da jurisdição, própria do sistema inglês de jurisdição una ou de controle judicial. A alternativa A erra porque o modelo francês não foi adotado no Brasil. A alternativa B é incorreta: a regra é a desnecessidade de exaurimento da via administrativa, havendo exceção pontual no art. 217, § 1º, da CF/88, quanto às ações relativas à disciplina e às competições desportivas. A alternativa D descreve equivocadamente o sistema francês, no qual há dualidade de jurisdição, com julgamento por órgãos da própria Administração, encabeçados pelo Conselho de Estado. A alternativa E é falsa: a chamada coisa julgada administrativa significa apenas a preclusão administrativa, isto é, a impossibilidade de nova discussão na esfera administrativa, sem impedir o controle judicial.",
+    "fundamentacaoLegal": "CF/88, art. 5º, XXXV, e art. 217, § 1º; doutrina de Hely Lopes Meirelles e José dos Santos Carvalho Filho."
+  },
+  {
+    "id": "estado-administracao-14",
+    "topicoId": "estado-administracao",
+    "topico": "Estado, governo e Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "Diversos critérios foram propostos para a definição do Direito Administrativo. Considerando a doutrina consolidada, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pelo critério do Poder Executivo, o Direito Administrativo disciplina exclusivamente os atos praticados por órgãos do Poder Executivo, sendo esse o critério prevalente na doutrina brasileira contemporânea."
+      },
+      {
+        "letra": "B",
+        "texto": "Pelo critério das relações jurídicas, o Direito Administrativo regula apenas as relações internas da Administração, excluídas as relações travadas com os administrados."
+      },
+      {
+        "letra": "C",
+        "texto": "O Direito Administrativo é ramo do direito privado, na medida em que disciplina relações de coordenação entre sujeitos situados em posição de igualdade jurídica."
+      },
+      {
+        "letra": "D",
+        "texto": "Pelo critério teleológico, o Direito Administrativo é o conjunto de normas que regem as relações entre particulares na persecução de finalidades lucrativas."
+      },
+      {
+        "letra": "E",
+        "texto": "Pelo critério da Administração Pública, o Direito Administrativo é definido como o conjunto harmônico de princípios jurídicos que regem os órgãos, os agentes e as atividades públicas tendentes a realizar concreta, direta e imediatamente os fins desejados pelo Estado."
+      }
+    ],
+    "gabarito": "E",
+    "comentario": "A alternativa E reproduz a clássica definição de Hely Lopes Meirelles, formulada a partir do critério da Administração Pública, amplamente acolhida na doutrina e nas provas de concurso. A alternativa A é incorreta porque o critério do Poder Executivo é insuficiente: os Poderes Legislativo e Judiciário também praticam função administrativa, e nem todo ato do Executivo é administrativo, como ocorre com os atos políticos. A alternativa B restringe indevidamente o objeto da disciplina, que também rege as relações entre a Administração e os administrados. A alternativa C erra porque o Direito Administrativo é ramo do direito público, marcado por relações de subordinação e pela verticalidade decorrente das prerrogativas estatais. A alternativa D não corresponde ao critério teleológico, segundo o qual o Direito Administrativo é o conjunto de regras que disciplinam a atividade estatal voltada à consecução dos fins de interesse público.",
+    "fundamentacaoLegal": "Doutrina de Hely Lopes Meirelles, Maria Sylvia Zanella Di Pietro e Celso Antônio Bandeira de Mello; CF/88, art. 37, caput."
+  },
+  {
+    "id": "estado-administracao-15",
+    "topicoId": "estado-administracao",
+    "topico": "Estado, governo e Administração Pública",
+    "dificuldade": "media",
+    "enunciado": "Sobre a personalidade jurídica do Estado brasileiro, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As expressões União e República Federativa do Brasil são sinônimas, designando a mesma pessoa jurídica de direito público externo."
+      },
+      {
+        "letra": "B",
+        "texto": "Os Estados-membros são pessoas jurídicas de direito público externo, podendo celebrar tratados e convenções internacionais em nome próprio."
+      },
+      {
+        "letra": "C",
+        "texto": "Os Municípios não possuem personalidade jurídica própria, sendo representados em juízo pelo respectivo Estado-membro."
+      },
+      {
+        "letra": "D",
+        "texto": "A República Federativa do Brasil é pessoa jurídica de direito público externo, titular da soberania, enquanto a União é pessoa jurídica de direito público interno, dotada de autonomia."
+      },
+      {
+        "letra": "E",
+        "texto": "O Estado possui dupla personalidade, de direito público e de direito privado, conforme atue ou não com prerrogativas, teoria que prevalece atualmente na doutrina brasileira."
+      }
+    ],
+    "gabarito": "D",
+    "comentario": "A alternativa D está correta: a República Federativa do Brasil, formada pela união indissolúvel dos entes federados, é a pessoa jurídica de direito público externo titular da soberania, ao passo que a União é pessoa jurídica de direito público interno, dotada de autonomia e competências próprias, que atua em nome da República no plano internacional (art. 21, I, da CF/88). A alternativa A confunde as duas realidades. A alternativa B erra porque os Estados-membros são pessoas jurídicas de direito público interno, sem capacidade para celebrar tratados internacionais. A alternativa C contraria o art. 18 da CF/88 e o art. 41 do Código Civil, que reconhecem aos Municípios personalidade jurídica própria e capacidade processual. A alternativa E é incorreta porque a teoria da dupla personalidade do Estado encontra-se superada: o Estado possui personalidade única, de direito público, ainda que possa submeter-se, em determinadas situações, a normas de direito privado.",
+    "fundamentacaoLegal": "CF/88, art. 1º, art. 18 e art. 21, I; Código Civil, arts. 41 e 42; doutrina de Celso Antônio Bandeira de Mello."
+  },
+  {
+    "id": "estado-administracao-16",
+    "topicoId": "estado-administracao",
+    "topico": "Estado, governo e Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre a repartição de competências administrativas entre os entes da Federação, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É competência comum da União, dos Estados, do Distrito Federal e dos Municípios cuidar da saúde e da assistência pública, cabendo a leis complementares fixar normas para a cooperação entre os entes, tendo em vista o equilíbrio do desenvolvimento e do bem-estar em âmbito nacional."
+      },
+      {
+        "letra": "B",
+        "texto": "A competência administrativa comum é exclusiva e indelegável da União, cabendo aos demais entes apenas a execução material das políticas por ela definidas."
+      },
+      {
+        "letra": "C",
+        "texto": "As competências administrativas comuns são exercidas em regime de hierarquia entre os entes federados, prevalecendo sempre a atuação da União sobre a dos Estados e Municípios."
+      },
+      {
+        "letra": "D",
+        "texto": "A cooperação entre os entes federados no exercício das competências comuns depende de lei ordinária federal de iniciativa privativa do Presidente da República."
+      },
+      {
+        "letra": "E",
+        "texto": "A gestão associada de serviços públicos entre entes federados é vedada pela Constituição Federal, por implicar renúncia à autonomia administrativa."
+      }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A reproduz o art. 23, II, e o parágrafo único do art. 23 da CF/88, na redação dada pela Emenda Constitucional nº 53/2006, que passou a exigir leis complementares para a fixação das normas de cooperação. A alternativa B é incorreta porque a competência comum é justamente aquela exercida cumulativamente por todos os entes, não sendo exclusiva da União. A alternativa C erra porque não há hierarquia entre os entes federados, mas repartição constitucional de competências, presidida pelos princípios da autonomia e da cooperação. A alternativa D erra quanto à espécie normativa, pois o parágrafo único do art. 23 exige leis complementares. A alternativa E contraria o art. 241 da CF/88, que autoriza expressamente a gestão associada de serviços públicos por meio de consórcios públicos e convênios de cooperação.",
+    "fundamentacaoLegal": "CF/88, art. 23, caput, inciso II e parágrafo único (redação da EC nº 53/2006), e art. 241; Lei nº 11.107/2005."
+  },
+  {
+    "id": "estado-administracao-17",
+    "topicoId": "estado-administracao",
+    "topico": "Estado, governo e Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "Considerando a repartição constitucional de competências legislativas e sua repercussão sobre o Direito Administrativo, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Compete privativamente à União legislar sobre Direito Administrativo, cabendo aos Estados e aos Municípios apenas suplementar essa legislação."
+      },
+      {
+        "letra": "B",
+        "texto": "O Direito Administrativo não figura entre as matérias de competência legislativa privativa da União, de modo que cada ente federado disciplina, por lei própria, a organização de sua Administração e o regime jurídico de seus servidores, observadas as normas constitucionais de observância obrigatória."
+      },
+      {
+        "letra": "C",
+        "texto": "Compete privativamente à União legislar sobre normas gerais de licitação e contratação, sendo vedado aos Municípios legislar sobre a matéria em qualquer hipótese."
+      },
+      {
+        "letra": "D",
+        "texto": "Aos Municípios é vedado suplementar a legislação federal e a estadual, ainda que no que couber ao interesse local."
+      },
+      {
+        "letra": "E",
+        "texto": "A competência para legislar sobre desapropriação é concorrente entre a União, os Estados e o Distrito Federal, cabendo à União editar apenas normas gerais."
+      }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B está correta: o Direito Administrativo não consta do rol do art. 22 da CF/88, razão pela qual cada ente federado, no exercício de sua autonomia, legisla sobre a organização de sua Administração e o regime jurídico de seus servidores, respeitadas as normas constitucionais de observância obrigatória, como as do art. 37. A alternativa A é incorreta pela mesma razão. A alternativa C erra na parte final: embora caiba privativamente à União legislar sobre normas gerais de licitação e contratação (art. 22, XXVII), os demais entes podem editar normas específicas sobre a matéria. A alternativa D contraria o art. 30, II, da CF/88, que autoriza o Município a suplementar a legislação federal e a estadual no que couber. A alternativa E é falsa, pois a competência para legislar sobre desapropriação é privativa da União (art. 22, II).",
+    "fundamentacaoLegal": "CF/88, art. 22, II e XXVII, art. 24, art. 30, I e II, e art. 37, caput."
+  },
+  {
+    "id": "estado-administracao-18",
+    "topicoId": "estado-administracao",
+    "topico": "Estado, governo e Administração Pública",
+    "dificuldade": "media",
+    "enunciado": "Determinado Município edita lei disciplinando o horário de funcionamento dos estabelecimentos comerciais situados em seu território. Questionada judicialmente a validade da norma, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A lei municipal é inconstitucional, pois a fixação de horário de funcionamento de estabelecimentos comerciais é matéria de competência privativa da União."
+      },
+      {
+        "letra": "B",
+        "texto": "A lei municipal somente será válida se houver prévia autorização em lei estadual, dado o caráter estritamente suplementar da competência municipal."
+      },
+      {
+        "letra": "C",
+        "texto": "A lei municipal é válida, pois compete ao Município legislar sobre assuntos de interesse local, sendo dele a competência para fixar o horário de funcionamento de estabelecimento comercial."
+      },
+      {
+        "letra": "D",
+        "texto": "A competência municipal limita-se a suplementar a legislação federal e a estadual, não lhe sendo permitido disciplinar originariamente qualquer matéria."
+      },
+      {
+        "letra": "E",
+        "texto": "O Município é igualmente competente para fixar o horário de funcionamento das agências bancárias no que se refere ao atendimento ao público."
+      }
+    ],
+    "gabarito": "C",
+    "comentario": "A alternativa C está correta e reflete o entendimento consolidado na Súmula Vinculante 38 do STF, segundo a qual é competente o Município para fixar o horário de funcionamento de estabelecimento comercial, matéria que se enquadra no interesse local previsto no art. 30, I, da CF/88. A alternativa A erra ao atribuir a competência à União. A alternativa B é incorreta porque a competência do Município para legislar sobre interesse local é originária, e não dependente de autorização estadual. A alternativa D erra ao negar a competência legislativa própria do Município, que abrange tanto a matéria de interesse local (art. 30, I) quanto a suplementação da legislação federal e estadual (art. 30, II). A alternativa E é incorreta porque, segundo a Súmula 19 do STJ, a fixação do horário bancário para atendimento ao público é da competência da União, por envolver o sistema financeiro nacional.",
+    "fundamentacaoLegal": "CF/88, art. 30, I e II; Súmula Vinculante 38 do STF; Súmula 19 do STJ."
+  },
+  {
+    "id": "estado-administracao-19",
+    "topicoId": "estado-administracao",
+    "topico": "Estado, governo e Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "A constitucionalização do Direito Administrativo trouxe consigo a noção de juridicidade administrativa. Sobre o tema, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A constitucionalização do Direito Administrativo implicou a superação do princípio da legalidade, autorizando a Administração a atuar contra legem sempre que invocar princípios constitucionais."
+      },
+      {
+        "letra": "B",
+        "texto": "A aplicação direta de princípios constitucionais pela Administração Pública é vedada, por se tratar de normas de eficácia meramente programática."
+      },
+      {
+        "letra": "C",
+        "texto": "O art. 20 da LINDB veda expressamente que a autoridade administrativa ou controladora decida com fundamento em princípios jurídicos."
+      },
+      {
+        "letra": "D",
+        "texto": "A juridicidade é expressão sinônima de legalidade estrita, tal como concebida no Estado Liberal do século XIX."
+      },
+      {
+        "letra": "E",
+        "texto": "O princípio da juridicidade amplia a noção clássica de legalidade, submetendo a Administração não apenas à lei em sentido formal, mas a todo o bloco de legalidade, nele incluídos a Constituição, os tratados e os princípios gerais de direito."
+      }
+    ],
+    "gabarito": "E",
+    "comentario": "A alternativa E está correta: a juridicidade traduz a submissão da Administração ao ordenamento jurídico como um todo, e não apenas à lei formal. A alternativa A é falsa: a juridicidade amplia, mas não suprime a legalidade, sendo vedada a atuação contra legem. A alternativa B erra ao negar normatividade aos princípios constitucionais, hoje reconhecidos como normas jurídicas dotadas de eficácia. A alternativa C interpreta erroneamente o art. 20 da LINDB, que não veda o uso de princípios, mas exige que a decisão fundada em valores jurídicos abstratos considere as consequências práticas e demonstre a necessidade e a adequação da medida imposta, inclusive em face das possíveis alternativas. A alternativa D é incorreta porque a juridicidade supera a legalidade estrita concebida no Estado Liberal.",
+    "fundamentacaoLegal": "CF/88, art. 37, caput; LINDB, arts. 20 e 21; doutrina de Gustavo Binenbojm, Rafael Carvalho Rezende Oliveira e Maria Sylvia Zanella Di Pietro."
+  },
+  {
+    "id": "estado-administracao-20",
+    "topicoId": "estado-administracao",
+    "topico": "Estado, governo e Administração Pública",
+    "dificuldade": "media",
+    "enunciado": "Sobre a distinção entre a legalidade aplicável ao particular e a legalidade aplicável à Administração Pública, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "À Administração Pública aplica-se plenamente o princípio da autonomia da vontade, podendo ela fazer tudo aquilo que a lei não proíba."
+      },
+      {
+        "letra": "B",
+        "texto": "O particular submete-se à legalidade estrita, somente podendo fazer aquilo que a lei expressamente autorize."
+      },
+      {
+        "letra": "C",
+        "texto": "O princípio da legalidade administrativa impede a prática de atos discricionários, que somente seriam admitidos mediante prévia autorização judicial."
+      },
+      {
+        "letra": "D",
+        "texto": "Enquanto o particular pode fazer tudo o que a lei não proíbe, em relação de não contradição à lei, a Administração só pode fazer o que a lei autoriza ou determina, em relação de subordinação à lei."
+      },
+      {
+        "letra": "E",
+        "texto": "Em situação de calamidade pública, a Administração fica integralmente desvinculada do princípio da legalidade, podendo atuar segundo juízo exclusivo de conveniência e oportunidade."
+      }
+    ],
+    "gabarito": "D",
+    "comentario": "A alternativa D está correta: na lição de Celso Antônio Bandeira de Mello, para o particular vigora a relação de não contradição à lei (art. 5º, II, da CF/88), enquanto para a Administração vigora a relação de subordinação à lei (art. 37, caput, da CF/88). As alternativas A e B invertem exatamente essa distinção. A alternativa C é incorreta porque a discricionariedade é conferida pela própria lei, que estabelece a moldura dentro da qual o administrador avalia conveniência e oportunidade, sem necessidade de autorização judicial. A alternativa E é falsa: mesmo em situações excepcionais a Administração permanece vinculada à legalidade, ainda que sob regimes jurídicos especiais previstos na Constituição e na lei, como os estados de defesa e de sítio e as hipóteses legais de contratação direta.",
+    "fundamentacaoLegal": "CF/88, art. 5º, II, art. 37, caput, e arts. 136 a 141; doutrina de Celso Antônio Bandeira de Mello e Hely Lopes Meirelles."
+  },
+  {
+    "id": "estado-administracao-21",
+    "topicoId": "estado-administracao",
+    "topico": "Estado, governo e Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre a noção de relação de administração, formulada por Ruy Cirne Lima e incorporada pela doutrina administrativista brasileira, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A relação de administração caracteriza-se pela subordinação da atividade a uma finalidade alheia à pessoa do agente, distinguindo-se da relação de propriedade, na qual a vontade do titular é livre; o administrador exerce múnus público, atuando em nome e no interesse alheios."
+      },
+      {
+        "letra": "B",
+        "texto": "A relação de administração confere ao agente público a titularidade dos bens e dos interesses públicos que gere, permitindo-lhe dispor deles conforme sua conveniência."
+      },
+      {
+        "letra": "C",
+        "texto": "A noção de múnus público autoriza o agente a eleger livremente as finalidades a serem perseguidas, desde que motive formalmente a escolha."
+      },
+      {
+        "letra": "D",
+        "texto": "A relação de administração equipara-se ao mandato civil, sendo o agente público mandatário do Estado e por ele responsável nos termos do Código Civil."
+      },
+      {
+        "letra": "E",
+        "texto": "Na relação de administração, a finalidade da atuação é livremente eleita pelo administrador, nos limites da discricionariedade que lhe é conferida pela lei."
+      }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A está correta: a relação de administração se opõe à relação de propriedade porque a finalidade é predeterminada pela ordem jurídica e é alheia ao agente, que atua no exercício de múnus público, em nome e no interesse da coletividade. A alternativa B contraria frontalmente essa ideia, pois o agente é gestor, e não titular, dos bens e interesses públicos. A alternativa C erra porque a finalidade é sempre imposta pela lei, sendo que sua desconsideração configura desvio de finalidade. A alternativa D remete à teoria do mandato, hoje superada na explicação da atuação estatal, substituída pela teoria do órgão ou da imputação volitiva. A alternativa E é incorreta porque a discricionariedade recai sobre o modo de atingir a finalidade legal, jamais sobre a escolha da própria finalidade, que é sempre vinculada.",
+    "fundamentacaoLegal": "CF/88, art. 37, caput; Lei nº 4.717/1965, art. 2º, parágrafo único, alínea e (desvio de finalidade); doutrina de Ruy Cirne Lima e Celso Antônio Bandeira de Mello."
+  },
+  {
+    "id": "estado-administracao-22",
+    "topicoId": "estado-administracao",
+    "topico": "Estado, governo e Administração Pública",
+    "dificuldade": "media",
+    "enunciado": "Sobre a distinção entre soberania e autonomia no federalismo brasileiro, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os Estados-membros são soberanos e podem, por deliberação de suas Assembleias Legislativas, dissolver o vínculo federativo."
+      },
+      {
+        "letra": "B",
+        "texto": "A soberania é atributo da República Federativa do Brasil no plano internacional, ao passo que os entes federados são dotados de autonomia, que se traduz em capacidade de auto-organização, autogoverno, autolegislação e autoadministração."
+      },
+      {
+        "letra": "C",
+        "texto": "A autonomia municipal não compreende o autogoverno, uma vez que os Prefeitos são nomeados pelos Governadores dos respectivos Estados."
+      },
+      {
+        "letra": "D",
+        "texto": "A intervenção federal nos Estados é vedada em qualquer hipótese, por absoluta incompatibilidade com a autonomia federativa."
+      },
+      {
+        "letra": "E",
+        "texto": "Autonomia e soberania são conceitos idênticos, distinguindo-se apenas quanto à extensão territorial em que são exercidos."
+      }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B está correta: a soberania é atributo do Estado brasileiro considerado em sua unidade (art. 1º, I, da CF/88), enquanto os entes federados possuem autonomia, revelada nas capacidades de auto-organização, autogoverno, autolegislação e autoadministração. A alternativa A é falsa: a Federação brasileira é indissolúvel, não havendo direito de secessão (art. 1º, caput, e art. 34, I). A alternativa C contraria o art. 29, I, da CF/88, que prevê a eleição direta do Prefeito. A alternativa D é incorreta porque a Constituição prevê expressamente hipóteses excepcionais e taxativas de intervenção federal (art. 34) e de intervenção estadual nos Municípios (art. 35), justamente para preservar a própria Federação. A alternativa E ignora a diferença qualitativa entre os conceitos.",
+    "fundamentacaoLegal": "CF/88, art. 1º, caput e inciso I, art. 18, art. 29, I, e arts. 34 e 35."
+  },
+  {
+    "id": "estado-administracao-23",
+    "topicoId": "estado-administracao",
+    "topico": "Estado, governo e Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "Maria Sylvia Zanella Di Pietro distingue as expressões regime jurídico da Administração Pública e regime jurídico-administrativo. Sobre essa distinção, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O regime jurídico-administrativo é expressão mais ampla que regime jurídico da Administração Pública, pois abrange também as normas de direito privado eventualmente aplicáveis à Administração."
+      },
+      {
+        "letra": "B",
+        "texto": "As expressões regime jurídico da Administração Pública e regime jurídico-administrativo são rigorosamente sinônimas, não havendo distinção relevante entre elas."
+      },
+      {
+        "letra": "C",
+        "texto": "A expressão regime jurídico da Administração Pública é a mais ampla, designando tanto o regime de direito público quanto o de direito privado a que pode submeter-se a Administração, ao passo que regime jurídico-administrativo designa apenas o conjunto de prerrogativas e sujeições próprias do direito público."
+      },
+      {
+        "letra": "D",
+        "texto": "A Administração Pública jamais se submete a normas de direito privado, em razão do princípio da indisponibilidade do interesse público."
+      },
+      {
+        "letra": "E",
+        "texto": "Quando atua sob regime de direito privado, a Administração Pública afasta-se integralmente da incidência dos princípios da impessoalidade, da moralidade e da publicidade."
+      }
+    ],
+    "gabarito": "C",
+    "comentario": "A alternativa C está correta e reproduz a distinção proposta por Di Pietro. A alternativa A inverte a relação entre os conceitos. A alternativa B erra ao afirmar sinonímia. A alternativa D é falsa, pois a Administração pode atuar sob regime de direito privado, como ocorre nas empresas estatais e em contratos regidos predominantemente pelo direito privado. A alternativa E é incorreta porque, mesmo quando atua sob regime de direito privado, esse regime é parcialmente derrogado por normas de direito público, permanecendo aplicáveis os princípios do art. 37, caput, da CF/88, como se verifica das exigências de concurso público e de licitação para as empresas estatais.",
+    "fundamentacaoLegal": "CF/88, art. 37, caput, e art. 173, § 1º; Lei nº 13.303/2016; doutrina de Maria Sylvia Zanella Di Pietro."
+  },
+  {
+    "id": "estado-administracao-24",
+    "topicoId": "estado-administracao",
+    "topico": "Estado, governo e Administração Pública",
+    "dificuldade": "media",
+    "enunciado": "Sobre os modelos de Administração Pública e a reforma administrativa promovida pela Emenda Constitucional nº 19/1998, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O modelo burocrático de administração caracteriza-se pela confusão entre o patrimônio público e o patrimônio privado do governante."
+      },
+      {
+        "letra": "B",
+        "texto": "A Emenda Constitucional nº 19/1998 suprimiu o princípio da legalidade do caput do art. 37 da Constituição Federal, substituindo-o pelo princípio da eficiência."
+      },
+      {
+        "letra": "C",
+        "texto": "O modelo gerencial extinguiu o controle de legalidade dos atos administrativos, substituindo-o integralmente pelo controle de resultados."
+      },
+      {
+        "letra": "D",
+        "texto": "A Administração gerencial foi introduzida no Brasil pelo Decreto-Lei nº 200/1967, diploma que inseriu o princípio da eficiência no texto constitucional."
+      },
+      {
+        "letra": "E",
+        "texto": "O modelo gerencial, reforçado pela Emenda Constitucional nº 19/1998, orienta-se pelo controle de resultados, pela eficiência e pela possibilidade de ampliação da autonomia gerencial mediante contrato, em contraposição ao modelo burocrático, centrado no controle de procedimentos."
+      }
+    ],
+    "gabarito": "E",
+    "comentario": "A alternativa E está correta: a EC nº 19/1998 inseriu o princípio da eficiência no caput do art. 37 e o contrato de ampliação da autonomia gerencial no art. 37, § 8º, consolidando o ideário gerencial de controle por resultados. A alternativa A descreve o patrimonialismo, e não a burocracia, cuja marca é justamente a separação entre o público e o privado e o controle rígido de procedimentos. A alternativa B é falsa: a legalidade permanece expressa no caput do art. 37, ao lado da eficiência. A alternativa C erra porque o controle de legalidade não foi suprimido, apenas somou-se a ele o controle de resultados. A alternativa D é incorreta: embora o Decreto-Lei nº 200/1967 tenha promovido a descentralização administrativa e a racionalização, o princípio da eficiência somente foi constitucionalizado com a EC nº 19/1998.",
+    "fundamentacaoLegal": "CF/88, art. 37, caput e § 8º (redação da EC nº 19/1998); Decreto-Lei nº 200/1967, arts. 6º e 10."
+  },
+  {
+    "id": "estado-administracao-25",
+    "topicoId": "estado-administracao",
+    "topico": "Estado, governo e Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "Com base no art. 37, § 8º, da Constituição Federal, que trata da ampliação da autonomia gerencial, orçamentária e financeira, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente as entidades integrantes da Administração indireta podem firmar o contrato de ampliação da autonomia gerencial, excluídos os órgãos da Administração direta."
+      },
+      {
+        "letra": "B",
+        "texto": "A ampliação da autonomia gerencial, orçamentária e financeira independe de lei, bastando decreto do Chefe do Poder Executivo que fixe as metas de desempenho."
+      },
+      {
+        "letra": "C",
+        "texto": "O contrato previsto no art. 37, § 8º, da Constituição Federal confunde-se com o contrato de gestão celebrado com organizações sociais, disciplinado pela Lei nº 9.637/1998."
+      },
+      {
+        "letra": "D",
+        "texto": "A autonomia gerencial, orçamentária e financeira dos órgãos e entidades da administração direta e indireta poderá ser ampliada mediante contrato firmado entre seus administradores e o poder público, que tenha por objeto a fixação de metas de desempenho, cabendo à lei dispor sobre o prazo de duração do contrato, os controles e critérios de avaliação de desempenho, os direitos, obrigações e responsabilidade dos dirigentes e a remuneração do pessoal."
+      },
+      {
+        "letra": "E",
+        "texto": "A celebração do contrato de ampliação da autonomia gerencial afasta a observância do teto remuneratório constitucional pelos dirigentes do órgão ou entidade contratante."
+      }
+    ],
+    "gabarito": "D",
+    "comentario": "A alternativa D reproduz o art. 37, § 8º, e seus incisos I a III da CF/88. A alternativa A é incorreta porque o dispositivo alcança expressamente órgãos e entidades da administração direta e indireta. A alternativa B erra porque o próprio § 8º remete à lei a disciplina do prazo de duração, dos controles, dos critérios de avaliação e da responsabilidade dos dirigentes. A alternativa C confunde institutos distintos: o contrato de gestão do art. 37, § 8º, é celebrado internamente, com órgãos e entidades da própria Administração, enquanto o contrato de gestão da Lei nº 9.637/1998 é firmado com entidades privadas qualificadas como organizações sociais. A alternativa E é falsa, pois o teto remuneratório do art. 37, XI, é norma constitucional de observância obrigatória, não afastável por contrato.",
+    "fundamentacaoLegal": "CF/88, art. 37, XI e § 8º, incisos I a III; Lei nº 9.637/1998."
+  },
+  {
+    "id": "estado-administracao-26",
+    "topicoId": "estado-administracao",
+    "topico": "Estado, governo e Administração Pública",
+    "dificuldade": "media",
+    "enunciado": "Sobre a distinção entre descentralização política e descentralização administrativa, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A descentralização política decorre da própria Constituição e confere aos entes federados competências legislativas e administrativas próprias, ao passo que a descentralização administrativa pressupõe a transferência de atribuições executivas a pessoa distinta do ente central, desprovida de autonomia política."
+      },
+      {
+        "letra": "B",
+        "texto": "A descentralização administrativa decorre diretamente da Constituição e atribui competências legislativas próprias, ao passo que a descentralização política se limita à transferência de atividades executivas."
+      },
+      {
+        "letra": "C",
+        "texto": "A criação de uma autarquia municipal por lei específica configura hipótese de descentralização política, pois envolve repartição de competências constitucionais."
+      },
+      {
+        "letra": "D",
+        "texto": "A desconcentração implica a criação de nova pessoa jurídica, distinta do ente central, à qual são transferidas competências administrativas."
+      },
+      {
+        "letra": "E",
+        "texto": "Nos Estados unitários é impossível qualquer forma de descentralização, seja política, seja administrativa."
+      }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A está correta: a descentralização política é própria dos Estados federais e decorre da repartição constitucional de competências entre entes autônomos; a descentralização administrativa opera a transferência da execução de atividades a pessoa jurídica distinta, sem autonomia política. A alternativa B inverte os conceitos. A alternativa C erra porque a criação de autarquia é descentralização administrativa por serviços, e não política. A alternativa D confunde desconcentração com descentralização: a desconcentração é distribuição interna de competências entre órgãos de uma mesma pessoa jurídica, com relação de hierarquia, sem criação de nova pessoa. A alternativa E é falsa, pois o Estado unitário pode adotar descentralização administrativa, ainda que não haja descentralização política.",
+    "fundamentacaoLegal": "CF/88, art. 18 e art. 37, XIX; Decreto-Lei nº 200/1967, arts. 4º, 6º e 10; doutrina de Maria Sylvia Zanella Di Pietro."
+  },
+  {
+    "id": "estado-administracao-27",
+    "topicoId": "estado-administracao",
+    "topico": "Estado, governo e Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "As prerrogativas processuais da Fazenda Pública constituem expressão do regime jurídico-administrativo. Sobre o tema, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A Fazenda Pública dispõe de prazo em quádruplo para contestar e em dobro para recorrer, nos termos do Código de Processo Civil em vigor."
+      },
+      {
+        "letra": "B",
+        "texto": "A Fazenda Pública goza de prazo em dobro para todas as suas manifestações processuais, salvo quando a lei estabelecer, de forma expressa, prazo próprio para o ente público, submetendo-se ainda, como regra, à remessa necessária e ao regime constitucional de precatórios."
+      },
+      {
+        "letra": "C",
+        "texto": "A remessa necessária é obrigatória em toda sentença proferida contra a Fazenda Pública, independentemente do valor da condenação ou do proveito econômico obtido."
+      },
+      {
+        "letra": "D",
+        "texto": "Os bens das empresas públicas e das sociedades de economia mista exploradoras de atividade econômica são impenhoráveis e submetem-se ao regime de precatórios."
+      },
+      {
+        "letra": "E",
+        "texto": "As prerrogativas processuais da Fazenda Pública foram declaradas inconstitucionais pelo Supremo Tribunal Federal por violação ao princípio da isonomia."
+      }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B está correta e reflete o art. 183, caput e § 2º, do CPC, o art. 496 do CPC e o art. 100 da CF/88. A alternativa A reproduz regra do Código de Processo Civil de 1973, revogada pelo diploma de 2015, que unificou o benefício em prazo em dobro. A alternativa C é incorreta porque o art. 496, § 3º, do CPC dispensa a remessa necessária quando a condenação ou o proveito econômico for inferior aos patamares nele fixados, além das hipóteses do § 4º. A alternativa D erra porque as estatais exploradoras de atividade econômica sujeitam-se ao regime próprio das empresas privadas (art. 173, § 1º, II, da CF/88), tendo bens penhoráveis e não se submetendo, em regra, ao regime de precatórios. A alternativa E é falsa: tais prerrogativas são reconhecidas como compatíveis com a Constituição, por atenderem à finalidade de proteção do interesse público.",
+    "fundamentacaoLegal": "CPC (Lei nº 13.105/2015), arts. 183 e 496; CF/88, art. 100 e art. 173, § 1º, II."
+  },
+  {
+    "id": "estado-administracao-28",
+    "topicoId": "estado-administracao",
+    "topico": "Estado, governo e Administração Pública",
+    "dificuldade": "media",
+    "enunciado": "Sobre a evolução histórica que conduziu do Estado de Polícia ao Estado de Direito e seus reflexos no Direito Administrativo, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O Estado de Direito caracteriza-se pela irresponsabilidade patrimonial do Poder Público pelos danos causados por seus agentes a terceiros."
+      },
+      {
+        "letra": "B",
+        "texto": "A teoria da irresponsabilidade do Estado permanece plenamente vigente no ordenamento brasileiro no que se refere aos atos legislativos e jurisdicionais."
+      },
+      {
+        "letra": "C",
+        "texto": "No Estado de Polícia prevalecia a ideia de que o soberano não se submetia às normas que editava; no Estado de Direito, a Administração passa a submeter-se à lei e ao controle jurisdicional de seus atos."
+      },
+      {
+        "letra": "D",
+        "texto": "O Direito Administrativo, como ramo autônomo, surgiu no Brasil antes de sua formação na Europa continental, tendo servido de modelo ao direito francês."
+      },
+      {
+        "letra": "E",
+        "texto": "O Estado Social importou a supressão dos direitos individuais conquistados no Estado Liberal, substituídos integralmente por direitos prestacionais."
+      }
+    ],
+    "gabarito": "C",
+    "comentario": "A alternativa C está correta: o Estado de Polícia é marcado pela ausência de vinculação do soberano às normas por ele editadas, ao passo que o Estado de Direito impõe à Administração a submissão à lei e o controle jurisdicional de seus atos. A alternativa A inverte a lógica do Estado de Direito, no qual se consolidou a responsabilidade patrimonial do Estado, hoje objetiva no direito brasileiro. A alternativa B é falsa: a irresponsabilidade estatal está superada, admitindo-se, em hipóteses específicas, a responsabilização por atos legislativos, como no caso de lei declarada inconstitucional, e por atos jurisdicionais nas hipóteses do art. 5º, LXXV, da CF/88. A alternativa D inverte a cronologia, já que o Direito Administrativo se formou na Europa continental, em especial na França, a partir do início do século XIX. A alternativa E é incorreta porque o Estado Social acresce direitos prestacionais aos direitos individuais, sem suprimi-los.",
+    "fundamentacaoLegal": "CF/88, art. 5º, XXXV e LXXV, e art. 37, caput e § 6º; doutrina de Maria Sylvia Zanella Di Pietro e Celso Antônio Bandeira de Mello."
+  },
+  {
+    "id": "estado-administracao-29",
+    "topicoId": "estado-administracao",
+    "topico": "Estado, governo e Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre a natureza da função exercida pelos Tribunais de Contas no ordenamento brasileiro, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O Tribunal de Contas integra a estrutura do Poder Judiciário, e suas decisões, por isso, fazem coisa julgada material."
+      },
+      {
+        "letra": "B",
+        "texto": "O Tribunal de Contas é órgão hierarquicamente subordinado ao Poder Legislativo, dependendo de prévia autorização deste para o exercício de suas competências constitucionais."
+      },
+      {
+        "letra": "C",
+        "texto": "Compete ao Tribunal de Contas julgar as contas anuais prestadas pelo Chefe do Poder Executivo, cabendo ao Poder Legislativo apenas homologar a decisão."
+      },
+      {
+        "letra": "D",
+        "texto": "As decisões do Tribunal de Contas que imputam débito ou multa podem ser executadas pelo próprio Tribunal, dispensada a atuação do ente federado credor."
+      },
+      {
+        "letra": "E",
+        "texto": "O Tribunal de Contas é órgão de natureza administrativa, que auxilia o Poder Legislativo no controle externo; suas decisões não fazem coisa julgada material, embora as que imputem débito ou multa tenham eficácia de título executivo."
+      }
+    ],
+    "gabarito": "E",
+    "comentario": "A alternativa E está correta: o Tribunal de Contas exerce função administrativa de controle, auxiliando o Legislativo, e suas decisões que imputem débito ou multa têm eficácia de título executivo, nos termos do art. 71, § 3º, da CF/88. A alternativa A é falsa, pois o Tribunal de Contas não integra o Poder Judiciário e não profere decisões com força de coisa julgada material, sendo cabível o controle jurisdicional de legalidade de suas deliberações. A alternativa B erra ao afirmar subordinação hierárquica: o Tribunal auxilia o Legislativo, mas possui competências próprias previstas diretamente na Constituição. A alternativa C inverte as competências: as contas do Chefe do Executivo são apreciadas pelo Tribunal mediante parecer prévio (art. 71, I), cabendo o julgamento ao Poder Legislativo (art. 49, IX, e art. 31, § 2º). A alternativa D é incorreta porque, segundo a jurisprudência do STF, a legitimidade para a execução do título executivo é do ente público beneficiário, e não do Tribunal de Contas.",
+    "fundamentacaoLegal": "CF/88, art. 31, §§ 1º e 2º, art. 49, IX, e art. 71, I, II e § 3º; STF, ARE 823.347/MA (Tema 642 da repercussão geral)."
+  },
+  {
+    "id": "estado-administracao-30",
+    "topicoId": "estado-administracao",
+    "topico": "Estado, governo e Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "Segundo Hely Lopes Meirelles, a interpretação e a aplicação das normas de Direito Administrativo pressupõem determinadas premissas próprias desse ramo do direito público. Assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A interpretação do Direito Administrativo parte da premissa da igualdade jurídica plena entre a Administração e os administrados, tal como ocorre no direito privado."
+      },
+      {
+        "letra": "B",
+        "texto": "A presunção de legitimidade dos atos administrativos é absoluta, não admitindo prova em contrário nem controle jurisdicional."
+      },
+      {
+        "letra": "C",
+        "texto": "A interpretação do Direito Administrativo pressupõe a vinculação integral do administrador à lei, sendo-lhe vedado qualquer juízo de conveniência e oportunidade."
+      },
+      {
+        "letra": "D",
+        "texto": "A interpretação do Direito Administrativo assenta-se em três pressupostos: a desigualdade jurídica entre a Administração e os administrados; a presunção de legitimidade dos atos da Administração; e a necessidade de poderes discricionários para o atendimento do interesse público."
+      },
+      {
+        "letra": "E",
+        "texto": "As regras de interpretação do direito privado aplicam-se integralmente e sem qualquer adaptação ao Direito Administrativo, dada a unidade do ordenamento jurídico."
+      }
+    ],
+    "gabarito": "D",
+    "comentario": "A alternativa D está correta e reproduz os três pressupostos apontados por Hely Lopes Meirelles para a interpretação do Direito Administrativo. A alternativa A é incorreta porque a relação jurídico-administrativa é marcada pela verticalidade decorrente das prerrogativas públicas. A alternativa B erra ao qualificar a presunção de legitimidade como absoluta: trata-se de presunção relativa (iuris tantum), que admite prova em contrário e não afasta o controle jurisdicional. A alternativa C é falsa, pois a discricionariedade é inerente à função administrativa nos espaços em que a lei a confere. A alternativa E é incorreta porque as normas de direito privado só se aplicam ao Direito Administrativo de forma subsidiária e com as adaptações exigidas pelo regime jurídico-administrativo.",
+    "fundamentacaoLegal": "CF/88, art. 5º, XXXV, e art. 37, caput; doutrina de Hely Lopes Meirelles."
+  }
+]

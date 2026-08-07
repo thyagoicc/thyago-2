@@ -1,0 +1,512 @@
+[
+  {
+    "id": "poderes-administrativos-01",
+    "topicoId": "poderes-administrativos",
+    "topico": "Poderes administrativos",
+    "dificuldade": "media",
+    "enunciado": "Sobre o poder vinculado e o poder discricionário da Administração Pública, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "No exercício do poder vinculado, a autoridade dispõe de margem de valoração quanto ao motivo e ao objeto do ato, desde que respeitada a finalidade legal." },
+      { "letra": "B", "texto": "No exercício do poder vinculado, a lei predetermina integralmente a conduta a ser adotada, não restando ao agente juízo de conveniência e oportunidade; no poder discricionário, a lei confere margem de valoração dentro de limites por ela mesma estabelecidos." },
+      { "letra": "C", "texto": "O poder discricionário autoriza o administrador a atuar contra a lei quando o interesse público concreto assim recomendar." },
+      { "letra": "D", "texto": "Atos praticados no exercício do poder discricionário são insuscetíveis de qualquer controle judicial, inclusive quanto à competência e à forma." },
+      { "letra": "E", "texto": "O poder vinculado é exercido apenas pela Administração indireta, ao passo que o discricionário é privativo da Administração direta." }
+    ],
+    "gabarito": "B",
+    "comentario": "B (correta): a distinção reside no grau de liberdade conferido pela lei — no ato vinculado a norma esgota a disciplina da conduta; no discricionário, permite escolha entre soluções igualmente válidas, dentro dos limites legais. A (errada): a margem de valoração quanto a motivo e objeto é característica do poder discricionário. C (errada): atuar contra a lei é arbitrariedade, sempre ilícita; discricionariedade é liberdade dentro da lei. D (errada): mesmo o ato discricionário se sujeita a controle de legalidade quanto à competência, à forma, à finalidade, à existência dos motivos e à razoabilidade. E (errada): ambos os poderes são exercidos indistintamente pela Administração direta e indireta.",
+    "fundamentacaoLegal": "CF/88, art. 5º, XXXV, e art. 37, caput; Lei nº 4.717/1965, art. 2º; doutrina consolidada."
+  },
+  {
+    "id": "poderes-administrativos-02",
+    "topicoId": "poderes-administrativos",
+    "topico": "Poderes administrativos",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre os limites da discricionariedade administrativa e o emprego de conceitos jurídicos indeterminados, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "Conceitos jurídicos indeterminados, por sua fluidez, conferem à Administração liberdade absoluta de valoração, imune a qualquer controle." },
+      { "letra": "B", "texto": "A razoabilidade e a proporcionalidade são princípios aplicáveis apenas aos atos vinculados, pois nos discricionários prevalece o juízo de mérito." },
+      { "letra": "C", "texto": "A discricionariedade decorre exclusivamente do silêncio da lei, jamais de sua expressa outorga." },
+      { "letra": "D", "texto": "Ainda que a norma empregue conceitos jurídicos indeterminados, existe uma zona de certeza positiva e outra de certeza negativa insuscetíveis de valoração administrativa; a discricionariedade, se existente, restringe-se à zona cinzenta e submete-se ao controle de razoabilidade e proporcionalidade." },
+      { "letra": "E", "texto": "O controle da discricionariedade pelo Poder Judiciário implica, necessariamente, substituição do juízo administrativo pelo juízo judicial de conveniência." }
+    ],
+    "gabarito": "D",
+    "comentario": "D (correta): a doutrina (Celso Antônio Bandeira de Mello; Di Pietro) reconhece que os conceitos indeterminados comportam zonas de certeza, em que não há liberdade alguma, sobrando margem apenas na zona de penumbra, sempre controlável quanto à razoabilidade e à proporcionalidade, expressamente exigidas pelo art. 2º, parágrafo único, VI, da Lei nº 9.784/1999. A (errada): não existe liberdade imune a controle no Estado de Direito. B (errada): razoabilidade e proporcionalidade são justamente os principais parâmetros de controle da discricionariedade. C (errada): a discricionariedade decorre da outorga legal expressa, da fluidez dos conceitos ou da própria estrutura da norma, mas sempre da lei. E (errada): o controle judicial afere os limites externos do ato, sem substituir a valoração administrativa legítima.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, art. 2º, caput e parágrafo único, VI; CF/88, art. 5º, XXXV; doutrina consolidada."
+  },
+  {
+    "id": "poderes-administrativos-03",
+    "topicoId": "poderes-administrativos",
+    "topico": "Poderes administrativos",
+    "dificuldade": "media",
+    "enunciado": "São manifestações típicas do poder hierárquico:",
+    "alternativas": [
+      { "letra": "A", "texto": "dar ordens, fiscalizar, rever atos dos subordinados, delegar e avocar competências." },
+      { "letra": "B", "texto": "editar regulamentos autônomos, sustar atos normativos e conceder licenças aos administrados." },
+      { "letra": "C", "texto": "aplicar sanções a particulares, interditar estabelecimentos e apreender mercadorias irregulares." },
+      { "letra": "D", "texto": "expedir alvarás, celebrar contratos administrativos e homologar procedimentos licitatórios." },
+      { "letra": "E", "texto": "exercer controle finalístico sobre autarquias e fundações públicas vinculadas à Administração direta." }
+    ],
+    "gabarito": "A",
+    "comentario": "A (correta): o poder hierárquico estrutura-se internamente e se manifesta pelas prerrogativas de comando, fiscalização, revisão, delegação e avocação, estas duas últimas disciplinadas pelos arts. 11 a 15 da Lei nº 9.784/1999. B (errada): a edição de regulamentos decorre do poder regulamentar; a sustação de atos normativos exorbitantes é atribuição do Legislativo (CF/88, art. 49, V); a concessão de licenças decorre do poder de polícia. C (errada): descreve o poder de polícia em sua fase repressiva. D (errada): são atos de gestão administrativa e contratual, não expressões do poder hierárquico. E (errada): entre a Administração direta e as entidades da indireta há supervisão ou tutela (controle finalístico), e não hierarquia.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, arts. 11 a 15; CF/88, art. 49, V; Decreto-Lei nº 200/1967, art. 19 (supervisão ministerial, como parâmetro)."
+  },
+  {
+    "id": "poderes-administrativos-04",
+    "topicoId": "poderes-administrativos",
+    "topico": "Poderes administrativos",
+    "dificuldade": "dificil",
+    "enunciado": "Secretário Municipal delega a servidor ocupante de cargo de chefia a competência para decidir determinada classe de requerimentos. Sobre o regime jurídico da delegação e da avocação, é correto afirmar que:",
+    "alternativas": [
+      { "letra": "A", "texto": "a delegação, uma vez formalizada, é irrevogável até o término do exercício financeiro em que produzida." },
+      { "letra": "B", "texto": "os atos praticados pelo delegado são juridicamente imputados ao delegante, que responde por eles com exclusividade." },
+      { "letra": "C", "texto": "o ato de delegação é revogável a qualquer tempo pela autoridade delegante, deve ser publicado em meio oficial e as decisões adotadas por delegação devem mencionar explicitamente essa qualidade, considerando-se editadas pelo delegado." },
+      { "letra": "D", "texto": "a delegação somente é admissível entre órgãos hierarquicamente subordinados, sendo vedada a delegação a órgão não subordinado ainda que haja justificativa." },
+      { "letra": "E", "texto": "a avocação pode ser feita em caráter permanente, desde que precedida de revogação expressa da delegação." }
+    ],
+    "gabarito": "C",
+    "comentario": "C (correta): reúne as regras dos arts. 14, caput e §§ 1º a 3º, da Lei nº 9.784/1999 — publicação do ato de delegação, revogabilidade a qualquer tempo e imputação da decisão ao delegado, que deve mencionar essa qualidade. A (errada): a lei expressamente autoriza a revogação a qualquer tempo (art. 14, §2º). B (errada): o art. 14, §3º, atribui o ato ao delegado, e não ao delegante. D (errada): o art. 12 admite delegação a órgãos ou titulares ainda que não haja subordinação hierárquica, quando conveniente por circunstâncias de índole técnica, social, econômica, jurídica ou territorial. E (errada): a avocação é sempre temporária e excepcional (art. 15).",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, arts. 12, 13, 14, caput e §§ 1º a 3º, e 15."
+  },
+  {
+    "id": "poderes-administrativos-05",
+    "topicoId": "poderes-administrativos",
+    "topico": "Poderes administrativos",
+    "dificuldade": "media",
+    "enunciado": "Sobre o poder disciplinar, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "Alcança qualquer particular que descumpra normas administrativas, ainda que inexistente vínculo específico com a Administração." },
+      { "letra": "B", "texto": "Confunde-se com o poder de polícia, pois ambos resultam na aplicação de sanções administrativas." },
+      { "letra": "C", "texto": "É integralmente vinculado, tanto na apuração quanto na dosimetria da sanção aplicável." },
+      { "letra": "D", "texto": "Dispensa a instauração de processo prévio quando a infração for confessada pelo servidor." },
+      { "letra": "E", "texto": "Abrange a apuração de infrações e a aplicação de penalidades aos servidores públicos e aos demais sujeitos a disciplina administrativa em razão de vínculo específico com a Administração, como os contratados por ela." }
+    ],
+    "gabarito": "E",
+    "comentario": "E (correta): o poder disciplinar incide sobre quem mantém vínculo especial com a Administração — servidores e, também, particulares contratados (v. sanções contratuais da Lei nº 14.133/2021). A (errada): a sanção a particular sem vínculo específico decorre do poder de polícia, e não do disciplinar. B (errada): são poderes distintos quanto ao fundamento e ao destinatário, embora ambos culminem em sanção. C (errada): há discricionariedade na graduação da penalidade, observadas a natureza e a gravidade da infração (art. 128 da Lei nº 8.112/1990), embora a apuração seja dever (art. 143). D (errada): a confissão não afasta o devido processo legal, o contraditório e a ampla defesa (CF/88, art. 5º, LV).",
+    "fundamentacaoLegal": "CF/88, art. 5º, LV; Lei nº 8.112/1990, arts. 128 e 143; Lei nº 14.133/2021, arts. 155 e 156 (sanções a contratados)."
+  },
+  {
+    "id": "poderes-administrativos-06",
+    "topicoId": "poderes-administrativos",
+    "topico": "Poderes administrativos",
+    "dificuldade": "dificil",
+    "enunciado": "Servidor municipal responde, pelos mesmos fatos, a processo administrativo disciplinar e a ação penal. Sobre a relação entre as instâncias, é correto afirmar que:",
+    "alternativas": [
+      { "letra": "A", "texto": "a instância administrativa fica obrigatoriamente suspensa até o trânsito em julgado da sentença penal." },
+      { "letra": "B", "texto": "as sanções civis, penais e administrativas podem cumular-se, por serem independentes entre si; contudo, a responsabilidade administrativa é afastada quando a absolvição criminal negar a existência do fato ou a sua autoria." },
+      { "letra": "C", "texto": "a absolvição criminal por insuficiência de provas vincula a Administração e impõe o arquivamento do processo disciplinar." },
+      { "letra": "D", "texto": "a condenação criminal transitada em julgado impede a aplicação de penalidade administrativa pelos mesmos fatos, sob pena de bis in idem." },
+      { "letra": "E", "texto": "a independência das instâncias é absoluta, de modo que nenhuma decisão criminal repercute na esfera administrativa." }
+    ],
+    "gabarito": "B",
+    "comentario": "B (correta): é a conjugação dos arts. 125 e 126 da Lei nº 8.112/1990, parâmetro dos regimes estatutários — regra da independência com a exceção da absolvição criminal que nega o fato ou a autoria. A (errada): não há suspensão obrigatória do PAD por força do processo penal. C (errada): a absolvição por insuficiência de provas não nega o fato nem a autoria e, portanto, não repercute na esfera administrativa. D (errada): a cumulação de sanções de naturezas diversas não configura bis in idem. E (errada): a independência é a regra, mas comporta a exceção do art. 126.",
+    "fundamentacaoLegal": "Lei nº 8.112/1990, arts. 121, 125 e 126 (parâmetro); CF/88, art. 37, caput."
+  },
+  {
+    "id": "poderes-administrativos-07",
+    "topicoId": "poderes-administrativos",
+    "topico": "Poderes administrativos",
+    "dificuldade": "dificil",
+    "enunciado": "Autoridade municipal toma ciência de irregularidade praticada por servidor no exercício do cargo, mas deixa de adotar qualquer providência apuratória, por entender inconveniente a instauração de procedimento. Sobre a hipótese, é correto afirmar que:",
+    "alternativas": [
+      { "letra": "A", "texto": "a conduta é regular, pois o poder disciplinar é integralmente discricionário, inclusive quanto à decisão de apurar." },
+      { "letra": "B", "texto": "a conduta é regular, desde que a irregularidade não tenha causado prejuízo direto ao erário municipal." },
+      { "letra": "C", "texto": "a conduta é irregular, mas somente enseja responsabilização se houver dano moral coletivo comprovado." },
+      { "letra": "D", "texto": "a conduta é irregular, pois a autoridade que tem ciência de irregularidade no serviço público está obrigada a promover sua apuração imediata, mediante sindicância ou processo administrativo disciplinar, assegurada ao acusado ampla defesa, sendo discricionária apenas a dosimetria da sanção." },
+      { "letra": "E", "texto": "a conduta é irregular, cabendo à autoridade aplicar de imediato a penalidade cabível, independentemente de processo, dada a autoexecutoriedade dos atos disciplinares." }
+    ],
+    "gabarito": "D",
+    "comentario": "D (correta): o dever de apurar é vinculado (art. 143 da Lei nº 8.112/1990, tomado como parâmetro dos regimes estatutários municipais), remanescendo margem valorativa apenas na graduação da penalidade, conforme a natureza e a gravidade da infração (art. 128). A (errada): confunde a discricionariedade da dosimetria com uma inexistente liberdade de não apurar. B (errada): a ausência de dano ao erário não afasta o dever de apuração da falta funcional. C (errada): a omissão configura, em tese, infração funcional autônoma, independentemente de dano moral coletivo. E (errada): a aplicação de penalidade sem processo viola o contraditório e a ampla defesa (CF/88, art. 5º, LV).",
+    "fundamentacaoLegal": "Lei nº 8.112/1990, arts. 128 e 143 (parâmetro); CF/88, art. 5º, LV, e art. 37, caput."
+  },
+  {
+    "id": "poderes-administrativos-08",
+    "topicoId": "poderes-administrativos",
+    "topico": "Poderes administrativos",
+    "dificuldade": "media",
+    "enunciado": "Sobre o poder regulamentar e o regulamento executivo, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "Compete ao Chefe do Poder Executivo expedir decretos e regulamentos para a fiel execução das leis, sendo-lhe vedado inovar na ordem jurídica criando direitos ou obrigações não previstos em lei." },
+      { "letra": "B", "texto": "O regulamento executivo pode restringir direitos previstos em lei, desde que o faça de modo proporcional e motivado." },
+      { "letra": "C", "texto": "O poder regulamentar é privativo do Chefe do Executivo, não podendo ser exercido, sob qualquer forma, por outras autoridades administrativas." },
+      { "letra": "D", "texto": "Os regulamentos são atos administrativos individuais e concretos, dirigidos a destinatários determinados." },
+      { "letra": "E", "texto": "O regulamento executivo prevalece sobre a lei que regulamenta quando for editado posteriormente a ela." }
+    ],
+    "gabarito": "A",
+    "comentario": "A (correta): reproduz o art. 84, IV, da CF/88, aplicável por simetria a Prefeitos; o regulamento executivo é secundário e não pode inovar na ordem jurídica. B (errada): a criação ou restrição de direitos é matéria reservada à lei (CF/88, art. 5º, II). C (errada): outras autoridades expedem atos normativos secundários, como instruções e portarias (CF/88, art. 87, parágrafo único, II, por simetria). D (errada): regulamentos são atos gerais e abstratos. E (errada): o regulamento subordina-se à lei; se a extrapola, é ilegal e pode ser sustado pelo Legislativo (CF/88, art. 49, V).",
+    "fundamentacaoLegal": "CF/88, art. 5º, II; art. 84, IV; art. 87, parágrafo único, II; art. 49, V."
+  },
+  {
+    "id": "poderes-administrativos-09",
+    "topicoId": "poderes-administrativos",
+    "topico": "Poderes administrativos",
+    "dificuldade": "dificil",
+    "enunciado": "A Constituição Federal, no art. 84, VI, com a redação dada pela Emenda Constitucional nº 32/2001, admite o chamado decreto autônomo. Segundo esse dispositivo, o Chefe do Executivo pode dispor, mediante decreto, sobre:",
+    "alternativas": [
+      { "letra": "A", "texto": "criação e extinção de órgãos públicos, desde que sem aumento de despesa." },
+      { "letra": "B", "texto": "criação de cargos públicos e fixação da respectiva remuneração, observado o teto constitucional." },
+      { "letra": "C", "texto": "matéria tributária, quando necessária à regulamentação da atividade fiscalizatória." },
+      { "letra": "D", "texto": "regime jurídico dos servidores públicos, inclusive deveres, proibições e penalidades disciplinares." },
+      { "letra": "E", "texto": "organização e funcionamento da administração, quando não implicar aumento de despesa nem criação ou extinção de órgãos públicos, e extinção de funções ou cargos públicos, quando vagos." }
+    ],
+    "gabarito": "E",
+    "comentario": "E (correta): reproduz as alíneas 'a' e 'b' do inciso VI do art. 84 da CF/88, únicas hipóteses de decreto autônomo. A (errada): a criação e a extinção de órgãos públicos exigem lei, e o próprio inciso VI, 'a', as exclui expressamente. B (errada): a criação de cargos e a fixação de remuneração dependem de lei (CF/88, arts. 37, X, e 48, X). C (errada): matéria tributária submete-se à legalidade estrita (CF/88, art. 150, I). D (errada): o regime jurídico dos servidores, com deveres e penalidades, é matéria de lei em sentido formal.",
+    "fundamentacaoLegal": "CF/88, art. 84, VI, alíneas 'a' e 'b' (redação da EC nº 32/2001); arts. 37, X, 48, X, e 150, I."
+  },
+  {
+    "id": "poderes-administrativos-10",
+    "topicoId": "poderes-administrativos",
+    "topico": "Poderes administrativos",
+    "dificuldade": "media",
+    "enunciado": "Ato normativo expedido pelo Poder Executivo exorbita dos limites do poder regulamentar, criando obrigação não prevista na lei regulamentada. Sobre o controle dessa espécie de ato, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "O Poder Legislativo pode revogar o ato normativo, substituindo-o por outro de igual natureza." },
+      { "letra": "B", "texto": "O controle é exclusivamente judicial, pois o Legislativo não pode interferir em atos do Executivo." },
+      { "letra": "C", "texto": "Compete ao Poder Legislativo sustar os atos normativos do Poder Executivo que exorbitem do poder regulamentar ou dos limites de delegação legislativa, sem prejuízo do controle judicial de legalidade." },
+      { "letra": "D", "texto": "O ato é válido enquanto não declarado inconstitucional em controle concentrado, não cabendo sustação legislativa." },
+      { "letra": "E", "texto": "Cabe ao Tribunal de Contas sustar o ato normativo, comunicando o fato ao Legislativo apenas para ciência." }
+    ],
+    "gabarito": "C",
+    "comentario": "C (correta): é a competência do art. 49, V, da CF/88, aplicável por simetria às Câmaras Municipais, que convive com o controle judicial de legalidade. A (errada): o Legislativo susta a eficácia do ato, não o revoga nem o substitui. B (errada): há expresso controle legislativo previsto na Constituição. D (errada): a ilegalidade do regulamento que extrapola a lei enseja controle de legalidade, sem necessidade de declaração de inconstitucionalidade em controle concentrado. E (errada): quanto a contratos, o Tribunal de Contas comunica ao Legislativo, a quem cabe a sustação (CF/88, art. 71, §1º); não lhe compete sustar atos normativos do Executivo.",
+    "fundamentacaoLegal": "CF/88, art. 49, V; art. 71, IX e §1º; art. 84, IV."
+  },
+  {
+    "id": "poderes-administrativos-11",
+    "topicoId": "poderes-administrativos",
+    "topico": "Poderes administrativos",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre o fenômeno da deslegalização (ou delegificação) no direito administrativo brasileiro, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "Consiste na transferência, pelo Legislativo, da própria competência legislativa a órgãos administrativos, que passam a editar leis em sentido formal." },
+      { "letra": "B", "texto": "Consiste na retirada, pelo próprio legislador, de certa matéria do domínio da lei, transferindo-a ao domínio do regulamento, que passa a discipliná-la nos limites e segundo os standards fixados na própria lei deslegalizadora." },
+      { "letra": "C", "texto": "É vedada no ordenamento brasileiro, pois toda matéria administrativa está sujeita à reserva absoluta de lei." },
+      { "letra": "D", "texto": "Equivale ao decreto autônomo do art. 84, VI, da Constituição Federal, com ele se confundindo." },
+      { "letra": "E", "texto": "Autoriza a agência reguladora a inovar livremente na ordem jurídica, inclusive criando sanções e tipos infracionais não previstos em lei." }
+    ],
+    "gabarito": "B",
+    "comentario": "B (correta): na deslegalização o legislador rebaixa o patamar normativo de certa matéria, mantendo em lei os standards e parâmetros e permitindo que o regulamento a discipline em detalhe — construção invocada, sobretudo, para explicar o poder normativo técnico das agências reguladoras. A (errada): não há transferência de competência legislativa; o ato administrativo continua sendo secundário. C (errada): o ordenamento admite a técnica, desde que preservados os parâmetros legais. D (errada): o decreto autônomo tem fundamento direto na Constituição e hipóteses taxativas; a deslegalização pressupõe lei que rebaixa a matéria. E (errada): a criação de infrações e sanções depende de lei (CF/88, art. 5º, II), sendo esse um limite intransponível ao poder normativo das agências.",
+    "fundamentacaoLegal": "CF/88, art. 5º, II, e art. 84, IV; Lei nº 13.848/2019 (gestão e processo decisório das agências reguladoras); doutrina consolidada (Di Pietro; Rafael Oliveira)."
+  },
+  {
+    "id": "poderes-administrativos-12",
+    "topicoId": "poderes-administrativos",
+    "topico": "Poderes administrativos",
+    "dificuldade": "media",
+    "enunciado": "O conceito legal de poder de polícia, no direito brasileiro, encontra-se no art. 78 do Código Tributário Nacional. Segundo esse dispositivo, considera-se poder de polícia:",
+    "alternativas": [
+      { "letra": "A", "texto": "a atividade da administração pública que, limitando ou disciplinando direito, interesse ou liberdade, regula a prática de ato ou a abstenção de fato, em razão de interesse público concernente, entre outros, à segurança, à higiene, à ordem, aos costumes e à disciplina da produção e do mercado." },
+      { "letra": "B", "texto": "a atividade estatal de prevenção e repressão de infrações penais, exercida por órgãos de segurança pública." },
+      { "letra": "C", "texto": "a prerrogativa de a Administração impor sanções a seus servidores por infrações funcionais cometidas no exercício do cargo." },
+      { "letra": "D", "texto": "o conjunto de prerrogativas contratuais que autorizam a alteração e a rescisão unilaterais dos contratos administrativos." },
+      { "letra": "E", "texto": "a competência para editar atos normativos gerais e abstratos destinados à fiel execução das leis." }
+    ],
+    "gabarito": "A",
+    "comentario": "A (correta): reproduz o núcleo do art. 78 do CTN, cujo parágrafo único acrescenta que o exercício é regular quando desempenhado pelo órgão competente, nos limites da lei, com observância do processo legal e, tratando-se de atividade discricionária, sem abuso ou desvio de poder. B (errada): descreve a polícia judiciária, atividade distinta da polícia administrativa. C (errada): descreve o poder disciplinar. D (errada): descreve as cláusulas exorbitantes dos contratos administrativos (Lei nº 14.133/2021, art. 104). E (errada): descreve o poder regulamentar (CF/88, art. 84, IV).",
+    "fundamentacaoLegal": "CTN (Lei nº 5.172/1966), art. 78, caput e parágrafo único."
+  },
+  {
+    "id": "poderes-administrativos-13",
+    "topicoId": "poderes-administrativos",
+    "topico": "Poderes administrativos",
+    "dificuldade": "media",
+    "enunciado": "Sobre os atributos do poder de polícia, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A discricionariedade é atributo presente em todos os atos de polícia, não existindo atos de polícia vinculados." },
+      { "letra": "B", "texto": "A autoexecutoriedade está presente em todos os atos de polícia, inclusive na cobrança forçada de multas." },
+      { "letra": "C", "texto": "A coercibilidade é atributo dispensável, pois o poder de polícia depende sempre da anuência do particular." },
+      { "letra": "D", "texto": "São atributos comumente apontados a discricionariedade, a autoexecutoriedade e a coercibilidade, ressalvando-se que há atos de polícia vinculados, como a licença, e que a autoexecutoriedade não alcança a cobrança forçada de multa resistida." },
+      { "letra": "E", "texto": "A autoexecutoriedade autoriza a Administração a executar seus atos apenas após autorização judicial específica." }
+    ],
+    "gabarito": "D",
+    "comentario": "D (correta): a doutrina aponta os três atributos, mas com ressalvas relevantes — a licença é ato de polícia vinculado, e a cobrança forçada de multa não paga exige execução fiscal (Lei nº 6.830/1980). A (errada): há atos de polícia vinculados, sendo a licença o exemplo clássico. B (errada): a multa é exigível, mas sua cobrança forçada não é autoexecutória. C (errada): a coercibilidade é justamente a imposição independente da anuência do particular. E (errada): a exigência de autorização judicial prévia contraria a própria noção de autoexecutoriedade.",
+    "fundamentacaoLegal": "CTN, art. 78; Lei nº 6.830/1980, arts. 1º e 2º; doutrina consolidada (Di Pietro; Carvalho Filho)."
+  },
+  {
+    "id": "poderes-administrativos-14",
+    "topicoId": "poderes-administrativos",
+    "topico": "Poderes administrativos",
+    "dificuldade": "dificil",
+    "enunciado": "A doutrina decompõe o poder de polícia em quatro fases ou ciclos. Assinale a alternativa que os apresenta corretamente, na ordem lógica.",
+    "alternativas": [
+      { "letra": "A", "texto": "Consentimento, ordem, sanção e fiscalização." },
+      { "letra": "B", "texto": "Ordem, sanção, consentimento e fiscalização." },
+      { "letra": "C", "texto": "Ordem de polícia, consentimento de polícia, fiscalização de polícia e sanção de polícia." },
+      { "letra": "D", "texto": "Fiscalização, consentimento, ordem e sanção." },
+      { "letra": "E", "texto": "Ordem, fiscalização, sanção e consentimento." }
+    ],
+    "gabarito": "C",
+    "comentario": "C (correta): a ordem de polícia é a norma que limita a liberdade ou a propriedade; o consentimento é a anuência prévia (licença ou autorização); a fiscalização verifica o cumprimento; e a sanção reprime a infração. A, B, D e E (erradas): todas alteram a sequência lógica do ciclo. A distinção é relevante porque, no julgamento do Tema 532 da repercussão geral, o STF admitiu a delegação, por lei, das fases de consentimento, fiscalização e sanção a pessoa jurídica de direito privado integrante da Administração indireta, com capital majoritariamente público e regime não concorrencial, permanecendo indelegável a ordem de polícia, que é atividade legislativa.",
+    "fundamentacaoLegal": "CTN, art. 78; STF, RE 633.782 (Tema 532 da repercussão geral); doutrina consolidada."
+  },
+  {
+    "id": "poderes-administrativos-15",
+    "topicoId": "poderes-administrativos",
+    "topico": "Poderes administrativos",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre a delegação do poder de polícia a pessoas jurídicas de direito privado, segundo a tese fixada pelo Supremo Tribunal Federal no RE 633.782 (Tema 532 da repercussão geral), é correto afirmar que:",
+    "alternativas": [
+      { "letra": "A", "texto": "é vedada em qualquer hipótese, por se tratar de atividade indelegável, típica de Estado." },
+      { "letra": "B", "texto": "é livremente admitida a particulares em geral, mediante contrato administrativo de prestação de serviços." },
+      { "letra": "C", "texto": "é admitida apenas quanto à fase de fiscalização, sendo vedada a delegação do consentimento e da sanção." },
+      { "letra": "D", "texto": "é admitida a sociedades de economia mista que atuem em regime concorrencial, desde que autorizadas por decreto do Chefe do Executivo." },
+      { "letra": "E", "texto": "é constitucional a delegação, por meio de lei, a pessoas jurídicas de direito privado integrantes da Administração Pública indireta, de capital social majoritariamente público, que prestem exclusivamente serviço público de atuação própria do Estado e em regime não concorrencial." }
+    ],
+    "gabarito": "E",
+    "comentario": "E (correta): reproduz a tese do Tema 532, que exige lei autorizadora e o preenchimento cumulativo dos requisitos indicados; a ordem de polícia, por ser atividade legiferante, permanece indelegável. A (errada): a tese superou a vedação absoluta anteriormente sustentada por parte da doutrina. B (errada): a delegação a particulares estranhos à Administração indireta continua vedada, admitindo-se apenas a terceirização de atividades materiais de apoio. C (errada): o STF admitiu também consentimento e sanção, não apenas a fiscalização. D (errada): a atuação em regime concorrencial e a delegação por decreto afrontam a tese, que exige regime não concorrencial e lei.",
+    "fundamentacaoLegal": "STF, RE 633.782/MG (Tema 532 da repercussão geral); CF/88, art. 37, caput; CTN, art. 78."
+  },
+  {
+    "id": "poderes-administrativos-16",
+    "topicoId": "poderes-administrativos",
+    "topico": "Poderes administrativos",
+    "dificuldade": "media",
+    "enunciado": "Sobre a distinção entre polícia administrativa e polícia judiciária, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A polícia administrativa incide sobre pessoas, ao passo que a polícia judiciária incide sobre bens e atividades." },
+      { "letra": "B", "texto": "A polícia administrativa incide sobre bens, direitos e atividades, é regida predominantemente pelo Direito Administrativo e é exercida por diversos órgãos administrativos; a polícia judiciária incide sobre pessoas, destina-se à apuração de ilícitos penais e é exercida por corporações especializadas." },
+      { "letra": "C", "texto": "Ambas se destinam à apuração de infrações penais, distinguindo-se apenas pelo órgão executor." },
+      { "letra": "D", "texto": "A polícia administrativa é exercida exclusivamente por corporações policiais militares e civis." },
+      { "letra": "E", "texto": "A polícia judiciária é regida pelo Direito Administrativo e a polícia administrativa, pelo Direito Processual Penal." }
+    ],
+    "gabarito": "B",
+    "comentario": "B (correta): apresenta corretamente os três critérios usuais de distinção — objeto, regime jurídico e órgão executor. A (errada): inverte o critério do objeto. C (errada): apenas a polícia judiciária tem por finalidade a apuração de ilícitos penais; a administrativa é predominantemente preventiva e incide sobre ilícitos administrativos. D (errada): a polícia administrativa é exercida por múltiplos órgãos, como vigilância sanitária, fiscalização tributária, posturas municipais e órgãos ambientais. E (errada): inverte os regimes jurídicos aplicáveis.",
+    "fundamentacaoLegal": "CF/88, art. 144, §§ 1º e 4º; CTN, art. 78; doutrina consolidada."
+  },
+  {
+    "id": "poderes-administrativos-17",
+    "topicoId": "poderes-administrativos",
+    "topico": "Poderes administrativos",
+    "dificuldade": "media",
+    "enunciado": "Sobre o poder de polícia originário e o poder de polícia delegado, é correto afirmar que:",
+    "alternativas": [
+      { "letra": "A", "texto": "o poder de polícia originário é exercido pelos entes federativos por meio de sua Administração direta, ao passo que o delegado é o exercido por entidades da Administração indireta, mediante lei." },
+      { "letra": "B", "texto": "o poder de polícia originário é aquele exercido por autarquias e fundações públicas, e o delegado, o exercido pelos entes políticos." },
+      { "letra": "C", "texto": "a delegação de polícia pode ser feita por simples convênio administrativo, dispensada previsão legal." },
+      { "letra": "D", "texto": "o poder de polícia delegado alcança inclusive a edição de normas primárias limitadoras de direitos individuais." },
+      { "letra": "E", "texto": "somente a União detém poder de polícia originário, cabendo a Estados e Municípios exercê-lo por delegação." }
+    ],
+    "gabarito": "A",
+    "comentario": "A (correta): o poder de polícia originário nasce diretamente da lei e é exercido pelo próprio ente político por meio de sua Administração direta; o delegado é transferido, por lei, a entidades da Administração indireta, como autarquias fiscalizadoras. B (errada): inverte integralmente os conceitos. C (errada): a delegação depende de lei, não bastando ato convenial. D (errada): a criação de limitações primárias a direitos é matéria de lei (CF/88, art. 5º, II); a delegação alcança o exercício da atividade administrativa de polícia. E (errada): cada ente federativo exerce poder de polícia originário nos limites de sua competência constitucional, sendo o Município competente para assuntos de interesse local (CF/88, art. 30, I e VIII).",
+    "fundamentacaoLegal": "CF/88, art. 5º, II, e art. 30, I e VIII; CTN, art. 78; STF, RE 633.782 (Tema 532)."
+  },
+  {
+    "id": "poderes-administrativos-18",
+    "topicoId": "poderes-administrativos",
+    "topico": "Poderes administrativos",
+    "dificuldade": "dificil",
+    "enunciado": "Fiscal municipal, no exercício do poder de polícia, aplica multa a estabelecimento comercial que descumpriu normas de posturas. Decorrido o prazo para pagamento e esgotada a via administrativa, o autuado permanece inadimplente. Nessa situação, a Administração:",
+    "alternativas": [
+      { "letra": "A", "texto": "poderá promover a apreensão direta de bens do devedor, em valor equivalente ao da multa, com base na autoexecutoriedade." },
+      { "letra": "B", "texto": "poderá determinar o bloqueio administrativo das contas bancárias do autuado, independentemente de ordem judicial." },
+      { "letra": "C", "texto": "não poderá adotar qualquer medida, pois a multa não paga transforma-se em obrigação natural, inexigível." },
+      { "letra": "D", "texto": "deverá inscrever o débito em dívida ativa e promover a respectiva execução fiscal em juízo, uma vez que a cobrança forçada da multa não é autoexecutória." },
+      { "letra": "E", "texto": "deverá converter a multa em interdição do estabelecimento, por ser a única sanção autoexecutória admitida em direito administrativo." }
+    ],
+    "gabarito": "D",
+    "comentario": "D (correta): a aplicação da multa é ato exigível, mas sua satisfação forçada depende de inscrição em dívida ativa e de execução fiscal, na forma da Lei nº 6.830/1980. A (errada): não há autoexecutoriedade para expropriar bens do devedor; isso configuraria autotutela executiva vedada. B (errada): a constrição de ativos financeiros depende de ordem judicial. C (errada): o crédito é plenamente exigível e cobrável pela via judicial. E (errada): a conversão automática da multa em interdição careceria de base legal e violaria a tipicidade das sanções e o devido processo legal.",
+    "fundamentacaoLegal": "Lei nº 6.830/1980, arts. 1º e 2º; CTN, art. 78; CF/88, art. 5º, LIV e LV."
+  },
+  {
+    "id": "poderes-administrativos-19",
+    "topicoId": "poderes-administrativos",
+    "topico": "Poderes administrativos",
+    "dificuldade": "media",
+    "enunciado": "Sobre a taxa cobrada em razão do exercício do poder de polícia, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "É inconstitucional, pois o poder de polícia é atividade indelegável e não pode ser remunerada por tributo." },
+      { "letra": "B", "texto": "Pode ser instituída independentemente de o poder de polícia ser efetivamente exercido, bastando a previsão legal da atividade." },
+      { "letra": "C", "texto": "É constitucional a taxa de renovação de funcionamento e localização municipal, desde que efetivo o exercício do poder de polícia, demonstrado pela existência de órgão e estrutura competentes para o respectivo exercício." },
+      { "letra": "D", "texto": "Somente pode ser instituída pela União, dada a competência privativa para normas gerais em matéria tributária." },
+      { "letra": "E", "texto": "Tem por fato gerador a utilização, efetiva ou potencial, de serviço público específico e divisível prestado ao contribuinte." }
+    ],
+    "gabarito": "C",
+    "comentario": "C (correta): é a tese do Tema 217 da repercussão geral (RE 588.322), que dispensa a fiscalização porta a porta, contentando-se com a existência de órgão e estrutura aptos ao exercício da polícia administrativa. A (errada): a CF/88 prevê expressamente a taxa de polícia no art. 145, II. B (errada): a jurisprudência exige o efetivo exercício, ainda que presumido pela existência de aparato fiscalizatório. D (errada): a competência para instituir taxas é comum aos entes federativos, na medida de suas atribuições (CF/88, art. 145, II). E (errada): a hipótese descrita corresponde à taxa de serviço, e não à taxa de polícia (CTN, art. 77).",
+    "fundamentacaoLegal": "CF/88, art. 145, II; CTN, arts. 77 e 78; STF, RE 588.322 (Tema 217 da repercussão geral)."
+  },
+  {
+    "id": "poderes-administrativos-20",
+    "topicoId": "poderes-administrativos",
+    "topico": "Poderes administrativos",
+    "dificuldade": "dificil",
+    "enunciado": "A Lei nº 9.873/1999 estabelece prazo de prescrição para o exercício da ação punitiva pela Administração Pública Federal, direta e indireta, no exercício do poder de polícia. Sobre esse diploma, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A ação punitiva prescreve em três anos, contados da data da prática do ato, sem qualquer hipótese de interrupção." },
+      { "letra": "B", "texto": "A lei aplica-se também às infrações de natureza funcional e aos processos de natureza tributária." },
+      { "letra": "C", "texto": "Não há prescrição intercorrente no processo administrativo sancionador regido por essa lei." },
+      { "letra": "D", "texto": "A notificação ou citação do indiciado não interrompe o curso do prazo prescricional." },
+      { "letra": "E", "texto": "A ação punitiva prescreve em cinco anos, contados da data da prática do ato ou, no caso de infração permanente ou continuada, do dia em que tiver cessado, incidindo ainda a prescrição intercorrente no procedimento paralisado por mais de três anos, pendente de julgamento ou despacho." }
+    ],
+    "gabarito": "E",
+    "comentario": "E (correta): conjuga o art. 1º, caput, e o §1º da Lei nº 9.873/1999. A (errada): o prazo é quinquenal e há causas interruptivas expressas no art. 2º. B (errada): o art. 5º exclui expressamente do âmbito da lei as infrações de natureza funcional e os processos e procedimentos de natureza tributária. C (errada): a prescrição intercorrente trienal está prevista no art. 1º, §1º. D (errada): a notificação ou citação do indiciado ou acusado, inclusive por edital, é causa interruptiva prevista no art. 2º, I.",
+    "fundamentacaoLegal": "Lei nº 9.873/1999, arts. 1º, caput e §1º, 2º, I, e 5º."
+  },
+  {
+    "id": "poderes-administrativos-21",
+    "topicoId": "poderes-administrativos",
+    "topico": "Poderes administrativos",
+    "dificuldade": "media",
+    "enunciado": "Sobre o abuso de poder e suas espécies, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "O excesso de poder ocorre quando o agente pratica o ato visando a fim diverso do previsto na regra de competência." },
+      { "letra": "B", "texto": "O excesso de poder configura-se quando o agente, competente para praticar o ato, atua além dos limites de suas atribuições; o desvio de poder ocorre quando o agente, ainda que competente, pratica o ato buscando finalidade diversa daquela prevista, explícita ou implicitamente, na regra de competência." },
+      { "letra": "C", "texto": "O desvio de poder é vício de forma, sanável por convalidação da autoridade superior." },
+      { "letra": "D", "texto": "O abuso de poder somente se configura por ação, jamais por omissão da autoridade administrativa." },
+      { "letra": "E", "texto": "O excesso de poder atinge o elemento finalidade, ao passo que o desvio de poder atinge o elemento competência." }
+    ],
+    "gabarito": "B",
+    "comentario": "B (correta): o excesso de poder é vício de competência (atuação além dos limites das atribuições); o desvio de poder é vício de finalidade, conforme o art. 2º, parágrafo único, alínea 'e', da Lei nº 4.717/1965. A (errada): a definição apresentada é a de desvio de poder. C (errada): o desvio de poder é vício de finalidade, substancial e insanável. D (errada): o abuso pode manifestar-se por omissão, como na inércia deliberada em decidir, sendo cabível inclusive mandado de segurança (Lei nº 12.016/2009, art. 1º). E (errada): há inversão dos elementos viciados.",
+    "fundamentacaoLegal": "Lei nº 4.717/1965, art. 2º, alíneas 'a' e 'e', e parágrafo único, alíneas 'a' e 'e'; Lei nº 12.016/2009, art. 1º."
+  },
+  {
+    "id": "poderes-administrativos-22",
+    "topicoId": "poderes-administrativos",
+    "topico": "Poderes administrativos",
+    "dificuldade": "dificil",
+    "enunciado": "Prefeito Municipal decreta a desapropriação de imóvel, declarando-o de utilidade pública para a construção de escola, quando, na realidade, sua intenção é prejudicar o proprietário, opositor político. Sobre a hipótese, é correto afirmar que:",
+    "alternativas": [
+      { "letra": "A", "texto": "configura-se desvio de finalidade, vício que atinge elemento sempre vinculado do ato e que enseja sua invalidação, podendo ser impugnado inclusive por ação popular." },
+      { "letra": "B", "texto": "configura-se excesso de poder, uma vez que o Prefeito atuou fora dos limites de sua competência legal." },
+      { "letra": "C", "texto": "o ato é válido, pois presente o interesse público objetivo consubstanciado na construção da escola, sendo irrelevante a intenção do agente." },
+      { "letra": "D", "texto": "o vício é sanável por convalidação, bastando que o Município comprove posteriormente a efetiva construção do equipamento público." },
+      { "letra": "E", "texto": "o controle desse ato é impossível, por envolver o mérito administrativo, insindicável pelo Poder Judiciário." }
+    ],
+    "gabarito": "A",
+    "comentario": "A (correta): o desvio de finalidade (ou desvio de poder) verifica-se quando o agente busca fim diverso do previsto na regra de competência, sendo causa de nulidade e fundamento típico de ação popular (Lei nº 4.717/1965, art. 2º, alínea 'e', e parágrafo único, alínea 'e'; art. 5º, LXXIII, da CF/88). B (errada): não há atuação fora da competência — o Prefeito é competente para declarar a utilidade pública (Decreto-Lei nº 3.365/1941, art. 6º); o vício é de finalidade. C (errada): a finalidade desviada contamina o ato ainda que exista aparente justificativa objetiva. D (errada): vício de finalidade é insanável, não comportando convalidação. E (errada): o controle do desvio de finalidade é controle de legalidade, plenamente admitido.",
+    "fundamentacaoLegal": "CF/88, art. 5º, LXXIII; Lei nº 4.717/1965, art. 2º, alínea 'e', e parágrafo único, alínea 'e'; Decreto-Lei nº 3.365/1941, arts. 2º, 5º e 6º."
+  },
+  {
+    "id": "poderes-administrativos-23",
+    "topicoId": "poderes-administrativos",
+    "topico": "Poderes administrativos",
+    "dificuldade": "media",
+    "enunciado": "Município edita lei que, no exercício do poder de polícia urbanístico, fixa gabarito máximo de altura para as edificações de determinado bairro, atingindo indistintamente todos os imóveis ali situados. Sobre a medida, é correto afirmar que:",
+    "alternativas": [
+      { "letra": "A", "texto": "trata-se de desapropriação indireta, gerando direito à indenização integral do valor de mercado do imóvel." },
+      { "letra": "B", "texto": "trata-se de servidão administrativa, que exige registro no cartório de imóveis e indenização prévia." },
+      { "letra": "C", "texto": "trata-se de requisição administrativa, cabível apenas em caso de iminente perigo público." },
+      { "letra": "D", "texto": "trata-se de tombamento, que impõe ao proprietário o dever de conservação do bem." },
+      { "letra": "E", "texto": "trata-se de limitação administrativa, de caráter geral e abstrato, que em regra não gera dever de indenizar, salvo se houver esvaziamento do conteúdo econômico da propriedade, com dano especial e anormal comprovado." }
+    ],
+    "gabarito": "E",
+    "comentario": "E (correta): a limitação administrativa é imposição geral, abstrata e gratuita que condiciona o exercício do direito de propriedade em favor do interesse coletivo, decorrendo do poder de polícia e da função social da propriedade; não gera, em regra, dever indenizatório. A (errada): a desapropriação indireta pressupõe apossamento administrativo do bem, o que não ocorre. B (errada): a servidão administrativa incide sobre imóvel determinado, impondo ônus real específico. C (errada): a requisição pressupõe iminente perigo público e uso do bem pela Administração (CF/88, art. 5º, XXV). D (errada): o tombamento visa à proteção do patrimônio cultural e recai sobre bem determinado.",
+    "fundamentacaoLegal": "CF/88, art. 5º, XXII, XXIII e XXV, e art. 182; CTN, art. 78; Decreto-Lei nº 25/1937 (tombamento); doutrina consolidada."
+  },
+  {
+    "id": "poderes-administrativos-24",
+    "topicoId": "poderes-administrativos",
+    "topico": "Poderes administrativos",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre o poder normativo das agências reguladoras, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "As agências reguladoras exercem função legislativa delegada, editando normas primárias com força de lei." },
+      { "letra": "B", "texto": "As agências reguladoras não possuem qualquer competência normativa, limitando-se a fiscalizar contratos de concessão." },
+      { "letra": "C", "texto": "O poder normativo das agências é de natureza técnica e secundária, subordinado aos parâmetros fixados em lei, não podendo criar direitos, obrigações ou sanções não previstos legalmente." },
+      { "letra": "D", "texto": "As normas expedidas pelas agências reguladoras prevalecem sobre leis ordinárias que disciplinem o mesmo setor, em razão da especialidade técnica." },
+      { "letra": "E", "texto": "As agências reguladoras podem, por resolução, criar infrações administrativas e cominar as respectivas penalidades, independentemente de previsão legal." }
+    ],
+    "gabarito": "C",
+    "comentario": "C (correta): o poder normativo das agências é secundário e técnico, exercido nos limites dos standards legais, conforme exige a legalidade (CF/88, art. 5º, II) e a disciplina do processo decisório regulatório da Lei nº 13.848/2019. A (errada): não há delegação de função legislativa; as normas das agências são infralegais. B (errada): as agências detêm, sim, competência normativa setorial. D (errada): ato infralegal jamais prevalece sobre lei. E (errada): a tipificação de infrações e a cominação de sanções dependem de lei, podendo o ato regulatório apenas detalhar parâmetros previamente fixados.",
+    "fundamentacaoLegal": "CF/88, art. 5º, II, e art. 37, caput; Lei nº 13.848/2019, arts. 6º e 9º; doutrina consolidada."
+  },
+  {
+    "id": "poderes-administrativos-25",
+    "topicoId": "poderes-administrativos",
+    "topico": "Poderes administrativos",
+    "dificuldade": "dificil",
+    "enunciado": "Secretário Municipal de Administração pretende reformar, no exercício do poder hierárquico, decisão proferida por autarquia municipal em processo administrativo de sua competência legal. Sobre a hipótese, é correto afirmar que:",
+    "alternativas": [
+      { "letra": "A", "texto": "a reforma é possível, pois entre a Administração direta e a indireta existe relação de subordinação hierárquica plena." },
+      { "letra": "B", "texto": "a reforma é possível, desde que precedida de avocação da competência da autarquia, na forma do art. 15 da Lei nº 9.784/1999." },
+      { "letra": "C", "texto": "a reforma é possível independentemente de previsão legal, bastando a demonstração do interesse público." },
+      { "letra": "D", "texto": "a reforma não é possível com fundamento em hierarquia, pois entre a Administração direta e as entidades da Administração indireta há vinculação e controle finalístico (tutela), admitindo-se recurso hierárquico impróprio apenas quando expressamente previsto em lei." },
+      { "letra": "E", "texto": "a reforma não é possível em nenhuma hipótese, pois as autarquias gozam de independência funcional absoluta em relação ao ente instituidor." }
+    ],
+    "gabarito": "D",
+    "comentario": "D (correta): não há hierarquia entre entes da Administração direta e entidades da indireta, mas supervisão ou controle finalístico; o chamado recurso hierárquico impróprio depende de expressa previsão legal. A (errada): confunde vinculação com subordinação. B (errada): a avocação pressupõe subordinação hierárquica (art. 15 da Lei nº 9.784/1999), inexistente na hipótese. C (errada): o interesse público não supre a ausência de competência legal. E (errada): a autonomia das autarquias não é absoluta — subsistem o controle finalístico, o controle externo e a autotutela dentro da própria entidade.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, art. 15; Decreto-Lei nº 200/1967, arts. 4º, 19 e 26 (supervisão e controle finalístico); CF/88, art. 37, caput."
+  },
+  {
+    "id": "poderes-administrativos-26",
+    "topicoId": "poderes-administrativos",
+    "topico": "Poderes administrativos",
+    "dificuldade": "media",
+    "enunciado": "No exercício do poder disciplinar, o Município instaura processo administrativo disciplinar contra servidor, que se defende pessoalmente, sem constituir advogado. Sobre a validade do processo, à luz da jurisprudência do Supremo Tribunal Federal, é correto afirmar que:",
+    "alternativas": [
+      { "letra": "A", "texto": "a falta de defesa técnica por advogado no processo administrativo disciplinar não ofende a Constituição, conforme a Súmula Vinculante 5." },
+      { "letra": "B", "texto": "o processo é nulo, pois é obrigatória a presença de advogado em todas as fases do processo administrativo disciplinar." },
+      { "letra": "C", "texto": "o processo é válido apenas se o servidor houver renunciado expressamente à assistência de advogado em termo próprio." },
+      { "letra": "D", "texto": "a nulidade depende da comprovação de que o servidor era hipossuficiente e não tinha condições financeiras de contratar advogado." },
+      { "letra": "E", "texto": "o processo é nulo somente se dele resultar a penalidade de demissão, sendo válido nas demais hipóteses." }
+    ],
+    "gabarito": "A",
+    "comentario": "A (correta): a Súmula Vinculante 5 do STF dispõe que a falta de defesa técnica por advogado no PAD não ofende a Constituição, exigindo-se, ainda assim, contraditório e ampla defesa efetivos. B (errada): esse era o teor da Súmula 343 do STJ, superada pela Súmula Vinculante 5. C (errada): a lei não condiciona a validade a termo de renúncia. D (errada): a hipossuficiência não é critério adotado pela súmula. E (errada): a súmula não distingue conforme a penalidade aplicada.",
+    "fundamentacaoLegal": "Súmula Vinculante 5 do STF; CF/88, art. 5º, LV; Lei nº 8.112/1990, art. 143 (parâmetro)."
+  },
+  {
+    "id": "poderes-administrativos-27",
+    "topicoId": "poderes-administrativos",
+    "topico": "Poderes administrativos",
+    "dificuldade": "media",
+    "enunciado": "Durante ação fiscalizatória, agente municipal constata que restaurante armazena alimentos em condições que oferecem risco iminente e grave à saúde pública, e determina, de imediato, a interdição do estabelecimento e a inutilização dos gêneros deteriorados. Sobre a atuação, é correto afirmar que:",
+    "alternativas": [
+      { "letra": "A", "texto": "é ilegal, pois medidas dessa natureza dependem sempre de prévia autorização judicial." },
+      { "letra": "B", "texto": "é legítima, por decorrer do poder de polícia, cujos atributos de autoexecutoriedade e coercibilidade autorizam a atuação material imediata em situação de risco iminente, assegurado o contraditório posterior." },
+      { "letra": "C", "texto": "é ilegal, pois o poder de polícia municipal não alcança a fiscalização sanitária, matéria de competência exclusiva da União." },
+      { "letra": "D", "texto": "é legítima, mas depende de prévia instauração de processo administrativo com contraditório, sob pena de nulidade, ainda que haja risco iminente." },
+      { "letra": "E", "texto": "é ilegítima, pois a inutilização de bens configura confisco vedado pela Constituição Federal." }
+    ],
+    "gabarito": "B",
+    "comentario": "B (correta): em situações de risco iminente, a autoexecutoriedade autoriza a atuação material imediata, com contraditório diferido, solução compatível com o art. 45 da Lei nº 9.784/1999, que admite medidas acautelatórias em caso de risco iminente. A (errada): a exigência de autorização judicial prévia esvaziaria a autoexecutoriedade e comprometeria a proteção da saúde pública. C (errada): a competência para cuidar da saúde e da vigilância sanitária é comum (CF/88, art. 23, II), cabendo ao Município legislar sobre assuntos de interesse local e suplementar a legislação federal e estadual (CF/88, art. 30, I e II). D (errada): a urgência autoriza a inversão do contraditório, que é assegurado posteriormente. E (errada): a inutilização de bens nocivos à saúde é medida de polícia sanitária, e não confisco.",
+    "fundamentacaoLegal": "CF/88, arts. 23, II, e 30, I e II; CTN, art. 78; Lei nº 9.784/1999, art. 45."
+  },
+  {
+    "id": "poderes-administrativos-28",
+    "topicoId": "poderes-administrativos",
+    "topico": "Poderes administrativos",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre os meios de atuação e o conteúdo do poder de polícia administrativa, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "O poder de polícia atua exclusivamente de forma repressiva, mediante a aplicação de sanções ao infrator." },
+      { "letra": "B", "texto": "O poder de polícia impõe ao particular, tipicamente, obrigações de dar e de fazer de conteúdo positivo, sendo excepcional a imposição de abstenções." },
+      { "letra": "C", "texto": "O poder de polícia manifesta-se por atos normativos gerais e por atos concretos, preventivos, fiscalizatórios e repressivos, impondo ao particular, em regra, obrigações negativas (de não fazer), com fundamento na supremacia geral do Estado sobre os administrados." },
+      { "letra": "D", "texto": "O poder de polícia decorre da supremacia especial do Estado, exigindo vínculo jurídico específico entre a Administração e o destinatário da medida." },
+      { "letra": "E", "texto": "O poder de polícia, por incidir sobre a liberdade e a propriedade, gera sempre dever de indenizar o particular atingido pela medida restritiva." }
+    ],
+    "gabarito": "C",
+    "comentario": "C (correta): a polícia administrativa atua de modo normativo, preventivo, fiscalizatório e repressivo, com conteúdo predominantemente negativo (abstenções), fundando-se na supremacia geral que o Estado exerce sobre todos os administrados. A (errada): a atuação preventiva (licenças, autorizações, fiscalizações) é tão típica quanto a repressiva. B (errada): inverte a regra e a exceção quanto ao conteúdo das obrigações impostas. D (errada): a supremacia especial fundamenta o poder disciplinar, que pressupõe vínculo jurídico específico. E (errada): as restrições gerais decorrentes do poder de polícia não são, em regra, indenizáveis, salvo dano especial e anormal.",
+    "fundamentacaoLegal": "CTN, art. 78; CF/88, art. 5º, XXII e XXIII, e art. 170, parágrafo único; doutrina consolidada (Celso Antônio Bandeira de Mello — supremacia geral e supremacia especial)."
+  },
+  {
+    "id": "poderes-administrativos-29",
+    "topicoId": "poderes-administrativos",
+    "topico": "Poderes administrativos",
+    "dificuldade": "media",
+    "enunciado": "Na fase de consentimento do poder de polícia, a Administração pode expedir licenças ou autorizações. Sobre a distinção entre esses atos, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A licença é ato discricionário e precário; a autorização é ato vinculado e definitivo." },
+      { "letra": "B", "texto": "Ambas são atos vinculados, distinguindo-se apenas quanto à autoridade competente para expedi-las." },
+      { "letra": "C", "texto": "Ambas são atos discricionários e precários, revogáveis a qualquer tempo sem indenização." },
+      { "letra": "D", "texto": "A licença é ato vinculado e definitivo, pelo qual a Administração reconhece direito preexistente do particular que preencheu os requisitos legais; a autorização é ato discricionário e precário, expedido no interesse predominantemente privado, podendo ser revogada." },
+      { "letra": "E", "texto": "A licença dirige-se a atividades de interesse predominantemente público, e a autorização, a atividades de interesse exclusivamente estatal." }
+    ],
+    "gabarito": "D",
+    "comentario": "D (correta): a distinção clássica reside no grau de vinculação e na precariedade — a licença é vinculada e definitiva; a autorização é discricionária e precária. A (errada): inverte integralmente as características. B (errada): a autorização é discricionária, e a distinção não se resume à competência. C (errada): a licença não é precária nem discricionária, e sua revogação, quando excepcionalmente admitida por interesse público superveniente, tende a gerar dever de indenizar. E (errada): a licença atende a interesse do particular que cumpre requisitos legais, e a autorização, a interesse predominantemente privado com anuência precária do Estado.",
+    "fundamentacaoLegal": "CTN, art. 78; CF/88, art. 5º, XIII e XXII; doutrina consolidada (Di Pietro; Carvalho Filho)."
+  },
+  {
+    "id": "poderes-administrativos-30",
+    "topicoId": "poderes-administrativos",
+    "topico": "Poderes administrativos",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre o controle do abuso de poder e os instrumentos de sua correção, assinale a alternativa INCORRETA.",
+    "alternativas": [
+      { "letra": "A", "texto": "O mandado de segurança é cabível para proteger direito líquido e certo, não amparado por habeas corpus ou habeas data, contra ilegalidade ou abuso de poder de autoridade pública ou de agente de pessoa jurídica no exercício de atribuições do Poder Público." },
+      { "letra": "B", "texto": "O abuso de poder pode manifestar-se por omissão, como na inércia injustificada da autoridade em decidir requerimento formulado pelo administrado." },
+      { "letra": "C", "texto": "A ação popular é instrumento apto a impugnar ato lesivo ao patrimônio público praticado com desvio de finalidade." },
+      { "letra": "D", "texto": "A Administração pode, no exercício da autotutela, anular de ofício ato praticado com excesso ou desvio de poder, independentemente de provocação do interessado." },
+      { "letra": "E", "texto": "O reconhecimento judicial do desvio de finalidade autoriza o magistrado a substituir a decisão administrativa por outra que repute mais conveniente ao interesse público." }
+    ],
+    "gabarito": "E",
+    "comentario": "E (INCORRETA, sendo o gabarito): reconhecido o vício, o Judiciário anula o ato e determina, se for o caso, que a Administração decida novamente de forma legítima, mas não substitui a valoração administrativa por juízo próprio de conveniência, sob pena de violação do art. 2º da CF/88. A (correta): reproduz o art. 1º da Lei nº 12.016/2009. B (correta): o abuso omissivo é reconhecido pela doutrina e pela jurisprudência, sendo o dever de decidir expresso nos arts. 48 e 49 da Lei nº 9.784/1999. C (correta): a ação popular tem previsão no art. 5º, LXXIII, da CF/88 e na Lei nº 4.717/1965, cujo art. 2º arrola o desvio de finalidade como causa de nulidade. D (correta): decorre das Súmulas 346 e 473 do STF e do art. 53 da Lei nº 9.784/1999.",
+    "fundamentacaoLegal": "CF/88, arts. 2º, 5º, XXXV e LXXIII; Lei nº 12.016/2009, art. 1º; Lei nº 4.717/1965, art. 2º; Lei nº 9.784/1999, arts. 48, 49 e 53; Súmulas 346 e 473 do STF."
+  }
+]
