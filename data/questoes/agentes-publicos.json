@@ -1,0 +1,512 @@
+[
+  {
+    "id": "agentes-publicos-01",
+    "topicoId": "agentes-publicos",
+    "topico": "Agentes públicos",
+    "dificuldade": "media",
+    "enunciado": "Sobre o conceito e a abrangência da expressão agente público, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "Os empregados de empresas públicas e de sociedades de economia mista não são agentes públicos, por se submeterem ao regime celetista." },
+      { "letra": "B", "texto": "Os agentes políticos ocupam cargos de provimento efetivo, com ingresso obrigatório mediante concurso público." },
+      { "letra": "C", "texto": "Agente público é toda pessoa física que exerce, ainda que transitoriamente ou sem remuneração, por eleição, nomeação, designação, contratação ou qualquer outra forma de investidura ou vínculo, mandato, cargo, emprego ou função nas entidades da Administração Pública." },
+      { "letra": "D", "texto": "Os particulares em colaboração com o Poder Público não se qualificam como agentes públicos, por ausência de vínculo funcional permanente." },
+      { "letra": "E", "texto": "Somente são agentes públicos os titulares de cargos de provimento efetivo criados por lei e remunerados pelos cofres públicos." }
+    ],
+    "gabarito": "C",
+    "comentario": "C (correta): a definição ampla corresponde à do art. 2º da Lei nº 8.429/1992, com a redação da Lei nº 14.230/2021, e à doutrina, que abrange qualquer forma de investidura, ainda que transitória ou gratuita. A (errada): o regime celetista não descaracteriza a condição de agente público; os empregados de estatais são servidores de entes governamentais de direito privado. B (errada): agentes políticos titularizam cargos estruturais do arcabouço constitucional, com investidura, em regra, por eleição ou nomeação, e não por concurso. D (errada): jurados, mesários e requisitados são exemplos clássicos de particulares em colaboração, que são agentes públicos. E (errada): a definição legal e doutrinária abrange também empregos, funções, mandatos e vínculos transitórios ou não remunerados.",
+    "fundamentacaoLegal": "Lei nº 8.429/1992, art. 2º (redação da Lei nº 14.230/2021); CF/88, art. 37, caput e incisos I e II."
+  },
+  {
+    "id": "agentes-publicos-02",
+    "topicoId": "agentes-publicos",
+    "topico": "Agentes públicos",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre a categoria dos agentes políticos, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "Compreende todos os ocupantes de cargos em comissão de livre nomeação e exoneração, em razão da fidúcia que caracteriza o vínculo." },
+      { "letra": "B", "texto": "Submete-se, em regra, ao regime celetista, por não titularizar cargos de provimento efetivo." },
+      { "letra": "C", "texto": "Integram a categoria os servidores efetivos que exercem funções de chefia, direção e assessoramento superior." },
+      { "letra": "D", "texto": "Seus integrantes ingressam necessariamente mediante concurso público, ressalvados apenas os cargos eletivos." },
+      { "letra": "E", "texto": "Compreende os titulares de cargos estruturais à organização política do País, integrantes do arcabouço constitucional do Estado, como os Chefes do Poder Executivo, seus auxiliares imediatos e os membros do Poder Legislativo, cujo vínculo é de natureza institucional e, em regra, temporário." }
+    ],
+    "gabarito": "E",
+    "comentario": "E (correta): a definição corresponde à formulação clássica de Celso Antônio Bandeira de Mello, que enfatiza a natureza institucional do vínculo e a inserção do agente na estrutura constitucional do Estado. A (errada): a ocupação de cargo em comissão, por si só, não confere status de agente político; a maioria dos comissionados é servidor administrativo. B (errada): o vínculo dos agentes políticos é estatutário-institucional ou decorrente de mandato, não contratual celetista. C (errada): chefia e assessoramento são atribuições típicas de servidores administrativos, não de agentes políticos. D (errada): agentes políticos, em regra, investem-se por eleição ou nomeação, e não por concurso público.",
+    "fundamentacaoLegal": "CF/88, arts. 2º, 27, 28, 29, 37, 76 e 84; doutrina consolidada (Celso Antônio Bandeira de Mello; Di Pietro)."
+  },
+  {
+    "id": "agentes-publicos-03",
+    "topicoId": "agentes-publicos",
+    "topico": "Agentes públicos",
+    "dificuldade": "media",
+    "enunciado": "Assinale a alternativa que apresenta APENAS exemplos de particulares em colaboração com o Poder Público.",
+    "alternativas": [
+      { "letra": "A", "texto": "Servidores ocupantes de cargo efetivo e empregados públicos concursados." },
+      { "letra": "B", "texto": "Jurados, mesários eleitorais, convocados para o serviço militar obrigatório e titulares de serventias extrajudiciais (notários e registradores)." },
+      { "letra": "C", "texto": "Ministros de Estado, Secretários Municipais e Vereadores." },
+      { "letra": "D", "texto": "Empregados de empresas públicas e de sociedades de economia mista." },
+      { "letra": "E", "texto": "Ocupantes de cargos em comissão e titulares de funções de confiança." }
+    ],
+    "gabarito": "B",
+    "comentario": "B (correta): a categoria abrange os agentes honoríficos (jurados e mesários), os requisitados (convocados para o serviço militar) e os delegados (notários e registradores, que exercem a atividade em caráter privado por delegação do Poder Público, na forma do art. 236 da CF/88). A (errada): são servidores públicos estatutários e celetistas, não particulares em colaboração. C (errada): são agentes políticos. D (errada): são servidores de entes governamentais de direito privado. E (errada): são servidores públicos em sentido amplo, ainda que sem vínculo efetivo.",
+    "fundamentacaoLegal": "CF/88, art. 5º, XXXVIII, art. 143 e art. 236; doutrina consolidada (Celso Antônio Bandeira de Mello; Hely Lopes Meirelles)."
+  },
+  {
+    "id": "agentes-publicos-04",
+    "topicoId": "agentes-publicos",
+    "topico": "Agentes públicos",
+    "dificuldade": "media",
+    "enunciado": "Sobre cargo, emprego e função pública, é correto afirmar que:",
+    "alternativas": [
+      { "letra": "A", "texto": "cargo público é o conjunto de atribuições e responsabilidades criado por lei, com denominação própria e vencimento pago pelos cofres públicos, provido em caráter efetivo ou em comissão; emprego público corresponde a vínculo contratual regido pela legislação trabalhista; e função pública é o conjunto de atribuições ao qual não corresponde um cargo, como as funções de confiança e as exercidas por contratados temporários." },
+      { "letra": "B", "texto": "todo cargo público pressupõe prévia aprovação em concurso público, sem qualquer exceção constitucional." },
+      { "letra": "C", "texto": "cargo público e emprego público são expressões sinônimas, sujeitas ao mesmo regime jurídico estatutário." },
+      { "letra": "D", "texto": "a função de confiança pode ser atribuída indistintamente a servidores efetivos e a pessoas estranhas ao serviço público." },
+      { "letra": "E", "texto": "cargos públicos podem ser criados por decreto do Chefe do Poder Executivo, desde que a medida não implique aumento de despesa." }
+    ],
+    "gabarito": "A",
+    "comentario": "A (correta): sintetiza corretamente a tríade, na linha do art. 3º da Lei nº 8.112/1990 e do art. 37, II e V, da CF/88. B (errada): os cargos em comissão declarados em lei de livre nomeação e exoneração são exceção expressa (art. 37, II, parte final). C (errada): o emprego público é regido pela legislação trabalhista, ao passo que o cargo é regido por estatuto. D (errada): as funções de confiança são exercidas exclusivamente por servidores ocupantes de cargo efetivo (art. 37, V). E (errada): a criação de cargos públicos depende de lei; o decreto autônomo do art. 84, VI, 'b', permite apenas a extinção de funções ou cargos públicos quando vagos.",
+    "fundamentacaoLegal": "CF/88, art. 37, II e V, art. 48, X, e art. 84, VI, 'b'; Lei nº 8.112/1990, art. 3º."
+  },
+  {
+    "id": "agentes-publicos-05",
+    "topicoId": "agentes-publicos",
+    "topico": "Agentes públicos",
+    "dificuldade": "media",
+    "enunciado": "Nos termos do art. 37, II, da Constituição Federal, sobre a exigência de concurso público, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A investidura em cargo ou emprego público depende de aprovação prévia em concurso público, não se admitindo qualquer exceção constitucional." },
+      { "letra": "B", "texto": "A investidura em cargo ou emprego público depende de aprovação prévia em concurso público de provas ou de provas e títulos, de acordo com a natureza e a complexidade do cargo ou emprego, na forma prevista em lei, ressalvadas as nomeações para cargo em comissão declarado em lei de livre nomeação e exoneração." },
+      { "letra": "C", "texto": "A exigência de concurso alcança somente os cargos efetivos da Administração direta, não se aplicando a autarquias e fundações públicas." },
+      { "letra": "D", "texto": "A exigência de concurso não alcança os empregos públicos das empresas públicas e das sociedades de economia mista, que se regem exclusivamente pelo direito privado." },
+      { "letra": "E", "texto": "O concurso público deve ser sempre de provas e títulos, sendo inconstitucional o certame composto exclusivamente de provas." }
+    ],
+    "gabarito": "B",
+    "comentario": "B (correta): reproduz o art. 37, II, da CF/88, com a ressalva dos cargos em comissão. A (errada): a própria norma excepciona os cargos em comissão, havendo ainda a contratação temporária do inciso IX. C (errada): o caput do art. 37 estende os princípios e regras à administração direta e indireta de todos os entes federativos. D (errada): as estatais admitem pessoal mediante concurso público, por força do art. 37, II, e do art. 173, §1º, da CF/88 (v. também art. 6º da Lei nº 13.303/2016). E (errada): a Constituição admite concurso de provas ou de provas e títulos.",
+    "fundamentacaoLegal": "CF/88, art. 37, caput, incisos II e IX, e art. 173, §1º; Lei nº 13.303/2016, art. 6º."
+  },
+  {
+    "id": "agentes-publicos-06",
+    "topicoId": "agentes-publicos",
+    "topico": "Agentes públicos",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre as funções de confiança e os cargos em comissão, nos termos do art. 37, V, da Constituição Federal, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "As funções de confiança podem ser exercidas indistintamente por servidores efetivos e por pessoas estranhas aos quadros da Administração." },
+      { "letra": "B", "texto": "Os cargos em comissão devem ser preenchidos exclusivamente por servidores de carreira, sendo inconstitucional o provimento por pessoa estranha ao serviço público." },
+      { "letra": "C", "texto": "As funções de confiança serão exercidas exclusivamente por servidores ocupantes de cargo efetivo, e os cargos em comissão, preenchidos por servidores de carreira nos casos, condições e percentuais mínimos previstos em lei, destinando-se ambos apenas às atribuições de direção, chefia e assessoramento." },
+      { "letra": "D", "texto": "Cargos em comissão e funções de confiança podem ser destinados a quaisquer atribuições, inclusive de execução técnica rotineira, desde que criados por lei." },
+      { "letra": "E", "texto": "A lei pode dispensar integralmente a reserva de percentual mínimo de cargos em comissão a servidores de carreira, por se tratar de norma constitucional meramente programática." }
+    ],
+    "gabarito": "C",
+    "comentario": "C (correta): reproduz o art. 37, V, da CF/88, que reserva as funções de confiança a servidores efetivos, exige percentual mínimo de cargos em comissão para servidores de carreira e limita ambos às atribuições de direção, chefia e assessoramento. A (errada): a exclusividade dos efetivos, quanto às funções de confiança, é expressa. B (errada): há exclusividade apenas quanto ao percentual mínimo definido em lei, e não quanto à totalidade dos cargos em comissão. D (errada): a destinação a atribuições de execução rotineira é vedada e caracteriza burla à exigência de concurso público. E (errada): a norma é de eficácia vinculante, cabendo à lei apenas definir casos, condições e percentuais.",
+    "fundamentacaoLegal": "CF/88, art. 37, II e V; Súmula Vinculante 13 do STF (correlata)."
+  },
+  {
+    "id": "agentes-publicos-07",
+    "topicoId": "agentes-publicos",
+    "topico": "Agentes públicos",
+    "dificuldade": "media",
+    "enunciado": "Sobre o prazo de validade do concurso público, nos termos do art. 37, III, da Constituição Federal, é correto afirmar que:",
+    "alternativas": [
+      { "letra": "A", "texto": "é de dois anos, improrrogável." },
+      { "letra": "B", "texto": "é de quatro anos, prorrogável uma vez por igual período." },
+      { "letra": "C", "texto": "é livremente fixado no edital, inexistindo limite constitucional." },
+      { "letra": "D", "texto": "será de até dois anos, prorrogável uma vez, por igual período." },
+      { "letra": "E", "texto": "é de dois anos, prorrogável tantas vezes quantas forem convenientes à Administração." }
+    ],
+    "gabarito": "D",
+    "comentario": "D (correta): o art. 37, III, fixa prazo de validade de até dois anos, admitida uma única prorrogação por igual período; o edital pode estabelecer prazo menor, e a prorrogação é ato discricionário. A (errada): a Constituição admite expressamente uma prorrogação. B (errada): altera o prazo constitucional. C (errada): há limite máximo constitucional, que o edital não pode superar. E (errada): a prorrogação é única.",
+    "fundamentacaoLegal": "CF/88, art. 37, III."
+  },
+  {
+    "id": "agentes-publicos-08",
+    "topicoId": "agentes-publicos",
+    "topico": "Agentes públicos",
+    "dificuldade": "media",
+    "enunciado": "Segundo o art. 37, IV, da Constituição Federal, durante o prazo improrrogável previsto no edital de convocação, aquele aprovado em concurso público de provas ou de provas e títulos:",
+    "alternativas": [
+      { "letra": "A", "texto": "tem direito à nomeação imediata, independentemente da existência de cargo vago." },
+      { "letra": "B", "texto": "somente terá prioridade sobre novos concursados se houver sido aprovado dentro do número de vagas do edital." },
+      { "letra": "C", "texto": "perde a prioridade caso não seja nomeado no primeiro ano de validade do certame." },
+      { "letra": "D", "texto": "somente poderá ser convocado após a homologação de novo concurso para o mesmo cargo." },
+      { "letra": "E", "texto": "será convocado com prioridade sobre novos concursados para assumir cargo ou emprego na carreira." }
+    ],
+    "gabarito": "E",
+    "comentario": "E (correta): é a literalidade do art. 37, IV, da CF/88, que assegura precedência do concursado anterior sobre novos concursados. A (errada): a norma trata de ordem de precedência na convocação, e não de direito à nomeação imediata. B (errada): a prioridade do inciso IV independe da classificação dentro do número de vagas, que é questão distinta, ligada ao Tema 161 da repercussão geral. C (errada): a prioridade subsiste por todo o prazo previsto no edital de convocação. D (errada): inverte a lógica da norma, que protege o candidato do concurso anterior justamente contra a preferência a novos certames.",
+    "fundamentacaoLegal": "CF/88, art. 37, III e IV."
+  },
+  {
+    "id": "agentes-publicos-09",
+    "topicoId": "agentes-publicos",
+    "topico": "Agentes públicos",
+    "dificuldade": "dificil",
+    "enunciado": "Candidato foi aprovado dentro do número de vagas previsto no edital de concurso público realizado por Município. Sobre sua situação jurídica, à luz da tese firmada pelo STF no RE 598.099 (Tema 161 da repercussão geral), é correto afirmar que:",
+    "alternativas": [
+      { "letra": "A", "texto": "possui direito subjetivo à nomeação, podendo a Administração escolher o momento de nomear dentro do prazo de validade do certame, sendo o direito excepcionalmente afastável apenas por situações supervenientes, imprevisíveis, graves e necessárias, devidamente motivadas." },
+      { "letra": "B", "texto": "possui mera expectativa de direito, cabendo à Administração decidir com plena liberdade sobre a conveniência da nomeação." },
+      { "letra": "C", "texto": "possui direito líquido e certo à nomeação imediata, no prazo máximo de trinta dias contados da homologação do resultado final." },
+      { "letra": "D", "texto": "possui direito à nomeação apenas se a Administração realizar contratação temporária para as mesmas atribuições do cargo." },
+      { "letra": "E", "texto": "não possui direito algum, pois a criação de despesa com pessoal depende de disponibilidade orçamentária, matéria de mérito insindicável." }
+    ],
+    "gabarito": "A",
+    "comentario": "A (correta): o STF firmou que o aprovado dentro do número de vagas tem direito subjetivo à nomeação, preservada a discricionariedade quanto ao momento, dentro da validade do certame, e admitida a recusa apenas em situações excepcionalíssimas que reúnam superveniência, imprevisibilidade, gravidade e necessidade, com motivação. B (errada): a tese superou a antiga compreensão de mera expectativa de direito. C (errada): não há prazo constitucional de trinta dias para nomear. D (errada): a contratação temporária para as mesmas atribuições é hipótese de preterição, relevante para o aprovado fora das vagas (Tema 784), e não requisito do Tema 161. E (errada): a limitação orçamentária não é salvo-conduto genérico, devendo ser demonstrada como situação excepcional e motivada.",
+    "fundamentacaoLegal": "CF/88, art. 37, caput, II, III e IV; STF, RE 598.099/MS (Tema 161 da repercussão geral)."
+  },
+  {
+    "id": "agentes-publicos-10",
+    "topicoId": "agentes-publicos",
+    "topico": "Agentes públicos",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre o direito à nomeação de candidato aprovado fora do número de vagas previsto no edital, conforme a tese fixada pelo STF no RE 837.311 (Tema 784 da repercussão geral), é correto afirmar que:",
+    "alternativas": [
+      { "letra": "A", "texto": "inexiste, em qualquer hipótese, direito à nomeação de candidato aprovado fora do número de vagas." },
+      { "letra": "B", "texto": "o mero surgimento de novas vagas ou a abertura de novo concurso durante a validade do certame gera automaticamente direito à nomeação dos excedentes." },
+      { "letra": "C", "texto": "o direito surge sempre que a Administração realiza qualquer contratação temporária, ainda que para atribuições diversas das do cargo." },
+      { "letra": "D", "texto": "o direito à nomeação surge quando se caracteriza preterição arbitrária e imotivada por parte da Administração, evidenciada por comportamento tácito ou expresso do Poder Público que revele a inequívoca necessidade de nomeação do aprovado durante o período de validade do certame." },
+      { "letra": "E", "texto": "o direito somente pode ser reconhecido após o encerramento do prazo de validade do concurso, mediante ação judicial própria." }
+    ],
+    "gabarito": "D",
+    "comentario": "D (correta): a tese do Tema 784 condiciona o direito à demonstração de preterição arbitrária e imotivada, aferida por comportamento comissivo ou omissivo do Poder Público que evidencie a necessidade inequívoca de pessoal. A (errada): a tese admite o direito em situações de preterição arbitrária. B (errada): o surgimento de vagas gera, em regra, mera expectativa, salvo se demonstrada a arbitrariedade. C (errada): a contratação precária só configura preterição quando destinada às mesmas atribuições do cargo objeto do concurso. E (errada): a caracterização da preterição deve ocorrer durante a validade do certame, não sendo exigível aguardar o seu encerramento.",
+    "fundamentacaoLegal": "CF/88, art. 37, caput, II e IV; STF, RE 837.311/PI (Tema 784 da repercussão geral)."
+  },
+  {
+    "id": "agentes-publicos-11",
+    "topicoId": "agentes-publicos",
+    "topico": "Agentes públicos",
+    "dificuldade": "media",
+    "enunciado": "Sobre a contratação por tempo determinado prevista no art. 37, IX, da Constituição Federal, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "Dispensa qualquer forma de processo seletivo, dada a natureza urgente da necessidade a ser atendida." },
+      { "letra": "B", "texto": "Gera vínculo estatutário efetivo e estabilidade após três anos de exercício ininterrupto." },
+      { "letra": "C", "texto": "Depende de lei do respectivo ente federativo, que estabelecerá os casos de contratação, destinando-se a atender necessidade temporária de excepcional interesse público." },
+      { "letra": "D", "texto": "Somente é admitida no âmbito da União, por força da competência privativa para legislar sobre servidores públicos." },
+      { "letra": "E", "texto": "Permite a contratação para o exercício de atividades permanentes do órgão, desde que haja prévia dotação orçamentária." }
+    ],
+    "gabarito": "C",
+    "comentario": "C (correta): o art. 37, IX, da CF/88 exige lei do próprio ente federativo definindo as hipóteses, e a contratação deve atender necessidade temporária de excepcional interesse público, por prazo determinado. A (errada): o STF exige processo seletivo simplificado, em respeito à impessoalidade e à isonomia, salvo hipóteses de calamidade que justifiquem a dispensa. B (errada): o contratado temporário não titulariza cargo efetivo nem adquire estabilidade. D (errada): cada ente federativo edita sua própria lei sobre contratação temporária, no exercício de sua autonomia. E (errada): a destinação a atividades permanentes desvirtua o instituto e configura burla ao concurso público.",
+    "fundamentacaoLegal": "CF/88, art. 37, caput, II e IX; art. 18 e art. 30, I."
+  },
+  {
+    "id": "agentes-publicos-12",
+    "topicoId": "agentes-publicos",
+    "topico": "Agentes públicos",
+    "dificuldade": "dificil",
+    "enunciado": "Nos termos do art. 37, XVI, da Constituição Federal, é vedada a acumulação remunerada de cargos públicos, exceto, quando houver compatibilidade de horários e observado o teto remuneratório:",
+    "alternativas": [
+      { "letra": "A", "texto": "a de dois cargos de professor; a de um cargo de professor com outro técnico ou científico; e a de dois cargos ou empregos privativos de profissionais de saúde, com profissões regulamentadas." },
+      { "letra": "B", "texto": "a de dois cargos técnicos ou científicos; a de um cargo de professor com outro de qualquer natureza; e a de dois cargos privativos de profissionais de saúde." },
+      { "letra": "C", "texto": "a de dois cargos de professor; a de dois cargos técnicos ou científicos; e a de um cargo de saúde com outro de professor." },
+      { "letra": "D", "texto": "a de dois cargos em comissão; a de um cargo efetivo com outro em comissão; e a de dois empregos públicos em estatais." },
+      { "letra": "E", "texto": "a de quaisquer dois cargos públicos, desde que a soma das remunerações não ultrapasse o teto constitucional." }
+    ],
+    "gabarito": "A",
+    "comentario": "A (correta): reproduz as três hipóteses taxativas das alíneas 'a', 'b' e 'c' do art. 37, XVI, da CF/88, cuja vedação, por força do inciso XVII, alcança empregos e funções e abrange autarquias, fundações, empresas públicas, sociedades de economia mista, suas subsidiárias e sociedades controladas, direta ou indiretamente, pelo poder público. B (errada): não existe hipótese de acumulação de dois cargos técnicos ou científicos, nem de professor com cargo de qualquer natureza. C (errada): repete o erro da acumulação de dois cargos técnicos e cria hipótese inexistente. D (errada): as hipóteses não se relacionam à natureza comissionada do cargo. E (errada): o teto é limite adicional, e não critério autorizador de acumulação.",
+    "fundamentacaoLegal": "CF/88, art. 37, XVI, alíneas 'a', 'b' e 'c', e XVII."
+  },
+  {
+    "id": "agentes-publicos-13",
+    "topicoId": "agentes-publicos",
+    "topico": "Agentes públicos",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre a vedação de percepção simultânea de proventos de aposentadoria com a remuneração de cargo, emprego ou função pública (art. 37, §10, da Constituição Federal), é correto afirmar que:",
+    "alternativas": [
+      { "letra": "A", "texto": "a vedação é absoluta, não comportando qualquer exceção constitucional." },
+      { "letra": "B", "texto": "a vedação alcança exclusivamente os servidores aposentados por invalidez permanente." },
+      { "letra": "C", "texto": "a vedação não se aplica aos cargos em comissão, mas se aplica integralmente aos cargos eletivos." },
+      { "letra": "D", "texto": "a vedação alcança os proventos de aposentadoria do regime geral de previdência social percebidos por trabalhadores celetistas." },
+      { "letra": "E", "texto": "é vedada a percepção simultânea de proventos de aposentadoria decorrentes dos regimes próprios de previdência com a remuneração de cargo, emprego ou função pública, ressalvados os cargos acumuláveis na forma da Constituição, os cargos eletivos e os cargos em comissão declarados em lei de livre nomeação e exoneração." }
+    ],
+    "gabarito": "E",
+    "comentario": "E (correta): reproduz o art. 37, §10, da CF/88, incluído pela EC nº 20/1998, com as três ressalvas expressas. A (errada): as exceções são expressas no próprio dispositivo. B (errada): a regra alcança as aposentadorias dos regimes próprios em geral, e não apenas as por invalidez. C (errada): inverte as ressalvas — cargos eletivos e cargos em comissão estão ambos ressalvados. D (errada): a vedação refere-se aos proventos decorrentes dos arts. 40, 42 e 142 da CF/88, isto é, dos regimes próprios e dos militares, não do regime geral.",
+    "fundamentacaoLegal": "CF/88, art. 37, §10 (incluído pela EC nº 20/1998); arts. 40, 42 e 142."
+  },
+  {
+    "id": "agentes-publicos-14",
+    "topicoId": "agentes-publicos",
+    "topico": "Agentes públicos",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre o teto remuneratório previsto no art. 37, XI, da Constituição Federal, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "O teto alcança exclusivamente os servidores da Administração direta, não se aplicando às autarquias e fundações públicas." },
+      { "letra": "B", "texto": "Nos Municípios, o limite é o subsídio do Prefeito, não podendo a remuneração e o subsídio dos ocupantes de cargos, funções e empregos públicos da administração direta, autárquica e fundacional, dos membros de Poder e detentores de mandato eletivo, bem como os proventos, pensões ou outra espécie remuneratória, exceder esse limite." },
+      { "letra": "C", "texto": "As empresas públicas e sociedades de economia mista submetem-se ao teto ainda que não recebam recursos do ente federativo para pagamento de despesas de pessoal ou de custeio em geral." },
+      { "letra": "D", "texto": "As parcelas de caráter indenizatório previstas em lei integram o cálculo do teto remuneratório." },
+      { "letra": "E", "texto": "O teto não alcança os proventos de aposentadoria nem as pensões pagas pelo ente federativo." }
+    ],
+    "gabarito": "B",
+    "comentario": "B (correta): o art. 37, XI, da CF/88 fixa como subteto municipal o subsídio do Prefeito e alcança expressamente remunerações, subsídios, proventos, pensões e outras espécies remuneratórias. A (errada): o dispositivo menciona expressamente a administração direta, autárquica e fundacional. C (errada): o §9º do art. 37 submete ao teto apenas as estatais e subsidiárias que recebam recursos do ente para pessoal ou custeio em geral. D (errada): o §11 do art. 37 exclui do cômputo as parcelas de caráter indenizatório previstas em lei. E (errada): proventos e pensões estão expressamente submetidos ao teto.",
+    "fundamentacaoLegal": "CF/88, art. 37, XI, §9º e §11."
+  },
+  {
+    "id": "agentes-publicos-15",
+    "topicoId": "agentes-publicos",
+    "topico": "Agentes públicos",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre a fixação e a alteração da remuneração dos servidores públicos, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "O Poder Judiciário pode conceder aumento de vencimentos a servidores públicos com fundamento no princípio da isonomia, quando constatada disparidade entre carreiras equivalentes." },
+      { "letra": "B", "texto": "A revisão geral anual da remuneração dos servidores pode ser efetivada por decreto do Chefe do Poder Executivo, independentemente de lei." },
+      { "letra": "C", "texto": "É admitida a vinculação ou a equiparação de quaisquer espécies remuneratórias para efeito de remuneração de pessoal do serviço público." },
+      { "letra": "D", "texto": "A remuneração e o subsídio somente podem ser fixados ou alterados por lei específica, observada a iniciativa privativa em cada caso, assegurada revisão geral anual, sempre na mesma data e sem distinção de índices; e, conforme a Súmula Vinculante 37, não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob o fundamento de isonomia." },
+      { "letra": "E", "texto": "Os acréscimos pecuniários percebidos por servidor público serão computados e acumulados para fins de concessão de acréscimos ulteriores." }
+    ],
+    "gabarito": "D",
+    "comentario": "D (correta): conjuga o art. 37, X, da CF/88 com a Súmula Vinculante 37 do STF. A (errada): contraria frontalmente a Súmula Vinculante 37. B (errada): a fixação e a alteração remuneratória exigem lei específica; a revisão geral anual não pode ser feita por decreto. C (errada): o art. 37, XIII, veda expressamente a vinculação ou equiparação de quaisquer espécies remuneratórias. E (errada): o art. 37, XIV, dispõe que os acréscimos pecuniários não serão computados nem acumulados para fins de concessão de acréscimos ulteriores, vedando o chamado efeito cascata.",
+    "fundamentacaoLegal": "CF/88, art. 37, X, XIII e XIV; Súmula Vinculante 37 do STF."
+  },
+  {
+    "id": "agentes-publicos-16",
+    "topicoId": "agentes-publicos",
+    "topico": "Agentes públicos",
+    "dificuldade": "media",
+    "enunciado": "Sobre o direito de greve dos servidores públicos civis, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "É expressamente vedado pela Constituição Federal aos servidores públicos civis." },
+      { "letra": "B", "texto": "É assegurado nos mesmos termos do setor privado, por expressa remissão constitucional à Lei nº 7.783/1989." },
+      { "letra": "C", "texto": "É assegurado pelo art. 37, VII, da CF/88 e será exercido nos termos e nos limites definidos em lei específica; diante da persistente omissão legislativa, o STF, no julgamento de mandados de injunção, determinou a aplicação, no que couber, da lei de greve do setor privado." },
+      { "letra": "D", "texto": "É assegurado apenas aos empregados públicos de empresas estatais, não alcançando os servidores estatutários." },
+      { "letra": "E", "texto": "Depende de autorização prévia do respectivo Tribunal de Contas, a quem cabe aferir o impacto do movimento sobre a continuidade dos serviços." }
+    ],
+    "gabarito": "C",
+    "comentario": "C (correta): o art. 37, VII, da CF/88 é norma de eficácia limitada, e o STF, nos MI 670, 708 e 712, adotou solução concretista geral, determinando a aplicação analógica da Lei nº 7.783/1989 enquanto não editada lei específica. A (errada): a vedação à greve alcança os militares (art. 142, §3º, IV), não os servidores civis. B (errada): não há remissão constitucional direta à lei de greve do setor privado; a aplicação decorre de decisão do STF em mandado de injunção. D (errada): o direito é assegurado aos servidores públicos em geral. E (errada): não existe exigência de autorização do Tribunal de Contas.",
+    "fundamentacaoLegal": "CF/88, art. 37, VII, e art. 142, §3º, IV; STF, MI 670, MI 708 e MI 712; Lei nº 7.783/1989."
+  },
+  {
+    "id": "agentes-publicos-17",
+    "topicoId": "agentes-publicos",
+    "topico": "Agentes públicos",
+    "dificuldade": "media",
+    "enunciado": "Sobre a livre associação sindical no âmbito do serviço público, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "É vedada a sindicalização dos servidores públicos civis, admitida apenas a associação de caráter recreativo ou assistencial." },
+      { "letra": "B", "texto": "É garantido ao servidor público civil o direito à livre associação sindical, sendo vedadas ao militar a sindicalização e a greve." },
+      { "letra": "C", "texto": "A associação sindical de servidores depende de prévia autorização do órgão ou entidade a que estejam vinculados." },
+      { "letra": "D", "texto": "Os militares podem sindicalizar-se livremente, sendo-lhes vedado apenas o exercício do direito de greve." },
+      { "letra": "E", "texto": "O servidor sindicalizado não pode ser destinatário de penalidade disciplinar enquanto exercer mandato sindical." }
+    ],
+    "gabarito": "B",
+    "comentario": "B (correta): o art. 37, VI, da CF/88 garante ao servidor público civil o direito à livre associação sindical, ao passo que o art. 142, §3º, IV, veda ao militar a sindicalização e a greve. A (errada): a sindicalização do servidor civil é expressamente garantida. C (errada): a exigência de autorização prévia contraria a liberdade de associação (CF/88, art. 5º, XVII e XVIII). D (errada): a vedação constitucional aos militares alcança tanto a sindicalização quanto a greve. E (errada): o exercício de mandato sindical não confere imunidade disciplinar, sem prejuízo das garantias legais do dirigente.",
+    "fundamentacaoLegal": "CF/88, art. 5º, XVII e XVIII, art. 37, VI e VII, e art. 142, §3º, IV."
+  },
+  {
+    "id": "agentes-publicos-18",
+    "topicoId": "agentes-publicos",
+    "topico": "Agentes públicos",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre a reserva de vagas para pessoas com deficiência em concursos públicos, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A reserva decorre diretamente da Constituição e é autoaplicável, dispensando lei que defina critérios de admissão e percentual." },
+      { "letra": "B", "texto": "A reserva aplica-se apenas aos cargos da Administração direta federal, não alcançando Estados e Municípios." },
+      { "letra": "C", "texto": "O candidato portador de visão monocular não pode concorrer às vagas reservadas, por não se enquadrar no conceito de pessoa com deficiência." },
+      { "letra": "D", "texto": "A Constituição Federal fixa diretamente em vinte por cento o percentual mínimo de vagas reservadas em todos os concursos públicos." },
+      { "letra": "E", "texto": "A lei reservará percentual dos cargos e empregos públicos para as pessoas com deficiência e definirá os critérios de sua admissão; e, conforme a Súmula 377 do STJ, o portador de visão monocular tem direito de concorrer, em concurso público, às vagas reservadas aos deficientes." }
+    ],
+    "gabarito": "E",
+    "comentario": "E (correta): o art. 37, VIII, da CF/88 é norma de eficácia limitada, remetendo à lei a definição do percentual e dos critérios; a Súmula 377 do STJ assegura ao portador de visão monocular o direito de concorrer às vagas reservadas. A (errada): o próprio dispositivo constitucional remete à lei. B (errada): a norma alcança todos os entes federativos, cada qual disciplinando por lei própria. C (errada): contraria a Súmula 377 do STJ. D (errada): a Constituição não fixa percentual; este é definido em lei (v. art. 5º, §2º, da Lei nº 8.112/1990, que estabelece reserva de até vinte por cento).",
+    "fundamentacaoLegal": "CF/88, art. 37, VIII; Súmula 377 do STJ; Lei nº 8.112/1990, art. 5º, §2º; Lei nº 13.146/2015 (Estatuto da Pessoa com Deficiência)."
+  },
+  {
+    "id": "agentes-publicos-19",
+    "topicoId": "agentes-publicos",
+    "topico": "Agentes públicos",
+    "dificuldade": "dificil",
+    "enunciado": "Servidor público municipal ocupante de cargo efetivo é eleito Vereador do mesmo Município, havendo compatibilidade entre o horário do mandato e o do cargo. Nos termos do art. 38 da Constituição Federal, o servidor:",
+    "alternativas": [
+      { "letra": "A", "texto": "perceberá as vantagens de seu cargo, emprego ou função, sem prejuízo da remuneração do cargo eletivo, acumulando os dois vínculos." },
+      { "letra": "B", "texto": "deverá afastar-se do cargo efetivo, percebendo exclusivamente a remuneração do mandato eletivo." },
+      { "letra": "C", "texto": "deverá optar por uma das remunerações, ainda que exista compatibilidade de horários." },
+      { "letra": "D", "texto": "ficará automaticamente exonerado do cargo efetivo, salvo se já houver adquirido estabilidade." },
+      { "letra": "E", "texto": "terá o tempo de serviço contado apenas para efeito de aposentadoria, vedada qualquer remuneração pelo cargo efetivo." }
+    ],
+    "gabarito": "A",
+    "comentario": "A (correta): o art. 38, III, da CF/88 assegura, no caso de mandato de Vereador com compatibilidade de horários, a percepção das vantagens do cargo sem prejuízo da remuneração do cargo eletivo. B e C (erradas): o afastamento com opção pela remuneração é a solução aplicável quando não houver compatibilidade de horários (art. 38, III, parte final, c/c inciso II), e não na hipótese do enunciado. D (errada): o servidor eleito não é exonerado; seu vínculo é preservado, com afastamento quando exigido. E (errada): a contagem de tempo de serviço para todos os efeitos legais, exceto promoção por merecimento, é regra do art. 38, IV, e não substitui a remuneração devida na hipótese de compatibilidade.",
+    "fundamentacaoLegal": "CF/88, art. 38, incisos I a V."
+  },
+  {
+    "id": "agentes-publicos-20",
+    "topicoId": "agentes-publicos",
+    "topico": "Agentes públicos",
+    "dificuldade": "media",
+    "enunciado": "Sobre a estabilidade do servidor público, nos termos do art. 41 da Constituição Federal, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "É adquirida após dois anos de efetivo exercício, tanto pelos nomeados para cargo efetivo quanto pelos nomeados para cargo em comissão." },
+      { "letra": "B", "texto": "Alcança os empregados públicos das empresas públicas e das sociedades de economia mista, por integrarem a Administração indireta." },
+      { "letra": "C", "texto": "O servidor estável só perde o cargo em virtude de sentença judicial, ainda que pendente de recurso." },
+      { "letra": "D", "texto": "São estáveis, após três anos de efetivo exercício, os servidores nomeados para cargo de provimento efetivo em virtude de concurso público, sendo condição para a aquisição da estabilidade a avaliação especial de desempenho por comissão instituída para essa finalidade; e o servidor estável só perderá o cargo em virtude de sentença judicial transitada em julgado, de processo administrativo em que lhe seja assegurada ampla defesa ou de procedimento de avaliação periódica de desempenho, na forma de lei complementar, assegurada ampla defesa." },
+      { "letra": "E", "texto": "A estabilidade impede, em qualquer hipótese, a perda do cargo, inclusive nas medidas de adequação aos limites de despesa com pessoal." }
+    ],
+    "gabarito": "D",
+    "comentario": "D (correta): reúne o caput, o §1º e o §4º do art. 41 da CF/88, com a redação da EC nº 19/1998. A (errada): o prazo é de três anos e a estabilidade pressupõe cargo de provimento efetivo mediante concurso. B (errada): os empregados de estatais não gozam da estabilidade do art. 41, embora o STF exija motivação para a dispensa nas empresas públicas (RE 589.998). C (errada): a perda do cargo por decisão judicial exige trânsito em julgado. E (errada): o art. 169, §4º, da CF/88 admite a exoneração de servidor estável para adequação aos limites de despesa com pessoal, observados os requisitos constitucionais.",
+    "fundamentacaoLegal": "CF/88, art. 41, caput e §§ 1º e 4º, e art. 169, §§ 3º e 4º."
+  },
+  {
+    "id": "agentes-publicos-21",
+    "topicoId": "agentes-publicos",
+    "topico": "Agentes públicos",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre o estágio probatório do servidor público estatutário, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "Tem duração de 24 meses, prazo que permaneceu integralmente hígido após a Emenda Constitucional nº 19/1998, por se tratar de matéria infraconstitucional." },
+      { "letra": "B", "texto": "Tem duração de 12 meses, ao término dos quais o servidor adquire automaticamente a estabilidade." },
+      { "letra": "C", "texto": "Confunde-se com a estabilidade, sendo institutos idênticos com denominações distintas." },
+      { "letra": "D", "texto": "Durante o estágio probatório, é vedado ao servidor exercer qualquer cargo de provimento em comissão ou função de direção, chefia e assessoramento." },
+      { "letra": "E", "texto": "Embora o art. 20 da Lei nº 8.112/1990 mencione 24 meses, prevalece o entendimento de que o prazo do estágio probatório deve coincidir com os três anos de efetivo exercício exigidos pelo art. 41 da CF/88, na redação da EC nº 19/1998, tratando-se estágio probatório e estabilidade de institutos distintos." }
+    ],
+    "gabarito": "E",
+    "comentario": "E (correta): a jurisprudência do STJ e a orientação consolidada da Advocacia-Geral da União firmaram a compatibilização dos prazos em três anos, reconhecendo, porém, que o estágio probatório é período de avaliação de aptidão e capacidade, ao passo que a estabilidade é a garantia adquirida ao seu término. A (errada): a EC nº 19/1998 alterou o prazo da estabilidade para três anos, repercutindo sobre o estágio probatório. B (errada): não há previsão de estágio probatório de 12 meses. C (errada): são institutos distintos quanto à natureza e aos efeitos. D (errada): o art. 20, §3º, da Lei nº 8.112/1990 permite expressamente ao servidor em estágio probatório exercer cargos de provimento em comissão ou funções de direção, chefia e assessoramento no órgão ou entidade de lotação.",
+    "fundamentacaoLegal": "CF/88, art. 41, caput (redação da EC nº 19/1998); Lei nº 8.112/1990, art. 20, caput e §§ 1º a 4º."
+  },
+  {
+    "id": "agentes-publicos-22",
+    "topicoId": "agentes-publicos",
+    "topico": "Agentes públicos",
+    "dificuldade": "media",
+    "enunciado": "Assinale a alternativa que apresenta corretamente as formas de provimento de cargo público previstas no art. 8º da Lei nº 8.112/1990.",
+    "alternativas": [
+      { "letra": "A", "texto": "Nomeação, promoção, exoneração, demissão, readaptação e reversão." },
+      { "letra": "B", "texto": "Nomeação, promoção, readaptação, reversão, aproveitamento, reintegração e recondução." },
+      { "letra": "C", "texto": "Nomeação, ascensão, transferência, promoção e readaptação." },
+      { "letra": "D", "texto": "Nomeação, promoção, remoção, redistribuição e substituição." },
+      { "letra": "E", "texto": "Nomeação, promoção, reintegração, demissão e aposentadoria." }
+    ],
+    "gabarito": "B",
+    "comentario": "B (correta): são as sete formas do art. 8º da Lei nº 8.112/1990 — a nomeação é provimento originário; as demais são derivadas. A e E (erradas): exoneração, demissão e aposentadoria são formas de vacância, e não de provimento. C (errada): a ascensão e a transferência foram expressamente revogadas e são incompatíveis com a exigência de concurso público (Súmula Vinculante 43). D (errada): remoção e redistribuição são formas de deslocamento do servidor ou do cargo, e a substituição é situação funcional transitória, não provimento.",
+    "fundamentacaoLegal": "Lei nº 8.112/1990, arts. 8º, 33, 36, 37 e 38; Súmula Vinculante 43 do STF."
+  },
+  {
+    "id": "agentes-publicos-23",
+    "topicoId": "agentes-publicos",
+    "topico": "Agentes públicos",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre as formas de provimento derivado e a exigência constitucional de concurso público, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A transferência e a ascensão funcional permanecem admitidas, desde que previstas em lei específica do ente federativo." },
+      { "letra": "B", "texto": "A promoção é forma de provimento derivado inconstitucional, por permitir a mudança de cargo sem novo concurso público." },
+      { "letra": "C", "texto": "Conforme a Súmula Vinculante 43, é inconstitucional toda modalidade de provimento que propicie ao servidor investir-se, sem prévia aprovação em concurso público destinado ao seu provimento, em cargo que não integra a carreira na qual anteriormente investido." },
+      { "letra": "D", "texto": "O aproveitamento de servidor em disponibilidade é inconstitucional, por configurar provimento derivado sem concurso." },
+      { "letra": "E", "texto": "A reintegração depende de aprovação prévia em novo concurso público, por implicar novo ingresso no serviço público." }
+    ],
+    "gabarito": "C",
+    "comentario": "C (correta): reproduz a Súmula Vinculante 43 do STF (conversão da Súmula 685), que veda o provimento derivado em cargo estranho à carreira originária. A (errada): ascensão e transferência foram declaradas inconstitucionais e revogadas justamente por violarem o art. 37, II, da CF/88. B (errada): a promoção é constitucional, pois se dá dentro da mesma carreira, sem investidura em cargo estranho a ela. D (errada): o aproveitamento é retorno do servidor estável posto em disponibilidade a cargo de atribuições e vencimentos compatíveis, sendo plenamente constitucional (CF/88, art. 41, §3º). E (errada): a reintegração decorre da invalidação da demissão e restabelece situação anterior, não constituindo novo ingresso.",
+    "fundamentacaoLegal": "Súmula Vinculante 43 do STF; CF/88, art. 37, II, e art. 41, §§ 2º e 3º; Lei nº 8.112/1990, arts. 8º, 28, 30 e 31."
+  },
+  {
+    "id": "agentes-publicos-24",
+    "topicoId": "agentes-publicos",
+    "topico": "Agentes públicos",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre os institutos da reintegração e da recondução, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "Reintegração é a reinvestidura do servidor estável no cargo anteriormente ocupado, com ressarcimento de todas as vantagens, quando invalidada a sua demissão por decisão administrativa ou judicial; recondução é o retorno do servidor estável ao cargo anteriormente ocupado, decorrente de inabilitação em estágio probatório relativo a outro cargo ou de reintegração do anterior ocupante." },
+      { "letra": "B", "texto": "Reintegração é o retorno do servidor inabilitado em estágio probatório ao cargo antes ocupado, sem direito a ressarcimento." },
+      { "letra": "C", "texto": "Na reintegração, o servidor retorna ao cargo sem direito ao ressarcimento das vantagens do período de afastamento, dada a natureza indenizatória da medida." },
+      { "letra": "D", "texto": "A recondução pressupõe a invalidação da demissão do servidor por decisão judicial transitada em julgado." },
+      { "letra": "E", "texto": "Reintegração e recondução são formas de vacância do cargo público, e não formas de provimento." }
+    ],
+    "gabarito": "A",
+    "comentario": "A (correta): corresponde aos arts. 28 e 29 da Lei nº 8.112/1990, tomados como parâmetro dos regimes estatutários. B (errada): descreve a recondução, não a reintegração. C (errada): o art. 28 assegura expressamente o ressarcimento de todas as vantagens. D (errada): a invalidação da demissão é pressuposto da reintegração; a recondução decorre de inabilitação em estágio probatório de outro cargo ou do retorno do ocupante reintegrado. E (errada): ambas são formas de provimento derivado, arroladas no art. 8º.",
+    "fundamentacaoLegal": "Lei nº 8.112/1990, arts. 8º, VI e VII, 28 e 29; CF/88, art. 41, §2º."
+  },
+  {
+    "id": "agentes-publicos-25",
+    "topicoId": "agentes-publicos",
+    "topico": "Agentes públicos",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre os institutos da readaptação e da reversão, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "Readaptação é o retorno à atividade de servidor aposentado, quando insubsistentes os motivos da aposentadoria." },
+      { "letra": "B", "texto": "Reversão é a investidura do servidor em cargo de atribuições e responsabilidades compatíveis com a limitação sofrida em sua capacidade física ou mental." },
+      { "letra": "C", "texto": "A readaptação exige aprovação prévia em novo concurso público, por implicar investidura em cargo diverso." },
+      { "letra": "D", "texto": "Readaptação é a investidura do servidor em cargo de atribuições e responsabilidades compatíveis com a limitação sofrida em sua capacidade física ou mental, verificada em inspeção médica; reversão é o retorno à atividade de servidor aposentado por invalidez, quando insubsistentes os motivos da aposentadoria, ou no interesse da Administração, atendidos os requisitos legais." },
+      { "letra": "E", "texto": "A reversão do aposentado por invalidez é vedada em qualquer hipótese, dada a definitividade do ato de aposentadoria." }
+    ],
+    "gabarito": "D",
+    "comentario": "D (correta): reproduz os conceitos dos arts. 24 e 25 da Lei nº 8.112/1990, parâmetro dos regimes estatutários municipais. A e B (erradas): há inversão integral dos conceitos. C (errada): a readaptação não é novo ingresso no serviço público e não exige concurso; deve, porém, observar a habilitação e o nível de escolaridade exigidos, sob pena de afronta ao art. 37, II, da CF/88. E (errada): a reversão do aposentado por invalidez é expressamente admitida quando declarados insubsistentes os motivos da aposentadoria (art. 25, I).",
+    "fundamentacaoLegal": "Lei nº 8.112/1990, arts. 8º, III e IV, 24 e 25; CF/88, art. 37, II."
+  },
+  {
+    "id": "agentes-publicos-26",
+    "topicoId": "agentes-publicos",
+    "topico": "Agentes públicos",
+    "dificuldade": "media",
+    "enunciado": "Extinto o cargo público ou declarada a sua desnecessidade, o servidor público estável:",
+    "alternativas": [
+      { "letra": "A", "texto": "será exonerado, com direito a indenização correspondente a um mês de remuneração por ano de efetivo serviço." },
+      { "letra": "B", "texto": "será demitido, assegurada apenas a contagem do tempo de serviço para fins de aposentadoria." },
+      { "letra": "C", "texto": "ficará em disponibilidade, com remuneração proporcional ao tempo de serviço, até o seu adequado aproveitamento em outro cargo." },
+      { "letra": "D", "texto": "ficará em disponibilidade, com remuneração integral, até a criação de novo cargo de igual denominação e atribuições." },
+      { "letra": "E", "texto": "será automaticamente readaptado em cargo de atribuições compatíveis com sua qualificação." }
+    ],
+    "gabarito": "C",
+    "comentario": "C (correta): é a regra do art. 41, §3º, da CF/88, com a redação da EC nº 19/1998, complementada pelos arts. 30 e 31 da Lei nº 8.112/1990, que disciplinam o aproveitamento obrigatório em cargo de atribuições e vencimentos compatíveis. A (errada): a indenização por tempo de serviço é prevista para a exoneração de estável nas hipóteses de adequação a limites de despesa (art. 169, §5º), situação diversa. B (errada): a demissão é sanção disciplinar, incabível na hipótese. D (errada): a remuneração na disponibilidade é proporcional ao tempo de serviço, e não integral, desde a EC nº 19/1998. E (errada): a readaptação decorre de limitação na capacidade física ou mental, não da extinção do cargo.",
+    "fundamentacaoLegal": "CF/88, art. 41, §3º, e art. 169, §§ 4º e 5º; Lei nº 8.112/1990, arts. 30 e 31."
+  },
+  {
+    "id": "agentes-publicos-27",
+    "topicoId": "agentes-publicos",
+    "topico": "Agentes públicos",
+    "dificuldade": "media",
+    "enunciado": "Assinale a alternativa que apresenta corretamente as formas de vacância de cargo público previstas no art. 33 da Lei nº 8.112/1990.",
+    "alternativas": [
+      { "letra": "A", "texto": "Nomeação, posse, exercício, readaptação e aposentadoria." },
+      { "letra": "B", "texto": "Exoneração, demissão, promoção, readaptação, aposentadoria, posse em outro cargo inacumulável e falecimento." },
+      { "letra": "C", "texto": "Exoneração, demissão, reintegração, recondução e falecimento." },
+      { "letra": "D", "texto": "Exoneração, demissão, remoção, redistribuição e aposentadoria." },
+      { "letra": "E", "texto": "Demissão, suspensão, advertência, aposentadoria e falecimento." }
+    ],
+    "gabarito": "B",
+    "comentario": "B (correta): reproduz o rol do art. 33 da Lei nº 8.112/1990. Note-se que promoção e readaptação são, simultaneamente, formas de provimento (no novo cargo) e de vacância (do cargo anterior). A (errada): nomeação, posse e exercício integram o ciclo de investidura, não de vacância. C (errada): reintegração e recondução são formas de provimento. D (errada): remoção e redistribuição são deslocamentos que não geram vacância do cargo. E (errada): suspensão e advertência são penalidades disciplinares que não acarretam vacância.",
+    "fundamentacaoLegal": "Lei nº 8.112/1990, arts. 8º e 33, incisos I a IX."
+  },
+  {
+    "id": "agentes-publicos-28",
+    "topicoId": "agentes-publicos",
+    "topico": "Agentes públicos",
+    "dificuldade": "media",
+    "enunciado": "Sobre a posse e o exercício, nos termos da Lei nº 8.112/1990, tomada como parâmetro dos regimes estatutários, é correto afirmar que:",
+    "alternativas": [
+      { "letra": "A", "texto": "a posse ocorrerá no prazo de quinze dias contados da publicação do ato de provimento, e o exercício, no prazo de trinta dias contados da posse." },
+      { "letra": "B", "texto": "a posse por procuração é admitida apenas quando o servidor estiver em licença para tratamento da própria saúde." },
+      { "letra": "C", "texto": "a posse é exigida em todas as formas de provimento, inclusive na promoção e na readaptação." },
+      { "letra": "D", "texto": "a posse ocorrerá no prazo de trinta dias contados da publicação do ato de provimento, devendo o servidor empossado entrar em exercício no prazo de quinze dias contados da data da posse, sob pena de ser tornado sem efeito o ato de provimento ou de exoneração, conforme o caso." },
+      { "letra": "E", "texto": "o exercício é o ato pelo qual se completa a investidura no cargo público, e a posse corresponde ao efetivo desempenho das atribuições." }
+    ],
+    "gabarito": "D",
+    "comentario": "D (correta): conjuga o art. 13, §1º e §6º, com o art. 15, §1º e §2º, da Lei nº 8.112/1990 — trinta dias para a posse e quinze dias para entrar em exercício. A (errada): os prazos estão invertidos. B (errada): a posse por procuração específica é admitida em casos de ausência ou de moléstia comprovada, a critério da autoridade, não se restringindo à licença mencionada. C (errada): o art. 13, §4º, dispõe que só haverá posse nos casos de provimento de cargo por nomeação. E (errada): há inversão de conceitos — a posse é o ato que completa a investidura, e o exercício é o efetivo desempenho das atribuições.",
+    "fundamentacaoLegal": "Lei nº 8.112/1990, art. 7º, art. 13, §§ 1º, 3º, 4º e 6º, e art. 15, §§ 1º e 2º."
+  },
+  {
+    "id": "agentes-publicos-29",
+    "topicoId": "agentes-publicos",
+    "topico": "Agentes públicos",
+    "dificuldade": "media",
+    "enunciado": "Prefeito Municipal nomeia seu irmão para o cargo de Secretário Municipal de Saúde e sua cunhada para cargo em comissão de assessora administrativa da mesma Secretaria. À luz da Súmula Vinculante 13 do STF e da jurisprudência da Corte, é correto afirmar que:",
+    "alternativas": [
+      { "letra": "A", "texto": "a nomeação da cunhada para o cargo em comissão de assessora viola a Súmula Vinculante 13, ao passo que a nomeação do irmão para Secretário Municipal, por se tratar de cargo de natureza política, em regra não se enquadra na vedação, ressalvada a comprovação de fraude à lei, nepotismo cruzado ou manifesta inaptidão do nomeado." },
+      { "letra": "B", "texto": "ambas as nomeações são válidas, pois cargos em comissão são de livre nomeação e exoneração." },
+      { "letra": "C", "texto": "ambas as nomeações são nulas, pois a Súmula Vinculante 13 não comporta qualquer exceção." },
+      { "letra": "D", "texto": "a Súmula Vinculante 13 alcança apenas parentes em linha reta, não se aplicando a parentes por afinidade." },
+      { "letra": "E", "texto": "a Súmula Vinculante 13 depende de lei formal de cada ente federativo para produzir efeitos no âmbito municipal." }
+    ],
+    "gabarito": "A",
+    "comentario": "A (correta): a súmula alcança cônjuge, companheiro ou parente em linha reta, colateral ou por afinidade até o terceiro grau — a cunhada é parente por afinidade em segundo grau; quanto aos cargos de natureza política, como o de Secretário Municipal, o STF firmou que, em regra, não incide a vedação, salvo situações de fraude, nepotismo cruzado ou inaptidão. B (errada): a liberdade de nomeação para cargo em comissão não afasta os princípios da moralidade e da impessoalidade. C (errada): existe a exceção jurisprudencial relativa aos agentes políticos. D (errada): a súmula abrange expressamente parentes por afinidade. E (errada): a vedação decorre diretamente dos princípios do art. 37, caput, da CF/88, independendo de lei do ente federativo.",
+    "fundamentacaoLegal": "Súmula Vinculante 13 do STF; CF/88, art. 37, caput (moralidade e impessoalidade); STF, RE 579.951/RN."
+  },
+  {
+    "id": "agentes-publicos-30",
+    "topicoId": "agentes-publicos",
+    "topico": "Agentes públicos",
+    "dificuldade": "dificil",
+    "enunciado": "Trabalhador foi admitido por Município, sem prévia aprovação em concurso público, para exercer atividade permanente, tendo prestado serviços por cinco anos. Declarada a nulidade da contratação, é correto afirmar que:",
+    "alternativas": [
+      { "letra": "A", "texto": "a contratação convalida-se pelo decurso do tempo, aplicando-se ao trabalhador a estabilidade do art. 41 da CF/88." },
+      { "letra": "B", "texto": "o trabalhador faz jus a todas as verbas rescisórias previstas na legislação trabalhista, inclusive aviso prévio e multa de quarenta por cento sobre o FGTS." },
+      { "letra": "C", "texto": "o trabalhador nada tem a receber, pois o ato é nulo desde a origem e não produz qualquer efeito jurídico." },
+      { "letra": "D", "texto": "o trabalhador deve ser reconduzido ao cargo, com direito à contagem do tempo de serviço para fins de aposentadoria." },
+      { "letra": "E", "texto": "a nulidade confere ao trabalhador direito ao pagamento da contraprestação pactuada em relação ao número de horas trabalhadas, respeitado o valor da hora do salário mínimo, e ao levantamento dos depósitos do FGTS, não gerando outros efeitos trabalhistas." }
+    ],
+    "gabarito": "E",
+    "comentario": "E (correta): é a solução da Súmula 363 do TST e da tese fixada pelo STF no RE 705.140 (Tema 308), com apoio no art. 19-A da Lei nº 8.036/1990, evitando o enriquecimento sem causa da Administração sem convalidar a burla ao concurso público. A (errada): o art. 37, §2º, da CF/88 comina nulidade ao ato e punição da autoridade responsável, não havendo convalidação pelo tempo nem aquisição de estabilidade. B (errada): as demais verbas rescisórias não são devidas, justamente por inexistir vínculo válido. C (errada): a negativa total de contraprestação implicaria enriquecimento sem causa do ente público pelo trabalho já prestado. D (errada): a recondução é instituto próprio do servidor estatutário estável e não se aplica à hipótese.",
+    "fundamentacaoLegal": "CF/88, art. 37, II e §2º; Súmula 363 do TST; Lei nº 8.036/1990, art. 19-A; STF, RE 705.140/RS (Tema 308 da repercussão geral)."
+  }
+]

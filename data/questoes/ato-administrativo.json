@@ -75,13 +75,13 @@
     "enunciado": "Um Secretário Municipal de Finanças, valendo-se de competência legalmente prevista e observando a forma escrita exigida, remove servidor efetivo de sua lotação com o propósito exclusivo de puni-lo por críticas públicas feitas à gestão. Sobre a situação, é correto afirmar que:",
     "alternativas": [
       { "letra": "A", "texto": "o ato é válido, pois a remoção é ato discricionário insindicável pelo Poder Judiciário." },
-      { "letra": "B", "texto": "há vício de competência, sanável mediante ratificação pela autoridade hierarquicamente superior." },
+      { "letra": "B", "texto": "há vício de finalidade (desvio de poder), que torna o ato nulo e insuscetível de convalidação, ainda que praticado por autoridade competente e sob a forma prescrita em lei." },
       { "letra": "C", "texto": "há vício de objeto, aplicando-se a teoria da imputação volitiva para responsabilizar o agente." },
-      { "letra": "D", "texto": "há vício de finalidade (desvio de poder), que torna o ato nulo e insuscetível de convalidação, ainda que praticado por autoridade competente e sob a forma prescrita em lei." },
+      { "letra": "D", "texto": "há vício de competência, sanável mediante ratificação pela autoridade hierarquicamente superior." },
       { "letra": "E", "texto": "o ato é meramente anulável, admitindo convalidação pela própria autoridade que o praticou, por não haver prejuízo ao interesse público." }
     ],
-    "gabarito": "D",
-    "comentario": "D (correta): a remoção com finalidade punitiva desvia o ato do fim legal (adequação do serviço público) para fim de perseguição, configurando desvio de finalidade — vício insanável, que atinge elemento sempre vinculado do ato (art. 2º, alínea 'e', e parágrafo único, alínea 'e', da Lei nº 4.717/1965). A (errada): o controle judicial do desvio de finalidade é controle de legalidade, não de mérito, e é plenamente cabível. B (errada): não há vício de competência — o Secretário era competente; o vício é de finalidade. C (errada): o objeto (remoção) é lícito e possível em abstrato; a teoria da imputação volitiva explica a atribuição da conduta do agente à pessoa jurídica, e não se presta a qualificar o vício. E (errada): apenas vícios de competência (quanto à pessoa) e de forma não essencial admitem convalidação (art. 55 da Lei nº 9.784/1999); finalidade, motivo e objeto geram nulidade insanável.",
+    "gabarito": "B",
+    "comentario": "B (correta): a remoção com finalidade punitiva desvia o ato do fim legal (adequação do serviço público) para fim de perseguição, configurando desvio de finalidade — vício insanável, que atinge elemento sempre vinculado do ato (art. 2º, alínea 'e', e parágrafo único, alínea 'e', da Lei nº 4.717/1965). A (errada): o controle judicial do desvio de finalidade é controle de legalidade, não de mérito, e é plenamente cabível. D (errada): não há vício de competência — o Secretário era competente; o vício é de finalidade. C (errada): o objeto (remoção) é lícito e possível em abstrato; a teoria da imputação volitiva explica a atribuição da conduta do agente à pessoa jurídica, e não se presta a qualificar o vício. E (errada): apenas vícios de competência (quanto à pessoa) e de forma não essencial admitem convalidação (art. 55 da Lei nº 9.784/1999); finalidade, motivo e objeto geram nulidade insanável.",
     "fundamentacaoLegal": "Lei nº 4.717/1965, art. 2º, alínea 'e', e parágrafo único, alínea 'e'; Lei nº 9.784/1999, art. 2º, parágrafo único, XIII, e art. 55."
   },
   {
@@ -330,13 +330,13 @@
     "enunciado": "Assinale a alternativa que contém APENAS exemplos de atos administrativos ordinatórios.",
     "alternativas": [
       { "letra": "A", "texto": "Licença, autorização e permissão de uso de bem público." },
-      { "letra": "B", "texto": "Certidão, atestado e parecer técnico." },
-      { "letra": "C", "texto": "Portaria, circular, ordem de serviço e memorando." },
+      { "letra": "B", "texto": "Portaria, circular, ordem de serviço e memorando." },
+      { "letra": "C", "texto": "Certidão, atestado e parecer técnico." },
       { "letra": "D", "texto": "Decreto regulamentar, resolução e deliberação de órgão colegiado." },
       { "letra": "E", "texto": "Multa, interdição de atividade e apreensão de mercadorias." }
     ],
-    "gabarito": "C",
-    "comentario": "C (correta): os atos ordinatórios disciplinam o funcionamento interno da Administração e a conduta funcional de seus agentes, decorrendo do poder hierárquico — portarias, circulares, ordens de serviço, memorandos, avisos e despachos. A (errada): são atos negociais, que conjugam a vontade da Administração com o interesse do particular. B (errada): são atos enunciativos, pois apenas certificam ou opinam sobre situação preexistente. D (errada): são atos normativos, gerais e abstratos. E (errada): são atos punitivos, decorrentes do poder de polícia.",
+    "gabarito": "B",
+    "comentario": "B (correta): os atos ordinatórios disciplinam o funcionamento interno da Administração e a conduta funcional de seus agentes, decorrendo do poder hierárquico — portarias, circulares, ordens de serviço, memorandos, avisos e despachos. A (errada): são atos negociais, que conjugam a vontade da Administração com o interesse do particular. C (errada): são atos enunciativos, pois apenas certificam ou opinam sobre situação preexistente. D (errada): são atos normativos, gerais e abstratos. E (errada): são atos punitivos, decorrentes do poder de polícia.",
     "fundamentacaoLegal": "Doutrina consolidada (Hely Lopes Meirelles — classificação em normativos, ordinatórios, negociais, enunciativos e punitivos); CF/88, art. 37, caput."
   },
   {
@@ -363,14 +363,14 @@
     "dificuldade": "dificil",
     "enunciado": "Sobre os atos administrativos enunciativos, assinale a alternativa correta.",
     "alternativas": [
-      { "letra": "A", "texto": "Certidões e atestados são atos enunciativos, pois a Administração apenas certifica ou atesta fato ou situação preexistente, sem emitir manifestação de vontade apta a criar efeito jurídico novo." },
+      { "letra": "A", "texto": "A apostila é ato punitivo, aplicável ao servidor que descumpre dever funcional." },
       { "letra": "B", "texto": "O parecer é ato negocial, pois pressupõe a conjugação da vontade da Administração com a do particular interessado." },
       { "letra": "C", "texto": "O visto é ato enunciativo, uma vez que não condiciona a eficácia de ato praticado por outro órgão." },
       { "letra": "D", "texto": "Os atos enunciativos, por serem discricionários, podem ser livremente revogados por conveniência e oportunidade." },
-      { "letra": "E", "texto": "A apostila é ato punitivo, aplicável ao servidor que descumpre dever funcional." }
+      { "letra": "E", "texto": "Certidões e atestados são atos enunciativos, pois a Administração apenas certifica ou atesta fato ou situação preexistente, sem emitir manifestação de vontade apta a criar efeito jurídico novo." }
     ],
-    "gabarito": "A",
-    "comentario": "A (correta): os atos enunciativos limitam-se a certificar, atestar ou opinar sobre situação preexistente; parte da doutrina, inclusive, prefere chamá-los de meros atos administrativos, porque neles não há propriamente declaração de vontade. B (errada): o parecer é enunciativo (opinativo), não negocial. C (errada): há dupla impropriedade — o visto é classificado como ato de controle (ou de verificação) e justamente condiciona a eficácia do ato de outro órgão. D (errada): atos enunciativos não são revogáveis, pois não encerram juízo de conveniência e oportunidade a ser reavaliado; eventual incorreção enseja retificação ou anulação. E (errada): apostila é ato enunciativo de averbação/anotação funcional (ex.: registro de alteração de nome ou de vantagem), e não sanção disciplinar.",
+    "gabarito": "E",
+    "comentario": "E (correta): os atos enunciativos limitam-se a certificar, atestar ou opinar sobre situação preexistente; parte da doutrina, inclusive, prefere chamá-los de meros atos administrativos, porque neles não há propriamente declaração de vontade. A (errada): apostila é ato enunciativo de averbação/anotação funcional (ex.: registro de alteração de nome ou de vantagem), e não sanção disciplinar. B (errada): o parecer é enunciativo (opinativo), não negocial. C (errada): há dupla impropriedade — o visto é classificado como ato de controle (ou de verificação) e justamente condiciona a eficácia do ato de outro órgão. D (errada): atos enunciativos não são revogáveis, pois não encerram juízo de conveniência e oportunidade a ser reavaliado; eventual incorreção enseja retificação ou anulação.",
     "fundamentacaoLegal": "CF/88, art. 5º, XXXIV, 'b' (direito de certidão); Súmula 473 do STF (limites da revogação); doutrina consolidada."
   },
   {
@@ -432,13 +432,13 @@
     "enunciado": "Sobre o parecer jurídico e a responsabilidade do advogado público que o emite, à luz do entendimento firmado pelo Supremo Tribunal Federal no MS 24.631/DF e do art. 28 do Decreto-Lei nº 4.657/1942 (LINDB), é correto afirmar que:",
     "alternativas": [
       { "letra": "A", "texto": "o parecerista responde solidariamente com o administrador em qualquer hipótese, por integrar a cadeia decisória do ato." },
-      { "letra": "B", "texto": "o parecer é sempre vinculante para a autoridade decisória, que dele não pode motivadamente discordar." },
-      { "letra": "C", "texto": "no parecer meramente opinativo (facultativo), em regra não há responsabilização do parecerista pelo ato administrativo, salvo dolo ou erro grosseiro; quando a lei torna vinculante a manifestação jurídica, há compartilhamento do poder decisório e, por consequência, responsabilidade." },
+      { "letra": "B", "texto": "no parecer meramente opinativo (facultativo), em regra não há responsabilização do parecerista pelo ato administrativo, salvo dolo ou erro grosseiro; quando a lei torna vinculante a manifestação jurídica, há compartilhamento do poder decisório e, por consequência, responsabilidade." },
+      { "letra": "C", "texto": "o parecer é sempre vinculante para a autoridade decisória, que dele não pode motivadamente discordar." },
       { "letra": "D", "texto": "parecer obrigatório e parecer vinculante são expressões sinônimas, produzindo idênticos efeitos quanto à responsabilidade." },
       { "letra": "E", "texto": "o parecerista jamais responde por sua manifestação, ainda que atue com dolo, porque o parecer é ato meramente enunciativo." }
     ],
-    "gabarito": "C",
-    "comentario": "C (correta): o STF distinguiu parecer facultativo, obrigatório e vinculante, reconhecendo responsabilização do parecerista sobretudo na hipótese de parecer vinculante, em que há partilha do poder decisório; o art. 28 da LINDB, por sua vez, exige dolo ou erro grosseiro para a responsabilização pessoal do agente por decisões e opiniões técnicas. A (errada): a solidariedade automática foi expressamente afastada pelo STF. B (errada): o parecer opinativo não vincula; a autoridade pode dele divergir motivadamente. D (errada): no parecer obrigatório a manifestação é indispensável ao procedimento, mas a autoridade pode discordar motivadamente; no vinculante, não pode — daí a diferença de regime de responsabilidade. E (errada): dolo e erro grosseiro autorizam a responsabilização pessoal, nos termos do art. 28 da LINDB.",
+    "gabarito": "B",
+    "comentario": "B (correta): o STF distinguiu parecer facultativo, obrigatório e vinculante, reconhecendo responsabilização do parecerista sobretudo na hipótese de parecer vinculante, em que há partilha do poder decisório; o art. 28 da LINDB, por sua vez, exige dolo ou erro grosseiro para a responsabilização pessoal do agente por decisões e opiniões técnicas. A (errada): a solidariedade automática foi expressamente afastada pelo STF. C (errada): o parecer opinativo não vincula; a autoridade pode dele divergir motivadamente. D (errada): no parecer obrigatório a manifestação é indispensável ao procedimento, mas a autoridade pode discordar motivadamente; no vinculante, não pode — daí a diferença de regime de responsabilidade. E (errada): dolo e erro grosseiro autorizam a responsabilização pessoal, nos termos do art. 28 da LINDB.",
     "fundamentacaoLegal": "STF, MS 24.631/DF; Decreto-Lei nº 4.657/1942 (LINDB), art. 28, incluído pela Lei nº 13.655/2018."
   },
   {
@@ -483,13 +483,13 @@
     "enunciado": "Quanto aos efeitos que produzem, os atos administrativos podem ser classificados em constitutivos, declaratórios e enunciativos. Assinale a alternativa correta.",
     "alternativas": [
       { "letra": "A", "texto": "O ato constitutivo limita-se a reconhecer situação jurídica preexistente, sem criar, modificar ou extinguir direitos." },
-      { "letra": "B", "texto": "A demissão de servidor é ato declaratório, pois apenas reconhece a infração funcional anteriormente cometida." },
+      { "letra": "B", "texto": "A licença é ato declaratório de direito preexistente do particular, ao passo que a permissão de uso de bem público é ato constitutivo." },
       { "letra": "C", "texto": "A certidão é ato constitutivo, na medida em que constitui a prova do fato nela certificado." },
-      { "letra": "D", "texto": "A licença é ato declaratório de direito preexistente do particular, ao passo que a permissão de uso de bem público é ato constitutivo." },
+      { "letra": "D", "texto": "A demissão de servidor é ato declaratório, pois apenas reconhece a infração funcional anteriormente cometida." },
       { "letra": "E", "texto": "Atos declaratórios são livremente revogáveis por conveniência e oportunidade, justamente por não gerarem direitos." }
     ],
-    "gabarito": "D",
-    "comentario": "D (correta): a licença apenas reconhece (declara) o direito do particular que preencheu os requisitos legais para o exercício de atividade, sendo por isso ato vinculado e declaratório; a permissão de uso, ao contrário, cria situação jurídica nova e precária em favor do permissionário, com natureza constitutiva. A (errada): a definição apresentada é a de ato declaratório. B (errada): a demissão é ato constitutivo, pois extingue o vínculo funcional. C (errada): a certidão é ato enunciativo, que apenas documenta fato ou situação preexistente. E (errada): a revogação pressupõe juízo de conveniência e oportunidade e não alcança atos declaratórios nem atos que geraram direito adquirido (Súmula 473 do STF).",
+    "gabarito": "B",
+    "comentario": "B (correta): a licença apenas reconhece (declara) o direito do particular que preencheu os requisitos legais para o exercício de atividade, sendo por isso ato vinculado e declaratório; a permissão de uso, ao contrário, cria situação jurídica nova e precária em favor do permissionário, com natureza constitutiva. A (errada): a definição apresentada é a de ato declaratório. D (errada): a demissão é ato constitutivo, pois extingue o vínculo funcional. C (errada): a certidão é ato enunciativo, que apenas documenta fato ou situação preexistente. E (errada): a revogação pressupõe juízo de conveniência e oportunidade e não alcança atos declaratórios nem atos que geraram direito adquirido (Súmula 473 do STF).",
     "fundamentacaoLegal": "Súmula 473 do STF; doutrina consolidada (Di Pietro; Hely Lopes Meirelles)."
   },
   {

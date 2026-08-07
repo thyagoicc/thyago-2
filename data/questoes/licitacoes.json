@@ -1,0 +1,512 @@
+[
+  {
+    "id": "licitacoes-01",
+    "topicoId": "licitacoes",
+    "topico": "Licitações públicas",
+    "dificuldade": "media",
+    "enunciado": "Sobre as modalidades de licitação previstas na Lei nº 14.133/2021, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "São modalidades de licitação: pregão, concorrência, tomada de preços, convite e leilão." },
+      { "letra": "B", "texto": "São modalidades de licitação: concorrência, tomada de preços, convite, concurso e leilão." },
+      { "letra": "C", "texto": "São modalidades de licitação: pregão, concorrência, concurso, leilão e diálogo competitivo." },
+      { "letra": "D", "texto": "São modalidades de licitação: pregão, concorrência, concurso, leilão, diálogo competitivo e regime diferenciado de contratações." },
+      { "letra": "E", "texto": "São modalidades de licitação: pregão eletrônico, pregão presencial, concorrência, concurso e leilão." }
+    ],
+    "gabarito": "C",
+    "comentario": "A alternativa C reproduz o art. 28 da Lei nº 14.133/2021. As alternativas A, B e E mantêm as modalidades tomada de preços e convite, extintas pela nova lei, sendo que a alternativa E ainda erra ao tratar as formas de realização do pregão (eletrônica e presencial) como modalidades autônomas; note-se que o art. 17, § 2º, estabelece a preferência pela forma eletrônica. A alternativa D inclui o regime diferenciado de contratações, que era regime licitatório da Lei nº 12.462/2011, revogada, e não modalidade da Lei nº 14.133/2021.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 28, I a V; art. 17, § 2º; art. 193."
+  },
+  {
+    "id": "licitacoes-02",
+    "topicoId": "licitacoes",
+    "topico": "Licitações públicas",
+    "dificuldade": "dificil",
+    "enunciado": "O Município pretende contratar solução tecnológica inovadora cujas especificações técnicas não consegue definir com precisão suficiente. Sobre o diálogo competitivo, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "É modalidade destinada exclusivamente à contratação de obras e serviços comuns de engenharia, com julgamento por menor preço." },
+      { "letra": "B", "texto": "Pode ser conduzido individualmente pelo agente de contratação, dispensada a constituição de comissão." },
+      { "letra": "C", "texto": "A Administração está obrigada a manter sigilo absoluto sobre a existência da licitação, inclusive quanto ao edital, até a fase de apresentação de propostas." },
+      { "letra": "D", "texto": "Aplica-se sempre que a Administração pretenda contratar bens ou serviços comuns por valor superior ao limite da concorrência." },
+      { "letra": "E", "texto": "É a modalidade em que a Administração realiza diálogos com licitantes previamente selecionados mediante critérios objetivos, com o intuito de desenvolver alternativas capazes de atender às suas necessidades, devendo os licitantes apresentar proposta final após o encerramento dos diálogos." }
+    ],
+    "gabarito": "E",
+    "comentario": "A alternativa E reproduz o conceito do art. 6º, XLII, da Lei nº 14.133/2021, detalhado no art. 32. A alternativa A restringe indevidamente o objeto: o diálogo competitivo é cabível para contratação de objetos que envolvam inovação tecnológica ou técnica, impossibilidade de o órgão ter sua necessidade satisfeita sem adaptação de soluções disponíveis no mercado, ou impossibilidade de definição prévia e suficiente das especificações técnicas (art. 32, I). A alternativa B contraria o art. 32, § 1º, XI, que exige comissão de contratação composta de pelo menos 3 servidores efetivos ou empregados públicos pertencentes aos quadros permanentes da Administração. A alternativa C contraria o art. 32, § 1º, I, que impõe a divulgação do edital com prazo mínimo de 25 dias úteis para manifestação de interesse; o sigilo alcança apenas informações e soluções apresentadas pelos licitantes (art. 32, § 1º, IV). A alternativa D transforma modalidade excepcional em regra geral, ignorando que para bens e serviços comuns a modalidade adequada é o pregão.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 6º, XLII; art. 32, caput, I, e § 1º, I, IV e XI."
+  },
+  {
+    "id": "licitacoes-03",
+    "topicoId": "licitacoes",
+    "topico": "Licitações públicas",
+    "dificuldade": "media",
+    "enunciado": "Sobre a distinção entre pregão e concorrência na Lei nº 14.133/2021, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "Adota-se o pregão sempre que o objeto possuir padrões de desempenho e qualidade que possam ser objetivamente definidos pelo edital, por meio de especificações usuais de mercado, não se aplicando essa modalidade às contratações de serviços técnicos especializados de natureza predominantemente intelectual e de obras e serviços de engenharia, ressalvados os serviços comuns de engenharia." },
+      { "letra": "B", "texto": "O pregão é cabível apenas para bens e serviços comuns cujo valor não ultrapasse o limite legal da concorrência." },
+      { "letra": "C", "texto": "A concorrência destina-se exclusivamente à alienação de bens imóveis da Administração." },
+      { "letra": "D", "texto": "O pregão e a concorrência seguem ritos procedimentais distintos, sendo que apenas a concorrência admite a fase de lances." },
+      { "letra": "E", "texto": "O pregão admite os critérios de julgamento de melhor técnica e de técnica e preço, além do menor preço." }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A reproduz o art. 29, caput e parágrafo único, da Lei nº 14.133/2021, combinado com o art. 6º, XXI, a (serviços comuns de engenharia). A alternativa B cria limitação por valor inexistente na nova lei, que definiu as modalidades pelo objeto, e não pelo valor. A alternativa C confunde concorrência com leilão, modalidade própria para alienação de bens (art. 6º, XL). A alternativa D contraria o art. 29, caput, segundo o qual concorrência e pregão seguem o mesmo rito procedimental comum do art. 17. A alternativa E contraria o art. 34 combinado com o art. 6º, XLI, pois o pregão admite apenas menor preço ou maior desconto.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 29, caput e parágrafo único; art. 6º, XXI, a, XXXVIII, XL e XLI; art. 34."
+  },
+  {
+    "id": "licitacoes-04",
+    "topicoId": "licitacoes",
+    "topico": "Licitações públicas",
+    "dificuldade": "dificil",
+    "enunciado": "O Município pretende alienar veículos inservíveis do seu patrimônio. Sobre a modalidade leilão na Lei nº 14.133/2021, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "O leilão exige registro cadastral prévio dos interessados e possui fase de habilitação anterior à apresentação dos lances." },
+      { "letra": "B", "texto": "O leilão deve necessariamente ser conduzido por leiloeiro oficial, sendo vedada sua realização por servidor designado." },
+      { "letra": "C", "texto": "Se a Administração optar por leiloeiro oficial, deverá selecioná-lo mediante concorrência, com critério de julgamento de menor preço global." },
+      { "letra": "D", "texto": "O leilão não exigirá registro cadastral prévio, não terá fase de habilitação e deverá ser homologado assim que concluída a fase de lances, superada a fase recursal e efetivado o pagamento pelo licitante vencedor." },
+      { "letra": "E", "texto": "O critério de julgamento aplicável ao leilão é o de maior desconto sobre o valor de avaliação do bem." }
+    ],
+    "gabarito": "D",
+    "comentario": "A alternativa D reproduz o art. 31, § 4º, da Lei nº 14.133/2021. A alternativa A afirma exatamente o contrário desse dispositivo. A alternativa B contraria o art. 31, caput, que permite cometer o leilão a leiloeiro oficial OU a servidor designado pela autoridade competente. A alternativa C contraria o art. 31, § 1º, segundo o qual a seleção do leiloeiro oficial se dá mediante credenciamento ou licitação na modalidade pregão, adotado o critério de maior desconto para as comissões. A alternativa E troca o critério de julgamento: no leilão adota-se o maior lance (art. 6º, XL, e art. 33, V).",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 31, caput e §§ 1º e 4º; art. 6º, XL; art. 33, V."
+  },
+  {
+    "id": "licitacoes-05",
+    "topicoId": "licitacoes",
+    "topico": "Licitações públicas",
+    "dificuldade": "media",
+    "enunciado": "Assinale a alternativa que NÃO corresponde a critério de julgamento previsto no art. 33 da Lei nº 14.133/2021.",
+    "alternativas": [
+      { "letra": "A", "texto": "Menor preço." },
+      { "letra": "B", "texto": "Menor prazo de execução." },
+      { "letra": "C", "texto": "Maior desconto." },
+      { "letra": "D", "texto": "Técnica e preço." },
+      { "letra": "E", "texto": "Maior retorno econômico." }
+    ],
+    "gabarito": "B",
+    "comentario": "O art. 33 da Lei nº 14.133/2021 estabelece rol taxativo de critérios de julgamento: menor preço (I), maior desconto (II), melhor técnica ou conteúdo artístico (III), técnica e preço (IV), maior lance, no caso de leilão (V), e maior retorno econômico (VI). O menor prazo de execução, indicado na alternativa B, não é critério de julgamento autônomo, podendo, quando muito, integrar a avaliação técnica das propostas ou os fatores de desempate previstos no art. 60. As alternativas A, C, D e E correspondem, respectivamente, aos incisos I, II, IV e VI do art. 33.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 33, I a VI."
+  },
+  {
+    "id": "licitacoes-06",
+    "topicoId": "licitacoes",
+    "topico": "Licitações públicas",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre o critério de julgamento por maior retorno econômico, previsto na Lei nº 14.133/2021, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "É utilizado preferencialmente nas contratações de obras e serviços de engenharia sob o regime de contratação integrada." },
+      { "letra": "B", "texto": "É utilizado exclusivamente para a celebração de contrato de eficiência, considerando a maior economia para a Administração, e a remuneração é fixada em percentual que incidirá de forma proporcional à economia efetivamente obtida na execução do contrato." },
+      { "letra": "C", "texto": "Considera o maior valor nominal ofertado pelo licitante a título de outorga, independentemente da economia gerada." },
+      { "letra": "D", "texto": "Aplica-se às concessões de serviço público reguladas pela Lei nº 8.987/1995, em substituição ao critério de menor tarifa." },
+      { "letra": "E", "texto": "Permite a remuneração do contratado em valor fixo, ainda que não alcançada a economia prevista na proposta." }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B reproduz o art. 39, caput, da Lei nº 14.133/2021, em consonância com o conceito de contrato de eficiência do art. 6º, LIII. A alternativa A confunde critério de julgamento com regime de execução (art. 46, V). A alternativa C descreve critério de outorga típico de concessões, e não o maior retorno econômico, que se mede pela economia gerada. A alternativa D está errada porque as concessões de serviço público continuam regidas pela Lei nº 8.987/1995, com critérios próprios de julgamento previstos em seu art. 15. A alternativa E contraria a lógica do instituto e o art. 39, § 2º, segundo o qual, nos casos em que não for gerada a economia prevista, a diferença entre a economia contratada e a efetivamente obtida será descontada da remuneração do contratado.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 39, caput e §§; art. 6º, LIII; art. 46, V."
+  },
+  {
+    "id": "licitacoes-07",
+    "topicoId": "licitacoes",
+    "topico": "Licitações públicas",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre as fases do processo licitatório na Lei nº 14.133/2021, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A fase de habilitação antecede obrigatoriamente a fase de julgamento das propostas, sem qualquer possibilidade de inversão." },
+      { "letra": "B", "texto": "A fase recursal é sempre dupla, cabendo recurso autônomo ao final de cada uma das fases do certame." },
+      { "letra": "C", "texto": "A fase preparatória é dispensável nas contratações realizadas por pregão eletrônico." },
+      { "letra": "D", "texto": "O processo licitatório observa a sequência de fase preparatória, divulgação do edital, apresentação de propostas e lances, julgamento, habilitação, recursal e homologação, admitida a inversão das fases de julgamento e habilitação mediante ato motivado com explicitação dos benefícios decorrentes e previsão no edital." },
+      { "letra": "E", "texto": "A homologação antecede a adjudicação e ambas competem ao agente de contratação." }
+    ],
+    "gabarito": "D",
+    "comentario": "A alternativa D reproduz o art. 17, caput, incisos I a VII, e o § 1º da Lei nº 14.133/2021, que inverteu a ordem tradicional colocando a habilitação após o julgamento, admitindo o retorno à ordem clássica desde que motivado e previsto no edital. A alternativa A nega expressamente essa possibilidade de inversão. A alternativa B contraria a lógica de fase recursal única prevista no inciso VI, ressalvada a hipótese de inversão do § 1º. A alternativa C contraria o art. 17, I, e os arts. 18 e seguintes, que tornam a fase preparatória indispensável, com ETP, termo de referência e demais documentos de planejamento. A alternativa E inverte a ordem do art. 71, IV, e atribui a competência a agente errado, pois a adjudicação e a homologação cabem à autoridade superior.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 17, caput e §§ 1º e 2º; art. 18; art. 71, IV."
+  },
+  {
+    "id": "licitacoes-08",
+    "topicoId": "licitacoes",
+    "topico": "Licitações públicas",
+    "dificuldade": "media",
+    "enunciado": "Assinale a alternativa que NÃO apresenta princípio expressamente arrolado no art. 5º da Lei nº 14.133/2021.",
+    "alternativas": [
+      { "letra": "A", "texto": "Segregação de funções." },
+      { "letra": "B", "texto": "Planejamento." },
+      { "letra": "C", "texto": "Anterioridade tributária." },
+      { "letra": "D", "texto": "Desenvolvimento nacional sustentável." },
+      { "letra": "E", "texto": "Celeridade." }
+    ],
+    "gabarito": "C",
+    "comentario": "O art. 5º da Lei nº 14.133/2021 arrola, entre outros, os princípios da legalidade, impessoalidade, moralidade, publicidade, eficiência, interesse público, probidade administrativa, igualdade, planejamento, transparência, eficácia, segregação de funções, motivação, vinculação ao edital, julgamento objetivo, segurança jurídica, razoabilidade, competitividade, proporcionalidade, celeridade, economicidade e desenvolvimento nacional sustentável, além das disposições do Decreto-Lei nº 4.657/1942 (LINDB). A alternativa C indica princípio de direito tributário (art. 150, III, b, da CF/88), estranho ao rol. As alternativas A, B, D e E constam expressamente do art. 5º.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 5º; CF/88, art. 150, III, b."
+  },
+  {
+    "id": "licitacoes-09",
+    "topicoId": "licitacoes",
+    "topico": "Licitações públicas",
+    "dificuldade": "media",
+    "enunciado": "Sobre o agente de contratação na Lei nº 14.133/2021, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "Será designado pela autoridade competente, entre servidores efetivos ou empregados públicos dos quadros permanentes da Administração Pública, para tomar decisões, acompanhar o trâmite da licitação, dar impulso ao procedimento e executar quaisquer outras atividades necessárias ao bom andamento do certame até a homologação." },
+      { "letra": "B", "texto": "Pode ser livremente designado entre quaisquer pessoas, inclusive não integrantes dos quadros da Administração, desde que possua capacitação técnica." },
+      { "letra": "C", "texto": "Na modalidade pregão, o agente responsável pela condução do certame é denominado presidente da comissão de licitação." },
+      { "letra": "D", "texto": "Em licitação que envolva bens ou serviços especiais, é vedada a substituição do agente de contratação por comissão de contratação." },
+      { "letra": "E", "texto": "O agente de contratação responde pessoal e objetivamente por todos os atos praticados, inclusive quando fundamentados em pareceres técnicos ou jurídicos." }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A reproduz o art. 8º, caput, da Lei nº 14.133/2021. A alternativa B contraria a exigência legal de vínculo efetivo ou de emprego público em quadro permanente. A alternativa C erra a nomenclatura: no pregão, o agente de contratação é denominado pregoeiro (art. 8º, § 5º). A alternativa D contraria o art. 8º, § 2º, que autoriza a substituição do agente de contratação por comissão de contratação formada por, no mínimo, 3 membros em licitação que envolva bens ou serviços especiais. A alternativa E contraria o art. 8º, § 3º, que prevê o auxílio dos órgãos de assessoramento jurídico e de controle interno, e o art. 28 da LINDB, segundo o qual o agente público responde pessoalmente por decisões ou opiniões técnicas apenas em caso de dolo ou erro grosseiro.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 8º, caput e §§ 2º, 3º e 5º; LINDB, art. 28."
+  },
+  {
+    "id": "licitacoes-10",
+    "topicoId": "licitacoes",
+    "topico": "Licitações públicas",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre a dispensa de licitação em razão do valor, prevista nos incisos I e II do art. 75 da Lei nº 14.133/2021, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "Os limites legais são fixos e imutáveis, somente podendo ser alterados por nova lei em sentido formal." },
+      { "letra": "B", "texto": "Para a aferição dos limites, considera-se isoladamente cada contratação, sendo irrelevante o somatório das despesas realizadas no exercício financeiro." },
+      { "letra": "C", "texto": "Os valores são reduzidos à metade nas contratações realizadas por consórcios públicos e por autarquias e fundações qualificadas como agências executivas." },
+      { "letra": "D", "texto": "A contratação direta por dispensa em razão do valor dispensa a formalização de processo administrativo e a instrução com documentos de planejamento." },
+      { "letra": "E", "texto": "Para a aferição dos limites deverão ser observados o somatório do que for despendido no exercício financeiro pela respectiva unidade gestora e o somatório da despesa realizada com objetos de mesma natureza, assim entendidos aqueles relativos a contratações no mesmo ramo de atividade." }
+    ],
+    "gabarito": "E",
+    "comentario": "A alternativa E reproduz o art. 75, § 1º, I e II, da Lei nº 14.133/2021, regra destinada a impedir o fracionamento indevido da despesa. A alternativa A contraria o art. 182, que determina a atualização anual dos valores fixados na Lei pelo Poder Executivo federal, com base no IPCA-E. A alternativa B nega justamente a regra do § 1º. A alternativa C inverte o art. 75, § 2º, que DUPLICA (e não reduz) os valores para consórcios públicos e para autarquias e fundações qualificadas como agências executivas. A alternativa D contraria o art. 72, que exige processo de contratação direta instruído com documento de formalização de demanda, estimativa de despesa, parecer jurídico, demonstração de compatibilidade orçamentária, razão da escolha do contratado e justificativa de preço.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 75, I, II e §§ 1º e 2º; art. 72; art. 182."
+  },
+  {
+    "id": "licitacoes-11",
+    "topicoId": "licitacoes",
+    "topico": "Licitações públicas",
+    "dificuldade": "media",
+    "enunciado": "Assinale a alternativa que apresenta hipótese de INEXIGIBILIDADE de licitação, nos termos do art. 74 da Lei nº 14.133/2021.",
+    "alternativas": [
+      { "letra": "A", "texto": "Contratação emergencial destinada a atender situação de calamidade pública." },
+      { "letra": "B", "texto": "Contratação de remanescente de obra em consequência de rescisão contratual." },
+      { "letra": "C", "texto": "Contratação que mantenha todas as condições definidas em edital de licitação realizada há menos de um ano, quando não surgirem licitantes interessados." },
+      { "letra": "D", "texto": "Aquisição de bens ou contratação de serviços de valor inferior ao limite legal fixado para a dispensa." },
+      { "letra": "E", "texto": "Aquisição ou locação de imóvel cujas características de instalações e de localização tornem necessária a sua escolha." }
+    ],
+    "gabarito": "E",
+    "comentario": "A alternativa E corresponde ao art. 74, V, da Lei nº 14.133/2021, hipótese de inexigibilidade por inviabilidade de competição. As demais alternativas são hipóteses de DISPENSA de licitação, previstas no art. 75: A corresponde ao inciso VIII; B ao inciso XI; C ao inciso III, alínea a (licitação deserta); e D aos incisos I e II. A questão explora a confusão entre os institutos: na dispensa a competição é viável, mas a lei autoriza afastá-la; na inexigibilidade a competição é inviável.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 74, V; art. 75, I, II, III, a, VIII e XI."
+  },
+  {
+    "id": "licitacoes-12",
+    "topicoId": "licitacoes",
+    "topico": "Licitações públicas",
+    "dificuldade": "dificil",
+    "enunciado": "A Secretaria Municipal de Finanças pretende contratar, por inexigibilidade, serviços de auditoria tributária com empresa de notória especialização. Assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A inexigibilidade é admitida para serviços técnicos especializados de natureza predominantemente intelectual prestados por profissionais ou empresas de notória especialização, sendo vedada, contudo, a inexigibilidade para serviços de publicidade e divulgação." },
+      { "letra": "B", "texto": "A notória especialização é aferida exclusivamente pelo tempo de existência da empresa no mercado, não se admitindo outros critérios." },
+      { "letra": "C", "texto": "A inexigibilidade prevista para serviços técnicos especializados alcança também os serviços de publicidade e divulgação, desde que o prestador seja notoriamente especializado." },
+      { "letra": "D", "texto": "A contratação por inexigibilidade dispensa a justificativa de preço, por inexistir parâmetro comparativo de mercado." },
+      { "letra": "E", "texto": "A contratação direta por inexigibilidade independe da comprovação da regularidade fiscal e trabalhista do contratado." }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A reproduz o art. 74, III, da Lei nº 14.133/2021, incluída a vedação expressa quanto a publicidade e divulgação; a auditoria tributária consta da alínea c do inciso III. A alternativa B restringe indevidamente o conceito do art. 74, § 3º, que considera desempenho anterior, estudos, experiência, publicações, organização, aparelhamento, equipe técnica e outros requisitos. A alternativa C ignora a vedação legal expressa. A alternativa D contraria o art. 72, VII, que exige justificativa de preço no processo de contratação direta, e o art. 23, que trata da estimativa do valor da contratação. A alternativa E contraria o art. 72, parágrafo único, e o art. 68, que impõem a comprovação das condições de habilitação também na contratação direta.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 74, III e § 3º; art. 72, VII e parágrafo único; art. 68."
+  },
+  {
+    "id": "licitacoes-13",
+    "topicoId": "licitacoes",
+    "topico": "Licitações públicas",
+    "dificuldade": "media",
+    "enunciado": "Após forte temporal, o Município declarou situação de emergência e contratou diretamente empresa para a recuperação de vias públicas. Sobre a dispensa de licitação por emergência ou calamidade pública (art. 75, VIII, da Lei nº 14.133/2021), assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A contratação pode abranger a integralidade da obra, ainda que sua conclusão demande prazo superior a um ano, admitida a prorrogação do contrato." },
+      { "letra": "B", "texto": "A contratação limita-se à aquisição dos bens necessários ao atendimento da situação emergencial ou calamitosa e às parcelas de obras e serviços que possam ser concluídas no prazo máximo de 1 ano, contado da data de ocorrência da emergência ou da calamidade, vedadas a prorrogação dos respectivos contratos e a recontratação de empresa já contratada com base nesse inciso." },
+      { "letra": "C", "texto": "A emergência decorrente de desídia administrativa ou de falta de planejamento autoriza igualmente a contratação direta, por se tratar de situação fática de urgência." },
+      { "letra": "D", "texto": "A contratação emergencial constitui hipótese de inexigibilidade de licitação, por inviabilidade de competição." },
+      { "letra": "E", "texto": "O prazo máximo de conclusão das parcelas de obras e serviços é de 180 dias, contados da assinatura do contrato." }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B reproduz o art. 75, VIII, da Lei nº 14.133/2021. A alternativa A contraria a vedação expressa de prorrogação e o limite temporal de um ano. A alternativa C contraria o art. 75, § 6º, segundo o qual a emergência decorrente de falta de planejamento, desídia ou má gestão não afasta a responsabilização do agente público, embora não impeça, por si só, a contratação; a assertiva, todavia, apresenta a desídia como fundamento autorizador da contratação, o que inverte a lógica do dispositivo e da doutrina, que exige emergência não provocada. A alternativa D confunde os institutos: trata-se de dispensa, e não de inexigibilidade. A alternativa E altera o prazo e o termo inicial fixados em lei.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 75, VIII e § 6º."
+  },
+  {
+    "id": "licitacoes-14",
+    "topicoId": "licitacoes",
+    "topico": "Licitações públicas",
+    "dificuldade": "dificil",
+    "enunciado": "Licitação promovida pelo Município restou deserta, por ausência de licitantes interessados. Seis meses depois, a Administração pretende contratar diretamente o objeto. Assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A contratação direta é inviável, pois a licitação deserta exige a repetição do certame, sob pena de ofensa ao princípio da obrigatoriedade de licitar." },
+      { "letra": "B", "texto": "A hipótese configura inexigibilidade de licitação, por inviabilidade fática de competição." },
+      { "letra": "C", "texto": "É dispensável a licitação para contratação que mantenha todas as condições definidas em edital de licitação realizada há menos de 1 ano, quando se verificar que naquela licitação não surgiram licitantes interessados ou não foram apresentadas propostas válidas." },
+      { "letra": "D", "texto": "A contratação direta é admitida, sendo lícito, todavia, alterar as condições do edital para torná-la mais vantajosa ao contratado." },
+      { "letra": "E", "texto": "A hipótese somente se aplica quando as propostas apresentadas consignarem preços manifestamente superiores aos praticados no mercado, o que não ocorreu no caso." }
+    ],
+    "gabarito": "C",
+    "comentario": "A alternativa C reproduz o art. 75, III, a, da Lei nº 14.133/2021, que trata da chamada licitação deserta. A alternativa A ignora a hipótese legal de dispensa. A alternativa B confunde os institutos: a ausência de interessados é hipótese de dispensa, e não de inexigibilidade, pois a competição era juridicamente viável. A alternativa D contraria a exigência de manutenção de TODAS as condições definidas no edital original, requisito essencial para evitar burla ao certame. A alternativa E descreve a licitação fracassada, prevista na alínea b do mesmo inciso III, sendo ambas as situações abrangidas pelo dispositivo.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 75, III, alíneas a e b."
+  },
+  {
+    "id": "licitacoes-15",
+    "topicoId": "licitacoes",
+    "topico": "Licitações públicas",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre os modos de disputa previstos na Lei nº 14.133/2021, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "São modos de disputa o aberto, o fechado e o restrito, vedada sua combinação em um mesmo certame." },
+      { "letra": "B", "texto": "O modo de disputa aberto é obrigatório quando adotado o critério de julgamento de técnica e preço." },
+      { "letra": "C", "texto": "O modo de disputa fechado pode ser utilizado isoladamente quando adotado o critério de julgamento de menor preço." },
+      { "letra": "D", "texto": "Poderão ser adotados os modos de disputa aberto e fechado, isolada ou conjuntamente, vedada a utilização isolada do modo fechado quando adotados os critérios de julgamento de menor preço ou de maior desconto." },
+      { "letra": "E", "texto": "No modo de disputa aberto, as propostas permanecem sigilosas até a data e hora designadas para sua divulgação." }
+    ],
+    "gabarito": "D",
+    "comentario": "A alternativa D reproduz o art. 56, caput e § 2º, da Lei nº 14.133/2021. A alternativa A cria modo de disputa inexistente (restrito) e nega a combinação expressamente autorizada pelo caput. A alternativa B inverte o § 1º, que VEDA o modo aberto quando adotado o critério de técnica e preço. A alternativa C contraria o § 2º, que impede o uso isolado do modo fechado nos critérios de menor preço e maior desconto. A alternativa E descreve o modo fechado, e não o aberto, no qual os licitantes apresentam propostas por meio de lances públicos e sucessivos, crescentes ou decrescentes.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 56, caput e §§ 1º e 2º."
+  },
+  {
+    "id": "licitacoes-16",
+    "topicoId": "licitacoes",
+    "topico": "Licitações públicas",
+    "dificuldade": "media",
+    "enunciado": "Sobre o caráter sigiloso do orçamento estimado da contratação, previsto na Lei nº 14.133/2021, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "O orçamento estimado é sempre sigiloso, sendo vedada sua divulgação antes da homologação do certame." },
+      { "letra": "B", "texto": "O sigilo do orçamento prevalece inclusive perante os órgãos de controle interno e externo." },
+      { "letra": "C", "texto": "O orçamento estimado é sempre público, não admitindo a lei qualquer hipótese de sigilo." },
+      { "letra": "D", "texto": "Desde que justificado, o orçamento estimado poderá ter caráter sigiloso, sem prejuízo da divulgação do detalhamento dos quantitativos e das demais informações necessárias à elaboração das propostas, mas, na licitação em que for adotado o critério de julgamento por maior desconto, o preço estimado ou o máximo aceitável constará obrigatoriamente do edital." },
+      { "letra": "E", "texto": "O sigilo do orçamento é incompatível com o regime de contratação integrada, no qual o valor estimado deve sempre constar do edital." }
+    ],
+    "gabarito": "D",
+    "comentario": "A alternativa D conjuga o art. 24, caput, e o seu parágrafo único da Lei nº 14.133/2021. A alternativa A transforma faculdade excepcional e justificada em regra absoluta. A alternativa B contraria o art. 24, caput, parte final, que expressamente afasta o sigilo perante os órgãos de controle interno e externo. A alternativa C nega a possibilidade legal de sigilo. A alternativa E cria incompatibilidade não prevista em lei entre o sigilo do orçamento e a contratação integrada.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 24, caput e parágrafo único."
+  },
+  {
+    "id": "licitacoes-17",
+    "topicoId": "licitacoes",
+    "topico": "Licitações públicas",
+    "dificuldade": "media",
+    "enunciado": "Sobre a habilitação na Lei nº 14.133/2021, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A habilitação compreende as qualificações jurídica, técnica, econômico-financeira, ambiental e política do licitante." },
+      { "letra": "B", "texto": "A habilitação é o processo pelo qual se verifica o conjunto de informações e documentos necessários e suficientes para demonstrar a capacidade do licitante de realizar o objeto da licitação, dividindo-se em habilitação jurídica, técnica, fiscal, social e trabalhista e econômico-financeira." },
+      { "letra": "C", "texto": "É admitida a exigência de índices de rentabilidade ou lucratividade como requisito de qualificação econômico-financeira." },
+      { "letra": "D", "texto": "A documentação de habilitação deve ser exigida de todos os licitantes, ainda que adotada a ordem de fases do art. 17, sendo vedada a exigência apenas do licitante vencedor." },
+      { "letra": "E", "texto": "A verificação da regularidade fiscal é facultativa nas contratações de valor inferior ao limite de dispensa." }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B reproduz o art. 62, caput e incisos I a IV, combinado com o art. 63 da Lei nº 14.133/2021. A alternativa A inclui qualificações inexistentes no rol legal (ambiental e política). A alternativa C contraria o art. 69, § 5º, que veda a exigência de índices de rentabilidade ou lucratividade. A alternativa D contraria o art. 63, IV, e a lógica da inversão de fases: adotada a ordem do art. 17, exige-se a apresentação da documentação de habilitação apenas do licitante vencedor, ressalvadas as hipóteses previstas em regulamento. A alternativa E contraria o art. 68, III, e o art. 195 da CF/88, pois a regularidade fiscal, social e trabalhista é condição para contratar com o poder público.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, arts. 62, 63, 68 e 69, § 5º; CF/88, art. 195, § 3º."
+  },
+  {
+    "id": "licitacoes-18",
+    "topicoId": "licitacoes",
+    "topico": "Licitações públicas",
+    "dificuldade": "dificil",
+    "enunciado": "Em licitação municipal para execução de obra, o licitante melhor classificado ofertou valor correspondente a 70% do valor orçado pela Administração. Sobre a aferição da exequibilidade da proposta, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A proposta deve ser automaticamente desclassificada, sem possibilidade de manifestação do licitante." },
+      { "letra": "B", "texto": "A lei não fixa qualquer parâmetro objetivo de inexequibilidade para obras e serviços de engenharia, ficando o tema a critério discricionário do agente de contratação." },
+      { "letra": "C", "texto": "O parâmetro legal de presunção de inexequibilidade, em obras e serviços de engenharia, corresponde a propostas de valor inferior a 50% do valor orçado pela Administração." },
+      { "letra": "D", "texto": "Não há exigência de garantia adicional em nenhuma hipótese, por se tratar de risco assumido pelo licitante." },
+      { "letra": "E", "texto": "Em obras e serviços de engenharia, presumem-se inexequíveis as propostas cujos valores forem inferiores a 75% do valor orçado pela Administração, sendo exigida garantia adicional do licitante vencedor cuja proposta seja inferior a 85% desse valor, equivalente à diferença entre o valor orçado e o da proposta." }
+    ],
+    "gabarito": "E",
+    "comentario": "A alternativa E conjuga o art. 59, § 4º, com o § 5º da Lei nº 14.133/2021. A alternativa A desconsidera que se trata de presunção relativa, devendo ser assegurada ao licitante a oportunidade de demonstrar a exequibilidade da proposta, em atenção ao contraditório e ao art. 59, § 2º, que permite a realização de diligências. A alternativa B nega a existência de parâmetro legal expresso. A alternativa C altera o percentual legal. A alternativa D nega a garantia adicional expressamente prevista no § 5º.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 59, §§ 2º, 4º e 5º."
+  },
+  {
+    "id": "licitacoes-19",
+    "topicoId": "licitacoes",
+    "topico": "Licitações públicas",
+    "dificuldade": "media",
+    "enunciado": "Sobre a impugnação ao edital e os recursos administrativos na Lei nº 14.133/2021, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A impugnação ao edital pode ser apresentada até 5 dias úteis antes da data de abertura do certame, devendo ser respondida em até 10 dias úteis." },
+      { "letra": "B", "texto": "Somente os licitantes já cadastrados possuem legitimidade para impugnar o edital." },
+      { "letra": "C", "texto": "Qualquer pessoa é parte legítima para impugnar o edital por irregularidade ou para solicitar esclarecimento sobre os seus termos, devendo protocolar o pedido até 3 dias úteis antes da data de abertura do certame, e a resposta deve ser dada em até 3 dias úteis, limitado ao último dia útil anterior à data da abertura." },
+      { "letra": "D", "texto": "O recurso contra o ato de julgamento das propostas independe de manifestação prévia da intenção de recorrer." },
+      { "letra": "E", "texto": "O prazo para interposição de recurso é de 5 dias corridos, contados da intimação, sem efeito suspensivo." }
+    ],
+    "gabarito": "C",
+    "comentario": "A alternativa C reproduz o art. 164, caput e parágrafo único, da Lei nº 14.133/2021. A alternativa A altera os prazos legais. A alternativa B restringe a legitimidade, que o caput do art. 164 confere a qualquer pessoa. A alternativa D contraria o art. 165, § 1º, que exige a manifestação imediata e motivada da intenção de recorrer, sob pena de preclusão, quanto ao julgamento das propostas e à habilitação. A alternativa E altera o prazo, que é de 3 dias úteis (art. 165, I), e desconsidera o art. 168, segundo o qual o recurso terá efeito suspensivo do ato ou da decisão recorrida até que sobrevenha decisão final da autoridade competente.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 164, caput e parágrafo único; art. 165, I e § 1º; art. 168."
+  },
+  {
+    "id": "licitacoes-20",
+    "topicoId": "licitacoes",
+    "topico": "Licitações públicas",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre os prazos mínimos para apresentação de propostas e lances, contados da data de divulgação do edital, na forma do art. 55 da Lei nº 14.133/2021, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "Para aquisição de bens, o prazo mínimo é de 8 dias úteis quando adotados os critérios de menor preço ou de maior desconto, e de 15 dias úteis nas demais hipóteses." },
+      { "letra": "B", "texto": "Para aquisição de bens, o prazo mínimo é sempre de 5 dias úteis, independentemente do critério de julgamento adotado." },
+      { "letra": "C", "texto": "Nas licitações em que se adote o critério de julgamento de maior lance, o prazo mínimo é de 8 dias corridos." },
+      { "letra": "D", "texto": "Nas licitações em que se adote o critério de técnica e preço ou de melhor técnica ou conteúdo artístico, o prazo mínimo é de 15 dias úteis." },
+      { "letra": "E", "texto": "Os prazos mínimos do art. 55 são contados em dias corridos e não se alteram em caso de modificação do edital." }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A reproduz o art. 55, I, alíneas a e b, da Lei nº 14.133/2021. A alternativa B uniformiza indevidamente o prazo, ignorando a distinção legal segundo o critério de julgamento. A alternativa C altera prazo e unidade de contagem: para o critério de maior lance o prazo mínimo é de 15 dias úteis (art. 55, III). A alternativa D altera o prazo, que é de 35 dias úteis para técnica e preço e melhor técnica ou conteúdo artístico (art. 55, IV). A alternativa E erra duplamente: os prazos são contados em dias úteis e, nos termos do art. 55, § 1º, eventual modificação no edital implica nova divulgação na mesma forma de sua divulgação inicial, além do restabelecimento do prazo, salvo quando a alteração não comprometer a formulação das propostas.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 55, I, III, IV e § 1º."
+  },
+  {
+    "id": "licitacoes-21",
+    "topicoId": "licitacoes",
+    "topico": "Licitações públicas",
+    "dificuldade": "media",
+    "enunciado": "Sobre o sistema de registro de preços e a ata de registro de preços na Lei nº 14.133/2021, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "O prazo de vigência da ata de registro de preços será de 1 ano e poderá ser prorrogado, por igual período, desde que comprovado o preço vantajoso." },
+      { "letra": "B", "texto": "O prazo de vigência da ata de registro de preços será de 5 anos, admitida prorrogação por igual período." },
+      { "letra": "C", "texto": "A existência de preços registrados obriga a Administração a contratar exclusivamente por meio da ata, sendo vedada licitação específica para o mesmo objeto." },
+      { "letra": "D", "texto": "O sistema de registro de preços é modalidade de licitação, e não procedimento auxiliar." },
+      { "letra": "E", "texto": "O registro de preços somente pode ser utilizado por meio da modalidade concorrência, sendo vedado o pregão." }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A reproduz o art. 84, caput, da Lei nº 14.133/2021. A alternativa B altera o prazo legal, confundindo-o com o prazo máximo de contratos de serviços e fornecimentos contínuos (art. 106). A alternativa C contraria a lógica do instituto: a existência de preços registrados implica compromisso de fornecimento nas condições estabelecidas, mas não obriga a Administração a contratar, sendo-lhe facultada a realização de licitação específica, assegurada preferência ao beneficiário do registro em igualdade de condições. A alternativa D erra a natureza jurídica: o sistema de registro de preços é procedimento auxiliar (art. 78, IV). A alternativa E contraria o art. 82, que admite o registro de preços mediante concorrência ou pregão.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, arts. 78, IV, 82, 84 e 106."
+  },
+  {
+    "id": "licitacoes-22",
+    "topicoId": "licitacoes",
+    "topico": "Licitações públicas",
+    "dificuldade": "dificil",
+    "enunciado": "Órgão municipal não participante pretende aderir a ata de registro de preços gerenciada por outro ente (a chamada carona). Assinale a alternativa correta quanto aos limites legais dessa adesão.",
+    "alternativas": [
+      { "letra": "A", "texto": "A adesão é ilimitada, desde que autorizada pelo órgão gerenciador e observada a vantajosidade." },
+      { "letra": "B", "texto": "A adesão está limitada a 100% dos quantitativos registrados na ata para o órgão gerenciador e órgãos participantes." },
+      { "letra": "C", "texto": "A adesão está limitada a 50% dos quantitativos dos itens do instrumento convocatório registrados na ata para o órgão gerenciador e para os órgãos participantes, não podendo o total das adesões exceder ao dobro do quantitativo de cada item registrado, independentemente do número de órgãos não participantes aderentes." },
+      { "letra": "D", "texto": "A adesão é vedada na Lei nº 14.133/2021, que extinguiu a figura do órgão não participante." },
+      { "letra": "E", "texto": "A adesão dispensa a anuência do órgão gerenciador e a demonstração de vantagem." }
+    ],
+    "gabarito": "C",
+    "comentario": "A alternativa C conjuga o art. 86, § 2º, com o § 5º da Lei nº 14.133/2021. A alternativa A ignora os limites quantitativos expressos. A alternativa B altera o percentual legal, que é de 50% por adesão. A alternativa D é falsa: a nova lei manteve a figura, disciplinando-a com mais rigor no art. 86. A alternativa E contraria o art. 86, § 1º, que condiciona a adesão à anuência do órgão gerenciador e à demonstração de vantagem, bem como o § 3º, que exige do fornecedor a aceitação, desde que não haja prejuízo às obrigações anteriormente assumidas.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 86, §§ 1º, 2º, 3º e 5º."
+  },
+  {
+    "id": "licitacoes-23",
+    "topicoId": "licitacoes",
+    "topico": "Licitações públicas",
+    "dificuldade": "media",
+    "enunciado": "Assinale a alternativa que NÃO corresponde a procedimento auxiliar das licitações e das contratações regidas pela Lei nº 14.133/2021.",
+    "alternativas": [
+      { "letra": "A", "texto": "Credenciamento." },
+      { "letra": "B", "texto": "Pré-qualificação." },
+      { "letra": "C", "texto": "Procedimento de manifestação de interesse." },
+      { "letra": "D", "texto": "Diálogo competitivo." },
+      { "letra": "E", "texto": "Registro cadastral." }
+    ],
+    "gabarito": "D",
+    "comentario": "O art. 78 da Lei nº 14.133/2021 arrola como procedimentos auxiliares o credenciamento (I), a pré-qualificação (II), o procedimento de manifestação de interesse (III), o sistema de registro de preços (IV) e o registro cadastral (V). O diálogo competitivo, indicado na alternativa D, é MODALIDADE de licitação (art. 28, V, e art. 32), e não procedimento auxiliar. A questão explora a confusão entre categorias distintas da lei. As demais alternativas constam expressamente do art. 78.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 78, I a V; art. 28, V."
+  },
+  {
+    "id": "licitacoes-24",
+    "topicoId": "licitacoes",
+    "topico": "Licitações públicas",
+    "dificuldade": "dificil",
+    "enunciado": "Encerrado o julgamento, verificou-se empate entre duas propostas em licitação municipal. Sobre os critérios de desempate previstos no art. 60 da Lei nº 14.133/2021, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "O primeiro critério legal de desempate é o sorteio público, realizado em ato aberto aos interessados." },
+      { "letra": "B", "texto": "Serão utilizados, nesta ordem, a disputa final, com apresentação de nova proposta pelos licitantes empatados; a avaliação do desempenho contratual prévio dos licitantes; o desenvolvimento pelo licitante de ações de equidade entre homens e mulheres no ambiente de trabalho; e o desenvolvimento pelo licitante de programa de integridade." },
+      { "letra": "C", "texto": "O critério de desempate é único e consiste na preferência por empresas brasileiras de capital nacional." },
+      { "letra": "D", "texto": "Persistindo o empate após os critérios legais, será dada preferência, sucessivamente, a empresas estrangeiras com filial no País e a empresas de grande porte." },
+      { "letra": "E", "texto": "Os critérios de desempate previstos na Lei nº 14.133/2021 afastam a aplicação do tratamento diferenciado conferido às microempresas e empresas de pequeno porte." }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B reproduz o art. 60, incisos I a IV, da Lei nº 14.133/2021. A alternativa A está errada porque o sorteio não é o primeiro critério, sendo residual. A alternativa C reduz indevidamente a disciplina legal a um único critério. A alternativa D inverte o art. 60, § 1º, que estabelece preferência para empresas estabelecidas no território do Estado ou do Distrito Federal do órgão licitante, empresas brasileiras, empresas que invistam em pesquisa e desenvolvimento de tecnologia no País e empresas que comprovem a prática de mitigação de emissões nos termos da Lei nº 12.187/2009. A alternativa E contraria o art. 4º, que assegura o tratamento favorecido às microempresas e empresas de pequeno porte previsto na Lei Complementar nº 123/2006, aplicável em caráter preferencial.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 60, I a IV e § 1º; art. 4º; LC nº 123/2006."
+  },
+  {
+    "id": "licitacoes-25",
+    "topicoId": "licitacoes",
+    "topico": "Licitações públicas",
+    "dificuldade": "media",
+    "enunciado": "Sobre a margem de preferência prevista na Lei nº 14.133/2021, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A margem de preferência é obrigatória em todas as licitações de âmbito municipal." },
+      { "letra": "B", "texto": "A margem de preferência não pode ser estendida a bens manufaturados e serviços originários de Estados Partes do Mercosul." },
+      { "letra": "C", "texto": "A margem de preferência é aplicável apenas às contratações realizadas por dispensa de licitação." },
+      { "letra": "D", "texto": "A margem de preferência independe de qualquer decisão fundamentada, sendo fixada livremente pelo agente de contratação em cada certame." },
+      { "letra": "E", "texto": "Poderá ser estabelecida margem de preferência para bens manufaturados e serviços nacionais que atendam a normas técnicas brasileiras e para bens reciclados, recicláveis ou biodegradáveis, limitada a até 10% sobre o preço dos bens e serviços que não se enquadrem nessas hipóteses." }
+    ],
+    "gabarito": "E",
+    "comentario": "A alternativa E reproduz o art. 26, caput, I e II, e o § 1º, II, da Lei nº 14.133/2021. A alternativa A transforma faculdade em obrigação. A alternativa B contraria o art. 26, § 2º, que expressamente admite a extensão a bens manufaturados e serviços originários de Estados Partes do Mercosul. A alternativa C erra o campo de incidência, pois a margem de preferência é instrumento do processo licitatório, incidindo no julgamento das propostas. A alternativa D contraria o art. 26, § 1º, I, que exige decisão fundamentada do Poder Executivo federal, não cabendo fixação discricionária pelo agente de contratação.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 26, caput, I e II, e §§ 1º e 2º."
+  },
+  {
+    "id": "licitacoes-26",
+    "topicoId": "licitacoes",
+    "topico": "Licitações públicas",
+    "dificuldade": "dificil",
+    "enunciado": "Concluídas as fases de julgamento e de habilitação e exauridos os recursos administrativos, o processo licitatório foi encaminhado à autoridade superior. Sobre o encerramento do certame, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A revogação da licitação decorre de vício de legalidade e opera efeitos retroativos, ao passo que a anulação decorre de conveniência e oportunidade e opera efeitos apenas prospectivos." },
+      { "letra": "B", "texto": "A autoridade superior pode apenas homologar ou anular o certame, não lhe cabendo determinar o retorno dos autos para saneamento de irregularidades." },
+      { "letra": "C", "texto": "A autoridade superior poderá determinar o retorno dos autos para saneamento de irregularidades, revogar a licitação por motivo de conveniência e oportunidade, proceder à anulação sempre que presente ilegalidade insanável, ou adjudicar o objeto e homologar a licitação, assegurada, nos casos de anulação e revogação, a prévia manifestação dos interessados." },
+      { "letra": "D", "texto": "A anulação da licitação por ilegalidade insanável independe de indicação expressa dos atos viciados e de motivação." },
+      { "letra": "E", "texto": "A revogação da licitação gera, em qualquer hipótese, direito à indenização integral em favor do licitante vencedor, inclusive por lucros cessantes." }
+    ],
+    "gabarito": "C",
+    "comentario": "A alternativa C reproduz o art. 71, caput, I a IV, e o § 3º da Lei nº 14.133/2021. A alternativa A inverte integralmente os institutos: a revogação funda-se em conveniência e oportunidade, com efeitos ex nunc, e a anulação funda-se em ilegalidade, com efeitos ex tunc (Súmula 473 do STF). A alternativa B suprime competência expressamente prevista no inciso I. A alternativa D contraria o art. 71, § 1º, que exige a indicação expressa dos atos com vícios insanáveis, além do dever geral de motivação (art. 5º da Lei nº 14.133/2021 e art. 50 da Lei nº 9.784/1999). A alternativa E generaliza indevidamente: a mera participação no certame não gera direito adquirido à contratação, restringindo-se eventual indenização ao que o licitante houver despendido, na forma da lei e do edital.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 71, caput, I a IV, e §§ 1º e 3º; Súmula 473 do STF."
+  },
+  {
+    "id": "licitacoes-27",
+    "topicoId": "licitacoes",
+    "topico": "Licitações públicas",
+    "dificuldade": "media",
+    "enunciado": "Assinale a alternativa correta sobre os impedimentos de participação em licitação previstos no art. 14 da Lei nº 14.133/2021.",
+    "alternativas": [
+      { "letra": "A", "texto": "O impedimento por vínculo com dirigente do órgão contratante alcança apenas o cônjuge e os parentes em linha reta até o segundo grau." },
+      { "letra": "B", "texto": "Empresas controladoras, controladas ou coligadas podem concorrer entre si, desde que apresentem propostas independentes." },
+      { "letra": "C", "texto": "A condenação judicial transitada em julgado, nos 5 anos anteriores à divulgação do edital, por submissão de trabalhadores a condições análogas às de escravo não impede a participação, por ausência de relação com o objeto licitado." },
+      { "letra": "D", "texto": "O autor do anteprojeto, do projeto básico ou do projeto executivo pode participar livremente da licitação da obra correspondente, desde que renuncie aos direitos autorais." },
+      { "letra": "E", "texto": "Não poderá disputar licitação ou participar da execução do contrato, direta ou indiretamente, pessoa física ou jurídica que se encontre, ao tempo da licitação, impossibilitada de participar em decorrência de sanção que lhe foi imposta." }
+    ],
+    "gabarito": "E",
+    "comentario": "A alternativa E reproduz o art. 14, III, da Lei nº 14.133/2021. A alternativa A restringe indevidamente o inciso IV, que alcança cônjuge, companheiro ou parente em linha reta, colateral ou por afinidade, até o terceiro grau. A alternativa B contraria o inciso V, que veda a participação de controladoras, controladas ou coligadas concorrendo entre si. A alternativa C contraria o inciso VI, que estabelece o impedimento pelo prazo de 5 anos. A alternativa D contraria os incisos I e II, ressalvada apenas a hipótese do § 1º, referente à contratação integrada e às contratações em que o projeto seja encargo do contratado.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 14, I a VI e § 1º."
+  },
+  {
+    "id": "licitacoes-28",
+    "topicoId": "licitacoes",
+    "topico": "Licitações públicas",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre os regimes de execução de obras e serviços de engenharia previstos na Lei nº 14.133/2021, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "Na contratação integrada, o contratado é responsável por elaborar e desenvolver os projetos básico e executivo, executar as obras e serviços de engenharia, fornecer bens ou prestar serviços especiais e realizar montagem, teste, pré-operação e as demais operações necessárias e suficientes para a entrega final do objeto." },
+      { "letra": "B", "texto": "Na contratação semi-integrada, o contratado elabora o projeto básico, cabendo à Administração a elaboração do projeto executivo." },
+      { "letra": "C", "texto": "A empreitada integral e a contratação por tarefa foram extintas pela Lei nº 14.133/2021." },
+      { "letra": "D", "texto": "Na contratação semi-integrada é vedada, em qualquer hipótese, a alteração do projeto básico fornecido pela Administração." },
+      { "letra": "E", "texto": "Na contratação integrada, o valor contratual pode ser livremente alterado por acordo entre as partes, sem restrições legais." }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A reproduz o conceito do art. 6º, XXXII, da Lei nº 14.133/2021. A alternativa B inverte os conceitos: na contratação semi-integrada o projeto básico é fornecido pela Administração e o contratado elabora o projeto executivo (art. 6º, XXXIII). A alternativa C é falsa, pois ambos os regimes permanecem previstos no art. 46, III e IV. A alternativa D contraria o art. 46, § 3º, que permite a alteração do projeto básico na contratação semi-integrada desde que demonstrada a superioridade das inovações em termos de redução de custos, aumento da qualidade, redução do prazo de execução ou facilidade de manutenção ou operação. A alternativa E contraria o art. 133, que restringe a alteração de valores na contratação integrada e semi-integrada às hipóteses de caso fortuito ou força maior, necessidade de alteração do projeto nos casos ali previstos e evento superveniente alocado na matriz de riscos como de responsabilidade da Administração.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 6º, XXXII e XXXIII; art. 46, caput e § 3º; art. 133."
+  },
+  {
+    "id": "licitacoes-29",
+    "topicoId": "licitacoes",
+    "topico": "Licitações públicas",
+    "dificuldade": "media",
+    "enunciado": "Sobre a divulgação dos atos e a publicidade das licitações na Lei nº 14.133/2021, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A publicidade do edital é atendida exclusivamente pela publicação de extrato no Diário Oficial do ente federativo." },
+      { "letra": "B", "texto": "A divulgação no Portal Nacional de Contratações Públicas é facultativa para os Municípios." },
+      { "letra": "C", "texto": "É vedada a divulgação adicional do edital em sítio eletrônico oficial do próprio ente federativo." },
+      { "letra": "D", "texto": "A publicidade do edital será realizada mediante divulgação e manutenção do inteiro teor do ato convocatório e de seus anexos no Portal Nacional de Contratações Públicas (PNCP), sem prejuízo da publicação de extrato em diário oficial." },
+      { "letra": "E", "texto": "Os documentos elaborados na fase preparatória que não integrarem o edital são sigilosos e não podem ser disponibilizados após a homologação." }
+    ],
+    "gabarito": "D",
+    "comentario": "A alternativa D reproduz o art. 54, caput e § 1º, da Lei nº 14.133/2021. A alternativa A reduz a publicidade ao extrato oficial, ignorando a centralidade do PNCP. A alternativa B contraria o art. 174, I, que impõe a divulgação centralizada e obrigatória dos atos exigidos pela Lei no PNCP, alcançando todos os entes federativos, sem prejuízo do prazo especial concedido pelo art. 176 a Municípios com até 20.000 habitantes quanto a determinadas obrigações. A alternativa C contraria o art. 54, § 2º, que faculta a divulgação adicional em sítio eletrônico oficial. A alternativa E contraria o art. 54, § 3º, que determina a disponibilização desses documentos após a homologação do processo licitatório.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 54, caput e §§ 1º, 2º e 3º; art. 174, I; art. 176."
+  },
+  {
+    "id": "licitacoes-30",
+    "topicoId": "licitacoes",
+    "topico": "Licitações públicas",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre a governança e o planejamento das contratações públicas na Lei nº 14.133/2021, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A responsabilidade pela governança das contratações é exclusiva do agente de contratação designado para cada certame." },
+      { "letra": "B", "texto": "A alta administração do órgão ou entidade é responsável pela governança das contratações e deve implementar processos e estruturas, inclusive de gestão de riscos e controles internos, para avaliar, direcionar e monitorar os processos licitatórios e os respectivos contratos." },
+      { "letra": "C", "texto": "O plano de contratações anual é vedado no âmbito municipal, por conflitar com a lei orçamentária anual." },
+      { "letra": "D", "texto": "O estudo técnico preliminar é documento facultativo em qualquer contratação, dada sua natureza meramente informativa." },
+      { "letra": "E", "texto": "É permitido ao agente público designado para atuar na área de licitações e contratos admitir ou tolerar, nos atos que praticar, situações que restrinjam o caráter competitivo do certame, desde que motivadamente." }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B reproduz o art. 11, parágrafo único, da Lei nº 14.133/2021. A alternativa A concentra indevidamente no agente de contratação um dever que a lei atribui à alta administração. A alternativa C contraria o art. 12, VII, que expressamente autoriza a elaboração do plano de contratações anual, instrumento de alinhamento ao planejamento estratégico e de subsídio às leis orçamentárias. A alternativa D contraria o art. 18, § 1º, que estabelece o estudo técnico preliminar como parte da fase preparatória, com conteúdo mínimo obrigatório, admitidas apenas as dispensas previstas em regulamento. A alternativa E contraria frontalmente o art. 9º, I, que veda ao agente público admitir, prever, incluir ou tolerar situações que comprometam, restrinjam ou frustrem o caráter competitivo do processo licitatório.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 9º, I; art. 11, parágrafo único; art. 12, VII; art. 18, § 1º."
+  }
+]
