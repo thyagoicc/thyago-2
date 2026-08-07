@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Gerador de Questões IDECAN — Direito Administrativo | Auditor Fiscal Campina Grande 2026</title>
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar__brand">
+      <span class="topbar__logo">QG</span>
+      <div>
+        <h1>Gerador de Questões</h1>
+        <p>Direito Administrativo · Auditor Fiscal · Campina Grande/PB · Edital 01/2026 · Banca IDECAN</p>
+      </div>
+    </div>
+    <div class="topbar__stats" id="stats">
+      <div class="stat"><span class="stat__value" id="statTotal">0</span><span class="stat__label">Respondidas</span></div>
+      <div class="stat stat--ok"><span class="stat__value" id="statAcertos">0</span><span class="stat__label">Acertos</span></div>
+      <div class="stat stat--err"><span class="stat__value" id="statErros">0</span><span class="stat__label">Erros</span></div>
+      <div class="stat"><span class="stat__value" id="statPercentual">0%</span><span class="stat__label">Aproveitamento</span></div>
+      <button id="btnZerar" class="btn btn--ghost btn--small" title="Zerar estatísticas">Zerar</button>
+    </div>
+  </header>
+
+  <div class="layout">
+    <aside class="sidebar">
+      <h2>Filtros</h2>
+
+      <div class="field">
+        <label>Dificuldade</label>
+        <div class="radio-group" id="dificuldadeGroup">
+          <label><input type="radio" name="dificuldade" value="aleatoria" checked /> Média e difícil (sorteada)</label>
+          <label><input type="radio" name="dificuldade" value="media" /> Somente média</label>
+          <label><input type="radio" name="dificuldade" value="dificil" /> Somente difícil</label>
+        </div>
+      </div>
+
+      <div class="field">
+        <div class="field__header">
+          <label>Tópicos</label>
+          <div class="field__actions">
+            <button type="button" id="btnTodos" class="link-btn">Todos</button>
+            <button type="button" id="btnNenhum" class="link-btn">Nenhum</button>
+          </div>
+        </div>
+        <div class="topicos-list" id="topicosList">
+          <p class="loading-text">Carregando tópicos…</p>
+        </div>
+      </div>
+
+      <button id="btnGerar" class="btn btn--primary btn--block">Gerar questão</button>
+      <p class="disclaimer">
+        As questões são geradas em tempo real por IA, reproduzindo o padrão de
+        redação da banca IDECAN. Não são itens reais de provas aplicadas —
+        use como treino complementar de estilo e conteúdo.
+      </p>
+    </aside>
+
+    <main class="content">
+      <div id="empty" class="empty-state">
+        <p>Selecione os filtros desejados e clique em <strong>Gerar questão</strong> para começar.</p>
+      </div>
+
+      <div id="loading" class="loading-state hidden">
+        <div class="spinner"></div>
+        <p>Gerando questão no padrão IDECAN…</p>
+      </div>
+
+      <div id="erro" class="erro-state hidden"></div>
+
+      <article id="questaoCard" class="questao-card hidden">
+        <div class="questao-card__badges">
+          <span class="badge badge--banca">IDECAN (estilo)</span>
+          <span class="badge badge--cargo">Auditor Fiscal · Campina Grande/PB · 2026</span>
+          <span id="badgeTopico" class="badge badge--topico"></span>
+          <span id="badgeDificuldade" class="badge badge--dificuldade"></span>
+        </div>
+
+        <p id="enunciado" class="questao-card__enunciado"></p>
+
+        <div id="alternativas" class="alternativas"></div>
+
+        <div class="questao-card__actions">
+          <button id="btnResponder" class="btn btn--primary" disabled>Responder</button>
+          <button id="btnProxima" class="btn btn--secondary hidden">Próxima questão</button>
+        </div>
+
+        <div id="resultado" class="resultado hidden">
+          <p id="resultadoTitulo" class="resultado__titulo"></p>
+          <div class="resultado__bloco">
+            <h3>Comentário</h3>
+            <p id="comentario"></p>
+          </div>
+          <div class="resultado__bloco">
+            <h3>Fundamentação legal</h3>
+            <p id="fundamentacao"></p>
+          </div>
+        </div>
+      </article>
+    </main>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
