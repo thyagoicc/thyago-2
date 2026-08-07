@@ -168,5 +168,345 @@
     "gabarito": "C",
     "comentario": "A alternativa C deve ser assinalada, por ser incorreta: o art. 22 da Lei nº 12.527/2011 estabelece expressamente que a lei não exclui as demais hipóteses legais de sigilo, como o fiscal e o bancário, e o segredo industrial decorrente da exploração direta de atividade econômica, não havendo, portanto, qualquer revogação tácita desses regimes. As demais alternativas reproduzem corretamente hipóteses do rol exemplificativo do art. 23: a alternativa A corresponde ao inciso I; a alternativa B, ao inciso VI; a alternativa D, ao inciso II; e a alternativa E, ao inciso IV.",
     "fundamentacaoLegal": "Art. 22 e art. 23, incisos I, II, IV e VI, da Lei nº 12.527/2011."
+  },
+  {
+    "id": "transparencia-lai-11",
+    "topicoId": "transparencia-lai",
+    "topico": "Transparência e acesso à informação",
+    "dificuldade": "media",
+    "enunciado": "Segundo o art. 1º, caput e parágrafo único, inciso I, da Lei nº 12.527/2011, sujeitam-se ao seu regime os órgãos públicos integrantes da administração direta dos Poderes Executivo, Legislativo, incluindo as Cortes de Contas, e Judiciário e do Ministério Público, bem como:",
+    "alternativas": [
+      { "letra": "A", "texto": "as autarquias, as fundações públicas, as empresas públicas, as sociedades de economia mista e demais entidades controladas direta ou indiretamente pela União, Estados, Distrito Federal e Municípios." },
+      { "letra": "B", "texto": "exclusivamente as autarquias e fundações públicas de direito público, excluídas as empresas estatais, ainda que exploradoras de serviço público." },
+      { "letra": "C", "texto": "apenas os órgãos da administração direta, sendo as entidades da administração indireta reguladas por legislação específica e autônoma, alheia à Lei nº 12.527/2011." },
+      { "letra": "D", "texto": "somente as entidades federais, cabendo aos Estados, ao Distrito Federal e aos Municípios editar rol próprio de entidades sujeitas ao dever de transparência." },
+      { "letra": "E", "texto": "as autarquias e fundações públicas, com exclusão das empresas públicas e sociedades de economia mista que não prestem serviço público em regime de exclusividade." }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A reproduz o art. 1º, parágrafo único, inciso I, da Lei nº 12.527/2011, que estende expressamente seu âmbito de aplicação às autarquias, fundações públicas, empresas públicas, sociedades de economia mista e demais entidades controladas direta ou indiretamente pelos entes federados. A alternativa B restringe indevidamente o rol, excluindo as empresas estatais. A alternativa C erra ao afastar a administração indireta da incidência da lei. A alternativa D erra ao limitar a aplicação às entidades federais, quando a lei abrange entidades de todos os entes federativos. A alternativa E cria distinção inexistente quanto ao regime de exclusividade na prestação de serviço público.",
+    "fundamentacaoLegal": "Art. 1º, caput e parágrafo único, inciso I, da Lei nº 12.527/2011."
+  },
+  {
+    "id": "transparencia-lai-12",
+    "topicoId": "transparencia-lai",
+    "topico": "Transparência e acesso à informação",
+    "dificuldade": "dificil",
+    "enunciado": "Com base no art. 48-A da Lei Complementar nº 101/2000 (Lei de Responsabilidade Fiscal), incluído pela Lei Complementar nº 131/2009, os entes federados devem disponibilizar a qualquer pessoa, física ou jurídica, o acesso a informações referentes à execução orçamentária e financeira. Assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "Quanto à despesa, devem ser divulgados todos os atos praticados pelas unidades gestoras no decorrer de sua execução, no momento de sua realização; quanto à receita, o lançamento e o recebimento de toda a receita das unidades gestoras, inclusive a referente a recursos extraordinários." },
+      { "letra": "B", "texto": "A obrigação de divulgação em tempo real alcança apenas as despesas, não havendo dever equivalente de transparência quanto ao lançamento e recebimento de receitas públicas." },
+      { "letra": "C", "texto": "A divulgação da despesa somente é exigida após a liquidação, sendo vedada a disponibilização de informações relativas às fases de empenho anteriores à liquidação." },
+      { "letra": "D", "texto": "A divulgação da receita deve ocorrer exclusivamente ao final do exercício financeiro, mediante consolidação anual no Relatório Resumido da Execução Orçamentária." },
+      { "letra": "E", "texto": "A Lei Complementar nº 131/2009 restringiu a divulgação em tempo real aos entes da administração direta, excluindo expressamente as autarquias e fundações públicas." }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A reproduz os incisos I e II do art. 48-A da Lei Complementar nº 101/2000: quanto à despesa, exige-se a divulgação de todos os atos praticados pelas unidades gestoras no momento de sua realização; quanto à receita, exige-se a divulgação do lançamento e do recebimento de toda a receita, inclusive a de recursos extraordinários. A alternativa B erra ao excluir a receita do dever de transparência em tempo real, expressamente previsto no inciso II. A alternativa C erra ao restringir a divulgação da despesa à fase de liquidação, quando a lei exige a divulgação de todos os atos praticados, desde o início da execução. A alternativa D contraria a exigência de divulgação em tempo real, substituindo-a por consolidação anual. A alternativa E cria exclusão inexistente quanto às entidades da administração indireta.",
+    "fundamentacaoLegal": "Art. 48-A, incisos I e II, da Lei Complementar nº 101/2000, incluído pela Lei Complementar nº 131/2009."
+  },
+  {
+    "id": "transparencia-lai-13",
+    "topicoId": "transparencia-lai",
+    "topico": "Transparência e acesso à informação",
+    "dificuldade": "media",
+    "enunciado": "A Constituição Federal de 1988, ao tratar da participação do usuário na Administração Pública direta e indireta, dispõe, no art. 37, §3º, II, que a lei disciplinará, especialmente:",
+    "alternativas": [
+      { "letra": "A", "texto": "o acesso dos usuários a registros administrativos e a informações sobre atos de governo, observado o disposto no art. 5º, X e XXXIII." },
+      { "letra": "B", "texto": "a criação obrigatória de ouvidorias em todos os órgãos e entidades da Administração Pública direta e indireta, com competência decisória vinculante." },
+      { "letra": "C", "texto": "a instituição de audiências públicas prévias a qualquer ato administrativo de efeitos concretos, sob pena de nulidade." },
+      { "letra": "D", "texto": "o direito de o usuário substituir-se ao Poder Público na fiscalização de contratos administrativos, mediante delegação expressa em lei." },
+      { "letra": "E", "texto": "a exigência de aprovação popular, por meio de plebiscito, para a edição de atos normativos de caráter geral pela Administração Pública." }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A reproduz literalmente o art. 37, §3º, II, da CF/88, que remete o acesso a registros administrativos e a informações sobre atos de governo à observância do art. 5º, X e XXXIII. As demais alternativas descrevem institutos ou exigências não previstos nesse dispositivo constitucional: a criação obrigatória de ouvidorias com competência decisória (B), a exigência de audiência pública prévia a qualquer ato de efeitos concretos (C), a substituição do Poder Público na fiscalização contratual (D) e a exigência de plebiscito para atos normativos (E) não constam do texto do art. 37, §3º, II.",
+    "fundamentacaoLegal": "Art. 37, §3º, II, da CF/88."
+  },
+  {
+    "id": "transparencia-lai-14",
+    "topicoId": "transparencia-lai",
+    "topico": "Transparência e acesso à informação",
+    "dificuldade": "dificil",
+    "enunciado": "Servidor de órgão do Poder Executivo federal indeferiu pedido de acesso a informação, sem apresentar as razões de fato ou de direito da negativa. O requerente pretende impugnar a decisão. Considerando o sistema recursal da Lei nº 12.527/2011, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "O requerente poderá recorrer diretamente à Controladoria-Geral da União, no prazo de 10 dias, independentemente de prévia manifestação de autoridade hierarquicamente superior à que exarou a decisão." },
+      { "letra": "B", "texto": "O recurso cabível deve ser dirigido, no prazo de 10 dias contados da ciência da decisão, à autoridade hierarquicamente superior à que a proferiu, que deverá se manifestar no prazo de 5 dias; somente após esgotada essa instância é que se admite recurso à Controladoria-Geral da União, no âmbito do Poder Executivo federal." },
+      { "letra": "C", "texto": "Da decisão de indeferimento cabe recurso exclusivamente ao Poder Judiciário, por não haver, na Lei nº 12.527/2011, previsão de instância administrativa recursal." },
+      { "letra": "D", "texto": "O prazo para interposição do recurso à autoridade hierarquicamente superior é de 30 dias, correspondente ao prazo geral dos recursos administrativos da Lei nº 9.784/1999, subsidiariamente aplicável." },
+      { "letra": "E", "texto": "A ausência de indicação das razões da negativa não constitui, por si, fundamento para recurso, sendo exigível apenas quando o acesso for expressamente indeferido com base em classificação de sigilo." }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B está correta: nos termos do art. 15 da Lei nº 12.527/2011, o recurso contra a decisão que nega acesso, ou que não fornece as razões da negativa, deve ser dirigido, no prazo de 10 dias, à autoridade hierarquicamente superior, que decidirá em 5 dias; e, nos termos do art. 16, somente após submetida a questão a essa instância hierárquica é que se admite recurso à Controladoria-Geral da União, no âmbito do Poder Executivo federal. A alternativa A erra ao dispensar o esgotamento prévio da instância hierárquica, exigido pelo art. 16, §1º. A alternativa C erra ao negar a existência de instância administrativa recursal, expressamente prevista na lei. A alternativa D erra ao aplicar prazo genérico de outra lei, quando a Lei nº 12.527/2011 fixa prazo próprio de 10 dias, prevalecendo por especialidade. A alternativa E erra porque a própria ausência de fornecimento das razões da negativa constitui, por si, fundamento autônomo para o recurso, nos termos do caput do art. 15.",
+    "fundamentacaoLegal": "Art. 15 e art. 16, caput e §1º, da Lei nº 12.527/2011."
+  },
+  {
+    "id": "transparencia-lai-15",
+    "topicoId": "transparencia-lai",
+    "topico": "Transparência e acesso à informação",
+    "dificuldade": "media",
+    "enunciado": "O direito de acesso a informações previsto na Lei nº 12.527/2011 compreende, entre outros, o direito de obter:",
+    "alternativas": [
+      { "letra": "A", "texto": "orientação sobre os procedimentos para a consecução de acesso, bem como sobre o local onde poderá ser encontrada ou obtida a informação almejada." },
+      { "letra": "B", "texto": "exclusivamente cópia de documentos já classificados como de acesso público, sendo vedado o acesso a informações produzidas por terceiros contratados pela Administração." },
+      { "letra": "C", "texto": "informação relativa a atos de governo, com exceção das informações sobre a execução de programas, projetos e ações dos órgãos públicos, que permanecem sempre sigilosas até a conclusão da execução." },
+      { "letra": "D", "texto": "informação primária, íntegra, autêntica e atualizada, ressalvado o direito à informação constante de bancos de dados geridos por órgãos públicos, que se submete a regime de sigilo absoluto." },
+      { "letra": "E", "texto": "informação sobre atividades exercidas por órgãos e entidades, inclusive sobre política, organização e serviços, restrita, contudo, aos órgãos da administração direta." }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A reproduz o inciso I do art. 7º da Lei nº 12.527/2011. A alternativa B erra ao excluir informações produzidas por terceiros com vínculo contratual com a Administração, que também integram o direito de acesso nos termos do inciso III do mesmo artigo. A alternativa C erra ao criar sigilo absoluto para informações sobre execução de programas e projetos, quando o inciso VII, alínea a, assegura justamente o acesso a esse tipo de informação. A alternativa D acrescenta indevidamente um regime de sigilo absoluto para bancos de dados públicos, inexistente no texto legal. A alternativa E restringe indevidamente o direito de acesso às atividades da administração direta, quando a lei o estende a todos os órgãos e entidades referidos no art. 1º.",
+    "fundamentacaoLegal": "Art. 7º, incisos I, III e VII, alínea a, da Lei nº 12.527/2011."
+  },
+  {
+    "id": "transparencia-lai-16",
+    "topicoId": "transparencia-lai",
+    "topico": "Transparência e acesso à informação",
+    "dificuldade": "dificil",
+    "enunciado": "Órgão de fiscalização municipal pretende classificar como sigilosa, em grau reservado, informação relativa a investigação em andamento cuja divulgação poderia comprometer a eficácia da fiscalização. Considerando o regime da Lei nº 12.527/2011, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A classificação é possível, pois a lei arrola, entre as hipóteses que autorizam a restrição de acesso, as informações cuja divulgação ou acesso irrestrito possam comprometer atividades de investigação ou fiscalização em andamento relacionadas com a prevenção ou repressão de infrações; o prazo máximo de restrição, no grau reservado, é de 5 anos, contado da data de produção da informação." },
+      { "letra": "B", "texto": "A classificação é vedada, pois a lei somente admite restrição de acesso a informações relacionadas à defesa nacional e às relações internacionais do País, não abrangendo atividades de fiscalização." },
+      { "letra": "C", "texto": "A classificação é possível, mas o prazo máximo de restrição, no grau reservado, é de 15 anos, idêntico ao aplicável ao grau secreto." },
+      { "letra": "D", "texto": "A classificação depende de aprovação prévia da Comissão Mista de Reavaliação de Informações, ainda que se trate de grau reservado, por se tratar de investigação em andamento." },
+      { "letra": "E", "texto": "A classificação é vedada, pois informações relativas a procedimentos fiscalizatórios de órgãos municipais não se submetem, em nenhuma hipótese, a regime de sigilo, por força do princípio da publicidade." }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A está correta: o art. 23, VI, da Lei nº 12.527/2011 inclui, entre as hipóteses de informação imprescindível à segurança da sociedade ou do Estado, aquelas cuja divulgação possa comprometer atividades de investigação ou fiscalização em andamento relacionadas à prevenção ou repressão de infrações; e o art. 24, §1º, III, fixa em 5 anos o prazo máximo de restrição para o grau reservado. A alternativa B restringe indevidamente as hipóteses do art. 23, que são mais amplas que a defesa nacional e as relações internacionais. A alternativa C erra ao igualar o prazo do grau reservado ao do grau secreto, quando a lei fixa prazos distintos. A alternativa D erra ao exigir aprovação prévia de órgão colegiado para classificação em grau reservado, não prevista em lei para esse grau. A alternativa E nega, de forma absoluta, hipótese de sigilo expressamente admitida pela lei.",
+    "fundamentacaoLegal": "Art. 23, inciso VI, e art. 24, §1º, inciso III, da Lei nº 12.527/2011."
+  },
+  {
+    "id": "transparencia-lai-17",
+    "topicoId": "transparencia-lai",
+    "topico": "Transparência e acesso à informação",
+    "dificuldade": "media",
+    "enunciado": "Cidadão formula, perante órgão municipal, pedido de acesso a informação de interesse geral, sem indicar a razão pela qual deseja obtê-la. O órgão exige que o requerente informe o motivo do pedido, sob pena de indeferimento liminar. Tal exigência é:",
+    "alternativas": [
+      { "letra": "A", "texto": "legítima, pois a motivação do pedido é requisito essencial à análise de proporcionalidade entre o interesse do requerente e o sigilo eventualmente aplicável." },
+      { "letra": "B", "texto": "ilegítima, pois a Lei nº 12.527/2011 veda expressamente exigências relativas aos motivos determinantes da solicitação de informações de interesse público." },
+      { "letra": "C", "texto": "legítima, desde que a exigência conste de regulamento local, no exercício da autonomia municipal para disciplinar o procedimento de acesso." },
+      { "letra": "D", "texto": "ilegítima apenas quando o requerente for pessoa jurídica, sendo válida a exigência de motivação para pedidos formulados por pessoas físicas." },
+      { "letra": "E", "texto": "legítima quando a informação solicitada disser respeito à execução orçamentária, hipótese em que a lei exige a demonstração de interesse qualificado." }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B está correta e reproduz o art. 10, §3º, da Lei nº 12.527/2011, que veda quaisquer exigências relativas aos motivos determinantes da solicitação de informações de interesse público. A alternativa A erra ao condicionar o exercício do direito a uma análise de proporcionalidade inexistente nesses termos na lei. A alternativa C erra porque a vedação decorre de norma geral federal, insuscetível de ser afastada por regulamento local. A alternativa D e a alternativa E criam distinções e exceções — quanto ao tipo de requerente e quanto à natureza orçamentária da informação — não previstas na lei, que aplica a vedação de forma geral e irrestrita.",
+    "fundamentacaoLegal": "Art. 10, caput e §3º, da Lei nº 12.527/2011."
+  },
+  {
+    "id": "transparencia-lai-18",
+    "topicoId": "transparencia-lai",
+    "topico": "Transparência e acesso à informação",
+    "dificuldade": "dificil",
+    "enunciado": "No âmbito do Poder Executivo federal, requerente cujo pedido de acesso foi indeferido pretende recorrer diretamente à Controladoria-Geral da União, sem submeter previamente a questão a qualquer autoridade hierarquicamente superior à que proferiu a decisão. Nos termos da Lei nº 12.527/2011, tal recurso:",
+    "alternativas": [
+      { "letra": "A", "texto": "é cabível, pois a lei faculta ao requerente escolher livremente a instância recursal, administrativa ou de controle interno, que deseja acionar." },
+      { "letra": "B", "texto": "não é cabível nessa forma direta, pois o recurso à Controladoria-Geral da União somente é admitido depois de submetida a questão à apreciação de, ao menos, uma autoridade hierarquicamente superior à que exarou a decisão impugnada." },
+      { "letra": "C", "texto": "é cabível, desde que o requerente renuncie expressamente ao direito de recorrer à autoridade hierarquicamente superior." },
+      { "letra": "D", "texto": "não é cabível em nenhuma hipótese, por ser a Controladoria-Geral da União órgão desprovido de competência recursal em matéria de acesso à informação." },
+      { "letra": "E", "texto": "é cabível, mas sujeita o requerente ao pagamento de taxa recursal, cujo valor deve ser fixado em regulamento próprio do órgão." }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B está correta e reproduz o art. 16, §1º, da Lei nº 12.527/2011, que condiciona o recurso à Controladoria-Geral da União ao prévio esgotamento da instância hierárquica, mediante submissão da questão a, pelo menos, uma autoridade hierarquicamente superior à que proferiu a decisão impugnada. A alternativa A erra ao admitir escolha livre da instância recursal, quando a lei estabelece sequência obrigatória. A alternativa C erra ao criar hipótese de renúncia inexistente na lei como condição de cabimento direto. A alternativa D erra ao negar a competência recursal da Controladoria-Geral da União, expressamente prevista no art. 16. A alternativa E cria cobrança de taxa recursal não prevista na lei, que trata o acesso à informação e seus recursos como, em regra, gratuitos.",
+    "fundamentacaoLegal": "Art. 16, caput e §1º, da Lei nº 12.527/2011."
+  },
+  {
+    "id": "transparencia-lai-19",
+    "topicoId": "transparencia-lai",
+    "topico": "Transparência e acesso à informação",
+    "dificuldade": "media",
+    "enunciado": "Quanto aos sítios eletrônicos oficiais utilizados para o cumprimento do dever de transparência ativa, nos termos do art. 8º, §§2º e 3º, da Lei nº 12.527/2011, é correto afirmar que devem, entre outros requisitos:",
+    "alternativas": [
+      { "letra": "A", "texto": "conter ferramenta de pesquisa de conteúdo que permita o acesso à informação de forma objetiva, transparente, clara e em linguagem de fácil compreensão, e possibilitar a gravação de relatórios em diversos formatos eletrônicos, inclusive abertos e não proprietários." },
+      { "letra": "B", "texto": "restringir-se à divulgação de informações em formato de imagem digitalizada, vedada a disponibilização de dados em formato aberto, por razões de segurança da informação." },
+      { "letra": "C", "texto": "exigir cadastro prévio e login de acesso para qualquer consulta, ainda que a informação não esteja sujeita a sigilo." },
+      { "letra": "D", "texto": "ser atualizados com periodicidade mínima anual, independentemente da natureza da informação divulgada." },
+      { "letra": "E", "texto": "dispensar a indicação do local e da responsabilidade pela manutenção e atualização das informações disponibilizadas, bastando a publicação da informação em si." }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A reproduz requisitos do art. 8º, §3º, incisos I e II, da Lei nº 12.527/2011, relativos à ferramenta de pesquisa de conteúdo e à possibilidade de gravação de relatórios em formatos eletrônicos, inclusive abertos e não proprietários. A alternativa B contraria a exigência legal de disponibilização de dados em formato aberto. A alternativa C erra ao exigir cadastro prévio para acesso a informação não sigilosa, incompatível com a finalidade de ampla divulgação da transparência ativa. A alternativa D erra ao fixar periodicidade mínima anual genérica, quando a lei exige atualização compatível com a natureza de cada informação. A alternativa E erra ao dispensar a indicação de local e responsável pela manutenção e atualização, exigência expressa do dispositivo.",
+    "fundamentacaoLegal": "Art. 8º, §3º, incisos I, II, IV e V, da Lei nº 12.527/2011."
+  },
+  {
+    "id": "transparencia-lai-20",
+    "topicoId": "transparencia-lai",
+    "topico": "Transparência e acesso à informação",
+    "dificuldade": "dificil",
+    "enunciado": "Quanto à competência para classificação de informações em grau de sigilo, prevista no art. 27 da Lei nº 12.527/2011, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A competência para classificar informação como ultrassecreta ou secreta é atribuída a rol restrito de autoridades expressamente indicado em lei, sendo a competência para classificação no grau ultrassecreto indelegável." },
+      { "letra": "B", "texto": "Todas as autoridades públicas, independentemente do nível hierárquico, possuem competência para classificar informações em qualquer dos três graus de sigilo previstos na lei." },
+      { "letra": "C", "texto": "A competência para classificar informação como reservada é exclusiva da autoridade máxima do órgão ou entidade, vedada qualquer forma de delegação a autoridades de nível hierárquico inferior." },
+      { "letra": "D", "texto": "A classificação em qualquer grau de sigilo, inclusive o ultrassecreto, pode ser delegada a servidor ocupante de cargo em comissão, ainda que desprovido de função de direção, chefia ou assessoramento." },
+      { "letra": "E", "texto": "A competência para classificação de informações é integralmente delegável, cabendo exclusivamente ao regulamento de cada órgão definir os limites da delegação." }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A está correta: o art. 27 da Lei nº 12.527/2011 atribui a competência para classificar informações como ultrassecretas ou secretas a rol restrito de autoridades, e o §1º do mesmo artigo estabelece a indelegabilidade da competência para classificação no grau ultrassecreto. A alternativa B erra ao estender a competência a todas as autoridades, sem qualquer restrição. A alternativa C erra ao tornar exclusiva e indelegável a competência para classificação em grau reservado, quando a lei admite sua atribuição também a autoridades que exerçam funções de direção, comando ou chefia, e não apenas à autoridade máxima. A alternativa D contraria diretamente a indelegabilidade da classificação ultrassecreta. A alternativa E erra ao admitir delegação integral e irrestrita, incompatível com a disciplina legal da matéria.",
+    "fundamentacaoLegal": "Art. 27, caput e §1º, da Lei nº 12.527/2011."
+  },
+  {
+    "id": "transparencia-lai-21",
+    "topicoId": "transparencia-lai",
+    "topico": "Transparência e acesso à informação",
+    "dificuldade": "media",
+    "enunciado": "Município protocola pedido de acesso a informação de interesse coletivo perante Secretaria Municipal. Não sendo possível a resposta imediata, nos termos da Lei nº 12.527/2011, o órgão:",
+    "alternativas": [
+      { "letra": "A", "texto": "deverá responder no prazo de até 20 dias, prorrogável por mais 10 dias mediante justificativa expressa, da qual será cientificado o requerente." },
+      { "letra": "B", "texto": "deverá responder no prazo de até 15 dias, improrrogável, sob pena de responsabilização automática do agente público responsável." },
+      { "letra": "C", "texto": "deverá responder no prazo de até 30 dias, prorrogável por igual período, independentemente de justificativa." },
+      { "letra": "D", "texto": "deverá responder no prazo de até 20 dias, prorrogável indefinidamente enquanto persistir a dificuldade de localização da informação." },
+      { "letra": "E", "texto": "deverá responder no prazo de até 10 dias, prorrogável por mais 20 dias, mediante autorização da autoridade máxima do órgão." }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A corresponde ao art. 11, §§1º e 2º, da Lei nº 12.527/2011: não sendo possível o acesso imediato, o órgão deve se manifestar em até 20 dias, prazo prorrogável por mais 10 dias mediante justificativa expressa comunicada ao requerente. A alternativa B erra o prazo e afasta a possibilidade de prorrogação. A alternativa C erra o prazo principal e dispensa indevidamente a justificativa para a prorrogação. A alternativa D erra ao admitir prorrogação indefinida, incompatível com o caráter excepcional e único da prorrogação de 10 dias prevista em lei. A alternativa E inverte os prazos legalmente fixados.",
+    "fundamentacaoLegal": "Art. 11, §§1º e 2º, da Lei nº 12.527/2011."
+  },
+  {
+    "id": "transparencia-lai-22",
+    "topicoId": "transparencia-lai",
+    "topico": "Transparência e acesso à informação",
+    "dificuldade": "dificil",
+    "enunciado": "Quanto ao tratamento de informações pessoais pela Administração Pública, nos termos do art. 31 da Lei nº 12.527/2011, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "As informações relativas à intimidade, vida privada, honra e imagem das pessoas terão seu acesso restrito, independentemente de classificação em grau de sigilo, pelo prazo máximo de 100 anos a contar da data de sua produção, a agentes públicos legalmente autorizados e à pessoa a que elas se referirem." },
+      { "letra": "B", "texto": "As informações pessoais somente podem ter acesso restrito quando formalmente classificadas em algum dos três graus de sigilo previstos no art. 24 da lei." },
+      { "letra": "C", "texto": "O prazo de restrição de acesso às informações pessoais é de 25 anos, equiparado ao prazo máximo aplicável às informações classificadas como ultrassecretas." },
+      { "letra": "D", "texto": "A restrição de acesso a informações pessoais pode ser afastada por simples requerimento de terceiro interessado, independentemente de consentimento do titular ou de previsão legal específica." },
+      { "letra": "E", "texto": "As informações pessoais, uma vez tornadas públicas por qualquer meio, perdem definitivamente a proteção prevista na lei, ainda que a divulgação tenha sido ilícita." }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A reproduz o caput do art. 31 da Lei nº 12.527/2011: a restrição de acesso às informações pessoais é automática, independente de classificação formal em grau de sigilo, e vigora pelo prazo máximo de 100 anos, restringindo-se o acesso a agentes públicos legalmente autorizados e ao próprio titular. A alternativa B erra ao condicionar a restrição a classificação formal, quando a proteção decorre diretamente da natureza pessoal da informação. A alternativa C erra o prazo, que é de 100 anos, e não de 25. A alternativa D erra ao dispensar consentimento do titular ou previsão legal específica para o afastamento da restrição. A alternativa E erra ao convalidar divulgação ilícita como forma de supressão definitiva da proteção legal.",
+    "fundamentacaoLegal": "Art. 31, caput, da Lei nº 12.527/2011."
+  },
+  {
+    "id": "transparencia-lai-23",
+    "topicoId": "transparencia-lai",
+    "topico": "Transparência e acesso à informação",
+    "dificuldade": "media",
+    "enunciado": "Órgão público, ao receber pedido de acesso, verifica que não possui a informação solicitada, mas tem conhecimento de que ela está na posse de outro órgão. Nos termos do art. 11, §1º, III, da Lei nº 12.527/2011, o órgão que recebeu o pedido deve:",
+    "alternativas": [
+      { "letra": "A", "texto": "indeferir sumariamente o pedido, cabendo ao requerente formular novo pedido diretamente ao órgão detentor da informação." },
+      { "letra": "B", "texto": "comunicar que não possui a informação, indicar, se de seu conhecimento, o órgão ou entidade que a detém, ou remeter o requerimento a esse órgão ou entidade, cientificando o interessado da remessa de seu pedido." },
+      { "letra": "C", "texto": "classificar o pedido como improcedente, sem qualquer dever de orientação ao requerente quanto ao órgão competente." },
+      { "letra": "D", "texto": "sobrestar a resposta até que o requerente comprove, por documento idôneo, qual órgão efetivamente detém a informação solicitada." },
+      { "letra": "E", "texto": "reter o pedido por prazo indeterminado, aguardando eventual manifestação espontânea do órgão detentor da informação." }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B reproduz literalmente o art. 11, §1º, III, da Lei nº 12.527/2011. A alternativa A erra ao transferir integralmente ao requerente o ônus de identificar e acionar o órgão competente, quando a lei impõe ao órgão que recebeu o pedido o dever de indicar ou remeter o requerimento. A alternativa C erra ao dispensar o dever legal de orientação. A alternativa D cria ônus probatório inexistente e incompatível com a natureza do dever de informar. A alternativa E erra ao permitir retenção do pedido por prazo indeterminado, contrariando os prazos objetivos fixados pela lei.",
+    "fundamentacaoLegal": "Art. 11, §1º, inciso III, da Lei nº 12.527/2011."
+  },
+  {
+    "id": "transparencia-lai-24",
+    "topicoId": "transparencia-lai",
+    "topico": "Transparência e acesso à informação",
+    "dificuldade": "dificil",
+    "enunciado": "Órgão público pretende classificar determinada informação, estabelecendo como termo final da restrição de acesso não um prazo fixo em anos, mas a ocorrência de determinado evento futuro. Sobre essa possibilidade, à luz da Lei nº 12.527/2011, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "É vedada tal prática, pois a lei exige que a classificação de sigilo seja sempre vinculada a prazo certo, contado em anos, a partir da data de produção da informação." },
+      { "letra": "B", "texto": "É admitida, alternativamente aos prazos legais máximos, a fixação de evento como termo final de restrição, desde que sua ocorrência se dê antes do transcurso do prazo máximo de classificação aplicável ao grau respectivo." },
+      { "letra": "C", "texto": "É admitida exclusivamente para informações classificadas no grau reservado, sendo vedada para os graus secreto e ultrassecreto." },
+      { "letra": "D", "texto": "É admitida, mas o evento fixado como termo final deve necessariamente ocorrer após o transcurso do prazo máximo de classificação, sob pena de nulidade do ato de classificação." },
+      { "letra": "E", "texto": "É admitida, dependendo, contudo, de prévia aprovação do Congresso Nacional para qualquer grau de classificação." }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B reproduz o art. 24, §3º, da Lei nº 12.527/2011, que permite, alternativamente aos prazos máximos fixados no §1º, a adoção de evento futuro como termo final da restrição, desde que sua ocorrência se dê antes do transcurso do prazo máximo de classificação aplicável. A alternativa A erra ao negar essa alternativa expressamente prevista em lei. A alternativa C erra ao restringir indevidamente a possibilidade ao grau reservado, quando a lei não faz tal distinção por grau. A alternativa D inverte a lógica do dispositivo, que exige que o evento ocorra antes, e não depois, do prazo máximo. A alternativa E cria exigência de aprovação legislativa inexistente na lei.",
+    "fundamentacaoLegal": "Art. 24, §3º, da Lei nº 12.527/2011."
+  },
+  {
+    "id": "transparencia-lai-25",
+    "topicoId": "transparencia-lai",
+    "topico": "Transparência e acesso à informação",
+    "dificuldade": "media",
+    "enunciado": "Município com população de 8.000 habitantes, segundo o último censo, pretende deixar de divulgar em sítio eletrônico próprio as informações de transparência ativa previstas no art. 8º da Lei nº 12.527/2011. Assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A dispensa é integral: municípios com até 10.000 habitantes ficam desobrigados de qualquer forma de divulgação obrigatória de informações, ainda que por outros meios." },
+      { "letra": "B", "texto": "Municípios com população de até 10.000 habitantes ficam dispensados da divulgação obrigatória na internet, mantida a obrigatoriedade de divulgação, em tempo real, de informações relativas à execução orçamentária e financeira." },
+      { "letra": "C", "texto": "A dispensa somente se aplica a municípios com população de até 5.000 habitantes, não alcançando o Município do enunciado." },
+      { "letra": "D", "texto": "A dispensa depende de autorização expressa do Tribunal de Contas do Estado, mediante requerimento fundamentado do Chefe do Poder Executivo municipal." },
+      { "letra": "E", "texto": "Não há previsão legal de dispensa em razão do porte populacional do ente federativo, sendo a divulgação em sítio eletrônico obrigatória a todos os Municípios, independentemente do número de habitantes." }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B reproduz o art. 8º, §4º, da Lei nº 12.527/2011: municípios com população de até 10.000 habitantes ficam dispensados da divulgação obrigatória na internet, mantida, contudo, a obrigatoriedade de divulgação em tempo real de informações relativas à execução orçamentária e financeira. A alternativa A generaliza indevidamente a dispensa, que se limita à divulgação pela internet, não alcançando o dever de transparência em tempo real da execução orçamentária. A alternativa C inventa limite populacional distinto do previsto em lei. A alternativa D cria exigência de autorização do Tribunal de Contas não prevista no dispositivo. A alternativa E nega, incorretamente, a existência de dispensa expressamente prevista em lei.",
+    "fundamentacaoLegal": "Art. 8º, §4º, da Lei nº 12.527/2011."
+  },
+  {
+    "id": "transparencia-lai-26",
+    "topicoId": "transparencia-lai",
+    "topico": "Transparência e acesso à informação",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre o regime jurídico do acesso à informação disciplinado pela Lei nº 12.527/2011, assinale a alternativa INCORRETA.",
+    "alternativas": [
+      { "letra": "A", "texto": "O acesso à informação de interesse público independe de pagamento, ressalvado o custo dos serviços e materiais utilizados na reprodução de documentos." },
+      { "letra": "B", "texto": "O recurso contra a negativa de acesso, ou contra a ausência de fornecimento das razões da negativa, deve ser dirigido, em regra, à autoridade hierarquicamente superior à que proferiu a decisão, no prazo de 10 dias." },
+      { "letra": "C", "texto": "A informação classificada em grau ultrassecreto tem prazo máximo de restrição de acesso de 25 anos, contado da data de sua produção." },
+      { "letra": "D", "texto": "O pedido de acesso à informação deve indicar, sob pena de indeferimento, o interesse jurídico do requerente na obtenção da informação solicitada." },
+      { "letra": "E", "texto": "É dever dos órgãos públicos promover, independentemente de requerimento, a divulgação de informações de interesse coletivo ou geral por eles produzidas ou custodiadas." }
+    ],
+    "gabarito": "D",
+    "comentario": "A alternativa D deve ser assinalada, por ser incorreta: o art. 10, §3º, da Lei nº 12.527/2011 veda expressamente a exigência de indicação dos motivos determinantes do pedido de acesso a informação de interesse público, de modo que sua ausência não pode fundamentar indeferimento. As demais alternativas estão corretas: a alternativa A reproduz o art. 12; a alternativa B, o art. 15; a alternativa C, o art. 24, §1º, I; e a alternativa E, o dever de transparência ativa do art. 8º, caput.",
+    "fundamentacaoLegal": "Art. 10, §3º, c/c art. 12, art. 15, art. 24, §1º, I, e art. 8º, caput, da Lei nº 12.527/2011."
+  },
+  {
+    "id": "transparencia-lai-27",
+    "topicoId": "transparencia-lai",
+    "topico": "Transparência e acesso à informação",
+    "dificuldade": "media",
+    "enunciado": "A Lei Complementar nº 131/2009, conhecida como Lei da Transparência, alterou a Lei de Responsabilidade Fiscal para determinar que a transparência da gestão fiscal seja assegurada, também, mediante:",
+    "alternativas": [
+      { "letra": "A", "texto": "liberação ao pleno conhecimento e acompanhamento da sociedade, em tempo real, de informações pormenorizadas sobre a execução orçamentária e financeira, em meios eletrônicos de acesso público." },
+      { "letra": "B", "texto": "divulgação exclusivamente anual, por meio do Relatório Resumido da Execução Orçamentária, dispensada qualquer forma de disponibilização contínua ao longo do exercício." },
+      { "letra": "C", "texto": "restrição do acesso a informações orçamentárias e financeiras aos órgãos de controle interno e externo, vedada a divulgação direta à sociedade." },
+      { "letra": "D", "texto": "divulgação facultativa, a critério de cada ente federado, de informações sobre a execução orçamentária, sem caráter de obrigatoriedade legal." },
+      { "letra": "E", "texto": "centralização exclusiva das informações no Portal da Transparência do Governo Federal, dispensando os demais entes federados de manter portal próprio." }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A reproduz o inciso II do parágrafo único do art. 48 da Lei Complementar nº 101/2000, com a redação dada pela Lei Complementar nº 131/2009, que assegura a transparência mediante liberação, em tempo real, de informações pormenorizadas sobre a execução orçamentária e financeira, em meios eletrônicos de acesso público. A alternativa B contraria a exigência de tempo real, substituindo-a por divulgação anual. A alternativa C inverte a finalidade da norma, que amplia, e não restringe, o acesso da sociedade. A alternativa D erra ao tornar facultativa obrigação legal expressamente imposta. A alternativa E erra ao dispensar os entes federados de manter mecanismos próprios de divulgação.",
+    "fundamentacaoLegal": "Art. 48, parágrafo único, inciso II, da Lei Complementar nº 101/2000, com redação dada pela Lei Complementar nº 131/2009."
+  },
+  {
+    "id": "transparencia-lai-28",
+    "topicoId": "transparencia-lai",
+    "topico": "Transparência e acesso à informação",
+    "dificuldade": "dificil",
+    "enunciado": "Servidor público municipal, no exercício de suas funções junto ao Serviço de Informações ao Cidadão, retarda deliberadamente e sem justificativa a resposta a pedido de acesso à informação, com o intuito de dificultar seu conhecimento pelo requerente. Nos termos da Lei nº 12.527/2011, tal conduta:",
+    "alternativas": [
+      { "letra": "A", "texto": "não constitui ilícito específico previsto na lei, sujeitando-se o servidor apenas às regras gerais de responsabilidade administrativa aplicáveis a qualquer inadimplemento funcional." },
+      { "letra": "B", "texto": "constitui conduta ilícita expressamente prevista na lei, que arrola, entre as condutas ilícitas dos agentes públicos, retardar deliberadamente o fornecimento da informação, sem justa causa, sujeitando o responsável a apuração de responsabilidade, garantido o direito de defesa." },
+      { "letra": "C", "texto": "somente é passível de responsabilização se a conduta causar prejuízo financeiro comprovado ao requerente, ônus que recai sobre este." },
+      { "letra": "D", "texto": "enseja exclusivamente responsabilização civil, sendo incompatível a cumulação com sanções administrativas, disciplinares ou penais." },
+      { "letra": "E", "texto": "exclui-se a responsabilização quando o retardamento decorrer de insuficiência de pessoal no órgão, hipótese equiparada a excludente legal de ilicitude prevista na lei." }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B está correta: o art. 32, I, da Lei nº 12.527/2011 arrola, entre as condutas ilícitas do agente público, retardar deliberadamente o fornecimento da informação, sujeitando o responsável à apuração de responsabilidade, assegurado o contraditório e a ampla defesa. A alternativa A erra ao negar a existência de previsão específica, expressamente contida no art. 32. A alternativa C cria condição de prejuízo financeiro comprovado, inexistente na lei. A alternativa D erra ao afastar a cumulação de sanções, quando o §2º do art. 32 admite expressamente a responsabilização também por improbidade administrativa, além de eventuais sanções disciplinares e penais. A alternativa E cria excludente de ilicitude não prevista na lei.",
+    "fundamentacaoLegal": "Art. 32, inciso I, e §2º, da Lei nº 12.527/2011."
+  },
+  {
+    "id": "transparencia-lai-29",
+    "topicoId": "transparencia-lai",
+    "topico": "Transparência e acesso à informação",
+    "dificuldade": "media",
+    "enunciado": "Para garantir o direito de acesso à informação, a Lei nº 12.527/2011 impõe aos órgãos e entidades públicas o dever de criar o chamado Serviço de Informações ao Cidadão (SIC), que deve, entre outras atribuições:",
+    "alternativas": [
+      { "letra": "A", "texto": "atender e orientar o público quanto ao acesso a informações, informar sobre a tramitação de documentos e protocolizar pedidos de acesso." },
+      { "letra": "B", "texto": "exercer, com exclusividade, a função de classificar informações em grau de sigilo, substituindo a competência das autoridades indicadas no art. 27 da lei." },
+      { "letra": "C", "texto": "julgar, em caráter definitivo, os recursos interpostos contra decisões de indeferimento de acesso à informação." },
+      { "letra": "D", "texto": "processar exclusivamente pedidos de acesso a informações classificadas, sendo as informações públicas fornecidas diretamente pelo setor de origem, sem intermediação do serviço." },
+      { "letra": "E", "texto": "substituir a ouvidoria do órgão, absorvendo integralmente suas competências de recebimento de reclamações e denúncias." }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A reproduz o inciso I do art. 9º da Lei nº 12.527/2011, que atribui ao Serviço de Informações ao Cidadão as funções de atendimento e orientação do público, informação sobre a tramitação de documentos e recebimento de pedidos de acesso. A alternativa B erra ao atribuir ao SIC competência de classificação de sigilo, que a lei reserva a rol restrito de autoridades no art. 27. A alternativa C erra ao atribuir ao SIC competência decisória definitiva sobre recursos, que cabe a outras instâncias na estrutura recursal da lei. A alternativa D erra ao inverter a lógica de funcionamento do SIC, destinado primordialmente ao processamento de pedidos de acesso a informações não classificadas. A alternativa E cria absorção de competências de ouvidoria não prevista na lei.",
+    "fundamentacaoLegal": "Art. 9º, inciso I, da Lei nº 12.527/2011."
+  },
+  {
+    "id": "transparencia-lai-30",
+    "topicoId": "transparencia-lai",
+    "topico": "Transparência e acesso à informação",
+    "dificuldade": "dificil",
+    "enunciado": "Cidadão em situação de vulnerabilidade socioeconômica, comprovada nos termos de regulamento, requer a órgão público a reprodução de volumoso conjunto de documentos públicos, solicitando isenção do respectivo custo. O órgão nega a isenção, sob o argumento de que a gratuidade prevista na Lei nº 12.527/2011 abrange apenas o serviço de busca, e não o de reprodução. Assinale a alternativa correta quanto à conduta do órgão.",
+    "alternativas": [
+      { "letra": "A", "texto": "A conduta está correta, pois a lei restringe a gratuidade unicamente ao serviço de busca da informação, sendo sempre onerosa a reprodução de documentos, independentemente da condição econômica do requerente." },
+      { "letra": "B", "texto": "A conduta está incorreta, pois a lei prevê expressamente a isenção do pagamento do custo de reprodução de documentos para aquele que comprovar insuficiência de recursos, nos termos de regulamento." },
+      { "letra": "C", "texto": "A conduta está correta, pois a isenção por hipossuficiência somente se aplica a custas judiciais, não alcançando custos administrativos de reprodução de documentos." },
+      { "letra": "D", "texto": "A conduta está incorreta, mas a isenção depende de prévia decisão judicial que reconheça o estado de hipossuficiência do requerente." },
+      { "letra": "E", "texto": "A conduta está correta, pois a gratuidade da reprodução de documentos depende de deliberação discricionária da autoridade máxima do órgão, inexistindo direito subjetivo à isenção." }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B está correta e reproduz o parágrafo único do art. 12 da Lei nº 12.527/2011, que assegura isenção do custo de reprodução de documentos a quem comprovar, nos termos de regulamento, insuficiência de recursos. A alternativa A erra ao negar essa isenção expressamente prevista em lei. A alternativa C erra ao restringir indevidamente a isenção a custas judiciais, quando o dispositivo trata especificamente do custo administrativo de reprodução no âmbito do acesso à informação. A alternativa D cria exigência de prévia decisão judicial não prevista na lei, que remete a comprovação a regulamento administrativo. A alternativa E erra ao transformar em faculdade discricionária o que a lei estabelece como direito do requerente que comprove a condição de hipossuficiência.",
+    "fundamentacaoLegal": "Art. 12, parágrafo único, da Lei nº 12.527/2011."
   }
 ]
