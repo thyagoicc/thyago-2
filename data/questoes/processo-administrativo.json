@@ -1,0 +1,512 @@
+[
+  {
+    "id": "processo-administrativo-01",
+    "topicoId": "processo-administrativo",
+    "topico": "Processo administrativo",
+    "dificuldade": "media",
+    "enunciado": "O Município de Campina Grande/PB não possui lei própria disciplinando o processo administrativo e o prazo para revisão de seus atos. Sobre o âmbito de incidência da Lei nº 9.784/1999, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A Lei nº 9.784/1999 é norma nacional, de observância obrigatória e imediata por todos os entes federativos, que não podem legislar sobre a matéria." },
+      { "letra": "B", "texto": "A Lei nº 9.784/1999 estabelece normas básicas sobre o processo administrativo no âmbito da Administração Federal direta e indireta, aplicando-se também aos órgãos dos Poderes Legislativo e Judiciário da União quando no desempenho de função administrativa, e pode ser aplicada de forma subsidiária a Estados e Municípios quando inexistente norma local específica." },
+      { "letra": "C", "texto": "A Lei nº 9.784/1999 aplica-se exclusivamente ao Poder Executivo federal, sendo vedada sua incidência sobre os demais Poderes, ainda que no exercício de função administrativa." },
+      { "letra": "D", "texto": "Na ausência de lei municipal, aplica-se obrigatoriamente a Lei nº 8.112/1990, por ser o estatuto geral dos servidores públicos brasileiros." },
+      { "letra": "E", "texto": "Inexistindo lei local, os atos administrativos municipais podem ser revistos a qualquer tempo, sem sujeição a prazo decadencial." }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B conjuga o art. 1º, caput e § 1º, da Lei nº 9.784/1999 com a Súmula 633 do STJ, que admite a aplicação subsidiária da lei federal aos Estados e Municípios na falta de norma local específica. A alternativa A qualifica a lei como nacional e nega a competência legislativa dos demais entes, o que é incorreto. A alternativa C exclui os Poderes Legislativo e Judiciário, contrariando o § 1º do art. 1º. A alternativa D confunde a lei geral de processo administrativo com o estatuto dos servidores federais, que não é norma nacional. A alternativa E afasta a decadência, contrariando o art. 54 da Lei nº 9.784/1999, aplicável subsidiariamente conforme a Súmula 633 do STJ.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, art. 1º, caput e § 1º, e art. 54; Súmula 633 do STJ."
+  },
+  {
+    "id": "processo-administrativo-02",
+    "topicoId": "processo-administrativo",
+    "topico": "Processo administrativo",
+    "dificuldade": "dificil",
+    "enunciado": "A Administração municipal, ao apreciar requerimento de administrado, adota nova interpretação de norma administrativa e pretende aplicá-la a situações já consolidadas sob a interpretação anterior. À luz dos critérios do art. 2º, parágrafo único, da Lei nº 9.784/1999, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A nova interpretação pode ser aplicada retroativamente, desde que mais favorável ao interesse público arrecadatório." },
+      { "letra": "B", "texto": "A alteração de interpretação depende de autorização judicial prévia, sob pena de nulidade." },
+      { "letra": "C", "texto": "A Administração está impedida de rever suas interpretações, por força do princípio da segurança jurídica." },
+      { "letra": "D", "texto": "A retroatividade é admitida sempre que a interpretação anterior tenha sido firmada por autoridade posteriormente exonerada." },
+      { "letra": "E", "texto": "A norma administrativa deve ser interpretada da forma que melhor garanta o atendimento do fim público a que se dirige, vedada a aplicação retroativa de nova interpretação." }
+    ],
+    "gabarito": "E",
+    "comentario": "A alternativa E reproduz o art. 2º, parágrafo único, XIII, da Lei nº 9.784/1999, corolário da segurança jurídica e da proteção da confiança legítima. A alternativa A admite a retroatividade por conveniência arrecadatória, contrariando a vedação expressa. A alternativa B cria requisito de autorização judicial inexistente. A alternativa C impede a revisão interpretativa, quando o que a lei veda é apenas a aplicação retroativa da nova interpretação, e não a sua adoção para o futuro. A alternativa D condiciona a retroatividade a circunstância pessoal da autoridade, irrelevante juridicamente.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, art. 2º, caput e parágrafo único, XIII."
+  },
+  {
+    "id": "processo-administrativo-03",
+    "topicoId": "processo-administrativo",
+    "topico": "Processo administrativo",
+    "dificuldade": "media",
+    "enunciado": "Sobre os direitos do administrado perante a Administração Pública, previstos no art. 3º da Lei nº 9.784/1999, é correto afirmar que:",
+    "alternativas": [
+      { "letra": "A", "texto": "o administrado tem direito de fazer-se assistir, facultativamente, por advogado, salvo quando obrigatória a representação por força de lei." },
+      { "letra": "B", "texto": "a assistência por advogado é obrigatória em todos os processos administrativos de que possam resultar sanções." },
+      { "letra": "C", "texto": "a vista dos autos e a obtenção de cópias dependem de demonstração de interesse jurídico específico, deferida a critério discricionário da autoridade." },
+      { "letra": "D", "texto": "as alegações e os documentos apresentados pelo interessado antes da decisão são recebidos apenas para fins de registro, não sendo objeto de obrigatória consideração pelo órgão competente." },
+      { "letra": "E", "texto": "o direito de ciência da tramitação restringe-se aos processos iniciados por requerimento do próprio interessado." }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A reproduz o art. 3º, IV, da Lei nº 9.784/1999. A alternativa B torna obrigatória a assistência por advogado, contrariando a facultatividade legal e a Súmula Vinculante 5 do STF. A alternativa C submete a vista dos autos a juízo discricionário, quando o art. 3º, II, assegura ao interessado ter ciência da tramitação, vista dos autos e obtenção de cópias. A alternativa D nega o dever de consideração das alegações, expressamente previsto no art. 3º, III. A alternativa E restringe o direito de ciência aos processos iniciados a pedido, quando o dispositivo alcança todo processo em que o administrado tenha a condição de interessado, inclusive os instaurados de ofício.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, art. 3º, I a IV; Súmula Vinculante 5 do STF."
+  },
+  {
+    "id": "processo-administrativo-04",
+    "topicoId": "processo-administrativo",
+    "topico": "Processo administrativo",
+    "dificuldade": "media",
+    "enunciado": "Assinale a alternativa que NÃO corresponde a um dever do administrado perante a Administração Pública, nos termos do art. 4º da Lei nº 9.784/1999.",
+    "alternativas": [
+      { "letra": "A", "texto": "Expor os fatos conforme a verdade." },
+      { "letra": "B", "texto": "Proceder com lealdade, urbanidade e boa-fé." },
+      { "letra": "C", "texto": "Não agir de modo temerário." },
+      { "letra": "D", "texto": "Comprovar previamente, mediante depósito em dinheiro, a seriedade do requerimento formulado." },
+      { "letra": "E", "texto": "Prestar as informações que lhe forem solicitadas e colaborar para o esclarecimento dos fatos." }
+    ],
+    "gabarito": "D",
+    "comentario": "A questão pede a alternativa que não corresponde a dever legal. A alternativa D não figura entre os deveres do art. 4º e, além disso, a exigência de depósito prévio como condição de acesso ou de recurso administrativo é inconstitucional, nos termos da Súmula Vinculante 21 do STF e da Súmula 373 do STJ. As alternativas A, B, C e E reproduzem, respectivamente, os incisos I, II, III e IV do art. 4º da Lei nº 9.784/1999.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, art. 4º, I a IV; Súmula Vinculante 21 do STF; Súmula 373 do STJ."
+  },
+  {
+    "id": "processo-administrativo-05",
+    "topicoId": "processo-administrativo",
+    "topico": "Processo administrativo",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre a competência administrativa e a delegação, nos termos dos arts. 11 a 14 da Lei nº 9.784/1999, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A delegação de competência somente é admitida em favor de órgãos ou titulares hierarquicamente subordinados ao delegante." },
+      { "letra": "B", "texto": "A competência é renunciável, podendo o titular abrir mão do seu exercício mediante ato motivado." },
+      { "letra": "C", "texto": "Não podem ser objeto de delegação a edição de atos de caráter normativo, a decisão de recursos administrativos e as matérias de competência exclusiva do órgão ou autoridade." },
+      { "letra": "D", "texto": "As decisões adotadas por delegação consideram-se editadas pelo delegante, a quem se imputa a responsabilidade pelo ato." },
+      { "letra": "E", "texto": "O ato de delegação é irrevogável, produzindo efeitos até a extinção da competência delegada." }
+    ],
+    "gabarito": "C",
+    "comentario": "A alternativa C reproduz o art. 13, I a III, da Lei nº 9.784/1999. A alternativa A contraria o art. 12, que admite a delegação a órgãos ou titulares ainda que não hierarquicamente subordinados. A alternativa B contraria o art. 11, que declara a competência irrenunciável, salvo os casos de delegação e avocação legalmente admitidos. A alternativa D inverte o art. 14, § 3º, segundo o qual as decisões adotadas por delegação devem mencionar essa qualidade e consideram-se editadas pelo delegado. A alternativa E contraria o art. 14, § 2º, que permite a revogação do ato de delegação a qualquer tempo pela autoridade delegante.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, arts. 11, 12, 13, I a III, e 14, §§ 2º e 3º."
+  },
+  {
+    "id": "processo-administrativo-06",
+    "topicoId": "processo-administrativo",
+    "topico": "Processo administrativo",
+    "dificuldade": "media",
+    "enunciado": "Secretário municipal pretende chamar para si a apreciação de processo cuja competência foi legalmente atribuída a chefe de departamento a ele subordinado. Sobre a avocação de competência, na disciplina da Lei nº 9.784/1999, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A avocação é livre e permanente, decorrendo naturalmente do poder hierárquico, dispensada qualquer justificativa." },
+      { "letra": "B", "texto": "A avocação é vedada em qualquer hipótese, por violar o princípio do juiz natural aplicável ao processo administrativo." },
+      { "letra": "C", "texto": "A avocação somente é admitida em relação a órgãos não subordinados hierarquicamente, mediante convênio." },
+      { "letra": "D", "texto": "A avocação depende de autorização do interessado no processo, manifestada por escrito." },
+      { "letra": "E", "texto": "Será permitida, em caráter excepcional e por motivos relevantes devidamente justificados, a avocação temporária de competência atribuída a órgão hierarquicamente inferior." }
+    ],
+    "gabarito": "E",
+    "comentario": "A alternativa E reproduz o art. 15 da Lei nº 9.784/1999. A alternativa A trata a avocação como faculdade ampla e permanente, quando a lei a admite apenas em caráter excepcional, temporário e justificado. A alternativa B veda em absoluto o instituto, expressamente previsto em lei. A alternativa C inverte o pressuposto da avocação, que pressupõe subordinação hierárquica, ao contrário da delegação, que pode alcançar órgãos não subordinados. A alternativa D condiciona a avocação à anuência do administrado, requisito inexistente.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, arts. 12 e 15."
+  },
+  {
+    "id": "processo-administrativo-07",
+    "topicoId": "processo-administrativo",
+    "topico": "Processo administrativo",
+    "dificuldade": "dificil",
+    "enunciado": "Servidor designado para instruir processo administrativo verifica que o interessado é seu parente afim em segundo grau e mantém, ainda, inimizade notória com outro dos interessados. Sobre impedimento e suspeição na Lei nº 9.784/1999, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "Impedimento e suspeição produzem os mesmos efeitos processuais e devem ser sempre alegados pelo interessado, jamais reconhecidos de ofício." },
+      { "letra": "B", "texto": "O servidor que incorrer em impedimento deve comunicar o fato à autoridade competente, abstendo-se de atuar, sendo que a omissão desse dever constitui falta grave para efeitos disciplinares; a suspeição, por sua vez, pode ser arguida por inimizade notória, e do indeferimento da alegação cabe recurso, sem efeito suspensivo." },
+      { "letra": "C", "texto": "O impedimento decorrente de parentesco alcança apenas os parentes em linha reta, excluindo-se os afins." },
+      { "letra": "D", "texto": "Do indeferimento da alegação de suspeição cabe recurso com efeito suspensivo automático, suspendendo-se a tramitação do processo." },
+      { "letra": "E", "texto": "A atuação de servidor impedido acarreta a nulidade absoluta do processo desde a instauração, insuscetível de convalidação em qualquer hipótese." }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B conjuga os arts. 19, caput e parágrafo único, 20 e 21 da Lei nº 9.784/1999. A alternativa A equipara impedimento e suspeição e exclui o reconhecimento de ofício, quando o impedimento é matéria de ordem pública que o próprio servidor deve declarar. A alternativa C restringe o impedimento aos parentes em linha reta, contrariando o art. 18, II, que menciona expressamente parentes e afins até o terceiro grau. A alternativa D atribui efeito suspensivo ao recurso, contrariando a parte final do art. 21. A alternativa E afirma nulidade insanável desde a instauração, desconsiderando que os vícios processuais devem ser apreciados à luz do prejuízo e da possibilidade de renovação dos atos.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, arts. 18, 19, 20 e 21."
+  },
+  {
+    "id": "processo-administrativo-08",
+    "topicoId": "processo-administrativo",
+    "topico": "Processo administrativo",
+    "dificuldade": "media",
+    "enunciado": "Sobre a forma dos atos do processo administrativo, disciplinada no art. 22 da Lei nº 9.784/1999, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "Os atos do processo administrativo não dependem de forma determinada senão quando a lei expressamente a exigir, devendo, contudo, ser produzidos por escrito, em vernáculo, com data, local e assinatura da autoridade responsável." },
+      { "letra": "B", "texto": "O reconhecimento de firma é exigência obrigatória em todos os documentos apresentados pelos administrados." },
+      { "letra": "C", "texto": "A autenticação de documentos exigidos em cópia depende necessariamente de cartório, sendo vedada ao órgão administrativo." },
+      { "letra": "D", "texto": "A forma dos atos processuais é sempre solene e vinculada, sob pena de nulidade insanável." },
+      { "letra": "E", "texto": "A numeração sequencial e a rubrica das páginas do processo são facultativas, por não interferirem na validade dos atos." }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A reproduz o caput e o § 1º do art. 22 da Lei nº 9.784/1999. A alternativa B contraria o § 2º, segundo o qual, salvo imposição legal, o reconhecimento de firma somente será exigido quando houver dúvida de autenticidade. A alternativa C contraria o § 3º, que autoriza o próprio órgão administrativo a autenticar documentos apresentados em cópia. A alternativa D consagra formalismo absoluto, contrário ao princípio do formalismo moderado que orienta a lei. A alternativa E contraria o § 4º, que determina a numeração sequencial e a rubrica das páginas.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, art. 22, caput e §§ 1º a 4º."
+  },
+  {
+    "id": "processo-administrativo-09",
+    "topicoId": "processo-administrativo",
+    "topico": "Processo administrativo",
+    "dificuldade": "media",
+    "enunciado": "Sobre os prazos no processo administrativo regido pela Lei nº 9.784/1999 e sua contagem, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "Os prazos começam a correr da data da prática do ato pela autoridade, incluindo-se o dia do começo e excluindo-se o do vencimento." },
+      { "letra": "B", "texto": "Os prazos expressos em dias contam-se apenas em dias úteis, suspendendo-se durante o recesso administrativo." },
+      { "letra": "C", "texto": "Inexistindo disposição específica, os atos do órgão e dos administrados devem ser praticados no prazo de dez dias, prorrogável até o triplo mediante justificativa." },
+      { "letra": "D", "texto": "Inexistindo disposição específica, os atos devem ser praticados no prazo de cinco dias, salvo motivo de força maior, podendo esse prazo ser dilatado até o dobro mediante comprovada justificação; os prazos começam a correr da cientificação oficial, excluindo-se o dia do começo e incluindo-se o do vencimento, e contam-se de modo contínuo." },
+      { "letra": "E", "texto": "Os prazos processuais suspendem-se sempre que o interessado requerer, independentemente de motivo de força maior devidamente comprovado." }
+    ],
+    "gabarito": "D",
+    "comentario": "A alternativa D reúne o art. 24 e o art. 66, caput e § 2º, da Lei nº 9.784/1999. A alternativa A inverte a regra de contagem do art. 66, caput, e erra o termo inicial, que é a cientificação oficial. A alternativa B afirma contagem em dias úteis e suspensão em recesso, contrariando a contagem contínua do art. 66, § 2º. A alternativa C altera o prazo geral e o limite de prorrogação previstos no art. 24 e seu parágrafo único. A alternativa E contraria o art. 67, que somente admite a suspensão por motivo de força maior devidamente comprovado.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, arts. 24, 66, caput e §§ 1º e 2º, e 67."
+  },
+  {
+    "id": "processo-administrativo-10",
+    "topicoId": "processo-administrativo",
+    "topico": "Processo administrativo",
+    "dificuldade": "dificil",
+    "enunciado": "Administrado é intimado para comparecer a ato de instrução com antecedência de apenas um dia útil e não comparece. A autoridade pretende, por isso, considerar verdadeiros os fatos que lhe são imputados. Sobre a intimação e seus efeitos na Lei nº 9.784/1999, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A intimação é válida, pois a lei não fixa antecedência mínima para comparecimento em atos de instrução." },
+      { "letra": "B", "texto": "O desatendimento da intimação importa reconhecimento tácito da verdade dos fatos e renúncia aos direitos discutidos no processo." },
+      { "letra": "C", "texto": "A intimação deve observar antecedência mínima de três dias úteis quanto à data de comparecimento, e o desatendimento da intimação não importa o reconhecimento da verdade dos fatos nem a renúncia a direito pelo administrado." },
+      { "letra": "D", "texto": "A intimação irregular gera nulidade absoluta, que não pode ser suprida nem mesmo pelo comparecimento espontâneo do administrado." },
+      { "letra": "E", "texto": "A intimação de interessados indeterminados ou com domicílio indefinido deve ser feita por via postal com aviso de recebimento, sendo vedada a publicação oficial." }
+    ],
+    "gabarito": "C",
+    "comentario": "A alternativa C conjuga o art. 26, § 2º, com o art. 27 da Lei nº 9.784/1999. A alternativa A nega a antecedência mínima expressamente prevista. A alternativa B contraria frontalmente o art. 27. A alternativa D desconsidera o art. 26, § 5º, segundo o qual o comparecimento do administrado supre a falta ou irregularidade da intimação. A alternativa E inverte o art. 26, § 4º, que determina a intimação por publicação oficial no caso de interessados indeterminados, desconhecidos ou com domicílio indefinido.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, arts. 26, §§ 2º, 4º e 5º, e 27."
+  },
+  {
+    "id": "processo-administrativo-11",
+    "topicoId": "processo-administrativo",
+    "topico": "Processo administrativo",
+    "dificuldade": "media",
+    "enunciado": "Servidor da recepção de órgão municipal recusa-se a receber requerimento de administrado sob o argumento de que a documentação estaria incompleta, sem apresentar qualquer justificativa formal. Sobre o início do processo administrativo, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A recusa é legítima, pois cabe ao servidor o controle prévio de admissibilidade dos requerimentos apresentados." },
+      { "letra": "B", "texto": "O processo administrativo somente pode iniciar-se a pedido do interessado, sendo vedada a instauração de ofício." },
+      { "letra": "C", "texto": "É lícito à Administração recusar o recebimento de documentos sempre que o requerimento não observar a forma padronizada em ato normativo interno." },
+      { "letra": "D", "texto": "A recusa de recebimento é regra, cabendo ao administrado sanar as falhas antes de nova apresentação, sem direito a orientação do servidor." },
+      { "letra": "E", "texto": "O processo administrativo inicia-se de ofício ou a pedido do interessado, sendo vedada à Administração a recusa imotivada de recebimento de documentos, devendo o servidor orientar o interessado quanto ao suprimento de eventuais falhas." }
+    ],
+    "gabarito": "E",
+    "comentario": "A alternativa E conjuga o art. 5º com o art. 6º, parágrafo único, da Lei nº 9.784/1999. As alternativas A, C e D legitimam a recusa de recebimento, contrariando a vedação legal expressa e o dever de orientação do servidor. A alternativa B nega a instauração de ofício, expressamente admitida pelo art. 5º.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, arts. 5º e 6º, caput e parágrafo único."
+  },
+  {
+    "id": "processo-administrativo-12",
+    "topicoId": "processo-administrativo",
+    "topico": "Processo administrativo",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre os legitimados como interessados no processo administrativo e a capacidade para nele atuar, nos termos dos arts. 9º e 10 da Lei nº 9.784/1999, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "São legitimados como interessados as pessoas físicas ou jurídicas que o iniciem como titulares de direitos ou interesses individuais ou no exercício do direito de representação, aqueles que, sem terem iniciado o processo, tenham direitos ou interesses que possam ser afetados pela decisão, as organizações e associações representativas quanto a direitos e interesses coletivos, e as pessoas ou associações legalmente constituídas quanto a direitos ou interesses difusos." },
+      { "letra": "B", "texto": "Somente quem deu início ao processo pode ostentar a condição de interessado, ficando excluídos terceiros eventualmente atingidos pela decisão." },
+      { "letra": "C", "texto": "As organizações e associações representativas não possuem legitimidade no processo administrativo, por ausência de previsão legal." },
+      { "letra": "D", "texto": "São capazes, para fins de processo administrativo, os maiores de vinte e um anos, sem qualquer ressalva." },
+      { "letra": "E", "texto": "A legitimidade para atuar quanto a direitos ou interesses difusos é exclusiva do Ministério Público." }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A reproduz o art. 9º, I a IV, da Lei nº 9.784/1999. A alternativa B exclui os terceiros atingidos, expressamente legitimados pelo inciso II. A alternativa C nega a legitimidade das organizações e associações, prevista no inciso III. A alternativa D erra a idade, pois o art. 10 fixa a capacidade nos maiores de dezoito anos, ressalvada previsão especial em ato normativo próprio. A alternativa E confere exclusividade ao Ministério Público quanto a interesses difusos no processo administrativo, contrariando o inciso IV do art. 9º.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, arts. 9º, I a IV, e 10."
+  },
+  {
+    "id": "processo-administrativo-13",
+    "topicoId": "processo-administrativo",
+    "topico": "Processo administrativo",
+    "dificuldade": "media",
+    "enunciado": "Durante a instrução de processo administrativo, o interessado declara que os dados necessários à comprovação de sua alegação constam de documento existente em outro órgão da mesma Administração. Sobre a instrução probatória, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "Cabe exclusivamente ao interessado obter e juntar o documento, sob pena de preclusão, ainda que ele esteja em poder da Administração." },
+      { "letra": "B", "texto": "Cabe ao interessado a prova dos fatos que tenha alegado, sem prejuízo do dever atribuído ao órgão competente para a instrução; contudo, quando o interessado declarar que fatos e dados estão registrados em documentos existentes na própria Administração ou em outro órgão administrativo, o órgão competente proverá, de ofício, à obtenção dos documentos ou de suas cópias." },
+      { "letra": "C", "texto": "O ônus da prova no processo administrativo recai integralmente sobre a Administração, sendo o interessado dispensado de comprovar suas alegações." },
+      { "letra": "D", "texto": "Os atos de instrução que exijam a atuação dos interessados devem ser realizados do modo mais completo possível, ainda que gravosos, em nome do princípio da verdade material." },
+      { "letra": "E", "texto": "A Administração pode utilizar provas obtidas por meios ilícitos, desde que indispensáveis à apuração da verdade material." }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B conjuga os arts. 36 e 37 da Lei nº 9.784/1999. A alternativa A ignora o dever de obtenção de ofício previsto no art. 37. A alternativa C desconsidera o art. 36, que atribui ao interessado a prova dos fatos que alegar. A alternativa D contraria o art. 29, § 2º, segundo o qual os atos de instrução que exijam a atuação dos interessados devem realizar-se do modo menos oneroso para estes. A alternativa E contraria o art. 30, que declara inadmissíveis as provas obtidas por meios ilícitos, em consonância com o art. 5º, LVI, da CF/88.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, arts. 29, § 2º, 30, 36 e 37; CF/88, art. 5º, LVI."
+  },
+  {
+    "id": "processo-administrativo-14",
+    "topicoId": "processo-administrativo",
+    "topico": "Processo administrativo",
+    "dificuldade": "dificil",
+    "enunciado": "Autoridade instrutora indefere, sem qualquer fundamentação, o requerimento de produção de prova pericial formulado pelo interessado, alegando genericamente excesso de formalismo. Sobre a hipótese, à luz da Lei nº 9.784/1999, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "O indeferimento é regular, pois a produção de provas no processo administrativo depende de juízo discricionário insindicável da autoridade." },
+      { "letra": "B", "texto": "O interessado somente pode requerer diligências e perícias após a decisão de primeira instância, em sede recursal." },
+      { "letra": "C", "texto": "O indeferimento é regular, pois a prova pericial é sempre incompatível com a celeridade do processo administrativo." },
+      { "letra": "D", "texto": "O interessado pode, na fase instrutória e antes da tomada da decisão, juntar documentos e pareceres, requerer diligências e perícias e aduzir alegações, somente podendo ser recusadas, mediante decisão fundamentada, as provas que sejam ilícitas, impertinentes, desnecessárias ou protelatórias." },
+      { "letra": "E", "texto": "O indeferimento de provas prescinde de fundamentação, bastando que a decisão final do processo seja motivada." }
+    ],
+    "gabarito": "D",
+    "comentario": "A alternativa D reproduz o art. 38, caput e § 2º, da Lei nº 9.784/1999. A alternativa A afirma discricionariedade insindicável, incompatível com a exigência de decisão fundamentada. A alternativa B posterga o direito à produção de prova para a fase recursal, contrariando o caput do art. 38 e o contraditório. A alternativa C afasta em abstrato a prova pericial, sem amparo legal. A alternativa E dispensa a fundamentação do indeferimento, expressamente exigida pelo § 2º e pelo art. 50, II, que impõe motivação aos atos que imponham ou agravem deveres, encargos ou sanções e aos que decidam recursos e provas.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, arts. 38, caput e §§ 1º e 2º, e 50; CF/88, art. 5º, LV."
+  },
+  {
+    "id": "processo-administrativo-15",
+    "topicoId": "processo-administrativo",
+    "topico": "Processo administrativo",
+    "dificuldade": "media",
+    "enunciado": "Sobre a consulta pública e a audiência pública no processo administrativo, previstas nos arts. 31 a 34 da Lei nº 9.784/1999, é correto afirmar que:",
+    "alternativas": [
+      { "letra": "A", "texto": "a abertura de consulta pública é obrigatória em todos os processos administrativos que envolvam interesse de mais de um administrado." },
+      { "letra": "B", "texto": "o comparecimento à consulta pública confere automaticamente a condição de interessado no processo, com direito a recorrer da decisão final." },
+      { "letra": "C", "texto": "quando a matéria do processo envolver assunto de interesse geral, o órgão competente poderá, mediante despacho motivado, abrir período de consulta pública, e o comparecimento a ela não confere, por si, a condição de interessado, mas assegura o direito de obter da Administração resposta fundamentada, que poderá ser comum a todas as alegações substancialmente iguais." },
+      { "letra": "D", "texto": "a audiência pública é obrigatória sempre que houver consulta pública previamente realizada, por força do princípio da participação." },
+      { "letra": "E", "texto": "os resultados da consulta e da audiência pública não precisam ser apresentados, por terem caráter meramente informativo." }
+    ],
+    "gabarito": "C",
+    "comentario": "A alternativa C reproduz o art. 31, caput e § 2º, da Lei nº 9.784/1999. A alternativa A torna obrigatória a consulta pública, quando a lei a prevê como faculdade condicionada a assunto de interesse geral e a despacho motivado. A alternativa B confere a condição de interessado ao participante, expressamente afastada pelo § 2º. A alternativa D vincula a audiência pública à realização de consulta prévia, quando o art. 32 a submete a juízo da autoridade, diante da relevância da questão. A alternativa E contraria o art. 34, que exige a apresentação dos resultados com a indicação do procedimento adotado.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, arts. 31, caput e §§ 1º e 2º, 32, 33 e 34."
+  },
+  {
+    "id": "processo-administrativo-16",
+    "topicoId": "processo-administrativo",
+    "topico": "Processo administrativo",
+    "dificuldade": "dificil",
+    "enunciado": "Órgão consultivo deixa de emitir, no prazo legal, parecer cuja oitiva é obrigatória em processo administrativo municipal. Considerando a disciplina do art. 42 da Lei nº 9.784/1999, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "Em qualquer hipótese, o processo deve ser suspenso até a apresentação do parecer, ainda que este seja meramente facultativo." },
+      { "letra": "B", "texto": "O prazo máximo para emissão do parecer obrigatório é de trinta dias, improrrogável em qualquer caso." },
+      { "letra": "C", "texto": "A omissão do órgão consultivo não gera qualquer consequência, por se tratar de atividade opinativa." },
+      { "letra": "D", "texto": "Sendo o parecer obrigatório e não vinculante, o processo deve permanecer paralisado até a manifestação do órgão consultivo, sob pena de nulidade da decisão." },
+      { "letra": "E", "texto": "Se o parecer obrigatório e vinculante deixar de ser emitido no prazo fixado, o processo não terá seguimento até a respectiva apresentação, responsabilizando-se quem der causa ao atraso; se o parecer for obrigatório e não vinculante, o processo poderá ter prosseguimento e ser decidido com sua dispensa, sem prejuízo da responsabilidade de quem se omitiu." }
+    ],
+    "gabarito": "E",
+    "comentario": "A alternativa E reproduz os §§ 1º e 2º do art. 42 da Lei nº 9.784/1999. A alternativa A generaliza a suspensão para pareceres facultativos, contrariando a sistemática legal. A alternativa B erra o prazo, que é de quinze dias, salvo norma especial ou comprovada necessidade de maior prazo, nos termos do caput. A alternativa C afasta qualquer consequência, quando a lei prevê expressamente a responsabilização do omisso. A alternativa D inverte o tratamento dos pareceres obrigatórios vinculantes e não vinculantes.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, art. 42, caput e §§ 1º e 2º."
+  },
+  {
+    "id": "processo-administrativo-17",
+    "topicoId": "processo-administrativo",
+    "topico": "Processo administrativo",
+    "dificuldade": "media",
+    "enunciado": "Sobre o dever de decidir e o prazo para a decisão administrativa, nos termos da Lei nº 9.784/1999, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A Administração tem o dever de explicitamente emitir decisão nos processos administrativos e sobre solicitações ou reclamações em matéria de sua competência, e, concluída a instrução, dispõe do prazo de até trinta dias para decidir, salvo prorrogação por igual período expressamente motivada." },
+      { "letra": "B", "texto": "O silêncio administrativo prolongado equivale, como regra geral, ao deferimento tácito do pedido formulado pelo administrado." },
+      { "letra": "C", "texto": "O prazo para decidir é de sessenta dias, prorrogável indefinidamente, independentemente de motivação." },
+      { "letra": "D", "texto": "A Administração pode deixar de decidir quando entender que o pedido é manifestamente improcedente, bastando o arquivamento do processo sem manifestação expressa." },
+      { "letra": "E", "texto": "O prazo para decidir conta-se da data do protocolo do requerimento, independentemente da conclusão da instrução." }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A reúne os arts. 48 e 49 da Lei nº 9.784/1999. A alternativa B afirma deferimento tácito como regra, quando o silêncio administrativo, salvo previsão legal específica, não equivale a deferimento, cabendo ao interessado buscar a tutela do dever de decidir. A alternativa C altera o prazo legal e admite prorrogações indefinidas e imotivadas. A alternativa D autoriza o arquivamento sem decisão expressa, contrariando o art. 48. A alternativa E erra o termo inicial, que é a conclusão da instrução, conforme o art. 49.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, arts. 48 e 49."
+  },
+  {
+    "id": "processo-administrativo-18",
+    "topicoId": "processo-administrativo",
+    "topico": "Processo administrativo",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre a motivação dos atos administrativos, disciplinada no art. 50 da Lei nº 9.784/1999, assinale a alternativa INCORRETA.",
+    "alternativas": [
+      { "letra": "A", "texto": "Devem ser motivados, com indicação dos fatos e dos fundamentos jurídicos, os atos que neguem, limitem ou afetem direitos ou interesses." },
+      { "letra": "B", "texto": "A motivação é dispensável nos atos que decidam recursos administrativos, dada a natureza revisora da decisão e a existência de motivação na decisão originária." },
+      { "letra": "C", "texto": "Devem ser motivados os atos que imponham ou agravem deveres, encargos ou sanções." },
+      { "letra": "D", "texto": "A motivação deve ser explícita, clara e congruente, podendo consistir em declaração de concordância com fundamentos de anteriores pareceres, informações, decisões ou propostas, que, neste caso, serão parte integrante do ato." },
+      { "letra": "E", "texto": "Devem ser motivados os atos que decorram de reexame de ofício e os que deixem de aplicar jurisprudência firmada sobre a questão ou discrepem de pareceres, laudos, propostas e relatórios oficiais." }
+    ],
+    "gabarito": "B",
+    "comentario": "A questão pede a alternativa incorreta. A alternativa B é incorreta porque o art. 50, V, da Lei nº 9.784/1999 exige expressamente a motivação dos atos que decidam recursos administrativos. As alternativas A, C e E reproduzem, respectivamente, os incisos I, II, VI e VII do art. 50, e a alternativa D reproduz o § 1º do mesmo artigo, que admite a chamada motivação aliunde.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, art. 50, incisos I a VIII e § 1º."
+  },
+  {
+    "id": "processo-administrativo-19",
+    "topicoId": "processo-administrativo",
+    "topico": "Processo administrativo",
+    "dificuldade": "media",
+    "enunciado": "Interessado apresenta manifestação escrita desistindo do pedido formulado em processo administrativo instaurado a seu requerimento, no qual, contudo, foram apuradas irregularidades relevantes na atuação de agentes públicos. Sobre a desistência e a renúncia, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A desistência acarreta necessariamente a extinção do processo, vedado o prosseguimento de ofício." },
+      { "letra": "B", "texto": "A desistência é sempre total, não se admitindo desistência parcial do pedido formulado." },
+      { "letra": "C", "texto": "Havendo vários interessados, a desistência formulada por um deles atinge todos os demais, por força da unidade do processo." },
+      { "letra": "D", "texto": "O interessado pode, mediante manifestação escrita, desistir total ou parcialmente do pedido ou renunciar a direitos disponíveis; havendo vários interessados, a desistência ou renúncia atinge somente quem a tenha formulado, e não prejudica o prosseguimento do processo se a Administração considerar que o interesse público assim o exige." },
+      { "letra": "E", "texto": "A renúncia pode recair sobre quaisquer direitos, ainda que indisponíveis, desde que manifestada por escrito." }
+    ],
+    "gabarito": "D",
+    "comentario": "A alternativa D reproduz o art. 51, caput e §§ 1º e 2º, da Lei nº 9.784/1999. A alternativa A veda o prosseguimento de ofício, contrariando o § 2º. A alternativa B nega a desistência parcial, admitida no caput. A alternativa C estende os efeitos da desistência aos demais interessados, contrariando o § 1º. A alternativa E admite renúncia a direitos indisponíveis, quando o caput limita a renúncia aos direitos disponíveis.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, art. 51, caput e §§ 1º e 2º."
+  },
+  {
+    "id": "processo-administrativo-20",
+    "topicoId": "processo-administrativo",
+    "topico": "Processo administrativo",
+    "dificuldade": "dificil",
+    "enunciado": "A Administração municipal identifica, em ato de nomeação, vício de incompetência relativa, sanável, que não acarreta lesão ao interesse público nem prejuízo a terceiros. Sobre as providências cabíveis, à luz dos arts. 53 a 55 da Lei nº 9.784/1999, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A Administração deve necessariamente anular o ato, pois todo vício de legalidade conduz à invalidação, sendo vedada a convalidação no direito administrativo brasileiro." },
+      { "letra": "B", "texto": "A Administração deve revogar o ato, pois a revogação é o instrumento adequado para a correção de vícios de legalidade." },
+      { "letra": "C", "texto": "Em decisão na qual se evidencie não acarretarem lesão ao interesse público nem prejuízo a terceiros, os atos que apresentarem defeitos sanáveis poderão ser convalidados pela própria Administração, sendo certo que a Administração deve anular seus próprios atos quando eivados de vício de legalidade insanável e pode revogá-los por motivo de conveniência ou oportunidade, respeitados os direitos adquiridos." },
+      { "letra": "D", "texto": "A convalidação somente pode ser determinada pelo Poder Judiciário, mediante provocação do interessado." },
+      { "letra": "E", "texto": "A revogação de ato administrativo produz efeitos retroativos, desconstituindo os efeitos já produzidos desde a edição do ato." }
+    ],
+    "gabarito": "C",
+    "comentario": "A alternativa C conjuga o art. 53 com o art. 55 da Lei nº 9.784/1999, refletindo a distinção entre vícios sanáveis, passíveis de convalidação, e vícios insanáveis, que impõem a anulação. A alternativa A nega a convalidação, expressamente prevista em lei. A alternativa B confunde revogação com anulação, pois a revogação incide sobre atos válidos, por razões de conveniência e oportunidade. A alternativa D atribui a convalidação ao Judiciário, quando a lei a confere à própria Administração. A alternativa E atribui efeitos retroativos à revogação, que opera efeitos ex nunc.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, arts. 53 e 55; Súmula 473 do STF."
+  },
+  {
+    "id": "processo-administrativo-21",
+    "topicoId": "processo-administrativo",
+    "topico": "Processo administrativo",
+    "dificuldade": "dificil",
+    "enunciado": "Em 2019, servidor municipal passou a receber vantagem pecuniária concedida por ato administrativo ilegal, sem que tenha havido má-fé de sua parte. Em 2026, a Administração pretende anular o ato. Considerando o art. 54 da Lei nº 9.784/1999, aplicável subsidiariamente, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "O direito da Administração de anular os atos administrativos de que decorram efeitos favoráveis para os destinatários decai em cinco anos, contados da data em que foram praticados, salvo comprovada má-fé, contando-se o prazo, no caso de efeitos patrimoniais contínuos, da percepção do primeiro pagamento." },
+      { "letra": "B", "texto": "O prazo decadencial é de dez anos, contados da data em que a irregularidade for detectada pelo órgão de controle interno." },
+      { "letra": "C", "texto": "A anulação de atos ilegais é imprescritível, não se sujeitando a prazo algum, dada a supremacia do princípio da legalidade." },
+      { "letra": "D", "texto": "O prazo de cinco anos aplica-se inclusive quando comprovada a má-fé do beneficiário, por se tratar de decadência de ordem pública." },
+      { "letra": "E", "texto": "Nos casos de efeitos patrimoniais contínuos, o prazo decadencial reinicia-se a cada novo pagamento realizado ao beneficiário." }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A reúne o caput e o § 1º do art. 54 da Lei nº 9.784/1999. A alternativa B altera prazo e termo inicial, que é a prática do ato, e não a detecção da irregularidade. A alternativa C afirma imprescritibilidade, incompatível com o dispositivo legal e com a proteção da confiança legítima. A alternativa D aplica a decadência mesmo em caso de má-fé, expressamente ressalvada pelo caput. A alternativa E cria reinício sucessivo do prazo, contrariando o § 1º, que fixa como termo inicial a percepção do primeiro pagamento.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, art. 54, caput e §§ 1º e 2º; Súmula 633 do STJ."
+  },
+  {
+    "id": "processo-administrativo-22",
+    "topicoId": "processo-administrativo",
+    "topico": "Processo administrativo",
+    "dificuldade": "media",
+    "enunciado": "Sobre o recurso administrativo previsto nos arts. 56, 57 e 59 da Lei nº 9.784/1999, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "O recurso administrativo cabe apenas em face de razões de legalidade, sendo vedado o reexame do mérito da decisão." },
+      { "letra": "B", "texto": "O recurso tramitará por no máximo cinco instâncias administrativas, sendo o prazo de interposição de trinta dias." },
+      { "letra": "C", "texto": "O recurso é dirigido diretamente à autoridade superior, sendo vedado o juízo de reconsideração pela autoridade que proferiu a decisão." },
+      { "letra": "D", "texto": "O prazo para a Administração decidir o recurso é de dez dias, improrrogável." },
+      { "letra": "E", "texto": "Das decisões administrativas cabe recurso em face de razões de legalidade e de mérito, dirigido à autoridade que proferiu a decisão, a qual, se não a reconsiderar no prazo de cinco dias, o encaminhará à autoridade superior, tramitando o recurso por no máximo três instâncias administrativas, salvo disposição legal diversa, e sendo de dez dias o prazo para sua interposição, salvo disposição legal específica." }
+    ],
+    "gabarito": "E",
+    "comentario": "A alternativa E reúne o art. 56, caput e § 1º, o art. 57 e o art. 59, caput, da Lei nº 9.784/1999. A alternativa A restringe o recurso às razões de legalidade, contrariando o caput do art. 56. A alternativa B erra tanto o número de instâncias quanto o prazo de interposição. A alternativa C exclui o juízo de reconsideração, previsto no § 1º do art. 56. A alternativa D contraria o art. 59, § 1º, que fixa em trinta dias o prazo para decidir, prorrogável por igual período mediante justificativa explícita.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, arts. 56, caput e § 1º, 57 e 59, caput e §§ 1º e 2º."
+  },
+  {
+    "id": "processo-administrativo-23",
+    "topicoId": "processo-administrativo",
+    "topico": "Processo administrativo",
+    "dificuldade": "media",
+    "enunciado": "Associação representativa de contribuintes pretende recorrer de decisão proferida em processo administrativo de que não foi parte, mas que atinge interesses coletivos de seus associados. Sobre a legitimidade recursal, nos termos do art. 58 da Lei nº 9.784/1999, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "Somente os titulares de direitos e interesses que forem parte no processo possuem legitimidade recursal." },
+      { "letra": "B", "texto": "A legitimidade recursal das associações depende de autorização expressa e individualizada de cada associado atingido." },
+      { "letra": "C", "texto": "Têm legitimidade para interpor recurso administrativo os titulares de direitos e interesses que forem parte no processo, aqueles cujos direitos ou interesses forem indiretamente afetados pela decisão recorrida, as organizações e associações representativas no tocante a direitos e interesses coletivos, e os cidadãos ou associações quanto a direitos ou interesses difusos." },
+      { "letra": "D", "texto": "Os cidadãos não possuem legitimidade para interpor recurso administrativo quanto a interesses difusos, matéria reservada ao Ministério Público." },
+      { "letra": "E", "texto": "A legitimidade recursal exige a demonstração de prejuízo patrimonial direto e atual, comprovado documentalmente na peça recursal." }
+    ],
+    "gabarito": "C",
+    "comentario": "A alternativa C reproduz o art. 58, I a IV, da Lei nº 9.784/1999. A alternativa A restringe a legitimidade às partes, ignorando os incisos II a IV. A alternativa B exige autorização individualizada, incompatível com a legitimação coletiva prevista no inciso III. A alternativa D exclui os cidadãos quanto a interesses difusos, contrariando o inciso IV. A alternativa E cria requisito de prejuízo patrimonial direto e atual, não previsto na lei, que se contenta com a afetação, ainda que indireta, de direitos ou interesses.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, art. 58, I a IV; art. 9º."
+  },
+  {
+    "id": "processo-administrativo-24",
+    "topicoId": "processo-administrativo",
+    "topico": "Processo administrativo",
+    "dificuldade": "dificil",
+    "enunciado": "Administrado interpõe recurso contra decisão que determinou a demolição de edificação irregular, alegando justo receio de prejuízo de difícil reparação caso a medida seja executada antes do julgamento. Sobre os efeitos do recurso administrativo, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "O recurso administrativo tem, como regra, efeito suspensivo automático, somente sendo executada a decisão após o seu julgamento definitivo." },
+      { "letra": "B", "texto": "Salvo disposição legal em contrário, o recurso não tem efeito suspensivo; havendo justo receio de prejuízo de difícil ou incerta reparação decorrente da execução, a autoridade recorrida ou a imediatamente superior poderá, de ofício ou a pedido, dar efeito suspensivo ao recurso." },
+      { "letra": "C", "texto": "A concessão de efeito suspensivo é competência exclusiva do Poder Judiciário, sendo vedada à autoridade administrativa." },
+      { "letra": "D", "texto": "O efeito suspensivo somente pode ser concedido a pedido do recorrente, jamais de ofício." },
+      { "letra": "E", "texto": "A interposição de recurso administrativo depende de caução ou depósito prévio, cujo valor será arbitrado pela autoridade recorrida." }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B reproduz o art. 61, caput e parágrafo único, da Lei nº 9.784/1999. A alternativa A inverte a regra legal, atribuindo efeito suspensivo automático. A alternativa C retira da autoridade administrativa competência expressamente prevista no parágrafo único. A alternativa D exclui a concessão de ofício, também prevista no dispositivo. A alternativa E contraria o art. 56, § 2º, segundo o qual, salvo exigência legal, a interposição de recurso administrativo independe de caução, bem como a Súmula Vinculante 21 do STF.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, arts. 56, § 2º, e 61, caput e parágrafo único; Súmula Vinculante 21 do STF."
+  },
+  {
+    "id": "processo-administrativo-25",
+    "topicoId": "processo-administrativo",
+    "topico": "Processo administrativo",
+    "dificuldade": "media",
+    "enunciado": "Recurso administrativo é interposto perante órgão incompetente e após o prazo legal. Sobre as consequências, nos termos do art. 63 da Lei nº 9.784/1999, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "O não conhecimento do recurso impede definitivamente qualquer reexame do ato pela Administração, inclusive de ofício." },
+      { "letra": "B", "texto": "A interposição perante órgão incompetente acarreta o imediato arquivamento do processo, sem indicação da autoridade competente ao recorrente." },
+      { "letra": "C", "texto": "O recurso interposto fora do prazo deve ser conhecido e provido sempre que versar sobre matéria de ordem pública." },
+      { "letra": "D", "texto": "O recurso não será conhecido quando interposto fora do prazo, perante órgão incompetente, por quem não seja legitimado ou após exaurida a esfera administrativa; na hipótese de incompetência, será indicada ao recorrente a autoridade competente, devolvendo-se-lhe o prazo para recurso, e o não conhecimento não impede a Administração de rever de ofício o ato ilegal, desde que não ocorrida preclusão administrativa." },
+      { "letra": "E", "texto": "O exaurimento da esfera administrativa não constitui causa de não conhecimento do recurso, que poderá ser reiterado indefinidamente." }
+    ],
+    "gabarito": "D",
+    "comentario": "A alternativa D reúne o caput e os §§ 1º e 2º do art. 63 da Lei nº 9.784/1999. A alternativa A impede o reexame de ofício, contrariando o § 2º. A alternativa B nega a devolução do prazo e a indicação da autoridade competente, previstas no § 1º. A alternativa C cria hipótese de conhecimento e provimento automático de recurso intempestivo, sem amparo legal. A alternativa E exclui o exaurimento da esfera administrativa do rol do inciso IV.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, art. 63, caput, I a IV, e §§ 1º e 2º."
+  },
+  {
+    "id": "processo-administrativo-26",
+    "topicoId": "processo-administrativo",
+    "topico": "Processo administrativo",
+    "dificuldade": "dificil",
+    "enunciado": "Ao julgar recurso interposto por servidor contra penalidade de advertência, a autoridade superior entende que a conduta apurada justificaria sanção mais grave. Sobre a possibilidade de agravamento da situação do recorrente, à luz da Lei nº 9.784/1999, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "O órgão competente para decidir o recurso poderá confirmar, modificar, anular ou revogar, total ou parcialmente, a decisão recorrida, se a matéria for de sua competência; se puder decorrer gravame à situação do recorrente, este deverá ser cientificado para que formule suas alegações antes da decisão." },
+      { "letra": "B", "texto": "É vedado, em qualquer hipótese, o agravamento da situação do recorrente no julgamento do recurso administrativo, por aplicação absoluta da proibição da reformatio in pejus." },
+      { "letra": "C", "texto": "O agravamento é possível e independe de qualquer comunicação prévia ao recorrente, bastando a motivação da decisão final." },
+      { "letra": "D", "texto": "A autoridade recursal somente pode confirmar ou anular a decisão recorrida, sendo-lhe vedado modificá-la ou revogá-la." },
+      { "letra": "E", "texto": "O agravamento somente é admitido se houver recurso da própria Administração, em simetria com o processo penal." }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A reproduz o art. 64, caput e parágrafo único, da Lei nº 9.784/1999. A alternativa B afirma vedação absoluta da reformatio in pejus, que não corresponde ao regime do recurso administrativo, no qual o agravamento é admitido com prévia cientificação. A alternativa C dispensa a cientificação prévia, exigida pelo parágrafo único como garantia do contraditório. A alternativa D restringe indevidamente os poderes da autoridade recursal previstos no caput. A alternativa E cria condição inexistente na lei. Registre-se que, em sentido diverso, o art. 65, parágrafo único, veda o agravamento na revisão, hipótese distinta do recurso.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, art. 64, caput e parágrafo único; art. 65, parágrafo único."
+  },
+  {
+    "id": "processo-administrativo-27",
+    "topicoId": "processo-administrativo",
+    "topico": "Processo administrativo",
+    "dificuldade": "media",
+    "enunciado": "Cinco anos após a aplicação de sanção administrativa a servidor municipal, surgem fatos novos que demonstram a inadequação da penalidade imposta. Sobre a revisão do processo administrativo, nos termos do art. 65 da Lei nº 9.784/1999, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A revisão somente pode ser requerida no prazo de dois anos contados da aplicação da sanção, sob pena de preclusão." },
+      { "letra": "B", "texto": "A revisão pode resultar em agravamento da sanção originalmente aplicada, se os fatos novos revelarem maior gravidade da conduta." },
+      { "letra": "C", "texto": "Os processos administrativos de que resultem sanções poderão ser revistos, a qualquer tempo, a pedido ou de ofício, quando surgirem fatos novos ou circunstâncias relevantes suscetíveis de justificar a inadequação da sanção aplicada, não podendo da revisão resultar agravamento da sanção." },
+      { "letra": "D", "texto": "A revisão depende de requerimento exclusivo do interessado, sendo vedada a atuação de ofício da Administração." },
+      { "letra": "E", "texto": "A revisão pressupõe a rediscussão das provas já apreciadas no processo originário, ainda que inexistam fatos novos." }
+    ],
+    "gabarito": "C",
+    "comentario": "A alternativa C reproduz o art. 65, caput e parágrafo único, da Lei nº 9.784/1999. A alternativa A cria prazo preclusivo inexistente, pois a revisão pode ocorrer a qualquer tempo. A alternativa B contraria a vedação expressa do parágrafo único. A alternativa D exclui a atuação de ofício, admitida no caput. A alternativa E dispensa o requisito dos fatos novos ou circunstâncias relevantes, transformando a revisão em nova instância recursal, o que a lei não autoriza.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, art. 65, caput e parágrafo único."
+  },
+  {
+    "id": "processo-administrativo-28",
+    "topicoId": "processo-administrativo",
+    "topico": "Processo administrativo",
+    "dificuldade": "dificil",
+    "enunciado": "Ato normativo de órgão municipal condiciona o conhecimento de recurso administrativo em processo de autuação fiscal ao depósito prévio de trinta por cento do valor da multa. Sobre a validade dessa exigência, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A exigência é válida, pois visa a coibir recursos protelatórios e encontra amparo no poder regulamentar da Administração." },
+      { "letra": "B", "texto": "É inconstitucional a exigência de depósito ou arrolamento prévios de dinheiro ou bens para admissibilidade de recurso administrativo, sendo ilegítima a exigência de depósito prévio, em consonância com o entendimento sumulado do STF e do STJ e com a regra de que, salvo exigência legal, a interposição de recurso administrativo independe de caução." },
+      { "letra": "C", "texto": "A exigência é válida desde que prevista em lei em sentido formal, ainda que o percentual seja fixado em ato infralegal." },
+      { "letra": "D", "texto": "A exigência é válida em matéria tributária, por força da supremacia do interesse público na arrecadação." },
+      { "letra": "E", "texto": "A exigência é inválida apenas quando o valor exigido superar cinquenta por cento do débito discutido." }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B conjuga a Súmula Vinculante 21 do STF, a Súmula 373 do STJ e o art. 56, § 2º, da Lei nº 9.784/1999. As alternativas A, C e D validam a exigência por fundamentos diversos, todos incompatíveis com o entendimento vinculante do STF, que reputa a exigência ofensiva ao contraditório, à ampla defesa e ao direito de petição, inclusive em matéria tributária. A alternativa E cria critério quantitativo inexistente, pois a inconstitucionalidade não depende do percentual exigido.",
+    "fundamentacaoLegal": "Súmula Vinculante 21 do STF; Súmula 373 do STJ; Lei nº 9.784/1999, art. 56, § 2º; CF/88, art. 5º, XXXIV, a, e LV."
+  },
+  {
+    "id": "processo-administrativo-29",
+    "topicoId": "processo-administrativo",
+    "topico": "Processo administrativo",
+    "dificuldade": "media",
+    "enunciado": "Servidor municipal responde a processo administrativo disciplinar sem ser assistido por advogado, tendo apresentado pessoalmente sua defesa escrita e acompanhado a instrução. Ao final, é penalizado e alega nulidade por ausência de defesa técnica. Sobre a alegação, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A nulidade deve ser reconhecida, pois a presença de advogado é condição de validade de todo processo administrativo disciplinar." },
+      { "letra": "B", "texto": "A nulidade deve ser reconhecida apenas se a penalidade aplicada for de demissão, sendo dispensável a defesa técnica nas demais sanções." },
+      { "letra": "C", "texto": "A nulidade não pode ser reconhecida, pois no processo administrativo não se aplicam o contraditório e a ampla defesa." },
+      { "letra": "D", "texto": "A nulidade deve ser reconhecida se o servidor não tiver sido previamente advertido, por escrito, sobre a conveniência de constituir advogado." },
+      { "letra": "E", "texto": "A alegação não procede, pois a falta de defesa técnica por advogado no processo administrativo disciplinar não ofende a Constituição, sendo facultativa a assistência por advogado, sem prejuízo da observância do contraditório e da ampla defesa." }
+    ],
+    "gabarito": "E",
+    "comentario": "A alternativa E conjuga a Súmula Vinculante 5 do STF com o art. 3º, IV, da Lei nº 9.784/1999. As alternativas A, B e D condicionam a validade do processo à presença ou à advertência sobre defesa técnica, exigências afastadas pelo enunciado vinculante. A alternativa C nega a incidência do contraditório e da ampla defesa no processo administrativo, contrariando o art. 5º, LV, da CF/88, que os assegura expressamente aos litigantes em processo judicial ou administrativo e aos acusados em geral.",
+    "fundamentacaoLegal": "Súmula Vinculante 5 do STF; CF/88, art. 5º, LV; Lei nº 9.784/1999, art. 3º, IV, e art. 2º, parágrafo único, X."
+  },
+  {
+    "id": "processo-administrativo-30",
+    "topicoId": "processo-administrativo",
+    "topico": "Processo administrativo",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre a prioridade na tramitação dos procedimentos administrativos e a relação da Lei nº 9.784/1999 com processos administrativos específicos, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A Lei nº 9.784/1999 revogou integralmente as leis que disciplinam processos administrativos específicos, passando a regê-los de forma exclusiva." },
+      { "letra": "B", "texto": "A prioridade na tramitação é assegurada apenas a pessoas com idade igual ou superior a setenta anos, não alcançando pessoas com deficiência." },
+      { "letra": "C", "texto": "A prioridade na tramitação depende de deferimento discricionário da autoridade, ainda que comprovada a condição legal do requerente." },
+      { "letra": "D", "texto": "Terão prioridade na tramitação, em qualquer órgão ou instância, os procedimentos administrativos em que figure como parte ou interessado pessoa com idade igual ou superior a sessenta anos, pessoa portadora de deficiência física ou mental, ou pessoa portadora de doença grave, nos termos da lei; e os processos administrativos específicos continuarão a reger-se por lei própria, aplicando-se-lhes apenas subsidiariamente os preceitos da Lei nº 9.784/1999." },
+      { "letra": "E", "texto": "A doença grave somente enseja prioridade se contraída antes do início do processo administrativo." }
+    ],
+    "gabarito": "D",
+    "comentario": "A alternativa D reúne o art. 69-A, I, II e IV, e o art. 69 da Lei nº 9.784/1999. A alternativa A afirma revogação geral das leis especiais, contrariando o art. 69, que estabelece a aplicação apenas subsidiária. A alternativa B eleva a idade para setenta anos e exclui as pessoas com deficiência, contrariando os incisos I e II do art. 69-A. A alternativa C submete a prioridade a juízo discricionário, quando se trata de direito assegurado pela lei uma vez comprovada a condição. A alternativa E contraria a parte final do art. 69-A, IV, que assegura a prioridade ainda que a doença tenha sido contraída após o início do processo.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, arts. 69 e 69-A, I, II e IV (incluído pela Lei nº 12.008/2009)."
+  }
+]

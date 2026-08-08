@@ -1,0 +1,512 @@
+[
+  {
+    "id": "servicos-publicos-01",
+    "topicoId": "servicos-publicos",
+    "topico": "Serviços públicos",
+    "dificuldade": "media",
+    "enunciado": "Nos termos do art. 175 da Constituição Federal de 1988, sobre a prestação de serviços públicos, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A prestação de serviços públicos é atribuição exclusiva do Poder Público, sendo vedada a delegação a particulares." },
+      { "letra": "B", "texto": "A delegação de serviços públicos por concessão ou permissão dispensa licitação quando o poder concedente demonstrar a excepcionalidade do interesse público envolvido." },
+      { "letra": "C", "texto": "A Constituição atribui ao regulamento, e não à lei, a disciplina do regime das empresas concessionárias e permissionárias, dos direitos dos usuários e da política tarifária." },
+      { "letra": "D", "texto": "Incumbe ao Poder Público, na forma da lei, diretamente ou sob regime de concessão ou permissão, sempre através de licitação, a prestação de serviços públicos, cabendo à lei dispor sobre o regime das empresas concessionárias e permissionárias, o caráter especial de seu contrato e de sua prorrogação, as condições de caducidade, fiscalização e rescisão, os direitos dos usuários, a política tarifária e a obrigação de manter serviço adequado." },
+      { "letra": "E", "texto": "A obrigação de manter serviço adequado é dever apenas do prestador direto estatal, não alcançando as concessionárias e permissionárias." }
+    ],
+    "gabarito": "D",
+    "comentario": "A alternativa D reúne o caput e o parágrafo único, incisos I a IV, do art. 175 da CF/88. A alternativa A nega a possibilidade de delegação, expressamente prevista no caput. A alternativa B cria hipótese de dispensa de licitação para concessão e permissão, contrariando a exigência constitucional de licitação em todos os casos. A alternativa C atribui ao regulamento matéria expressamente reservada à lei pelo parágrafo único. A alternativa E restringe a obrigação de serviço adequado ao prestador estatal, contrariando o inciso IV do parágrafo único e o art. 6º da Lei nº 8.987/1995.",
+    "fundamentacaoLegal": "CF/88, art. 175, caput e parágrafo único, I a IV; Lei nº 8.987/1995, art. 6º."
+  },
+  {
+    "id": "servicos-publicos-02",
+    "topicoId": "servicos-publicos",
+    "topico": "Serviços públicos",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre o conceito de serviço público e a distinção entre titularidade e execução, considerando a doutrina administrativista consolidada, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A delegação por concessão ou permissão transfere ao particular apenas a execução do serviço, permanecendo a titularidade com o poder concedente, que conserva os poderes de regulamentação, fiscalização, intervenção e extinção da delegação." },
+      { "letra": "B", "texto": "A concessão transfere ao concessionário a titularidade do serviço público, razão pela qual o poder concedente não pode nele intervir durante o prazo contratual." },
+      { "letra": "C", "texto": "O elemento formal do serviço público é irrelevante para sua caracterização, bastando que a atividade satisfaça necessidade coletiva, ainda que submetida integralmente ao regime de direito privado." },
+      { "letra": "D", "texto": "Toda atividade econômica de interesse coletivo constitui serviço público, independentemente de previsão constitucional ou legal que a qualifique como tal." },
+      { "letra": "E", "texto": "A titularidade do serviço público pode ser objeto de alienação pelo poder concedente, desde que precedida de autorização legislativa e avaliação prévia." }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A descreve corretamente a distinção entre titularidade, indisponível e mantida com o Poder Público, e execução, passível de delegação, conforme lição de Celso Antônio Bandeira de Mello e Maria Sylvia Zanella Di Pietro. A alternativa B afirma transferência de titularidade, incompatível com os poderes de intervenção (art. 32) e de extinção (art. 35) da Lei nº 8.987/1995. A alternativa C dispensa o elemento formal, isto é, a submissão a regime jurídico de direito público total ou parcial, que é nota essencial do conceito. A alternativa D dilui o conceito, ignorando que a qualificação de uma atividade como serviço público depende de opção do ordenamento jurídico. A alternativa E admite alienação da titularidade, incompatível com a indisponibilidade do interesse público.",
+    "fundamentacaoLegal": "CF/88, art. 175; Lei nº 8.987/1995, arts. 29, 32 e 35; doutrina de Celso Antônio Bandeira de Mello e Maria Sylvia Zanella Di Pietro."
+  },
+  {
+    "id": "servicos-publicos-03",
+    "topicoId": "servicos-publicos",
+    "topico": "Serviços públicos",
+    "dificuldade": "media",
+    "enunciado": "Sobre a classificação dos serviços públicos e a forma de sua remuneração, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "Os serviços uti universi, por serem prestados à coletividade em geral e sem possibilidade de mensuração individual, devem ser remunerados por tarifa, cobrada de cada beneficiário." },
+      { "letra": "B", "texto": "Os serviços uti singuli não admitem remuneração específica, devendo ser custeados exclusivamente pela receita geral de impostos." },
+      { "letra": "C", "texto": "Taxa e tarifa são institutos idênticos, distinguindo-se apenas pela denominação adotada em cada ente federativo." },
+      { "letra": "D", "texto": "A remuneração por tarifa é compulsória, independendo da efetiva fruição ou da disponibilização do serviço ao usuário." },
+      { "letra": "E", "texto": "Os serviços uti singuli, por serem prestados a destinatários determinados e admitirem mensuração individual, podem ser remunerados por taxa, de natureza tributária e compulsória, ou por tarifa, de natureza contratual e facultativa, ao passo que os serviços uti universi, indivisíveis, são custeados pela receita geral de impostos." }
+    ],
+    "gabarito": "E",
+    "comentario": "A alternativa E descreve corretamente a classificação e as formas de custeio, na linha da Súmula 545 do STF, que assenta que preços de serviços públicos e taxas não se confundem, sendo estas compulsórias. A alternativa A atribui tarifa individual a serviço indivisível, o que é logicamente inviável. A alternativa B nega remuneração específica aos serviços divisíveis, contrariando o art. 145, II, da CF/88. A alternativa C equipara taxa e tarifa, contrariando a súmula citada. A alternativa D atribui compulsoriedade à tarifa, característica própria da taxa.",
+    "fundamentacaoLegal": "CF/88, art. 145, II, e art. 175, parágrafo único, III; Súmula 545 do STF; doutrina de José dos Santos Carvalho Filho."
+  },
+  {
+    "id": "servicos-publicos-04",
+    "topicoId": "servicos-publicos",
+    "topico": "Serviços públicos",
+    "dificuldade": "media",
+    "enunciado": "De acordo com o art. 6º da Lei nº 8.987/1995, considera-se serviço adequado aquele que satisfaz determinadas condições. Assinale a alternativa que reúne corretamente essas condições.",
+    "alternativas": [
+      { "letra": "A", "texto": "Regularidade, continuidade, lucratividade, segurança, atualidade, generalidade e gratuidade." },
+      { "letra": "B", "texto": "Continuidade, eficiência, exclusividade, uniformidade, publicidade e onerosidade das tarifas." },
+      { "letra": "C", "texto": "Regularidade, continuidade, eficiência, segurança, atualidade, generalidade, cortesia na sua prestação e modicidade das tarifas." },
+      { "letra": "D", "texto": "Impessoalidade, moralidade, publicidade, eficiência, economicidade e razoabilidade tarifária." },
+      { "letra": "E", "texto": "Regularidade, universalidade, imutabilidade do regime jurídico, segurança, cortesia e gratuidade para os usuários de baixa renda." }
+    ],
+    "gabarito": "C",
+    "comentario": "A alternativa C reproduz o art. 6º, § 1º, da Lei nº 8.987/1995. A alternativa A inclui lucratividade e gratuidade, estranhas ao conceito legal, sendo a remuneração por tarifa da essência do regime de concessão. A alternativa B insere exclusividade e onerosidade, contrariando os arts. 16 e 6º, § 1º, que consagram, respectivamente, a não exclusividade como regra e a modicidade tarifária. A alternativa D confunde os requisitos do serviço adequado com os princípios do art. 37 da CF/88. A alternativa E inclui imutabilidade do regime jurídico, o que contraria o princípio da mutabilidade, e gratuidade não prevista em lei.",
+    "fundamentacaoLegal": "Lei nº 8.987/1995, art. 6º, caput e §§ 1º e 2º."
+  },
+  {
+    "id": "servicos-publicos-05",
+    "topicoId": "servicos-publicos",
+    "topico": "Serviços públicos",
+    "dificuldade": "dificil",
+    "enunciado": "Concessionária de serviço público pretende interromper o fornecimento a usuário residencial inadimplente. Sobre as hipóteses legais de interrupção que não caracterizam descontinuidade, nos termos do art. 6º da Lei nº 8.987/1995, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "Qualquer interrupção do serviço caracteriza descontinuidade e enseja responsabilização da concessionária, ainda que motivada por razões técnicas ou de segurança." },
+      { "letra": "B", "texto": "Não se caracteriza como descontinuidade a interrupção do serviço em situação de emergência ou, após prévio aviso, quando motivada por razões de ordem técnica ou de segurança das instalações e por inadimplemento do usuário, considerado o interesse da coletividade, sendo vedado que a interrupção por inadimplemento se inicie na sexta-feira, no sábado, no domingo, em feriado ou no dia anterior a feriado." },
+      { "letra": "C", "texto": "A interrupção por razões de ordem técnica exige sempre aviso prévio, ainda que se trate de situação de emergência." },
+      { "letra": "D", "texto": "A interrupção por inadimplemento do usuário é vedada em qualquer hipótese, por violação ao princípio da continuidade do serviço público." },
+      { "letra": "E", "texto": "A interrupção por inadimplemento pode iniciar-se em qualquer dia da semana, desde que precedida de aviso com antecedência mínima de quarenta e oito horas." }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B conjuga o art. 6º, § 3º, I e II, com o § 4º, incluído pela Lei nº 14.015/2020. A alternativa A trata toda interrupção como descontinuidade, ignorando as exceções legais. A alternativa C exige aviso prévio mesmo em emergência, quando o próprio caput do § 3º ressalva a situação emergencial. A alternativa D veda em absoluto a interrupção por inadimplemento, contrariando o inciso II. A alternativa E ignora a restrição de dias introduzida pelo § 4º.",
+    "fundamentacaoLegal": "Lei nº 8.987/1995, art. 6º, §§ 3º e 4º (este incluído pela Lei nº 14.015/2020)."
+  },
+  {
+    "id": "servicos-publicos-06",
+    "topicoId": "servicos-publicos",
+    "topico": "Serviços públicos",
+    "dificuldade": "dificil",
+    "enunciado": "Concessionária de serviço público notifica usuário e suspende o fornecimento em razão de débitos apurados unilateralmente e relativos a período de consumo ocorrido há mais de três anos. Considerando o entendimento consolidado do Superior Tribunal de Justiça, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A suspensão é legítima, pois o inadimplemento, qualquer que seja sua data, autoriza a interrupção nos termos do art. 6º, § 3º, II, da Lei nº 8.987/1995." },
+      { "letra": "B", "texto": "A suspensão é ilegítima porque o corte por inadimplemento é sempre vedado, devendo a concessionária valer-se exclusivamente das vias ordinárias de cobrança." },
+      { "letra": "C", "texto": "A suspensão é legítima independentemente de aviso prévio, bastando a inscrição do débito em cadastro de inadimplentes." },
+      { "letra": "D", "texto": "A suspensão é ilegítima quanto a débitos pretéritos e consolidados, pois o corte do fornecimento é medida de coerção admitida apenas em relação a débitos atuais, devendo os débitos antigos ser cobrados pelas vias ordinárias, sem prejuízo da legitimidade da interrupção, com aviso prévio, quanto ao inadimplemento de contas atuais." },
+      { "letra": "E", "texto": "A suspensão é legítima apenas se autorizada judicialmente, mediante tutela de urgência requerida pela concessionária." }
+    ],
+    "gabarito": "D",
+    "comentario": "A alternativa D reflete a orientação consolidada do STJ, que admite a interrupção por inadimplemento de faturas atuais, com prévio aviso, mas reputa ilegítimo o corte fundado em débitos pretéritos e consolidados, cuja cobrança deve seguir as vias ordinárias. A alternativa A generaliza a permissão legal, ignorando a distinção temporal. A alternativa B veda o corte em qualquer hipótese, contrariando o art. 6º, § 3º, II, da Lei nº 8.987/1995. A alternativa C dispensa o aviso prévio, exigido pelo dispositivo legal. A alternativa E cria requisito de autorização judicial inexistente.",
+    "fundamentacaoLegal": "Lei nº 8.987/1995, art. 6º, § 3º, II; jurisprudência consolidada do STJ sobre corte por débitos pretéritos."
+  },
+  {
+    "id": "servicos-publicos-07",
+    "topicoId": "servicos-publicos",
+    "topico": "Serviços públicos",
+    "dificuldade": "media",
+    "enunciado": "Sobre o princípio da mutabilidade do regime jurídico dos serviços públicos, é correto afirmar que:",
+    "alternativas": [
+      { "letra": "A", "texto": "o regime jurídico do serviço público pode ser alterado unilateralmente pelo poder concedente para adequá-lo ao interesse público, não havendo direito adquirido do usuário nem do concessionário à manutenção das regras vigentes ao tempo da delegação, ressalvado o direito da concessionária ao restabelecimento do equilíbrio econômico-financeiro do contrato." },
+      { "letra": "B", "texto": "o regime jurídico do serviço público é imutável durante todo o prazo da concessão, em razão do princípio da segurança jurídica." },
+      { "letra": "C", "texto": "a alteração unilateral do contrato de concessão dispensa a recomposição do equilíbrio econômico-financeiro, por se tratar de contrato de risco integralmente assumido pelo concessionário." },
+      { "letra": "D", "texto": "o usuário possui direito adquirido à manutenção da forma de prestação do serviço vigente no momento de sua adesão." },
+      { "letra": "E", "texto": "a mutabilidade autoriza o poder concedente a alterar unilateralmente as cláusulas econômico-financeiras do contrato, independentemente de concordância da concessionária." }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A descreve corretamente o princípio da mutabilidade e sua contrapartida, o direito ao equilíbrio econômico-financeiro (art. 9º, § 4º, da Lei nº 8.987/1995). As alternativas B e D afirmam imutabilidade e direito adquirido a regime jurídico, que a doutrina e a jurisprudência rejeitam. A alternativa C dispensa a recomposição do equilíbrio, contrariando o art. 9º, § 4º. A alternativa E autoriza a alteração unilateral das cláusulas econômico-financeiras, que, ao contrário das cláusulas regulamentares, não podem ser modificadas sem a preservação da equação econômico-financeira.",
+    "fundamentacaoLegal": "Lei nº 8.987/1995, arts. 9º, § 4º, e 23; doutrina de Maria Sylvia Zanella Di Pietro."
+  },
+  {
+    "id": "servicos-publicos-08",
+    "topicoId": "servicos-publicos",
+    "topico": "Serviços públicos",
+    "dificuldade": "dificil",
+    "enunciado": "Concessionária de serviço público municipal, alegando reiterado descumprimento de obrigações contratuais pelo poder concedente, comunica que paralisará a prestação do serviço até a regularização da situação. Sobre a hipótese, à luz da Lei nº 8.987/1995, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A concessionária pode paralisar imediatamente o serviço, com fundamento na exceção do contrato não cumprido, aplicável integralmente aos contratos administrativos." },
+      { "letra": "B", "texto": "A concessionária pode rescindir unilateralmente o contrato mediante simples notificação ao poder concedente, com antecedência de trinta dias." },
+      { "letra": "C", "texto": "A concessionária deve requerer a declaração de caducidade da concessão ao poder concedente, único meio de extinção previsto para essa hipótese." },
+      { "letra": "D", "texto": "A paralisação é legítima desde que precedida de decisão administrativa da agência reguladora reconhecendo a inadimplência do poder concedente." },
+      { "letra": "E", "texto": "O contrato de concessão poderá ser rescindido por iniciativa da concessionária, no caso de descumprimento das normas contratuais pelo poder concedente, mediante ação judicial especialmente intentada para esse fim, não podendo os serviços ser interrompidos ou paralisados até a decisão judicial transitada em julgado." }
+    ],
+    "gabarito": "E",
+    "comentario": "A alternativa E reproduz o art. 39, caput e parágrafo único, da Lei nº 8.987/1995, que consagra a mitigação da exceção do contrato não cumprido em favor da continuidade do serviço público. A alternativa A aplica a exceptio non adimpleti contractus de forma plena, contrariando o parágrafo único do art. 39. A alternativa B admite rescisão unilateral pela concessionária, faculdade que a lei reserva ao poder concedente sob a forma de caducidade e encampação. A alternativa C confunde caducidade, que sanciona a inadimplência da concessionária, com a rescisão por inadimplemento do poder concedente. A alternativa D cria requisito de decisão prévia de agência reguladora, inexistente na lei.",
+    "fundamentacaoLegal": "Lei nº 8.987/1995, arts. 35, IV, e 39, caput e parágrafo único."
+  },
+  {
+    "id": "servicos-publicos-09",
+    "topicoId": "servicos-publicos",
+    "topico": "Serviços públicos",
+    "dificuldade": "media",
+    "enunciado": "Sobre as definições legais constantes do art. 2º da Lei nº 8.987/1995, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "Poder concedente é exclusivamente a União, cabendo aos demais entes federativos apenas a execução dos serviços delegados." },
+      { "letra": "B", "texto": "Permissão de serviço público é a delegação, a título precário, mediante licitação, da prestação de serviços públicos, feita pelo poder concedente à pessoa física ou jurídica que demonstre capacidade para seu desempenho, por sua conta e risco." },
+      { "letra": "C", "texto": "Concessão de serviço público é a delegação de sua prestação a pessoa física ou jurídica, independentemente de licitação, quando comprovada a notória especialização do delegatário." },
+      { "letra": "D", "texto": "A permissão de serviço público somente pode ser outorgada a pessoa jurídica ou a consórcio de empresas." },
+      { "letra": "E", "texto": "A concessão de serviço público precedida da execução de obra pública é modalidade de contratação regida exclusivamente pela Lei nº 14.133/2021, não se lhe aplicando a Lei nº 8.987/1995." }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B reproduz o art. 2º, IV, da Lei nº 8.987/1995. A alternativa A restringe o conceito de poder concedente à União, contrariando o inciso I, que abrange União, Estados, Distrito Federal e Municípios, conforme a competência sobre o serviço. A alternativa C dispensa a licitação, exigida pelo inciso II e pelo art. 175 da CF/88, e admite outorga a pessoa física, quando a concessão é reservada a pessoa jurídica ou consórcio de empresas. A alternativa D exige pessoa jurídica ou consórcio para a permissão, quando o inciso IV admite também pessoa física. A alternativa E afasta a aplicação da Lei nº 8.987/1995 à concessão precedida de obra pública, expressamente definida em seu art. 2º, III.",
+    "fundamentacaoLegal": "Lei nº 8.987/1995, art. 2º, I a IV; CF/88, art. 175."
+  },
+  {
+    "id": "servicos-publicos-10",
+    "topicoId": "servicos-publicos",
+    "topico": "Serviços públicos",
+    "dificuldade": "dificil",
+    "enunciado": "Considerando as distinções entre concessão, permissão e autorização de serviços públicos, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A autorização de serviço público é formalizada por contrato administrativo precedido de licitação, à semelhança da permissão." },
+      { "letra": "B", "texto": "A permissão de serviço público é ato administrativo unilateral e discricionário, não se formalizando por contrato." },
+      { "letra": "C", "texto": "A concessão é formalizada por contrato administrativo precedido de licitação, outorgado a pessoa jurídica ou consórcio de empresas; a permissão, embora igualmente precedida de licitação, é formalizada mediante contrato de adesão, marcado pela precariedade e pela revogabilidade unilateral pelo poder concedente; a autorização, por sua vez, é ato administrativo unilateral, discricionário e precário, empregado em situações de interesse predominantemente do particular ou de caráter transitório." },
+      { "letra": "D", "texto": "A concessão, a permissão e a autorização de serviços públicos submetem-se ao mesmo regime jurídico, sendo a distinção apenas terminológica." },
+      { "letra": "E", "texto": "A permissão de serviço público não pode ser revogada unilateralmente pelo poder concedente, salvo mediante prévia indenização integral do permissionário." }
+    ],
+    "gabarito": "C",
+    "comentario": "A alternativa C sintetiza corretamente as distinções, conforme os arts. 2º, II e IV, e 40 da Lei nº 8.987/1995 e a doutrina majoritária. A alternativa A trata a autorização como contrato precedido de licitação, quando é ato unilateral. A alternativa B nega natureza contratual à permissão, contrariando o art. 40, que a formaliza por contrato de adesão, e o entendimento do STF na ADI 1.491. A alternativa D equipara os três institutos. A alternativa E afasta a revogabilidade unilateral, expressamente prevista no art. 40.",
+    "fundamentacaoLegal": "Lei nº 8.987/1995, arts. 2º, II e IV, e 40; CF/88, arts. 21, XI e XII, e 175, parágrafo único, I."
+  },
+  {
+    "id": "servicos-publicos-11",
+    "topicoId": "servicos-publicos",
+    "topico": "Serviços públicos",
+    "dificuldade": "media",
+    "enunciado": "Sobre a permissão de serviço público na Lei nº 8.987/1995, assinale a alternativa INCORRETA.",
+    "alternativas": [
+      { "letra": "A", "texto": "A permissão será formalizada mediante contrato de adesão." },
+      { "letra": "B", "texto": "O contrato de permissão observará os termos da Lei nº 8.987/1995, das demais normas pertinentes e do edital de licitação." },
+      { "letra": "C", "texto": "O contrato de permissão observará, inclusive, a precariedade e a revogabilidade unilateral pelo poder concedente." },
+      { "letra": "D", "texto": "A permissão de serviço público independe de prévia licitação, por ser delegação outorgada a título precário." },
+      { "letra": "E", "texto": "Aplicam-se às permissões, no que couber, as demais disposições da Lei nº 8.987/1995." }
+    ],
+    "gabarito": "D",
+    "comentario": "A questão pede a alternativa incorreta. A alternativa D é incorreta porque a permissão de serviço público exige licitação prévia, conforme o art. 2º, IV, da Lei nº 8.987/1995 e o art. 175 da CF/88; a precariedade diz respeito à possibilidade de revogação unilateral, não à dispensa do certame. As alternativas A, B e C reproduzem o caput do art. 40 e a alternativa E corresponde ao seu parágrafo único.",
+    "fundamentacaoLegal": "Lei nº 8.987/1995, arts. 2º, IV, e 40, caput e parágrafo único; CF/88, art. 175, caput."
+  },
+  {
+    "id": "servicos-publicos-12",
+    "topicoId": "servicos-publicos",
+    "topico": "Serviços públicos",
+    "dificuldade": "dificil",
+    "enunciado": "Município pretende delegar a prestação de serviço público mediante concessão. Sobre a modalidade licitatória e os requisitos do delegatário, considerando a redação atual do art. 2º, II, da Lei nº 8.987/1995, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A concessão de serviço público é delegada mediante licitação, na modalidade concorrência ou diálogo competitivo, a pessoa jurídica ou consórcio de empresas que demonstre capacidade para seu desempenho, por sua conta e risco e por prazo determinado." },
+      { "letra": "B", "texto": "A concessão de serviço público deve ser precedida de licitação na modalidade pregão, por se tratar de delegação de serviço comum." },
+      { "letra": "C", "texto": "A concessão pode ser outorgada a pessoa física, desde que demonstre capacitação técnica equivalente à exigida das pessoas jurídicas." },
+      { "letra": "D", "texto": "A concessão é delegada por prazo indeterminado, de modo a assegurar a continuidade do serviço público." },
+      { "letra": "E", "texto": "A concessão de serviço público transfere o risco integral da atividade ao poder concedente, que responde por todos os prejuízos da exploração." }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A reproduz o art. 2º, II, da Lei nº 8.987/1995, com a redação dada pela Lei nº 14.133/2021, que acrescentou o diálogo competitivo às modalidades cabíveis. A alternativa B indica o pregão, modalidade destinada à aquisição de bens e serviços comuns, incompatível com a delegação de serviço público. A alternativa C admite pessoa física, hipótese reservada à permissão. A alternativa D afirma prazo indeterminado, contrariando a exigência legal de prazo determinado e o art. 23, I. A alternativa E transfere o risco ao poder concedente, contrariando a cláusula legal de exploração por conta e risco da concessionária.",
+    "fundamentacaoLegal": "Lei nº 8.987/1995, art. 2º, II, com redação da Lei nº 14.133/2021; art. 23, I."
+  },
+  {
+    "id": "servicos-publicos-13",
+    "topicoId": "servicos-publicos",
+    "topico": "Serviços públicos",
+    "dificuldade": "media",
+    "enunciado": "Sobre os critérios de julgamento da licitação para concessão de serviço público, previstos no art. 15 da Lei nº 8.987/1995, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "O único critério admitido é o de menor valor da tarifa do serviço público a ser prestado." },
+      { "letra": "B", "texto": "É vedada a combinação de critérios de julgamento, sob pena de comprometimento da objetividade do certame." },
+      { "letra": "C", "texto": "O critério de maior oferta pela outorga da concessão é vedado, por contrariar o princípio da modicidade tarifária." },
+      { "letra": "D", "texto": "A melhor proposta técnica somente pode ser adotada quando o edital deixar o preço em aberto, a ser definido pelo licitante." },
+      { "letra": "E", "texto": "Entre os critérios admitidos estão o menor valor da tarifa, a maior oferta nos casos de pagamento ao poder concedente pela outorga, a melhor proposta técnica com preço fixado no edital e diversas combinações entre eles." }
+    ],
+    "gabarito": "E",
+    "comentario": "A alternativa E corresponde ao rol do art. 15, I a VII, da Lei nº 8.987/1995. A alternativa A restringe o julgamento a um único critério. A alternativa B veda combinações expressamente admitidas nos incisos III, V e VI. A alternativa C proíbe a maior oferta, prevista no inciso II. A alternativa D inverte o inciso IV, que prevê a melhor proposta técnica com preço fixado no edital.",
+    "fundamentacaoLegal": "Lei nº 8.987/1995, art. 15, I a VII."
+  },
+  {
+    "id": "servicos-publicos-14",
+    "topicoId": "servicos-publicos",
+    "topico": "Serviços públicos",
+    "dificuldade": "dificil",
+    "enunciado": "Após a apresentação da proposta vencedora em licitação para concessão de serviço público municipal, é criado novo tributo que impacta comprovadamente os custos da concessionária. Sobre a política tarifária e o equilíbrio econômico-financeiro, nos termos do art. 9º da Lei nº 8.987/1995, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A criação de tributos após a proposta é risco integralmente assumido pela concessionária, não ensejando revisão tarifária em nenhuma hipótese." },
+      { "letra": "B", "texto": "Ressalvados os impostos sobre a renda, a criação, alteração ou extinção de quaisquer tributos ou encargos legais, após a apresentação da proposta, quando comprovado seu impacto, implicará a revisão da tarifa, para mais ou para menos, conforme o caso." },
+      { "letra": "C", "texto": "A revisão tarifária somente é cabível quando o tributo criado for de competência do próprio poder concedente." },
+      { "letra": "D", "texto": "A tarifa é fixada por ato discricionário do poder concedente após a assinatura do contrato, não guardando relação com o preço da proposta vencedora." },
+      { "letra": "E", "texto": "A extinção de tributo após a apresentação da proposta não repercute na tarifa, pois a revisão somente pode operar em favor da concessionária." }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B reproduz o art. 9º, § 3º, da Lei nº 8.987/1995. A alternativa A nega qualquer revisão, contrariando o dispositivo. A alternativa C restringe a revisão aos tributos do poder concedente, distinção inexistente na lei. A alternativa D contraria o caput do art. 9º, segundo o qual a tarifa é fixada pelo preço da proposta vencedora e preservada pelas regras de revisão. A alternativa E ignora que a revisão opera para mais ou para menos, podendo beneficiar os usuários com a redução tarifária.",
+    "fundamentacaoLegal": "Lei nº 8.987/1995, art. 9º, caput e §§ 2º, 3º e 4º."
+  },
+  {
+    "id": "servicos-publicos-15",
+    "topicoId": "servicos-publicos",
+    "topico": "Serviços públicos",
+    "dificuldade": "media",
+    "enunciado": "Sobre as fontes alternativas de receita e a diferenciação de tarifas na concessão de serviço público, nos termos da Lei nº 8.987/1995, é correto afirmar que:",
+    "alternativas": [
+      { "letra": "A", "texto": "é vedado à concessionária auferir receitas que não decorram diretamente da cobrança de tarifas dos usuários." },
+      { "letra": "B", "texto": "as receitas alternativas, quando previstas, não são consideradas para a aferição do equilíbrio econômico-financeiro inicial do contrato." },
+      { "letra": "C", "texto": "o poder concedente poderá prever, em favor da concessionária, no edital de licitação, a possibilidade de outras fontes provenientes de receitas alternativas, complementares, acessórias ou de projetos associados, com vistas a favorecer a modicidade das tarifas, sendo tais receitas obrigatoriamente consideradas para a aferição do inicial equilíbrio econômico-financeiro do contrato; e as tarifas poderão ser diferenciadas em função das características técnicas e dos custos específicos provenientes do atendimento a distintos segmentos de usuários." },
+      { "letra": "D", "texto": "a diferenciação de tarifas entre segmentos de usuários é vedada, por violar o princípio da generalidade do serviço público." },
+      { "letra": "E", "texto": "as receitas alternativas somente podem ser previstas mediante termo aditivo firmado após o início da execução contratual." }
+    ],
+    "gabarito": "C",
+    "comentario": "A alternativa C conjuga o art. 11, caput e parágrafo único, com o art. 13 da Lei nº 8.987/1995. A alternativa A veda receitas alternativas, expressamente admitidas. A alternativa B contraria o parágrafo único do art. 11, que impõe sua consideração obrigatória na equação econômico-financeira. A alternativa D veda a diferenciação tarifária, admitida pelo art. 13, que não se confunde com discriminação arbitrária. A alternativa E exige termo aditivo posterior, quando a previsão deve constar do edital de licitação.",
+    "fundamentacaoLegal": "Lei nº 8.987/1995, arts. 11, caput e parágrafo único, e 13."
+  },
+  {
+    "id": "servicos-publicos-16",
+    "topicoId": "servicos-publicos",
+    "topico": "Serviços públicos",
+    "dificuldade": "media",
+    "enunciado": "Sobre os direitos e obrigações dos usuários de serviços públicos concedidos, previstos no art. 7º da Lei nº 8.987/1995, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "O usuário tem direito de exigir a prestação gratuita do serviço sempre que comprovar insuficiência de recursos, independentemente de previsão legal específica." },
+      { "letra": "B", "texto": "O usuário não possui o dever de comunicar irregularidades, cabendo a fiscalização exclusivamente ao poder concedente." },
+      { "letra": "C", "texto": "O direito à informação restringe-se aos dados fornecidos pela concessionária, não alcançando informações do poder concedente." },
+      { "letra": "D", "texto": "São direitos e obrigações dos usuários receber serviço adequado, receber do poder concedente e da concessionária informações para a defesa de interesses individuais ou coletivos, obter e utilizar o serviço com liberdade de escolha entre vários prestadores quando for o caso, levar ao conhecimento do poder público e da concessionária as irregularidades de que tenham conhecimento e contribuir para a permanência das boas condições dos bens públicos por meio dos quais lhes são prestados os serviços." },
+      { "letra": "E", "texto": "A liberdade de escolha entre prestadores é assegurada em todos os serviços públicos concedidos, sendo nula a cláusula contratual que a restrinja." }
+    ],
+    "gabarito": "D",
+    "comentario": "A alternativa D reúne os incisos I a VI do art. 7º da Lei nº 8.987/1995. A alternativa A cria direito à gratuidade sem previsão legal, contrariando o art. 9º, § 1º, que condiciona hipóteses excepcionais à previsão em lei. A alternativa B nega o dever previsto nos incisos IV e V. A alternativa C restringe o direito à informação, que o inciso II assegura tanto perante a concessionária quanto perante o poder concedente. A alternativa E generaliza a liberdade de escolha, que o inciso III condiciona à existência de vários prestadores e às normas do poder concedente.",
+    "fundamentacaoLegal": "Lei nº 8.987/1995, art. 7º, I a VI, e art. 7º-A."
+  },
+  {
+    "id": "servicos-publicos-17",
+    "topicoId": "servicos-publicos",
+    "topico": "Serviços públicos",
+    "dificuldade": "dificil",
+    "enunciado": "Poder concedente municipal pretende outorgar concessão de serviço público com cláusula de exclusividade em favor da futura concessionária. Sobre a possibilidade, nos termos dos arts. 5º e 16 da Lei nº 8.987/1995, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A outorga de concessão ou permissão não terá caráter de exclusividade, salvo no caso de inviabilidade técnica ou econômica justificada no ato pelo qual o poder concedente, previamente ao edital, justifica a conveniência da outorga, caracterizando seu objeto, área e prazo." },
+      { "letra": "B", "texto": "A exclusividade é a regra nas concessões de serviço público, dispensando qualquer justificativa do poder concedente." },
+      { "letra": "C", "texto": "A exclusividade é absolutamente vedada, não comportando exceção no regime da Lei nº 8.987/1995." },
+      { "letra": "D", "texto": "A justificativa da conveniência da outorga deve ser publicada após a assinatura do contrato de concessão, como condição de sua eficácia." },
+      { "letra": "E", "texto": "A exclusividade pode ser concedida sempre que o poder concedente entender conveniente, bastando a previsão no contrato, ainda que ausente do edital." }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A conjuga o art. 16 com o art. 5º da Lei nº 8.987/1995. A alternativa B inverte regra e exceção. A alternativa C veda em absoluto a exclusividade, desconsiderando a ressalva legal de inviabilidade técnica ou econômica justificada. A alternativa D altera o momento da publicação do ato justificativo, que deve ser prévio ao edital. A alternativa E dispensa a justificativa e a previsão editalícia, contrariando ambos os dispositivos.",
+    "fundamentacaoLegal": "Lei nº 8.987/1995, arts. 5º e 16."
+  },
+  {
+    "id": "servicos-publicos-18",
+    "topicoId": "servicos-publicos",
+    "topico": "Serviços públicos",
+    "dificuldade": "media",
+    "enunciado": "Assinale a alternativa que NÃO corresponde a cláusula essencial do contrato de concessão, nos termos do art. 23 da Lei nº 8.987/1995.",
+    "alternativas": [
+      { "letra": "A", "texto": "As relativas ao objeto, à área e ao prazo da concessão." },
+      { "letra": "B", "texto": "A que assegure à concessionária a garantia de lucro mínimo anual, a ser complementado pelo poder concedente em caso de frustração de receita." },
+      { "letra": "C", "texto": "As relativas aos bens reversíveis e aos critérios para o cálculo e a forma de pagamento das indenizações devidas à concessionária." },
+      { "letra": "D", "texto": "As relativas à forma de fiscalização das instalações, dos equipamentos, dos métodos e práticas de execução do serviço." },
+      { "letra": "E", "texto": "As relativas às penalidades contratuais e administrativas a que se sujeita a concessionária e sua forma de aplicação." }
+    ],
+    "gabarito": "B",
+    "comentario": "A questão pede a alternativa que não corresponde a cláusula essencial. A alternativa B é incorreta porque a Lei nº 8.987/1995 não assegura garantia de lucro mínimo, sendo a concessão explorada por conta e risco da concessionária, protegida apenas pela recomposição do equilíbrio econômico-financeiro nas hipóteses legais e contratuais. As alternativas A, C, D e E correspondem, respectivamente, aos incisos I, X e XI, VII e VIII do art. 23.",
+    "fundamentacaoLegal": "Lei nº 8.987/1995, arts. 2º, II, 9º, § 4º, e 23, I a XV."
+  },
+  {
+    "id": "servicos-publicos-19",
+    "topicoId": "servicos-publicos",
+    "topico": "Serviços públicos",
+    "dificuldade": "dificil",
+    "enunciado": "Concessionária de serviço público municipal transfere o controle societário a terceiro sem comunicar o poder concedente e, no mesmo período, outorga parte do objeto contratual a subconcessionário escolhido diretamente. Sobre as consequências jurídicas, à luz da Lei nº 8.987/1995, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "Ambas as condutas são regulares, pois a concessionária explora o serviço por sua conta e risco, com autonomia empresarial plena." },
+      { "letra": "B", "texto": "A transferência do controle societário independe de anuência do poder concedente, exigindo-se apenas comunicação posterior; já a subconcessão é livre." },
+      { "letra": "C", "texto": "A subconcessão é vedada em qualquer hipótese no regime da Lei nº 8.987/1995, e a transferência do controle societário acarreta apenas a aplicação de multa contratual." },
+      { "letra": "D", "texto": "A transferência do controle societário sem anuência prévia acarreta a encampação da concessão, e a subconcessão irregular acarreta a rescisão judicial do contrato." },
+      { "letra": "E", "texto": "A transferência da concessão ou do controle societário da concessionária sem prévia anuência do poder concedente implicará a caducidade da concessão; a subconcessão, por sua vez, é admitida nos termos previstos no contrato, desde que expressamente autorizada pelo poder concedente, e sua outorga será sempre precedida de concorrência." }
+    ],
+    "gabarito": "E",
+    "comentario": "A alternativa E reúne o art. 27, caput, e o art. 26, caput e § 1º, da Lei nº 8.987/1995. A alternativa A afirma autonomia empresarial plena, incompatível com a natureza da delegação. A alternativa B dispensa a anuência prévia e libera a subconcessão, contrariando ambos os dispositivos. A alternativa C veda a subconcessão, expressamente admitida, e reduz a sanção da transferência irregular a multa. A alternativa D confunde encampação, que pressupõe interesse público e lei autorizativa específica, com caducidade, sanção por inexecução contratual.",
+    "fundamentacaoLegal": "Lei nº 8.987/1995, arts. 26, caput e §§ 1º e 2º, e 27, caput."
+  },
+  {
+    "id": "servicos-publicos-20",
+    "topicoId": "servicos-publicos",
+    "topico": "Serviços públicos",
+    "dificuldade": "media",
+    "enunciado": "Sobre os encargos do poder concedente e a fiscalização do serviço concedido, nos termos dos arts. 29 e 30 da Lei nº 8.987/1995, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A fiscalização do serviço concedido é atribuição exclusiva do órgão de controle externo, sendo vedada ao poder concedente." },
+      { "letra": "B", "texto": "O poder concedente não pode declarar de utilidade pública bens necessários à execução do serviço, cabendo à concessionária promover as desapropriações por conta própria e sem delegação." },
+      { "letra": "C", "texto": "Incumbe ao poder concedente regulamentar o serviço concedido e fiscalizar permanentemente a sua prestação, aplicar as penalidades regulamentares e contratuais, intervir na prestação do serviço nos casos e condições previstos em lei e homologar reajustes e proceder à revisão das tarifas, tendo acesso, no exercício da fiscalização, aos dados relativos à administração, contabilidade e recursos técnicos, econômicos e financeiros da concessionária." },
+      { "letra": "D", "texto": "O acesso do poder concedente aos dados contábeis e financeiros da concessionária depende de autorização judicial, em razão do sigilo empresarial." },
+      { "letra": "E", "texto": "A fiscalização periódica por comissão composta por representantes do poder concedente, da concessionária e dos usuários é vedada, por comprometer a imparcialidade do controle." }
+    ],
+    "gabarito": "C",
+    "comentario": "A alternativa C reúne o art. 29, I, II, III e V, e o art. 30, caput, da Lei nº 8.987/1995. A alternativa A retira do poder concedente a fiscalização, que lhe é atribuída expressamente. A alternativa B nega a competência do art. 29, VIII, segundo o qual cabe ao poder concedente declarar de utilidade pública os bens necessários, promovendo as desapropriações diretamente ou mediante outorga de poderes à concessionária. A alternativa D exige autorização judicial para o acesso aos dados, contrariando o caput do art. 30. A alternativa E veda a comissão de fiscalização prevista no parágrafo único do art. 30.",
+    "fundamentacaoLegal": "Lei nº 8.987/1995, arts. 29, I, II, III, V e VIII, e 30, caput e parágrafo único."
+  },
+  {
+    "id": "servicos-publicos-21",
+    "topicoId": "servicos-publicos",
+    "topico": "Serviços públicos",
+    "dificuldade": "dificil",
+    "enunciado": "Concessionária de serviço público celebra com empresa privada contrato para o desenvolvimento de atividades acessórias ao serviço concedido. Sobre os encargos da concessionária e o regime desses contratos, nos termos dos arts. 25 e 31 da Lei nº 8.987/1995, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A contratação de terceiros é vedada, pois a concessão é intuitu personae e não admite a participação de outras empresas na execução do serviço." },
+      { "letra": "B", "texto": "Os contratos celebrados entre a concessionária e os terceiros contratados regem-se pelo direito público, estabelecendo-se relação jurídica direta entre esses terceiros e o poder concedente." },
+      { "letra": "C", "texto": "A contratação de terceiros transfere a estes a responsabilidade perante os usuários, exonerando a concessionária." },
+      { "letra": "D", "texto": "A concessionária poderá contratar com terceiros o desenvolvimento de atividades inerentes, acessórias ou complementares ao serviço concedido, bem como a implementação de projetos associados, regendo-se tais contratos pelo direito privado e não se estabelecendo qualquer relação jurídica entre os terceiros e o poder concedente, sem prejuízo da responsabilidade da concessionária e do dever de prestar serviço adequado e de prestar contas da gestão ao poder concedente e aos usuários." },
+      { "letra": "E", "texto": "A execução de atividades contratadas com terceiros dispensa o cumprimento das normas regulamentares da modalidade do serviço concedido." }
+    ],
+    "gabarito": "D",
+    "comentario": "A alternativa D reúne o art. 25, caput e §§ 1º e 2º, e o art. 31, I e III, da Lei nº 8.987/1995. A alternativa A veda a contratação de terceiros, expressamente admitida pelo § 1º. A alternativa B submete esses contratos ao direito público e cria vínculo com o poder concedente, contrariando o § 2º. A alternativa C exonera a concessionária, contrariando o caput do art. 25, segundo o qual a concessionária responde por todos os prejuízos causados ao poder concedente, aos usuários ou a terceiros. A alternativa E dispensa o cumprimento das normas regulamentares, contrariando o § 3º do art. 25.",
+    "fundamentacaoLegal": "Lei nº 8.987/1995, art. 25, caput e §§ 1º, 2º e 3º, e art. 31, I e III."
+  },
+  {
+    "id": "servicos-publicos-22",
+    "topicoId": "servicos-publicos",
+    "topico": "Serviços públicos",
+    "dificuldade": "media",
+    "enunciado": "Diante de reiterada prestação inadequada do serviço concedido, o poder concedente municipal decide intervir na concessão. Sobre o instituto da intervenção, nos termos dos arts. 32 a 34 da Lei nº 8.987/1995, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A intervenção far-se-á por decreto do poder concedente, que conterá a designação do interventor, o prazo da intervenção e os objetivos e limites da medida, devendo o poder concedente, no prazo de trinta dias da declaração, instaurar procedimento administrativo para comprovar as causas determinantes da medida e apurar responsabilidades, assegurado o direito de ampla defesa, e concluído em até cento e oitenta dias, sob pena de invalidade da intervenção." },
+      { "letra": "B", "texto": "A intervenção é declarada por ato do interventor designado, dispensando manifestação do poder concedente." },
+      { "letra": "C", "texto": "A intervenção acarreta automaticamente a extinção da concessão, com imediata reversão dos bens ao poder concedente." },
+      { "letra": "D", "texto": "O procedimento administrativo destinado a apurar as causas da intervenção dispensa a observância do contraditório e da ampla defesa, dada a urgência da medida." },
+      { "letra": "E", "texto": "Cessada a intervenção sem extinção da concessão, a administração do serviço é devolvida à concessionária, ficando o interventor isento de prestar contas e de responder pelos atos praticados durante sua gestão." }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A reúne o art. 32, parágrafo único, e o art. 33, caput e § 2º, da Lei nº 8.987/1995. A alternativa B atribui a declaração da intervenção ao interventor, quando ela se faz por decreto do poder concedente. A alternativa C confunde intervenção com extinção da concessão, institutos distintos, sendo a intervenção medida temporária e instrumental. A alternativa D dispensa o contraditório, expressamente assegurado pelo caput do art. 33. A alternativa E isenta o interventor de prestar contas, contrariando o art. 34.",
+    "fundamentacaoLegal": "Lei nº 8.987/1995, arts. 32, caput e parágrafo único, 33, caput e §§ 1º e 2º, e 34."
+  },
+  {
+    "id": "servicos-publicos-23",
+    "topicoId": "servicos-publicos",
+    "topico": "Serviços públicos",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre as formas de extinção da concessão de serviço público e seus efeitos, nos termos do art. 35 da Lei nº 8.987/1995, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A concessão extingue-se exclusivamente pelo advento do termo contratual e pela caducidade, sendo as demais hipóteses causas de simples suspensão." },
+      { "letra": "B", "texto": "Extingue-se a concessão por advento do termo contratual, encampação, caducidade, rescisão, anulação e falência ou extinção da empresa concessionária e falecimento ou incapacidade do titular, no caso de empresa individual, retornando ao poder concedente, com a extinção, todos os bens reversíveis, direitos e privilégios transferidos ao concessionário, com imediata assunção do serviço." },
+      { "letra": "C", "texto": "Extinta a concessão, a assunção do serviço pelo poder concedente depende de autorização judicial e não autoriza a ocupação das instalações." },
+      { "letra": "D", "texto": "A anulação da concessão não constitui forma de extinção prevista em lei, por se tratar de matéria estranha ao contrato administrativo." },
+      { "letra": "E", "texto": "A falência da concessionária não extingue a concessão, mantendo-se o contrato até o advento do termo contratual, em nome da continuidade do serviço." }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B reúne o caput, incisos I a VI, e os §§ 1º, 2º e 3º do art. 35 da Lei nº 8.987/1995. A alternativa A reduz o rol legal e trata as demais hipóteses como suspensão. A alternativa C exige autorização judicial e nega a ocupação das instalações, contrariando os §§ 2º e 3º. A alternativa D exclui a anulação, prevista no inciso V. A alternativa E exclui a falência, prevista no inciso VI.",
+    "fundamentacaoLegal": "Lei nº 8.987/1995, art. 35, caput, I a VI, e §§ 1º a 4º."
+  },
+  {
+    "id": "servicos-publicos-24",
+    "topicoId": "servicos-publicos",
+    "topico": "Serviços públicos",
+    "dificuldade": "media",
+    "enunciado": "O Município pretende retomar, antes do término do prazo contratual, serviço público delegado a concessionária que vem cumprindo regularmente suas obrigações, por razões de interesse público supervenientes. Sobre o instituto cabível, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "Trata-se de caducidade, que pode ser declarada por decreto independentemente de indenização prévia." },
+      { "letra": "B", "texto": "Trata-se de rescisão, que deve ser promovida por ação judicial especialmente intentada pelo poder concedente." },
+      { "letra": "C", "texto": "Trata-se de intervenção definitiva, que dispensa lei autorizativa e indenização." },
+      { "letra": "D", "texto": "A retomada é impossível antes do termo contratual, salvo em caso de inadimplemento da concessionária." },
+      { "letra": "E", "texto": "Trata-se de encampação, assim considerada a retomada do serviço pelo poder concedente durante o prazo da concessão, por motivo de interesse público, mediante lei autorizativa específica e após prévio pagamento da indenização." }
+    ],
+    "gabarito": "E",
+    "comentario": "A alternativa E reproduz o art. 37 da Lei nº 8.987/1995. A alternativa A indica a caducidade, que pressupõe inexecução contratual da concessionária (art. 38), inexistente no caso. A alternativa B refere-se à rescisão do art. 39, prevista em favor da concessionária diante de descumprimento do poder concedente. A alternativa C cria a figura da intervenção definitiva, inexistente, pois a intervenção é medida temporária (art. 32). A alternativa D nega a possibilidade de retomada por interesse público, expressamente prevista no art. 37.",
+    "fundamentacaoLegal": "Lei nº 8.987/1995, arts. 35, II, 36 e 37."
+  },
+  {
+    "id": "servicos-publicos-25",
+    "topicoId": "servicos-publicos",
+    "topico": "Serviços públicos",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre a caducidade da concessão de serviço público, prevista no art. 38 da Lei nº 8.987/1995, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A caducidade decorre do advento do termo contratual e opera de pleno direito, independentemente de qualquer ato do poder concedente." },
+      { "letra": "B", "texto": "A caducidade pode ser declarada de imediato, sem prévia comunicação detalhada à concessionária dos descumprimentos contratuais nem prazo para correção das falhas." },
+      { "letra": "C", "texto": "A declaração da caducidade deve ser precedida da verificação da inadimplência da concessionária em processo administrativo, assegurado o direito de ampla defesa, e, comprovada a inadimplência, será declarada por decreto do poder concedente, independentemente de indenização prévia, calculada no decurso do processo, não resultando para o poder concedente qualquer espécie de responsabilidade em relação aos encargos, ônus, obrigações ou compromissos com terceiros ou com empregados da concessionária." },
+      { "letra": "D", "texto": "Declarada a caducidade, o poder concedente assume solidariamente todos os encargos trabalhistas e as obrigações da concessionária perante terceiros." },
+      { "letra": "E", "texto": "A caducidade exige lei autorizativa específica e prévio pagamento de indenização, tal como ocorre na encampação." }
+    ],
+    "gabarito": "C",
+    "comentario": "A alternativa C reúne o art. 38, §§ 2º, 4º e 6º, da Lei nº 8.987/1995. A alternativa A confunde caducidade com o advento do termo contratual, hipótese autônoma do art. 35, I. A alternativa B dispensa a comunicação detalhada e o prazo para correção, exigidos pelo § 3º. A alternativa D contraria o § 6º, que exclui a responsabilidade do poder concedente por encargos e compromissos da concessionária. A alternativa E transporta para a caducidade os requisitos da encampação, previstos no art. 37, sendo que o § 4º do art. 38 dispensa a indenização prévia.",
+    "fundamentacaoLegal": "Lei nº 8.987/1995, art. 38, caput e §§ 1º a 6º."
+  },
+  {
+    "id": "servicos-publicos-26",
+    "topicoId": "servicos-publicos",
+    "topico": "Serviços públicos",
+    "dificuldade": "media",
+    "enunciado": "Encerrado o prazo contratual de concessão de serviço público municipal, discute-se o destino dos bens vinculados à prestação e o direito da concessionária à indenização. Sobre a reversão, nos termos da Lei nº 8.987/1995, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A reversão no advento do termo contratual far-se-á com a indenização das parcelas dos investimentos vinculados a bens reversíveis, ainda não amortizados ou depreciados, que tenham sido realizados com o objetivo de garantir a continuidade e atualidade do serviço concedido." },
+      { "letra": "B", "texto": "A reversão implica a transferência gratuita de todos os bens da concessionária ao poder concedente, inclusive os não vinculados à prestação do serviço." },
+      { "letra": "C", "texto": "Não há reversão de bens no regime da Lei nº 8.987/1995, permanecendo todos os bens no patrimônio da concessionária após a extinção do contrato." },
+      { "letra": "D", "texto": "A indenização abrange integralmente o valor dos bens reversíveis, ainda que já amortizados ou depreciados durante a execução contratual." },
+      { "letra": "E", "texto": "Os bens reversíveis não precisam ser indicados no contrato de concessão, por decorrerem automaticamente da natureza do serviço." }
+    ],
+    "gabarito": "A",
+    "comentario": "A alternativa A reproduz o art. 36 da Lei nº 8.987/1995. A alternativa B afirma transferência gratuita e universal, contrariando o art. 36 e o art. 35, § 1º, que limitam a reversão aos bens reversíveis previstos no edital e no contrato. A alternativa C nega o instituto da reversão, expressamente previsto. A alternativa D admite indenização de parcelas já amortizadas, contrariando a literalidade do art. 36. A alternativa E dispensa a previsão contratual, contrariando o art. 23, X, que inclui os bens reversíveis entre as cláusulas essenciais.",
+    "fundamentacaoLegal": "Lei nº 8.987/1995, arts. 23, X, 35, § 1º, e 36."
+  },
+  {
+    "id": "servicos-publicos-27",
+    "topicoId": "servicos-publicos",
+    "topico": "Serviços públicos",
+    "dificuldade": "dificil",
+    "enunciado": "Sobre as parcerias público-privadas, disciplinadas pela Lei nº 11.079/2004, e sua relação com a concessão comum regida pela Lei nº 8.987/1995, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A concessão administrativa é aquela em que a remuneração do parceiro privado provém exclusivamente das tarifas cobradas dos usuários." },
+      { "letra": "B", "texto": "A concessão patrocinada dispensa a cobrança de tarifa dos usuários, sendo remunerada apenas pela contraprestação do parceiro público." },
+      { "letra": "C", "texto": "Constitui parceria público-privada a concessão comum de serviços públicos, ainda que não envolva contraprestação pecuniária do parceiro público ao parceiro privado." },
+      { "letra": "D", "texto": "Parceria público-privada é o contrato administrativo de concessão na modalidade patrocinada, quando envolver, adicionalmente à tarifa cobrada dos usuários, contraprestação pecuniária do parceiro público, ou administrativa, quando o contrato tiver por objeto a prestação de serviços de que a Administração seja usuária direta ou indireta, sendo vedada a celebração de parceria público-privada cujo valor do contrato seja inferior a dez milhões de reais, cujo período de prestação do serviço seja inferior a cinco anos ou que tenha como objeto único o fornecimento de mão de obra, o fornecimento e instalação de equipamentos ou a execução de obra pública." },
+      { "letra": "E", "texto": "O prazo de vigência do contrato de parceria público-privada não pode ser superior a vinte anos, incluída eventual prorrogação." }
+    ],
+    "gabarito": "D",
+    "comentario": "A alternativa D reúne o art. 2º, caput, §§ 1º, 2º e 4º, da Lei nº 11.079/2004, com o valor mínimo atualizado pela Lei nº 13.529/2017. A alternativa A inverte o conceito de concessão administrativa, na qual a própria Administração é usuária do serviço. A alternativa B suprime a tarifa da concessão patrocinada, cuja nota distintiva é justamente a soma de tarifa e contraprestação pública. A alternativa C contraria o § 3º do art. 2º, segundo o qual a concessão comum, sem contraprestação pecuniária, não constitui parceria público-privada. A alternativa E erra o prazo, pois o art. 5º, I, fixa vigência não inferior a cinco nem superior a trinta e cinco anos, incluída eventual prorrogação.",
+    "fundamentacaoLegal": "Lei nº 11.079/2004, art. 2º, caput e §§ 1º a 4º, e art. 5º, I; Lei nº 8.987/1995."
+  },
+  {
+    "id": "servicos-publicos-28",
+    "topicoId": "servicos-publicos",
+    "topico": "Serviços públicos",
+    "dificuldade": "media",
+    "enunciado": "Sobre a Lei nº 13.460/2017, que dispõe sobre participação, proteção e defesa dos direitos do usuário dos serviços públicos, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A lei aplica-se exclusivamente à Administração Pública federal direta, não alcançando Estados e Municípios nem a Administração indireta." },
+      { "letra": "B", "texto": "A lei estabelece normas básicas para participação, proteção e defesa dos direitos do usuário dos serviços públicos prestados direta ou indiretamente pela Administração Pública, prevendo, entre outros instrumentos, a Carta de Serviços ao Usuário, as ouvidorias e os conselhos de usuários, de natureza consultiva." },
+      { "letra": "C", "texto": "As ouvidorias possuem competência decisória para anular os atos administrativos objeto das manifestações recebidas." },
+      { "letra": "D", "texto": "A Carta de Serviços ao Usuário é documento de uso interno da Administração, sendo vedada sua divulgação ao público." },
+      { "letra": "E", "texto": "Os conselhos de usuários possuem natureza deliberativa e vinculam a atuação do prestador do serviço público." }
+    ],
+    "gabarito": "B",
+    "comentario": "A alternativa B corresponde ao art. 1º, caput, ao art. 7º e aos arts. 13 e 16 da Lei nº 13.460/2017. A alternativa A restringe indevidamente o âmbito de aplicação, que alcança a Administração direta e indireta de todos os entes federativos, nos termos do art. 1º, § 1º. A alternativa C atribui competência decisória às ouvidorias, cujas atribuições são de recebimento, análise e encaminhamento de manifestações. A alternativa D veda a divulgação da Carta de Serviços, que, ao contrário, deve ser divulgada e amplamente acessível, inclusive em sítio eletrônico. A alternativa E atribui natureza deliberativa e vinculante aos conselhos de usuários, que o art. 16 qualifica como órgãos consultivos.",
+    "fundamentacaoLegal": "Lei nº 13.460/2017, arts. 1º, caput e § 1º, 7º, 13 e 16; CF/88, art. 37, § 3º."
+  },
+  {
+    "id": "servicos-publicos-29",
+    "topicoId": "servicos-publicos",
+    "topico": "Serviços públicos",
+    "dificuldade": "dificil",
+    "enunciado": "Servidores de órgão municipal responsável por serviço público essencial deflagram movimento de greve. Sobre a compatibilização entre o direito de greve e o princípio da continuidade do serviço público, considerando a jurisprudência do Supremo Tribunal Federal, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "O direito de greve dos servidores públicos civis é inaplicável enquanto não editada lei específica, sendo ilícito qualquer movimento paredista no serviço público." },
+      { "letra": "B", "texto": "O direito de greve dos servidores públicos é absoluto, não se admitindo a exigência de manutenção de percentual mínimo de servidores em atividade nos serviços essenciais." },
+      { "letra": "C", "texto": "O direito de greve dos servidores públicos civis, previsto no art. 37, VII, da CF/88, é exercido nos termos e limites definidos em lei específica, aplicando-se, enquanto não editada, por analogia e no que couber, a Lei nº 7.783/1989, que impõe a manutenção dos serviços indispensáveis nas atividades essenciais, devendo a Administração proceder ao desconto dos dias de paralisação, permitida a compensação em caso de acordo, salvo quando o movimento tenha sido motivado por conduta ilícita do Poder Público." },
+      { "letra": "D", "texto": "A Administração está obrigada a remunerar integralmente os dias não trabalhados em razão de greve, ainda que ausente acordo de compensação e inexistente conduta ilícita do Poder Público." },
+      { "letra": "E", "texto": "A Lei nº 7.783/1989 aplica-se integralmente e de forma direta aos servidores públicos civis, inclusive quanto às hipóteses de greve por reivindicações estranhas à relação de trabalho." }
+    ],
+    "gabarito": "C",
+    "comentario": "A alternativa C conjuga o art. 37, VII, da CF/88, a solução firmada pelo STF nos Mandados de Injunção 670, 708 e 712, que determinaram a aplicação analógica da Lei nº 7.783/1989, e a tese do Tema 531 (RE 693.456) sobre o desconto dos dias parados. A alternativa A nega o exercício do direito, superando-se a tese da norma de eficácia limitada por meio dos mandados de injunção. A alternativa B afirma caráter absoluto do direito, incompatível com a manutenção dos serviços indispensáveis exigida pelo art. 11 da Lei nº 7.783/1989. A alternativa D contraria a tese do Tema 531, que impõe o desconto como regra. A alternativa E afirma aplicação integral e direta, quando a incidência se dá por analogia e no que couber, dadas as peculiaridades do regime estatutário.",
+    "fundamentacaoLegal": "CF/88, arts. 9º e 37, VII; Lei nº 7.783/1989, arts. 10 e 11; STF, MI 670, MI 708 e MI 712; STF, RE 693.456 (Tema 531)."
+  },
+  {
+    "id": "servicos-publicos-30",
+    "topicoId": "servicos-publicos",
+    "topico": "Serviços públicos",
+    "dificuldade": "dificil",
+    "enunciado": "Município delega à iniciativa privada a construção, conservação e exploração de terminal rodoviário, remunerando-se o particular pela exploração do serviço por prazo determinado. Sobre o instituto correspondente, nos termos do art. 2º, III, da Lei nº 8.987/1995, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "Trata-se de contrato de obra pública regido exclusivamente pela Lei nº 14.133/2021, remunerado por pagamentos periódicos do erário conforme medições." },
+      { "letra": "B", "texto": "Trata-se de permissão de serviço público, formalizada por contrato de adesão e outorgada a título precário." },
+      { "letra": "C", "texto": "Trata-se de autorização de serviço público, ato unilateral e discricionário, dispensada a licitação." },
+      { "letra": "D", "texto": "Trata-se de convênio administrativo, marcado pela convergência de interesses e pela ausência de remuneração." },
+      { "letra": "E", "texto": "Trata-se de concessão de serviço público precedida da execução de obra pública, assim entendida a construção, total ou parcial, conservação, reforma, ampliação ou melhoramento de quaisquer obras de interesse público, delegadas pelo poder concedente mediante licitação a pessoa jurídica ou consórcio de empresas que demonstre capacidade para a sua realização, por sua conta e risco, de forma que o investimento da concessionária seja remunerado e amortizado mediante a exploração do serviço ou da obra por prazo determinado." }
+    ],
+    "gabarito": "E",
+    "comentario": "A alternativa E reproduz o art. 2º, III, da Lei nº 8.987/1995. A alternativa A qualifica a hipótese como simples contrato de obra pública com remuneração por medições, o que não corresponde à remuneração pela exploração do empreendimento. A alternativa B indica a permissão, cuja nota é a precariedade e que não tem por objeto a execução de obra com amortização do investimento pela exploração. A alternativa C indica a autorização, ato unilateral, e ainda dispensa a licitação, contrariando o art. 175 da CF/88. A alternativa D indica convênio, instrumento de cooperação sem remuneração contratual nem delegação de serviço público.",
+    "fundamentacaoLegal": "Lei nº 8.987/1995, art. 2º, III, com redação da Lei nº 14.133/2021; CF/88, art. 175."
+  }
+]
