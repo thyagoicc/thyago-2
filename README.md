@@ -7,10 +7,11 @@ Administrativo, escritas para reproduzir o padrão de redação da banca
 Prefeitura de Campina Grande/PB** (Edital nº 01/2026, prova em 30/08/2026).
 
 Não há chamadas a nenhuma API de IA em tempo de execução: as questões já
-estão escritas e salvas em arquivos JSON no repositório. O servidor apenas
+estão escritas e salvas em arquivos JSON no repositório. O app apenas
 sorteia uma questão do banco, respeitando os filtros de tópico/dificuldade
 escolhidos e evitando repetir questões já vistas na sessão. **Não é
-necessária nenhuma chave de API para rodar o app.**
+necessária nenhuma chave de API, nem instalação, para usar o app** — é só
+abrir o arquivo `gerador-questoes-idecan.html` no navegador (veja abaixo).
 
 ## Como funciona
 
@@ -59,18 +60,33 @@ Direito Constitucional, Contabilidade, Auditoria, AFO, Direito Empresarial,
 Administração Geral, Estatística e LGPD aplicada). Ajuste a lista de tópicos
 livremente caso o anexo oficial do edital detalhe itens diferentes.
 
-## Pré-requisitos
+## Como usar (opção mais simples: arquivo HTML único, sem instalar nada)
 
-- Node.js 18+
+Basta abrir **[`gerador-questoes-idecan.html`](gerador-questoes-idecan.html)**
+diretamente no navegador (duplo clique no arquivo) — não precisa de Node,
+npm, internet nem servidor. As 600 questões já estão embutidas no próprio
+arquivo.
 
-## Instalação e execução
+Esse arquivo é gerado a partir dos dados do projeto. Se você editar os
+tópicos ou o banco de questões, regenere-o com:
+
+```bash
+npm install
+npm run build:html
+```
+
+## Como usar via servidor Node (alternativa)
+
+Pré-requisito: Node.js 18+.
 
 ```bash
 npm install
 npm start
 ```
 
-Acesse `http://localhost:3000`.
+Acesse `http://localhost:3000`. Funciona de forma idêntica à versão HTML,
+mas serve os dados por um endpoint (`/api/questao`), útil caso você queira
+hospedar o app em um servidor.
 
 ## Uso
 
@@ -88,19 +104,23 @@ Acesse `http://localhost:3000`.
 ## Estrutura do projeto
 
 ```
-server.js                    servidor Express + endpoint /api/questao (sorteio no banco estático)
+gerador-questoes-idecan.html  arquivo único autocontido (gerado) — abrir direto no navegador, sem servidor
+scripts/build-html.js         gera o HTML autocontido a partir de lib/ + data/ + public/
+server.js                     servidor Express + endpoint /api/questao (sorteio no banco estático)
 lib/topicos.js                conteúdo programático de Direito Administrativo (20 tópicos)
 lib/idecanStyleGuide.js       guia de estilo da banca IDECAN usado na redação das questões
 data/questoes/<topicoId>.json banco de 30 questões por tópico (20 arquivos, 600 questões)
-public/index.html             página única do app
+public/index.html             página única do app (versão servidor)
 public/styles.css             estilo visual (inspirado em Qconcursos/TecConcursos)
-public/app.js                  lógica do frontend (fetch, estado, estatísticas, controle de repetição)
+public/app.js                  lógica do frontend da versão servidor (fetch nas rotas /api/...)
+public/app-standalone.js       mesma lógica, adaptada para ler os dados embutidos (usada no build do HTML único)
 ```
 
 ## Ampliando o banco
 
 Para adicionar mais questões a um tópico, edite o array JSON correspondente
-em `data/questoes/<topicoId>.json`, seguindo o schema:
+em `data/questoes/<topicoId>.json`, seguindo o schema abaixo, e depois rode
+`npm run build:html` para atualizar o arquivo HTML único (se você o usa):
 
 ```json
 {
