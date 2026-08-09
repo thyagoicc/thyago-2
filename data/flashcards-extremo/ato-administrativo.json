@@ -1,0 +1,102 @@
+[
+  {
+    "id": "ato-administrativo-fcx-01",
+    "topicoId": "ato-administrativo",
+    "topico": "Ato administrativo",
+    "dificuldade": "extremo",
+    "enunciado": "O ato administrativo já publicado, mas cujos efeitos estejam subordinados a condição suspensiva ainda não implementada, é ato imperfeito, uma vez que a ausência de eficácia impede que se complete o seu ciclo de formação; por essa razão, enquanto não sobrevier a condição, o ato não pode ser objeto de anulação pela Administração.",
+    "gabarito": "E",
+    "justificativa": "O item é falso em suas duas orações, e o vício está na equiparação entre eficácia e perfeição. Perfeição designa o esgotamento do ciclo de formação do ato, isto é, o cumprimento de todas as etapas necessárias à sua produção (inclusive a publicação, quando exigida). Validade é a conformidade com o ordenamento. Eficácia é a aptidão para produzir os efeitos típicos. São planos autônomos: o ato submetido a condição suspensiva ainda não implementada é perfeito e, se isento de vício, válido, embora ineficaz — a redação correta seria 'é ato perfeito, válido e ineficaz'. Da autonomia dos planos decorre também a falsidade da segunda oração: a invalidade é aferida no momento da edição do ato, de modo que a Administração pode (e deve) anular desde logo o ato viciado, sem aguardar o implemento da condição. Aliás, a anulação prévia é justamente o meio de impedir que efeitos ilegítimos venham a se produzir.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, art. 53 (dever de anular os próprios atos eivados de vício de legalidade); doutrina consolidada sobre o trinômio perfeição, validade e eficácia (Celso Antônio Bandeira de Mello; Maria Sylvia Zanella Di Pietro)."
+  },
+  {
+    "id": "ato-administrativo-fcx-02",
+    "topicoId": "ato-administrativo",
+    "topico": "Ato administrativo",
+    "dificuldade": "extremo",
+    "enunciado": "Anulada a nomeação de agente por vício no ato de investidura, os atos por ele praticados perante terceiros de boa-fé, no período em que aparentava regular exercício do cargo, são em regra preservados, por aplicação da teoria da aparência; solução diversa incide quanto ao usurpador de função, cujos atos são reputados juridicamente inexistentes.",
+    "gabarito": "C",
+    "justificativa": "Item correto e resistente à leitura mais capciosa. A doutrina distingue três figuras: o agente de direito (investidura regular), o agente de fato putativo (investidura irregular, mas com aparência de legitimidade perante o público) e o usurpador de função (quem se apossa da função sem qualquer investidura, inclusive por conduta criminosa). No caso do agente putativo, a anulação da investidura opera efeitos retroativos em relação ao agente, mas a segurança jurídica e a boa-fé de terceiros impõem a preservação dos atos externos por ele praticados — daí a validade, por exemplo, de certidões e autuações expedidas no período. Já o usurpador não gera aparência juridicamente tutelada; seus atos são tratados como inexistentes, e não meramente nulos, razão pela qual não se convalidam nem produzem efeito perante terceiros. Note-se que a preservação dos atos do agente putativo não impede a apuração da responsabilidade de quem deu causa à investidura irregular nem o desfazimento da relação funcional em si.",
+    "fundamentacaoLegal": "Código Penal, art. 328 (usurpação de função pública); Lei nº 9.784/1999, art. 2º, caput e parágrafo único, IV e XIII (boa-fé e segurança jurídica); doutrina consolidada sobre funcionário de fato e teoria da aparência (Celso Antônio Bandeira de Mello; José dos Santos Carvalho Filho)."
+  },
+  {
+    "id": "ato-administrativo-fcx-03",
+    "topicoId": "ato-administrativo",
+    "topico": "Ato administrativo",
+    "dificuldade": "extremo",
+    "enunciado": "A certidão de regularidade fiscal é ato administrativo enunciativo, de natureza meramente declaratória, limitando-se a atestar situação preexistente registrada nos assentamentos da Fazenda; por isso, verificada a existência de crédito tributário definitivamente constituído em nome do requerente, ainda que com exigibilidade suspensa em razão de depósito integral em dinheiro, é vedado à autoridade fiscal expedir certidão em favor do contribuinte.",
+    "gabarito": "E",
+    "justificativa": "A primeira oração é irretocável — a certidão é ato enunciativo, declaratório, que não cria, extingue nem modifica situação jurídica —, mas a conclusão não decorre dela: trata-se de erro de conexão lógica. O art. 206 do CTN determina que a certidão de que conste a existência de créditos não vencidos, em curso de cobrança executiva com penhora efetivada, ou cuja exigibilidade esteja suspensa, tem os mesmos efeitos da certidão negativa. É a chamada certidão positiva com efeitos de negativa. Como o depósito do montante integral é causa de suspensão da exigibilidade (art. 151, II, do CTN), a autoridade não apenas pode como deve expedir a certidão. A expressão que torna o item falso é 'é vedado à autoridade fiscal expedir certidão em favor do contribuinte'; a redação correta seria 'deve a autoridade expedir certidão positiva com efeitos de negativa'. Registre-se, ainda, que o depósito só produz o efeito suspensivo se for integral e em dinheiro, conforme entendimento sumulado do STJ.",
+    "fundamentacaoLegal": "CTN, arts. 151, II, 205 e 206; Súmula 112 do STJ; CF/88, art. 5º, XXXIV, 'b' (direito de certidão); doutrina consolidada sobre atos enunciativos."
+  },
+  {
+    "id": "ato-administrativo-fcx-04",
+    "topicoId": "ato-administrativo",
+    "topico": "Ato administrativo",
+    "dificuldade": "extremo",
+    "enunciado": "Conforme classificação adotada pelo STF, o parecer jurídico meramente obrigatório, mas não vinculante, não acarreta a responsabilização solidária do parecerista pelo ato administrativo que nele se apoie; já no parecer vinculante, o ato de opinar compartilha o poder de decidir, o que autoriza a responsabilização solidária, a qual, todavia, depende da demonstração de dolo ou erro grosseiro.",
+    "gabarito": "C",
+    "justificativa": "Item correto. O STF, ao apreciar mandado de segurança impetrado por advogado público responsabilizado pelo TCU, distinguiu três espécies de parecer: (i) facultativo, em que a autoridade não está obrigada a solicitá-lo nem a segui-lo; (ii) obrigatório, em que a lei impõe a consulta, mas o administrador pode decidir de modo diverso, desde que motivadamente; e (iii) vinculante, em que a lei condiciona a prática do ato à manifestação favorável do órgão consultivo. Somente nesta última hipótese há verdadeiro compartilhamento do poder decisório, ficando o parecerista sujeito à responsabilização solidária. A segunda ressalva do item também é exata e é o que o torna de nível extremo: mesmo no parecer vinculante, a responsabilização pessoal do agente por suas decisões ou opiniões técnicas pressupõe dolo ou erro grosseiro, por força do art. 28 da LINDB, incluído pela Lei nº 13.655/2018 — de modo que a divergência técnica razoável não gera responsabilidade.",
+    "fundamentacaoLegal": "STF, MS 24.631/DF (classificação dos pareceres e responsabilidade do parecerista); Decreto-Lei nº 4.657/1942 (LINDB), art. 28, incluído pela Lei nº 13.655/2018; Lei nº 9.784/1999, arts. 42 e 50, § 1º."
+  },
+  {
+    "id": "ato-administrativo-fcx-05",
+    "topicoId": "ato-administrativo",
+    "topico": "Ato administrativo",
+    "dificuldade": "extremo",
+    "enunciado": "Por integrar o mérito administrativo a definição de prioridades na aplicação de recursos orçamentários, é vedado ao Poder Judiciário impor à Administração obrigação de fazer consistente na execução de obras emergenciais em estabelecimento prisional, sob pena de violação da separação dos poderes, sendo-lhe oponível, ainda, a cláusula da reserva do possível.",
+    "gabarito": "E",
+    "justificativa": "O item inverte o resultado de julgamento do STF em repercussão geral. Ao apreciar o RE 592.581, a Corte firmou que é lícito ao Judiciário impor à Administração Pública obrigação de fazer consistente na promoção de medidas ou na execução de obras emergenciais em estabelecimentos prisionais, para dar efetividade ao postulado da dignidade da pessoa humana e assegurar aos detentos o respeito à integridade física e moral (art. 5º, XLIX, da CF), não sendo oponíveis a essa decisão nem o argumento da reserva do possível nem o princípio da separação dos poderes. As expressões que tornam o item falso são 'é vedado ao Poder Judiciário impor' e 'sendo-lhe oponível a cláusula da reserva do possível'. O fundamento da tese é relevante: quando a omissão administrativa compromete o núcleo essencial de direito fundamental, não há espaço de conveniência e oportunidade a preservar — o mérito administrativo pressupõe margem legítima de escolha, que inexiste diante de dever constitucional cogente.",
+    "fundamentacaoLegal": "STF, RE 592.581 (repercussão geral); CF/88, art. 5º, XLIX e XXXV, e art. 2º; Lei nº 9.784/1999, art. 2º, parágrafo único, VI."
+  },
+  {
+    "id": "ato-administrativo-fcx-06",
+    "topicoId": "ato-administrativo",
+    "topico": "Ato administrativo",
+    "dificuldade": "extremo",
+    "enunciado": "Segundo doutrina consolidada, os atos administrativos inexistentes — categoria reservada aos comportamentos que correspondam a condutas criminosas ofensivas a direitos fundamentais ligados à personalidade — não se equiparam aos atos nulos, pois não se convalidam pelo decurso do tempo e admitem o direito de resistência do particular; correlativamente, o servidor a quem se dirija ordem dessa natureza tem o dever de não cumpri-la.",
+    "gabarito": "C",
+    "justificativa": "Item correto. A doutrina que sistematiza a teoria das nulidades no direito administrativo separa atos irregulares (vícios de padronização, sem repercussão na validade), atos anuláveis (vícios sanáveis), atos nulos (vícios insanáveis) e atos inexistentes. Estes últimos correspondem a condutas materialmente criminosas e ofensivas a direitos fundamentais da personalidade — a ordem para torturar preso é o exemplo clássico. Seu regime é mais severo que o do ato nulo em três pontos: não são convalidáveis, não se estabilizam pelo decurso do tempo (não se lhes aplica prazo decadencial de anulação) e contra eles cabe resistência legítima do destinatário. A parte final do item é consectário necessário: o dever de obediência hierárquica é relativo, pois a legislação estatutária impõe o cumprimento das ordens superiores, exceto quando manifestamente ilegais, e o cumprimento de ordem manifestamente ilegal não exclui a responsabilidade do executor.",
+    "fundamentacaoLegal": "Lei nº 8.112/1990, art. 116, IV (parâmetro para regimes estatutários municipais); CF/88, art. 5º, III e XLIII; doutrina consolidada sobre a teoria das nulidades e os atos inexistentes (Celso Antônio Bandeira de Mello)."
+  },
+  {
+    "id": "ato-administrativo-fcx-07",
+    "topicoId": "ato-administrativo",
+    "topico": "Ato administrativo",
+    "dificuldade": "extremo",
+    "enunciado": "Motivo e móvel do ato administrativo não se confundem: o motivo é a situação objetiva que autoriza ou impõe a prática do ato, ao passo que o móvel é a intenção do agente que o pratica; nos atos vinculados, o móvel viciado invalida o ato, ao passo que, nos atos discricionários, a intenção do agente é juridicamente irrelevante para a aferição da validade.",
+    "gabarito": "E",
+    "justificativa": "A distinção conceitual da primeira parte está correta, mas a segunda parte inverte a regra e é o que torna o item falso. Na lição consolidada, é justamente nos atos discricionários que o móvel — a intenção real do agente — assume relevância jurídica, porque a lei confere ao administrador margem de escolha e essa liberdade só se legitima se exercida com a finalidade prevista na norma; intenção viciada nesses atos configura desvio de finalidade e os contamina. Nos atos vinculados, ao contrário, o conteúdo do ato está integralmente predeterminado pela lei, de modo que a má intenção do agente, embora possa gerar responsabilização pessoal, não altera o resultado juridicamente devido nem invalida o ato. A redação correta seria: 'nos atos vinculados o móvel é, em regra, irrelevante para a validade, ao passo que nos discricionários o móvel viciado acarreta a invalidade por desvio de finalidade'.",
+    "fundamentacaoLegal": "Lei nº 4.717/1965, art. 2º, alínea 'e', e parágrafo único, alínea 'e' (desvio de finalidade); doutrina consolidada sobre a distinção entre motivo e móvel (Celso Antônio Bandeira de Mello)."
+  },
+  {
+    "id": "ato-administrativo-fcx-08",
+    "topicoId": "ato-administrativo",
+    "topico": "Ato administrativo",
+    "dificuldade": "extremo",
+    "enunciado": "Nem todo ato da administração é ato administrativo, e nem todo ato administrativo provém de órgão da administração: a locação de imóvel particular celebrada pelo município, regida predominantemente pelo direito privado, é ato da administração sem ser ato administrativo em sentido estrito, ao passo que o ato praticado por concessionária de serviço público no exercício de prerrogativas que lhe foram delegadas submete-se ao regime jurídico-administrativo.",
+    "gabarito": "C",
+    "justificativa": "Item correto nas duas afirmações, e a formulação resiste à leitura capciosa porque emprega as ressalvas técnicas adequadas. A categoria 'atos da administração' é mais ampla e engloba os atos regidos predominantemente pelo direito privado (locação, compra e venda, emissão de cheque), os atos materiais ou fatos administrativos (a demolição efetivamente executada, a ministração de aula) e os atos políticos ou de governo. Nenhum deles é ato administrativo em sentido estrito, pois lhes falta a incidência do regime jurídico-administrativo em sua plenitude — o que não significa ausência total de publicização, já que princípios como impessoalidade e moralidade permanecem incidindo. De outro lado, o critério definidor do ato administrativo é material, e não orgânico: por isso, delegatários de serviço público, concessionárias e mesmo particulares em colaboração praticam atos administrativos quando atuam com as prerrogativas públicas que lhes foram transferidas, ficando sujeitos, inclusive, a mandado de segurança.",
+    "fundamentacaoLegal": "Lei nº 12.016/2009, art. 1º, § 1º (equiparação a autoridade dos representantes de pessoas jurídicas no exercício de atribuições do poder público); Lei nº 8.987/1995, art. 31; doutrina consolidada sobre a distinção entre atos da administração e atos administrativos (Maria Sylvia Zanella Di Pietro; José dos Santos Carvalho Filho)."
+  },
+  {
+    "id": "ato-administrativo-fcx-09",
+    "topicoId": "ato-administrativo",
+    "topico": "Ato administrativo",
+    "dificuldade": "extremo",
+    "enunciado": "Denomina-se efeito prodrômico, ou preliminar, o efeito atípico que se produz enquanto o ato ainda não completou seu ciclo de formação, consistente no dever de o órgão controlador emitir a manifestação que lhe cabe; distingue-se do efeito reflexo, que é aquele que atinge terceiro estranho à relação jurídica travada pelo ato.",
+    "gabarito": "C",
+    "justificativa": "Item correto. A doutrina classifica os efeitos do ato administrativo em típicos (os próprios, correspondentes ao seu conteúdo) e atípicos, subdividindo estes em prodrômicos (ou preliminares) e reflexos. O efeito prodrômico é característico dos atos que dependem de manifestação de outro órgão para se aperfeiçoar: enviado o ato ao órgão de controle, surge desde logo, para este, o dever-poder de se pronunciar — dever que existe antes mesmo de o ato produzir seus efeitos típicos. É o que ocorre com o ato de concessão inicial de aposentadoria remetido ao tribunal de contas para registro. Já o efeito reflexo alcança pessoa que não integra a relação jurídica formada pelo ato, como o locatário do imóvel desapropriado, atingido por ato dirigido ao proprietário. A precisão do item está em não confundir as duas categorias nem atribuir ao efeito prodrômico caráter típico.",
+    "fundamentacaoLegal": "CF/88, art. 71, III (registro dos atos de concessão inicial de aposentadoria, reforma e pensão, exemplo clássico de efeito prodrômico); doutrina consolidada sobre efeitos típicos e atípicos do ato administrativo (Celso Antônio Bandeira de Mello)."
+  },
+  {
+    "id": "ato-administrativo-fcx-10",
+    "topicoId": "ato-administrativo",
+    "topico": "Ato administrativo",
+    "dificuldade": "extremo",
+    "enunciado": "Situação hipotética: candidato a cargo de auditor fiscal municipal impetrou mandado de segurança sustentando que a nota atribuída à sua prova discursiva foi manifestamente desproporcional em face das respostas apresentadas e do espelho de correção divulgado. Nessa situação, conforme tese firmada pelo STF em repercussão geral, cabe ao Judiciário reavaliar os critérios de correção adotados pela banca examinadora sempre que demonstrada a desproporcionalidade da pontuação, por se tratar de controle de legalidade em sentido amplo.",
+    "gabarito": "E",
+    "justificativa": "O item extrapola o alcance real da tese, técnica clássica de erro em provas de alto nível. No RE 632.853, julgado sob repercussão geral, o STF assentou que não compete ao Poder Judiciário substituir a banca examinadora para reavaliar critérios de correção das provas e o conteúdo das questões formuladas, ressalvada tão somente a hipótese de ocorrência de ilegalidade ou de inconstitucionalidade — como a cobrança de conteúdo estranho ao previsto no edital ou a inobservância de regra editalícia expressa. A expressão que torna o item falso é 'sempre que demonstrada a desproporcionalidade da pontuação': a alegada desproporção da nota é exatamente o juízo técnico-valorativo que a tese subtrai do controle judicial. O controle judicial recai sobre a legalidade do procedimento e a vinculação ao instrumento convocatório, não sobre o acerto da correção.",
+    "fundamentacaoLegal": "STF, RE 632.853 (repercussão geral); CF/88, art. 5º, XXXV, e art. 37, I e II; Súmula Vinculante 44 do STF (exemplo de controle admitido, por exigir lei para o exame psicotécnico)."
+  }
+]

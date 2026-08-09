@@ -1,0 +1,102 @@
+[
+  {
+    "id": "improbidade-fcx-01",
+    "topicoId": "improbidade",
+    "topico": "Improbidade administrativa",
+    "dificuldade": "extremo",
+    "enunciado": "Servidor público municipal foi condenado, em 2018, por ato de improbidade administrativa culposo causador de prejuízo ao erário, tendo o acórdão condenatório transitado em julgado em março de 2019. Em 2022, já na fase de cumprimento de sentença, o condenado requereu a extinção das sanções ainda em execução, ao argumento de que a Lei nº 14.230/2021 suprimiu a modalidade culposa de improbidade. Nessa situação, o pedido deve ser acolhido, porquanto a norma sancionadora mais benéfica retroage também aos incidentes da execução, ainda que já formada a coisa julgada.",
+    "gabarito": "E",
+    "justificativa": "A expressão que torna o item falso é \"o pedido deve ser acolhido, porquanto a norma sancionadora mais benéfica retroage também aos incidentes da execução, ainda que já formada a coisa julgada\". No Tema 1.199 da repercussão geral (ARE 843989), o STF fixou expressamente que a revogação da modalidade culposa de improbidade pela Lei nº 14.230/2021 é IRRETROATIVA, em virtude do art. 5º, XXXVI, da CF, não tendo incidência sobre a eficácia da coisa julgada nem durante o processo de execução das penas e seus incidentes. A retroatividade admitida pelo STF é restrita a outra hipótese: a de atos culposos praticados na vigência do texto anterior cujo processo ainda não tenha condenação transitada em julgado, caso em que o juízo competente deverá analisar a eventual presença de dolo. A redação correta seria, portanto, a de que o pedido deve ser rejeitado, pois a superveniência da lei mais benéfica não desconstitui a coisa julgada nem alcança a execução das sanções já definitivamente impostas. Note-se que a lógica é distinta da do direito penal (art. 5º, XL, da CF, e art. 2º, parágrafo único, do Código Penal), justamente porque o STF privilegiou a coisa julgada em matéria de improbidade.",
+    "fundamentacaoLegal": "STF, ARE 843989/PR (Tema 1.199 da repercussão geral), teses 2 e 3; CF/88, art. 5º, XXXVI; Lei nº 8.429/1992, art. 10, caput, e art. 1º, §§ 1º e 2º, com redação dada pela Lei nº 14.230/2021."
+  },
+  {
+    "id": "improbidade-fcx-02",
+    "topicoId": "improbidade",
+    "topico": "Improbidade administrativa",
+    "dificuldade": "extremo",
+    "enunciado": "A decretação de indisponibilidade de bens na ação de improbidade administrativa deixou de contentar-se com o perigo na demora presumido, exigindo-se a demonstração, no caso concreto, de perigo de dano irreparável ou de risco ao resultado útil do processo, sendo ainda vedado o bloqueio do bem de família do réu, salvo se comprovado que o imóvel constitui fruto de vantagem patrimonial indevida.",
+    "gabarito": "C",
+    "justificativa": "O item resiste à leitura mais capciosa. Antes da Lei nº 14.230/2021, prevalecia no STJ a orientação de que o periculum in mora era presumido (implícito) no pedido de indisponibilidade fundado na Lei de Improbidade, bastando a demonstração de fortes indícios da prática do ato (fumus boni iuris). O art. 16 da Lei nº 8.429/1992, na redação atual, inverteu esse quadro: a medida só será deferida se houver demonstração, no caso concreto, de perigo de dano irreparável ou de risco ao resultado útil do processo, somada ao convencimento do juiz quanto à probabilidade da ocorrência dos atos descritos na petição inicial. O mesmo art. 16 veda expressamente a indisponibilidade do bem de família do réu, ressalvando apenas a hipótese de o imóvel ser fruto de vantagem patrimonial indevida (enriquecimento ilícito do art. 9º), e estabelece ordem de preferência dos bens a serem constritos, deixando o bloqueio de contas bancárias como medida residual, para preservar a subsistência do acusado e a atividade empresarial. Há aqui evidente diálogo com a Lei nº 8.009/1990, que institui a impenhorabilidade do bem de família.",
+    "fundamentacaoLegal": "Lei nº 8.429/1992, art. 16, caput e §§ 3º e 14, com redação dada pela Lei nº 14.230/2021; Lei nº 8.009/1990, art. 1º."
+  },
+  {
+    "id": "improbidade-fcx-03",
+    "topicoId": "improbidade",
+    "topico": "Improbidade administrativa",
+    "dificuldade": "extremo",
+    "enunciado": "Após a Lei nº 14.230/2021, o rol de condutas que atentam contra os princípios da administração pública passou a ser taxativo, e o enquadramento de conduta funcional nessa categoria exige lesividade relevante ao bem jurídico tutelado, embora independa do reconhecimento da produção de danos ao erário e de enriquecimento ilícito do agente.",
+    "gabarito": "C",
+    "justificativa": "O item está integralmente correto e não se resolve pela mera leitura do caput. A Lei nº 14.230/2021 promoveu três mudanças cumulativas no art. 11 da Lei nº 8.429/1992: (i) converteu o rol, antes exemplificativo (a redação anterior usava \"e notadamente\"), em rol taxativo, tendo inclusive revogado incisos do texto originário; (ii) passou a exigir ação ou omissão DOLOSA que viole os deveres de honestidade, imparcialidade e legalidade; e (iii) inseriu no § 4º a exigência de lesividade relevante ao bem jurídico tutelado como pressuposto de sancionamento, mantendo, porém, a desnecessidade de dano ao erário ou de enriquecimento ilícito — que são elementos dos arts. 10 e 9º, respectivamente. A aparente contradição entre \"exigir lesividade relevante\" e \"dispensar dano ao erário\" é exatamente o ponto de armadilha: lesividade relevante refere-se ao bem jurídico probidade, não à lesão patrimonial. Soma-se a exigência do § 1º do mesmo artigo, de comprovação, no caso concreto, do fim de obter proveito ou benefício indevido para si ou para outrem.",
+    "fundamentacaoLegal": "Lei nº 8.429/1992, art. 11, caput e §§ 1º, 3º e 4º, com redação dada pela Lei nº 14.230/2021."
+  },
+  {
+    "id": "improbidade-fcx-04",
+    "topicoId": "improbidade",
+    "topico": "Improbidade administrativa",
+    "dificuldade": "extremo",
+    "enunciado": "A instauração de inquérito civil destinado à apuração de ato de improbidade administrativa interrompe o prazo prescricional de oito anos, o qual recomeça a correr por inteiro após a conclusão da fase de instrução.",
+    "gabarito": "E",
+    "justificativa": "Duas expressões tornam o item falso: \"interrompe\" e \"recomeça a correr por inteiro\". A instauração de inquérito civil ou de processo administrativo de apuração SUSPENDE o curso do prazo prescricional por, no máximo, 180 dias corridos, voltando o prazo a fluir após a conclusão da fase de instrução ou após o decurso desses 180 dias, ainda que não concluída a instrução. Suspensão não se confunde com interrupção: na suspensão o prazo já decorrido é aproveitado; na interrupção, ele é desprezado e recomeça. E, mesmo nas hipóteses de verdadeira interrupção — ajuizamento da ação, publicação da sentença condenatória, publicação de acórdão de tribunal de segundo grau, do STJ e do STF que confirmem a condenação ou reformem a improcedência —, o prazo não recomeça por inteiro: recomeça pela METADE, o que dá suporte à prescrição intercorrente de quatro anos. A redação correta seria: a instauração de inquérito civil suspende o prazo prescricional por, no máximo, 180 dias corridos.",
+    "fundamentacaoLegal": "Lei nº 8.429/1992, art. 23, caput e §§ 1º, 4º, 5º e 8º, com redação dada pela Lei nº 14.230/2021."
+  },
+  {
+    "id": "improbidade-fcx-05",
+    "topicoId": "improbidade",
+    "topico": "Improbidade administrativa",
+    "dificuldade": "extremo",
+    "enunciado": "Compete à autoridade administrativa aplicar a servidor público a pena de demissão em razão da prática de improbidade administrativa, independentemente de prévia condenação, por autoridade judiciária, à perda da função pública.",
+    "gabarito": "C",
+    "justificativa": "O item reproduz o entendimento sumulado do STJ (Súmula 651). A chave está em não confundir dois planos: a perda da função pública prevista no art. 12 da Lei nº 8.429/1992 é SANÇÃO JUDICIAL, aplicável na ação de improbidade; a demissão é SANÇÃO DISCIPLINAR, aplicável em processo administrativo disciplinar pela autoridade competente, com fundamento no estatuto funcional (no paradigma federal, art. 132, IV, da Lei nº 8.112/1990). Como as instâncias administrativa, civil e penal são independentes, a Administração não precisa aguardar — nem obter — condenação judicial por improbidade para demitir o servidor, desde que assegurados o contraditório e a ampla defesa no PAD. O que a jurisprudência veda é a via inversa: o juízo cível da improbidade não pode aplicar sanções disciplinares, e a autoridade administrativa não pode aplicar as sanções tipicamente judiciais da Lei nº 8.429/1992, como a suspensão dos direitos políticos e a multa civil.",
+    "fundamentacaoLegal": "Súmula 651 do STJ; Lei nº 8.429/1992, art. 12, caput; Lei nº 8.112/1990, arts. 125, 126 e 132, IV."
+  },
+  {
+    "id": "improbidade-fcx-06",
+    "topicoId": "improbidade",
+    "topico": "Improbidade administrativa",
+    "dificuldade": "extremo",
+    "enunciado": "Na ação por improbidade administrativa, a revelia do réu acarreta a presunção de veracidade dos fatos alegados pelo autor, e a sentença de improcedência sujeita-se ao reexame necessário, em razão da indisponibilidade do interesse público em jogo.",
+    "gabarito": "E",
+    "justificativa": "Ambas as afirmações são expressamente afastadas pela lei, e o erro está justamente em transportar para a improbidade regras processuais civis comuns. O art. 17, § 19, da Lei nº 8.429/1992 dispõe que NÃO se aplicam à ação de improbidade: a presunção de veracidade dos fatos alegados pelo autor em caso de revelia; a imposição do ônus da prova ao réu na forma dos §§ 1º e 2º do art. 373 do CPC (distribuição dinâmica); o ajuizamento de mais de uma ação de improbidade pelo mesmo fato; e o reexame obrigatório da sentença de improcedência ou de extinção sem resolução de mérito. A razão de ser dessas exclusões é a natureza sancionatória da ação — reconhecida no art. 17-D e no art. 1º, § 4º, que manda aplicar os princípios constitucionais do direito administrativo sancionador —, incompatível com presunções em desfavor do acusado e com a inversão do ônus probatório, que incumbe integralmente ao autor.",
+    "fundamentacaoLegal": "Lei nº 8.429/1992, art. 17, § 19, I a IV, art. 17-D e art. 1º, § 4º, com redação dada pela Lei nº 14.230/2021; CPC, art. 373, §§ 1º e 2º."
+  },
+  {
+    "id": "improbidade-fcx-07",
+    "topicoId": "improbidade",
+    "topico": "Improbidade administrativa",
+    "dificuldade": "extremo",
+    "enunciado": "As sanções da Lei de Improbidade Administrativa não se aplicam à pessoa jurídica caso o ato de improbidade seja também sancionado como ato lesivo à administração pública nos termos da Lei nº 12.846/2013, devendo, ademais, a responsabilização de pessoas jurídicas com base em ambos os diplomas observar o princípio constitucional do non bis in idem.",
+    "gabarito": "C",
+    "justificativa": "O item exige o cruzamento da Lei de Improbidade com a Lei Anticorrupção. A Lei nº 14.230/2021 inseriu no art. 3º da Lei nº 8.429/1992 regra de subsidiariedade: as sanções da Lei de Improbidade não se aplicam à pessoa jurídica quando o mesmo ato já for sancionado como ato lesivo à administração pública na forma da Lei nº 12.846/2013 — cuja responsabilização, note-se, é objetiva, ao passo que a improbidade exige dolo. No mesmo sentido, o art. 12 da Lei nº 8.429/1992 determina que as sanções aplicadas a pessoas jurídicas com base nos dois diplomas observem o non bis in idem. Cuidado com a leitura apressada: a regra não isenta a pessoa física — o particular que induza ou concorra dolosamente para o ato continua sujeito às sanções da Lei nº 8.429/1992 (art. 3º, caput) —, nem impede o ressarcimento integral do dano.",
+    "fundamentacaoLegal": "Lei nº 8.429/1992, art. 3º, caput e §§ 1º e 2º, e art. 12, § 7º, com redação dada pela Lei nº 14.230/2021; Lei nº 12.846/2013, arts. 1º, 2º e 6º."
+  },
+  {
+    "id": "improbidade-fcx-08",
+    "topicoId": "improbidade",
+    "topico": "Improbidade administrativa",
+    "dificuldade": "extremo",
+    "enunciado": "A inobservância de formalidades legais ou regulamentares na condução de procedimento administrativo, ainda que não implique perda patrimonial efetiva, impõe ao agente o dever de ressarcir o erário, como forma de recompor a ordem jurídica violada.",
+    "gabarito": "E",
+    "justificativa": "A expressão que torna o item falso é \"ainda que não implique perda patrimonial efetiva, impõe ao agente o dever de ressarcir o erário\". O parágrafo único do art. 10 da Lei nº 8.429/1992 é categórico em sentido oposto: nos casos em que a inobservância de formalidades legais ou regulamentares não implicar perda patrimonial efetiva, NÃO ocorrerá imposição de ressarcimento, vedado o enriquecimento sem causa das entidades referidas no art. 1º. A redação correta seria: a inobservância de formalidades que não implique perda patrimonial efetiva não enseja imposição de ressarcimento. O item também subverte a sistemática do art. 21, I, segundo o qual as sanções independem da efetiva ocorrência de dano ao patrimônio público, SALVO quanto à pena de ressarcimento — que, por ser reparatória e não punitiva, pressupõe dano efetivo e comprovado, apurado com liquidez, e não presumido.",
+    "fundamentacaoLegal": "Lei nº 8.429/1992, art. 10, caput e parágrafo único, e art. 21, I, com redação dada pela Lei nº 14.230/2021."
+  },
+  {
+    "id": "improbidade-fcx-09",
+    "topicoId": "improbidade",
+    "topico": "Improbidade administrativa",
+    "dificuldade": "extremo",
+    "enunciado": "Segundo o Supremo Tribunal Federal, os agentes políticos submetem-se a duplo regime sancionatório, respondendo tanto pelos atos de improbidade administrativa quanto por crime de responsabilidade, excetuado desse regime concorrente apenas o Presidente da República.",
+    "gabarito": "C",
+    "justificativa": "O item reflete com precisão a orientação firmada pelo Plenário do STF no julgamento da Pet 3240 AgR/DF (2018): os agentes políticos, com exceção do Presidente da República, encontram-se sujeitos a duplo regime sancionatório, submetendo-se tanto à responsabilização político-administrativa por crime de responsabilidade quanto à responsabilização por atos de improbidade, não havendo bis in idem, dada a diversidade de natureza jurídica dos regimes. A exceção presidencial decorre do regime especial dos arts. 85 e 86 da CF, que reserva ao Senado Federal o julgamento por crime de responsabilidade. Duas armadilhas devem ser evitadas: (i) a de estender a exceção a ministros de Estado, governadores e prefeitos, o que é incorreto; e (ii) a de confundir a questão do REGIME aplicável com a do FORO — a ação de improbidade tramita, em regra, no primeiro grau, não havendo foro por prerrogativa de função, ressalvada a competência originária do STF para julgar ação de improbidade contra seus próprios membros.",
+    "fundamentacaoLegal": "STF, Pet 3240 AgR/DF, Pleno; CF/88, arts. 37, § 4º, 85 e 86; Lei nº 8.429/1992, art. 2º; Lei nº 1.079/1950."
+  },
+  {
+    "id": "improbidade-fcx-10",
+    "topicoId": "improbidade",
+    "topico": "Improbidade administrativa",
+    "dificuldade": "extremo",
+    "enunciado": "O acordo de não persecução civil é incabível depois de prolatada sentença condenatória na ação de improbidade administrativa, uma vez que a autocomposição pressupõe a inexistência de pronunciamento judicial de mérito sobre o ato ímprobo.",
+    "gabarito": "E",
+    "justificativa": "A expressão que torna o item falso é \"incabível depois de prolatada sentença condenatória\". O art. 17-B da Lei nº 8.429/1992 admite a celebração do acordo de não persecução civil no curso da investigação de apuração do ilícito, no curso da ação de improbidade e, inclusive, no momento da EXECUÇÃO da sentença condenatória, aplicando-se também às ações em curso, ainda que em fase recursal ou de cumprimento de sentença. A redação correta seria: o acordo é cabível em qualquer dessas fases. Cabe recordar os requisitos cumulativos: integral ressarcimento do dano e reversão à pessoa jurídica lesada da vantagem indevida obtida; oitiva do ente federativo lesado; e homologação, além de manifestação do Tribunal de Contas competente quanto ao valor do dano, no prazo previsto em lei. Registre-se, ainda, que o STF, ao julgar as ADIs 7042 e 7043, restabeleceu a legitimidade concorrente e disjuntiva da pessoa jurídica interessada tanto para a ação quanto para os acordos, afastando a exclusividade do Ministério Público. O descumprimento do acordo impede a celebração de novo ajuste pelo prazo de cinco anos.",
+    "fundamentacaoLegal": "Lei nº 8.429/1992, art. 17-B, caput e §§ 1º, 3º, 4º, 6º e 7º, com redação dada pela Lei nº 14.230/2021; STF, ADI 7042 e ADI 7043."
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "id": "licitacoes-fcx-01",
+    "topicoId": "licitacoes",
+    "topico": "Licitações públicas",
+    "dificuldade": "extremo",
+    "enunciado": "Determinado município publicou, em novembro de 2023, edital de concorrência no qual indicou expressamente a opção pela Lei nº 8.666/1993, ainda em vigor naquela data. O contrato dela decorrente foi assinado em fevereiro de 2024, com vigência até 2027. Nessa situação, por já estar revogado o diploma anterior quando da assinatura, o contrato submete-se integralmente ao regime da Lei nº 14.133/2021, inclusive quanto às hipóteses de alteração e ao regime sancionatório.",
+    "gabarito": "E",
+    "justificativa": "A expressão que torna o item falso é \"por já estar revogado o diploma anterior quando da assinatura, o contrato submete-se integralmente ao regime da Lei nº 14.133/2021\". A regra de transição da Lei nº 14.133/2021 é clara: durante o período de convivência dos regimes, a Administração podia optar por licitar ou contratar diretamente segundo a lei nova ou segundo a legislação anterior, devendo a opção ser indicada expressamente no edital ou no instrumento de contratação direta, VEDADA a aplicação combinada dos diplomas; e, feita a opção pelo regime antigo, o contrato respectivo será regido pelas normas revogadas DURANTE TODA A SUA VIGÊNCIA. A redação correta seria: o contrato permanece regido pela Lei nº 8.666/1993 até o seu término, ainda que executado após a revogação desse diploma. O que define o regime aplicável é a data e o conteúdo do edital, não a data da assinatura do contrato — aplicação do tempus regit actum ao ato de deflagração do certame. A vedação à aplicação combinada impede, ademais, o chamado regime híbrido, em que a Administração escolheria as normas mais convenientes de cada lei.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 191, caput e parágrafo único, e art. 193, II."
+  },
+  {
+    "id": "licitacoes-fcx-02",
+    "topicoId": "licitacoes",
+    "topico": "Licitações públicas",
+    "dificuldade": "extremo",
+    "enunciado": "O tratamento diferenciado e simplificado conferido às microempresas e às empresas de pequeno porte, previsto na Lei Complementar nº 123/2006, não se aplica, nas licitações regidas pela Lei nº 14.133/2021, ao item cujo valor estimado supere a receita bruta máxima admitida para fins de enquadramento como empresa de pequeno porte.",
+    "gabarito": "C",
+    "justificativa": "O item exige o cruzamento da Nova Lei de Licitações com a Lei Complementar nº 123/2006. A Lei nº 14.133/2021 determina, de modo expresso, a aplicação às suas licitações e contratos das disposições dos arts. 42 a 49 da LC nº 123/2006 (comprovação tardia da regularidade fiscal e trabalhista, empate ficto, cota reservada, subcontratação e licitação exclusiva). Contudo, o próprio dispositivo estabelece limites: os benefícios não incidem quando o valor estimado do item, nas compras e serviços em geral, ou o valor estimado da licitação, nas obras e serviços de engenharia, ultrapassar a receita bruta máxima de enquadramento como EPP — pois seria contraditório assegurar tratamento favorecido em contratação que, por si só, extrapola o porte da beneficiária. Complementarmente, a lei limita a fruição dos benefícios às ME e EPP que, no ano-calendário da licitação, ainda não tenham celebrado contratos com a Administração cujos valores somados extrapolem aquele mesmo teto, exigindo-se declaração do licitante.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 4º, caput e §§ 1º e 2º; Lei Complementar nº 123/2006, arts. 42 a 49."
+  },
+  {
+    "id": "licitacoes-fcx-03",
+    "topicoId": "licitacoes",
+    "topico": "Licitações públicas",
+    "dificuldade": "extremo",
+    "enunciado": "Em caso de empate entre duas ou mais propostas, a Lei nº 14.133/2021 estabelece como primeiro critério de desempate o desenvolvimento, pelo licitante, de programa de integridade, seguido da avaliação do desempenho contratual prévio e, somente em último lugar, da disputa final entre os licitantes empatados.",
+    "gabarito": "E",
+    "justificativa": "O erro está na inversão da ordem legal dos critérios. A Lei nº 14.133/2021 fixa a seguinte sequência obrigatória de desempate: primeiro, a disputa final, em que os licitantes empatados podem apresentar nova proposta em ato contínuo à classificação; segundo, a avaliação do desempenho contratual prévio dos licitantes; terceiro, o desenvolvimento de ações de equidade entre homens e mulheres no ambiente de trabalho; e, por último, o desenvolvimento de programa de integridade. A redação correta, portanto, coloca a disputa final em primeiro lugar e o programa de integridade em último. Persistindo o empate, aplica-se ainda a ordem sucessiva de preferência a bens e serviços produzidos por empresas estabelecidas no território do ente licitante, por empresas brasileiras, por empresas que invistam em pesquisa e desenvolvimento de tecnologia no País e por empresas que comprovem a prática de mitigação nos termos da legislação sobre mudança do clima. Registre-se que, antes de tudo isso, incide o empate ficto em favor de microempresas e empresas de pequeno porte.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 60, caput, I a IV, e § 1º, I a IV; Lei Complementar nº 123/2006, arts. 44 e 45."
+  },
+  {
+    "id": "licitacoes-fcx-04",
+    "topicoId": "licitacoes",
+    "topico": "Licitações públicas",
+    "dificuldade": "extremo",
+    "enunciado": "A aquisição ou a locação de imóvel cujas características de instalações e de localização tornem necessária sua escolha constitui, na Lei nº 14.133/2021, hipótese de inexigibilidade de licitação, ao passo que, sob a Lei nº 8.666/1993, a mesma situação era tratada como dispensa.",
+    "gabarito": "C",
+    "justificativa": "O item cobra a distinção fina entre inexigibilidade e dispensa somada a uma alteração de regime pouco percebida. Na Lei nº 8.666/1993, a compra ou locação de imóvel destinado ao atendimento das finalidades precípuas da Administração, cujas necessidades de instalação e localização condicionassem a escolha, figurava entre as hipóteses de licitação DISPENSÁVEL, exigido preço compatível com o valor de mercado segundo avaliação prévia. A Lei nº 14.133/2021 deslocou a hipótese para o rol da INEXIGIBILIDADE, ao lado da contratação de fornecedor exclusivo, do profissional do setor artístico consagrado pela crítica especializada ou pela opinião pública, dos serviços técnicos especializados de natureza predominantemente intelectual com notória especialização e dos objetos contratáveis por credenciamento. A mudança tem base lógica: quando a singularidade do imóvel elimina alternativas equivalentes, não há competição possível, e a inviabilidade de competição — e não a mera conveniência — é o traço distintivo da inexigibilidade. Permanece exigível, contudo, a avaliação prévia do bem e a justificativa do preço.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 74, caput, V, e art. 72, VII; Lei nº 8.666/1993, art. 24, X, e art. 25."
+  },
+  {
+    "id": "licitacoes-fcx-05",
+    "topicoId": "licitacoes",
+    "topico": "Licitações públicas",
+    "dificuldade": "extremo",
+    "enunciado": "Na estrutura de linhas de defesa das contratações públicas prevista na Lei nº 14.133/2021, a terceira linha de defesa é integrada pelas unidades de assessoramento jurídico e de controle interno do próprio órgão ou entidade, cabendo ao tribunal de contas compor a segunda linha.",
+    "gabarito": "E",
+    "justificativa": "O item troca a composição das linhas. Segundo a Lei nº 14.133/2021, as contratações submetem-se a três linhas de defesa: a PRIMEIRA, integrada por servidores e empregados públicos, agentes de licitação e autoridades que atuam na estrutura de governança do órgão ou entidade; a SEGUNDA, integrada pelas unidades de assessoramento jurídico e de controle interno do próprio órgão ou entidade; e a TERCEIRA, integrada pelo órgão central de controle interno da Administração e pelo tribunal de contas. A redação correta inverte, portanto, os termos do item: assessoria jurídica e controle interno próprio compõem a segunda linha; tribunal de contas e órgão central de controle interno, a terceira. A lógica do modelo é a distância crescente em relação à execução: quem pratica o ato, quem o assessora e supervisiona internamente e, por fim, quem o controla de fora. O sistema soma-se ao dever de gestão de riscos e controle preventivo e à subordinação ao controle social.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 169, caput e I a III, e art. 11, parágrafo único."
+  },
+  {
+    "id": "licitacoes-fcx-06",
+    "topicoId": "licitacoes",
+    "topico": "Licitações públicas",
+    "dificuldade": "extremo",
+    "enunciado": "Na Lei nº 14.133/2021, o recurso administrativo tem efeito suspensivo do ato ou da decisão recorrida até que sobrevenha decisão final da autoridade competente, e, na hipótese de recurso contra o julgamento das propostas ou contra o ato de habilitação ou inabilitação de licitante, a intenção de recorrer deve ser manifestada imediatamente, sob pena de preclusão.",
+    "gabarito": "C",
+    "justificativa": "As duas afirmações são corretas e reproduzem regime distinto do da lei anterior, em que o efeito suspensivo era automático apenas em determinadas hipóteses e podia ser atribuído pela autoridade nas demais. Na Lei nº 14.133/2021, o recurso e o pedido de reconsideração têm efeito suspensivo do ato ou da decisão recorrida até a decisão final da autoridade competente, sendo esta auxiliada pelo órgão de assessoramento jurídico. Quanto à preclusão, a lei importou do pregão a exigência de manifestação imediata da intenção de recorrer contra o julgamento das propostas e contra a habilitação ou inabilitação, iniciando-se o prazo de três dias úteis para as razões a partir da intimação ou da lavratura da ata correspondente, com apreciação em fase única — solução coerente com a concentração de fases do novo procedimento. Não confundir com a impugnação ao edital e o pedido de esclarecimento, que qualquer pessoa pode formular até três dias úteis antes da data de abertura do certame.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 165, caput, I e II, e § 1º, art. 168 e art. 164."
+  },
+  {
+    "id": "licitacoes-fcx-07",
+    "topicoId": "licitacoes",
+    "topico": "Licitações públicas",
+    "dificuldade": "extremo",
+    "enunciado": "Encerradas as fases de julgamento e de habilitação e exauridos os recursos administrativos, a autoridade superior poderá revogar a licitação por razões de conveniência e oportunidade preexistentes à abertura do certame, sendo dispensada a manifestação prévia dos interessados por se tratar de ato discricionário insuscetível de gerar direito adquirido ao licitante vencedor.",
+    "gabarito": "E",
+    "justificativa": "Há dois erros. Primeiro, \"razões de conveniência e oportunidade preexistentes à abertura do certame\": a Lei nº 14.133/2021 exige que o motivo determinante da revogação seja resultante de FATO SUPERVENIENTE devidamente comprovado — motivo preexistente e conhecido não autoriza revogação, sob pena de ofensa à boa-fé e à vinculação ao instrumento convocatório. Segundo, \"dispensada a manifestação prévia dos interessados\": a lei assegura expressamente a prévia manifestação dos interessados tanto na anulação quanto na revogação, em consonância com o devido processo legal e com a garantia do contraditório em processo administrativo do qual possa resultar gravame. A redação correta seria: a revogação exige fato superveniente comprovado e prévia manifestação dos interessados. É verdadeira, apenas, a premissa de que o licitante vencedor não tem direito adquirido à contratação, mas dela não decorre a conclusão afirmada. Ao pronunciar nulidade, a autoridade deve ainda indicar expressamente os atos com vícios insanáveis e determinar a apuração de responsabilidade.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 71, caput, II e III, e §§ 1º, 2º e 3º; Súmula 473 do STF; Lei nº 9.784/1999, art. 2º, parágrafo único, X."
+  },
+  {
+    "id": "licitacoes-fcx-08",
+    "topicoId": "licitacoes",
+    "topico": "Licitações públicas",
+    "dificuldade": "extremo",
+    "enunciado": "Não poderá disputar licitação nem participar da execução de contrato a pessoa física ou jurídica que, nos cinco anos anteriores à divulgação do edital, tenha sido condenada judicialmente, com trânsito em julgado, por exploração de trabalho infantil, por submissão de trabalhadores a condições análogas às de escravo ou por contratação de adolescentes nos casos vedados pela legislação trabalhista, aplicando-se o impedimento decorrente de sanção também ao licitante que atue em substituição a outra pessoa com o intuito de burlar a efetividade da penalidade.",
+    "gabarito": "C",
+    "justificativa": "As duas partes do item correspondem ao art. 14 da Lei nº 14.133/2021 e exigem conhecimento de hipóteses periféricas de impedimento. A primeira é inovação da nova lei em relação à Lei nº 8.666/1993 e tem natureza de sanção reflexa de ordem social: a condenação transitada em julgado, nos cinco anos anteriores à divulgação do edital, por exploração de trabalho infantil, trabalho em condições análogas às de escravo ou contratação irregular de adolescentes impede a participação. A segunda combate a interposta pessoa: o impedimento decorrente de sanção estende-se a quem atue em substituição do apenado para burlar a efetividade da penalidade, inclusive à sua controladora, controlada ou coligada, desde que devidamente comprovado o ilícito ou a utilização fraudulenta da personalidade jurídica. Trata-se de mecanismo distinto — e anterior — da desconsideração da personalidade jurídica prevista para a fase sancionatória contratual, e sua aplicação exige contraditório.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 14, caput, III e VI, e § 1º; Lei nº 14.133/2021, art. 160."
+  },
+  {
+    "id": "licitacoes-fcx-09",
+    "topicoId": "licitacoes",
+    "topico": "Licitações públicas",
+    "dificuldade": "extremo",
+    "enunciado": "O agente de contratação deve ser designado entre servidores efetivos ou empregados públicos dos quadros permanentes da Administração e responde solidariamente com os integrantes da equipe de apoio pelos atos praticados na condução do certame, ainda que induzido a erro pela atuação desses auxiliares.",
+    "gabarito": "E",
+    "justificativa": "A expressão que torna o item falso é \"responde solidariamente com os integrantes da equipe de apoio [...] ainda que induzido a erro\". A Lei nº 14.133/2021 dispõe exatamente o contrário: o agente de contratação será auxiliado por equipe de apoio e responderá INDIVIDUALMENTE pelos atos que praticar, SALVO quando induzido a erro pela atuação da equipe. A redação correta seria: responde individualmente, ficando excluída sua responsabilidade quando induzido a erro pela equipe de apoio. A primeira parte do item, essa sim, está correta: a designação recai sobre servidor efetivo ou empregado público dos quadros permanentes. Vale ainda memorizar as variações: em licitação na modalidade pregão, o agente responsável pela condução do certame é denominado pregoeiro; em contratações que envolvam bens ou serviços especiais, o agente de contratação pode ser substituído por comissão de contratação formada por, no mínimo, três membros; e, quando o objeto não for rotineiramente contratado, admite-se a contratação temporária de profissional ou empresa especializada para assessorar os agentes públicos.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 8º, caput e §§ 1º, 2º, 4º e 5º, c/c art. 7º."
+  },
+  {
+    "id": "licitacoes-fcx-10",
+    "topicoId": "licitacoes",
+    "topico": "Licitações públicas",
+    "dificuldade": "extremo",
+    "enunciado": "A realização, pela iniciativa privada, de estudos e projetos em decorrência de procedimento de manifestação de interesse não atribui ao realizador direito de preferência no processo licitatório, não obriga o poder público a licitar e não implica, por si só, direito ao ressarcimento dos valores envolvidos em sua elaboração, sendo tais estudos remunerados somente pelo vencedor da licitação.",
+    "gabarito": "C",
+    "justificativa": "O item cobra um dos procedimentos auxiliares das licitações — o procedimento de manifestação de interesse (PMI) —, ao lado do credenciamento, da pré-qualificação, do sistema de registro de preços e do registro cadastral. A Lei nº 14.133/2021 é expressa quanto aos quatro efeitos negativos enunciados: ausência de direito de preferência, ausência de obrigação de licitar, ausência, por si só, de direito ao ressarcimento e remuneração exclusivamente pelo vencedor do certame, vedada, em qualquer hipótese, a cobrança de valores do poder público. A finalidade da disciplina é aproveitar a expertise privada na modelagem de soluções sem comprometer a isonomia e sem transferir ao erário o risco do desenvolvimento dos estudos: quem os elabora assume o risco de não ser o contratado, e o valor correspondente é internalizado no preço da futura contratação. Aparente vantagem competitiva do realizador não se converte em preferência jurídica.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 81, caput e § 4º, I a IV, c/c art. 78, I a V."
+  }
+]

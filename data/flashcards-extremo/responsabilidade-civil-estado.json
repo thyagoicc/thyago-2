@@ -1,0 +1,102 @@
+[
+  {
+    "id": "responsabilidade-civil-estado-fcx-01",
+    "topicoId": "responsabilidade-civil-estado",
+    "topico": "Responsabilidade civil do Estado",
+    "dificuldade": "extremo",
+    "enunciado": "Município celebrou contrato de empreitada para a construção de galeria de águas pluviais. Durante a execução, a contratada, ao escavar sem o escoramento previsto no projeto executivo, provocou o desabamento parcial de imóvel lindeiro. Nessa situação, por se tratar de dano decorrente de obra pública, o município responde objetivamente e em regime de solidariedade com a empreiteira perante o proprietário lesado.",
+    "gabarito": "E",
+    "justificativa": "A expressão que torna o item falso é \"responde objetivamente e em regime de solidariedade\". A doutrina distingue duas situações: (i) o dano decorrente do só fato da obra, isto é, da própria existência ou natureza do empreendimento, ainda que executado sem qualquer falha técnica, caso em que a responsabilidade é do ente público e é objetiva, fundada no art. 37, § 6º, da CF; e (ii) o dano decorrente da má execução da obra pelo particular contratado, caso em que a responsabilidade é da empreiteira e se rege pelo direito comum, sendo, portanto, subjetiva (arts. 186 e 927 do Código Civil), respondendo o ente contratante apenas de forma SUBSIDIÁRIA, e não solidária, na hipótese de exaurimento do patrimônio da executora. Como o enunciado atribui o dano à omissão do escoramento previsto no projeto — vale dizer, a defeito de execução —, a redação correta seria: o município responde subsidiariamente, cabendo à empreiteira a responsabilidade subjetiva primária. O dado juridicamente decisivo, que o candidato desatento ignora, é a menção à inobservância do escoramento projetado.",
+    "fundamentacaoLegal": "CF/88, art. 37, § 6º; Código Civil, arts. 186 e 927; doutrina de José dos Santos Carvalho Filho e Maria Sylvia Zanella Di Pietro sobre danos decorrentes de obra pública."
+  },
+  {
+    "id": "responsabilidade-civil-estado-fcx-02",
+    "topicoId": "responsabilidade-civil-estado",
+    "topico": "Responsabilidade civil do Estado",
+    "dificuldade": "extremo",
+    "enunciado": "É prescritível a pretensão de reparação de danos ao erário fundada em ilícito civil, ainda que o causador do dano seja agente público; a imprescritibilidade prevista na parte final do § 5º do art. 37 da Constituição Federal restringe-se ao ressarcimento decorrente de ato doloso tipificado na Lei de Improbidade Administrativa.",
+    "gabarito": "C",
+    "justificativa": "O item resiste à leitura mais capciosa porque delimita com exatidão o alcance de duas teses distintas do STF. No RE 669.069/MG (Tema 666), o Supremo fixou que é prescritível a ação de reparação de danos à Fazenda Pública decorrente de ilícito civil, afastando a leitura ampliativa do art. 37, § 5º, da CF, que faria imprescritível toda e qualquer pretensão ressarcitória. Já no RE 852.475/SP (Tema 897), fixou-se que são imprescritíveis as ações de ressarcimento ao erário fundadas na prática de ato DOLOSO tipificado na Lei de Improbidade Administrativa — o que exclui os atos culposos e, com maior razão, os ilícitos civis comuns. A qualidade de agente público do causador do dano é irrelevante para o enquadramento: o critério é a natureza do ilícito, e não a do sujeito.",
+    "fundamentacaoLegal": "CF/88, art. 37, § 5º; STF, RE 669.069/MG, Tema 666 da repercussão geral; STF, RE 852.475/SP, Tema 897 da repercussão geral."
+  },
+  {
+    "id": "responsabilidade-civil-estado-fcx-03",
+    "topicoId": "responsabilidade-civil-estado",
+    "topico": "Responsabilidade civil do Estado",
+    "dificuldade": "extremo",
+    "enunciado": "O dever estatal de indenizar pressupõe a ilicitude da conduta administrativa, razão pela qual, praticado o ato dentro dos estritos limites da lei e da competência da autoridade, não há falar em responsabilidade civil do Estado, ainda que dele decorra prejuízo anormal e especial a determinado particular.",
+    "gabarito": "E",
+    "justificativa": "A premissa inicial — \"o dever estatal de indenizar pressupõe a ilicitude da conduta\" — é falsa e contamina toda a conclusão. Na responsabilidade objetiva do art. 37, § 6º, da CF, os pressupostos são conduta estatal, dano e nexo causal; a licitude ou ilicitude do comportamento é juridicamente indiferente. Precisamente por isso a doutrina reconhece o dever de indenizar por atos LÍCITOS, desde que o dano seja anormal (excede os incômodos ordinários da vida em sociedade) e especial (atinge pessoa ou grupo determinado, e não a coletividade indistintamente) — como ocorre no nivelamento de rua que inviabiliza o acesso a um imóvel, na desapropriação e nas limitações administrativas que esvaziam o conteúdo econômico da propriedade. A redação correta afirmaria que o dever de indenizar independe da ilicitude, exigindo-se, no caso de ato lícito, a demonstração da anormalidade e da especialidade do dano.",
+    "fundamentacaoLegal": "CF/88, art. 37, § 6º; doutrina de Celso Antônio Bandeira de Mello e Maria Sylvia Zanella Di Pietro sobre responsabilidade por comportamentos lícitos (dano anormal e especial)."
+  },
+  {
+    "id": "responsabilidade-civil-estado-fcx-04",
+    "topicoId": "responsabilidade-civil-estado",
+    "topico": "Responsabilidade civil do Estado",
+    "dificuldade": "extremo",
+    "enunciado": "Transitada em julgado sentença que condenou município ao pagamento de indenização por danos morais, o pagamento far-se-á por meio de precatório, salvo se o crédito se enquadrar como obrigação de pequeno valor; inexistindo lei municipal fixando o respectivo teto, aplica-se o parâmetro transitório da Constituição, correspondente a trinta salários mínimos, sendo certo que eventual lei local não poderá estabelecer valor inferior ao do maior benefício do regime geral de previdência social.",
+    "gabarito": "C",
+    "justificativa": "O item cruza responsabilidade civil e execução contra a Fazenda Pública, e todas as suas partes são exatas. O art. 100 da CF impõe o regime de precatórios, excepcionando, no § 3º, os pagamentos de obrigações definidas em lei como de pequeno valor. O § 4º autoriza que cada ente fixe, por lei própria, tetos distintos segundo sua capacidade econômica, impondo, porém, um piso: o valor do maior benefício do regime geral de previdência social. Enquanto o ente não legisla, incide o parâmetro transitório do art. 87 do ADCT, que fixa quarenta salários mínimos para Estados e Distrito Federal e trinta salários mínimos para Municípios. A armadilha usual é inverter os dois patamares ou supor que a ausência de lei local afasta a sistemática de pequeno valor, submetendo todo o crédito a precatório.",
+    "fundamentacaoLegal": "CF/88, art. 100, caput e §§ 3º e 4º; ADCT, art. 87, I e II."
+  },
+  {
+    "id": "responsabilidade-civil-estado-fcx-05",
+    "topicoId": "responsabilidade-civil-estado",
+    "topico": "Responsabilidade civil do Estado",
+    "dificuldade": "extremo",
+    "enunciado": "Passageiro de ônibus operado por concessionária municipal de transporte coletivo sofreu lesões graves quando o coletivo foi abalroado por veículo particular que avançou o sinal vermelho. Nessa situação, a culpa exclusiva do terceiro não elide a responsabilidade da concessionária perante o passageiro, a quem é assegurada a reparação, ressalvado à transportadora o direito de regresso contra o causador do acidente.",
+    "gabarito": "C",
+    "justificativa": "O item está correto e explora um ponto em que a regra geral das excludentes cede. Em tese, o fato exclusivo de terceiro rompe o nexo causal e afasta a responsabilidade objetiva fundada no risco administrativo. Tratando-se, porém, de contrato de transporte, incide regra especial: o art. 735 do Código Civil — cuja redação reproduz a Súmula 187 do STF — dispõe que a responsabilidade contratual do transportador por acidente com o passageiro não é elidida por culpa de terceiro, contra o qual tem ação regressiva. A cláusula de incolumidade inerente ao contrato de transporte impõe ao transportador obrigação de resultado: conduzir o passageiro incólume ao destino. Some-se que a concessionária é prestadora de serviço público e responde objetivamente na forma do art. 37, § 6º, da CF, e fornecedora para os fins do CDC.",
+    "fundamentacaoLegal": "Código Civil, art. 735; Súmula 187 do STF; CF/88, art. 37, § 6º; Lei nº 8.078/1990, art. 22."
+  },
+  {
+    "id": "responsabilidade-civil-estado-fcx-06",
+    "topicoId": "responsabilidade-civil-estado",
+    "topico": "Responsabilidade civil do Estado",
+    "dificuldade": "extremo",
+    "enunciado": "Indivíduo permaneceu preso preventivamente por decisão judicial devidamente fundamentada e, ao final da instrução criminal, foi absolvido por insuficiência de provas. Nessa situação, faz jus à indenização pelo Estado, uma vez que a absolvição evidencia erro judiciário indenizável, hipótese em que a responsabilidade estatal é objetiva.",
+    "gabarito": "E",
+    "justificativa": "A expressão falsa é \"a absolvição evidencia erro judiciário indenizável\". O art. 5º, LXXV, da CF assegura indenização a duas hipóteses específicas: ao condenado por erro judiciário — o que pressupõe condenação desconstituída, tipicamente por revisão criminal — e a quem ficar preso além do tempo fixado na sentença. A prisão cautelar regularmente decretada, com observância dos requisitos legais, não se enquadra em nenhuma delas, e a absolvição posterior, sobretudo por insuficiência de provas, não a converte retroativamente em ato ilícito: segundo a jurisprudência do STF, trata-se de exercício regular de atividade jurisdicional, atrelado ao estado de conhecimento existente ao tempo da decretação. Acresce que a responsabilidade estatal por ato jurisdicional típico é excepcional; o magistrado só responde pessoalmente, em regresso, quando proceder com dolo ou fraude, ou quando recusar, omitir ou retardar providência de ofício ou a requerimento da parte, nos termos do Código de Processo Civil. A redação correta negaria o dever de indenizar, ressalvada a comprovação de ilegalidade ou teratologia na decretação da custódia.",
+    "fundamentacaoLegal": "CF/88, art. 5º, LXXV, e art. 37, § 6º; CPC/2015, art. 143, I e II; jurisprudência do STF sobre irresponsabilidade estatal por prisão cautelar regularmente decretada."
+  },
+  {
+    "id": "responsabilidade-civil-estado-fcx-07",
+    "topicoId": "responsabilidade-civil-estado",
+    "topico": "Responsabilidade civil do Estado",
+    "dificuldade": "extremo",
+    "enunciado": "Empresa pública federal que explora atividade econômica em regime de concorrência com a iniciativa privada não se submete à responsabilidade civil objetiva prevista no art. 37, § 6º, da Constituição Federal, respondendo pelos danos causados a terceiros segundo o regime jurídico próprio das empresas privadas, sem prejuízo da incidência da responsabilidade objetiva do Código de Defesa do Consumidor quando configurada relação de consumo.",
+    "gabarito": "C",
+    "justificativa": "O item exige a leitura precisa do art. 37, § 6º, da CF, que alcança as pessoas jurídicas de direito público e as de direito privado PRESTADORAS DE SERVIÇOS PÚBLICOS. A estatal que explora atividade econômica em sentido estrito não se enquadra na segunda categoria e, por força do art. 173, § 1º, II, da CF e da Lei nº 13.303/2016, sujeita-se ao regime jurídico próprio das empresas privadas, inclusive quanto aos direitos e obrigações civis, comerciais, trabalhistas e tributários — daí a responsabilidade regida pelo direito comum, em regra subjetiva. A ressalva final não torna o item falso, e sim mais preciso: a eventual responsabilidade objetiva decorrerá do Código de Defesa do Consumidor, por força da relação de consumo, e não do art. 37, § 6º, da CF. Trata-se de fundamento jurídico distinto, e o item o identifica corretamente.",
+    "fundamentacaoLegal": "CF/88, art. 37, § 6º, e art. 173, § 1º, II; Lei nº 13.303/2016, art. 1º; Lei nº 8.078/1990, arts. 12 e 14."
+  },
+  {
+    "id": "responsabilidade-civil-estado-fcx-08",
+    "topicoId": "responsabilidade-civil-estado",
+    "topico": "Responsabilidade civil do Estado",
+    "dificuldade": "extremo",
+    "enunciado": "Estado da Federação foi condenado, em ação na qual o servidor causador do dano não figurou como parte nem foi denunciado à lide, ao pagamento de indenização a particular. Nessa situação, a sentença faz coisa julgada em face do servidor quanto à existência do dano e à sua conduta culposa, bastando ao ente público, na via regressiva, promover a execução do título judicial já formado.",
+    "gabarito": "E",
+    "justificativa": "O erro está em \"faz coisa julgada em face do servidor\" e na consequente dispensa de processo de conhecimento. O CPC/2015, no art. 506, dispõe que a sentença faz coisa julgada às partes entre as quais é dada, não prejudicando terceiros; o servidor que não integrou a relação processual é terceiro e não pode ser atingido pela autoridade do julgado. Além disso, a ação de regresso possui causa de pedir diversa: enquanto a demanda da vítima se funda em responsabilidade objetiva (bastando conduta, dano e nexo), a pretensão regressiva exige a demonstração de DOLO ou CULPA do agente, na forma da parte final do art. 37, § 6º, da CF. A redação correta seria: o ente público deverá ajuizar ação autônoma de conhecimento contra o servidor, na qual lhe caberá provar o elemento subjetivo, assegurados contraditório e ampla defesa.",
+    "fundamentacaoLegal": "CF/88, art. 37, § 6º, parte final; CPC/2015, arts. 125, § 1º, e 506; Código Civil, art. 43."
+  },
+  {
+    "id": "responsabilidade-civil-estado-fcx-09",
+    "topicoId": "responsabilidade-civil-estado",
+    "topico": "Responsabilidade civil do Estado",
+    "dificuldade": "extremo",
+    "enunciado": "Policial militar, em dia de folga e trajando roupas civis, utilizou a arma de fogo institucional que lhe fora confiada pela corporação para, em discussão de trânsito, ferir gravemente outro motorista. Nessa situação, segundo a jurisprudência dos tribunais superiores, subsiste a responsabilidade civil objetiva do Estado, pois a disponibilidade do armamento decorre da condição funcional do agente, o que preserva o nexo entre o dano e o exercício da função.",
+    "gabarito": "C",
+    "justificativa": "O item está correto e explora o alcance da expressão \"nessa qualidade\", contida no art. 37, § 6º, da CF. O critério para a imputação não é topográfico nem cronológico — não se exige que o agente esteja em serviço ou no interior da repartição —, mas funcional: basta que o dano guarde relação de instrumentalidade com a condição de agente público. O fornecimento e a autorização de porte da arma institucional criam risco específico atribuível à Administração, de modo que o uso indevido do armamento por policial de folga não rompe o nexo causal. A hipótese não se confunde com a do agente que, valendo-se de arma particular e por motivação exclusivamente privada, age como qualquer cidadão: nesse caso, ausente o liame com a função, não há responsabilidade estatal. O dado decisivo do enunciado, portanto, é a titularidade institucional da arma.",
+    "fundamentacaoLegal": "CF/88, art. 37, § 6º; Código Civil, art. 43; jurisprudência do STF e do STJ sobre uso de arma da corporação por agente de folga."
+  },
+  {
+    "id": "responsabilidade-civil-estado-fcx-10",
+    "topicoId": "responsabilidade-civil-estado",
+    "topico": "Responsabilidade civil do Estado",
+    "dificuldade": "extremo",
+    "enunciado": "Pedestre que atravessava via expressa fora da faixa de segurança e em local de travessia proibida foi atingido por viatura oficial que, em perseguição, trafegava acima do limite de velocidade e sem acionar os dispositivos sonoros e luminosos. Nessa situação, comprovada a concorrência de culpas, opera-se o rompimento do nexo de causalidade, ficando o ente público integralmente exonerado do dever de indenizar, por se tratar de responsabilidade fundada na teoria do risco administrativo.",
+    "gabarito": "E",
+    "justificativa": "O erro está em \"opera-se o rompimento do nexo de causalidade, ficando o ente público integralmente exonerado\". Na teoria do risco administrativo, apenas a culpa EXCLUSIVA da vítima rompe integralmente o nexo causal e exclui o dever de indenizar. A culpa CONCORRENTE não exclui: apenas atenua a responsabilidade estatal, impondo a redução proporcional da indenização, conforme o art. 945 do Código Civil, que manda considerar a gravidade da culpa da vítima em confronto com a do autor do dano. O dado juridicamente decisivo, inserido no enunciado, é a conduta irregular da própria viatura (velocidade excessiva e ausência de sinalização de emergência), que impede a caracterização de culpa exclusiva do pedestre. A redação correta seria: comprovada a concorrência de culpas, subsiste o dever de indenizar, com redução proporcional do quantum.",
+    "fundamentacaoLegal": "CF/88, art. 37, § 6º; Código Civil, art. 945; teoria do risco administrativo e regime das excludentes de nexo causal."
+  }
+]

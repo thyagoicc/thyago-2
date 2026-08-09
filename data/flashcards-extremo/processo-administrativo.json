@@ -1,0 +1,102 @@
+[
+  {
+    "id": "processo-administrativo-fcx-01",
+    "topicoId": "processo-administrativo",
+    "topico": "Processo administrativo",
+    "dificuldade": "extremo",
+    "enunciado": "Nos processos administrativos, é vedada a aplicação retroativa de nova interpretação da norma administrativa; coerentemente, a revisão da validade de ato administrativo cujos efeitos já se tenham exaurido levará em conta as orientações gerais vigentes à época, sendo vedado declarar inválidas situações plenamente constituídas com base em mudança posterior de orientação geral.",
+    "gabarito": "C",
+    "justificativa": "O item articula dois comandos convergentes e é integralmente correto. O art. 2º, parágrafo único, XIII, da Lei nº 9.784/1999 estabelece, entre os critérios a serem observados no processo administrativo, a interpretação da norma administrativa da forma que melhor garanta o atendimento do fim público a que se dirige, VEDADA a aplicação retroativa de nova interpretação. Na mesma direção, o art. 24 da LINDB, incluído pela Lei nº 13.655/2018, determina que a revisão, nas esferas administrativa, controladora e judicial, quanto à validade de ato, contrato, ajuste, processo ou norma administrativa cuja produção já se houver completado, levará em conta as orientações gerais da época, sendo vedado declarar inválidas situações plenamente constituídas com base em mudança posterior de orientação geral. O parágrafo único do art. 24 esclarece que orientações gerais são as interpretações e especificações contidas em atos públicos de caráter geral, em jurisprudência judicial ou administrativa majoritária, e ainda as adotadas por prática administrativa reiterada e de amplo conhecimento público. Trata-se de aplicação direta dos princípios da segurança jurídica e da proteção da confiança legítima.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, art. 2º, caput e parágrafo único, XIII; Decreto-Lei nº 4.657/1942 (LINDB), art. 24, caput e parágrafo único."
+  },
+  {
+    "id": "processo-administrativo-fcx-02",
+    "topicoId": "processo-administrativo",
+    "topico": "Processo administrativo",
+    "dificuldade": "extremo",
+    "enunciado": "Servidor obteve, em 1995, vantagem pecuniária concedida por ato administrativo eivado de ilegalidade, sem que tenha concorrido com má-fé. A autoridade competente somente instaurou o processo de anulação em 2006. Nessa situação, a decadência não se consumou, porquanto o ato é anterior à vigência da Lei nº 9.784/1999 e a lei não retroage para alcançar situações constituídas sob a legislação precedente.",
+    "gabarito": "E",
+    "justificativa": "A expressão que torna o item falso é \"a decadência não se consumou, porquanto o ato é anterior à vigência da Lei nº 9.784/1999\". A jurisprudência do STF e do STJ resolveu a questão de direito intertemporal em sentido diverso: os atos administrativos praticados ANTES da vigência da Lei nº 9.784/1999 também se submetem ao prazo decadencial quinquenal do art. 54, contando-se o prazo, contudo, a partir da entrada em vigor da lei, em fevereiro de 1999, e não da data em que praticados. Solução distinta produziria o absurdo de tornar imprescritível a autotutela sobre atos antigos, frustrando a finalidade estabilizadora da norma; e a contagem retroativa a partir da prática do ato, por sua vez, fulminaria de imediato todos os atos anteriores a 1994. Assim, o termo final ocorreu em fevereiro de 2004, de modo que, iniciada a anulação apenas em 2006 e ausente má-fé do beneficiário, a decadência estava consumada. A redação correta seria: a decadência se consumou, pois o quinquênio fluiu da vigência da lei.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, art. 54, caput; jurisprudência do STF e do STJ sobre o termo inicial do prazo decadencial para atos anteriores à vigência da lei."
+  },
+  {
+    "id": "processo-administrativo-fcx-03",
+    "topicoId": "processo-administrativo",
+    "topico": "Processo administrativo",
+    "dificuldade": "extremo",
+    "enunciado": "Em regra, o silêncio da Administração não equivale a deferimento tácito do pedido, cabendo ao interessado, diante da inércia, exigir judicialmente a prolação da decisão; tratando-se, porém, de ato público de liberação de atividade econômica submetido à Lei nº 13.874/2019, o transcurso do prazo fixado importa aprovação tácita para todos os efeitos, ressalvadas as hipóteses expressamente vedadas em lei.",
+    "gabarito": "C",
+    "justificativa": "As duas orações estão corretas e o item exige o cruzamento da Lei nº 9.784/1999 com a Lei de Liberdade Econômica. Na sistemática geral, a Administração tem o dever de decidir (art. 48) e o prazo de até trinta dias, prorrogável por igual período mediante motivação expressa, contado da conclusão da instrução (art. 49); o descumprimento não gera, por si, deferimento tácito, pois o silêncio administrativo é, em regra, juridicamente neutro, autorizando o interessado a buscar a tutela jurisdicional para compelir a autoridade a decidir — sem que o juiz possa substituí-la no juízo de mérito. Excepcionalmente, a lei pode atribuir efeito ao silêncio: é o que faz o art. 3º, IX, da Lei nº 13.874/2019, que assegura ao particular o direito de ser cientificado do prazo máximo para análise do pedido de liberação de atividade econômica e de que, transcorrido esse prazo, o silêncio da autoridade importará aprovação tácita para todos os efeitos, ressalvadas as hipóteses expressamente vedadas em lei. O item é preciso ao manter a ressalva legal, sem transformar a exceção em regra.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, arts. 48 e 49; Lei nº 13.874/2019, art. 3º, IX."
+  },
+  {
+    "id": "processo-administrativo-fcx-04",
+    "topicoId": "processo-administrativo",
+    "topico": "Processo administrativo",
+    "dificuldade": "extremo",
+    "enunciado": "Autoridade fiscal municipal, ao constatar débito tributário confessado e não pago por sociedade empresária, determinou, sem prévia manifestação do contribuinte, a interdição do estabelecimento até a quitação integral do crédito, invocando a competência para adotar providências acauteladoras em caso de risco iminente. Nessa situação, a medida é válida, pois motivada e sujeita a contraditório diferido.",
+    "gabarito": "E",
+    "justificativa": "A expressão que torna o item falso é \"a medida é válida\". O art. 45 da Lei nº 9.784/1999 autoriza a Administração a adotar motivadamente providências acauteladoras sem a prévia manifestação do interessado apenas em caso de RISCO IMINENTE, e com finalidade estritamente cautelar — assegurar o resultado útil do processo ou afastar perigo concreto. No caso, a interdição não tem função acautelatória: destina-se a coagir o contribuinte ao pagamento do tributo, o que configura sanção política, expressamente repelida pelo STF. A Súmula 70 declara inadmissível a interdição de estabelecimento como meio coercitivo para cobrança de tributo; a Súmula 323 veda a apreensão de mercadorias com a mesma finalidade; e a Súmula 547 impede que a autoridade proíba o contribuinte em débito de despachar mercadorias nas alfândegas e de exercer suas atividades profissionais. A Fazenda dispõe de vias próprias — inscrição em dívida ativa e execução fiscal — para a satisfação do crédito. A redação correta seria: a medida é inválida por configurar sanção política, ainda que formalmente motivada.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, art. 45; Súmulas 70, 323 e 547 do STF; Lei nº 6.830/1980."
+  },
+  {
+    "id": "processo-administrativo-fcx-05",
+    "topicoId": "processo-administrativo",
+    "topico": "Processo administrativo",
+    "dificuldade": "extremo",
+    "enunciado": "A intimação do interessado realizada sem a observância das prescrições legais é nula, vício insuprível ainda que o administrado compareça espontaneamente ao processo e apresente defesa, dada a natureza cogente das formalidades destinadas a assegurar o contraditório.",
+    "gabarito": "E",
+    "justificativa": "A expressão falsa é \"vício insuprível ainda que o administrado compareça espontaneamente\". O art. 26, § 5º, da Lei nº 9.784/1999 é expresso: as intimações serão nulas quando feitas sem observância das prescrições legais, MAS o comparecimento do administrado supre sua falta ou irregularidade. O dispositivo consagra, no processo administrativo, a instrumentalidade das formas e o princípio de que não há nulidade sem prejuízo: como a finalidade da intimação é dar ciência ao interessado para que exerça o contraditório, alcançado esse fim pelo comparecimento espontâneo, desaparece o interesse na declaração de nulidade. No mesmo sentido, o art. 22 da lei dispõe que os atos do processo administrativo não dependem de forma determinada senão quando a lei expressamente a exigir. A redação correta seria: a intimação irregular é nula, mas o comparecimento do administrado supre a falta ou a irregularidade, sendo desnecessária a repetição do ato.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, arts. 22, caput, 26, § 5º, e 55; princípio da instrumentalidade das formas (pas de nullité sans grief)."
+  },
+  {
+    "id": "processo-administrativo-fcx-06",
+    "topicoId": "processo-administrativo",
+    "topico": "Processo administrativo",
+    "dificuldade": "extremo",
+    "enunciado": "Não subsiste a exigência, outrora sumulada pelo Superior Tribunal de Justiça, de presença obrigatória de advogado em todas as fases do processo administrativo disciplinar, tendo o Supremo Tribunal Federal firmado, em enunciado de súmula vinculante, que a falta de defesa técnica por advogado nesse processo não ofende a Constituição.",
+    "gabarito": "C",
+    "justificativa": "O item está correto e cobra a superação de um entendimento sumulado, tema recorrente em provas de alto nível. A Súmula 343 do STJ havia consagrado a obrigatoriedade da presença de advogado em todas as fases do processo administrativo disciplinar. O STF, contudo, editou a Súmula Vinculante 5, segundo a qual a falta de defesa técnica por advogado no processo administrativo disciplinar não ofende a Constituição, esvaziando aquele enunciado. O fundamento é que a ampla defesa no processo administrativo se satisfaz com a garantia de ciência dos atos, de produção de provas, de manifestação e de recurso, admitida a autodefesa, sem que a Constituição exija representação técnica obrigatória nessa esfera. Importa não confundir: a súmula vinculante dispensa a defesa TÉCNICA, mas não dispensa a defesa em si — o processo em que se nega ao servidor a oportunidade de manifestação continua nulo por violação do art. 5º, LV, da CF.",
+    "fundamentacaoLegal": "Súmula Vinculante 5 do STF; Súmula 343 do STJ (superada); CF/88, art. 5º, LV; Lei nº 9.784/1999, art. 3º, IV."
+  },
+  {
+    "id": "processo-administrativo-fcx-07",
+    "topicoId": "processo-administrativo",
+    "topico": "Processo administrativo",
+    "dificuldade": "extremo",
+    "enunciado": "O comparecimento à consulta pública instaurada em processo administrativo que envolva assunto de interesse geral confere ao participante a condição de interessado no processo, habilitando-o a interpor recurso contra a decisão final que contrarie as alegações por ele apresentadas.",
+    "gabarito": "E",
+    "justificativa": "As expressões falsas são \"confere ao participante a condição de interessado\" e \"habilitando-o a interpor recurso\". Nos termos do art. 31, § 2º, da Lei nº 9.784/1999, o comparecimento à consulta pública NÃO confere, por si, a condição de interessado do processo, mas confere o direito de obter da Administração resposta fundamentada, que poderá ser comum a todas as alegações substancialmente iguais. A distinção é relevante: a legitimidade recursal pressupõe a condição de interessado, nos termos do art. 58 da lei, que a atribui aos titulares de direitos ou interesses afetados pela decisão, aos que tenham direitos ou interesses indiretamente afetados, às organizações e associações representativas quanto a direitos e interesses coletivos e aos cidadãos ou associações quanto a direitos ou interesses difusos. Registre-se, ainda, que o art. 34 impõe que os resultados da consulta e da audiência pública sejam apresentados com a indicação do procedimento adotado. A redação correta seria: o comparecimento assegura o direito a resposta fundamentada, sem conferir a condição de interessado.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, arts. 9º, 31, §§ 1º e 2º, 34 e 58."
+  },
+  {
+    "id": "processo-administrativo-fcx-08",
+    "topicoId": "processo-administrativo",
+    "topico": "Processo administrativo",
+    "dificuldade": "extremo",
+    "enunciado": "A omissão do dever de comunicar impedimento constitui falta grave para efeitos disciplinares; já a alegação de suspeição, quando indeferida, desafia recurso, ao qual não se atribui efeito suspensivo.",
+    "gabarito": "C",
+    "justificativa": "O item explora a distinção fina entre dois institutos vizinhos e está correto em ambas as orações. O impedimento (arts. 18 e 19 da Lei nº 9.784/1999) decorre de causas objetivas — interesse direto ou indireto na matéria, participação anterior como perito, testemunha ou representante, litígio ou parentesco até o terceiro grau com interessado — e configura matéria de ordem pública: a autoridade ou servidor impedido deve comunicar o fato e abster-se de atuar, sendo que a omissão desse dever constitui falta grave para efeitos disciplinares, na forma do parágrafo único do art. 19. A suspeição (art. 20) funda-se em causa subjetiva — amizade íntima ou inimizade notória com algum dos interessados ou com seus cônjuges, companheiros, parentes e afins até o terceiro grau — e depende de arguição pelo interessado; o art. 21 dispõe que o indeferimento de alegação de suspeição poderá ser objeto de recurso, sem efeito suspensivo, solução coerente com a regra geral do art. 61, segundo a qual o recurso administrativo não tem efeito suspensivo.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, arts. 18, 19, caput e parágrafo único, 20 e 21."
+  },
+  {
+    "id": "processo-administrativo-fcx-09",
+    "topicoId": "processo-administrativo",
+    "topico": "Processo administrativo",
+    "dificuldade": "extremo",
+    "enunciado": "Interposto recurso administrativo perante órgão incompetente, a autoridade dele não conhecerá e, consumada a preclusão temporal, ficará impedida de rever de ofício o ato eventualmente ilegal, uma vez que o não conhecimento do recurso torna definitiva a decisão na esfera administrativa.",
+    "gabarito": "E",
+    "justificativa": "O item é falso em duas frentes. Primeiro, o art. 63, § 1º, da Lei nº 9.784/1999 determina que, na hipótese de recurso interposto perante órgão incompetente (inciso II do caput), será indicada ao recorrente a autoridade competente, sendo-lhe DEVOLVIDO o prazo para recurso — de modo que a interposição equivocada não acarreta, por si, a preclusão temporal afirmada no enunciado. Segundo, ainda que o recurso não seja conhecido, o § 2º do mesmo artigo é expresso ao dispor que o não conhecimento não impede a Administração de rever de ofício o ato ilegal, desde que não ocorrida preclusão administrativa — solução que preserva o poder de autotutela consagrado na Súmula 473 do STF e limitado, quanto aos atos favoráveis ao administrado, pelo prazo decadencial do art. 54. A redação correta seria: devolve-se o prazo ao recorrente e, mesmo não conhecido o recurso, remanesce o poder de revisão de ofício do ato ilegal.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, art. 63, caput, incisos I a IV, e §§ 1º e 2º; art. 54; Súmula 473 do STF."
+  },
+  {
+    "id": "processo-administrativo-fcx-10",
+    "topicoId": "processo-administrativo",
+    "topico": "Processo administrativo",
+    "dificuldade": "extremo",
+    "enunciado": "Na relação com o cidadão, é vedado ao município exigir reconhecimento de firma e autenticação de cópia de documento como condição para a instrução de requerimento administrativo, devendo o próprio agente administrativo, à vista do original, comparar e autenticar a cópia apresentada, sem prejuízo de a Administração exigir a apresentação do documento original quando houver dúvida fundada sobre sua autenticidade.",
+    "gabarito": "C",
+    "justificativa": "O item está correto e cobra diploma frequentemente ignorado. A Lei nº 13.726/2018, conhecida como lei da desburocratização, aplica-se à União, aos Estados, ao Distrito Federal e aos Municípios e dispensa, na relação dos órgãos e entidades com o cidadão, a exigência de reconhecimento de firma, de autenticação de cópia de documento — hipótese em que o agente administrativo compara a cópia com o original e atesta sua autenticidade — e de juntada de documento pessoal do usuário, que poderá ser substituída por cópia autenticada pelo próprio agente. Quanto ao reconhecimento de firma, a dispensa opera porque a própria lei atribui ao agente administrativo o dever de confrontar a assinatura com a constante do documento de identidade do signatário, ou de atestá-la quando o documento seja assinado em sua presença. A previsão dialoga com a Lei nº 9.784/1999, cujo art. 6º, parágrafo único, veda a recusa imotivada de recebimento de documentos, impondo ao servidor orientar o interessado quanto ao suprimento de eventuais falhas, e com o art. 37 da mesma lei, que impede a exigência de prova de fato já comprovado por documento em poder da própria Administração.",
+    "fundamentacaoLegal": "Lei nº 13.726/2018, arts. 2º e 3º, I, II e III; Lei nº 9.784/1999, art. 6º, parágrafo único, e art. 37."
+  }
+]

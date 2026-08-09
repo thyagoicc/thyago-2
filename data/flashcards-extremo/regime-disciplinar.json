@@ -1,0 +1,102 @@
+[
+  {
+    "id": "regime-disciplinar-fcx-01",
+    "topicoId": "regime-disciplinar",
+    "topico": "Regime disciplinar e processo administrativo disciplinar",
+    "dificuldade": "extremo",
+    "enunciado": "Conforme entendimento sumulado do Superior Tribunal de Justiça, os prazos prescricionais da pretensão punitiva disciplinar iniciam-se na data em que a autoridade competente para a abertura do procedimento toma conhecimento do fato, interrompem-se com o primeiro ato de instauração válido — sindicância de caráter punitivo ou processo administrativo disciplinar — e voltam a fluir por inteiro após decorridos cento e quarenta dias desde a interrupção.",
+    "gabarito": "C",
+    "justificativa": "O item reproduz o conteúdo da Súmula 635 do STJ, que consolida a interpretação do art. 142 da Lei nº 8.112/1990 — parâmetro aplicável subsidiariamente a regimes estatutários locais. Três pontos merecem atenção. Primeiro, o termo inicial não é a data do fato, mas a data em que dele tomou ciência a autoridade COMPETENTE para instaurar o procedimento (art. 142, § 1º); o conhecimento por autoridade incompetente não deflagra o prazo. Segundo, apenas a sindicância de caráter PUNITIVO (acusatória) e o PAD interrompem a prescrição; a sindicância meramente investigativa ou preparatória, por não ter caráter punitivo, não produz esse efeito. Terceiro, o prazo de cento e quarenta dias corresponde ao somatório dos prazos legais de conclusão e julgamento do PAD (sessenta dias, prorrogáveis por igual período, mais vinte dias para julgamento): esgotado esse período, a interrupção cessa e o prazo prescricional volta a correr integralmente, ainda que o processo não tenha sido concluído.",
+    "fundamentacaoLegal": "Súmula 635 do STJ; Lei nº 8.112/1990, art. 142, caput e §§ 1º a 4º, arts. 152 e 167."
+  },
+  {
+    "id": "regime-disciplinar-fcx-02",
+    "topicoId": "regime-disciplinar",
+    "topico": "Regime disciplinar e processo administrativo disciplinar",
+    "dificuldade": "extremo",
+    "enunciado": "Servidor estável, respondendo a processo administrativo disciplinar por infração punível com demissão, formalizou pedido de exoneração do cargo antes do julgamento. Nessa situação, deferido o pedido, o processo disciplinar deve ser arquivado por perda superveniente de objeto, dada a extinção do vínculo funcional que legitimava o exercício do poder disciplinar.",
+    "gabarito": "E",
+    "justificativa": "A expressão que torna o item falso é \"deferido o pedido, o processo disciplinar deve ser arquivado por perda superveniente de objeto\". O estatuto veda essa saída: o servidor que responde a processo disciplinar só poderá ser exonerado a pedido, ou aposentado voluntariamente, APÓS a conclusão do processo e o cumprimento da penalidade acaso aplicada. A redação correta seria a de que o pedido de exoneração não pode ser deferido enquanto pendente o PAD, devendo o processo prosseguir até o julgamento. Duas consequências reforçam o raciocínio: se a exoneração vier a ser indevidamente concedida, o ato poderá ser convertido em demissão, na forma da lei; e o inativo que houver praticado, na atividade, falta punível com demissão sujeita-se à cassação de aposentadoria. A finalidade da regra é impedir que o agente frustre a sanção disciplinar — e seus efeitos secundários, como o impedimento de retorno ao serviço público — por ato de vontade própria.",
+    "fundamentacaoLegal": "Lei nº 8.112/1990, art. 172, caput e parágrafo único, c/c arts. 134 e 137."
+  },
+  {
+    "id": "regime-disciplinar-fcx-03",
+    "topicoId": "regime-disciplinar",
+    "topico": "Regime disciplinar e processo administrativo disciplinar",
+    "dificuldade": "extremo",
+    "enunciado": "No processo administrativo disciplinar revisional, o ônus da prova incumbe ao requerente e é vedado o agravamento da penalidade, ao passo que, no recurso administrativo regido pela Lei nº 9.784/1999, admite-se decisão mais gravosa ao recorrente, desde que este seja previamente cientificado para formular alegações.",
+    "gabarito": "C",
+    "justificativa": "O item é correto em ambas as pontas e exige a comparação entre dois diplomas. Na revisão do PAD, cabível a qualquer tempo, a pedido ou de ofício, quando surgirem fatos novos ou circunstâncias suscetíveis de justificar a inocência do punido ou a inadequação da penalidade, a lei atribui expressamente ao REQUERENTE o ônus da prova — inversão em relação ao processo originário, no qual o encargo probatório é da Administração — e proíbe o agravamento da sanção, pois a revisão é instituto exclusivamente pro reo (não há revisão in pejus). Já no recurso administrativo comum, a Lei nº 9.784/1999 admite a reformatio in pejus, exigindo apenas que o recorrente seja cientificado do possível gravame para formular alegações antes da decisão; note-se que a mesma lei, coerentemente, proíbe o agravamento no processo de REVISÃO. Confundir os dois institutos — recurso e revisão — é o erro típico neste ponto da matéria.",
+    "fundamentacaoLegal": "Lei nº 8.112/1990, arts. 174, 175 e 182, parágrafo único; Lei nº 9.784/1999, art. 64, parágrafo único, e art. 65, parágrafo único."
+  },
+  {
+    "id": "regime-disciplinar-fcx-04",
+    "topicoId": "regime-disciplinar",
+    "topico": "Regime disciplinar e processo administrativo disciplinar",
+    "dificuldade": "extremo",
+    "enunciado": "É vedada a instauração de processo administrativo disciplinar com base em denúncia anônima, ainda que precedida de apuração preliminar que confirme os indícios noticiados, sob pena de nulidade por afronta ao art. 5º, IV, da Constituição Federal, que veda o anonimato.",
+    "gabarito": "E",
+    "justificativa": "A expressão que torna o item falso é \"É vedada a instauração [...] ainda que precedida de apuração preliminar\". Conforme a Súmula 611 do STJ, desde que devidamente motivada e com amparo em investigação ou sindicância, é permitida a instauração de processo administrativo disciplinar com base em denúncia anônima, em face do poder-dever de autotutela imposto à Administração. A redação correta seria: admite-se a instauração do PAD com base em denúncia anônima quando precedida de apuração preliminar e devidamente motivada. A vedação constitucional ao anonimato impede que a delação apócrifa, por si só e sem qualquer verificação, sirva de fundamento imediato à acusação — mas não afasta o dever de apurar, previsto no estatuto, que obriga a autoridade ciente de irregularidade a promover sua apuração imediata. Em outras palavras, a denúncia anônima funciona como notitia, não como prova.",
+    "fundamentacaoLegal": "Súmula 611 do STJ; CF/88, art. 5º, IV; Lei nº 8.112/1990, art. 143, caput; Lei nº 9.784/1999, art. 29."
+  },
+  {
+    "id": "regime-disciplinar-fcx-05",
+    "topicoId": "regime-disciplinar",
+    "topico": "Regime disciplinar e processo administrativo disciplinar",
+    "dificuldade": "extremo",
+    "enunciado": "Nenhum servidor poderá ser responsabilizado civil, penal ou administrativamente por dar ciência à autoridade superior ou, quando houver suspeita de envolvimento desta, a outra autoridade competente para apuração, de informação concernente à prática de crimes ou de improbidade de que tenha conhecimento, ainda que em decorrência do exercício de cargo, emprego ou função pública.",
+    "gabarito": "C",
+    "justificativa": "O item reproduz a cláusula de proteção ao servidor denunciante (whistleblower) do art. 126-A da Lei nº 8.112/1990, dispositivo pouco explorado e inserido no estatuto justamente pela Lei de Acesso à Informação — exemplo de cruzamento entre o regime disciplinar e a legislação de transparência. A regra tem dois núcleos: (i) afasta a responsabilização nas três esferas, o que inclui a imputação de infrações disciplinares como a revelação de assunto sigiloso ou a violação do dever de guardar sigilo, previstas no capítulo das proibições; e (ii) ressalva expressamente o conhecimento obtido \"em decorrência do exercício do cargo\", que é exatamente a hipótese em que o servidor teria, em tese, dever funcional de sigilo. A imunidade, contudo, pressupõe comunicação à autoridade competente e boa-fé: a denúncia sabidamente falsa configura ilícito autônomo, inclusive penal.",
+    "fundamentacaoLegal": "Lei nº 8.112/1990, art. 126-A, incluído pela Lei nº 12.527/2011; Lei nº 8.112/1990, art. 116, VI, e art. 132, IX."
+  },
+  {
+    "id": "regime-disciplinar-fcx-06",
+    "topicoId": "regime-disciplinar",
+    "topico": "Regime disciplinar e processo administrativo disciplinar",
+    "dificuldade": "extremo",
+    "enunciado": "A portaria de instauração do processo administrativo disciplinar deve conter a descrição minuciosa e individualizada dos fatos imputados ao servidor e a respectiva capitulação legal, sob pena de nulidade por cerceamento de defesa, exigência que se repete, com igual rigor, no termo de indiciação.",
+    "gabarito": "E",
+    "justificativa": "A parte falsa é a que exige descrição minuciosa dos fatos já na PORTARIA DE INSTAURAÇÃO. Conforme a Súmula 641 do STJ, a portaria de instauração do processo administrativo disciplinar prescinde da exposição detalhada dos fatos a serem apurados. A redação correta seria: a portaria pode limitar-se à indicação genérica do objeto e à designação da comissão, exigindo-se descrição minuciosa apenas no termo de indiciação. A razão é lógica e cronológica: no início do processo a Administração ainda investiga, e a defesa se instaura em face da IMPUTAÇÃO formalizada após a instrução — daí o estatuto determinar que, tipificada a infração, o servidor seja indiciado com a especificação dos fatos e das provas correspondentes, com citação para apresentar defesa escrita. O item é capcioso porque a segunda oração (rigor na indiciação) está correta, mas a conclusão de que a mesma exigência incide na portaria não se sustenta.",
+    "fundamentacaoLegal": "Súmula 641 do STJ; Lei nº 8.112/1990, arts. 151, 161 e 163."
+  },
+  {
+    "id": "regime-disciplinar-fcx-07",
+    "topicoId": "regime-disciplinar",
+    "topico": "Regime disciplinar e processo administrativo disciplinar",
+    "dificuldade": "extremo",
+    "enunciado": "O julgamento do processo administrativo disciplinar proferido fora do prazo legal não acarreta, por si só, a nulidade do processo, e o excesso de prazo para a sua conclusão só gera nulidade quando demonstrado prejuízo à defesa.",
+    "gabarito": "C",
+    "justificativa": "As duas orações são corretas e se complementam. O estatuto é expresso ao dispor que o julgamento fora do prazo legal não implica nulidade do processo, regra coerente com o fato de a autoridade julgadora não perder a competência pelo mero decurso do prazo — embora fique sujeita a responsabilização se der causa à prescrição. No mesmo sentido, a Súmula 592 do STJ estabelece que o excesso de prazo para a conclusão do PAD só causa nulidade se houver demonstração de prejuízo à defesa, aplicação do princípio pas de nullité sans grief ao processo administrativo sancionador. O item resiste à leitura capciosa porque não afirma que o prazo é irrelevante: o descumprimento pode gerar responsabilidade funcional da autoridade e, sobretudo, permitir que o prazo prescricional volte a correr por inteiro após cento e quarenta dias da instauração, o que pode conduzir à prescrição da pretensão punitiva.",
+    "fundamentacaoLegal": "Lei nº 8.112/1990, art. 169, §§ 1º e 2º, e art. 167; Súmula 592 do STJ; Súmula 635 do STJ."
+  },
+  {
+    "id": "regime-disciplinar-fcx-08",
+    "topicoId": "regime-disciplinar",
+    "topico": "Regime disciplinar e processo administrativo disciplinar",
+    "dificuldade": "extremo",
+    "enunciado": "Servidor efetivo deixou de comparecer ao serviço por quarenta e cinco dias consecutivos, período em que permaneceu na mesma cidade acompanhando tratamento de saúde de familiar, sem apresentar justificativa formal ao órgão. Nessa situação, apurada a ausência em procedimento sumário, a demissão por abandono de cargo é medida vinculada, bastando a comprovação objetiva do afastamento superior a trinta dias consecutivos, pois o tipo disciplinar independe de elemento subjetivo.",
+    "gabarito": "E",
+    "justificativa": "A expressão que torna o item falso é \"bastando a comprovação objetiva do afastamento [...] pois o tipo disciplinar independe de elemento subjetivo\". O estatuto define abandono de cargo como a ausência INTENCIONAL do servidor ao serviço por mais de trinta dias consecutivos; o elemento subjetivo — o animus abandonandi — integra o tipo disciplinar, e a jurisprudência do STJ é firme em exigir sua demonstração, afastando a demissão quando a ausência decorre de motivo justificável, como doença própria ou de familiar. A redação correta seria: a demissão exige, além do decurso do prazo, a comprovação da intenção de abandonar o cargo. O dado juridicamente relevante que o candidato desatento ignora é o tratamento de saúde de familiar, apto a elidir o dolo. Registre-se ainda o cuidado com a figura vizinha: a inassiduidade habitual configura-se pela falta ao serviço, sem causa justificada, por sessenta dias INTERPOLADAMENTE no período de doze meses — ambas apuradas por procedimento sumário.",
+    "fundamentacaoLegal": "Lei nº 8.112/1990, arts. 138, 139 e 140, c/c art. 132, II e III."
+  },
+  {
+    "id": "regime-disciplinar-fcx-09",
+    "topicoId": "regime-disciplinar",
+    "topico": "Regime disciplinar e processo administrativo disciplinar",
+    "dificuldade": "extremo",
+    "enunciado": "A apuração de irregularidade funcional pode ser promovida por autoridade de órgão ou entidade diverso daquele em que ela tenha ocorrido, mediante competência específica delegada em caráter permanente ou temporário pelas autoridades máximas do respectivo Poder, órgão ou entidade, preservadas as competências para o julgamento que se seguir à apuração.",
+    "gabarito": "C",
+    "justificativa": "O item explora dispositivo periférico do estatuto, que autoriza a chamada apuração por órgão diverso — base normativa, no plano federal, da atuação correcional centralizada de órgãos de controle interno. A delegação alcança apenas a fase APURATÓRIA (instauração e instrução), permanecendo intacta a competência da autoridade originária para o JULGAMENTO, o que preserva a regra estatutária de distribuição de competências punitivas segundo a gravidade da penalidade. Trata-se de exceção compatível com a Lei nº 9.784/1999, que admite a delegação de competência a órgão ou titular não subordinado hierarquicamente, quando conveniente em razão de circunstâncias de índole técnica, social, econômica, jurídica ou territorial, vedada a delegação da decisão de recursos administrativos e das matérias de competência exclusiva. Errado seria afirmar que a delegação transfere também o julgamento.",
+    "fundamentacaoLegal": "Lei nº 8.112/1990, art. 143, § 3º, e art. 141; Lei nº 9.784/1999, arts. 12 e 13."
+  },
+  {
+    "id": "regime-disciplinar-fcx-10",
+    "topicoId": "regime-disciplinar",
+    "topico": "Regime disciplinar e processo administrativo disciplinar",
+    "dificuldade": "extremo",
+    "enunciado": "A pena de cassação de aposentadoria por falta punível com demissão praticada quando o servidor ainda estava em atividade foi afastada pela jurisprudência dos tribunais superiores, por incompatibilidade com o caráter contributivo e retributivo do regime próprio de previdência, de modo que a punição do inativo restringe-se à devolução dos valores indevidamente percebidos.",
+    "gabarito": "E",
+    "justificativa": "A afirmação inverte o resultado da jurisprudência. A cassação de aposentadoria continua prevista no estatuto — será cassada a aposentadoria ou a disponibilidade do inativo que houver praticado, na atividade, falta punível com a demissão — e a jurisprudência consolidada dos tribunais superiores reconhece a compatibilidade dessa sanção com a Constituição, ao fundamento de que ela não retira do servidor as contribuições vertidas, que podem ser aproveitadas no regime geral, e de que a aposentadoria não constitui salvo-conduto contra a responsabilização por ilícitos cometidos durante a atividade. A redação correta seria: a cassação de aposentadoria é admitida pelos tribunais superiores. O item ainda embute um segundo erro de conexão lógica, ao concluir que a punição do inativo se resumiria à devolução de valores — medida de natureza reparatória, e não disciplinar, que se soma à sanção e não a substitui. Deve-se distinguir, por fim, a cassação de aposentadoria (sanção disciplinar) da cassação de ato administrativo por descumprimento de condições pelo beneficiário.",
+    "fundamentacaoLegal": "Lei nº 8.112/1990, arts. 127, IV, e 134; CF/88, art. 40, caput, e art. 37, caput; jurisprudência consolidada do STF e do STJ sobre a constitucionalidade da cassação de aposentadoria."
+  }
+]

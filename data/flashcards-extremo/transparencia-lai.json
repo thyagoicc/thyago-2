@@ -1,0 +1,52 @@
+[
+  {
+    "id": "transparencia-lai-fcx-01",
+    "topicoId": "transparencia-lai",
+    "topico": "Transparência e acesso à informação",
+    "dificuldade": "extremo",
+    "enunciado": "A competência para classificar informação nos graus ultrassecreto e secreto é indelegável, por constituir atribuição personalíssima das autoridades máximas nominadas na Lei de Acesso à Informação, admitindo-se, contudo, a delegação da competência para classificação no grau reservado.",
+    "gabarito": "E",
+    "justificativa": "A expressão que torna o item falso é 'é indelegável, por constituir atribuição personalíssima'. A Lei nº 12.527/2011 dispõe exatamente o contrário: a competência para a classificação nos graus ultrassecreto e secreto PODE ser delegada pela autoridade responsável a agente público, inclusive em missão no exterior, VEDADA A SUBDELEGAÇÃO. A redação correta seria: 'a competência para classificar informação nos graus ultrassecreto e secreto pode ser delegada, vedada a subdelegação'. O item explora dois pontos de confusão. O primeiro é a inversão da regra: o candidato memoriza o rol de autoridades competentes do art. 27 e supõe que a taxatividade do rol implica indelegabilidade, quando a lei expressamente admite a delegação, restringindo apenas o encadeamento sucessivo dela. O segundo é a assimetria dos graus: a previsão de delegação foi endereçada precisamente aos graus mais gravosos, ultrassecreto e secreto, e não ao reservado, cuja competência já é atribuída de forma ampla às autoridades que exerçam funções de direção, comando ou chefia. Trata-se de aplicação da regra geral do processo administrativo, que admite a delegação como técnica de desconcentração, mas veda a subdelegação quando a norma delegante assim o determinar.",
+    "fundamentacaoLegal": "Art. 27, caput, I a III, e § 1º, da Lei nº 12.527/2011; arts. 11 a 14 da Lei nº 9.784/1999."
+  },
+  {
+    "id": "transparencia-lai-fcx-02",
+    "topicoId": "transparencia-lai",
+    "topico": "Transparência e acesso à informação",
+    "dificuldade": "extremo",
+    "enunciado": "É legítima a publicação, em sítio eletrônico mantido pela Administração Pública, dos nomes de seus servidores e do valor dos correspondentes vencimentos e vantagens pecuniárias, prevalecendo o princípio da publicidade administrativa sobre a intimidade do agente quanto a esses dados, sem que daí decorra autorização para divulgar endereço residencial e números de documentos pessoais.",
+    "gabarito": "C",
+    "justificativa": "O item está correto e explora o ALCANCE exato de uma tese de repercussão geral, e não apenas o seu resultado. No RE 652.777, julgado sob o rito da repercussão geral, o STF firmou a legitimidade da divulgação nominal da remuneração de servidores em portal de transparência, fundada no dever de publicidade e no interesse coletivo em conhecer o custo da máquina administrativa, remuneração paga com recursos públicos. A parte final da assertiva é o refinamento que a torna precisa: a mesma jurisprudência ressalva que a publicidade não autoriza a divulgação de dados que exponham a segurança e a privacidade do agente sem correspondente ganho de controle social, como endereço residencial e números de documentos de identificação. A afirmação resiste à leitura capciosa porque não afirma uma publicidade irrestrita da vida do servidor, mas apenas do binômio nome-remuneração, que é a exata extensão da tese. No plano infraconstitucional, o resultado é coerente com o dever de transparência ativa da Lei nº 12.527/2011 e com o art. 39, § 6º, da CF/88, que impõe a publicação anual dos valores de subsídios e remunerações dos cargos e empregos públicos.",
+    "fundamentacaoLegal": "RE 652.777, do STF, julgado sob o rito da repercussão geral; arts. 37, caput, e 39, § 6º, da CF/88; arts. 3º, 6º e 8º da Lei nº 12.527/2011."
+  },
+  {
+    "id": "transparencia-lai-fcx-03",
+    "topicoId": "transparencia-lai",
+    "topico": "Transparência e acesso à informação",
+    "dificuldade": "extremo",
+    "enunciado": "Órgão da administração pública federal recebe pedido de acesso cuja resposta exigiria a consolidação de dados dispersos em milhares de processos, mediante serviço de tratamento que não integra suas competências. Nessa situação, o pedido pode deixar de ser atendido, devendo o órgão, caso tenha conhecimento, indicar o local onde se encontram as informações a partir das quais o requerente poderá, ele próprio, realizar a interpretação, a consolidação ou o tratamento dos dados.",
+    "gabarito": "C",
+    "justificativa": "O item está correto e cobra a distinção entre o dever de FRANQUEAR ACESSO a informações existentes e um inexistente dever de PRODUZIR informação nova sob demanda. O regulamento federal da Lei de Acesso à Informação prevê que não serão atendidos pedidos genéricos, desproporcionais ou desarrazoados, nem os que exijam trabalhos adicionais de análise, interpretação ou consolidação de dados, ou ainda serviço de produção ou tratamento de dados que não seja de competência do órgão. A ressalva final do enunciado é justamente o que impede que essa hipótese se converta em negativa disfarçada de acesso: nesse caso, o órgão deve indicar onde estão os dados brutos, transferindo ao interessado o trabalho de consolidação. Essa solução preserva simultaneamente o direito fundamental do art. 5º, XXXIII, da CF/88 e a continuidade do serviço público, evitando que o atendimento a um pedido singular inviabilize a atividade administrativa. Observe-se que a hipótese não se confunde com a informação classificada nem com a informação pessoal de acesso restrito: aqui não há sigilo algum, apenas ausência de dever de elaboração.",
+    "fundamentacaoLegal": "Art. 13, caput, I a III, e parágrafo único, do Decreto nº 7.724/2012; arts. 7º, 11 e 12 da Lei nº 12.527/2011; art. 5º, XXXIII, da CF/88."
+  },
+  {
+    "id": "transparencia-lai-fcx-04",
+    "topicoId": "transparencia-lai",
+    "topico": "Transparência e acesso à informação",
+    "dificuldade": "extremo",
+    "enunciado": "Indeferido pedido de desclassificação de informação protocolado em órgão da administração pública federal, o requerente deve dirigir o recurso diretamente à Comissão Mista de Reavaliação de Informações, ficando dispensada a prévia apreciação da matéria por autoridade hierarquicamente superior à que proferiu a decisão impugnada.",
+    "gabarito": "E",
+    "justificativa": "Duas afirmações tornam o item falso: 'deve dirigir o recurso diretamente à Comissão Mista de Reavaliação de Informações' e 'fica dispensada a prévia apreciação da matéria por autoridade hierarquicamente superior'. Na Lei nº 12.527/2011, indeferido o pedido de desclassificação, o recurso é dirigido ao Ministro de Estado da área — sem prejuízo das competências próprias da Comissão Mista de Reavaliação de Informações e da autoridade máxima do órgão —, e somente pode ser a ele endereçado DEPOIS de submetida a matéria à apreciação de ao menos uma autoridade hierarquicamente superior àquela que exarou a decisão impugnada, a qual deliberará no prazo de cinco dias. A redação correta seria, portanto: 'o recurso é dirigido ao Ministro de Estado da área, após prévia apreciação por ao menos uma autoridade hierarquicamente superior, que deliberará em cinco dias'. O item cobra a distinção fina entre dois itinerários recursais que a lei disciplina em dispositivos diversos: o recurso contra a NEGATIVA DE ACESSO, que pode culminar na Controladoria-Geral da União, e o recurso contra o indeferimento de pedido de DESCLASSIFICAÇÃO, que segue a via ministerial. A Comissão Mista atua na revisão da classificação e na prorrogação de sigilo, de ofício ou mediante provocação, mas não é a instância recursal ordinária desse pedido.",
+    "fundamentacaoLegal": "Art. 17, caput e §§ 1º e 2º, da Lei nº 12.527/2011; arts. 15, 16 e 35, § 1º, II, da Lei nº 12.527/2011."
+  },
+  {
+    "id": "transparencia-lai-fcx-05",
+    "topicoId": "transparencia-lai",
+    "topico": "Transparência e acesso à informação",
+    "dificuldade": "extremo",
+    "enunciado": "A Lei de Acesso à Informação não exclui as demais hipóteses legais de sigilo, entre as quais o sigilo das operações financeiras; nesse contexto, o STF assentou, em repercussão geral, que a requisição de informações bancárias pelas administrações tributárias, na forma prevista em lei complementar e desde que haja processo administrativo instaurado ou procedimento fiscal em curso e os exames sejam indispensáveis, configura transferência do dever de sigilo, e não sua quebra, condicionando-se, todavia, o exercício dessa faculdade pelos Estados e Municípios à prévia regulamentação da matéria em termos análogos aos da regulamentação federal.",
+    "gabarito": "C",
+    "justificativa": "O item está correto e integra três camadas normativas, sendo especialmente relevante para carreiras de auditoria fiscal. Primeira: a Lei nº 12.527/2011 é expressa ao ressalvar que não exclui as demais hipóteses legais de sigilo e de segredo de justiça, de modo que o regime de transparência não revoga sigilos setoriais. Segunda: no RE 601.314, julgado sob o rito da repercussão geral, o STF reconheceu a constitucionalidade do art. 6º da Lei Complementar nº 105/2001, adotando a tese de que não há quebra de sigilo, mas TRANSFERÊNCIA do dever de sigilo da esfera bancária para a esfera fiscal, permanecendo o dado protegido e sujeito a responsabilização em caso de divulgação indevida. Terceira, e é o detalhe que separa quem estudou o acórdão de quem apenas leu a manchete: o STF condicionou o exercício dessa prerrogativa pelos Estados, pelo Distrito Federal e pelos Municípios à edição de regulamentação própria, análoga à norma regulamentadora federal, com sistemas de segurança, registro de acesso e responsabilização do agente. A assertiva reproduz também os requisitos legais cumulativos — processo administrativo instaurado ou procedimento fiscal em curso e indispensabilidade do exame —, sem os quais o acesso é ilegítimo.",
+    "fundamentacaoLegal": "Arts. 7º, § 2º, e 22 da Lei nº 12.527/2011; art. 6º da Lei Complementar nº 105/2001; RE 601.314, do STF, julgado sob o rito da repercussão geral; art. 145, § 1º, da CF/88; art. 198 do CTN."
+  }
+]

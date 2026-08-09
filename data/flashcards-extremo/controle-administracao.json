@@ -1,0 +1,102 @@
+[
+  {
+    "id": "controle-administracao-fcx-01",
+    "topicoId": "controle-administracao",
+    "topico": "Controle da Administração Pública",
+    "dificuldade": "extremo",
+    "enunciado": "A decisão que, na esfera controladora, decreta a invalidação de contrato administrativo prescinde da indicação expressa de suas consequências jurídicas e administrativas, bastando a demonstração cabal da ilegalidade, uma vez que do ato nulo não se originam direitos.",
+    "gabarito": "E",
+    "justificativa": "A expressão que torna o item falso é \"prescinde da indicação expressa de suas consequências jurídicas e administrativas\". O art. 21 da LINDB, incluído pela Lei nº 13.655/2018, é categórico: a decisão que, nas esferas administrativa, CONTROLADORA e judicial, decretar a invalidação de ato, contrato, ajuste, processo ou norma administrativa deverá indicar de modo expresso suas consequências jurídicas e administrativas. O parágrafo único acrescenta que a decisão deverá, quando for o caso, indicar as condições para que a regularização ocorra de modo proporcional e equânime e sem prejuízo aos interesses gerais, não se podendo impor aos sujeitos atingidos ônus ou perdas que, em função das peculiaridades do caso, sejam anormais ou excessivos. A invocação do brocardo de que o ato nulo não gera direitos não dispensa o dever de consequencialismo decisório, que a lei impôs justamente para conter a anulação abstrata praticada por órgãos de controle. A redação correta seria: a decisão invalidatória deve indicar expressamente suas consequências e, quando cabível, as condições de regularização.",
+    "fundamentacaoLegal": "Decreto-Lei nº 4.657/1942 (LINDB), arts. 20 e 21, caput e parágrafo único, com a redação da Lei nº 13.655/2018."
+  },
+  {
+    "id": "controle-administracao-fcx-02",
+    "topicoId": "controle-administracao",
+    "topico": "Controle da Administração Pública",
+    "dificuldade": "extremo",
+    "enunciado": "O procurador municipal que emite parecer jurídico opinando pela viabilidade de contratação direta somente pode ser responsabilizado pessoalmente perante o órgão de controle externo em caso de dolo ou de erro grosseiro, assim considerado o erro manifesto, evidente e inescusável praticado com culpa grave, não bastando, para tanto, a divergência de interpretação razoável quanto à norma aplicável.",
+    "gabarito": "C",
+    "justificativa": "O item conjuga corretamente a LINDB e seu regulamento. O art. 28 da LINDB, incluído pela Lei nº 13.655/2018, dispõe que o agente público responderá pessoalmente por suas decisões ou opiniões técnicas em caso de dolo ou erro grosseiro. O Decreto nº 9.830/2019, ao regulamentar os arts. 20 a 30 da LINDB, define erro grosseiro como aquele manifesto, evidente e inescusável praticado com culpa grave, caracterizado por ação ou omissão com elevado grau de negligência, imprudência ou imperícia. Disso decorre, a contrario sensu, que a culpa leve e a mera divergência hermenêutica razoável não autorizam a responsabilização pessoal do parecerista, exigência que dialoga com o art. 22 da LINDB, o qual manda considerar os obstáculos e as dificuldades reais do gestor. Registre-se que o STF, ao tratar da responsabilização de advogado público por parecer, distinguiu o parecer meramente opinativo — que não vincula o administrador nem, em regra, responsabiliza o parecerista — do parecer vinculante, que se incorpora ao ato administrativo e pode atrair responsabilidade solidária.",
+    "fundamentacaoLegal": "Decreto-Lei nº 4.657/1942 (LINDB), arts. 22 e 28; Decreto nº 9.830/2019, art. 12, § 1º; STF, MS 24.631/DF (parecer opinativo x parecer vinculante)."
+  },
+  {
+    "id": "controle-administracao-fcx-03",
+    "topicoId": "controle-administracao",
+    "topico": "Controle da Administração Pública",
+    "dificuldade": "extremo",
+    "enunciado": "Comissão parlamentar de inquérito instaurada por assembleia legislativa pode determinar, por autoridade própria e mediante deliberação fundamentada, a quebra dos sigilos bancário, fiscal e de dados telefônicos dos investigados, sendo-lhe vedado, contudo, decretar a interceptação das comunicações telefônicas e a busca e apreensão domiciliar, matérias submetidas à reserva de jurisdição.",
+    "gabarito": "C",
+    "justificativa": "O item está correto e delimita com precisão o alcance do art. 58, § 3º, da CF, que confere às comissões parlamentares de inquérito poderes de investigação próprios das autoridades judiciais. A jurisprudência do STF esclarece que esses poderes abrangem os atos de instrução que a Constituição não reservou, com exclusividade, ao Poder Judiciário — daí a possibilidade de a CPI, mediante deliberação colegiada e devidamente fundamentada, determinar a quebra dos sigilos bancário, fiscal e de registros telefônicos. Não alcançam, todavia, as hipóteses de reserva de jurisdição estrita: interceptação das comunicações telefônicas (art. 5º, XII, da CF), busca e apreensão domiciliar (art. 5º, XI) e decretação de prisão, salvo em flagrante. A cláusula da reserva de jurisdição também explica por que a CPI não pode aplicar sanções nem determinar medidas cautelares patrimoniais como a indisponibilidade de bens. O item ainda é preciso ao exigir fundamentação: a quebra de sigilo por CPI sem motivação idônea é nula.",
+    "fundamentacaoLegal": "CF/88, art. 58, § 3º, e art. 5º, XI e XII; Lei Complementar nº 105/2001, art. 4º, § 1º; jurisprudência do STF sobre poderes de CPI e reserva de jurisdição."
+  },
+  {
+    "id": "controle-administracao-fcx-04",
+    "topicoId": "controle-administracao",
+    "topico": "Controle da Administração Pública",
+    "dificuldade": "extremo",
+    "enunciado": "O Ministério Público pode valer-se da ação civil pública para postular a invalidação de benefício fiscal concedido por lei municipal a determinado setor econômico, ao argumento de lesão ao patrimônio público, uma vez que a renúncia indevida de receita configura dano ao erário tutelável por essa via.",
+    "gabarito": "E",
+    "justificativa": "O item é falso por dois fundamentos autônomos. Primeiro, o art. 1º, parágrafo único, da Lei nº 7.347/1985 veda expressamente o manejo da ação civil pública para veicular pretensões que envolvam TRIBUTOS, contribuições previdenciárias, o Fundo de Garantia do Tempo de Serviço ou outros fundos de natureza institucional cujos beneficiários possam ser individualmente determinados — e a impugnação de benefício fiscal é pretensão de natureza tributária. Segundo, a ação civil pública não pode ser utilizada como sucedâneo de ação direta de inconstitucionalidade: quando o pedido tem por objeto, e não como simples questão prejudicial incidental, a declaração de inconstitucionalidade de lei em tese, com eficácia erga omnes, o STF reconhece a usurpação de sua competência. A redação correta indicaria a via da representação de inconstitucionalidade perante o tribunal de justiça, em face da Constituição estadual, ou o controle exercido pelo tribunal de contas quanto à observância dos requisitos da Lei de Responsabilidade Fiscal para a renúncia de receita.",
+    "fundamentacaoLegal": "Lei nº 7.347/1985, art. 1º, parágrafo único; CF/88, art. 125, § 2º; Lei Complementar nº 101/2000, art. 14; jurisprudência do STF sobre ACP como sucedâneo de ADI."
+  },
+  {
+    "id": "controle-administracao-fcx-05",
+    "topicoId": "controle-administracao",
+    "topico": "Controle da Administração Pública",
+    "dificuldade": "extremo",
+    "enunciado": "É prescritível a pretensão de ressarcimento ao erário fundada em decisão de tribunal de contas, não se lhe aplicando a ressalva de imprescritibilidade admitida pelo Supremo Tribunal Federal para o ressarcimento decorrente de ato doloso de improbidade administrativa.",
+    "gabarito": "C",
+    "justificativa": "O item reproduz, com o recorte correto, a tese firmada pelo STF no RE 636.886/AL (Tema 899): é prescritível a pretensão de ressarcimento ao erário fundada em decisão de tribunal de contas. O fundamento é que o acórdão da Corte de Contas, embora tenha eficácia de título executivo extrajudicial por força do art. 71, § 3º, da CF, não é título judicial e resulta de processo de contas que não apura, necessariamente, a existência de ato doloso de improbidade. A imprescritibilidade reconhecida no RE 852.475/SP (Tema 897) é restrita ao ressarcimento decorrente de ato DOLOSO tipificado na Lei de Improbidade Administrativa, exigindo, portanto, pronunciamento judicial em ação própria. Confundir os dois planos — o da execução do acórdão de contas e o da ação de improbidade — é o erro típico da matéria.",
+    "fundamentacaoLegal": "CF/88, art. 37, § 5º, e art. 71, § 3º; STF, RE 636.886/AL, Tema 899 da repercussão geral; STF, RE 852.475/SP, Tema 897 da repercussão geral."
+  },
+  {
+    "id": "controle-administracao-fcx-06",
+    "topicoId": "controle-administracao",
+    "topico": "Controle da Administração Pública",
+    "dificuldade": "extremo",
+    "enunciado": "No exercício do poder geral de cautela reconhecido pela jurisprudência, o Tribunal de Contas da União pode decretar a indisponibilidade dos bens do responsável enquanto perdurar a apuração das irregularidades, independentemente de prazo determinado e de motivação específica, dada a presunção de legitimidade que reveste as decisões do órgão de controle externo.",
+    "gabarito": "E",
+    "justificativa": "As expressões falsas são \"independentemente de prazo determinado e de motivação específica\". É verdade que o STF reconhece ao Tribunal de Contas o poder geral de cautela, como decorrência implícita das competências do art. 71 da Constituição — poder que seria inócuo se a Corte não pudesse assegurar a utilidade de suas decisões. Contudo, a Lei nº 8.443/1992 delimita a medida: o art. 44, § 2º, autoriza a decretação da indisponibilidade de bens do responsável por prazo NÃO SUPERIOR A UM ANO, e apenas na extensão necessária para garantir o ressarcimento dos danos em apuração. Ademais, por se tratar de medida restritiva de direito fundamental, exige motivação idônea e concreta quanto ao periculum in mora e ao fumus boni iuris, com contraditório diferido. A redação correta seria: a indisponibilidade pode ser decretada por prazo não superior a um ano, mediante decisão motivada, na medida suficiente à garantia do ressarcimento.",
+    "fundamentacaoLegal": "CF/88, art. 71; Lei nº 8.443/1992, art. 44, caput e § 2º; jurisprudência do STF sobre o poder geral de cautela dos tribunais de contas."
+  },
+  {
+    "id": "controle-administracao-fcx-07",
+    "topicoId": "controle-administracao",
+    "topico": "Controle da Administração Pública",
+    "dificuldade": "extremo",
+    "enunciado": "Salvo previsão legal expressa, não é cabível recurso hierárquico impróprio dirigido ao ministério ou à secretaria supervisora contra decisão de dirigente de autarquia, uma vez que entre a Administração direta e as entidades da Administração indireta não há relação de hierarquia, mas vínculo de supervisão, tutela ou controle finalístico.",
+    "gabarito": "C",
+    "justificativa": "O item está correto e explora instituto periférico de alto rendimento em provas. O recurso hierárquico próprio é o dirigido à autoridade imediatamente superior dentro da mesma pessoa jurídica e decorre do poder hierárquico, independendo de previsão legal expressa. Já o recurso hierárquico IMPRÓPRIO é dirigido a autoridade ou órgão estranho à estrutura em que proferida a decisão — tipicamente da entidade descentralizada para o órgão supervisor da Administração direta. Como a descentralização rompe o vínculo hierárquico, substituindo-o pelo controle finalístico (supervisão ministerial ou tutela administrativa), esse recurso só é admissível quando a lei o preveja expressamente. Daí a assertiva ser exata ao ressalvar \"salvo previsão legal expressa\". A discussão ganhou relevo no âmbito das agências reguladoras, em que a admissão do recurso hierárquico impróprio é apontada como fator de restrição à autonomia reforçada da entidade.",
+    "fundamentacaoLegal": "Decreto-Lei nº 200/1967, arts. 19 e 26 (supervisão ministerial); Lei nº 9.784/1999, art. 56, § 1º; doutrina de Maria Sylvia Zanella Di Pietro e Celso Antônio Bandeira de Mello sobre tutela administrativa."
+  },
+  {
+    "id": "controle-administracao-fcx-08",
+    "topicoId": "controle-administracao",
+    "topico": "Controle da Administração Pública",
+    "dificuldade": "extremo",
+    "enunciado": "Constatada, em prestação de contas de convênio, irregularidade imputável exclusivamente à gestão municipal anterior, é lícito ao órgão federal repassador manter o município inscrito em cadastro de inadimplentes, obstando-lhe a celebração de novos ajustes, ainda que a administração sucessora tenha adotado todas as providências de saneamento e de responsabilização dos gestores faltosos.",
+    "gabarito": "E",
+    "justificativa": "A expressão que torna o item falso é \"é lícito manter o município inscrito\". Aplica-se aqui o princípio da intranscendência subjetiva das sanções, reconhecido pelo STF em sucessivas ações cíveis originárias envolvendo entes federados: as restrições decorrentes de irregularidade praticada por gestão anterior não podem transcender a pessoa do infrator para atingir a entidade federativa e, por via reflexa, a população destinatária das políticas públicas, sobretudo quando a administração sucessora demonstra ter adotado as medidas de saneamento e de responsabilização cabíveis. O fundamento é o princípio da pessoalidade ou da personalidade da sanção, extraído do art. 5º, XLV, da CF, associado à continuidade dos serviços públicos e à razoabilidade. A redação correta afirmaria que, comprovadas as providências saneadoras pela gestão sucessora, o ente tem direito à exclusão do cadastro restritivo, permanecendo a responsabilização pessoal dos gestores responsáveis pela irregularidade.",
+    "fundamentacaoLegal": "CF/88, art. 5º, XLV; jurisprudência do STF sobre intranscendência subjetiva das sanções e inscrição de entes federados em cadastros restritivos (CAUC/SIAFI)."
+  },
+  {
+    "id": "controle-administracao-fcx-09",
+    "topicoId": "controle-administracao",
+    "topico": "Controle da Administração Pública",
+    "dificuldade": "extremo",
+    "enunciado": "É lícito ao Poder Judiciário, em sede de controle jurisdicional, impor à Administração Pública obrigação de fazer consistente na realização de obras emergenciais em estabelecimento prisional para assegurar a observância da dignidade da pessoa humana, não sendo oponíveis, nessa hipótese, a alegação de reserva do possível nem o princípio da separação dos poderes.",
+    "gabarito": "C",
+    "justificativa": "O item reproduz a orientação firmada pelo STF no RE 592.581/RS, julgado sob o regime da repercussão geral. Embora, em regra, o controle judicial não alcance a conveniência e a oportunidade da atuação administrativa, o Supremo assentou que, tratando-se de omissão que compromete direitos fundamentais em grau intolerável — como a submissão de presos a condições degradantes —, a determinação judicial de realização de obras emergenciais não configura ingerência indevida na esfera de discricionariedade do administrador, mas concretização de dever constitucional vinculado. A cláusula da reserva do possível não pode ser invocada como escusa genérica quando está em causa o mínimo existencial, exigindo-se do Poder Público a demonstração objetiva da impossibilidade material, o que a jurisprudência não presume. Note-se que a tese autoriza a imposição de obrigação de fazer específica e emergencial, e não a substituição genérica do administrador na definição de políticas públicas.",
+    "fundamentacaoLegal": "CF/88, art. 1º, III, art. 5º, XLIX, e art. 5º, XXXV; STF, RE 592.581/RS, julgado sob repercussão geral."
+  },
+  {
+    "id": "controle-administracao-fcx-10",
+    "topicoId": "controle-administracao",
+    "topico": "Controle da Administração Pública",
+    "dificuldade": "extremo",
+    "enunciado": "Por disciplinar a participação e a defesa dos direitos do usuário no âmbito da administração pública federal, a Lei nº 13.460/2017 não alcança os serviços públicos municipais prestados por concessionária, razão pela qual as manifestações do usuário perante a ouvidoria da delegatária regem-se exclusivamente pelo Código de Defesa do Consumidor.",
+    "gabarito": "E",
+    "justificativa": "O item é falso em suas duas orações. Primeiro, a Lei nº 13.460/2017 não é norma exclusivamente federal: ela dispõe sobre participação, proteção e defesa dos direitos do usuário dos serviços públicos da administração pública direta e indireta da União, dos Estados, do Distrito Federal e dos Municípios, em concretização do art. 37, § 3º, da CF, e alcança os serviços prestados indiretamente, inclusive por concessionárias e permissionárias. Segundo, a incidência da lei não afasta a aplicação do Código de Defesa do Consumidor nem das normas regulamentadoras setoriais: os regimes são cumulativos, e não excludentes, tanto que o CDC impõe aos concessionários o dever de prestar serviços adequados, eficientes, seguros e, quanto aos essenciais, contínuos. A redação correta seria: a Lei nº 13.460/2017 aplica-se também aos serviços municipais prestados por delegatários, sem prejuízo da incidência simultânea do Código de Defesa do Consumidor.",
+    "fundamentacaoLegal": "CF/88, art. 37, § 3º; Lei nº 13.460/2017, art. 1º, §§ 1º e 2º; Lei nº 8.078/1990, art. 22."
+  }
+]

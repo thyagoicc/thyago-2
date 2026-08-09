@@ -1,0 +1,102 @@
+[
+  {
+    "id": "servicos-publicos-fcx-01",
+    "topicoId": "servicos-publicos",
+    "topico": "Serviços públicos",
+    "dificuldade": "extremo",
+    "enunciado": "A prestação dos serviços públicos de saneamento básico por entidade que não integre a administração do titular depende da celebração de contrato de concessão, precedido de licitação, sendo vedada a sua formalização por meio de contrato de programa, convênio, termo de parceria ou instrumento de natureza precária.",
+    "gabarito": "C",
+    "justificativa": "O item exige o conhecimento da alteração promovida pelo novo marco legal do saneamento básico. Antes da Lei nº 14.026/2020, era corrente a delegação do serviço de saneamento pelo município à companhia estadual mediante contrato de programa, no regime de gestão associada da Lei nº 11.107/2005, sem licitação. Com a nova redação conferida ao art. 10 da Lei nº 11.445/2007, a prestação por entidade que não integre a administração do titular passou a depender da celebração de contrato de concessão, mediante prévia licitação, vedadas a disciplina mediante convênio, termo de parceria ou outros instrumentos de natureza precária e a formalização por contrato de programa. A finalidade da mudança é submeter o setor à competição e à lógica contratual da Lei nº 8.987/1995, com metas de universalização exigíveis. Note-se que a titularidade permanece com o município nos serviços de interesse local; nas regiões metropolitanas, o STF, ao julgar ação direta sobre a matéria, assentou que a titularidade do saneamento é exercida de forma compartilhada por colegiado integrado pelo Estado e pelos municípios, vedada a concentração do poder decisório em um só ente.",
+    "fundamentacaoLegal": "Lei nº 11.445/2007, art. 10, com a redação dada pela Lei nº 14.026/2020; CF/88, arts. 175 e 241; Lei nº 11.107/2005."
+  },
+  {
+    "id": "servicos-publicos-fcx-02",
+    "topicoId": "servicos-publicos",
+    "topico": "Serviços públicos",
+    "dificuldade": "extremo",
+    "enunciado": "Denomina-se concessão administrativa, na Lei nº 11.079/2004, a modalidade de parceria público-privada em que a tarifa cobrada dos usuários é complementada por contraprestação pecuniária do parceiro público ao parceiro privado.",
+    "gabarito": "E",
+    "justificativa": "Houve troca entre as duas espécies de parceria público-privada. O conceito descrito é o de concessão PATROCINADA, definida no art. 2º, § 1º, da Lei nº 11.079/2004 como a concessão de serviços públicos ou de obras públicas de que trata a Lei nº 8.987/1995 quando envolver, adicionalmente à tarifa cobrada dos usuários, contraprestação pecuniária do parceiro público ao parceiro privado. A concessão ADMINISTRATIVA, por sua vez, é definida no § 2º do mesmo artigo como o contrato de prestação de serviços de que a Administração Pública seja a usuária direta ou indireta, ainda que envolva execução de obra ou fornecimento e instalação de bens — nela não há tarifa paga pelo usuário, sendo a remuneração integralmente suportada pelo parceiro público. Complete-se a distinção: a concessão comum, regida pela Lei nº 8.987/1995, é aquela em que não há qualquer contraprestação pecuniária do poder concedente, motivo pelo qual não constitui parceria público-privada, na forma do art. 2º, § 3º, da Lei nº 11.079/2004.",
+    "fundamentacaoLegal": "Lei nº 11.079/2004, art. 2º, §§ 1º, 2º e 3º; Lei nº 8.987/1995, art. 2º, II e III."
+  },
+  {
+    "id": "servicos-publicos-fcx-03",
+    "topicoId": "servicos-publicos",
+    "topico": "Serviços públicos",
+    "dificuldade": "extremo",
+    "enunciado": "Por força do dever de prestação de serviços adequados imposto pelo Código de Defesa do Consumidor aos órgãos públicos e às suas concessionárias, o usuário de serviço público prestado de forma geral e indivisível, custeado por receitas de impostos, ostenta a condição de consumidor, podendo pleitear a reparação de danos com fundamento na responsabilidade objetiva do fornecedor e valer-se da inversão do ônus da prova.",
+    "gabarito": "E",
+    "justificativa": "A expressão que torna o item falso é \"ostenta a condição de consumidor\" quando se trate de serviço geral e indivisível custeado por impostos. Embora o art. 22 do Código de Defesa do Consumidor imponha aos órgãos públicos e a suas concessionárias e permissionárias o dever de fornecer serviços adequados, eficientes, seguros e, quanto aos essenciais, contínuos, a incidência do microssistema consumerista pressupõe relação de consumo, que exige serviço prestado mediante remuneração específica e fruível individualmente — os serviços uti singuli, remunerados por taxa ou, sobretudo, por tarifa. Os serviços uti universi, prestados indistintamente à coletividade e custeados por receitas gerais de impostos, como a segurança pública, a iluminação pública e a defesa civil, não configuram relação de consumo, conforme a jurisprudência do STJ, o que afasta a aplicação do CDC e de seus instrumentos, como a inversão do ônus da prova. A redação correta seria: nos serviços gerais e indivisíveis não há relação de consumo, remanescendo a reparação de danos fundada no art. 37, § 6º, da Constituição Federal.",
+    "fundamentacaoLegal": "Lei nº 8.078/1990, arts. 2º, 3º, § 2º, e 22; CF/88, art. 37, § 6º; jurisprudência do STJ sobre inaplicabilidade do CDC a serviços uti universi."
+  },
+  {
+    "id": "servicos-publicos-fcx-04",
+    "topicoId": "servicos-publicos",
+    "topico": "Serviços públicos",
+    "dificuldade": "extremo",
+    "enunciado": "É lícita a fixação de tarifas diferenciadas em função das características técnicas e dos custos específicos provenientes do atendimento a distintos segmentos de usuários, entendimento que se harmoniza com a orientação sumulada do Superior Tribunal de Justiça acerca da legitimidade da cobrança de tarifa de água fixada de acordo com as categorias de usuários e as faixas de consumo.",
+    "gabarito": "C",
+    "justificativa": "O item é correto e articula lei e súmula. O art. 13 da Lei nº 8.987/1995 autoriza expressamente a diferenciação tarifária em função das características técnicas e dos custos específicos provenientes do atendimento aos distintos segmentos de usuários. No mesmo sentido, a Súmula 407 do STJ enuncia ser legítima a cobrança da tarifa de água fixada de acordo com as categorias de usuários e as faixas de consumo. Não há, nessa estrutura, ofensa à isonomia ou à modicidade das tarifas: ao contrário, a diferenciação realiza a igualdade material, na medida em que trata desigualmente usuários que impõem custos desiguais ao sistema, e viabiliza subsídios cruzados que preservam o acesso das faixas de menor consumo. O que o ordenamento veda é a discriminação desprovida de base técnica ou de correlação com custos, bem como a instituição de tarifa que, a pretexto de diferenciação, converta-se em exação tributária disfarçada.",
+    "fundamentacaoLegal": "Lei nº 8.987/1995, arts. 6º, § 1º, 9º e 13; Súmula 407 do STJ; CF/88, art. 175, parágrafo único, III."
+  },
+  {
+    "id": "servicos-publicos-fcx-05",
+    "topicoId": "servicos-publicos",
+    "topico": "Serviços públicos",
+    "dificuldade": "extremo",
+    "enunciado": "A intervenção na concessão é declarada por decreto do poder concedente e independe da instauração de procedimento administrativo específico, o qual somente se fará necessário se, ao término da medida, o poder concedente pretender declarar a caducidade da concessão.",
+    "gabarito": "E",
+    "justificativa": "A expressão falsa é \"independe da instauração de procedimento administrativo específico\". Nos termos do art. 32 da Lei nº 8.987/1995, o poder concedente poderá intervir na concessão para assegurar a adequação na prestação do serviço e o fiel cumprimento das normas contratuais, regulamentares e legais, fazendo-o por decreto que designe o interventor, o prazo da intervenção e seus objetivos e limites. O art. 33 impõe, porém, que, declarada a intervenção, o poder concedente instaure, no prazo de TRINTA DIAS, procedimento administrativo para comprovar as causas determinantes da medida e apurar responsabilidades, assegurado o direito de ampla defesa. As consequências do descumprimento são severas e caem em prova: se ficar comprovado que a intervenção não observou os pressupostos legais e regulamentares, será declarada sua nulidade, devendo o serviço ser imediatamente devolvido à concessionária, sem prejuízo de seu direito à indenização (§ 1º); e o procedimento deverá ser concluído no prazo de até cento e oitenta dias, sob pena de considerar-se inválida a intervenção (§ 2º). Note-se ainda que a intervenção não é forma de extinção da concessão, mas medida de fiscalização, não se confundindo com a caducidade nem com a encampação.",
+    "fundamentacaoLegal": "Lei nº 8.987/1995, arts. 32, caput e parágrafo único, 33, caput e §§ 1º e 2º, e 34."
+  },
+  {
+    "id": "servicos-publicos-fcx-06",
+    "topicoId": "servicos-publicos",
+    "topico": "Serviços públicos",
+    "dificuldade": "extremo",
+    "enunciado": "Desde que previsto no contrato de concessão, o poder concedente autorizará a assunção do controle ou da administração temporária da concessionária por seus financiadores e garantidores que com ela não mantenham vínculo societário direto, com a finalidade de promover sua reestruturação financeira e assegurar a continuidade da prestação do serviço.",
+    "gabarito": "C",
+    "justificativa": "O item reproduz corretamente o art. 27-A da Lei nº 8.987/1995, incluído pela Lei nº 13.097/2015, que positivou no direito brasileiro o chamado step-in right dos financiadores do projeto. O instituto atende simultaneamente ao princípio da continuidade do serviço público e à bancabilidade dos contratos de longo prazo: em vez de extinguir a concessão de uma empresa em dificuldade financeira, permite-se que os credores assumam temporariamente o controle ou a administração para recuperá-la. Não se trata de dispensa de controle público: a lei exige que os financiadores e garantidores atendam às exigências de regularidade jurídica e fiscal, podendo o poder concedente alterar ou dispensar os demais requisitos de capacidade técnica, idoneidade financeira e regularidade previstos para a transferência de controle. Distinga-se essa hipótese daquela do art. 27, segundo a qual a transferência da concessão ou do controle societário da concessionária sem prévia anuência do poder concedente implica a caducidade da concessão.",
+    "fundamentacaoLegal": "Lei nº 8.987/1995, art. 27-A, caput e §§, incluído pela Lei nº 13.097/2015; art. 27, caput e parágrafo único."
+  },
+  {
+    "id": "servicos-publicos-fcx-07",
+    "topicoId": "servicos-publicos",
+    "topico": "Serviços públicos",
+    "dificuldade": "extremo",
+    "enunciado": "A concessão patrocinada em que mais de setenta por cento da remuneração do parceiro privado seja paga pela Administração Pública depende de autorização legislativa específica, sendo ainda vedada a celebração de contrato de parceria público-privada cujo período de prestação do serviço seja inferior a cinco anos ou que tenha como objeto único o fornecimento de mão de obra, o fornecimento e a instalação de equipamentos ou a execução de obra pública.",
+    "gabarito": "C",
+    "justificativa": "Todas as afirmações correspondem à Lei nº 11.079/2004. O art. 10, § 3º, condiciona à autorização legislativa específica a concessão patrocinada em que mais de 70% da remuneração do parceiro privado seja paga pela Administração Pública — exigência que se justifica pelo elevado comprometimento de recursos públicos futuros e pela consequente restrição da discricionariedade orçamentária das gestões seguintes. O art. 2º, § 4º, por sua vez, veda a celebração de contrato de parceria público-privada cujo período de prestação do serviço seja inferior a cinco anos (inciso II) e que tenha como objeto único o fornecimento de mão de obra, o fornecimento e instalação de equipamentos ou a execução de obra pública (inciso III), pois em tais hipóteses o ajuste seria um contrato administrativo comum, sujeito à Lei nº 14.133/2021, e não uma parceria de longo prazo estruturada sobre repartição objetiva de riscos e remuneração vinculada a desempenho.",
+    "fundamentacaoLegal": "Lei nº 11.079/2004, art. 2º, § 4º, II e III, art. 5º, I, e art. 10, § 3º."
+  },
+  {
+    "id": "servicos-publicos-fcx-08",
+    "topicoId": "servicos-publicos",
+    "topico": "Serviços públicos",
+    "dificuldade": "extremo",
+    "enunciado": "Na licitação destinada à delegação de serviço público regida pela Lei nº 8.987/1995, é vedada a inversão da ordem das fases de habilitação e julgamento, de modo que a documentação de habilitação de todos os licitantes deve ser necessariamente examinada antes da abertura das propostas.",
+    "gabarito": "E",
+    "justificativa": "A expressão que torna o item falso é \"é vedada a inversão da ordem das fases de habilitação e julgamento\". O art. 18-A da Lei nº 8.987/1995 dispõe expressamente que o edital PODERÁ prever a inversão da ordem das fases de habilitação e julgamento, hipótese em que, encerrada a fase de classificação das propostas ou o oferecimento de lances, será aberto o invólucro com os documentos de habilitação apenas do licitante mais bem classificado, e, se este for inabilitado, examinar-se-ão os documentos do licitante subsequente, na ordem de classificação. A técnica, hoje generalizada nas contratações públicas, prestigia a economicidade e a celeridade, ao evitar a análise da habilitação de todos os concorrentes. Registre-se ainda que a delegação por concessão pressupõe licitação na modalidade concorrência ou, após a alteração promovida pela Lei nº 14.133/2021, diálogo competitivo. A redação correta seria: o edital poderá prever a inversão de fases, examinando-se a habilitação apenas do licitante mais bem classificado.",
+    "fundamentacaoLegal": "Lei nº 8.987/1995, art. 2º, II e III, e art. 18-A; CF/88, art. 175, caput."
+  },
+  {
+    "id": "servicos-publicos-fcx-09",
+    "topicoId": "servicos-publicos",
+    "topico": "Serviços públicos",
+    "dificuldade": "extremo",
+    "enunciado": "A autorização de serviço público, tal como concebida pela doutrina majoritária, consubstancia ato administrativo unilateral, discricionário e precário, empregado em situações emergenciais ou em serviços prestados em benefício predominante do próprio autorizatário, o que explica não figurar tal instituto no art. 175 da Constituição Federal, que submete à prévia licitação apenas a concessão e a permissão de serviços públicos.",
+    "gabarito": "C",
+    "justificativa": "O item está correto e exige a distinção fina entre as três formas de delegação. O art. 175 da CF dispõe que incumbe ao Poder Público, na forma da lei, diretamente ou sob regime de concessão ou permissão, SEMPRE ATRAVÉS DE LICITAÇÃO, a prestação de serviços públicos — não mencionando a autorização. A concessão é delegada por contrato administrativo, a pessoa jurídica ou consórcio de empresas, mediante concorrência, por prazo determinado; a permissão, embora igualmente precedida de licitação, é formalizada por contrato de adesão a título precário, podendo recair sobre pessoa física ou jurídica. A autorização, por sua vez, é ato administrativo unilateral, discricionário e precário, empregado pela doutrina para explicar situações emergenciais e serviços em que preponde o interesse do próprio particular, sendo mencionada em dispositivos constitucionais setoriais, como o art. 21, XI e XII. A precariedade acentuada é a razão de sua revogabilidade a qualquer tempo, em regra sem direito a indenização, o que a distingue da permissão contratualizada disciplinada no art. 40 da Lei nº 8.987/1995.",
+    "fundamentacaoLegal": "CF/88, art. 175, caput, e art. 21, XI e XII; Lei nº 8.987/1995, art. 2º, II e IV, e art. 40; doutrina de Maria Sylvia Zanella Di Pietro e Hely Lopes Meirelles."
+  },
+  {
+    "id": "servicos-publicos-fcx-10",
+    "topicoId": "servicos-publicos",
+    "topico": "Serviços públicos",
+    "dificuldade": "extremo",
+    "enunciado": "Concessionária de serviço de transporte coletivo urbano demonstrou que o custo do combustível utilizado em sua frota sofreu elevação superior à projetada em sua planilha de custos, o que reduziu a margem de lucro estimada na proposta. Nessa situação, por se tratar de fato superveniente que onera a execução do contrato, a concessionária faz jus à revisão extraordinária da tarifa, com vistas à recomposição do equilíbrio econômico-financeiro do ajuste.",
+    "gabarito": "E",
+    "justificativa": "A expressão que torna o item falso é \"faz jus à revisão extraordinária da tarifa\". A concessão é prestada por conta e risco da concessionária, nos termos do art. 2º, II e III, da Lei nº 8.987/1995, o que significa que ela assume as áleas ORDINÁRIAS do empreendimento — as oscilações previsíveis de custos de insumos e de mão de obra e a frustração da margem de lucro estimada. Tais variações são tratadas pelo REAJUSTE, mecanismo periódico e automático de atualização de preços por índices previamente pactuados, e não pela REVISÃO, que pressupõe álea EXTRAORDINÁRIA e extracontratual, isto é, evento imprevisível ou previsível de consequências incalculáveis, capaz de desequilibrar substancialmente a equação econômico-financeira: fato do príncipe, fato da Administração, caso fortuito ou força maior, sujeições imprevistas e, na dicção do art. 9º, § 3º, da mesma lei, a criação, a alteração ou a extinção de tributos ou encargos legais posteriores à proposta, ressalvados os impostos sobre a renda. Reforça a solução a lógica da matriz de alocação de riscos, hoje expressamente admitida pela Lei nº 14.133/2021, segundo a qual o risco assumido contratualmente pelo particular não gera direito a recomposição. A redação correta negaria a revisão, admitindo apenas o reajuste contratualmente previsto.",
+    "fundamentacaoLegal": "Lei nº 8.987/1995, art. 2º, II e III, art. 9º, caput e §§ 2º e 3º, e art. 10; Lei nº 14.133/2021, art. 22 (matriz de alocação de riscos); teoria da imprevisão."
+  }
+]

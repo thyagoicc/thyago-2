@@ -1,0 +1,102 @@
+[
+  {
+    "id": "intervencao-propriedade-fcx-01",
+    "topicoId": "intervencao-propriedade",
+    "topico": "Intervenção do Estado na propriedade",
+    "dificuldade": "extremo",
+    "enunciado": "Em 2005, município apossou-se administrativamente de imóvel particular, nele implantando e mantendo, desde então, obra pública de caráter produtivo, sem prévio processo expropriatório e sem qualquer indenização. O proprietário ajuizou ação de desapropriação indireta em 2014. Nessa situação, o prazo prescricional aplicável é de dez anos, contado do apossamento, achando-se superado o enunciado sumular do STJ que fixava o prazo em vinte anos, editado sob a vigência do Código Civil de 1916.",
+    "gabarito": "C",
+    "justificativa": "O item está correto e cobra direito intertemporal aliado ao limite real de uma súmula. A desapropriação indireta é o apossamento administrativo de bem particular sem observância do devido processo expropriatório; como a ação correspondente tem natureza real (busca a indenização substitutiva do domínio perdido), seu prazo prescricional é buscado por analogia no prazo de usucapião do bem, e não no prazo quinquenal do Decreto nº 20.910/1932. Sob o Código Civil de 1916, esse prazo era o do usucapião extraordinário de vinte anos, o que gerou a Súmula 119 do STJ. Com o Código Civil de 2002, o STJ passou a aplicar o parágrafo único do art. 1.238, fixando em dez anos o prazo quando o poder público houver realizado no imóvel obras ou serviços de caráter produtivo — dado que o enunciado insere deliberadamente e que altera a solução —, remanescendo o prazo de quinze anos do caput na ausência dessa qualificação da posse estatal. Como o apossamento ocorreu já na vigência do novo Código, não há sequer discussão sobre a regra de transição do art. 2.028. Ajuizada a ação em 2014, o prazo decenal ainda não se consumara.",
+    "fundamentacaoLegal": "Art. 1.238, caput e parágrafo único, do Código Civil; art. 2.028 do Código Civil; Súmula 119 do STJ (editada sob o Código Civil de 1916); art. 5º, XXIV, da CF/88; jurisprudência do STJ sobre o prazo prescricional da desapropriação indireta."
+  },
+  {
+    "id": "intervencao-propriedade-fcx-02",
+    "topicoId": "intervencao-propriedade",
+    "topico": "Intervenção do Estado na propriedade",
+    "dificuldade": "extremo",
+    "enunciado": "O tombamento é provisório ou definitivo conforme esteja o respectivo processo iniciado pela notificação ou concluído pela inscrição do bem no competente Livro do Tombo, equiparando-se, para todos os efeitos, o tombamento provisório ao definitivo, ressalvada a transcrição do ato no registro de imóveis, de modo que o proprietário notificado já se submete às restrições legais antes de encerrado o procedimento.",
+    "gabarito": "C",
+    "justificativa": "O item reproduz com precisão a disciplina do Decreto-Lei nº 25/1937 e a razão de ser da ressalva. O tombamento provisório existe para evitar que, entre a notificação e a inscrição no Livro do Tombo, o proprietário destrua, mutile ou aliene o bem, esvaziando o procedimento; por isso a lei o equipara ao definitivo 'para todos os efeitos', gerando desde logo os deveres de conservação, a proibição de destruição, demolição ou mutilação sem prévia autorização e a necessidade de comunicação ao órgão de proteção. A única ressalva legal é a da transcrição no registro de imóveis, formalidade prevista para o tombamento definitivo de bens particulares e que pressupõe a definitividade do ato. O ponto capcioso está justamente aí: o candidato tende a supor que, por ser 'provisório', o tombamento seria inócuo até a inscrição, ou, no extremo oposto, que a equiparação seria absoluta e alcançaria também o registro imobiliário.",
+    "fundamentacaoLegal": "Arts. 10, caput e parágrafo único, 13 e 17 do Decreto-Lei nº 25/1937; art. 216, §§ 1º e 5º, da CF/88."
+  },
+  {
+    "id": "intervencao-propriedade-fcx-03",
+    "topicoId": "intervencao-propriedade",
+    "topico": "Intervenção do Estado na propriedade",
+    "dificuldade": "extremo",
+    "enunciado": "É incompatível com a Constituição Federal de 1988 o dispositivo do Decreto-Lei nº 3.365/1941 que autoriza o juiz, alegada a urgência, a conceder a imissão provisória na posse mediante depósito de quantia apurada segundo os critérios legais ali fixados, e não com base no valor integral definido em avaliação judicial, por afrontar a exigência constitucional de prévia e justa indenização em dinheiro.",
+    "gabarito": "E",
+    "justificativa": "A expressão que torna o item falso é 'é incompatível com a Constituição Federal de 1988'. A Súmula 652 do STF assenta exatamente o contrário: não contraria a Constituição o art. 15, § 1º, do Decreto-Lei nº 3.365/1941. A redação correta seria: 'é compatível com a Constituição Federal o dispositivo que autoriza a imissão provisória na posse mediante depósito apurado segundo os critérios legais'. O fundamento da tese é a distinção entre POSSE e DOMÍNIO: a garantia de prévia e justa indenização em dinheiro, prevista no art. 5º, XXIV, da CF/88, condiciona a transferência definitiva da propriedade, e não a imissão provisória, medida de natureza cautelar que apenas antecipa a posse mediante declaração de urgência e depósito. A justiça da indenização é preservada no curso do processo, pela apuração final do valor em sentença, sobre o qual incidem juros compensatórios desde a imissão, além de o expropriado poder levantar até oitenta por cento do depósito. Trata-se de erro típico de inversão do resultado de um enunciado sumular.",
+    "fundamentacaoLegal": "Súmula 652 do STF; arts. 15, § 1º, e 33, § 2º, do Decreto-Lei nº 3.365/1941; art. 5º, XXIV, da CF/88; Súmula 69 do STJ."
+  },
+  {
+    "id": "intervencao-propriedade-fcx-04",
+    "topicoId": "intervencao-propriedade",
+    "topico": "Intervenção do Estado na propriedade",
+    "dificuldade": "extremo",
+    "enunciado": "Proprietário de média propriedade rural, assim definida em lei, que é igualmente titular de outro imóvel rural situado em unidade federativa diversa, tem o primeiro imóvel declarado de interesse social para fins de reforma agrária pela União. Nessa situação, a declaração é inválida, porquanto a Constituição Federal torna a média propriedade rural insuscetível de desapropriação para fins de reforma agrária.",
+    "gabarito": "E",
+    "justificativa": "A expressão que torna o item falso é a afirmação incondicionada de que 'a Constituição Federal torna a média propriedade rural insuscetível de desapropriação para fins de reforma agrária'. O art. 185, I, da CF/88 condiciona expressamente essa insuscetibilidade a que o proprietário NÃO POSSUA OUTRA propriedade — requisito que o enunciado deliberadamente afasta ao informar que o titular detém outro imóvel rural. A redação correta seria: 'a pequena e a média propriedade rural são insuscetíveis de desapropriação para fins de reforma agrária desde que seu proprietário não possua outra'. O item pune a memorização parcial do dispositivo e a generalização de uma imunidade que é, na verdade, condicionada. Complementarmente, é útil fixar que a competência para essa modalidade expropriatória é exclusiva da União, que a indenização é paga em títulos da dívida agrária resgatáveis em até vinte anos, a partir do segundo ano de sua emissão, e que as benfeitorias úteis e necessárias são indenizadas em dinheiro; já a propriedade produtiva é insuscetível de desapropriação para reforma agrária por força do inciso II do mesmo art. 185, sem a condicionante do inciso I.",
+    "fundamentacaoLegal": "Arts. 184, caput e § 1º, e 185, I e II, da CF/88; Lei Complementar nº 76/1993; art. 2º, § 2º, do Decreto-Lei nº 3.365/1941."
+  },
+  {
+    "id": "intervencao-propriedade-fcx-05",
+    "topicoId": "intervencao-propriedade",
+    "topico": "Intervenção do Estado na propriedade",
+    "dificuldade": "extremo",
+    "enunciado": "Concessionário de serviço público pode promover desapropriação e constituir servidão administrativa mediante autorização expressa constante de lei ou de contrato, cabendo ao poder concedente a declaração de utilidade pública ou de necessidade pública dos bens necessários à execução do serviço ou da obra, hipótese em que a responsabilidade pelas indenizações cabíveis recai sobre a concessionária.",
+    "gabarito": "C",
+    "justificativa": "O item está correto e exige o cruzamento entre a lei geral das desapropriações e a lei de concessões. A chave é a separação entre as duas fases do procedimento expropriatório: a fase DECLARATÓRIA, que envolve juízo político sobre a utilidade pública e é indelegável ao particular, permanecendo com o poder concedente; e a fase EXECUTÓRIA, que abrange as tratativas de acordo, o ajuizamento da ação, o pagamento e o registro, e pode ser transferida ao concessionário mediante autorização expressa em lei ou contrato. A lei de concessões é explícita ao dizer que, outorgados poderes à concessionária, é dela a responsabilidade pelas indenizações cabíveis, solução coerente com a equação econômico-financeira do contrato, que já contempla esse custo. A afirmação resiste à leitura capciosa porque não afirma que o concessionário declara a utilidade pública — erro em que a maioria das assertivas falsas sobre o tema incorre —, mas apenas que a promove.",
+    "fundamentacaoLegal": "Art. 3º do Decreto-Lei nº 3.365/1941; arts. 29, VIII e IX, e 31, VI, da Lei nº 8.987/1995; art. 40 do Decreto-Lei nº 3.365/1941."
+  },
+  {
+    "id": "intervencao-propriedade-fcx-06",
+    "topicoId": "intervencao-propriedade",
+    "topico": "Intervenção do Estado na propriedade",
+    "dificuldade": "extremo",
+    "enunciado": "Transitada em julgado a sentença que fixou a justa indenização em ação de desapropriação por utilidade pública, resta ao poder público unicamente efetuar o pagamento, sendo-lhe vedada a desistência da desapropriação, ainda que o bem possa ser restituído ao expropriado sem alteração substancial que impeça seu retorno ao estado anterior.",
+    "gabarito": "E",
+    "justificativa": "A expressão que torna o item falso é 'sendo-lhe vedada a desistência da desapropriação'. Conforme jurisprudência consolidada do STJ, a desistência da desapropriação é possível a qualquer tempo, INCLUSIVE após o trânsito em julgado da sentença, desde que preenchidos dois requisitos cumulativos: que ainda não tenha havido o pagamento integral do preço, pois o pagamento consuma a incorporação do bem ao patrimônio público, e que o imóvel possa ser devolvido sem alteração substancial que impeça sua restituição ao estado anterior. A redação correta seria: 'é admitida a desistência enquanto não integralizado o pagamento e desde que o bem possa ser devolvido sem alteração substancial'. Há ainda um refinamento que costuma decidir a questão: o ônus de demonstrar a existência de fato impeditivo da devolução — por exemplo, a destinação já dada ao bem ou benfeitorias irreversíveis — incumbe ao EXPROPRIADO, e não ao poder público. Consumado o pagamento e incorporado o bem à Fazenda Pública, incide o art. 35 do Decreto-Lei nº 3.365/1941, que veda a reivindicação ainda que fundada em nulidade do processo, resolvendo-se qualquer pretensão em perdas e danos.",
+    "fundamentacaoLegal": "Art. 35 do Decreto-Lei nº 3.365/1941; jurisprudência consolidada do STJ sobre desistência da desapropriação; art. 5º, XXIV, da CF/88."
+  },
+  {
+    "id": "intervencao-propriedade-fcx-07",
+    "topicoId": "intervencao-propriedade",
+    "topico": "Intervenção do Estado na propriedade",
+    "dificuldade": "extremo",
+    "enunciado": "Na desapropriação destinada a instituir servidão administrativa não são devidos juros compensatórios, por se tratar de intervenção restritiva em que o proprietário conserva o domínio e a posse do bem, de modo que a indenização se esgota na reparação do dano efetivamente demonstrado.",
+    "gabarito": "E",
+    "justificativa": "As duas premissas iniciais estão corretas — a servidão administrativa é intervenção restritiva, o proprietário conserva domínio e posse, e a indenização depende da demonstração do prejuízo —, mas a conclusão não decorre delas. A expressão que torna o item falso é 'não são devidos juros compensatórios'. A Súmula 56 do STJ é categórica: na desapropriação para instituir servidão administrativa são devidos os juros compensatórios pela limitação de uso da propriedade. A redação correta seria: 'são devidos juros compensatórios pela limitação de uso da propriedade, ainda que o expropriado conserve o domínio do bem'. A razão jurídica é que os juros compensatórios remuneram a perda antecipada da fruição econômica do bem, e essa perda ocorre igualmente quando o Estado, sem retirar o domínio, impõe ônus real que limita o uso — não é a transferência da propriedade que os justifica, mas o desfalque no aproveitamento econômico. O item ilustra a técnica de conclusão que não decorre de premissas verdadeiras.",
+    "fundamentacaoLegal": "Súmula 56 do STJ; art. 40 do Decreto-Lei nº 3.365/1941; art. 1.378 do Código Civil (por analogia quanto à natureza de ônus real); Súmula 69 do STJ."
+  },
+  {
+    "id": "intervencao-propriedade-fcx-08",
+    "topicoId": "intervencao-propriedade",
+    "topico": "Intervenção do Estado na propriedade",
+    "dificuldade": "extremo",
+    "enunciado": "Particular adquire imóvel já gravado, na data da aquisição, por limitação administrativa que restringia o uso e o gozo da propriedade, e, posteriormente, ajuíza ação indenizatória contra o ente instituidor da restrição. Nessa situação, de acordo com a jurisprudência do STJ, a indenização é indevida, porquanto se presume que as restrições preexistentes foram consideradas na formação do preço pago pelo adquirente.",
+    "gabarito": "C",
+    "justificativa": "O item está correto e explora o alcance exato de uma tese consolidada. A limitação administrativa é intervenção geral e abstrata, que atinge proprietários indeterminados e, em regra, não é indenizável, por não reduzir o valor econômico da propriedade além do que decorre do próprio condicionamento social do direito. Excepcionalmente, cabe indenização quando a restrição esvazia por completo o conteúdo econômico do bem — hipótese em que, na prática, se converte em desapropriação indireta. Ocorre que, quando a restrição já existia no momento da aquisição, falta ao adquirente o próprio dano indenizável: ele comprou um bem já limitado e, presume-se, pagou por ele o preço de mercado correspondente a essa condição jurídica; indenizá-lo importaria enriquecimento sem causa. O item resiste à leitura capciosa porque não nega a indenizabilidade da limitação administrativa em abstrato, restringindo-se à hipótese do adquirente posterior. Registre-se, como consequência processual dessa natureza, que a pretensão indenizatória fundada em limitação administrativa tem caráter pessoal e submete-se à prescrição quinquenal, ao contrário da desapropriação indireta, de natureza real.",
+    "fundamentacaoLegal": "Art. 5º, XXII e XXIII, da CF/88; art. 1.228, § 1º, do Código Civil; Decreto nº 20.910/1932; jurisprudência do STJ sobre indenização por limitação administrativa preexistente à aquisição do imóvel."
+  },
+  {
+    "id": "intervencao-propriedade-fcx-09",
+    "topicoId": "intervencao-propriedade",
+    "topico": "Intervenção do Estado na propriedade",
+    "dificuldade": "extremo",
+    "enunciado": "A expropriação das propriedades rurais e urbanas em que forem localizadas culturas ilegais de plantas psicotrópicas ou a exploração de trabalho escravo funda-se em responsabilidade puramente objetiva do proprietário, não se admitindo, conforme o entendimento firmado pelo STF em repercussão geral, a demonstração de que ele não concorreu, ainda que culposamente, para a destinação ilícita do imóvel.",
+    "gabarito": "E",
+    "justificativa": "A expressão que torna o item falso é 'não se admitindo [...] a demonstração de que ele não concorreu, ainda que culposamente, para a destinação ilícita do imóvel'. No julgamento do RE 635.336, sob o rito da repercussão geral, o STF assentou que a expropriação prevista no art. 243 da CF/88 pode ser afastada desde que o proprietário comprove que não incorreu em culpa, ainda que in vigilando ou in eligendo. A redação correta seria: 'admite-se o afastamento da expropriação quando o proprietário comprovar que não incorreu em culpa, ainda que in vigilando ou in eligendo'. A construção do STF é sofisticada e é justamente o que se cobra neste nível: a responsabilidade é, em regra, objetiva quanto à ocorrência do ilícito no imóvel, mas admite-se, em favor do proprietário, a prova negativa de culpa como excludente, com inversão do ônus probatório em seu desfavor. Relembre-se que o art. 243, na redação da Emenda Constitucional nº 81/2014, passou a abranger também a exploração de trabalho escravo, determina a destinação das áreas à reforma agrária e a programas de habitação popular, e prevê que a expropriação se dá sem qualquer indenização ao proprietário e sem prejuízo de outras sanções previstas em lei.",
+    "fundamentacaoLegal": "Art. 243, caput e parágrafo único, da CF/88, com a redação dada pela Emenda Constitucional nº 81/2014; RE 635.336, do STF, julgado sob o rito da repercussão geral."
+  },
+  {
+    "id": "intervencao-propriedade-fcx-10",
+    "topicoId": "intervencao-propriedade",
+    "topico": "Intervenção do Estado na propriedade",
+    "dificuldade": "extremo",
+    "enunciado": "Antes de ajuizar a ação expropriatória, o poder público deve notificar o proprietário e apresentar-lhe oferta de indenização, considerando-se rejeitada a oferta caso decorra o prazo de quinze dias sem manifestação; havendo discordância quanto ao valor ofertado, o particular pode optar pela mediação, regida pela Lei nº 13.140/2015, ou pela via arbitral, regida pela Lei nº 9.307/1996, indicando um dos órgãos ou instituições especializados previamente cadastrados pelo órgão responsável pela desapropriação.",
+    "gabarito": "C",
+    "justificativa": "O item está correto e cobra alteração legislativa relativamente recente, introduzida no Decreto-Lei nº 3.365/1941 pela Lei nº 13.867/2019, que quebrou o paradigma segundo o qual a fixação do valor da indenização seria matéria necessariamente judicial e indisponível. A notificação prévia com oferta é dever do expropriante e deve conter cópia do ato declaratório de utilidade pública, planta ou descrição dos bens e suas confrontações, o valor ofertado e a informação de que o prazo para aceitar ou rejeitar é de quinze dias, sendo o silêncio equiparado a rejeição — detalhe que costuma ser trocado por 'aceitação tácita' nas assertivas falsas. Aceita a oferta e realizado o pagamento, lavra-se acordo, título hábil para a transcrição no registro de imóveis. Rejeitada a oferta, abre-se ao particular a opção pela mediação ou pela arbitragem, cabendo-lhe indicar entidade dentre as previamente cadastradas pelo expropriante; não exercida a opção, o poder público segue pela via judicial ordinária. A escolha é do PARTICULAR, e não da Administração — outro ponto de erro frequente.",
+    "fundamentacaoLegal": "Arts. 10-A e 10-B do Decreto-Lei nº 3.365/1941, incluídos pela Lei nº 13.867/2019; Lei nº 13.140/2015; Lei nº 9.307/1996; art. 5º, XXIV, da CF/88."
+  }
+]

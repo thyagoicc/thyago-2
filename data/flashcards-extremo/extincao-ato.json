@@ -1,0 +1,102 @@
+[
+  {
+    "id": "extincao-ato-fcx-01",
+    "topicoId": "extincao-ato",
+    "topico": "Extinção e controle do ato administrativo",
+    "dificuldade": "extremo",
+    "enunciado": "Situação hipotética: ato de concessão inicial de aposentadoria de servidor deu entrada no tribunal de contas em março de 2016 e permaneceu sem apreciação até que, em 2024, a corte julgou ilegal a concessão e negou o registro, sem que o interessado tivesse sido chamado ao processo. Nessa situação, conforme entendimento firmado pelo STF em repercussão geral, o registro considera-se tacitamente aperfeiçoado, sendo inválida a recusa manifestada após o transcurso de cinco anos contados da chegada do processo à corte de contas.",
+    "gabarito": "C",
+    "justificativa": "Item correto. O ato de concessão inicial de aposentadoria, reforma ou pensão é ato complexo, que só se perfaz com o registro pelo tribunal de contas, razão pela qual a Súmula Vinculante 3 dispensa o contraditório na apreciação de sua legalidade. Essa dispensa, todavia, não autoriza a pendência indefinida: no RE 636.553, julgado sob o regime da repercussão geral, o STF assentou que, em atenção à segurança jurídica e à confiança legítima, os tribunais de contas estão sujeitos ao prazo de cinco anos para julgar a legalidade do ato de concessão inicial, contados da chegada do processo à respectiva corte. Ultrapassado o quinquênio, considera-se registrado tacitamente o ato. A situação descrita traz o dado decisivo que o candidato desatento ignoraria — o intervalo de mais de oito anos entre a entrada do processo e o julgamento —, e é ele que resolve a questão, e não a ausência de contraditório, que, dentro do prazo, seria legítima.",
+    "fundamentacaoLegal": "CF/88, art. 71, III; Súmula Vinculante 3 do STF; STF, RE 636.553 (repercussão geral)."
+  },
+  {
+    "id": "extincao-ato-fcx-02",
+    "topicoId": "extincao-ato",
+    "topico": "Extinção e controle do ato administrativo",
+    "dificuldade": "extremo",
+    "enunciado": "Anulado o ato administrativo que deferira vantagem pecuniária a servidor em razão de errônea interpretação da lei pela própria Administração, os valores já pagos devem ser restituídos ao erário, porquanto a natureza alimentar da verba e a boa-fé do beneficiário não afastam a vedação ao enriquecimento sem causa nem a eficácia retroativa da invalidação.",
+    "gabarito": "E",
+    "justificativa": "A expressão que torna o item falso é 'devem ser restituídos ao erário'. O STJ, em julgamento sob o rito dos recursos repetitivos (REsp 1.244.182/PB), firmou que não é devida a devolução de valores pagos a servidor por errônea ou má interpretação da lei pela Administração, quando recebidos de boa-fé, dada a legítima confiança do beneficiário e o caráter alimentar da verba. A redação correta seria 'os valores recebidos de boa-fé não devem ser restituídos'. É preciso, contudo, dominar o limite da tese, que é o que confere nível extremo à matéria: a irrepetibilidade pressupõe erro de interpretação da norma imputável à Administração e boa-fé do servidor; quando o pagamento decorre de erro operacional evidente, de fraude ou de má-fé do beneficiário, ou ainda quando a percepção se dá por força de decisão judicial precária depois revogada, a restituição é devida. Registre-se que a eficácia ex tunc da anulação, invocada no item, atinge o ato, mas não impõe automaticamente o desfazimento de todos os efeitos patrimoniais já consumados de boa-fé.",
+    "fundamentacaoLegal": "STJ, REsp 1.244.182/PB (recurso repetitivo); Lei nº 9.784/1999, art. 2º, caput e parágrafo único, IV e XIII (boa-fé e segurança jurídica); Decreto-Lei nº 4.657/1942 (LINDB), art. 24, incluído pela Lei nº 13.655/2018."
+  },
+  {
+    "id": "extincao-ato-fcx-03",
+    "topicoId": "extincao-ato",
+    "topico": "Extinção e controle do ato administrativo",
+    "dificuldade": "extremo",
+    "enunciado": "A contraposição, também denominada derrubada, consiste na extinção do ato administrativo em razão do descumprimento, pelo beneficiário, das condições legalmente impostas para a sua manutenção, ao passo que a cassação ocorre quando se edita ato posterior, fundado em competência diversa, cujos efeitos são contrapostos aos do ato anterior.",
+    "gabarito": "E",
+    "justificativa": "O item apresenta as definições invertidas, e a inversão é integral: a descrição atribuída à contraposição é, na verdade, o conceito de cassação, e a descrição atribuída à cassação é o conceito de contraposição. A redação correta seria: 'A cassação consiste na extinção do ato em razão do descumprimento, pelo beneficiário, das condições legalmente impostas para a sua manutenção — como ocorre com a cassação do alvará de funcionamento de estabelecimento que passa a operar em desacordo com as normas sanitárias —, ao passo que a contraposição, ou derrubada, ocorre quando se edita ato posterior, fundado em competência diversa daquela que gerou o ato anterior, cujos efeitos são contrapostos aos deste, como se dá com a exoneração em face da nomeação'. Convém completar o quadro das formas de extinção, para não confundir figuras vizinhas: a caducidade decorre da superveniência de norma jurídica que torna inadmissível a situação antes permitida; a renúncia depende de manifestação de vontade do próprio beneficiário; e a anulação e a revogação pressupõem, respectivamente, ilegalidade e juízo de conveniência e oportunidade.",
+    "fundamentacaoLegal": "Doutrina consolidada sobre as formas de extinção do ato administrativo — cassação, caducidade, contraposição, renúncia, anulação e revogação (Maria Sylvia Zanella Di Pietro; Celso Antônio Bandeira de Mello; José dos Santos Carvalho Filho)."
+  },
+  {
+    "id": "extincao-ato-fcx-04",
+    "topicoId": "extincao-ato",
+    "topico": "Extinção e controle do ato administrativo",
+    "dificuldade": "extremo",
+    "enunciado": "Conforme entendimento sumulado do STJ, nas relações jurídicas de trato sucessivo em que a Fazenda Pública figure como devedora, não tendo sido negado o próprio direito reclamado, a prescrição atinge apenas as prestações vencidas antes do quinquênio anterior à propositura da ação; diversamente, quando o ato administrativo houver negado o próprio direito, a prescrição alcança o fundo de direito, extinguindo a pretensão em cinco anos contados da ciência do ato.",
+    "gabarito": "C",
+    "justificativa": "Item correto e tecnicamente preciso nas duas orações. A prescrição quinquenal das pretensões contra a Fazenda Pública é regida pelo Decreto nº 20.910/1932. A jurisprudência do STJ, consolidada em enunciado sumular, distingue duas situações: se a Administração não negou o direito em si, apenas deixando de pagar parcelas sucessivas, renova-se a lesão a cada prestação e a prescrição fulmina somente as parcelas anteriores ao quinquênio que precede o ajuizamento; se, ao contrário, houve ato administrativo expresso negando o próprio direito — indeferindo o enquadramento, cassando a vantagem, extinguindo o benefício —, a lesão é única e o prazo corre contra o fundo de direito, de modo que o decurso de cinco anos desde a ciência do ato extingue integralmente a pretensão de desconstituí-lo. A distinção é decisiva no controle judicial dos atos administrativos, pois define se o interessado ainda pode atacar o ato ou apenas cobrar diferenças recentes.",
+    "fundamentacaoLegal": "Súmula 85 do STJ; Decreto nº 20.910/1932, art. 1º; Lei nº 12.016/2009, art. 23 (prazo decadencial de cento e vinte dias para o mandado de segurança, que não se confunde com a prescrição quinquenal)."
+  },
+  {
+    "id": "extincao-ato-fcx-05",
+    "topicoId": "extincao-ato",
+    "topico": "Extinção e controle do ato administrativo",
+    "dificuldade": "extremo",
+    "enunciado": "Situação hipotética: município que não editou lei própria sobre processo administrativo anulou, em 2026, ato de 2018 que concedera vantagem pecuniária a servidor, sem que houvesse má-fé do beneficiário. Nessa situação, conforme entendimento sumulado do STJ, a Lei nº 9.784/1999 incide subsidiariamente no âmbito municipal, de modo que a anulação é inválida por já consumada a decadência do direito de a Administração invalidar o ato.",
+    "gabarito": "C",
+    "justificativa": "Item correto. A Lei nº 9.784/1999 é lei de processo administrativo da Administração Pública Federal e, em princípio, não vincula estados e municípios, que dispõem de autonomia para legislar sobre seus próprios processos administrativos. Ocorre que o STJ pacificou, em enunciado sumular, que a lei federal — especialmente quanto ao prazo decadencial para revisão de atos administrativos — aplica-se subsidiariamente a estados e municípios quando inexistente lei local específica sobre a matéria. O dado juridicamente relevante inserido na situação é justamente a ausência de lei municipal, sem a qual a solução seria outra: havendo norma local que fixe prazo diverso, prevalece esta. Somam-se dois outros requisitos, ambos presentes: o ato produziu efeitos favoráveis ao destinatário e não houve má-fé, pois a comprovação de má-fé afasta a fluência do prazo. Como o ato data de 2018 e a anulação ocorreu em 2026, o quinquênio se esgotou, remanescendo à Administração, se for o caso, apenas a via judicial de discussão de eventual ressarcimento.",
+    "fundamentacaoLegal": "Súmula 633 do STJ; Lei nº 9.784/1999, art. 54, caput e §§ 1º e 2º; CF/88, art. 30, I (competência municipal para legislar sobre assuntos de interesse local)."
+  },
+  {
+    "id": "extincao-ato-fcx-06",
+    "topicoId": "extincao-ato",
+    "topico": "Extinção e controle do ato administrativo",
+    "dificuldade": "extremo",
+    "enunciado": "Verificada ilegalidade em contrato administrativo, compete ao tribunal de contas sustar de imediato a sua execução, comunicando a decisão ao Poder Legislativo; tratando-se, porém, de ato administrativo unilateral impugnado, a sustação somente pode ser determinada pelo próprio Poder Legislativo, cabendo à corte de contas apenas representar sobre a irregularidade.",
+    "gabarito": "E",
+    "justificativa": "O item inverte integralmente o regime constitucional de sustação, e a inversão é a técnica de erro empregada. Conforme o art. 71 da CF/88, é o tribunal de contas que susta a execução do ATO impugnado, se não atendido o prazo por ele assinado para a correção da ilegalidade, comunicando a decisão à Câmara dos Deputados e ao Senado Federal (inciso X, combinado com o inciso IX). Já quanto ao CONTRATO, o ato de sustação será adotado diretamente pelo Congresso Nacional, que solicitará de imediato ao Poder Executivo as medidas cabíveis (§ 1º). A redação correta, portanto, é exatamente a oposta à do item. Há ainda um desdobramento decisivo que a banca costuma cobrar: se o Congresso Nacional ou o Poder Executivo não efetivarem as medidas no prazo de noventa dias, o tribunal decidirá a respeito (§ 2º) — trata-se de competência subsidiária, e não originária, da corte de contas quanto a contratos.",
+    "fundamentacaoLegal": "CF/88, art. 71, IX, X e XI, e §§ 1º e 2º (aplicável aos tribunais de contas dos estados e municípios por força do art. 75)."
+  },
+  {
+    "id": "extincao-ato-fcx-07",
+    "topicoId": "extincao-ato",
+    "topico": "Extinção e controle do ato administrativo",
+    "dificuldade": "extremo",
+    "enunciado": "A LINDB autoriza que a decisão proferida nas esferas administrativa, controladora ou judicial imponha compensação por benefícios indevidos ou por prejuízos anormais ou injustos resultantes do processo ou da conduta dos envolvidos, compensação essa que, por decorrer da supremacia do interesse público, pode ser fixada de ofício pela autoridade, independentemente de prévia manifestação das partes sobre seu cabimento e seu valor.",
+    "gabarito": "E",
+    "justificativa": "A primeira oração reproduz corretamente o caput do art. 27 da LINDB, incluído pela Lei nº 13.655/2018, mas a segunda a contradiz frontalmente e é o que torna o item falso. O § 1º do mesmo artigo é expresso ao exigir que a decisão sobre a compensação seja motivada, ouvidas previamente as partes sobre seu cabimento, sua forma e, se for o caso, seu valor. A expressão viciada é 'independentemente de prévia manifestação das partes'; a redação correta seria 'devendo ser motivada e precedida da oitiva das partes'. O dispositivo integra o núcleo consequencialista introduzido na LINDB e deve ser lido em conjunto com o art. 21, que impõe à decisão invalidadora a indicação expressa de suas consequências jurídicas e administrativas e das condições para regularização proporcional e equânime, vedando a imposição aos atingidos de ônus ou perdas anormais ou excessivos. Note-se, ainda, que o § 2º do art. 27 admite compromisso processual entre os envolvidos para prevenir ou regular a compensação.",
+    "fundamentacaoLegal": "Decreto-Lei nº 4.657/1942 (LINDB), arts. 21 e 27, caput e §§ 1º e 2º, incluídos pela Lei nº 13.655/2018."
+  },
+  {
+    "id": "extincao-ato-fcx-08",
+    "topicoId": "extincao-ato",
+    "topico": "Extinção e controle do ato administrativo",
+    "dificuldade": "extremo",
+    "enunciado": "Constatada irregularidade insanável na execução de contrato administrativo regido pela Lei nº 14.133/2021, a declaração de nulidade não é consequência automática: exige análise prévia do interesse público envolvido, com avaliação, entre outros aspectos, dos impactos econômicos e sociais e dos riscos decorrentes da paralisação, podendo o poder público optar pela continuidade do ajuste e pela solução da irregularidade mediante indenização por perdas e danos, sem prejuízo da apuração de responsabilidade.",
+    "gabarito": "C",
+    "justificativa": "Item correto e representativo da mudança de paradigma promovida pela nova lei de licitações, que temperou a leitura tradicional da autotutela invalidatória. A Lei nº 14.133/2021 condiciona a suspensão da execução e a declaração de nulidade do contrato à demonstração de que essa é a medida de interesse público, exigindo a avaliação de aspectos como os impactos econômicos e financeiros do atraso na fruição do objeto, os riscos sociais e ambientais, a motivação social e ambiental do contrato e o custo da deterioração ou perda das parcelas executadas. Caso a paralisação ou anulação não se revele medida de interesse público, o poder público deverá optar pela continuidade do contrato, resolvendo-se a irregularidade por indenização por perdas e danos. Declarada a nulidade, ela opera retroativamente, mas não exonera a Administração do dever de indenizar o contratado pelo que houver executado até a data em que for declarada, bem como por outros prejuízos comprovados, desde que não lhe sejam imputáveis. Trata-se de aplicação legislada da lógica consequencialista dos arts. 20 a 23 da LINDB.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, arts. 147, caput e parágrafo único, 148 e 149; Decreto-Lei nº 4.657/1942 (LINDB), arts. 20, 21 e 23."
+  },
+  {
+    "id": "extincao-ato-fcx-09",
+    "topicoId": "extincao-ato",
+    "topico": "Extinção e controle do ato administrativo",
+    "dificuldade": "extremo",
+    "enunciado": "Segundo teses firmadas pelo STF em repercussão geral, é prescritível a pretensão de ressarcimento ao erário fundada em decisão de tribunal de contas, é igualmente prescritível a pretensão de reparação de danos à Fazenda Pública decorrente de ilícito civil, mas é imprescritível a pretensão de ressarcimento ao erário fundada na prática de ato doloso tipificado na Lei de Improbidade Administrativa.",
+    "gabarito": "C",
+    "justificativa": "Item correto: as três proposições correspondem a teses distintas do STF, e o mérito do item está em exigir que o candidato as diferencie sem confundi-las sob a leitura simplificadora do art. 37, § 5º, da CF/88. No RE 636.886, a Corte assentou a prescritibilidade da pretensão de ressarcimento fundada em decisão de tribunal de contas, por não se confundir a decisão de contas com o reconhecimento judicial de ato doloso de improbidade. No RE 669.069, firmou-se a prescritibilidade da pretensão de reparação de danos à Fazenda decorrente de ilícito civil — no caso julgado, acidente de trânsito. E no RE 852.475 a Corte reconheceu a imprescritibilidade apenas das ações de ressarcimento fundadas na prática de ato doloso tipificado na Lei nº 8.429/1992, excluindo, portanto, os atos culposos. O erro típico que o item não comete seria estender a imprescritibilidade a toda pretensão ressarcitória da Fazenda, leitura que o STF rejeitou expressamente.",
+    "fundamentacaoLegal": "CF/88, art. 37, § 5º; STF, RE 636.886, RE 669.069 e RE 852.475 (todos em repercussão geral); Lei nº 8.429/1992, com a redação da Lei nº 14.230/2021."
+  },
+  {
+    "id": "extincao-ato-fcx-10",
+    "topicoId": "extincao-ato",
+    "topico": "Extinção e controle do ato administrativo",
+    "dificuldade": "extremo",
+    "enunciado": "Situação hipotética: auto de infração lavrado por auditor fiscal municipal, que constituiu crédito tributário contra determinada sociedade empresária, foi anulado por decisão administrativa definitiva em razão de vício de forma no procedimento. Nessa situação, opera-se a coisa julgada administrativa e incide o princípio do non bis in idem, ficando a Fazenda Municipal impedida de constituir novamente o crédito relativo aos mesmos fatos geradores.",
+    "gabarito": "E",
+    "justificativa": "O item é falso e o trecho decisivo é 'ficando a Fazenda Municipal impedida de constituir novamente o crédito'. A anulação do ato por vício de forma atinge o ato, e não a relação jurídica material subjacente; nada impede que a Administração pratique novo ato escoimado do defeito, desde que ainda não consumada a decadência. Mais que isso: o CTN é expresso ao tratar do tema, dispondo que o prazo decadencial de cinco anos para constituir o crédito tributário conta-se, nessa hipótese, da data em que se tornar definitiva a decisão que houver anulado, por vício formal, o lançamento anteriormente efetuado — o que configura verdadeira reabertura do prazo. Também não procede a invocação dos institutos citados: a chamada coisa julgada administrativa significa apenas irretratabilidade da decisão na via administrativa, não alcançando a prática de novo ato válido, e o non bis in idem veda a dupla punição pelo mesmo fato, não a renovação regular do procedimento anulado por defeito formal.",
+    "fundamentacaoLegal": "CTN, art. 173, II, e art. 149; Lei nº 9.784/1999, arts. 2º, parágrafo único, XIII, e 53; doutrina consolidada sobre o alcance da coisa julgada administrativa."
+  }
+]

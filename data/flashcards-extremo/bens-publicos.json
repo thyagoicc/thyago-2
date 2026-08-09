@@ -1,0 +1,102 @@
+[
+  {
+    "id": "bens-publicos-fcx-01",
+    "topicoId": "bens-publicos",
+    "topico": "Bens públicos",
+    "dificuldade": "extremo",
+    "enunciado": "Sociedade de economia mista federal é titular de imóvel residencial vinculado ao Sistema Financeiro de Habitação, ocupado por particular de forma mansa, pacífica e ininterrupta há mais de vinte anos. Nessa situação, por pertencer o bem a pessoa jurídica de direito privado e por não se achar afetado à prestação de serviço público, o imóvel sujeita-se à prescrição aquisitiva, fazendo jus o ocupante à declaração do domínio por usucapião extraordinária.",
+    "gabarito": "E",
+    "justificativa": "A expressão que torna o item falso é 'por não se achar afetado à prestação de serviço público, o imóvel sujeita-se à prescrição aquisitiva'. O critério decisivo, na jurisprudência do STJ, não é a personalidade jurídica de direito privado do titular, e sim a AFETAÇÃO do bem: imóvel vinculado ao Sistema Financeiro de Habitação é considerado afetado à prestação de serviço público (política habitacional), recebendo, por isso, tratamento de bem público e sendo insuscetível de usucapião. A redação correta seria: 'por estar afetado à prestação de serviço público, o imóvel vinculado ao SFH recebe tratamento de bem público e é insuscetível de usucapião'. O item explora a armadilha de que o art. 98 do Código Civil define bens públicos pelo critério da titularidade, ao passo que a jurisprudência acrescenta o critério funcional da afetação para estender atributos do regime público a bens de estatais. Repare que a solução se inverteria se o imóvel pertencesse a estatal exploradora de atividade econômica em regime de concorrência e não estivesse afetado: nesse caso, por força do art. 173, § 1º, II, da CF/88, o bem seria penhorável e usucapível.",
+    "fundamentacaoLegal": "Arts. 98 e 102 do Código Civil; art. 173, § 1º, II, da CF/88; jurisprudência do STJ sobre imóveis vinculados ao Sistema Financeiro de Habitação e sobre bens de empresas estatais afetados à prestação de serviço público."
+  },
+  {
+    "id": "bens-publicos-fcx-02",
+    "topicoId": "bens-publicos",
+    "topico": "Bens públicos",
+    "dificuldade": "extremo",
+    "enunciado": "Sobre terreno de marinha pertencente à União foi instituído aforamento, permanecendo com o ente federativo o domínio direto e transferindo-se ao enfiteuta o domínio útil. Particular exerceu posse mansa, pacífica e ininterrupta sobre o domínio útil, por prazo superior ao exigido para a usucapião extraordinária, sem oposição do enfiteuta nem da União. Nessa situação, a imprescritibilidade dos bens públicos não obsta a aquisição do domínio útil por usucapião, pois a prescrição aquisitiva recai sobre direito real integrante do patrimônio do particular, e não sobre o domínio direto, que permanece íntegro com a União.",
+    "gabarito": "C",
+    "justificativa": "O item está correto e resiste à leitura mais capciosa possível. A enfiteuse desdobra a propriedade em domínio direto (do senhorio) e domínio útil (do enfiteuta), este último bem integrante do patrimônio particular, oponível erga omnes e transmissível. Quando se admite a usucapião do domínio útil, não se está usucapindo o bem público: opera-se apenas a substituição da pessoa do enfiteuta, mantendo-se intactos o domínio direto da União, o foro anual e o laudêmio devido nas transferências — daí a ausência de prejuízo ao ente público, razão de decidir adotada pelo STJ. A vedação do art. 102 do Código Civil alcança o domínio pleno ou direto do bem público, não o direito real alheio constituído sobre ele. Note-se ainda que, embora o art. 2.038 do Código Civil tenha proibido a constituição de novas enfiteuses, ressalvou as já existentes e submeteu expressamente a enfiteuse de terrenos de marinha e acrescidos à disciplina de lei especial, de modo que o instituto permanece vivo justamente na hipótese descrita.",
+    "fundamentacaoLegal": "Art. 102 e art. 2.038, caput e § 2º, do Código Civil; arts. 2º, 99 e seguintes do Decreto-Lei nº 9.760/1946; art. 20, VII, da CF/88; art. 1.238 do Código Civil; jurisprudência do STJ que admite a usucapião do domínio útil de bem público gravado com enfiteuse."
+  },
+  {
+    "id": "bens-publicos-fcx-03",
+    "topicoId": "bens-publicos",
+    "topico": "Bens públicos",
+    "dificuldade": "extremo",
+    "enunciado": "A concessão de uso especial para fins de moradia é assegurada àquele que, até 30 de junho de 2001, houver possuído como seu, por cinco anos, ininterruptamente e sem oposição, até duzentos e cinquenta metros quadrados de imóvel público situado em área com características e finalidade urbanas, utilizando-o para sua moradia ou de sua família, marco temporal que a Lei nº 13.465/2017 preservou intacto por se tratar de situação consolidada.",
+    "gabarito": "E",
+    "justificativa": "A expressão que torna o item falso é 'até 30 de junho de 2001 [...] marco temporal que a Lei nº 13.465/2017 preservou intacto'. A Lei nº 13.465/2017 alterou o art. 1º da Medida Provisória nº 2.220/2001 justamente para deslocar o marco temporal da posse quinquenal para 22 de dezembro de 2016, ampliando substancialmente o universo de beneficiários. A redação correta seria 'até 22 de dezembro de 2016'. O item cobra direito intertemporal: a norma nova não retroagiu para desconstituir situações, mas alargou prospectivamente a hipótese legal, e a data de 30 de junho de 2001 corresponde à redação originária, hoje superada. Vale registrar que a concessão de uso especial para fins de moradia é direito subjetivo do possuidor que preencha os requisitos legais — ato vinculado, portanto —, sendo exigido ainda que ele não seja proprietário nem concessionário, a qualquer título, de outro imóvel urbano ou rural, o que a distingue da concessão de direito real de uso, negócio jurídico discricionário do poder público.",
+    "fundamentacaoLegal": "Art. 1º da Medida Provisória nº 2.220/2001, com a redação dada pela Lei nº 13.465/2017; art. 183, § 3º, da CF/88; art. 1.225, XI, do Código Civil."
+  },
+  {
+    "id": "bens-publicos-fcx-04",
+    "topicoId": "bens-publicos",
+    "topico": "Bens públicos",
+    "dificuldade": "extremo",
+    "enunciado": "A concessão de terras devolutas situadas na faixa de fronteira, feita por estado-membro, autoriza apenas o uso, permanecendo o domínio com a União ainda que esta se mantenha inerte ou tolerante em relação aos possuidores, de sorte que a prolongada omissão federal não convalida a transferência de domínio nem enseja prescrição aquisitiva em favor dos ocupantes.",
+    "gabarito": "C",
+    "justificativa": "O item reproduz com exatidão a Súmula 477 do STF, cuja formulação já contém a ressalva 'ainda que se mantenha inerte ou tolerante, em relação aos possuidores' — precisamente o ponto em que o candidato desatento erra, supondo que a inércia estatal produziria efeito convalidatório ou preclusivo. O enunciado se ancora na repartição constitucional de domínio: são bens da União as terras devolutas indispensáveis à defesa das fronteiras (art. 20, II, da CF/88), enquanto as demais terras devolutas pertencem aos Estados (art. 26, IV). Como o Estado-membro concedente não é titular do domínio dessas áreas, o ato de concessão não pode transferir o que ele não tem, produzindo efeito apenas quanto ao uso. A imprescritibilidade dos bens públicos (art. 102 do Código Civil) fecha o raciocínio, impedindo que a posse dos ocupantes, ainda que longa e tolerada, gere aquisição originária do domínio.",
+    "fundamentacaoLegal": "Súmula 477 do STF; arts. 20, II, e 26, IV, da CF/88; art. 102 do Código Civil; arts. 183, § 3º, e 191, parágrafo único, da CF/88."
+  },
+  {
+    "id": "bens-publicos-fcx-05",
+    "topicoId": "bens-publicos",
+    "topico": "Bens públicos",
+    "dificuldade": "extremo",
+    "enunciado": "O uso comum dos bens públicos pode ser gratuito ou retribuído, conforme estabelecido legalmente pela entidade a cuja administração pertencerem; nessa linha, o pedágio cobrado pela efetiva utilização de rodovia conservada pelo poder público não ostenta natureza tributária, mas de preço público, razão pela qual sua instituição não se submete ao princípio da legalidade tributária estrita.",
+    "gabarito": "C",
+    "justificativa": "O item combina, sem incorreções, a regra civilista sobre a retribuição pelo uso comum e a qualificação jurídica do pedágio firmada pelo STF na ADI 800/RS. O art. 103 do Código Civil desmente a intuição de que o uso comum seria necessariamente gratuito: a gratuidade é a regra prática, não um atributo essencial. Quanto ao pedágio, a Constituição o ressalva expressamente no art. 150, V, ao vedar as limitações ao tráfego por meio de tributos interestaduais e intermunicipais, e o STF assentou que a cobrança pela efetiva utilização de vias conservadas pelo poder público tem natureza de preço público (tarifa), e não de taxa, precisamente porque o pagamento é facultativo e correspectivo à utilização, e não compulsório. A consequência extraída no item é rigorosa: não sendo tributo, a fixação do valor não exige lei em sentido formal, podendo dar-se por ato do poder concedente, sem ofensa ao art. 150, I, da CF/88.",
+    "fundamentacaoLegal": "Art. 103 do Código Civil; arts. 99, I, 150, I, e 150, V, da CF/88; ADI 800/RS (STF)."
+  },
+  {
+    "id": "bens-publicos-fcx-06",
+    "topicoId": "bens-publicos",
+    "topico": "Bens públicos",
+    "dificuldade": "extremo",
+    "enunciado": "Município pretende doar, com encargo de construção de creche comunitária, imóvel dominical de seu patrimônio a organização da sociedade civil. Nessa situação, à luz da Lei nº 14.133/2021, a doação com encargo é hipótese de contratação direta em qualquer circunstância e prescinde de cláusula de reversão, bastando que do instrumento constem os encargos e o prazo de seu cumprimento.",
+    "gabarito": "E",
+    "justificativa": "Duas expressões tornam o item falso: 'é hipótese de contratação direta em qualquer circunstância' e 'prescinde de cláusula de reversão'. A Lei nº 14.133/2021 estabelece que a doação com encargo SERÁ LICITADA, e que de seu instrumento constarão obrigatoriamente os encargos, o prazo de seu cumprimento e a cláusula de reversão, sob pena de NULIDADE do ato; a dispensa de licitação é excepcional e condicionada a interesse público devidamente justificado. A redação correta seria: 'a doação com encargo será licitada, dela devendo constar, sob pena de nulidade, os encargos, o prazo de cumprimento e a cláusula de reversão, dispensada a licitação apenas em caso de interesse público devidamente justificado'. O item explora a inversão entre regra e exceção: o candidato tende a lembrar que a doação figura entre as hipóteses de dispensa de licitação para alienação de imóveis e generaliza indevidamente essa dispensa para a doação modal, esquecendo que a cláusula de reversão é requisito de validade, e não formalidade dispensável — é ela que assegura o retorno do bem ao patrimônio público em caso de descumprimento do encargo.",
+    "fundamentacaoLegal": "Art. 76, I, 'b', e § 1º, da Lei nº 14.133/2021; arts. 100 e 101 do Código Civil; art. 37, XXI, da CF/88."
+  },
+  {
+    "id": "bens-publicos-fcx-07",
+    "topicoId": "bens-publicos",
+    "topico": "Bens públicos",
+    "dificuldade": "extremo",
+    "enunciado": "Município cede a empresa privada, mediante concessão de direito real de uso, imóvel dominical de seu patrimônio, no qual a cessionária passa a explorar atividade econômica com finalidade lucrativa. Nessa situação, a cessionária é contribuinte do imposto sobre a propriedade predial e territorial urbana incidente sobre o imóvel, não lhe aproveitando a imunidade tributária recíproca.",
+    "gabarito": "C",
+    "justificativa": "O item está correto e exige o cruzamento entre o regime dos bens públicos e o direito tributário. A imunidade recíproca do art. 150, VI, 'a', da CF/88 é subjetiva e protege o ente federativo, não se estendendo, por força do art. 150, § 3º, ao patrimônio relacionado com exploração de atividade econômica regida pelas normas aplicáveis a empreendimentos privados ou em que haja contraprestação ou pagamento de preços ou tarifas pelo usuário. O STF firmou, em repercussão geral, que incide o IPTU sobre imóvel de pessoa jurídica de direito público cedido a pessoa jurídica de direito privado, que é a devedora do tributo (RE 601.720), e que a imunidade recíproca não alcança empresa privada arrendatária de imóvel público exploradora de atividade econômica com fins lucrativos (RE 594.015). No mesmo sentido, a Súmula 583 do STF já reconhecia a condição de contribuinte do promitente-comprador de imóvel residencial transcrito em nome de autarquia. O fundamento último está no art. 34 do CTN, que admite como contribuinte o possuidor a qualquer título dotado de animus domini ou de posse com expressão econômica, situação da concessionária de direito real de uso.",
+    "fundamentacaoLegal": "Arts. 150, VI, 'a', e 150, § 3º, da CF/88; art. 34 do CTN; Súmula 583 do STF; RE 601.720 e RE 594.015, ambos do STF, julgados sob o rito da repercussão geral."
+  },
+  {
+    "id": "bens-publicos-fcx-08",
+    "topicoId": "bens-publicos",
+    "topico": "Bens públicos",
+    "dificuldade": "extremo",
+    "enunciado": "São nulos e extintos, não produzindo efeitos jurídicos, os atos que tenham por objeto a ocupação, o domínio e a posse das terras tradicionalmente ocupadas pelos indígenas, gerando a nulidade, todavia, direito a indenização tanto pelo valor da terra nua quanto pelas benfeitorias derivadas da ocupação de boa-fé.",
+    "gabarito": "E",
+    "justificativa": "A expressão que torna o item falso é 'direito a indenização tanto pelo valor da terra nua quanto pelas benfeitorias derivadas da ocupação de boa-fé'. O art. 231, § 6º, da CF/88 é expresso ao dispor que a nulidade e a extinção NÃO GERAM direito a indenização ou a ações contra a União, SALVO, na forma da lei, quanto às benfeitorias derivadas da ocupação de boa-fé. A redação correta, portanto, restringe a indenização às benfeitorias de boa-fé, excluindo o valor da terra nua. A lógica do dispositivo é a de que as terras tradicionalmente ocupadas são bens da União (art. 20, XI), inalienáveis e indisponíveis, e os direitos sobre elas são imprescritíveis (art. 231, § 4º), de modo que jamais ingressaram validamente no patrimônio do ocupante — não há, assim, o que indenizar a título de domínio. Registre-se, como limite da tese, a Súmula 650 do STF, segundo a qual os incisos I e XI do art. 20 da CF/88 não alcançam terras de aldeamentos extintos, ainda que ocupadas por indígenas em passado remoto: nesse caso, as áreas não são bens da União e o raciocínio acima não se aplica.",
+    "fundamentacaoLegal": "Arts. 20, XI, e 231, §§ 4º e 6º, da CF/88; Súmula 650 do STF; art. 100 do Código Civil."
+  },
+  {
+    "id": "bens-publicos-fcx-09",
+    "topicoId": "bens-publicos",
+    "topico": "Bens públicos",
+    "dificuldade": "extremo",
+    "enunciado": "A concessão de direito real de uso, instituída por decreto-lei de 1967 e arrolada entre os direitos reais no Código Civil, constitui direito real resolúvel que, salvo disposição contratual em contrário, transfere-se por ato inter vivos ou por sucessão legítima ou testamentária, resolvendo-se antes de seu termo caso o concessionário dê ao imóvel destinação diversa da pactuada, hipótese em que perde as benfeitorias de qualquer natureza.",
+    "gabarito": "C",
+    "justificativa": "O item está correto em todos os seus elementos e cobra a distinção fina entre as formas de uso privativo de bem público. Diferentemente da autorização e da permissão de uso — atos unilaterais e precários —, a concessão de direito real de uso é negócio jurídico que gera direito real, tanto que arrolada no rol do art. 1.225 do Código Civil, ao lado da concessão de uso especial para fins de moradia. Sua resolubilidade e transmissibilidade estão expressamente previstas no decreto-lei que a criou, o qual também comina ao concessionário que desvirtua a destinação contratada a perda das benfeitorias de qualquer natureza, sanção contratual que independe de boa-fé — ponto em que o instituto se afasta do regime possessório comum dos arts. 1.219 e 1.220 do Código Civil. A ressalva 'salvo disposição contratual em contrário' quanto à transferência é o detalhe que distingue a assertiva correta da armadilha comum, que afirma ser a transmissão sempre livre ou sempre vedada.",
+    "fundamentacaoLegal": "Art. 7º, caput e §§ 3º e 4º, do Decreto-Lei nº 271/1967; art. 1.225, XI e XII, do Código Civil; art. 76, I, 'f', da Lei nº 14.133/2021."
+  },
+  {
+    "id": "bens-publicos-fcx-10",
+    "topicoId": "bens-publicos",
+    "topico": "Bens públicos",
+    "dificuldade": "extremo",
+    "enunciado": "A legitimação fundiária, prevista na Lei nº 13.465/2017 no âmbito da regularização fundiária urbana, constitui forma derivada de aquisição do direito real de propriedade, de modo que o beneficiário recebe a unidade imobiliária com os ônus reais, os gravames e as inscrições que a oneravam na matrícula de origem.",
+    "gabarito": "E",
+    "justificativa": "As expressões que tornam o item falso são 'forma derivada de aquisição' e 'recebe a unidade imobiliária com os ônus reais, os gravames e as inscrições'. A lei qualifica a legitimação fundiária como forma ORIGINÁRIA de aquisição do direito real de propriedade, conferida por ato do poder público exclusivamente no âmbito da Reurb, e determina que o ocupante adquire a unidade imobiliária livre e desembaraçada de quaisquer ônus, direitos reais, gravames ou inscrições eventualmente existentes na matrícula de origem, ressalvados os que digam respeito ao próprio legitimado. A redação correta seria, portanto, 'forma originária [...] livre e desembaraçada de quaisquer ônus'. A consequência prática é decisiva e explica a razão de ser do instituto: por ser originária, a aquisição não esbarra na imprescritibilidade dos bens públicos nem depende de prazo de posse qualificada, diferentemente da usucapião, e não se confunde com a legitimação de posse, que é apenas título de reconhecimento de posse, passível de posterior conversão em propriedade.",
+    "fundamentacaoLegal": "Arts. 23, caput e § 2º, 25 e 26 da Lei nº 13.465/2017; art. 102 do Código Civil; art. 183, § 3º, da CF/88."
+  }
+]
