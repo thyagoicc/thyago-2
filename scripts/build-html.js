@@ -14,14 +14,17 @@ import { TOPICOS } from "../lib/topicos.js";
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.join(__dirname, "..");
 
+// `subpastas` aceita { nome, opcional }: um diretório opcional pode não
+// cobrir todos os tópicos (é o caso do nível Extremo, presente só em parte
+// deles), então sua ausência não gera aviso.
 function montarBanco(subpastas) {
   const banco = {};
   for (const topico of TOPICOS) {
     banco[topico.id] = [];
-    for (const subpasta of subpastas) {
-      const arquivo = path.join(ROOT, "data", subpasta, `${topico.id}.json`);
+    for (const { nome, opcional } of subpastas) {
+      const arquivo = path.join(ROOT, "data", nome, `${topico.id}.json`);
       if (!fs.existsSync(arquivo)) {
-        console.warn(`AVISO: banco de "${subpasta}" ausente para "${topico.id}"`);
+        if (!opcional) console.warn(`AVISO: banco de "${nome}" ausente para "${topico.id}"`);
         continue;
       }
       banco[topico.id].push(...JSON.parse(fs.readFileSync(arquivo, "utf8")));
@@ -31,8 +34,11 @@ function montarBanco(subpastas) {
 }
 
 function build() {
-  const banco = montarBanco(["questoes"]);
-  const flashcards = montarBanco(["flashcards", "flashcards-extremo"]);
+  const banco = montarBanco([{ nome: "questoes" }]);
+  const flashcards = montarBanco([
+    { nome: "flashcards" },
+    { nome: "flashcards-extremo", opcional: true },
+  ]);
   const totalQuestoes = Object.values(banco).reduce((acc, arr) => acc + arr.length, 0);
   const totalFlashcards = Object.values(flashcards).reduce((acc, arr) => acc + arr.length, 0);
 

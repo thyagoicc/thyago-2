@@ -7,8 +7,10 @@ dois bancos fixos de conteúdo de Direito Administrativo para o concurso de
 
 - **Questões (estilo IDECAN)** — 600 questões de múltipla escolha (30 por
   tópico × 20 tópicos), dificuldade média/difícil.
-- **Flashcards (estilo CEBRASPE)** — 200 itens Certo/Errado (10 por tópico
-  × 20 tópicos), todos de dificuldade difícil.
+- **Flashcards (estilo CEBRASPE)** — 320 itens Certo/Errado em dois níveis:
+  **difícil** (10 por tópico, nos 20 tópicos) e **extremo** (10 por tópico,
+  em 12 tópicos), este último no patamar de provas de Auditor Fiscal e de
+  Delegado, calibrado em 28 provas reais de 5 bancas.
 
 O app tem duas abas para alternar entre os dois modos.
 
@@ -30,8 +32,10 @@ navegador (veja abaixo).
   - `POST /api/questao` — recebe `{ topicoIds, dificuldade, excluirIds }` e
     devolve uma questão sorteada dentre as que casam com o filtro e ainda
     não foram vistas (quando todas já foram vistas, reinicia o ciclo);
-  - `POST /api/flashcard` — mesma lógica, para o banco de flashcards
-    (sempre dificuldade difícil).
+  - `POST /api/flashcard` — mesma lógica, para o banco de flashcards, que
+    mescla `data/flashcards/` (nível difícil) e `data/flashcards-extremo/`
+    (nível extremo); o campo `dificuldade` aceita `"dificil"`, `"extremo"`
+    ou `"todos"`.
 - **Frontend** (`public/`): página única, sem framework, com abas para
   trocar de modo, sidebar de filtros (tópico e, no modo Questões,
   dificuldade), cartão de questão (alternativas clicáveis) ou de flashcard
@@ -109,9 +113,10 @@ hospedar o app em um servidor.
 ## Uso
 
 1. Escolha a aba **Questões (IDECAN)** ou **Flashcards (CEBRASPE)** no topo.
-2. No modo Questões, escolha também a dificuldade (média, difícil, ou
-   sorteada entre as duas) — no modo Flashcards todos os itens já são
-   difíceis.
+2. No modo Questões, escolha a dificuldade (média, difícil, ou sorteada
+   entre as duas). No modo Flashcards, escolha o nível: **Extremo**
+   (padrão), **Difícil** ou **Todos os níveis** — tópicos sem itens no
+   nível escolhido aparecem com `(0)` e ficam fora do sorteio.
 3. Marque os tópicos de Direito Administrativo desejados (todos vêm
    marcados por padrão, com a contagem de itens do modo atual entre
    parênteses).
@@ -135,8 +140,12 @@ server.js                       servidor Express + endpoints /api/questao e /api
 lib/topicos.js                  conteúdo programático de Direito Administrativo (20 tópicos)
 lib/idecanStyleGuide.js         guia de estilo da banca IDECAN usado na redação das questões
 lib/cebraspeStyleGuide.js       guia de estilo da banca CEBRASPE usado na redação dos flashcards
+lib/nivelExtremoStyleGuide.js   calibração do nível Extremo, extraída de 28 provas reais
 data/questoes/<topicoId>.json   banco de 30 questões por tópico (20 arquivos, 600 questões)
-data/flashcards/<topicoId>.json banco de 10 flashcards por tópico (20 arquivos, 200 flashcards)
+data/flashcards/<topicoId>.json banco de 10 flashcards nível difícil por tópico (20 arquivos, 200)
+data/flashcards-extremo/<id>.json  banco de 10 flashcards nível extremo (12 arquivos, 120)
+data/corpus-provas/             texto das 28 provas reais usadas para calibrar o nível Extremo
+docs/provas-analisadas.md       inventário das provas, limitações e padrões extraídos
 public/index.html               página única do app (versão servidor), com abas Questões/Flashcards
 public/styles.css               estilo visual (inspirado em Qconcursos/TecConcursos)
 public/app.js                    lógica do frontend da versão servidor (fetch nas rotas /api/...)
@@ -169,8 +178,10 @@ em `data/questoes/<topicoId>.json`, seguindo o schema abaixo, e depois rode
 }
 ```
 
-Para adicionar mais flashcards, edite `data/flashcards/<topicoId>.json`,
-seguindo este schema (sem alternativas — item único Certo/Errado):
+Para adicionar mais flashcards, edite `data/flashcards/<topicoId>.json`
+(nível difícil) ou `data/flashcards-extremo/<topicoId>.json` (nível
+extremo — crie o arquivo se o tópico ainda não tiver esse nível), seguindo
+este schema (sem alternativas — item único Certo/Errado):
 
 ```json
 {

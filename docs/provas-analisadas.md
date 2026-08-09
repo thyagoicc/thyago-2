@@ -10,6 +10,29 @@ estilo e de aferição de dificuldade. **Nenhuma questão foi copiada** — o
 corpus foi usado para observar padrões de redação, profundidade exigida e
 tipo de pegadinha; todos os flashcards são inéditos.
 
+## Cobertura atual do nível Extremo
+
+O nível Extremo cobre **12 dos 20 tópicos**, com 10 itens cada (120
+flashcards), em [`data/flashcards-extremo/`](../data/flashcards-extremo/):
+
+| # | Tópico | # | Tópico |
+|---|--------|---|--------|
+| 1 | `ato-administrativo` | 7 | `processo-administrativo` |
+| 2 | `extincao-ato` | 8 | `servicos-publicos` |
+| 3 | `regime-disciplinar` | 9 | `bens-publicos` |
+| 4 | `improbidade` | 10 | `intervencao-propriedade` |
+| 5 | `licitacoes` | 11 | `transparencia-lai` |
+| 6 | `responsabilidade-civil-estado` | 12 | `controle-administracao` |
+
+Os 8 tópicos restantes — `estado-administracao`, `principios`,
+`organizacao-administrativa`, `orgaos-publicos`, `poderes-administrativos`,
+`agentes-publicos`, `contratos-administrativos` e `lgpd-administracao` —
+permanecem apenas com os 10 flashcards de nível **difícil** cada. No app, ao escolher o nível Extremo, esses tópicos
+aparecem com `(0)` na lista lateral e são simplesmente ignorados no
+sorteio. Para ampliar a cobertura, basta acrescentar novos arquivos
+`data/flashcards-extremo/<topicoId>.json` seguindo o mesmo schema e rodar
+`npm run build:html`.
+
 ## Inventário (28 provas, 5 bancas)
 
 ### Compilação "10 Provas da Área Fiscal" (10 provas)

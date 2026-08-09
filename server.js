@@ -6,9 +6,11 @@ import { TOPICOS } from "./lib/topicos.js";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const QUESTOES_DIR = path.join(__dirname, "data", "questoes");
+// O nível Extremo existe apenas em parte dos tópicos, então seu diretório é
+// opcional: a ausência do arquivo não é erro.
 const FLASHCARDS_DIRS = [
-  path.join(__dirname, "data", "flashcards"),
-  path.join(__dirname, "data", "flashcards-extremo"),
+  { caminho: path.join(__dirname, "data", "flashcards") },
+  { caminho: path.join(__dirname, "data", "flashcards-extremo"), opcional: true },
 ];
 const PORT = process.env.PORT || 3000;
 const DIFICULDADES = ["media", "dificil", "extremo"];
@@ -17,17 +19,17 @@ const app = express();
 app.use(express.json());
 app.use(express.static("public"));
 
-const bancoQuestoes = carregarBanco([QUESTOES_DIR], "questões");
+const bancoQuestoes = carregarBanco([{ caminho: QUESTOES_DIR }], "questões");
 const bancoFlashcards = carregarBanco(FLASHCARDS_DIRS, "flashcards");
 
 function carregarBanco(dirs, rotulo) {
   const banco = {};
   for (const topico of TOPICOS) {
     banco[topico.id] = [];
-    for (const dir of dirs) {
-      const arquivo = path.join(dir, `${topico.id}.json`);
+    for (const { caminho, opcional } of dirs) {
+      const arquivo = path.join(caminho, `${topico.id}.json`);
       if (!fs.existsSync(arquivo)) {
-        console.warn(`AVISO: banco de ${rotulo} ausente para "${topico.id}" em ${dir}`);
+        if (!opcional) console.warn(`AVISO: banco de ${rotulo} ausente para "${topico.id}" em ${caminho}`);
         continue;
       }
       banco[topico.id].push(...JSON.parse(fs.readFileSync(arquivo, "utf8")));
