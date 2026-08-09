@@ -1,55 +1,73 @@
-# Gerador de Questões — Direito Administrativo (estilo IDECAN)
+# Gerador de Questões — Direito Administrativo (IDECAN + CEBRASPE)
 
-Aplicativo web simples, no estilo visual do Qconcursos/TecConcursos, com um
-**banco fixo de 600 questões** (30 por tópico × 20 tópicos) de Direito
-Administrativo, escritas para reproduzir o padrão de redação da banca
-**IDECAN**, voltado ao concurso de **Auditor Fiscal da Receita Municipal —
-Prefeitura de Campina Grande/PB** (Edital nº 01/2026, prova em 30/08/2026).
+Aplicativo web simples, no estilo visual do Qconcursos/TecConcursos, com
+dois bancos fixos de conteúdo de Direito Administrativo para o concurso de
+**Auditor Fiscal da Receita Municipal — Prefeitura de Campina Grande/PB**
+(Edital nº 01/2026, prova em 30/08/2026):
 
-Não há chamadas a nenhuma API de IA em tempo de execução: as questões já
-estão escritas e salvas em arquivos JSON no repositório. O app apenas
-sorteia uma questão do banco, respeitando os filtros de tópico/dificuldade
-escolhidos e evitando repetir questões já vistas na sessão. **Não é
-necessária nenhuma chave de API, nem instalação, para usar o app** — é só
-abrir o arquivo `gerador-questoes-idecan.html` no navegador (veja abaixo).
+- **Questões (estilo IDECAN)** — 600 questões de múltipla escolha (30 por
+  tópico × 20 tópicos), dificuldade média/difícil.
+- **Flashcards (estilo CEBRASPE)** — 200 itens Certo/Errado (10 por tópico
+  × 20 tópicos), todos de dificuldade difícil.
+
+O app tem duas abas para alternar entre os dois modos.
+
+Não há chamadas a nenhuma API de IA em tempo de execução: todo o conteúdo já
+está escrito e salvo em arquivos JSON no repositório. O app apenas sorteia
+um item do banco correspondente, respeitando os filtros de tópico
+(e dificuldade, no modo Questões) escolhidos, e evita repetir itens já
+vistos na sessão. **Não é necessária nenhuma chave de API, nem instalação,
+para usar o app** — é só abrir o arquivo `gerador-questoes-idecan.html` no
+navegador (veja abaixo).
 
 ## Como funciona
 
 - **Backend** (`server.js`, Express): carrega os arquivos JSON de
-  `data/questoes/<topicoId>.json` na memória ao iniciar e expõe:
-  - `GET /api/topicos` — lista de tópicos com a contagem de questões de cada
-    um;
+  `data/questoes/<topicoId>.json` e `data/flashcards/<topicoId>.json` na
+  memória ao iniciar e expõe:
+  - `GET /api/topicos` — lista de tópicos com a contagem de questões e de
+    flashcards de cada um;
   - `POST /api/questao` — recebe `{ topicoIds, dificuldade, excluirIds }` e
     devolve uma questão sorteada dentre as que casam com o filtro e ainda
-    não foram vistas (quando todas já foram vistas, reinicia o ciclo).
-- **Frontend** (`public/`): página única, sem framework, com sidebar de
-  filtros (tópico e dificuldade), cartão de questão com alternativas
-  clicáveis, correção instantânea e estatísticas de acertos/erros salvas no
-  `localStorage` do navegador (que também guarda quais questões já foram
-  vistas, para não repetir).
+    não foram vistas (quando todas já foram vistas, reinicia o ciclo);
+  - `POST /api/flashcard` — mesma lógica, para o banco de flashcards
+    (sempre dificuldade difícil).
+- **Frontend** (`public/`): página única, sem framework, com abas para
+  trocar de modo, sidebar de filtros (tópico e, no modo Questões,
+  dificuldade), cartão de questão (alternativas clicáveis) ou de flashcard
+  (botões CERTO/ERRADO), correção instantânea e estatísticas de
+  acertos/erros salvas no `localStorage` do navegador — separadas por modo
+  — que também guardam quais itens já foram vistos, para não repetir.
 
-## Sobre o padrão IDECAN usado (transparência)
+## Sobre os padrões de banca usados (transparência)
 
 O arquivo [`lib/idecanStyleGuide.js`](lib/idecanStyleGuide.js) descreve o
-padrão de redação seguido ao escrever as questões: 5 alternativas (A–E),
-comandos de enunciado típicos da banca ("Assinale a alternativa correta",
-situações hipotéticas curtas, etc.), literalidade da lei como base das
-questões, técnicas de "pegadinha" recorrentes (troca de institutos
-parecidos, inversão de regra/exceção, prazos e competências trocados) e
-dificuldade média/difícil, compatível com o nível de um cargo de Auditor
-Fiscal.
+padrão de redação seguido ao escrever as questões de múltipla escolha: 5
+alternativas (A–E), comandos de enunciado típicos da banca ("Assinale a
+alternativa correta", situações hipotéticas curtas, etc.), literalidade da
+lei como base das questões, técnicas de "pegadinha" recorrentes (troca de
+institutos parecidos, inversão de regra/exceção, prazos e competências
+trocados) e dificuldade média/difícil, compatível com o nível de um cargo
+de Auditor Fiscal.
 
-Esse guia foi construído a partir das características **consolidadas e bem
-documentadas** do estilo de redação da IDECAN em concursos de nível
+O arquivo [`lib/cebraspeStyleGuide.js`](lib/cebraspeStyleGuide.js) descreve
+o padrão usado nos flashcards: item único declarativo, julgado como CERTO
+ou ERRADO (nunca múltipla escolha), frases que combinam mais de uma regra
+jurídica na mesma oração, e as mesmas técnicas de erro sutil características
+da banca (troca de termo próximo, inversão regra/exceção, erro de conexão
+lógica, dispositivo revogado), sempre em dificuldade difícil.
+
+Esses guias foram construídos a partir das características **consolidadas e
+bem documentadas** do estilo de redação de cada banca em concursos de nível
 superior. Durante a criação deste projeto, o PDF oficial do edital 01/2026
 de Campina Grande/PB (hospedado em `concurso.idecan.org.br`) bloqueou o
-download automatizado (HTTP 403), então **não há provas reais da banca
-embutidas ou copiadas no app** — todas as 600 questões são inéditas, no
-estilo da banca, escritas com base em legislação, jurisprudência e doutrina
-reais, mas não são itens de provas aplicadas. Se você tiver PDFs de provas
-reais da IDECAN e quiser calibrar ainda mais o padrão, use
-`lib/idecanStyleGuide.js` como referência de tom ao revisar/reescrever
-questões em `data/questoes/`.
+download automatizado (HTTP 403), então **não há provas reais de nenhuma
+das duas bancas embutidas ou copiadas no app** — todo o conteúdo (600
+questões + 200 flashcards) é inédito, escrito com base em legislação,
+jurisprudência e doutrina reais, mas não são itens de provas aplicadas. Se
+você tiver PDFs de provas reais e quiser calibrar ainda mais o padrão, use
+os guias de estilo como referência de tom ao revisar/reescrever itens em
+`data/questoes/` ou `data/flashcards/`.
 
 O conteúdo programático de Direito Administrativo em
 [`lib/topicos.js`](lib/topicos.js) segue os tópicos clássicos dessa
@@ -64,8 +82,8 @@ livremente caso o anexo oficial do edital detalhe itens diferentes.
 
 Basta abrir **[`gerador-questoes-idecan.html`](gerador-questoes-idecan.html)**
 diretamente no navegador (duplo clique no arquivo) — não precisa de Node,
-npm, internet nem servidor. As 600 questões já estão embutidas no próprio
-arquivo.
+npm, internet nem servidor. As 600 questões e os 200 flashcards já estão
+embutidos no próprio arquivo (~1,4 MB).
 
 Esse arquivo é gerado a partir dos dados do projeto. Se você editar os
 tópicos ou o banco de questões, regenere-o com:
@@ -90,33 +108,42 @@ hospedar o app em um servidor.
 
 ## Uso
 
-1. Escolha a dificuldade (média, difícil, ou sorteada entre as duas).
-2. Marque os tópicos de Direito Administrativo desejados (todos vêm marcados
-   por padrão, com a contagem de questões de cada um entre parênteses).
-3. Clique em **Sortear questão**.
-4. Selecione uma alternativa e clique em **Responder** para ver o gabarito,
-   o comentário explicativo e a fundamentação legal.
-5. Clique em **Próxima questão** para continuar treinando. As estatísticas
-   de acertos/erros ficam salvas no navegador (botão **Zerar** limpa o
-   histórico). Quando todas as questões de um filtro já tiverem sido vistas,
-   o app avisa com o rótulo "Ciclo reiniciado" e volta a sorteá-las.
+1. Escolha a aba **Questões (IDECAN)** ou **Flashcards (CEBRASPE)** no topo.
+2. No modo Questões, escolha também a dificuldade (média, difícil, ou
+   sorteada entre as duas) — no modo Flashcards todos os itens já são
+   difíceis.
+3. Marque os tópicos de Direito Administrativo desejados (todos vêm
+   marcados por padrão, com a contagem de itens do modo atual entre
+   parênteses).
+4. Clique em **Sortear questão** / **Sortear flashcard**.
+5. No modo Questões, selecione uma alternativa e clique em **Responder**
+   para ver o gabarito, o comentário explicativo e a fundamentação legal.
+   No modo Flashcards, clique em **CERTO** ou **ERRADO** para julgar o
+   item e ver a justificativa.
+6. Clique em **Próxima questão** / **Próximo flashcard** para continuar
+   treinando. As estatísticas de acertos/erros ficam salvas no navegador,
+   separadas por modo (botão **Zerar** limpa o histórico do modo atual).
+   Quando todos os itens de um filtro já tiverem sido vistos, o app avisa
+   com o rótulo "Ciclo reiniciado" e volta a sorteá-los.
 
 ## Estrutura do projeto
 
 ```
-gerador-questoes-idecan.html  arquivo único autocontido (gerado) — abrir direto no navegador, sem servidor
-scripts/build-html.js         gera o HTML autocontido a partir de lib/ + data/ + public/
-server.js                     servidor Express + endpoint /api/questao (sorteio no banco estático)
-lib/topicos.js                conteúdo programático de Direito Administrativo (20 tópicos)
-lib/idecanStyleGuide.js       guia de estilo da banca IDECAN usado na redação das questões
-data/questoes/<topicoId>.json banco de 30 questões por tópico (20 arquivos, 600 questões)
-public/index.html             página única do app (versão servidor)
-public/styles.css             estilo visual (inspirado em Qconcursos/TecConcursos)
-public/app.js                  lógica do frontend da versão servidor (fetch nas rotas /api/...)
-public/app-standalone.js       mesma lógica, adaptada para ler os dados embutidos (usada no build do HTML único)
+gerador-questoes-idecan.html    arquivo único autocontido (gerado) — abrir direto no navegador, sem servidor
+scripts/build-html.js           gera o HTML autocontido a partir de lib/ + data/ + public/
+server.js                       servidor Express + endpoints /api/questao e /api/flashcard (sorteio nos bancos estáticos)
+lib/topicos.js                  conteúdo programático de Direito Administrativo (20 tópicos)
+lib/idecanStyleGuide.js         guia de estilo da banca IDECAN usado na redação das questões
+lib/cebraspeStyleGuide.js       guia de estilo da banca CEBRASPE usado na redação dos flashcards
+data/questoes/<topicoId>.json   banco de 30 questões por tópico (20 arquivos, 600 questões)
+data/flashcards/<topicoId>.json banco de 10 flashcards por tópico (20 arquivos, 200 flashcards)
+public/index.html               página única do app (versão servidor), com abas Questões/Flashcards
+public/styles.css               estilo visual (inspirado em Qconcursos/TecConcursos)
+public/app.js                    lógica do frontend da versão servidor (fetch nas rotas /api/...)
+public/app-standalone.js         mesma lógica, adaptada para ler os dados embutidos (usada no build do HTML único)
 ```
 
-## Ampliando o banco
+## Ampliando os bancos
 
 Para adicionar mais questões a um tópico, edite o array JSON correspondente
 em `data/questoes/<topicoId>.json`, seguindo o schema abaixo, e depois rode
@@ -142,9 +169,26 @@ em `data/questoes/<topicoId>.json`, seguindo o schema abaixo, e depois rode
 }
 ```
 
+Para adicionar mais flashcards, edite `data/flashcards/<topicoId>.json`,
+seguindo este schema (sem alternativas — item único Certo/Errado):
+
+```json
+{
+  "id": "ato-administrativo-fc-11",
+  "topicoId": "ato-administrativo",
+  "topico": "Ato administrativo",
+  "dificuldade": "dificil",
+  "enunciado": "afirmação única a ser julgada como certa ou errada",
+  "gabarito": "C",
+  "justificativa": "...",
+  "fundamentacaoLegal": "..."
+}
+```
+
 ## Aviso legal
 
-As questões foram elaboradas com apoio de inteligência artificial para fins
-de estudo e treino de estilo. Não têm vínculo oficial com a IDECAN, com a
-Prefeitura de Campina Grande ou com o edital 01/2026, e não substituem a
-leitura do edital oficial e do material didático especializado.
+As questões e os flashcards foram elaborados com apoio de inteligência
+artificial para fins de estudo e treino de estilo. Não têm vínculo oficial
+com a IDECAN, com a CEBRASPE, com a Prefeitura de Campina Grande ou com o
+edital 01/2026, e não substituem a leitura do edital oficial e do material
+didático especializado.
