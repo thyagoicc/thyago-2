@@ -1,0 +1,102 @@
+[
+  {
+    "id": "improbidade-fc-01",
+    "topicoId": "improbidade",
+    "topico": "Improbidade administrativa",
+    "dificuldade": "dificil",
+    "enunciado": "Constitui ato de improbidade administrativa que causa lesão ao erário qualquer ação ou omissão, dolosa ou culposa, que enseje, efetiva e comprovadamente, perda patrimonial, desvio, apropriação, malbaratamento ou dilapidação dos bens ou haveres das entidades referidas no art. 1º da Lei nº 8.429/1992.",
+    "gabarito": "E",
+    "justificativa": "O erro está na expressão dolosa ou culposa. A Lei nº 14.230/2021 suprimiu a modalidade culposa de improbidade: o art. 10 passou a exigir ação ou omissão dolosa, e o art. 1º, § 1º, define o ato de improbidade como conduta dolosa tipificada nos arts. 9º, 10 e 11. O § 2º ainda esclarece que dolo é a vontade livre e consciente de alcançar o resultado ilícito, não bastando a voluntariedade do agente. A exigência de perda patrimonial efetiva e comprovada, essa sim, está correta.",
+    "fundamentacaoLegal": "Lei nº 8.429/1992, art. 10, caput, c/c art. 1º, §§ 1º e 2º, com redação dada pela Lei nº 14.230/2021."
+  },
+  {
+    "id": "improbidade-fc-02",
+    "topicoId": "improbidade",
+    "topico": "Improbidade administrativa",
+    "dificuldade": "dificil",
+    "enunciado": "Ao agente condenado por ato de improbidade que atenta contra os princípios da administração pública não se aplicam as sanções de perda da função pública e de suspensão dos direitos políticos, cabendo o pagamento de multa civil de até vinte e quatro vezes o valor da remuneração percebida pelo agente e a proibição de contratar com o poder público pelo prazo não superior a quatro anos.",
+    "gabarito": "C",
+    "justificativa": "O item reproduz corretamente o art. 12, III, da Lei nº 8.429/1992, na redação da Lei nº 14.230/2021. Para os atos do art. 11, o legislador restringiu o rol sancionatório, excluindo a perda da função pública e a suspensão dos direitos políticos, que remanescem apenas para as hipóteses dos arts. 9º e 10. A dificuldade está em perceber essa assimetria de sanções conforme a espécie de ato ímprobo.",
+    "fundamentacaoLegal": "Lei nº 8.429/1992, art. 12, III, com redação dada pela Lei nº 14.230/2021."
+  },
+  {
+    "id": "improbidade-fc-03",
+    "topicoId": "improbidade",
+    "topico": "Improbidade administrativa",
+    "dificuldade": "dificil",
+    "enunciado": "Com a Lei nº 14.230/2021, a legitimidade ativa para a propositura da ação por improbidade administrativa tornou-se exclusiva do Ministério Público, orientação posteriormente confirmada pelo Supremo Tribunal Federal no julgamento das ações diretas de inconstitucionalidade sobre o tema.",
+    "gabarito": "E",
+    "justificativa": "A primeira parte descreve a redação originalmente conferida ao art. 17 pela Lei nº 14.230/2021, mas a segunda parte inverte o resultado do julgamento. Ao apreciar as ADIs 7042 e 7043, o STF declarou a inconstitucionalidade parcial dos dispositivos que atribuíam exclusividade ao Ministério Público, restabelecendo a legitimidade ativa concorrente e disjuntiva da pessoa jurídica interessada para a ação de improbidade e para os acordos de não persecução civil.",
+    "fundamentacaoLegal": "Lei nº 8.429/1992, art. 17, caput; STF, ADI 7042 e ADI 7043; CF/88, art. 129, § 1º."
+  },
+  {
+    "id": "improbidade-fc-04",
+    "topicoId": "improbidade",
+    "topico": "Improbidade administrativa",
+    "dificuldade": "dificil",
+    "enunciado": "Segundo o Supremo Tribunal Federal, a exigência de dolo introduzida pela Lei nº 14.230/2021 alcança os atos culposos praticados na vigência do texto anterior que ainda não tenham condenação transitada em julgado, devendo o juízo competente analisar eventual dolo do agente, ao passo que o novo regime prescricional é irretroativo.",
+    "gabarito": "C",
+    "justificativa": "O item sintetiza corretamente as teses fixadas pelo STF no Tema 1199 da repercussão geral (ARE 843989). Firmou-se que a revogação da modalidade culposa não retroage para atingir a coisa julgada, mas incide sobre os processos em curso sem condenação definitiva, cabendo ao juízo competente examinar a presença de dolo; quanto à prescrição, os novos marcos temporais aplicam-se somente a partir da publicação da lei, sendo irretroativos.",
+    "fundamentacaoLegal": "STF, ARE 843989 (Tema 1199); Lei nº 8.429/1992, art. 1º, §§ 1º e 2º, e art. 23, com redação dada pela Lei nº 14.230/2021; CF/88, art. 5º, XXXVI."
+  },
+  {
+    "id": "improbidade-fc-05",
+    "topicoId": "improbidade",
+    "topico": "Improbidade administrativa",
+    "dificuldade": "dificil",
+    "enunciado": "O sucessor ou o herdeiro daquele que causar dano ao erário ou que se enriquecer ilicitamente está sujeito apenas à obrigação de repará-lo, até o limite do valor da herança ou do patrimônio transferido, regra que se estende à sociedade resultante de incorporação, salvo nos casos de simulação ou de evidente intuito de fraude.",
+    "gabarito": "C",
+    "justificativa": "O item combina corretamente os arts. 8º e 8º-A da Lei nº 8.429/1992, incluídos ou alterados pela Lei nº 14.230/2021. A responsabilidade do sucessor e do herdeiro limita-se ao dever de reparação, no limite do patrimônio transferido, e a mesma lógica se aplica às hipóteses de alteração contratual, transformação, incorporação, fusão ou cisão societária, ressalvadas a simulação e a fraude, situações em que as demais sanções podem alcançar a sucessora.",
+    "fundamentacaoLegal": "Lei nº 8.429/1992, arts. 8º e 8º-A, caput e parágrafo único, com redação dada pela Lei nº 14.230/2021."
+  },
+  {
+    "id": "improbidade-fc-06",
+    "topicoId": "improbidade",
+    "topico": "Improbidade administrativa",
+    "dificuldade": "dificil",
+    "enunciado": "Sujeita-se às sanções da Lei de Improbidade Administrativa o particular que, embora não tenha induzido nem concorrido para a prática do ato ímprobo, dele se beneficie de forma direta e comprovada.",
+    "gabarito": "E",
+    "justificativa": "O item utiliza redação revogada. Antes da Lei nº 14.230/2021, o art. 3º alcançava quem induzisse, concorresse ou simplesmente se beneficiasse do ato de improbidade. Na redação atual, o dispositivo aplica-se apenas àquele que, não sendo agente público, induza ou concorra dolosamente para a prática do ato. O mero benefício, sem participação dolosa, deixou de ser suficiente para a responsabilização por improbidade.",
+    "fundamentacaoLegal": "Lei nº 8.429/1992, art. 3º, caput, com redação dada pela Lei nº 14.230/2021."
+  },
+  {
+    "id": "improbidade-fc-07",
+    "topicoId": "improbidade",
+    "topico": "Improbidade administrativa",
+    "dificuldade": "dificil",
+    "enunciado": "Não configura ato de improbidade administrativa a ação ou omissão decorrente de divergência interpretativa da lei baseada em jurisprudência, ainda que não pacificada, mesmo que não venha a ser posteriormente prevalecente nas decisões dos órgãos de controle ou dos tribunais.",
+    "gabarito": "C",
+    "justificativa": "O item reproduz fielmente o art. 1º, § 8º, da Lei nº 8.429/1992, incluído pela Lei nº 14.230/2021. Trata-se de excludente expressa, coerente com o art. 1º, § 4º, que manda aplicar ao sistema da improbidade os princípios constitucionais do direito administrativo sancionador, e com o art. 22 da LINDB. A tese sustentada não precisa ser a vencedora, bastando que esteja amparada em jurisprudência existente.",
+    "fundamentacaoLegal": "Lei nº 8.429/1992, art. 1º, §§ 4º e 8º, com redação dada pela Lei nº 14.230/2021; Decreto-Lei nº 4.657/1942 (LINDB), art. 22."
+  },
+  {
+    "id": "improbidade-fc-08",
+    "topicoId": "improbidade",
+    "topico": "Improbidade administrativa",
+    "dificuldade": "dificil",
+    "enunciado": "A sanção de perda da função pública imposta em ação de improbidade alcança automaticamente todos os vínculos que o condenado mantenha com o poder público no momento do trânsito em julgado, independentemente da natureza do cargo ocupado à época dos fatos.",
+    "gabarito": "E",
+    "justificativa": "O item contraria o art. 12, § 1º, da Lei nº 8.429/1992, na redação da Lei nº 14.230/2021, segundo o qual a perda da função pública atinge apenas o vínculo de mesma qualidade e natureza que o agente detinha com o poder público à época do cometimento da infração. A extensão aos demais vínculos é excepcional, exige decisão fundamentada do magistrado e só é admitida na hipótese do art. 9º (enriquecimento ilícito), consideradas as circunstâncias do caso e a gravidade da infração.",
+    "fundamentacaoLegal": "Lei nº 8.429/1992, art. 12, § 1º, c/c art. 20, caput, com redação dada pela Lei nº 14.230/2021."
+  },
+  {
+    "id": "improbidade-fc-09",
+    "topicoId": "improbidade",
+    "topico": "Improbidade administrativa",
+    "dificuldade": "dificil",
+    "enunciado": "A pretensão sancionadora por ato de improbidade prescreve em oito anos, contados da ocorrência do fato ou, no caso de infrações permanentes, do dia em que cessou a permanência, admitindo-se ainda o reconhecimento da prescrição intercorrente quando, entre os marcos interruptivos legais, transcorrer prazo de quatro anos.",
+    "gabarito": "C",
+    "justificativa": "O item combina corretamente o caput e os §§ 5º e 8º do art. 23 da Lei nº 8.429/1992, na redação da Lei nº 14.230/2021. O prazo geral é de oito anos, com termo inicial na ocorrência do fato ou na cessação da permanência; interrompida a prescrição, o prazo recomeça pela metade, isto é, quatro anos, lapso cujo decurso entre os marcos interruptivos do § 4º autoriza a decretação, de ofício ou a requerimento, da prescrição intercorrente.",
+    "fundamentacaoLegal": "Lei nº 8.429/1992, art. 23, caput e §§ 4º, 5º e 8º, com redação dada pela Lei nº 14.230/2021."
+  },
+  {
+    "id": "improbidade-fc-10",
+    "topicoId": "improbidade",
+    "topico": "Improbidade administrativa",
+    "dificuldade": "dificil",
+    "enunciado": "Por força do art. 37, § 5º, da Constituição Federal, são imprescritíveis todas as ações de ressarcimento ao erário, inclusive as fundadas em mero ilícito civil e as decorrentes de ato de improbidade praticado sem dolo.",
+    "gabarito": "E",
+    "justificativa": "O item generaliza indevidamente a ressalva constitucional. No Tema 897 da repercussão geral (RE 852475), o STF fixou que são imprescritíveis apenas as ações de ressarcimento ao erário fundadas na prática de ato doloso tipificado na Lei de Improbidade Administrativa. As pretensões de ressarcimento decorrentes de ilícito civil comum são prescritíveis (Tema 666, RE 669069), o mesmo valendo para o que não configure improbidade dolosa.",
+    "fundamentacaoLegal": "CF/88, art. 37, § 5º; STF, RE 852475 (Tema 897) e RE 669069 (Tema 666); Lei nº 8.429/1992, art. 1º, § 1º, com redação dada pela Lei nº 14.230/2021."
+  }
+]

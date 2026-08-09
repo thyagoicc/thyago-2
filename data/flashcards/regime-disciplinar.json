@@ -1,0 +1,102 @@
+[
+  {
+    "id": "regime-disciplinar-fc-01",
+    "topicoId": "regime-disciplinar",
+    "topico": "Regime disciplinar e processo administrativo disciplinar",
+    "dificuldade": "dificil",
+    "enunciado": "O servidor demitido por improbidade administrativa fica impedido de retornar ao serviço público federal, ao passo que aquele demitido por valer-se do cargo para lograr proveito pessoal, em detrimento da dignidade da função pública, torna-se incompatibilizado para nova investidura em cargo público federal pelo prazo de cinco anos.",
+    "gabarito": "C",
+    "justificativa": "O item combina corretamente as duas consequências distintas previstas no art. 137 da Lei nº 8.112/1990. O caput prevê incompatibilidade temporária de cinco anos para a demissão ou destituição fundada no art. 117, incisos IX e XI (valer-se do cargo para lograr proveito pessoal e atuar como procurador ou intermediário junto a repartições públicas). Já o parágrafo único veda em definitivo o retorno ao serviço público federal do servidor demitido com base no art. 132, incisos I, IV, VIII, X e XI, entre os quais está a improbidade administrativa (inciso IV). A dificuldade está em não confundir o rol do caput com o do parágrafo único.",
+    "fundamentacaoLegal": "Lei nº 8.112/1990, art. 137, caput e parágrafo único, c/c art. 117, IX, e art. 132, IV."
+  },
+  {
+    "id": "regime-disciplinar-fc-02",
+    "topicoId": "regime-disciplinar",
+    "topico": "Regime disciplinar e processo administrativo disciplinar",
+    "dificuldade": "dificil",
+    "enunciado": "Da sindicância poderá resultar a aplicação da penalidade de suspensão de até noventa dias, sendo obrigatória a instauração de processo administrativo disciplinar somente quando se cogitar da penalidade de demissão.",
+    "gabarito": "E",
+    "justificativa": "Há dois erros conectados. Primeiro, a sindicância só admite arquivamento, advertência ou suspensão de até trinta dias, ou a instauração de PAD (art. 145). Segundo, o processo disciplinar é obrigatório sempre que o ilícito ensejar suspensão por mais de trinta dias, demissão, cassação de aposentadoria ou disponibilidade ou destituição de cargo em comissão (art. 146), e não apenas nos casos de demissão. O item generaliza indevidamente ao restringir a obrigatoriedade do PAD à demissão.",
+    "fundamentacaoLegal": "Lei nº 8.112/1990, art. 145, II e parágrafo único, e art. 146."
+  },
+  {
+    "id": "regime-disciplinar-fc-03",
+    "topicoId": "regime-disciplinar",
+    "topico": "Regime disciplinar e processo administrativo disciplinar",
+    "dificuldade": "dificil",
+    "enunciado": "A autoridade instauradora do processo disciplinar poderá determinar, como medida cautelar e a fim de que o servidor não venha a influir na apuração da irregularidade, seu afastamento do exercício do cargo pelo prazo de até sessenta dias, sem prejuízo da remuneração, prorrogável por igual prazo, findo o qual cessarão os seus efeitos, ainda que não concluído o processo.",
+    "gabarito": "C",
+    "justificativa": "O item reproduz com precisão o art. 147 e seu parágrafo único da Lei nº 8.112/1990. O afastamento preventivo tem natureza cautelar, e não punitiva, razão pela qual não implica perda da remuneração; o prazo máximo é de sessenta dias, prorrogável uma vez por igual período, e seus efeitos cessam automaticamente ao término, ainda que o processo disciplinar não tenha sido concluído.",
+    "fundamentacaoLegal": "Lei nº 8.112/1990, art. 147, caput e parágrafo único."
+  },
+  {
+    "id": "regime-disciplinar-fc-04",
+    "topicoId": "regime-disciplinar",
+    "topico": "Regime disciplinar e processo administrativo disciplinar",
+    "dificuldade": "dificil",
+    "enunciado": "Constatada infração disciplinar punível com demissão que também esteja capitulada como crime contra a administração pública, a pretensão punitiva disciplinar prescreve em cinco anos contados da data em que o fato se tornou conhecido, sendo inaplicáveis, na esfera administrativa, os prazos prescricionais previstos na lei penal.",
+    "gabarito": "E",
+    "justificativa": "O erro está na parte final. Embora o prazo geral seja mesmo de cinco anos contados da data em que o fato se tornou conhecido (art. 142, caput, I, e § 1º), o § 2º do mesmo artigo determina expressamente que os prazos de prescrição previstos na lei penal se aplicam às infrações disciplinares capituladas também como crime, justamente para permitir prazo mais elástico. A afirmação de inaplicabilidade dos prazos penais torna o item falso.",
+    "fundamentacaoLegal": "Lei nº 8.112/1990, art. 142, caput, I, § 1º e § 2º."
+  },
+  {
+    "id": "regime-disciplinar-fc-05",
+    "topicoId": "regime-disciplinar",
+    "topico": "Regime disciplinar e processo administrativo disciplinar",
+    "dificuldade": "dificil",
+    "enunciado": "As penalidades de advertência e de suspensão terão seus registros cancelados após o decurso de três e de cinco anos de efetivo exercício, respectivamente, desde que o servidor não tenha praticado nova infração disciplinar nesse período, produzindo o cancelamento efeitos retroativos.",
+    "gabarito": "E",
+    "justificativa": "Os prazos de três e cinco anos estão corretos, mas o item inverte a regra final: o art. 131, parágrafo único, da Lei nº 8.112/1990 é expresso ao dispor que o cancelamento da penalidade não surtirá efeitos retroativos. O cancelamento apaga o registro para o futuro (impedindo, por exemplo, a caracterização de reincidência), mas não desconstitui os efeitos já produzidos pela sanção.",
+    "fundamentacaoLegal": "Lei nº 8.112/1990, art. 131, caput e parágrafo único."
+  },
+  {
+    "id": "regime-disciplinar-fc-06",
+    "topicoId": "regime-disciplinar",
+    "topico": "Regime disciplinar e processo administrativo disciplinar",
+    "dificuldade": "dificil",
+    "enunciado": "Embora o julgamento deva, em regra, acatar o relatório da comissão processante, a autoridade julgadora poderá, motivadamente, agravar a penalidade proposta, abrandá-la ou isentar o servidor de responsabilidade, quando o relatório contrariar as provas dos autos.",
+    "gabarito": "C",
+    "justificativa": "O item reproduz corretamente o art. 168 da Lei nº 8.112/1990 e seu parágrafo único. A vinculação da autoridade julgadora ao relatório é relativa: ela é a regra, mas cede quando o relatório for contrário às provas dos autos, hipótese em que se admite, mediante motivação, o agravamento, o abrandamento da sanção proposta ou a absolvição do servidor.",
+    "fundamentacaoLegal": "Lei nº 8.112/1990, art. 168, caput e parágrafo único."
+  },
+  {
+    "id": "regime-disciplinar-fc-07",
+    "topicoId": "regime-disciplinar",
+    "topico": "Regime disciplinar e processo administrativo disciplinar",
+    "dificuldade": "dificil",
+    "enunciado": "O processo administrativo disciplinar será conduzido por comissão composta de três servidores estáveis designados pela autoridade competente, exigindo-se que o presidente da comissão seja ocupante de cargo efetivo de nível hierárquico superior ao do servidor acusado.",
+    "gabarito": "E",
+    "justificativa": "A composição por três servidores estáveis está correta, mas o requisito relativo ao presidente foi restringido indevidamente. O art. 149 da Lei nº 8.112/1990 exige que o presidente seja ocupante de cargo efetivo superior ou de mesmo nível, ou que tenha nível de escolaridade igual ou superior ao do indiciado. Portanto, não se exige necessariamente nível hierárquico superior, bastando a equivalência de nível ou de escolaridade.",
+    "fundamentacaoLegal": "Lei nº 8.112/1990, art. 149, caput."
+  },
+  {
+    "id": "regime-disciplinar-fc-08",
+    "topicoId": "regime-disciplinar",
+    "topico": "Regime disciplinar e processo administrativo disciplinar",
+    "dificuldade": "dificil",
+    "enunciado": "Detectada a acumulação ilegal de cargos públicos, a apuração observará rito sumário, e a opção do servidor por um dos cargos até o último dia do prazo para defesa configurará sua boa-fé, hipótese em que se converterá automaticamente em pedido de exoneração do outro cargo.",
+    "gabarito": "C",
+    "justificativa": "O item reproduz corretamente o procedimento sumário do art. 133 da Lei nº 8.112/1990. A opção manifestada até o último dia do prazo de defesa é presunção legal de boa-fé e converte-se automaticamente em pedido de exoneração do outro cargo, afastando a demissão por acumulação ilícita. Caracterizada a má-fé, ao contrário, aplica-se a pena de demissão, destituição ou cassação em relação aos cargos acumulados.",
+    "fundamentacaoLegal": "Lei nº 8.112/1990, art. 133, caput e § 5º, c/c art. 132, XII."
+  },
+  {
+    "id": "regime-disciplinar-fc-09",
+    "topicoId": "regime-disciplinar",
+    "topico": "Regime disciplinar e processo administrativo disciplinar",
+    "dificuldade": "dificil",
+    "enunciado": "Determinado servidor estável respondeu a processo administrativo disciplinar sem a assistência de advogado, tendo apresentado pessoalmente sua defesa escrita e acompanhado a instrução. Nessa situação, o processo é nulo por cerceamento de defesa, dada a indispensabilidade de defesa técnica por advogado no processo disciplinar.",
+    "gabarito": "E",
+    "justificativa": "O item adota entendimento superado. A Súmula Vinculante 5 do STF firmou que a falta de defesa técnica por advogado no processo administrativo disciplinar não ofende a Constituição, superando a orientação anteriormente consolidada na Súmula 343 do STJ. Assegurados o contraditório e a ampla defesa, com possibilidade de acompanhamento pessoal ou por procurador (art. 156 da Lei nº 8.112/1990), não há nulidade pela simples ausência de advogado.",
+    "fundamentacaoLegal": "Súmula Vinculante 5 do STF; Lei nº 8.112/1990, art. 156, caput; CF/88, art. 5º, LV."
+  },
+  {
+    "id": "regime-disciplinar-fc-10",
+    "topicoId": "regime-disciplinar",
+    "topico": "Regime disciplinar e processo administrativo disciplinar",
+    "dificuldade": "dificil",
+    "enunciado": "As sanções civis, penais e administrativas poderão cumular-se, sendo independentes entre si, de modo que a absolvição criminal do servidor por insuficiência de provas não repercute na esfera disciplinar, somente afastando a responsabilidade administrativa a decisão penal que negue a existência do fato ou a sua autoria.",
+    "gabarito": "C",
+    "justificativa": "O item conjuga corretamente os arts. 125 e 126 da Lei nº 8.112/1990. A regra é a independência das instâncias, com possibilidade de cumulação das sanções. A comunicabilidade é excepcional e restrita à absolvição penal que negue a existência do fato ou a autoria; a absolvição por insuficiência de provas, por não conter tal negativa categórica, não vincula a Administração.",
+    "fundamentacaoLegal": "Lei nº 8.112/1990, arts. 125 e 126."
+  }
+]

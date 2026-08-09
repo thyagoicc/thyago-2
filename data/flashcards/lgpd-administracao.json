@@ -1,0 +1,102 @@
+[
+  {
+    "id": "lgpd-administracao-fc-01",
+    "topicoId": "lgpd-administracao",
+    "topico": "LGPD aplicada à Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "O tratamento de dados pessoais pela administração pública, quando necessário à execução de políticas públicas previstas em leis e regulamentos, dispensa o consentimento do titular, o que não afasta o dever de a entidade informar, em veículo de fácil acesso, as hipóteses em que realiza o tratamento, a previsão legal, a finalidade, os procedimentos e as práticas utilizadas.",
+    "gabarito": "C",
+    "justificativa": "As duas orações estão corretas. O art. 7º, III, da Lei nº 13.709/2018 arrola a execução de políticas públicas previstas em leis e regulamentos como base legal autônoma de tratamento, independente do consentimento do titular. A dispensa do consentimento, contudo, não elimina o dever de transparência: o art. 23, I, exige que a pessoa jurídica de direito público informe, de forma clara e atualizada, as hipóteses de tratamento, a previsão legal, a finalidade, os procedimentos e as práticas adotadas, preferencialmente em seu sítio eletrônico.",
+    "fundamentacaoLegal": "Arts. 7º, III, e 23, caput e I, da Lei nº 13.709/2018; art. 6º, VI, da mesma lei (princípio da transparência)."
+  },
+  {
+    "id": "lgpd-administracao-fc-02",
+    "topicoId": "lgpd-administracao",
+    "topico": "LGPD aplicada à Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "Nos termos da legislação vigente, o encarregado pelo tratamento de dados pessoais deve ser, obrigatoriamente, pessoa natural, sendo vedada a indicação de pessoa jurídica para o exercício dessa função no âmbito de órgãos e entidades públicas.",
+    "gabarito": "E",
+    "justificativa": "O item reproduz redação já alterada da lei. Na redação original do art. 5º, VIII, da Lei nº 13.709/2018, o encarregado era definido como 'pessoa natural indicada pelo controlador'. A Lei nº 13.853/2019 suprimiu a expressão 'natural', passando o dispositivo a definir o encarregado como 'pessoa indicada pelo controlador e operador', o que admite a designação de pessoa jurídica. Permanece obrigatória a indicação de encarregado pelos órgãos e entidades públicas, bem como a divulgação pública de sua identidade e de suas informações de contato.",
+    "fundamentacaoLegal": "Art. 5º, VIII, da Lei nº 13.709/2018, com a redação dada pela Lei nº 13.853/2019; art. 41, caput e §§ 1º e 3º, da Lei nº 13.709/2018."
+  },
+  {
+    "id": "lgpd-administracao-fc-03",
+    "topicoId": "lgpd-administracao",
+    "topico": "LGPD aplicada à Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "As empresas públicas e as sociedades de economia mista que atuam em regime de concorrência recebem, quanto ao tratamento de dados pessoais, o mesmo tratamento dispensado às pessoas jurídicas de direito privado particulares; contudo, quando estiverem operacionalizando políticas públicas e no âmbito da execução destas, submetem-se ao regime aplicável aos órgãos e entidades do Poder Público.",
+    "gabarito": "C",
+    "justificativa": "O item está correto e reproduz integralmente o critério funcional adotado pela lei. O art. 24, caput, da Lei nº 13.709/2018 equipara as estatais que atuam em regime de concorrência, sujeitas ao art. 173 da CF/88, às pessoas jurídicas de direito privado particulares. O parágrafo único do mesmo artigo excepciona a hipótese de operacionalização de políticas públicas, situação em que essas entidades recebem o tratamento próprio dos órgãos e entidades do Poder Público, nos termos do Capítulo IV da lei.",
+    "fundamentacaoLegal": "Art. 24, caput e parágrafo único, da Lei nº 13.709/2018; art. 173, § 1º, da CF/88."
+  },
+  {
+    "id": "lgpd-administracao-fc-04",
+    "topicoId": "lgpd-administracao",
+    "topico": "LGPD aplicada à Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "Em observância ao princípio da adequação, o tratamento de dados pessoais pela administração pública deve limitar-se ao mínimo necessário para a realização de suas finalidades, com abrangência dos dados pertinentes, proporcionais e não excessivos em relação a essas finalidades.",
+    "gabarito": "E",
+    "justificativa": "O item atribui a um princípio a definição legal de outro. O conteúdo descrito — limitação ao mínimo necessário, com dados pertinentes, proporcionais e não excessivos — corresponde ao princípio da necessidade, previsto no art. 6º, III, da Lei nº 13.709/2018. O princípio da adequação, definido no art. 6º, II, consiste na compatibilidade do tratamento com as finalidades informadas ao titular, de acordo com o contexto do tratamento.",
+    "fundamentacaoLegal": "Art. 6º, II e III, da Lei nº 13.709/2018."
+  },
+  {
+    "id": "lgpd-administracao-fc-05",
+    "topicoId": "lgpd-administracao",
+    "topico": "LGPD aplicada à Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "É vedado ao Poder Público transferir a entidades privadas dados pessoais constantes de bases de dados a que tenha acesso, salvo, entre outras hipóteses legais, nos casos de execução descentralizada de atividade pública que exija a transferência, exclusivamente para esse fim específico e determinado, e naqueles em que os dados sejam acessíveis publicamente.",
+    "gabarito": "C",
+    "justificativa": "O item está correto ao enunciar a regra e ressalvar corretamente as exceções. O art. 26, § 1º, da Lei nº 13.709/2018 veda, como regra, a transferência de dados pessoais de bases públicas a entidades privadas, excepcionando, entre outras hipóteses, a execução descentralizada de atividade pública que exija a transferência, exclusivamente para fim específico e determinado, observada a Lei nº 12.527/2011 (inciso I), e os casos em que os dados sejam acessíveis publicamente (inciso III). A ressalva 'entre outras hipóteses legais' preserva a exatidão do item.",
+    "fundamentacaoLegal": "Art. 26, caput e § 1º, I e III, da Lei nº 13.709/2018."
+  },
+  {
+    "id": "lgpd-administracao-fc-06",
+    "topicoId": "lgpd-administracao",
+    "topico": "LGPD aplicada à Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "A Lei Geral de Proteção de Dados Pessoais não se aplica ao tratamento realizado para fins exclusivos de segurança pública, de defesa nacional, de segurança do Estado ou de atividades de investigação e repressão de infrações penais, razão pela qual tais tratamentos podem ser executados livremente por pessoa jurídica de direito privado.",
+    "gabarito": "E",
+    "justificativa": "A primeira oração está correta, mas a conclusão não decorre da premissa. Embora o art. 4º, III, da Lei nº 13.709/2018 afaste a incidência da lei nessas hipóteses, o § 2º do mesmo artigo veda expressamente o tratamento desses dados por pessoa de direito privado, admitindo-o apenas em procedimentos sob tutela de pessoa jurídica de direito público, com informe específico à autoridade nacional. Ademais, o § 4º proíbe, em qualquer caso, que a totalidade dos dados desses bancos seja tratada por pessoa de direito privado, salvo por aquela cujo capital seja integralmente constituído pelo poder público, e o § 1º submete tais tratamentos a legislação específica que observe os princípios gerais de proteção.",
+    "fundamentacaoLegal": "Art. 4º, III, e §§ 1º, 2º e 4º, da Lei nº 13.709/2018."
+  },
+  {
+    "id": "lgpd-administracao-fc-07",
+    "topicoId": "lgpd-administracao",
+    "topico": "LGPD aplicada à Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "Dados pessoais sensíveis podem ser tratados sem o fornecimento de consentimento do titular quando isso for indispensável ao tratamento compartilhado de dados necessários à execução, pela administração pública, de políticas públicas previstas em leis ou regulamentos.",
+    "gabarito": "C",
+    "justificativa": "O item está correto. O art. 11, II, 'b', da Lei nº 13.709/2018 admite o tratamento de dados pessoais sensíveis sem fornecimento de consentimento do titular nas hipóteses em que for indispensável para o tratamento compartilhado de dados necessários à execução, pela administração pública, de políticas públicas previstas em leis ou regulamentos. Note-se que o rol de bases legais para dados sensíveis é mais restrito que o do art. 7º, não abrangendo, por exemplo, o legítimo interesse do controlador.",
+    "fundamentacaoLegal": "Art. 11, II, 'b', da Lei nº 13.709/2018; art. 5º, II, da mesma lei (conceito de dado pessoal sensível)."
+  },
+  {
+    "id": "lgpd-administracao-fc-08",
+    "topicoId": "lgpd-administracao",
+    "topico": "LGPD aplicada à Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "A comunicação ou o uso compartilhado de dados pessoais de pessoa jurídica de direito público a pessoa de direito privado deve ser informado à autoridade nacional e depende, em qualquer hipótese, de consentimento específico e destacado do titular.",
+    "gabarito": "E",
+    "justificativa": "O erro está na generalização da exigência de consentimento. O art. 27 da Lei nº 13.709/2018 realmente condiciona essa comunicação ao consentimento do titular e ao informe à autoridade nacional, mas ressalva três exceções: as hipóteses de dispensa de consentimento previstas na própria lei (inciso I), os casos de uso compartilhado de dados em que seja dada a publicidade do art. 23, I (inciso II) e as exceções constantes do art. 26, § 1º (inciso III). A expressão 'em qualquer hipótese' torna o item falso.",
+    "fundamentacaoLegal": "Art. 27, caput e incisos I a III, da Lei nº 13.709/2018; arts. 23, I, e 26, § 1º, da mesma lei."
+  },
+  {
+    "id": "lgpd-administracao-fc-09",
+    "topicoId": "lgpd-administracao",
+    "topico": "LGPD aplicada à Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "Revogado o consentimento pelo titular, por manifestação expressa e mediante procedimento gratuito e facilitado, a revogação produz efeitos retroativos, tornando irregulares os tratamentos realizados sob o amparo do consentimento anteriormente manifestado.",
+    "gabarito": "E",
+    "justificativa": "O erro está na atribuição de efeitos retroativos à revogação. Segundo o art. 8º, § 5º, da Lei nº 13.709/2018, o consentimento pode ser revogado a qualquer momento, mediante manifestação expressa do titular, por procedimento gratuito e facilitado, ficando expressamente 'ratificados os tratamentos realizados sob amparo do consentimento anteriormente manifestado enquanto não houver requerimento de eliminação'. A revogação opera, portanto, efeitos prospectivos.",
+    "fundamentacaoLegal": "Art. 8º, § 5º, da Lei nº 13.709/2018; art. 18, VI, da mesma lei."
+  },
+  {
+    "id": "lgpd-administracao-fc-10",
+    "topicoId": "lgpd-administracao",
+    "topico": "LGPD aplicada à Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "Verificada infração à Lei Geral de Proteção de Dados Pessoais em decorrência do tratamento de dados por órgãos públicos, a autoridade nacional pode enviar informe com as medidas cabíveis para fazer cessar a violação, sendo-lhe facultado, ainda, solicitar a agentes do Poder Público a publicação de relatórios de impacto à proteção de dados pessoais e sugerir a adoção de padrões e de boas práticas.",
+    "gabarito": "C",
+    "justificativa": "O item está correto e articula dois dispositivos do Capítulo IV da Lei nº 13.709/2018. O art. 31 autoriza a autoridade nacional a enviar informe com as medidas cabíveis para fazer cessar a violação quando houver infração decorrente do tratamento de dados por órgãos públicos. O art. 32, por sua vez, faculta-lhe solicitar a agentes do Poder Público a publicação de relatórios de impacto à proteção de dados pessoais e sugerir padrões e boas práticas para os tratamentos realizados pelo Poder Público.",
+    "fundamentacaoLegal": "Arts. 31 e 32 da Lei nº 13.709/2018; art. 5º, XVII, da mesma lei (conceito de relatório de impacto)."
+  }
+]
