@@ -1,0 +1,102 @@
+[
+  {
+    "id": "extincao-ato-fc-01",
+    "topicoId": "extincao-ato",
+    "topico": "Extinção e controle do ato administrativo",
+    "dificuldade": "dificil",
+    "enunciado": "O prazo de cinco anos de que dispõe a Administração para anular atos administrativos de que decorram efeitos favoráveis para os destinatários tem natureza decadencial e não incide quando comprovada má-fé do beneficiário; tratando-se de efeitos patrimoniais contínuos, a contagem se inicia da percepção do primeiro pagamento.",
+    "gabarito": "C",
+    "justificativa": "Item correto em todas as suas partes, todas extraídas do art. 54 da Lei nº 9.784/1999: o caput fixa o prazo de cinco anos, qualificado pela própria lei como decadencial ('decai em cinco anos'), contado da prática do ato, ressalvando expressamente a hipótese de comprovada má-fé, em que não há decadência; o § 1º estabelece o termo inicial diferenciado para os atos de efeitos patrimoniais contínuos, que é a percepção do primeiro pagamento. Vale lembrar ainda que, pelo § 2º, qualquer medida da autoridade que importe impugnação à validade do ato interrompe a fluência do prazo.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, art. 54, caput e §§ 1º e 2º."
+  },
+  {
+    "id": "extincao-ato-fc-02",
+    "topicoId": "extincao-ato",
+    "topico": "Extinção e controle do ato administrativo",
+    "dificuldade": "dificil",
+    "enunciado": "Conforme a Súmula 473 do STF, a Administração pode anular seus próprios atos quando eivados de vícios que os tornem ilegais, produzindo a invalidação efeitos ex nunc, ressalvados os direitos adquiridos.",
+    "gabarito": "E",
+    "justificativa": "O item inverte o regime de efeitos e desloca a ressalva. A anulação, por atingir ato ilegal desde a origem, opera efeitos retroativos (ex tunc); a própria Súmula 473 do STF justifica isso ao afirmar que a Administração pode anular seus próprios atos 'porque deles não se originam direitos'. A eficácia ex nunc e a ressalva dos direitos adquiridos pertencem à revogação, tratada na segunda parte da súmula ('ou revogá-los, por motivo de conveniência ou oportunidade, respeitados os direitos adquiridos'). Registre-se, ainda, que a doutrina e a jurisprudência admitem modulação de efeitos da anulação em favor de terceiros de boa-fé, mas isso é exceção, não a regra afirmada no item.",
+    "fundamentacaoLegal": "Súmula 473 do STF; Lei nº 9.784/1999, art. 53."
+  },
+  {
+    "id": "extincao-ato-fc-03",
+    "topicoId": "extincao-ato",
+    "topico": "Extinção e controle do ato administrativo",
+    "dificuldade": "dificil",
+    "enunciado": "Embora as Súmulas 346 e 473 do STF consagrem a autotutela administrativa, a anulação de ato que repercuta no campo de interesses individuais do administrado exige a prévia instauração de processo administrativo com observância do contraditório e da ampla defesa.",
+    "gabarito": "C",
+    "justificativa": "Item correto. A Súmula 346 do STF ('A Administração Pública pode declarar a nulidade dos seus próprios atos') e a Súmula 473 reconhecem o poder-dever de autotutela, mas esse poder não é exercido de forma unilateral e inaudita quando o ato já produziu efeitos favoráveis na esfera individual do administrado. A jurisprudência do STF e do STJ é firme no sentido de que a desconstituição de ato ampliativo de direitos reclama processo administrativo prévio com contraditório e ampla defesa, exigência que a Lei nº 9.784/1999 positiva ao assegurar ao administrado o direito de ser ouvido antes de decisões que o afetem.",
+    "fundamentacaoLegal": "Súmulas 346 e 473 do STF; CF/88, art. 5º, LIV e LV; Lei nº 9.784/1999, art. 2º, caput e parágrafo único, X, e art. 3º, II e III."
+  },
+  {
+    "id": "extincao-ato-fc-04",
+    "topicoId": "extincao-ato",
+    "topico": "Extinção e controle do ato administrativo",
+    "dificuldade": "dificil",
+    "enunciado": "Nos termos da Lei nº 9.784/1999, a convalidação constitui ato vinculado da Administração e alcança os vícios de competência e de finalidade, desde que da manutenção do ato não resulte lesão ao interesse público nem prejuízo a terceiros.",
+    "gabarito": "E",
+    "justificativa": "Dois trechos tornam o item falso. Primeiro, o art. 55 da Lei nº 9.784/1999 dispõe que os atos com defeitos sanáveis 'poderão ser convalidados', redação da qual a doutrina majoritária extrai a natureza discricionária da convalidação, e não vinculada. Segundo, e sobretudo, o vício de finalidade é insanável: são convalidáveis apenas os defeitos de competência (desde que não se trate de competência exclusiva nem de incompetência em razão da matéria) e os de forma não essencial. Vícios de finalidade, motivo e objeto conduzem necessariamente à anulação.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, art. 55; art. 13 (matérias indelegáveis, referência para a incompetência insanável); doutrina consolidada (Maria Sylvia Zanella Di Pietro; Celso Antônio Bandeira de Mello)."
+  },
+  {
+    "id": "extincao-ato-fc-05",
+    "topicoId": "extincao-ato",
+    "topico": "Extinção e controle do ato administrativo",
+    "dificuldade": "dificil",
+    "enunciado": "Denomina-se cassação a extinção do ato administrativo em razão da superveniência de norma jurídica que torna inadmissível a situação anteriormente permitida, ao passo que a caducidade decorre do descumprimento, pelo beneficiário, das condições legais exigidas para a manutenção do ato.",
+    "gabarito": "E",
+    "justificativa": "As definições estão trocadas. Caducidade é a extinção do ato por superveniência de norma jurídica que torna inadmissível a situação antes consentida (exemplo clássico: permissão de uso de bem público para atividade que lei posterior proíbe naquele local). Cassação é a extinção do ato por descumprimento, pelo beneficiário, das condições e exigências fixadas para a manutenção da situação jurídica (exemplo: cassação de licença de funcionamento de estabelecimento que passa a violar as normas sanitárias). A inversão dos conceitos é o que torna o item errado.",
+    "fundamentacaoLegal": "Doutrina consolidada sobre formas de extinção do ato administrativo (Celso Antônio Bandeira de Mello; Maria Sylvia Zanella Di Pietro; José dos Santos Carvalho Filho)."
+  },
+  {
+    "id": "extincao-ato-fc-06",
+    "topicoId": "extincao-ato",
+    "topico": "Extinção e controle do ato administrativo",
+    "dificuldade": "dificil",
+    "enunciado": "Servidor ocupante exclusivamente de cargo em comissão foi exonerado por ato que, embora dispensasse motivação, apontou expressamente como causa a extinção do órgão em que lotado, posteriormente comprovada como inverídica. Nessa situação, o ato é inválido, por força da teoria dos motivos determinantes.",
+    "gabarito": "C",
+    "justificativa": "Item correto. A exoneração de ocupante exclusivamente de cargo em comissão é ato de livre nomeação e exoneração (ad nutum), que dispensa motivação. Todavia, pela teoria dos motivos determinantes, uma vez que a autoridade opta por declinar o motivo, este passa a vincular a validade do ato: se o motivo declarado for inexistente ou falso, o ato é nulo, ainda que a lei não exigisse sua enunciação. Comprovado que o órgão não foi extinto, o motivo declarado é falso e a exoneração deve ser invalidada.",
+    "fundamentacaoLegal": "CF/88, art. 37, II, parte final (cargo em comissão de livre nomeação e exoneração); Lei nº 9.784/1999, art. 50, § 1º; teoria dos motivos determinantes (doutrina e jurisprudência consolidadas do STF e do STJ)."
+  },
+  {
+    "id": "extincao-ato-fc-07",
+    "topicoId": "extincao-ato",
+    "topico": "Extinção e controle do ato administrativo",
+    "dificuldade": "dificil",
+    "enunciado": "A revogação, por fundar-se em juízo de conveniência e oportunidade, pode recair sobre atos vinculados, sobre atos que já exauriram seus efeitos e sobre atos geradores de direitos adquiridos, desde que assegurada indenização ao particular prejudicado.",
+    "gabarito": "E",
+    "justificativa": "O item generaliza indevidamente o poder de revogar, ignorando os limites consagrados pela doutrina e pela Súmula 473 do STF. São irrevogáveis, entre outros: os atos vinculados (porque neles não há juízo de conveniência a ser revisto), os atos que já exauriram seus efeitos (nada resta a suprimir para o futuro), os atos que geraram direitos adquiridos (a súmula ressalva expressamente os direitos adquiridos), os meros atos administrativos e os atos enunciativos. A promessa de indenização não converte em revogável o ato que a ordem jurídica torna insuscetível de revogação.",
+    "fundamentacaoLegal": "Súmula 473 do STF; Lei nº 9.784/1999, art. 53; CF/88, art. 5º, XXXVI."
+  },
+  {
+    "id": "extincao-ato-fc-08",
+    "topicoId": "extincao-ato",
+    "topico": "Extinção e controle do ato administrativo",
+    "dificuldade": "dificil",
+    "enunciado": "O Poder Judiciário pode anular ato administrativo ilegal, mas não lhe é dado revogá-lo por razões de conveniência e oportunidade, salvo quando se trate de ato por ele próprio praticado no exercício de função atipicamente administrativa.",
+    "gabarito": "C",
+    "justificativa": "Item correto. No exercício da função jurisdicional, o Judiciário realiza controle de legalidade em sentido amplo, podendo anular o ato ilegal, mas não pode substituir a Administração no juízo de mérito, o que lhe veda revogar atos de outro Poder. A ressalva do item também é exata: quando o Judiciário atua em função atipicamente administrativa (por exemplo, ao praticar atos de gestão de pessoal ou de organização de seus serviços), ele é a própria Administração naquele ato e, por autotutela, pode revogá-lo por conveniência e oportunidade.",
+    "fundamentacaoLegal": "CF/88, art. 5º, XXXV, e art. 2º; Súmula 473 do STF; Lei nº 9.784/1999, art. 1º, § 1º (aplicação aos órgãos dos Poderes Legislativo e Judiciário quando no desempenho de função administrativa)."
+  },
+  {
+    "id": "extincao-ato-fc-09",
+    "topicoId": "extincao-ato",
+    "topico": "Extinção e controle do ato administrativo",
+    "dificuldade": "dificil",
+    "enunciado": "A convalidação do ato administrativo com defeito sanável produz efeitos ex nunc, contados da decisão administrativa que reconhece o saneamento do vício, preservando-se, quanto ao período anterior, a invalidade original.",
+    "gabarito": "E",
+    "justificativa": "O erro está na eficácia atribuída à convalidação. O ato convalidatório tem efeitos retroativos (ex tunc): ele sana o vício desde a origem do ato viciado, de modo que este passa a ser considerado válido desde a data em que foi praticado. É justamente essa retroatividade que distingue a convalidação da prática de um novo ato válido para o futuro. Se os efeitos fossem ex nunc, como afirma o item, não haveria utilidade prática no instituto, pois remanesceria a invalidade do período pretérito — exatamente o oposto de sua finalidade, que é a estabilização das relações jurídicas.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, art. 55; doutrina consolidada sobre a eficácia retroativa da convalidação (Celso Antônio Bandeira de Mello; Maria Sylvia Zanella Di Pietro; Rafael Oliveira)."
+  },
+  {
+    "id": "extincao-ato-fc-10",
+    "topicoId": "extincao-ato",
+    "topico": "Extinção e controle do ato administrativo",
+    "dificuldade": "dificil",
+    "enunciado": "A Lei nº 9.784/1999 emprega o verbo dever para a anulação de atos eivados de vício de legalidade e o verbo poder para a revogação por motivo de conveniência e oportunidade, o que evidencia, para parcela expressiva da doutrina, o caráter vinculado do dever de invalidar, mitigado, porém, pela possibilidade de estabilização de atos inválidos em nome da segurança jurídica.",
+    "gabarito": "C",
+    "justificativa": "Item correto. O art. 53 da Lei nº 9.784/1999 dispõe que a Administração 'deve anular seus próprios atos, quando eivados de vício de legalidade, e pode revogá-los por motivo de conveniência ou oportunidade, respeitados os direitos adquiridos'. A diferença de tratamento verbal é apontada pela doutrina como indicativa de que a anulação é poder-dever vinculado, ao passo que a revogação é discricionária. A parte final do item também é exata: a segurança jurídica, positivada como princípio no art. 2º da mesma lei e concretizada na decadência do art. 54, autoriza a manutenção de atos inválidos em determinadas situações, mitigando o dever de anular.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, arts. 2º, caput e parágrafo único, XIII, 53 e 54; Decreto-Lei nº 4.657/1942 (LINDB), arts. 23 e 24, incluídos pela Lei nº 13.655/2018."
+  }
+]

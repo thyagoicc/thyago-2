@@ -1,0 +1,102 @@
+[
+  {
+    "id": "controle-administracao-fc-01",
+    "topicoId": "controle-administracao",
+    "topico": "Controle da Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "Na apreciação da legalidade do ato de concessão inicial de aposentadoria, o Tribunal de Contas não está obrigado a assegurar contraditório e ampla defesa ao interessado; sujeita-se, contudo, ao prazo de cinco anos para concluir esse julgamento, contado da chegada do processo à respectiva Corte de Contas.",
+    "gabarito": "C",
+    "justificativa": "As duas orações estão corretas. A Súmula Vinculante 3 exige contraditório e ampla defesa nos processos do Tribunal de Contas quando da decisão puder resultar anulação ou revogação de ato que beneficie o interessado, mas excetua expressamente a apreciação da legalidade do ato de concessão inicial de aposentadoria, reforma e pensão, por se tratar de ato complexo ainda não aperfeiçoado. Por outro lado, o STF, no RE 636.553 (Tema 445), fixou, em nome da segurança jurídica e da confiança legítima, o prazo de cinco anos para que a Corte de Contas julgue a legalidade desse ato, contado da chegada do processo ao Tribunal.",
+    "fundamentacaoLegal": "Súmula Vinculante 3 do STF; CF/88, art. 71, III; STF, RE 636.553/RS, Tema 445 da repercussão geral."
+  },
+  {
+    "id": "controle-administracao-fc-02",
+    "topicoId": "controle-administracao",
+    "topico": "Controle da Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "Constatada ilegalidade em contrato administrativo, compete ao Tribunal de Contas sustar diretamente a sua execução, comunicando a decisão ao Poder Legislativo, que poderá referendá-la ou revogá-la.",
+    "gabarito": "E",
+    "justificativa": "O item inverte a regra de competência. Nos termos do art. 71, X, da CF, o Tribunal de Contas susta diretamente a execução do ATO impugnado, comunicando a decisão à Câmara dos Deputados e ao Senado Federal. Tratando-se de CONTRATO, porém, o ato de sustação é adotado diretamente pelo Congresso Nacional, que solicitará de imediato ao Poder Executivo as medidas cabíveis (art. 71, § 1º). Somente se, no prazo de noventa dias, o Congresso Nacional ou o Poder Executivo não efetivarem as medidas, é que o Tribunal decidirá a respeito (art. 71, § 2º).",
+    "fundamentacaoLegal": "CF/88, art. 71, X, e §§ 1º e 2º."
+  },
+  {
+    "id": "controle-administracao-fc-03",
+    "topicoId": "controle-administracao",
+    "topico": "Controle da Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "O mandado de segurança deve ser impetrado no prazo prescricional de cento e vinte dias, contado da ciência do ato impugnado pelo interessado, prazo que se interrompe com a apresentação de pedido de reconsideração na via administrativa.",
+    "gabarito": "E",
+    "justificativa": "O item contém dois erros. Primeiro, a natureza do prazo: o art. 23 da Lei nº 12.016/2009 estabelece prazo DECADENCIAL de cento e vinte dias, e não prescricional, razão pela qual não se suspende nem se interrompe. Segundo, a Súmula 430 do STF é expressa no sentido de que pedido de reconsideração na via administrativa não interrompe o prazo para o mandado de segurança.",
+    "fundamentacaoLegal": "Lei nº 12.016/2009, art. 23; Súmula 430 do STF."
+  },
+  {
+    "id": "controle-administracao-fc-04",
+    "topicoId": "controle-administracao",
+    "topico": "Controle da Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "As decisões do Tribunal de Contas de que resulte imputação de débito ou multa têm eficácia de título executivo; a respectiva execução judicial, entretanto, não pode ser promovida pela própria Corte de Contas, competindo ao ente público beneficiário da condenação.",
+    "gabarito": "C",
+    "justificativa": "As duas partes do item estão corretas. O art. 71, § 3º, da CF confere eficácia de título executivo às decisões do Tribunal de Contas que imputem débito ou multa. Todavia, segundo a jurisprudência do STF, o Tribunal de Contas não detém legitimidade ativa para executar suas próprias decisões, por não possuir personalidade jurídica própria nem função institucional de cobrança judicial; a execução compete ao ente federativo ou à entidade beneficiária dos valores, representada por sua procuradoria.",
+    "fundamentacaoLegal": "CF/88, art. 71, § 3º; jurisprudência do STF sobre ilegitimidade do Tribunal de Contas para executar seus julgados."
+  },
+  {
+    "id": "controle-administracao-fc-05",
+    "topicoId": "controle-administracao",
+    "topico": "Controle da Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "O cidadão que ajuíza ação popular para anular ato lesivo à moralidade administrativa é isento de custas judiciais e do ônus da sucumbência, salvo comprovada má-fé, fazendo-se a prova da cidadania com o título de eleitor ou documento que a ele corresponda.",
+    "gabarito": "C",
+    "justificativa": "O item reproduz corretamente o regime da ação popular. O art. 5º, LXXIII, da CF legitima qualquer cidadão a pleitear a anulação de ato lesivo ao patrimônio público, à moralidade administrativa, ao meio ambiente e ao patrimônio histórico e cultural, ficando o autor, salvo comprovada má-fé, isento de custas judiciais e do ônus da sucumbência. A Lei nº 4.717/1965 exige, para o ingresso em juízo, a prova da cidadania mediante título eleitoral ou documento correspondente, pois a legitimidade decorre da condição de eleitor.",
+    "fundamentacaoLegal": "CF/88, art. 5º, LXXIII; Lei nº 4.717/1965, art. 1º, caput e § 3º."
+  },
+  {
+    "id": "controle-administracao-fc-06",
+    "topicoId": "controle-administracao",
+    "topico": "Controle da Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "Compete ao Tribunal de Contas julgar as contas de gestão do prefeito municipal, quando atua como ordenador de despesas, cabendo à Câmara Municipal julgar apenas as contas de governo, mediante parecer prévio da Corte de Contas.",
+    "gabarito": "E",
+    "justificativa": "O item adota critério superado pelo STF. No RE 848.826 (Tema 835), o Supremo firmou que a competência para julgar as contas de prefeito, tanto as de governo quanto as de gestão, é da Câmara Municipal, cabendo ao Tribunal de Contas apenas a emissão de parecer prévio de natureza técnica e opinativa, que somente deixará de prevalecer por decisão de dois terços dos vereadores, na forma do art. 31, § 2º, da CF.",
+    "fundamentacaoLegal": "CF/88, art. 31, §§ 1º e 2º; STF, RE 848.826/DF, Tema 835 da repercussão geral."
+  },
+  {
+    "id": "controle-administracao-fc-07",
+    "topicoId": "controle-administracao",
+    "topico": "Controle da Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "No exercício do controle judicial, o Poder Judiciário pode anular ato administrativo discricionário e substituí-lo por outra solução que, a seu juízo, atenda de forma mais eficiente ao interesse público, uma vez que os princípios da eficiência e da razoabilidade autorizam o controle do mérito administrativo.",
+    "gabarito": "E",
+    "justificativa": "O erro está na conclusão de que o Judiciário pode substituir a valoração administrativa. O controle judicial dos atos administrativos é de legalidade em sentido amplo, alcançando a compatibilidade do ato com a lei e com os princípios constitucionais, inclusive quanto a excessos manifestos, desvio de finalidade e desproporcionalidade. Não é dado ao juiz, porém, substituir o administrador na escolha de conveniência e oportunidade nem revogar o ato por razões de mérito, sob pena de violação da separação de poderes; a revogação por mérito é privativa da Administração, nos termos da Súmula 473 do STF.",
+    "fundamentacaoLegal": "CF/88, art. 2º e art. 5º, XXXV; Súmula 473 do STF; doutrina de Celso Antônio Bandeira de Mello sobre limites do controle judicial da discricionariedade."
+  },
+  {
+    "id": "controle-administracao-fc-08",
+    "topicoId": "controle-administracao",
+    "topico": "Controle da Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "Os responsáveis pelo controle interno que, ao tomarem conhecimento de qualquer irregularidade ou ilegalidade, deixarem de dela dar ciência ao Tribunal de Contas responderão solidariamente; ademais, qualquer cidadão, partido político, associação ou sindicato é parte legítima para denunciar irregularidades perante a Corte de Contas.",
+    "gabarito": "C",
+    "justificativa": "O item reproduz com fidelidade os §§ 1º e 2º do art. 74 da CF. O primeiro estabelece a responsabilidade solidária dos responsáveis pelo controle interno que se omitem em comunicar irregularidade ao Tribunal de Contas; o segundo consagra manifestação de controle social, ao conferir legitimidade a qualquer cidadão, partido político, associação ou sindicato para denunciar irregularidades ou ilegalidades perante a Corte de Contas.",
+    "fundamentacaoLegal": "CF/88, art. 74, §§ 1º e 2º."
+  },
+  {
+    "id": "controle-administracao-fc-09",
+    "topicoId": "controle-administracao",
+    "topico": "Controle da Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "A concessão da ordem em mandado de segurança produz efeitos patrimoniais relativos a período anterior à impetração, desde que o impetrante comprove que o direito líquido e certo já existia na data da prática do ato coator.",
+    "gabarito": "E",
+    "justificativa": "O item contraria a Súmula 271 do STF, segundo a qual a concessão de mandado de segurança não produz efeitos patrimoniais em relação a período pretérito, os quais devem ser reclamados administrativamente ou pela via judicial própria. No mesmo sentido, a Súmula 269 do STF assenta que o mandado de segurança não é substitutivo de ação de cobrança. A comprovação do direito na data do ato coator viabiliza a concessão da ordem, mas não converte a via mandamental em instrumento de cobrança de parcelas vencidas antes da impetração.",
+    "fundamentacaoLegal": "Súmulas 269 e 271 do STF; Lei nº 12.016/2009, art. 14, § 4º."
+  },
+  {
+    "id": "controle-administracao-fc-10",
+    "topicoId": "controle-administracao",
+    "topico": "Controle da Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "O Tribunal de Contas da União, embora possa realizar inspeções e auditorias e requisitar informações a órgãos e entidades sujeitos à sua jurisdição, não detém competência para determinar, por autoridade própria, a quebra do sigilo bancário de agentes públicos ou de particulares.",
+    "gabarito": "C",
+    "justificativa": "O item está correto. O art. 71, IV, da CF autoriza o TCU a realizar, por iniciativa própria ou de outros órgãos, inspeções e auditorias de natureza contábil, financeira, orçamentária, operacional e patrimonial. Contudo, o STF, no MS 22.801/DF, decidiu que o Tribunal de Contas não possui competência para determinar a quebra do sigilo bancário, por se tratar de restrição a direito fundamental submetida a reserva de jurisdição e não incluída no rol de competências do art. 71 da Constituição.",
+    "fundamentacaoLegal": "CF/88, art. 71, IV e VII; Lei Complementar nº 105/2001, art. 1º, § 4º; STF, MS 22.801/DF."
+  }
+]

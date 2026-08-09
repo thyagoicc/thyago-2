@@ -1,0 +1,102 @@
+[
+  {
+    "id": "ato-administrativo-fc-01",
+    "topicoId": "ato-administrativo",
+    "topico": "Ato administrativo",
+    "dificuldade": "dificil",
+    "enunciado": "A delegação de competência administrativa pode ser dirigida a órgão ou agente que não seja hierarquicamente subordinado ao delegante, mas não alcança a decisão de recursos administrativos; praticado o ato no exercício de competência delegada, o mandado de segurança deve ser impetrado contra a autoridade delegada.",
+    "gabarito": "C",
+    "justificativa": "Todas as partes do item estão corretas. O art. 12 da Lei nº 9.784/1999 admite a delegação a órgãos ou titulares 'ainda que não haja relação de subordinação hierárquica'. O art. 13, II, veda expressamente a delegação da decisão de recursos administrativos (ao lado da edição de atos de caráter normativo e das matérias de competência exclusiva). E, por força do art. 14, § 3º, a decisão adotada por delegação considera-se editada pelo delegado, o que fundamenta a Súmula 510 do STF: praticado o ato por autoridade no exercício de competência delegada, contra ela cabe o mandado de segurança.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, arts. 12, 13, I a III, e 14, § 3º; Súmula 510 do STF."
+  },
+  {
+    "id": "ato-administrativo-fc-02",
+    "topicoId": "ato-administrativo",
+    "topico": "Ato administrativo",
+    "dificuldade": "dificil",
+    "enunciado": "A autoexecutoriedade está presente em todos os atos administrativos dotados de imperatividade, o que autoriza a Administração a promover, na via administrativa e sem necessidade de provimento judicial, a cobrança forçada de multa aplicada ao particular que se recuse a pagá-la.",
+    "gabarito": "E",
+    "justificativa": "O item é errado em duas frentes. Primeiro, imperatividade e autoexecutoriedade não se confundem nem coincidem: há atos imperativos sem autoexecutoriedade, que dependem de autorização legal expressa ou de situação de urgência para a execução material direta. Segundo, e este é o trecho decisivo, a multa administrativa é exemplo clássico de ato imperativo NÃO autoexecutório quanto à cobrança: aplicada a sanção pecuniária, se o particular resiste ao pagamento, a Administração deve inscrever o crédito em dívida ativa e ajuizar execução fiscal, não podendo constranger o patrimônio do devedor por ato próprio.",
+    "fundamentacaoLegal": "Lei nº 6.830/1980, arts. 1º e 2º (execução judicial da dívida ativa); doutrina consolidada (Maria Sylvia Zanella Di Pietro; Celso Antônio Bandeira de Mello) sobre a distinção entre imperatividade e autoexecutoriedade."
+  },
+  {
+    "id": "ato-administrativo-fc-03",
+    "topicoId": "ato-administrativo",
+    "topico": "Ato administrativo",
+    "dificuldade": "dificil",
+    "enunciado": "No direito administrativo brasileiro, o decurso do prazo legal sem manifestação da Administração configura ato administrativo tácito de conteúdo denegatório, salvo previsão legal expressa em sentido contrário.",
+    "gabarito": "E",
+    "justificativa": "O erro está em qualificar o silêncio como ato administrativo tácito com sentido denegatório presumido. Para a doutrina majoritária, o silêncio administrativo é fato jurídico administrativo, e não ato, pois lhe falta manifestação de vontade; ele só produz efeito de deferimento ou de indeferimento quando a lei assim dispuser expressamente. Na ausência de norma atribuindo efeito ao silêncio, o interessado não fica diante de uma negativa tácita, mas de omissão ilegal, sendo cabível a provocação do Judiciário para determinar que a Administração decida. Note-se, ainda, que a Lei nº 9.784/1999 impõe o dever de decidir em prazo determinado, o que reforça que a inércia é ilegalidade, não ato.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, arts. 48 e 49 (dever de decidir em até trinta dias, prorrogável por igual período motivadamente); doutrina consolidada (Celso Antônio Bandeira de Mello; José dos Santos Carvalho Filho)."
+  },
+  {
+    "id": "ato-administrativo-fc-04",
+    "topicoId": "ato-administrativo",
+    "topico": "Ato administrativo",
+    "dificuldade": "dificil",
+    "enunciado": "A presunção de legitimidade dos atos administrativos tem natureza relativa e acarreta, no plano processual, a inversão do ônus da prova em desfavor do administrado; tal atributo não se confunde com a imperatividade, que decorre do poder extroverso do Estado e não se faz presente nos atos administrativos negociais.",
+    "gabarito": "C",
+    "justificativa": "Item correto em todas as suas partes. A presunção de legitimidade (e de veracidade) é juris tantum, admitindo prova em contrário, e seu principal efeito prático é transferir ao particular o encargo de demonstrar o vício do ato. A imperatividade, por sua vez, é atributo distinto, fundado no chamado poder extroverso — a aptidão estatal de constituir unilateralmente obrigações para terceiros —, e não está presente nos atos negociais (licença, permissão, autorização, admissão), nos quais há coincidência entre a vontade da Administração e o interesse do particular, tampouco nos atos enunciativos.",
+    "fundamentacaoLegal": "Doutrina consolidada (Celso Antônio Bandeira de Mello, sobre o poder extroverso; Maria Sylvia Zanella Di Pietro, sobre os atributos do ato administrativo); art. 37, caput, da CF/88 (princípio da legalidade como fundamento da presunção relativa)."
+  },
+  {
+    "id": "ato-administrativo-fc-05",
+    "topicoId": "ato-administrativo",
+    "topico": "Ato administrativo",
+    "dificuldade": "dificil",
+    "enunciado": "Motivo e motivação não se confundem: o primeiro é o pressuposto de fato e de direito que autoriza a prática do ato, ao passo que a segunda consiste na exposição escrita desses pressupostos, integrando o requisito forma; assim, a omissão de motivação em ato para o qual a lei a exija configura vício de forma, e não de motivo.",
+    "gabarito": "C",
+    "justificativa": "Item correto. O motivo é o elemento do ato consistente no conjunto de circunstâncias de fato e de direito que autorizam ou impõem sua prática; a motivação é a declaração formal e escrita desses motivos, razão pela qual a doutrina majoritária a situa no requisito forma. Daí a consequência afirmada no item: se o ato tem motivo idôneo, mas a autoridade deixa de expô-lo quando a lei exige, o defeito é de forma. A distinção tem relevância prática porque vícios de forma não essencial podem ser sanáveis, ao passo que o vício de motivo (motivo inexistente ou falso) é insanável.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, art. 2º, parágrafo único, VII, e art. 50, caput e § 1º; doutrina consolidada (Maria Sylvia Zanella Di Pietro; Rafael Oliveira)."
+  },
+  {
+    "id": "ato-administrativo-fc-06",
+    "topicoId": "ato-administrativo",
+    "topico": "Ato administrativo",
+    "dificuldade": "dificil",
+    "enunciado": "Por serem dotados de imperatividade e produzirem efeitos desde a publicação, os atos administrativos gerais e abstratos, como os regulamentos, podem ser impugnados diretamente por mandado de segurança impetrado por qualquer interessado potencialmente atingido.",
+    "gabarito": "E",
+    "justificativa": "O erro está na conclusão: a premissa (imperatividade e vigência desde a publicação) não conduz ao cabimento do mandado de segurança contra ato geral e abstrato. Regulamentos e demais atos normativos gerais e abstratos equiparam-se a lei em tese, e a Súmula 266 do STF é expressa: 'Não cabe mandado de segurança contra lei em tese'. O writ pressupõe direito líquido e certo já lesado ou ameaçado por ato concreto de autoridade. Só se admite a impetração quando o ato normativo é de efeitos concretos (lei ou regulamento apenas formalmente normativo), o que o item não ressalva.",
+    "fundamentacaoLegal": "Súmula 266 do STF; Lei nº 12.016/2009, art. 1º."
+  },
+  {
+    "id": "ato-administrativo-fc-07",
+    "topicoId": "ato-administrativo",
+    "topico": "Ato administrativo",
+    "dificuldade": "dificil",
+    "enunciado": "No ato complexo, as vontades de dois ou mais órgãos se fundem para formar um único ato, ao passo que, no ato composto, há um ato principal e outro acessório que o ratifica ou aprova; segundo o STF, a aposentadoria do servidor público sujeita a registro pelo Tribunal de Contas é ato complexo.",
+    "gabarito": "C",
+    "justificativa": "Item correto. A distinção doutrinária está bem enunciada: no ato complexo há uma única declaração formada pela conjugação de vontades de órgãos diversos; no ato composto há dois atos, um principal e outro instrumental (visto, homologação, aprovação). E o STF reiteradamente qualifica a concessão de aposentadoria, reforma ou pensão como ato administrativo complexo, que somente se aperfeiçoa com o registro pela Corte de Contas — entendimento do qual decorre a ressalva final da Súmula Vinculante 3, que dispensa o contraditório no processo de apreciação da legalidade do ato de concessão inicial.",
+    "fundamentacaoLegal": "CF/88, art. 71, III; Súmula Vinculante 3 do STF (parte final); jurisprudência do STF sobre a natureza complexa do ato de aposentadoria."
+  },
+  {
+    "id": "ato-administrativo-fc-08",
+    "topicoId": "ato-administrativo",
+    "topico": "Ato administrativo",
+    "dificuldade": "dificil",
+    "enunciado": "A tipicidade, atributo segundo o qual o ato administrativo deve corresponder a figuras previamente definidas em lei como aptas a produzir determinados resultados, incide tanto sobre os atos unilaterais quanto sobre os contratos administrativos, vedando, em ambos os casos, a prática de atos inominados.",
+    "gabarito": "E",
+    "justificativa": "O conceito de tipicidade está corretamente enunciado, mas o item erra ao estender o atributo aos contratos administrativos. Conforme a doutrina que sistematizou o atributo (Maria Sylvia Zanella Di Pietro), a tipicidade só existe em relação aos atos unilaterais, precisamente porque neles a Administração impõe obrigações unilateralmente, sendo necessária a prévia definição legal da figura; nos contratos, que pressupõem acordo de vontades, não há essa exigência, admitindo-se ajustes inominados. A generalização indevida do atributo é o trecho que torna o item falso.",
+    "fundamentacaoLegal": "Doutrina consolidada (Maria Sylvia Zanella Di Pietro, sobre o atributo da tipicidade); Lei nº 14.133/2021 (regime contratual fundado em acordo de vontades)."
+  },
+  {
+    "id": "ato-administrativo-fc-09",
+    "topicoId": "ato-administrativo",
+    "topico": "Ato administrativo",
+    "dificuldade": "dificil",
+    "enunciado": "A licença e a autorização são atos administrativos negociais e discricionários, de modo que a Administração pode extingui-los a qualquer tempo por razões de interesse público, sem que disso decorra dever de indenizar o particular.",
+    "gabarito": "E",
+    "justificativa": "Há dois erros. Primeiro, a licença é ato vinculado, e não discricionário: preenchidos os requisitos legais, o particular tem direito subjetivo à sua expedição (por isso a doutrina a classifica como ato negocial vinculado e definitivo), ao contrário da autorização, esta sim discricionária e precária. Segundo, a extinção da licença já exercida, quando gera direito adquirido ou investimento legítimo do particular, não é imune a indenização — a própria Súmula 473 do STF ressalva, na revogação, os direitos adquiridos. A afirmação de precariedade absoluta e de ausência de indenização é, portanto, falsa.",
+    "fundamentacaoLegal": "Súmula 473 do STF (parte final, ressalva dos direitos adquiridos); doutrina consolidada sobre atos negociais (Maria Sylvia Zanella Di Pietro; José dos Santos Carvalho Filho)."
+  },
+  {
+    "id": "ato-administrativo-fc-10",
+    "topicoId": "ato-administrativo",
+    "topico": "Ato administrativo",
+    "dificuldade": "dificil",
+    "enunciado": "O mérito administrativo situa-se nos elementos motivo e objeto dos atos discricionários e não pode ser substituído por valoração do Poder Judiciário; isso não impede, todavia, que o ato discricionário seja invalidado judicialmente por afronta à razoabilidade ou à proporcionalidade, hipótese em que se exerce controle de legalidade em sentido amplo.",
+    "gabarito": "C",
+    "justificativa": "Item correto. O mérito — juízo de conveniência e oportunidade — manifesta-se apenas nos elementos motivo e objeto, já que competência, finalidade e forma são sempre vinculados. O Judiciário não pode substituir a valoração administrativa por outra que repute mais conveniente, sob pena de ofensa à separação de poderes. Contudo, razoabilidade e proporcionalidade são limites jurídicos à discricionariedade, e sua violação configura ilegalidade, e não mero desacerto de mérito, autorizando a anulação do ato. A LINDB reforça essa lógica ao exigir a consideração das consequências práticas na invalidação de atos.",
+    "fundamentacaoLegal": "CF/88, art. 37, caput, e art. 5º, XXXV; Lei nº 9.784/1999, art. 2º, caput e parágrafo único, VI; Decreto-Lei nº 4.657/1942 (LINDB), art. 20, com a redação da Lei nº 13.655/2018."
+  }
+]

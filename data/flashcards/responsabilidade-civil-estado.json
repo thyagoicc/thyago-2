@@ -1,0 +1,102 @@
+[
+  {
+    "id": "responsabilidade-civil-estado-fc-01",
+    "topicoId": "responsabilidade-civil-estado",
+    "topico": "Responsabilidade civil do Estado",
+    "dificuldade": "dificil",
+    "enunciado": "Determinado particular sofreu dano patrimonial causado por servidor público municipal no exercício de suas atribuições. Nessa situação, a vítima pode, a seu critério, ajuizar a ação indenizatória diretamente contra o servidor causador do dano, contra o município ou contra ambos, em litisconsórcio passivo facultativo.",
+    "gabarito": "E",
+    "justificativa": "O erro está na faculdade de demandar diretamente o agente público. O STF, no RE 1.027.633 (Tema 940 da repercussão geral), consagrou a teoria da dupla garantia: a ação de indenização deve ser ajuizada exclusivamente contra a pessoa jurídica de direito público ou de direito privado prestadora de serviço público, sendo o agente causador do dano parte ilegítima para figurar no polo passivo. A garantia do art. 37, § 6º, da CF opera em favor tanto do lesado (que tem devedor solvente e responsabilidade objetiva) quanto do agente (que só responde regressivamente, e por dolo ou culpa).",
+    "fundamentacaoLegal": "CF/88, art. 37, § 6º; STF, RE 1.027.633/SP, Tema 940 da repercussão geral."
+  },
+  {
+    "id": "responsabilidade-civil-estado-fc-02",
+    "topicoId": "responsabilidade-civil-estado",
+    "topico": "Responsabilidade civil do Estado",
+    "dificuldade": "dificil",
+    "enunciado": "A pessoa jurídica de direito privado prestadora de serviço público responde objetivamente pelos danos que seus agentes, nessa qualidade, causarem a terceiros, ainda que a vítima não seja usuária do serviço prestado.",
+    "gabarito": "C",
+    "justificativa": "O item reproduz a tese fixada pelo STF no RE 591.874 (Tema 130), que superou o entendimento anterior do RE 262.651: a responsabilidade objetiva do art. 37, § 6º, da CF alcança os danos causados a terceiros não usuários do serviço público, pois o dispositivo constitucional não restringe a proteção aos usuários, referindo-se genericamente a terceiros.",
+    "fundamentacaoLegal": "CF/88, art. 37, § 6º; STF, RE 591.874/MS, Tema 130 da repercussão geral."
+  },
+  {
+    "id": "responsabilidade-civil-estado-fc-03",
+    "topicoId": "responsabilidade-civil-estado",
+    "topico": "Responsabilidade civil do Estado",
+    "dificuldade": "dificil",
+    "enunciado": "A pretensão de reparação civil deduzida contra a Fazenda Pública prescreve em três anos, uma vez que o art. 206, § 3º, V, do Código Civil, por ser norma posterior e especial quanto à reparação civil, afastou a aplicação do prazo quinquenal do Decreto nº 20.910/1932.",
+    "gabarito": "E",
+    "justificativa": "O erro está na alteração do prazo e na inversão do critério de especialidade. No julgamento do REsp 1.251.993/PR, sob o rito dos repetitivos (Tema 553), o STJ firmou que a prescrição das pretensões indenizatórias contra a Fazenda Pública é quinquenal, permanecendo aplicável o Decreto nº 20.910/1932, que é norma especial em relação ao Código Civil, cujo prazo trienal é norma geral e não revoga a legislação especial anterior.",
+    "fundamentacaoLegal": "Decreto nº 20.910/1932, art. 1º; STJ, REsp 1.251.993/PR, Tema 553 dos recursos repetitivos."
+  },
+  {
+    "id": "responsabilidade-civil-estado-fc-04",
+    "topicoId": "responsabilidade-civil-estado",
+    "topico": "Responsabilidade civil do Estado",
+    "dificuldade": "dificil",
+    "enunciado": "Detento foi morto por outro preso no interior de estabelecimento prisional estadual. Nessa situação, o Estado responde objetivamente pelo dano, em razão da inobservância de seu dever específico de proteção sobre pessoa sujeita à sua custódia, salvo se demonstrado que lhe era impossível evitar o resultado.",
+    "gabarito": "C",
+    "justificativa": "O item está de acordo com a tese do STF no RE 841.526 (Tema 592): em caso de inobservância do dever específico de proteção previsto no art. 5º, XLIX, da CF, o Estado responde pela morte de detento. Tratando-se de custódia, o Estado assume posição de garante, de modo que a omissão é específica e a responsabilidade, objetiva; a ressalva final é igualmente correta, pois a responsabilidade fica afastada quando comprovada a impossibilidade de o Poder Público impedir o dano, hipótese de rompimento do nexo causal.",
+    "fundamentacaoLegal": "CF/88, art. 5º, XLIX, e art. 37, § 6º; STF, RE 841.526/RS, Tema 592 da repercussão geral."
+  },
+  {
+    "id": "responsabilidade-civil-estado-fc-05",
+    "topicoId": "responsabilidade-civil-estado",
+    "topico": "Responsabilidade civil do Estado",
+    "dificuldade": "dificil",
+    "enunciado": "Configura-se a responsabilidade civil objetiva do Estado por danos decorrentes de crime praticado por pessoa foragida do sistema prisional, ainda que o delito tenha sido cometido muitos meses após a fuga, bastando a demonstração da falha estatal no dever de custódia.",
+    "gabarito": "E",
+    "justificativa": "O erro está na dispensa do nexo de causalidade direto. Conforme a tese do STF no RE 608.880 (Tema 362), não se caracteriza a responsabilidade civil objetiva do Estado por danos decorrentes de crime praticado por pessoa foragida do sistema prisional quando não demonstrado o nexo causal direto entre o momento da fuga e a conduta praticada. A falha na custódia, isoladamente, não substitui a exigência de nexo causal, elemento indispensável mesmo na responsabilidade objetiva.",
+    "fundamentacaoLegal": "CF/88, art. 37, § 6º; STF, RE 608.880/MT, Tema 362 da repercussão geral."
+  },
+  {
+    "id": "responsabilidade-civil-estado-fc-06",
+    "topicoId": "responsabilidade-civil-estado",
+    "topico": "Responsabilidade civil do Estado",
+    "dificuldade": "dificil",
+    "enunciado": "O Estado responde objetivamente pelos danos causados a terceiros por tabeliães e registradores oficiais no exercício de suas funções, assegurado o direito de regresso contra o delegatário nos casos de dolo ou culpa.",
+    "gabarito": "C",
+    "justificativa": "O item reproduz a tese do STF no RE 842.846 (Tema 777). Embora exerçam a atividade em caráter privado, os notários e registradores atuam por delegação do Poder Público (art. 236 da CF), o que atrai a responsabilidade objetiva estatal perante o terceiro lesado. Já a responsabilidade do delegatário perante o Estado, em ação regressiva, é subjetiva, exigindo dolo ou culpa, conforme o art. 22 da Lei nº 8.935/1994, com a redação dada pela Lei nº 13.286/2016.",
+    "fundamentacaoLegal": "CF/88, art. 37, § 6º, e art. 236, § 1º; Lei nº 8.935/1994, art. 22; STF, RE 842.846/RJ, Tema 777 da repercussão geral."
+  },
+  {
+    "id": "responsabilidade-civil-estado-fc-07",
+    "topicoId": "responsabilidade-civil-estado",
+    "topico": "Responsabilidade civil do Estado",
+    "dificuldade": "dificil",
+    "enunciado": "A responsabilidade civil por danos nucleares independe da existência de culpa, hipótese em que, segundo a doutrina majoritária, o ordenamento excepcionou a teoria do risco administrativo para adotar a teoria do risco integral, de modo que não se admitem as excludentes ordinárias do nexo causal.",
+    "gabarito": "C",
+    "justificativa": "O item está correto. A Constituição dispõe expressamente que a responsabilidade civil por danos nucleares independe da existência de culpa. A doutrina majoritária (Di Pietro, Carvalho Filho, Rafael Oliveira) identifica nessa previsão, ao lado dos danos ambientais e dos atentados terroristas contra aeronaves brasileiras, hipótese excepcional de risco integral, em que não se admitem as excludentes de caso fortuito, força maior ou culpa exclusiva da vítima, ao contrário do que ocorre na regra geral do art. 37, § 6º, informada pelo risco administrativo.",
+    "fundamentacaoLegal": "CF/88, art. 21, XXIII, alínea d; CF/88, art. 37, § 6º; Lei nº 10.744/2003 (atentados terroristas contra aeronaves)."
+  },
+  {
+    "id": "responsabilidade-civil-estado-fc-08",
+    "topicoId": "responsabilidade-civil-estado",
+    "topico": "Responsabilidade civil do Estado",
+    "dificuldade": "dificil",
+    "enunciado": "Segundo a orientação doutrinária capitaneada por Celso Antônio Bandeira de Mello, a responsabilidade do Estado por condutas omissivas genéricas é objetiva e fundada na teoria do risco administrativo, sendo dispensável a demonstração de falta do serviço.",
+    "gabarito": "E",
+    "justificativa": "Houve inversão do posicionamento doutrinário. Para Celso Antônio Bandeira de Mello, e para a corrente majoritária, a responsabilidade estatal por omissão genérica é subjetiva, fundada na teoria da culpa administrativa (faute du service), exigindo a demonstração de que o serviço não funcionou, funcionou mal ou funcionou tardiamente, dentro do padrão de atuação exigível do Estado. A responsabilidade objetiva pressupõe conduta comissiva ou omissão específica, em que o Estado ocupa posição de garante.",
+    "fundamentacaoLegal": "CF/88, art. 37, § 6º; doutrina de Celso Antônio Bandeira de Mello (culpa administrativa/faute du service) e de Maria Sylvia Zanella Di Pietro."
+  },
+  {
+    "id": "responsabilidade-civil-estado-fc-09",
+    "topicoId": "responsabilidade-civil-estado",
+    "topico": "Responsabilidade civil do Estado",
+    "dificuldade": "dificil",
+    "enunciado": "Embora a regra seja a irresponsabilidade do Estado por atos legislativos, admite-se excepcionalmente a reparação de danos decorrentes de lei posteriormente declarada inconstitucional pelo Supremo Tribunal Federal, bem como de leis de efeitos concretos que atinjam pessoa determinada.",
+    "gabarito": "C",
+    "justificativa": "O item está correto e reflete a doutrina consolidada. Como a lei é ato geral e abstrato, editado por representantes eleitos, a regra é a ausência de dever de indenizar; excepcionalmente, contudo, admite-se a responsabilização do Estado quando a lei é declarada inconstitucional pelo STF e quando se trata de lei de efeitos concretos, que, materialmente, equivale a ato administrativo por atingir destinatários determinados e causar dano específico e anormal.",
+    "fundamentacaoLegal": "CF/88, art. 37, § 6º; doutrina de Maria Sylvia Zanella Di Pietro e José dos Santos Carvalho Filho sobre responsabilidade por atos legislativos."
+  },
+  {
+    "id": "responsabilidade-civil-estado-fc-10",
+    "topicoId": "responsabilidade-civil-estado",
+    "topico": "Responsabilidade civil do Estado",
+    "dificuldade": "dificil",
+    "enunciado": "Nas ações indenizatórias fundadas no art. 37, § 6º, da Constituição Federal, é obrigatória a denunciação da lide ao agente público causador do dano, sob pena de o ente estatal perder o direito de regresso.",
+    "gabarito": "E",
+    "justificativa": "O item erra ao afirmar a obrigatoriedade da denunciação e ao vincular sua ausência à perda do direito de regresso. Segundo a jurisprudência do STJ, a denunciação da lide ao agente é facultativa nessas demandas, e pode até ser recusada pelo juiz quando introduzir fundamento novo (culpa ou dolo do agente) em ação de responsabilidade objetiva, retardando indevidamente a reparação da vítima. Ademais, o próprio Código de Processo Civil dispõe que o descabimento ou a ausência da denunciação não obsta o exercício do direito de regresso por ação autônoma.",
+    "fundamentacaoLegal": "CF/88, art. 37, § 6º; CPC/2015, art. 125, II, e § 1º; jurisprudência do STJ sobre facultatividade da denunciação da lide ao agente público."
+  }
+]

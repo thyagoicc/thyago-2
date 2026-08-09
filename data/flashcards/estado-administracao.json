@@ -1,0 +1,102 @@
+[
+  {
+    "id": "estado-administracao-fc-01",
+    "topicoId": "estado-administracao",
+    "topico": "Estado, governo e Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "Adotado o critério material de distinção das funções estatais, a função administrativa caracteriza-se pela produção de comandos gerais e abstratos, ao passo que a função legislativa se expressa por atos concretos e infralegais; por essa razão, o regulamento executivo editado pelo chefe do Poder Executivo constitui exercício atípico da função legislativa.",
+    "gabarito": "E",
+    "justificativa": "O item inverte os critérios e erra a natureza do regulamento executivo. Pelo critério material, a função legislativa é que se caracteriza pela edição de atos gerais, abstratos, inovadores e originários da ordem jurídica; a função administrativa é concreta, infralegal e subordinada à lei. Além disso, o regulamento executivo previsto no art. 84, IV, da CF não inova originariamente na ordem jurídica (limita-se à fiel execução da lei), sendo, na doutrina majoritária (Celso Antônio Bandeira de Mello, Di Pietro), manifestação de função administrativa normativa, e não exercício atípico de função legislativa.",
+    "fundamentacaoLegal": "CF/88, art. 2º e art. 84, IV; doutrina (Celso Antônio Bandeira de Mello; Maria Sylvia Zanella Di Pietro)."
+  },
+  {
+    "id": "estado-administracao-fc-02",
+    "topicoId": "estado-administracao",
+    "topico": "Estado, governo e Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "A Administração Pública em sentido subjetivo, formal ou orgânico compreende o conjunto de órgãos, entidades e agentes incumbidos do exercício da função administrativa, ao passo que, em sentido objetivo, material ou funcional, corresponde à própria atividade administrativa; por isso, as entidades da Administração indireta que explorem atividade econômica em sentido estrito integram a Administração Pública em sentido subjetivo, ainda que a atividade que desempenham não configure função administrativa típica.",
+    "gabarito": "C",
+    "justificativa": "O item reproduz corretamente a dupla acepção doutrinária da Administração Pública. As empresas públicas e sociedades de economia mista exploradoras de atividade econômica (art. 173 da CF) integram formalmente a Administração indireta, ou seja, a Administração em sentido subjetivo, embora a atividade que exercem seja econômica, e não função administrativa típica (serviço público, polícia administrativa, fomento e intervenção). É exatamente por isso que a doutrina adverte que os dois sentidos não são coextensivos.",
+    "fundamentacaoLegal": "CF/88, art. 37, caput, e art. 173, § 1º; Decreto-Lei nº 200/1967, art. 4º, II; doutrina (Maria Sylvia Zanella Di Pietro; José dos Santos Carvalho Filho)."
+  },
+  {
+    "id": "estado-administracao-fc-03",
+    "topicoId": "estado-administracao",
+    "topico": "Estado, governo e Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "O regime jurídico-administrativo estrutura-se sobre as pedras de toque da supremacia do interesse público sobre o particular e da indisponibilidade do interesse público, das quais decorrem, respectivamente, prerrogativas e sujeições; a submissão de determinada entidade estatal predominantemente ao direito privado não afasta a incidência do regime público, pois esse direito privado será sempre parcialmente derrogado por normas de direito público.",
+    "gabarito": "C",
+    "justificativa": "Item correto. Celso Antônio Bandeira de Mello identifica na supremacia e na indisponibilidade do interesse público as duas pedras de toque do regime jurídico-administrativo, das quais decorrem, de um lado, prerrogativas (verticalidade nas relações com o particular) e, de outro, sujeições (limitações à atuação do administrador). A doutrina é igualmente pacífica ao afirmar que, mesmo quando a Administração atua sob regime de direito privado, este é parcialmente derrogado por normas publicísticas, como se observa nas estatais, sujeitas ao concurso público, ao dever de licitar e ao controle pelos Tribunais de Contas.",
+    "fundamentacaoLegal": "CF/88, art. 37, caput, incisos II e XXI, e art. 71, II; doutrina (Celso Antônio Bandeira de Mello; Maria Sylvia Zanella Di Pietro)."
+  },
+  {
+    "id": "estado-administracao-fc-04",
+    "topicoId": "estado-administracao",
+    "topico": "Estado, governo e Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "Compete privativamente à União legislar sobre normas gerais de licitação e contratação para as administrações diretas, autárquicas e fundacionais de todos os entes federativos, cabendo aos municípios apenas suplementar a legislação federal e estadual no que couber; por se tratar de competência privativa, é vedada a delegação aos estados de questões específicas dessa matéria.",
+    "gabarito": "E",
+    "justificativa": "A parte final torna o item errado. Embora a competência para editar normas gerais de licitação e contratação seja privativa da União (art. 22, XXVII, da CF) e caiba aos municípios suplementar a legislação federal e estadual no que couber (art. 30, II), o parágrafo único do art. 22 da CF autoriza expressamente que lei complementar delegue aos estados a competência para legislar sobre questões específicas das matérias arroladas no artigo. Portanto, a competência privativa é, por definição, delegável, ao contrário da competência exclusiva.",
+    "fundamentacaoLegal": "CF/88, art. 22, XXVII e parágrafo único; art. 30, II."
+  },
+  {
+    "id": "estado-administracao-fc-05",
+    "topicoId": "estado-administracao",
+    "topico": "Estado, governo e Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "Em sentido amplo, a Administração Pública compreende exclusivamente os órgãos administrativos incumbidos da execução das políticas públicas; em sentido estrito, abrange também os órgãos governamentais e a função política de traçar diretrizes, razão pela qual os atos de governo integram a Administração Pública em sentido estrito.",
+    "gabarito": "E",
+    "justificativa": "O item inverte integralmente a classificação doutrinária. Em sentido amplo, a Administração Pública abrange tanto os órgãos governamentais (que exercem a função política, de comando e de fixação de diretrizes) quanto os órgãos administrativos de execução; em sentido estrito, compreende apenas estes últimos, excluindo-se a função política. Consequentemente, os atos de governo situam-se fora da Administração Pública em sentido estrito.",
+    "fundamentacaoLegal": "Doutrina (Maria Sylvia Zanella Di Pietro, Direito Administrativo, capítulo sobre Administração Pública em sentido amplo e estrito)."
+  },
+  {
+    "id": "estado-administracao-fc-06",
+    "topicoId": "estado-administracao",
+    "topico": "Estado, governo e Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "A distinção entre interesse público primário e interesse público secundário, de matriz italiana e difundida no Brasil, permite afirmar que o interesse meramente patrimonial ou fazendário do erário não se confunde com o interesse da coletividade, de modo que o interesse secundário somente pode ser legitimamente perseguido pela Administração quando coincidente com o interesse primário.",
+    "gabarito": "C",
+    "justificativa": "Item correto. A distinção, formulada por Renato Alessi e incorporada pela doutrina brasileira (notadamente Celso Antônio Bandeira de Mello), separa o interesse primário, que é o interesse da coletividade como um todo, do interesse secundário, que é o interesse do Estado enquanto pessoa jurídica (interesse patrimonial ou fazendário). O interesse secundário não é autônomo: só é juridicamente legítimo quando instrumental ao interesse primário, não podendo com ele conflitar.",
+    "fundamentacaoLegal": "Doutrina (Renato Alessi; Celso Antônio Bandeira de Mello, Curso de Direito Administrativo); CF/88, art. 37, caput (princípios da moralidade e da impessoalidade)."
+  },
+  {
+    "id": "estado-administracao-fc-07",
+    "topicoId": "estado-administracao",
+    "topico": "Estado, governo e Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "Os princípios inscritos no caput do art. 37 da Constituição Federal alcançam a administração direta e indireta de qualquer dos Poderes da União, dos estados, do Distrito Federal e dos municípios, incidindo inclusive sobre as empresas estatais exploradoras de atividade econômica, que, embora submetidas ao regime jurídico próprio das empresas privadas, permanecem vinculadas à exigência de concurso público e ao dever de licitar.",
+    "gabarito": "C",
+    "justificativa": "Item correto. O art. 37, caput, da CF é expresso quanto ao alcance dos princípios à administração direta e indireta de qualquer dos Poderes de todos os entes federativos. O art. 173, § 1º, II e III, da CF, ao submeter as estatais exploradoras de atividade econômica ao regime jurídico das empresas privadas, ressalva expressamente a observância dos princípios da Administração Pública nas licitações e contratações, dever hoje disciplinado pela Lei nº 13.303/2016. A exigência de concurso público (art. 37, II) igualmente as alcança, conforme jurisprudência pacífica do STF.",
+    "fundamentacaoLegal": "CF/88, art. 37, caput, e incisos II e XXI; art. 173, § 1º, II e III; Lei nº 13.303/2016, arts. 1º e 28."
+  },
+  {
+    "id": "estado-administracao-fc-08",
+    "topicoId": "estado-administracao",
+    "topico": "Estado, governo e Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "Governo e Administração não se confundem: aquele exerce atividade eminentemente política e de fixação de diretrizes, enquanto esta desenvolve atividade neutra e, em regra, subordinada à lei. Em razão dessa distinção, os atos de governo, por seu conteúdo político, são insuscetíveis de controle jurisdicional, ainda que resultem em lesão a direitos fundamentais.",
+    "gabarito": "E",
+    "justificativa": "A primeira oração está correta, mas a conclusão é falsa. A distinção entre governo e Administração não confere imunidade jurisdicional absoluta aos atos políticos. Vigora no Brasil o princípio da inafastabilidade da jurisdição (art. 5º, XXXV, da CF), de modo que os atos de governo, embora possuam ampla margem de discricionariedade política quanto ao mérito, submetem-se a controle judicial de juridicidade, especialmente quando desbordam dos limites constitucionais ou lesionam direitos fundamentais. Trata-se de erro de conexão lógica, com atribuição de efeito absoluto a uma regra que comporta controle.",
+    "fundamentacaoLegal": "CF/88, art. 5º, XXXV; doutrina (José dos Santos Carvalho Filho; Rafael Oliveira)."
+  },
+  {
+    "id": "estado-administracao-fc-09",
+    "topicoId": "estado-administracao",
+    "topico": "Estado, governo e Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "A separação de poderes, protegida como cláusula pétrea, impede que órgãos do Poder Legislativo pratiquem atos de natureza administrativa; por essa razão, a organização dos serviços internos das Casas legislativas e o provimento dos cargos de suas secretarias devem ser realizados por ato do chefe do Poder Executivo, a quem cabe privativamente o exercício da função administrativa.",
+    "gabarito": "E",
+    "justificativa": "Item errado. A separação de poderes não é rígida: cada Poder exerce, além de sua função típica, funções atípicas. O Poder Legislativo exerce função administrativa atipicamente ao organizar seus serviços e prover os cargos de sua estrutura, competência que a própria Constituição lhe atribui privativamente (art. 51, IV, quanto à Câmara dos Deputados, e art. 52, XIII, quanto ao Senado Federal, com simetria para as demais Casas legislativas). Atribuir tais atos ao chefe do Executivo violaria a autonomia administrativa e financeira dos Poderes.",
+    "fundamentacaoLegal": "CF/88, art. 2º; art. 51, IV; art. 52, XIII; art. 60, § 4º, III."
+  },
+  {
+    "id": "estado-administracao-fc-10",
+    "topicoId": "estado-administracao",
+    "topico": "Estado, governo e Administração Pública",
+    "dificuldade": "dificil",
+    "enunciado": "A criação, a incorporação, a fusão e o desmembramento de municípios far-se-ão por lei estadual, dentro do período determinado por lei complementar federal, e dependerão de consulta prévia, mediante plebiscito, às populações dos municípios envolvidos, após divulgação dos Estudos de Viabilidade Municipal; a ausência da lei complementar federal exigida pelo dispositivo já foi reconhecida pelo STF como omissão inconstitucional, o que, entretanto, não legitima a criação de novos municípios enquanto perdurar a mora legislativa.",
+    "gabarito": "C",
+    "justificativa": "Item correto em todas as suas partes. O art. 18, § 4º, da CF, na redação dada pela EC nº 15/1996, exige cumulativamente lei estadual, período fixado em lei complementar federal, plebiscito com as populações dos municípios envolvidos e divulgação dos Estudos de Viabilidade Municipal. O STF, no julgamento da ADI 3.682, reconheceu a mora do Congresso Nacional na edição da lei complementar, sem, contudo, autorizar a criação de municípios na sua ausência; a EC nº 57/2008 limitou-se a convalidar, mediante o art. 96 do ADCT, os municípios criados até 31 de dezembro de 2006.",
+    "fundamentacaoLegal": "CF/88, art. 18, § 4º (redação da EC nº 15/1996); ADCT, art. 96 (incluído pela EC nº 57/2008); STF, ADI 3.682."
+  }
+]

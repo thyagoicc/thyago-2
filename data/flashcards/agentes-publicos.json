@@ -1,0 +1,102 @@
+[
+  {
+    "id": "agentes-publicos-fc-01",
+    "topicoId": "agentes-publicos",
+    "topico": "Agentes públicos",
+    "dificuldade": "dificil",
+    "enunciado": "A estabilidade é adquirida após três anos de efetivo exercício pelo servidor nomeado para cargo de provimento efetivo em virtude de concurso público, sendo obrigatória, como condição para sua aquisição, avaliação especial de desempenho por comissão instituída para essa finalidade.",
+    "gabarito": "C",
+    "justificativa": "Item correto e literal. O art. 41, caput, da CF/88, com a redação da EC nº 19/1998, exige três anos de efetivo exercício e nomeação para cargo de provimento efetivo em virtude de concurso público — requisitos cumulativos que excluem da estabilidade os ocupantes de cargo em comissão e os contratados temporariamente. O § 4º do mesmo artigo estabelece que, como condição para a aquisição da estabilidade, é obrigatória avaliação especial de desempenho por comissão instituída para essa finalidade, exigência que não se confunde com a avaliação periódica de desempenho do § 1º, III, esta voltada à perda do cargo pelo servidor já estável.",
+    "fundamentacaoLegal": "CF/88, art. 41, caput e §§ 1º e 4º, com a redação da EC nº 19/1998."
+  },
+  {
+    "id": "agentes-publicos-fc-02",
+    "topicoId": "agentes-publicos",
+    "topico": "Agentes públicos",
+    "dificuldade": "dificil",
+    "enunciado": "Conforme jurisprudência consolidada do STJ, o prazo do estágio probatório permaneceu em vinte e quatro meses após a Emenda Constitucional nº 19/1998, não se confundindo com o prazo de três anos exigido pela Constituição para a aquisição da estabilidade.",
+    "gabarito": "E",
+    "justificativa": "O erro está na manutenção do prazo de vinte e quatro meses. Embora estágio probatório e estabilidade sejam institutos distintos — o primeiro é período de avaliação de aptidão e capacidade para o cargo; a segunda é garantia de permanência no serviço público —, o STJ firmou o entendimento, seguido pela Administração federal, de que, após a EC nº 19/1998, o prazo do estágio probatório passou a ser de trinta e seis meses, acompanhando o prazo constitucional da estabilidade, por incompatibilidade da regra anterior de vinte e quatro meses com o novo texto do art. 41 da CF/88. Correta, portanto, apenas a segunda parte do item, o que é insuficiente para torná-lo certo.",
+    "fundamentacaoLegal": "CF/88, art. 41, caput, com a redação da EC nº 19/1998; Lei nº 8.112/1990, art. 20 (parâmetro estatutário); jurisprudência consolidada do STJ sobre a coincidência dos prazos."
+  },
+  {
+    "id": "agentes-publicos-fc-03",
+    "topicoId": "agentes-publicos",
+    "topico": "Agentes públicos",
+    "dificuldade": "dificil",
+    "enunciado": "É inconstitucional, conforme enunciado de súmula vinculante do STF, toda modalidade de provimento que propicie ao servidor investir-se, sem prévia aprovação em concurso público destinado ao seu provimento, em cargo que não integra a carreira na qual anteriormente investido, razão pela qual foram banidas do ordenamento formas de provimento derivado como a ascensão e a transferência.",
+    "gabarito": "C",
+    "justificativa": "Item correto. A Súmula Vinculante 43 do STF reproduz exatamente essa formulação, consolidando entendimento firmado desde a ADI 231/RJ. A exigência de concurso público do art. 37, II, da CF/88 impede o ingresso em cargo de carreira diversa por via transversa, o que fulminou a ascensão (ou acesso) e a transferência como formas de provimento derivado vertical e horizontal. Permanecem admitidas as formas de provimento derivado que não implicam ingresso em carreira diversa, como a promoção, a readaptação, a reversão, a reintegração, a recondução e o aproveitamento.",
+    "fundamentacaoLegal": "Súmula Vinculante 43 do STF; CF/88, art. 37, II; Lei nº 8.112/1990, art. 8º."
+  },
+  {
+    "id": "agentes-publicos-fc-04",
+    "topicoId": "agentes-publicos",
+    "topico": "Agentes públicos",
+    "dificuldade": "dificil",
+    "enunciado": "Reintegração é o retorno do servidor estável ao cargo anteriormente ocupado em decorrência de inabilitação em estágio probatório relativo a outro cargo, ao passo que recondução é o reingresso no serviço público em virtude da invalidação, administrativa ou judicial, da demissão.",
+    "gabarito": "E",
+    "justificativa": "Os conceitos estão invertidos. Tomando-se como parâmetro o regime estatutário, reintegração é a reinvestidura do servidor estável no cargo anteriormente ocupado, ou no resultante de sua transformação, quando invalidada a sua demissão por decisão administrativa ou judicial, com ressarcimento de todas as vantagens. Recondução é o retorno do servidor estável ao cargo anteriormente ocupado, decorrente de inabilitação em estágio probatório relativo a outro cargo ou da reintegração do anterior ocupante. A troca de definições entre os dois institutos é o que torna o item falso.",
+    "fundamentacaoLegal": "Lei nº 8.112/1990, arts. 28 e 29 (parâmetro para regimes estatutários municipais); CF/88, art. 41, § 2º."
+  },
+  {
+    "id": "agentes-publicos-fc-05",
+    "topicoId": "agentes-publicos",
+    "topico": "Agentes públicos",
+    "dificuldade": "dificil",
+    "enunciado": "A acumulação remunerada de dois cargos privativos de profissionais de saúde com profissões regulamentadas exige apenas compatibilidade de horários e observância do teto remuneratório, não podendo ser obstada por norma infraconstitucional que fixe limite máximo de jornada semanal, conforme entendimento firmado pelo STF em repercussão geral.",
+    "gabarito": "C",
+    "justificativa": "Item correto. O art. 37, XVI, 'c', da CF/88, com a redação da EC nº 34/2001, admite a acumulação de dois cargos ou empregos privativos de profissionais de saúde com profissões regulamentadas, exigindo, como condição, apenas a compatibilidade de horários, além do respeito ao teto do inciso XI. O STF, em repercussão geral (Tema 1.081, RE 1.176.440), assentou que a acumulação não pode ser limitada por ato ou norma infraconstitucional que estabeleça teto de carga horária semanal, cabendo à Administração comprovar, no caso concreto, a efetiva incompatibilidade de horários ou o prejuízo à qualidade do serviço.",
+    "fundamentacaoLegal": "CF/88, art. 37, XI e XVI, 'c', e § 10; STF, RE 1.176.440, Tema 1.081 da repercussão geral."
+  },
+  {
+    "id": "agentes-publicos-fc-06",
+    "topicoId": "agentes-publicos",
+    "topico": "Agentes públicos",
+    "dificuldade": "dificil",
+    "enunciado": "O teto remuneratório constitucional aplica-se às empresas públicas e às sociedades de economia mista e suas subsidiárias, ainda que não recebam do ente controlador recursos para pagamento de despesas de pessoal ou de custeio em geral.",
+    "gabarito": "E",
+    "justificativa": "O item suprime a condição que a própria Constituição estabelece. Nos termos do art. 37, § 9º, da CF/88, incluído pela EC nº 19/1998, o teto do inciso XI aplica-se às empresas públicas, às sociedades de economia mista e às suas subsidiárias que receberem recursos do ente federativo para pagamento de despesas de pessoal ou de custeio em geral. Portanto, a estatal que se autossustenta com receitas próprias não se submete ao teto remuneratório. Ao afirmar a incidência 'ainda que não recebam' tais recursos, o item transforma a exceção em regra e contraria o texto constitucional.",
+    "fundamentacaoLegal": "CF/88, art. 37, XI e § 9º, com a redação da EC nº 19/1998; Lei nº 13.303/2016."
+  },
+  {
+    "id": "agentes-publicos-fc-07",
+    "topicoId": "agentes-publicos",
+    "topico": "Agentes públicos",
+    "dificuldade": "dificil",
+    "enunciado": "O candidato aprovado dentro do número de vagas previsto no edital titulariza direito subjetivo à nomeação, ao passo que o aprovado em cadastro de reserva, ou fora das vagas ofertadas, somente adquire esse direito quando demonstrada preterição arbitrária e imotivada por parte da Administração, conforme teses fixadas pelo STF em repercussão geral.",
+    "gabarito": "C",
+    "justificativa": "Item correto e alinhado às duas teses de repercussão geral. No Tema 161 (RE 598.099/MS), o STF reconheceu que a aprovação dentro do número de vagas previsto no edital gera direito subjetivo à nomeação, e não mera expectativa de direito. No Tema 784 (RE 837.311/PI), a Corte assentou que o surgimento de novas vagas ou a abertura de novo concurso durante a validade do certame não gera automaticamente direito à nomeação dos aprovados fora das vagas, o qual surge apenas quando configurada preterição arbitrária e imotivada, caracterizada por comportamento tácito ou expresso da Administração.",
+    "fundamentacaoLegal": "CF/88, art. 37, II e IV; STF, RE 598.099/MS (Tema 161) e RE 837.311/PI (Tema 784)."
+  },
+  {
+    "id": "agentes-publicos-fc-08",
+    "topicoId": "agentes-publicos",
+    "topico": "Agentes públicos",
+    "dificuldade": "dificil",
+    "enunciado": "Os agentes honoríficos, como os mesários e os jurados, são considerados servidores públicos para todos os efeitos legais, fazendo jus à remuneração pelo período de atuação e à contagem do respectivo tempo para fins de aposentadoria em regime próprio de previdência.",
+    "gabarito": "E",
+    "justificativa": "O item erra ao equiparar agentes honoríficos a servidores públicos para todos os efeitos. Segundo a classificação doutrinária consagrada por Hely Lopes Meirelles e adotada pela doutrina majoritária, os agentes honoríficos são particulares em colaboração com o Poder Público, convocados, designados ou nomeados para prestar transitoriamente determinados serviços em razão de sua condição cívica, honorabilidade ou notória capacidade profissional. Atuam em múnus público, sem vínculo estatutário ou empregatício, em regra sem remuneração e sem direito a contagem de tempo para aposentadoria em regime próprio; equiparam-se a funcionário público apenas para efeitos penais.",
+    "fundamentacaoLegal": "Código Penal, art. 327, caput (conceito de funcionário público para efeitos penais); Código de Processo Penal, art. 439 (serviço do júri como serviço público relevante); Lei nº 4.737/1965, art. 98 (Código Eleitoral); doutrina consolidada sobre classificação dos agentes públicos."
+  },
+  {
+    "id": "agentes-publicos-fc-09",
+    "topicoId": "agentes-publicos",
+    "topico": "Agentes públicos",
+    "dificuldade": "dificil",
+    "enunciado": "A demissão e a exoneração constituem formas de vacância do cargo público, ao passo que a promoção configura exclusivamente forma de provimento derivado, não acarretando a vacância do cargo anteriormente ocupado pelo servidor promovido.",
+    "gabarito": "E",
+    "justificativa": "A primeira oração está correta, mas a segunda torna o item falso. A promoção apresenta natureza dúplice: é simultaneamente forma de provimento derivado vertical, quanto ao cargo em que o servidor passa a ser investido, e forma de vacância, quanto ao cargo por ele anteriormente ocupado, que fica vago. Tomando-se o regime estatutário como parâmetro, a promoção figura expressamente tanto no rol das formas de provimento quanto no rol das hipóteses de vacância. Idêntica duplicidade ocorre com a readaptação e com a posse em outro cargo inacumulável.",
+    "fundamentacaoLegal": "Lei nº 8.112/1990, art. 8º, II e III, e art. 33, I a III (parâmetro para regimes estatutários municipais)."
+  },
+  {
+    "id": "agentes-publicos-fc-10",
+    "topicoId": "agentes-publicos",
+    "topico": "Agentes públicos",
+    "dificuldade": "dificil",
+    "enunciado": "Segundo entendimento sumulado do TST, o servidor celetista da administração direta, autárquica ou fundacional é beneficiário da estabilidade prevista no art. 41 da CF/88, ao passo que o empregado de empresa pública ou de sociedade de economia mista, ainda que admitido mediante aprovação em concurso público, não a titulariza.",
+    "gabarito": "C",
+    "justificativa": "Item correto e fiel aos dois incisos da Súmula 390 do TST. O critério distintivo é a natureza da pessoa jurídica empregadora: entes de direito público (administração direta, autarquias e fundações públicas) atraem a incidência do art. 41 da CF/88 mesmo quando o vínculo é celetista, ao passo que empresas públicas e sociedades de economia mista, pessoas jurídicas de direito privado que se sujeitam ao regime jurídico próprio das empresas privadas quanto aos direitos e obrigações trabalhistas (art. 173, § 1º, II, da CF/88), não conferem estabilidade a seus empregados, ainda que estes tenham ingressado por concurso público.",
+    "fundamentacaoLegal": "Súmula 390 do TST, I e II; CF/88, arts. 37, II, 41 e 173, § 1º, II; Lei nº 13.303/2016."
+  }
+]

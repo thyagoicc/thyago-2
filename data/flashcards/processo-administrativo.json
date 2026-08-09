@@ -1,0 +1,102 @@
+[
+  {
+    "id": "processo-administrativo-fc-01",
+    "topicoId": "processo-administrativo",
+    "topico": "Processo administrativo",
+    "dificuldade": "dificil",
+    "enunciado": "Do processo administrativo de revisão de que trata a Lei nº 9.784/1999 pode resultar agravamento da sanção aplicada, desde que o interessado seja previamente cientificado para formular suas alegações antes da decisão.",
+    "gabarito": "E",
+    "justificativa": "O item mistura os regimes do recurso e da revisão. O art. 65, parágrafo único, da Lei nº 9.784/1999 veda de forma absoluta que da revisão do processo resulte agravamento da sanção. A possibilidade de agravamento mediante prévia ciência do interessado para apresentar alegações é própria do RECURSO administrativo (art. 64, parágrafo único), e não da revisão, que se instaura a qualquer tempo quando surgirem fatos novos ou circunstâncias relevantes suscetíveis de justificar a inadequação da sanção.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, art. 65, caput e parágrafo único; art. 64, parágrafo único."
+  },
+  {
+    "id": "processo-administrativo-fc-02",
+    "topicoId": "processo-administrativo",
+    "topico": "Processo administrativo",
+    "dificuldade": "dificil",
+    "enunciado": "É admissível a delegação de parte da competência administrativa a órgão ou titular que não seja hierarquicamente subordinado ao delegante, vedada, contudo, a delegação da edição de atos de caráter normativo e da decisão de recursos administrativos.",
+    "gabarito": "C",
+    "justificativa": "O item está integralmente correto. O art. 12 da Lei nº 9.784/1999 permite que um órgão administrativo e seu titular deleguem parte da sua competência a outros órgãos ou titulares, ainda que estes não lhe sejam hierarquicamente subordinados, se não houver impedimento legal, quando for conveniente em razão de circunstâncias de índole técnica, social, econômica, jurídica ou territorial. O art. 13, por sua vez, veda a delegação da edição de atos de caráter normativo, da decisão de recursos administrativos e das matérias de competência exclusiva do órgão ou autoridade.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, arts. 12 e 13, I, II e III."
+  },
+  {
+    "id": "processo-administrativo-fc-03",
+    "topicoId": "processo-administrativo",
+    "topico": "Processo administrativo",
+    "dificuldade": "dificil",
+    "enunciado": "Inexistente norma local específica que regule a matéria, a Lei nº 9.784/1999 pode ser aplicada de forma subsidiária a estados e municípios, especialmente quanto ao prazo decadencial para a revisão de atos administrativos.",
+    "gabarito": "C",
+    "justificativa": "O item reproduz a Súmula 633 do STJ. Embora a Lei nº 9.784/1999 regule o processo administrativo no âmbito da Administração Pública Federal (art. 1º), o STJ admite sua aplicação subsidiária a estados e municípios que não possuam lei própria sobre o tema, notadamente quanto ao prazo decadencial de cinco anos do art. 54, por concretizar os princípios constitucionais da segurança jurídica e da proteção da confiança legítima.",
+    "fundamentacaoLegal": "Súmula 633 do STJ; Lei nº 9.784/1999, arts. 1º e 54."
+  },
+  {
+    "id": "processo-administrativo-fc-04",
+    "topicoId": "processo-administrativo",
+    "topico": "Processo administrativo",
+    "dificuldade": "dificil",
+    "enunciado": "O direito da Administração de anular os atos administrativos de que decorram efeitos favoráveis para os destinatários decai em cinco anos, salvo comprovada má-fé; tratando-se de efeitos patrimoniais contínuos, o prazo é contado da data em que o ato foi praticado.",
+    "gabarito": "E",
+    "justificativa": "A primeira oração está correta (art. 54, caput), mas a segunda altera o termo inicial legal. Nos termos do art. 54, § 1º, da Lei nº 9.784/1999, no caso de efeitos patrimoniais contínuos, o prazo decadencial de cinco anos conta-se da percepção do primeiro pagamento, e não da data da prática do ato. Vale lembrar ainda que, conforme o § 2º do mesmo artigo, considera-se exercício do direito de anular qualquer medida de autoridade administrativa que importe impugnação à validade do ato.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, art. 54, caput e §§ 1º e 2º."
+  },
+  {
+    "id": "processo-administrativo-fc-05",
+    "topicoId": "processo-administrativo",
+    "topico": "Processo administrativo",
+    "dificuldade": "dificil",
+    "enunciado": "Em regra, o recurso administrativo interposto com fundamento na Lei nº 9.784/1999 é dotado de efeito suspensivo, que somente poderá ser afastado por decisão motivada da autoridade recorrida diante de risco ao interesse público.",
+    "gabarito": "E",
+    "justificativa": "O item inverte a regra e a exceção. Segundo o art. 61 da Lei nº 9.784/1999, salvo disposição legal em contrário, o recurso administrativo NÃO tem efeito suspensivo. O parágrafo único do mesmo artigo prevê justamente o inverso do afirmado: havendo justo receio de prejuízo de difícil ou incerta reparação decorrente da execução, a autoridade recorrida ou a imediatamente superior poderá, de ofício ou a pedido, dar efeito suspensivo ao recurso.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, art. 61, caput e parágrafo único."
+  },
+  {
+    "id": "processo-administrativo-fc-06",
+    "topicoId": "processo-administrativo",
+    "topico": "Processo administrativo",
+    "dificuldade": "dificil",
+    "enunciado": "Quando o parecer for obrigatório e vinculante, o processo não terá seguimento até a respectiva apresentação; sendo obrigatório e não vinculante, o processo poderá ter prosseguimento e ser decidido com a dispensa do parecer não emitido no prazo fixado.",
+    "gabarito": "C",
+    "justificativa": "O item reproduz com precisão o art. 42, caput e § 1º, da Lei nº 9.784/1999. Se o parecer obrigatório e vinculante não for emitido no prazo, o processo fica paralisado, respondendo o servidor responsável pela inércia; se o parecer é obrigatório mas não vinculante, a lei autoriza o prosseguimento e a decisão com sua dispensa, sem prejuízo da responsabilização de quem deixou de emiti-lo.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, art. 42, caput e §§ 1º e 2º."
+  },
+  {
+    "id": "processo-administrativo-fc-07",
+    "topicoId": "processo-administrativo",
+    "topico": "Processo administrativo",
+    "dificuldade": "dificil",
+    "enunciado": "A Administração pode condicionar o conhecimento de recurso administrativo ao prévio depósito de caução, desde que o valor exigido seja previsto em ato normativo do próprio órgão e observe a proporcionalidade.",
+    "gabarito": "E",
+    "justificativa": "O item é falso em duas frentes. O art. 56, § 2º, da Lei nº 9.784/1999 estabelece que, salvo exigência legal, a interposição de recurso administrativo independe de caução, de modo que ato normativo interno do órgão não serve de fundamento para a exigência. Além disso, a Súmula Vinculante 21 do STF declara inconstitucional a exigência de depósito ou arrolamento prévios de dinheiro ou bens como requisito de admissibilidade de recurso administrativo, por violar o contraditório, a ampla defesa e o direito de petição.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, art. 56, § 2º; Súmula Vinculante 21 do STF; CF/88, art. 5º, XXXIV, a, e LV."
+  },
+  {
+    "id": "processo-administrativo-fc-08",
+    "topicoId": "processo-administrativo",
+    "topico": "Processo administrativo",
+    "dificuldade": "dificil",
+    "enunciado": "Constatado vício sanável em ato administrativo do qual não decorra lesão ao interesse público nem prejuízo a terceiros, a Administração está obrigada a anulá-lo, sendo a convalidação admitida apenas mediante decisão judicial.",
+    "gabarito": "E",
+    "justificativa": "O item contraria o art. 55 da Lei nº 9.784/1999, segundo o qual, em decisão na qual se evidencie não acarretarem lesão ao interesse público nem prejuízo a terceiros, os atos que apresentarem defeitos sanáveis poderão ser convalidados pela própria Administração. A convalidação é, portanto, ato da própria Administração, e não do Judiciário, e afasta o dever de anulação nessas circunstâncias. Registre-se que apenas os vícios de competência (não exclusiva) e de forma (não essencial) são considerados sanáveis, ao passo que vícios de motivo, objeto e finalidade são insanáveis.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, art. 55; Súmula 473 do STF; doutrina de Maria Sylvia Zanella Di Pietro sobre vícios sanáveis."
+  },
+  {
+    "id": "processo-administrativo-fc-09",
+    "topicoId": "processo-administrativo",
+    "topico": "Processo administrativo",
+    "dificuldade": "dificil",
+    "enunciado": "O prazo para interposição de recurso administrativo é de dez dias, contado da ciência ou divulgação oficial da decisão recorrida, e o recurso tramitará por, no máximo, três instâncias administrativas, salvo disposição legal diversa.",
+    "gabarito": "C",
+    "justificativa": "As duas informações correspondem à literalidade da Lei nº 9.784/1999. O art. 59, caput, fixa em dez dias o prazo para interposição do recurso administrativo, contado da ciência ou divulgação oficial da decisão, salvo disposição legal específica; o art. 57 limita a tramitação a, no máximo, três instâncias administrativas, ressalvada disposição legal diversa. Cabe lembrar que, uma vez interposto, o recurso é dirigido à autoridade que proferiu a decisão, a qual, se não a reconsiderar em cinco dias, o encaminhará à autoridade superior.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, arts. 57, 59, caput, e 56, § 1º."
+  },
+  {
+    "id": "processo-administrativo-fc-10",
+    "topicoId": "processo-administrativo",
+    "topico": "Processo administrativo",
+    "dificuldade": "dificil",
+    "enunciado": "Devem ser motivados, com indicação dos fatos e dos fundamentos jurídicos, os atos administrativos que decidam recursos administrativos e os que deixem de aplicar jurisprudência firmada sobre a questão ou divirjam de pareceres, laudos, propostas e relatórios oficiais, admitindo-se que a motivação consista em declaração de concordância com fundamentos de pareceres anteriores.",
+    "gabarito": "C",
+    "justificativa": "O item está correto. O art. 50, V e VII, da Lei nº 9.784/1999 inclui expressamente entre os atos que devem ser motivados aqueles que decidam recursos administrativos e os que deixem de aplicar jurisprudência firmada sobre a questão ou divirjam de pareceres, laudos, propostas e relatórios oficiais. O § 1º do mesmo artigo, ao exigir motivação explícita, clara e congruente, admite que ela consista em declaração de concordância com fundamentos de anteriores pareceres, informações, decisões ou propostas, que, nesse caso, serão parte integrante do ato (motivação aliunde ou per relationem).",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, art. 50, V e VII, e § 1º."
+  }
+]

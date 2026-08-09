@@ -1,0 +1,102 @@
+[
+  {
+    "id": "bens-publicos-fc-01",
+    "topicoId": "bens-publicos",
+    "topico": "Bens públicos",
+    "dificuldade": "dificil",
+    "enunciado": "Os bens públicos de uso comum do povo e os de uso especial são inalienáveis em caráter absoluto, de modo que, enquanto integrarem o patrimônio de pessoa jurídica de direito público, não podem, em nenhuma hipótese, ser convertidos em bens dominicais nem alienados.",
+    "gabarito": "E",
+    "justificativa": "O item é errado por atribuir caráter absoluto a uma regra que a lei expressamente relativiza. O art. 100 do Código Civil dispõe que os bens de uso comum do povo e os de uso especial são inalienáveis 'enquanto conservarem a sua qualificação, na forma que a lei determinar' — trata-se, portanto, de inalienabilidade relativa (ou alienabilidade condicionada). Mediante desafetação, tais bens passam à categoria de dominicais e, nessa condição, podem ser alienados observadas as exigências do art. 101 do Código Civil e da legislação administrativa. A expressão 'em nenhuma hipótese' torna o item falso.",
+    "fundamentacaoLegal": "Arts. 99, 100 e 101 do Código Civil (Lei nº 10.406/2002)."
+  },
+  {
+    "id": "bens-publicos-fc-02",
+    "topicoId": "bens-publicos",
+    "topico": "Bens públicos",
+    "dificuldade": "dificil",
+    "enunciado": "Particular ocupa, sem qualquer título jurídico, área pertencente ao patrimônio de município e nela edifica benfeitorias. Nessa situação, a ocupação configura mera detenção, de natureza precária, razão pela qual o ocupante não faz jus a indenização pelas acessões e benfeitorias realizadas nem ao direito de retenção.",
+    "gabarito": "C",
+    "justificativa": "O item reproduz com precisão o entendimento consolidado do Superior Tribunal de Justiça: a ocupação de bem público não gera posse, mas simples detenção, insuscetível de gerar os efeitos possessórios de indenização por benfeitorias e de retenção. É a exata dicção da Súmula 619 do STJ, coerente com a imprescritibilidade dos bens públicos (art. 102 do Código Civil).",
+    "fundamentacaoLegal": "Súmula 619 do STJ; art. 102 do Código Civil; arts. 1.196 e 1.219 do Código Civil (a contrario sensu)."
+  },
+  {
+    "id": "bens-publicos-fc-03",
+    "topicoId": "bens-publicos",
+    "topico": "Bens públicos",
+    "dificuldade": "dificil",
+    "enunciado": "Terrenos de marinha são os situados em uma profundidade de trinta e três metros, medidos horizontalmente em direção ao mar, a partir da posição da linha do preamar médio do ano de 1831, e constituem bens públicos dominicais da União.",
+    "gabarito": "E",
+    "justificativa": "O erro está na direção da medição. O art. 2º do Decreto-Lei nº 9.760/1946 estabelece que os trinta e três metros são medidos horizontalmente 'para a parte da terra', e não em direção ao mar, contados da posição da linha do preamar médio de 1831. As demais partes do item estão corretas (são bens da União, na forma do art. 20, VII, da CF/88, classificados como dominicais).",
+    "fundamentacaoLegal": "Art. 2º do Decreto-Lei nº 9.760/1946; art. 20, VII, da CF/88; art. 99, III, do Código Civil."
+  },
+  {
+    "id": "bens-publicos-fc-04",
+    "topicoId": "bens-publicos",
+    "topico": "Bens públicos",
+    "dificuldade": "dificil",
+    "enunciado": "Em razão da impenhorabilidade dos bens públicos, o crédito reconhecido em sentença judicial transitada em julgado contra a fazenda pública municipal é satisfeito pelo regime de precatórios, admitido o sequestro da quantia necessária à satisfação do débito apenas nas hipóteses de preterição do direito de precedência ou de não alocação orçamentária do valor necessário ao pagamento.",
+    "gabarito": "C",
+    "justificativa": "O item está correto e combina duas regras. A impenhorabilidade decorre do regime jurídico dos bens públicos, que não se submetem a penhora, arresto ou sequestro como meio ordinário de execução, o que justifica o sistema constitucional de precatórios do art. 100 da CF/88. O sequestro é medida excepcional, autorizada pelo art. 100, § 6º, da CF/88 exatamente nos casos de preterição do direito de precedência e de não alocação orçamentária do valor necessário à satisfação do débito.",
+    "fundamentacaoLegal": "Art. 100, caput e § 6º, da CF/88; art. 833, I, do CPC/2015; art. 100 do Código Civil."
+  },
+  {
+    "id": "bens-publicos-fc-05",
+    "topicoId": "bens-publicos",
+    "topico": "Bens públicos",
+    "dificuldade": "dificil",
+    "enunciado": "A autorização de uso de bem público é ato administrativo unilateral, discricionário e precário, editado no interesse predominante do particular, ao passo que a concessão de uso de bem público tem natureza contratual, é conferida com maior estabilidade e depende, em regra, de prévia licitação.",
+    "gabarito": "C",
+    "justificativa": "O item reproduz corretamente a distinção consolidada na doutrina administrativista (Di Pietro, Carvalho Filho, Bandeira de Mello) entre as formas de uso privativo de bem público por particular: a autorização de uso é ato unilateral, discricionário e precário, conferido no interesse predominantemente privado; a permissão de uso é também ato unilateral, mas no interesse predominantemente público; e a concessão de uso é contrato administrativo, dotado de maior estabilidade e submetido, como regra, ao dever de licitar.",
+    "fundamentacaoLegal": "Doutrina consolidada (Di Pietro; Carvalho Filho; Bandeira de Mello); art. 37, XXI, da CF/88; art. 2º da Lei nº 14.133/2021."
+  },
+  {
+    "id": "bens-publicos-fc-06",
+    "topicoId": "bens-publicos",
+    "topico": "Bens públicos",
+    "dificuldade": "dificil",
+    "enunciado": "Os bens públicos dominicais, por não estarem afetados a finalidade pública específica, podem ser adquiridos por usucapião extraordinária, desde que a posse do particular seja mansa, pacífica e ininterrupta por mais de quinze anos.",
+    "gabarito": "E",
+    "justificativa": "O item inverte a regra ao generalizar a ausência de afetação como se ela afastasse a imprescritibilidade. O art. 102 do Código Civil é categórico: 'os bens públicos não estão sujeitos a usucapião', sem distinguir entre afetados e dominicais. No mesmo sentido, a Súmula 340 do STF ('Desde a vigência do Código Civil, os bens dominicais, como os demais bens públicos, não podem ser adquiridos por usucapião') e os arts. 183, § 3º, e 191, parágrafo único, da CF/88, que vedam a usucapião de imóveis públicos urbanos e rurais.",
+    "fundamentacaoLegal": "Art. 102 do Código Civil; Súmula 340 do STF; arts. 183, § 3º, e 191, parágrafo único, da CF/88."
+  },
+  {
+    "id": "bens-publicos-fc-07",
+    "topicoId": "bens-publicos",
+    "topico": "Bens públicos",
+    "dificuldade": "dificil",
+    "enunciado": "Os bens integrantes do patrimônio de sociedade de economia mista exploradora de atividade econômica em regime de concorrência submetem-se à impenhorabilidade própria dos bens públicos, por pertencerem a entidade da administração pública indireta.",
+    "gabarito": "E",
+    "justificativa": "O item é errado por estender indevidamente atributo dos bens públicos a bens privados. As sociedades de economia mista exploradoras de atividade econômica sujeitam-se ao regime jurídico próprio das empresas privadas, inclusive quanto aos direitos e obrigações civis (art. 173, § 1º, II, da CF/88), de sorte que seus bens são penhoráveis. A exceção reconhecida pela jurisprudência do STF alcança apenas os bens de empresas estatais prestadoras de serviço público em regime de exclusividade e afetados à prestação desse serviço — situação diversa da descrita no item.",
+    "fundamentacaoLegal": "Art. 173, § 1º, II, da CF/88; art. 98 do Código Civil; jurisprudência do STF sobre impenhorabilidade de bens afetados a serviço público prestado por estatal."
+  },
+  {
+    "id": "bens-publicos-fc-08",
+    "topicoId": "bens-publicos",
+    "topico": "Bens públicos",
+    "dificuldade": "dificil",
+    "enunciado": "A alienação de bem imóvel integrante do patrimônio de autarquia municipal, além de subordinada à existência de interesse público devidamente justificado, depende de avaliação prévia, de autorização legislativa e de licitação na modalidade leilão, ressalvadas as hipóteses legais de dispensa.",
+    "gabarito": "C",
+    "justificativa": "O item está correto. A Lei nº 14.133/2021, no art. 76, I, condiciona a alienação de bens imóveis da administração pública direta e das entidades autárquicas e fundacionais à existência de interesse público justificado, à avaliação prévia, à autorização legislativa e à licitação na modalidade leilão, ressalvadas as hipóteses de dispensa arroladas nas alíneas do próprio inciso. A exigência de autorização legislativa é justamente o traço que distingue o regime das autarquias do das estatais.",
+    "fundamentacaoLegal": "Art. 76, I, da Lei nº 14.133/2021; art. 101 do Código Civil."
+  },
+  {
+    "id": "bens-publicos-fc-09",
+    "topicoId": "bens-publicos",
+    "topico": "Bens públicos",
+    "dificuldade": "dificil",
+    "enunciado": "A desafetação de bem público de uso comum do povo somente pode ocorrer por lei em sentido formal, sendo juridicamente impossível que se opere por ato administrativo autorizado em lei ou por fato jurídico da natureza.",
+    "gabarito": "E",
+    "justificativa": "O erro está na exclusividade atribuída à lei formal. A doutrina majoritária (Di Pietro, Carvalho Filho, Rafael Oliveira) admite que a desafetação se dê por lei, por ato administrativo praticado com fundamento em autorização legal e, ainda, por fato jurídico — como o desmoronamento ou o incêndio que inutiliza a praça ou o edifício público, retirando-lhe a destinação pública. Ao afirmar ser 'juridicamente impossível' qualquer via distinta da lei formal, o item generaliza indevidamente posição minoritária e contraria o entendimento predominante.",
+    "fundamentacaoLegal": "Arts. 99 e 100 do Código Civil; doutrina consolidada sobre afetação e desafetação (Di Pietro; Carvalho Filho; Rafael Oliveira)."
+  },
+  {
+    "id": "bens-publicos-fc-10",
+    "topicoId": "bens-publicos",
+    "topico": "Bens públicos",
+    "dificuldade": "dificil",
+    "enunciado": "Os bens públicos não podem ser gravados com direitos reais de garantia, como a hipoteca e o penhor, característica designada pela doutrina como não onerabilidade, a qual decorre logicamente da impenhorabilidade, pois a garantia real seria inócua diante da impossibilidade de excussão judicial do bem.",
+    "gabarito": "C",
+    "justificativa": "O item está correto tanto na afirmação quanto no nexo lógico que estabelece. A não onerabilidade (ou impossibilidade de oneração) é atributo reconhecido pela doutrina aos bens públicos e é consequência direta da impenhorabilidade: como os direitos reais de garantia se realizam pela excussão do bem em juízo, e os bens públicos não se sujeitam a penhora, a garantia real careceria de utilidade prática. A execução contra a fazenda pública segue o rito próprio do art. 100 da CF/88.",
+    "fundamentacaoLegal": "Arts. 100 e 1.420 do Código Civil; art. 100 da CF/88; doutrina consolidada sobre os atributos dos bens públicos."
+  }
+]

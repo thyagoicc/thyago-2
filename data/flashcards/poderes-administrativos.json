@@ -1,0 +1,102 @@
+[
+  {
+    "id": "poderes-administrativos-fc-01",
+    "topicoId": "poderes-administrativos",
+    "topico": "Poderes administrativos",
+    "dificuldade": "dificil",
+    "enunciado": "Segundo tese firmada pelo STF em repercussão geral, é constitucional a delegação do poder de polícia, por meio de lei, a pessoas jurídicas de direito privado integrantes da Administração Pública indireta de capital social majoritariamente público que prestem exclusivamente serviço público de atuação própria do Estado em regime não concorrencial, excluída dessa delegação a competência para a edição de atos normativos.",
+    "gabarito": "C",
+    "justificativa": "Item correto e fiel à tese do Tema 532 da repercussão geral (RE 633.782/MG). O STF superou a leitura de que apenas o consentimento e a fiscalização seriam delegáveis, admitindo a delegação também da sanção de polícia, mas cercou a hipótese de requisitos cumulativos: autorização legal, entidade da Administração indireta de direito privado, capital social majoritariamente público, prestação exclusiva de serviço público de atuação própria do Estado e regime não concorrencial. A tese ressalva expressamente que se exclui do âmbito da delegação a competência para a edição de atos normativos (ordem de polícia), reservada a entes de direito público.",
+    "fundamentacaoLegal": "STF, RE 633.782/MG, Tema 532 da repercussão geral; CF/88, art. 37, caput, e art. 5º, II."
+  },
+  {
+    "id": "poderes-administrativos-fc-02",
+    "topicoId": "poderes-administrativos",
+    "topico": "Poderes administrativos",
+    "dificuldade": "dificil",
+    "enunciado": "O decreto autônomo previsto na Constituição Federal autoriza o chefe do Poder Executivo a dispor sobre a organização e o funcionamento da administração pública, inclusive para criar e extinguir órgãos públicos, desde que não haja aumento de despesa.",
+    "gabarito": "E",
+    "justificativa": "O item amplia indevidamente o alcance do decreto autônomo. O art. 84, VI, 'a', da CF/88, com a redação da EC nº 32/2001, permite dispor mediante decreto sobre organização e funcionamento da administração 'quando não implicar aumento de despesa nem criação ou extinção de órgãos públicos'. A criação e a extinção de órgãos dependem de lei (art. 48, XI, da CF/88), e não de decreto. A única hipótese de supressão por decreto está na alínea 'b' do mesmo inciso, restrita à extinção de funções ou cargos públicos quando vagos — o que não se confunde com órgãos.",
+    "fundamentacaoLegal": "CF/88, art. 84, VI, alíneas 'a' e 'b', com a redação da EC nº 32/2001; art. 48, XI; art. 88."
+  },
+  {
+    "id": "poderes-administrativos-fc-03",
+    "topicoId": "poderes-administrativos",
+    "topico": "Poderes administrativos",
+    "dificuldade": "dificil",
+    "enunciado": "A avocação de competência é decorrência natural do poder hierárquico e pode ser determinada pelo superior a qualquer tempo, inclusive quanto a competências exclusivas do órgão subordinado, bastando que se dê em caráter temporário.",
+    "gabarito": "E",
+    "justificativa": "Dois trechos tornam o item falso. O art. 15 da Lei nº 9.784/1999 admite a avocação apenas 'em caráter excepcional e por motivos relevantes devidamente justificados', o que afasta a possibilidade de exercê-la 'a qualquer tempo' como decorrência automática da hierarquia. Além disso, a competência exclusiva atribuída por lei a determinado órgão é insuscetível de avocação, tal como é indelegável (art. 13, III), pois a exclusividade legal exclui a disponibilidade da competência pelo superior. A temporariedade é requisito necessário, mas não suficiente.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, arts. 11, 13, III, e 15."
+  },
+  {
+    "id": "poderes-administrativos-fc-04",
+    "topicoId": "poderes-administrativos",
+    "topico": "Poderes administrativos",
+    "dificuldade": "dificil",
+    "enunciado": "A sanção aplicada a particular que mantém vínculo jurídico específico com a Administração, como o contratado inadimplente, decorre do poder disciplinar, ao passo que a multa imposta ao administrado em geral por infração às normas de posturas municipais funda-se no poder de polícia.",
+    "gabarito": "C",
+    "justificativa": "Item correto. O poder disciplinar tem por destinatários os agentes públicos e também os particulares submetidos a vínculo jurídico específico com a Administração (contratados, permissionários, alunos de estabelecimento público), incidindo sobre a chamada supremacia especial. O poder de polícia, por sua vez, dirige-se à generalidade dos administrados, com base na supremacia geral, condicionando o exercício de direitos e atividades em favor do interesse coletivo. A distinção entre supremacia geral e especial é justamente o critério doutrinário que separa os dois poderes.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, arts. 155 e 156 (sanções ao contratado); CTN, art. 78 (conceito legal de poder de polícia); doutrina consolidada (Celso Antônio Bandeira de Mello, sobre supremacia geral e especial; Maria Sylvia Zanella Di Pietro)."
+  },
+  {
+    "id": "poderes-administrativos-fc-05",
+    "topicoId": "poderes-administrativos",
+    "topico": "Poderes administrativos",
+    "dificuldade": "dificil",
+    "enunciado": "Em razão do poder hierárquico, o ministério ou a secretaria a que se vincula determinada autarquia pode rever de ofício, a qualquer tempo, os atos praticados pela entidade, uma vez que a vinculação administrativa configura relação de subordinação atenuada.",
+    "gabarito": "E",
+    "justificativa": "O erro está na premissa: não há hierarquia entre a Administração direta e as entidades da Administração indireta. Autarquias, fundações, empresas públicas e sociedades de economia mista possuem personalidade jurídica própria e a elas se vinculam — não se subordinam — os órgãos supervisores. O que existe é controle finalístico (tutela administrativa ou supervisão ministerial), de exercício limitado às hipóteses e finalidades previstas em lei. Por consequência, o recurso hierárquico impróprio, dirigido a órgão estranho à estrutura da entidade, só cabe quando houver expressa previsão legal, não decorrendo automaticamente da vinculação.",
+    "fundamentacaoLegal": "Decreto-Lei nº 200/1967, arts. 19 e 26 (supervisão ministerial); Lei nº 9.784/1999, art. 56, § 1º; doutrina consolidada sobre controle finalístico (Maria Sylvia Zanella Di Pietro; José dos Santos Carvalho Filho)."
+  },
+  {
+    "id": "poderes-administrativos-fc-06",
+    "topicoId": "poderes-administrativos",
+    "topico": "Poderes administrativos",
+    "dificuldade": "dificil",
+    "enunciado": "Nos termos da Lei da Ação Popular, o desvio de finalidade se verifica quando o agente pratica o ato visando a fim diverso daquele previsto, explícita ou implicitamente, na regra de competência, de modo que há vício mesmo quando o agente persegue um interesse público estranho à finalidade específica prevista em lei para aquele ato.",
+    "gabarito": "C",
+    "justificativa": "Item correto. O art. 2º, parágrafo único, alínea 'e', da Lei nº 4.717/1965 conceitua o desvio de finalidade exatamente nesses termos, e o art. 2º, 'e', do mesmo diploma o arrola como causa de nulidade do ato lesivo. A parte final do item traduz a distinção doutrinária entre finalidade em sentido amplo (o interesse público genérico) e finalidade em sentido estrito (o resultado específico que a lei atribui àquele ato): há desvio de poder tanto quando o agente persegue interesse privado quanto quando persegue interesse público diverso do fim específico do ato — como na remoção de servidor usada com caráter punitivo.",
+    "fundamentacaoLegal": "Lei nº 4.717/1965, art. 2º, alínea 'e', e parágrafo único, alínea 'e'; doutrina consolidada (Celso Antônio Bandeira de Mello; Maria Sylvia Zanella Di Pietro)."
+  },
+  {
+    "id": "poderes-administrativos-fc-07",
+    "topicoId": "poderes-administrativos",
+    "topico": "Poderes administrativos",
+    "dificuldade": "dificil",
+    "enunciado": "O controle dos atos normativos do Poder Executivo que exorbitem do poder regulamentar é exercido exclusivamente pelo Poder Judiciário, por meio de ação direta de inconstitucionalidade, dada a natureza infralegal do regulamento.",
+    "gabarito": "E",
+    "justificativa": "O item erra ao afirmar exclusividade do controle judicial e ao indicar via inadequada. Em primeiro lugar, o art. 49, V, da CF/88 atribui ao Congresso Nacional a competência exclusiva de sustar os atos normativos do Poder Executivo que exorbitem do poder regulamentar ou dos limites de delegação legislativa — trata-se de controle político, com simetria nas demais esferas federativas. Em segundo lugar, o regulamento que extrapola a lei incorre em crise de legalidade, e não de constitucionalidade, não sendo, em regra, objeto idôneo de ADI; a exceção fica por conta do decreto autônomo, que retira fundamento direto da Constituição.",
+    "fundamentacaoLegal": "CF/88, art. 49, V, e art. 84, IV e VI; jurisprudência do STF sobre o não cabimento de ADI contra ato regulamentar secundário (crise de legalidade)."
+  },
+  {
+    "id": "poderes-administrativos-fc-08",
+    "topicoId": "poderes-administrativos",
+    "topico": "Poderes administrativos",
+    "dificuldade": "dificil",
+    "enunciado": "A discricionariedade administrativa pode decorrer do emprego, pelo legislador, de conceitos jurídicos indeterminados; ainda assim, a densificação desses conceitos no caso concreto permanece sujeita a controle judicial de legalidade nas zonas de certeza positiva e negativa, remanescendo margem de apreciação administrativa apenas na zona de penumbra.",
+    "gabarito": "C",
+    "justificativa": "Item correto e alinhado à doutrina majoritária. Conceitos como 'notório saber', 'interesse público', 'boa-fé' e 'urgência' comportam, em suas bordas, apreciação valorativa da Administração, o que constitui uma das fontes da discricionariedade. Contudo, a técnica das zonas de certeza — positiva (situações que induvidosamente se enquadram no conceito) e negativa (as que induvidosamente não se enquadram) — permite ao Judiciário aferir a legalidade da subsunção sem invadir o mérito; a insindicabilidade limita-se à zona intermediária de incerteza. Trata-se de aplicação sistemática dos princípios da legalidade, da razoabilidade e da inafastabilidade da jurisdição.",
+    "fundamentacaoLegal": "CF/88, art. 5º, XXXV, e art. 37, caput; Lei nº 9.784/1999, art. 2º, parágrafo único, VI; doutrina consolidada (Celso Antônio Bandeira de Mello, 'Discricionariedade e controle jurisdicional'; Maria Sylvia Zanella Di Pietro)."
+  },
+  {
+    "id": "poderes-administrativos-fc-09",
+    "topicoId": "poderes-administrativos",
+    "topico": "Poderes administrativos",
+    "dificuldade": "dificil",
+    "enunciado": "O poder disciplinar é integralmente discricionário, cabendo à autoridade competente avaliar a conveniência e a oportunidade tanto da apuração da falta funcional de que tenha ciência quanto da aplicação, ou não, da penalidade cabível.",
+    "gabarito": "E",
+    "justificativa": "O erro está no advérbio 'integralmente' e na afirmação de que a apuração é discricionária. Tomando-se como parâmetro o regime estatutário, a autoridade que tiver ciência de irregularidade no serviço público é obrigada a promover sua apuração imediata, mediante sindicância ou processo administrativo disciplinar, sob pena de responder por condescendência criminosa e por infração funcional. Da mesma forma, comprovada a falta em processo regular, a aplicação da penalidade é dever, e não faculdade. A discricionariedade do poder disciplinar restringe-se, quando a lei o permite, à gradação e à dosimetria da sanção, considerados a natureza e a gravidade da infração, os danos causados, os antecedentes e as circunstâncias.",
+    "fundamentacaoLegal": "Lei nº 8.112/1990, arts. 128, 143 e 148 (parâmetro para regimes estatutários municipais); Código Penal, art. 320 (condescendência criminosa); CF/88, art. 37, caput."
+  },
+  {
+    "id": "poderes-administrativos-fc-10",
+    "topicoId": "poderes-administrativos",
+    "topico": "Poderes administrativos",
+    "dificuldade": "dificil",
+    "enunciado": "Embora a discricionariedade seja atributo comumente associado ao poder de polícia, existem atos de polícia vinculados, como a licença para construir concedida a quem preenche integralmente os requisitos da legislação urbanística, hipótese em que não há juízo de conveniência e oportunidade quanto ao deferimento.",
+    "gabarito": "C",
+    "justificativa": "Item correto. A doutrina aponta a discricionariedade como atributo típico — porém não invariável — do poder de polícia, ao lado da autoexecutoriedade e da coercibilidade, que igualmente comportam exceções. A licença é o exemplo consagrado de ato de polícia vinculado: satisfeitos os requisitos legais, o particular tem direito subjetivo à sua expedição, cabendo à Administração apenas verificar o preenchimento das exigências normativas, sem espaço para valoração de conveniência e oportunidade. Reconhecer essa exceção é justamente o que distingue a licença da autorização, esta discricionária e precária.",
+    "fundamentacaoLegal": "CTN, art. 78 (conceito de poder de polícia); Lei nº 10.257/2001 (Estatuto da Cidade) e legislação urbanística municipal; doutrina consolidada sobre atributos do poder de polícia (Maria Sylvia Zanella Di Pietro; José dos Santos Carvalho Filho)."
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "id": "organizacao-administrativa-fc-01",
+    "topicoId": "organizacao-administrativa",
+    "topico": "Organização administrativa",
+    "dificuldade": "dificil",
+    "enunciado": "A desconcentração administrativa pressupõe a criação de pessoa jurídica distinta do ente central e submete-se a controle finalístico, ao passo que a descentralização opera no interior de uma mesma pessoa jurídica, mediante distribuição interna de competências; por essa razão, a relação entre a União e uma autarquia federal é de subordinação hierárquica.",
+    "gabarito": "E",
+    "justificativa": "O item inverte integralmente os conceitos e, em consequência, erra a natureza do vínculo. A desconcentração é a distribuição interna de competências dentro de uma mesma pessoa jurídica, gerando relação de hierarquia entre os órgãos. A descentralização é a transferência de atribuições para pessoa jurídica distinta (outorga por lei ou delegação por contrato), submetida a controle finalístico, tutela ou supervisão ministerial, e não a hierarquia. Logo, entre a União e uma autarquia federal há vinculação, e não subordinação.",
+    "fundamentacaoLegal": "Decreto-Lei nº 200/1967, arts. 6º, 10 e 19 a 26; CF/88, art. 37, XIX; doutrina (Maria Sylvia Zanella Di Pietro; Celso Antônio Bandeira de Mello)."
+  },
+  {
+    "id": "organizacao-administrativa-fc-02",
+    "topicoId": "organizacao-administrativa",
+    "topico": "Organização administrativa",
+    "dificuldade": "dificil",
+    "enunciado": "O consórcio público adquirirá personalidade jurídica de direito público, quando constituir associação pública, mediante a vigência das leis de ratificação do protocolo de intenções, ou de direito privado, mediante o atendimento dos requisitos da legislação civil; no segundo caso, observará as normas de direito público no que concerne à realização de licitação, à celebração de contratos, à prestação de contas e à admissão de pessoal, que será regido pela Consolidação das Leis do Trabalho.",
+    "gabarito": "C",
+    "justificativa": "Item correto, pois reproduz o art. 6º, I e II, e o § 2º da Lei nº 11.107/2005. Merece destaque o regime híbrido do consórcio de direito privado: embora dotado de personalidade jurídica de direito privado, permanece submetido a normas publicísticas quanto a licitação, contratos, prestação de contas e admissão de pessoal, que se dá pelo regime celetista. O consórcio constituído como associação pública, por sua vez, integra a administração indireta de todos os entes consorciados, na forma do art. 6º, § 1º, da mesma lei.",
+    "fundamentacaoLegal": "Lei nº 11.107/2005, art. 6º, I e II, §§ 1º e 2º; CF/88, art. 241; Código Civil, art. 41, IV."
+  },
+  {
+    "id": "organizacao-administrativa-fc-03",
+    "topicoId": "organizacao-administrativa",
+    "topico": "Organização administrativa",
+    "dificuldade": "dificil",
+    "enunciado": "A qualificação de pessoa jurídica de direito privado sem fins lucrativos como organização social constitui ato vinculado do Poder Executivo, ao passo que a qualificação como organização da sociedade civil de interesse público (OSCIP) constitui ato discricionário; em ambos os casos, a celebração do respectivo instrumento de parceria dispensa a realização de qualquer procedimento seletivo prévio.",
+    "gabarito": "E",
+    "justificativa": "O item inverte o regime das duas qualificações e ainda erra quanto à seleção. A qualificação como organização social é ato discricionário, pois o art. 2º, II, da Lei nº 9.637/1998 exige aprovação quanto à conveniência e oportunidade da qualificação; já a qualificação como OSCIP é ato vinculado, deferido a toda entidade que preencha os requisitos legais (Lei nº 9.790/1999). Além disso, o STF, no julgamento da ADI 1.923, conferiu interpretação conforme para exigir procedimento público, objetivo e impessoal tanto na qualificação quanto na celebração do contrato de gestão.",
+    "fundamentacaoLegal": "Lei nº 9.637/1998, arts. 1º e 2º, II; Lei nº 9.790/1999, arts. 1º e 6º; STF, ADI 1.923."
+  },
+  {
+    "id": "organizacao-administrativa-fc-04",
+    "topicoId": "organizacao-administrativa",
+    "topico": "Organização administrativa",
+    "dificuldade": "dificil",
+    "enunciado": "Sujeitam-se ao regime da Lei nº 13.303/2016 as empresas públicas e as sociedades de economia mista que explorem atividade econômica de produção ou comercialização de bens ou de prestação de serviços, ainda que a atividade econômica esteja sujeita ao regime de monopólio da União ou seja de prestação de serviços públicos; a sociedade de economia mista somente pode ser constituída sob a forma de sociedade anônima, ao passo que a empresa pública admite qualquer das formas societárias em direito admitidas.",
+    "gabarito": "C",
+    "justificativa": "Item correto em ambas as partes. O art. 1º da Lei nº 13.303/2016 delimita seu âmbito de incidência abrangendo as estatais exploradoras de atividade econômica, inclusive as submetidas a monopólio da União e as prestadoras de serviços públicos. Quanto à forma societária, o art. 5º da mesma lei impõe à sociedade de economia mista a forma de sociedade anônima, com ações com direito a voto majoritariamente pertencentes ao ente controlador; a empresa pública, de capital exclusivamente público, pode revestir qualquer forma societária admitida em direito, conforme a definição clássica do art. 5º, II, do Decreto-Lei nº 200/1967.",
+    "fundamentacaoLegal": "Lei nº 13.303/2016, arts. 1º, 3º e 5º; Decreto-Lei nº 200/1967, art. 5º, II e III; CF/88, art. 37, XIX."
+  },
+  {
+    "id": "organizacao-administrativa-fc-05",
+    "topicoId": "organizacao-administrativa",
+    "topico": "Organização administrativa",
+    "dificuldade": "dificil",
+    "enunciado": "Segundo entendimento consolidado do Supremo Tribunal Federal, as fundações instituídas pelo poder público podem ser dotadas de personalidade jurídica de direito público, hipótese em que se qualificam como espécie do gênero autarquia, ou de personalidade jurídica de direito privado; no primeiro caso, sua instituição opera-se diretamente pela lei específica que a cria, ao passo que, no segundo, a lei apenas autoriza a instituição, que se completa com o registro dos atos constitutivos.",
+    "gabarito": "C",
+    "justificativa": "Item correto. O STF, desde o RE 101.126, firmou que a natureza jurídica da fundação instituída pelo poder público depende do regime que a lei lhe atribui, admitindo-se as fundações públicas de direito público, verdadeiras autarquias fundacionais, e as fundações públicas de direito privado. A distinção repercute no modo de instituição: nos termos do art. 37, XIX, da CF, a autarquia (e, portanto, a fundação autárquica) é criada diretamente por lei específica, enquanto para a fundação de direito privado a lei apenas autoriza a instituição, exigindo-se o registro dos atos constitutivos para aquisição da personalidade.",
+    "fundamentacaoLegal": "CF/88, art. 37, XIX; Código Civil, arts. 41, IV e V, e 45; STF, RE 101.126."
+  },
+  {
+    "id": "organizacao-administrativa-fc-06",
+    "topicoId": "organizacao-administrativa",
+    "topico": "Organização administrativa",
+    "dificuldade": "dificil",
+    "enunciado": "Por integrarem a Administração indireta e prestarem serviço público, as empresas públicas prestadoras de serviço público submetem-se, sem exceção, ao regime de precatórios previsto no art. 100 da Constituição Federal e à imunidade tributária recíproca do art. 150, VI, a, da Constituição Federal.",
+    "gabarito": "E",
+    "justificativa": "O erro está na expressão sem exceção, que generaliza indevidamente uma extensão jurisprudencial condicionada. O STF estendeu o regime de precatórios e a imunidade recíproca a determinadas estatais prestadoras de serviço público, como a Empresa Brasileira de Correios e Telégrafos, mas condicionou o benefício ao preenchimento de requisitos: prestação de serviço público em regime de exclusividade ou sem concorrência efetiva, ausência de finalidade primordialmente lucrativa e não distribuição de lucros a acionistas privados. Estatais que atuam em regime concorrencial ou com capital negociado no mercado não fazem jus a tais prerrogativas.",
+    "fundamentacaoLegal": "CF/88, arts. 100, 150, VI, a e § 3º, e 173, § 2º; jurisprudência do STF (regime da ECT)."
+  },
+  {
+    "id": "organizacao-administrativa-fc-07",
+    "topicoId": "organizacao-administrativa",
+    "topico": "Organização administrativa",
+    "dificuldade": "dificil",
+    "enunciado": "Os entes consorciados somente entregarão recursos ao consórcio público mediante contrato de rateio, formalizado em cada exercício financeiro e com prazo de vigência não superior ao das dotações que o suportam, excetuados os contratos que tenham por objeto exclusivamente projetos consistentes em programas e ações contemplados em plano plurianual ou a gestão associada de serviços públicos custeados por tarifas ou outros preços públicos.",
+    "gabarito": "C",
+    "justificativa": "Item correto, por reproduzir fielmente o art. 8º, caput e § 1º, da Lei nº 11.107/2005. A anualidade do contrato de rateio é técnica de proteção do princípio orçamentário, e a lei prevê expressamente duas exceções à limitação temporal: os contratos relativos a programas e ações contemplados em plano plurianual e a gestão associada de serviços públicos custeados por tarifas ou outros preços públicos. O § 2º do mesmo artigo veda a aplicação dos recursos entregues por meio de contrato de rateio para o atendimento de despesas genéricas, inclusive transferências ou operações de crédito.",
+    "fundamentacaoLegal": "Lei nº 11.107/2005, art. 8º, caput e §§ 1º e 2º; CF/88, art. 241."
+  },
+  {
+    "id": "organizacao-administrativa-fc-08",
+    "topicoId": "organizacao-administrativa",
+    "topico": "Organização administrativa",
+    "dificuldade": "dificil",
+    "enunciado": "A União, os estados, o Distrito Federal e os municípios disciplinarão por meio de lei os consórcios públicos e os convênios de cooperação entre os entes federados, autorizando a gestão associada de serviços públicos; tais instrumentos, entretanto, não admitem a transferência total ou parcial de encargos, serviços, pessoal e bens essenciais à continuidade dos serviços transferidos.",
+    "gabarito": "E",
+    "justificativa": "A parte final contraria a literalidade do art. 241 da CF, na redação dada pela EC nº 19/1998, que expressamente prevê que a gestão associada de serviços públicos autoriza a transferência total ou parcial de encargos, serviços, pessoal e bens essenciais à continuidade dos serviços transferidos. Essa transferência é justamente o núcleo da gestão associada, viabilizada, no plano infraconstitucional, pelo contrato de programa disciplinado no art. 13 da Lei nº 11.107/2005.",
+    "fundamentacaoLegal": "CF/88, art. 241 (redação da EC nº 19/1998); Lei nº 11.107/2005, art. 13."
+  },
+  {
+    "id": "organizacao-administrativa-fc-09",
+    "topicoId": "organizacao-administrativa",
+    "topico": "Organização administrativa",
+    "dificuldade": "dificil",
+    "enunciado": "As agências reguladoras são autarquias submetidas a regime especial, caracterizado, entre outros aspectos, pela investidura de seus dirigentes em mandatos com prazo fixo, cuja perda somente pode ocorrer nas hipóteses previstas em lei; nesse contexto, o Supremo Tribunal Federal já assentou a inconstitucionalidade de norma estadual que condicione a exoneração de dirigente de agência reguladora à prévia anuência da Assembleia Legislativa.",
+    "gabarito": "C",
+    "justificativa": "Item correto. A autonomia reforçada das agências reguladoras manifesta-se na estabilidade dos dirigentes, com mandatos fixos e perda restrita às hipóteses legais, hoje uniformizada pelo art. 9º da Lei nº 13.848/2019 no âmbito federal. Quanto à segunda parte, o STF, no julgamento da ADI 1.949, declarou inconstitucional dispositivo de lei do Rio Grande do Sul que exigia prévia aprovação da Assembleia Legislativa para a destituição de dirigentes de agência reguladora estadual, por violação ao princípio da separação de poderes, já que a Constituição prevê participação legislativa apenas na nomeação, e não na exoneração.",
+    "fundamentacaoLegal": "CF/88, arts. 2º, 52, III, f, e 84, XIV; Lei nº 13.848/2019, arts. 6º a 9º; STF, ADI 1.949."
+  },
+  {
+    "id": "organizacao-administrativa-fc-10",
+    "topicoId": "organizacao-administrativa",
+    "topico": "Organização administrativa",
+    "dificuldade": "dificil",
+    "enunciado": "Somente por lei específica poderá ser criada autarquia e autorizada a instituição de empresa pública, de sociedade de economia mista e de fundação; pelo mesmo fundamento, a criação de cada subsidiária dessas entidades depende de lei específica autorizadora, sendo insuficiente autorização genérica constante da lei instituidora da estatal-mãe.",
+    "gabarito": "E",
+    "justificativa": "A primeira oração reproduz corretamente o art. 37, XIX, da CF, mas a conclusão é falsa. O art. 37, XX, da CF exige autorização legislativa para a criação de subsidiárias, e o STF, no julgamento da ADI 1.649, firmou que essa exigência é satisfeita por autorização genérica constante da própria lei que criou ou autorizou a criação da entidade matriz, sendo dispensável lei específica para cada subsidiária. O item, portanto, transpõe indevidamente para o inciso XX a exigência de especificidade que a Constituição faz apenas no inciso XIX.",
+    "fundamentacaoLegal": "CF/88, art. 37, XIX e XX; STF, ADI 1.649."
+  }
+]

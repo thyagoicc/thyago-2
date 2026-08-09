@@ -1,0 +1,102 @@
+[
+  {
+    "id": "orgaos-publicos-fc-01",
+    "topicoId": "orgaos-publicos",
+    "topico": "Órgãos públicos e teoria do órgão",
+    "dificuldade": "dificil",
+    "enunciado": "Na classificação dos órgãos públicos quanto à posição estatal, proposta por Hely Lopes Meirelles, são independentes os órgãos que, situados na cúpula da estrutura administrativa, encontram-se diretamente subordinados aos chefes dos Poderes, como os ministérios e as secretarias estaduais e municipais.",
+    "gabarito": "E",
+    "justificativa": "O item descreve os órgãos AUTÔNOMOS e os rotula como independentes. Segundo Hely Lopes Meirelles, órgãos independentes são os originários da Constituição, representativos dos Poderes do Estado, sem qualquer subordinação hierárquica ou funcional, como a Presidência da República, o Congresso Nacional, os tribunais, o Ministério Público e os Tribunais de Contas. Os ministérios e as secretarias estaduais e municipais são órgãos autônomos: situam-se na cúpula da Administração, gozam de autonomia administrativa, financeira e técnica, mas são subordinados aos chefes dos Poderes.",
+    "fundamentacaoLegal": "Doutrina (Hely Lopes Meirelles, Direito Administrativo Brasileiro, classificação dos órgãos quanto à posição estatal); CF/88, arts. 76, 84 e 87."
+  },
+  {
+    "id": "orgaos-publicos-fc-02",
+    "topicoId": "orgaos-publicos",
+    "topico": "Órgãos públicos e teoria do órgão",
+    "dificuldade": "dificil",
+    "enunciado": "Pela teoria do órgão, de matriz germânica, a manifestação de vontade do agente público é imputada diretamente à pessoa jurídica de que faz parte o órgão, dispensando-se a ideia de mandato ou de representação; essa construção fundamenta o reconhecimento de validade aos atos praticados por funcionário de fato, desde que haja aparência de legalidade na investidura e boa-fé do administrado.",
+    "gabarito": "C",
+    "justificativa": "Item correto. A teoria do órgão, ou da imputação volitiva, formulada por Otto Gierke, supera as teorias do mandato e da representação ao sustentar que a vontade manifestada pelo agente, no exercício da competência do órgão, é juridicamente a vontade da própria pessoa jurídica. Uma de suas consequências práticas mais relevantes é a convalidação dos atos do funcionário de fato, cuja investidura é irregular mas revestida de aparência de legalidade: em nome da boa-fé do administrado, da segurança jurídica e da teoria da aparência, tais atos são reputados válidos perante terceiros.",
+    "fundamentacaoLegal": "Doutrina (Otto Gierke; Maria Sylvia Zanella Di Pietro; Celso Antônio Bandeira de Mello); CF/88, art. 37, § 6º."
+  },
+  {
+    "id": "orgaos-publicos-fc-03",
+    "topicoId": "orgaos-publicos",
+    "topico": "Órgãos públicos e teoria do órgão",
+    "dificuldade": "dificil",
+    "enunciado": "O parecer jurídico de natureza meramente opinativa não vincula o administrador e, em regra, não acarreta responsabilidade solidária do parecerista pelo ato praticado; quando, porém, a lei estabelece a vinculação do ato administrativo à prévia manifestação favorável do órgão consultivo, o parecer passa a integrar o ato, admitindo-se a responsabilização solidária do advogado público, que, todavia, somente responderá pessoalmente em caso de dolo ou erro grosseiro.",
+    "gabarito": "C",
+    "justificativa": "Item correto e integralmente compatível com o direito vigente. No MS 24.631/DF, o STF distinguiu três espécies de parecer: facultativo, obrigatório e vinculante, admitindo a responsabilização solidária do parecerista apenas na última hipótese, em que o parecer se incorpora ao ato administrativo. Essa responsabilização, contudo, deve ser lida em conjunto com o art. 28 da LINDB, incluído pela Lei nº 13.655/2018, que condiciona a responsabilidade pessoal do agente público por decisões ou opiniões técnicas à ocorrência de dolo ou erro grosseiro.",
+    "fundamentacaoLegal": "STF, MS 24.631/DF; LINDB (Decreto-Lei nº 4.657/1942), art. 28, incluído pela Lei nº 13.655/2018; CF/88, art. 133."
+  },
+  {
+    "id": "orgaos-publicos-fc-04",
+    "topicoId": "orgaos-publicos",
+    "topico": "Órgãos públicos e teoria do órgão",
+    "dificuldade": "dificil",
+    "enunciado": "A distribuição de competências entre órgãos integrantes de uma mesma pessoa jurídica caracteriza a desconcentração administrativa, da qual decorre relação de hierarquia; em razão desse vínculo hierárquico, a autoridade superior pode avocar, a qualquer tempo e independentemente de motivação, competências atribuídas por lei a órgão subordinado.",
+    "gabarito": "E",
+    "justificativa": "A primeira oração está correta, mas a segunda é falsa. A avocação não é livre nem ilimitada: nos termos do art. 15 da Lei nº 9.784/1999, ela é medida excepcional, deve ser temporária e devidamente justificada por motivos relevantes, e recai apenas sobre competências atribuídas a órgão hierarquicamente inferior. Além disso, não se admite avocação de competência exclusiva, tampouco das matérias que o art. 13 da mesma lei subtrai à delegação. O item confere caráter absoluto a um poder que a lei submete a requisitos rigorosos.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, arts. 11 a 15, especialmente o art. 15."
+  },
+  {
+    "id": "orgaos-publicos-fc-05",
+    "topicoId": "orgaos-publicos",
+    "topico": "Órgãos públicos e teoria do órgão",
+    "dificuldade": "dificil",
+    "enunciado": "Órgãos simples ou unitários são aqueles constituídos por um único agente público, ao passo que os órgãos colegiados são integrados por vários agentes cuja vontade se forma pela deliberação da maioria; a distinção entre órgãos singulares e compostos, por sua vez, funda-se na estrutura interna, sendo compostos aqueles que reúnem em sua estrutura outros órgãos menores.",
+    "gabarito": "E",
+    "justificativa": "O item troca os critérios de duas classificações distintas. Quanto à ESTRUTURA, os órgãos são simples ou unitários (sem subdivisões em outros órgãos) e compostos (que reúnem em sua estrutura outros órgãos menores). Quanto à COMPOSIÇÃO, ou seja, ao número de agentes que formam a vontade do órgão, eles são singulares ou unipessoais (um único agente) e colegiados ou pluripessoais (vários agentes deliberando). O enunciado atribui a simples e compostos o critério do número de agentes e a singulares e compostos o critério estrutural.",
+    "fundamentacaoLegal": "Doutrina (Hely Lopes Meirelles; Maria Sylvia Zanella Di Pietro, classificação dos órgãos públicos quanto à estrutura e à composição)."
+  },
+  {
+    "id": "orgaos-publicos-fc-06",
+    "topicoId": "orgaos-publicos",
+    "topico": "Órgãos públicos e teoria do órgão",
+    "dificuldade": "dificil",
+    "enunciado": "Compete privativamente ao Presidente da República dispor, mediante decreto, sobre a organização e o funcionamento da administração federal, quando isso não implicar aumento de despesa nem criação ou extinção de órgãos públicos; a criação de órgãos, por conseguinte, exige lei de iniciativa privativa do chefe do Poder Executivo, ao passo que a extinção de funções ou cargos públicos vagos pode dar-se por decreto.",
+    "gabarito": "C",
+    "justificativa": "Item correto. O art. 84, VI, a, da CF, na redação da EC nº 32/2001, autoriza o decreto autônomo de organização e funcionamento da administração federal apenas quando não houver aumento de despesa nem criação ou extinção de órgãos; a alínea b do mesmo inciso permite, por decreto, a extinção de funções ou cargos públicos quando vagos. A criação de órgãos da administração pública depende de lei, cuja iniciativa é privativa do chefe do Executivo, nos termos do art. 61, § 1º, II, e, da CF.",
+    "fundamentacaoLegal": "CF/88, art. 84, VI, a e b (redação da EC nº 32/2001), e art. 61, § 1º, II, e."
+  },
+  {
+    "id": "orgaos-publicos-fc-07",
+    "topicoId": "orgaos-publicos",
+    "topico": "Órgãos públicos e teoria do órgão",
+    "dificuldade": "dificil",
+    "enunciado": "A teoria da imputação volitiva, formulada por Otto Gierke, sustenta que o agente público atua como representante legal do Estado, tal como o tutor atua em nome do incapaz, sendo essa a razão pela qual a vontade manifestada pelo agente produz efeitos na esfera jurídica da pessoa jurídica de direito público.",
+    "gabarito": "E",
+    "justificativa": "O item atribui à teoria da imputação volitiva o conteúdo da superada teoria da representação. Pela teoria da representação, o Estado seria equiparado ao incapaz e o agente atuaria como seu representante ou tutor, construção criticada por pressupor a incapacidade do Estado e por deixar sem solução a responsabilidade estatal quando o representante extrapola os poderes recebidos. A teoria do órgão, ou da imputação volitiva, de Gierke, dispensa por completo as ideias de mandato e de representação: a vontade do agente, manifestada no exercício da competência do órgão, é imputada diretamente à própria pessoa jurídica.",
+    "fundamentacaoLegal": "Doutrina (Otto Gierke, teoria do órgão; Maria Sylvia Zanella Di Pietro, teorias do mandato, da representação e do órgão)."
+  },
+  {
+    "id": "orgaos-publicos-fc-08",
+    "topicoId": "orgaos-publicos",
+    "topico": "Órgãos públicos e teoria do órgão",
+    "dificuldade": "dificil",
+    "enunciado": "Os órgãos públicos são centros de competência despersonalizados e, por isso, em regra não celebram contratos em nome próprio, imputando-se seus atos à pessoa jurídica de que fazem parte; a atribuição de inscrição própria no Cadastro Nacional da Pessoa Jurídica e de dotação orçamentária específica a determinado órgão não lhe confere personalidade jurídica.",
+    "gabarito": "C",
+    "justificativa": "Item correto. O órgão público é unidade de atuação despersonalizada, integrante da estrutura da Administração direta ou de entidade da Administração indireta, sendo destituído de personalidade jurídica própria, o que impede, em regra, que contrate ou seja titular de direitos e obrigações em nome próprio. A existência de inscrição no CNPJ e de dotação orçamentária específica atende a finalidades de controle fiscal, contábil e orçamentário, sem qualquer aptidão para conferir personalidade jurídica ao órgão.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, art. 1º, § 2º, I; Lei nº 4.320/1964, arts. 13 e 14; doutrina (José dos Santos Carvalho Filho; Celso Antônio Bandeira de Mello)."
+  },
+  {
+    "id": "orgaos-publicos-fc-09",
+    "topicoId": "orgaos-publicos",
+    "topico": "Órgãos públicos e teoria do órgão",
+    "dificuldade": "dificil",
+    "enunciado": "Uma câmara municipal impetrou mandado de segurança contra ato do prefeito que, a seu ver, usurpou prerrogativa institucional do Poder Legislativo local. Nessa situação, o writ deve ser extinto sem resolução de mérito, pois os órgãos públicos, por serem despersonalizados, jamais podem figurar em qualquer dos polos de relação processual, devendo a demanda ser necessariamente proposta pelo município.",
+    "gabarito": "E",
+    "justificativa": "O erro está na afirmação de que os órgãos jamais podem integrar relação processual. Embora despersonalizados, alguns órgãos públicos de estatura constitucional, notadamente os independentes e os autônomos, possuem a chamada personalidade judiciária ou capacidade processual, reconhecida pela jurisprudência do STJ e do STF para a defesa em juízo de suas prerrogativas institucionais. É exatamente o caso das câmaras municipais em litígio com o Poder Executivo local, hipótese de legitimação ativa consagrada. A capacidade processual, contudo, é limitada às prerrogativas institucionais, não abrangendo pretensões de natureza patrimonial.",
+    "fundamentacaoLegal": "CF/88, art. 5º, LXIX; Lei nº 12.016/2009, art. 1º; jurisprudência do STJ e do STF sobre personalidade judiciária de órgãos públicos."
+  },
+  {
+    "id": "orgaos-publicos-fc-10",
+    "topicoId": "orgaos-publicos",
+    "topico": "Órgãos públicos e teoria do órgão",
+    "dificuldade": "dificil",
+    "enunciado": "Não podem ser objeto de delegação a edição de atos de caráter normativo, a decisão de recursos administrativos e as matérias de competência exclusiva do órgão ou autoridade; quando cabível, a delegação não retira a competência da autoridade delegante, e o ato praticado por delegação considera-se editado pelo delegado, contra quem se dirige eventual impugnação judicial.",
+    "gabarito": "C",
+    "justificativa": "Item correto em todas as suas partes. O art. 13, I a III, da Lei nº 9.784/1999 enumera taxativamente as matérias indelegáveis: atos de caráter normativo, decisão de recursos administrativos e matérias de competência exclusiva. A delegação, por ser parcial, revogável e não implicar renúncia, preserva a competência do delegante. Por fim, o art. 14, § 3º, da mesma lei dispõe que as decisões adotadas por delegação devem mencionar explicitamente essa qualidade e considerar-se-ão editadas pelo delegado, o que se harmoniza com a Súmula 510 do STF, segundo a qual o mandado de segurança deve ser impetrado contra a autoridade que praticou o ato no exercício de competência delegada.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, arts. 12, 13, I a III, e 14, §§ 1º a 3º; Súmula 510 do STF."
+  }
+]

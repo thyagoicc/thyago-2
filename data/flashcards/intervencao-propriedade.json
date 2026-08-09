@@ -1,0 +1,102 @@
+[
+  {
+    "id": "intervencao-propriedade-fc-01",
+    "topicoId": "intervencao-propriedade",
+    "topico": "Intervenção do Estado na propriedade",
+    "dificuldade": "dificil",
+    "enunciado": "A declaração de utilidade pública caduca se a desapropriação não se efetivar mediante acordo ou não for intentada judicialmente no prazo de dois anos, contados da expedição do respectivo decreto, admitida nova declaração sobre o mesmo bem somente depois de decorrido um ano.",
+    "gabarito": "E",
+    "justificativa": "O item altera o prazo legal, técnica clássica de elaboração de erro. Nos termos do art. 10 do Decreto-Lei nº 3.365/1941, o prazo de caducidade da declaração de utilidade pública é de cinco anos, contados da expedição do decreto, sendo correta apenas a parte final (nova declaração sobre o mesmo bem somente após um ano). O prazo de dois anos é o previsto para a desapropriação por interesse social, no art. 3º da Lei nº 4.132/1962.",
+    "fundamentacaoLegal": "Art. 10 do Decreto-Lei nº 3.365/1941; art. 3º da Lei nº 4.132/1962."
+  },
+  {
+    "id": "intervencao-propriedade-fc-02",
+    "topicoId": "intervencao-propriedade",
+    "topico": "Intervenção do Estado na propriedade",
+    "dificuldade": "dificil",
+    "enunciado": "Na desapropriação, direta ou indireta, a taxa dos juros compensatórios é de doze por cento ao ano, e a incidência de juros moratórios sobre os compensatórios, nas ações expropriatórias, não constitui anatocismo vedado em lei.",
+    "gabarito": "C",
+    "justificativa": "As duas orações do item estão corretas e correspondem a enunciados sumulares vigentes. A primeira reproduz a Súmula 618 do STF, cuja subsistência foi reafirmada pelo STF no julgamento de mérito da ADI 2332, que declarou a inconstitucionalidade da expressão que limitava os juros compensatórios a até seis por cento ao ano no art. 15-A do Decreto-Lei nº 3.365/1941. A segunda reproduz literalmente a Súmula 102 do STJ, que afasta a alegação de anatocismo na cumulação de juros moratórios e compensatórios.",
+    "fundamentacaoLegal": "Súmula 618 do STF; Súmula 102 do STJ; Súmula 12 do STJ; art. 15-A do Decreto-Lei nº 3.365/1941 e ADI 2332/STF."
+  },
+  {
+    "id": "intervencao-propriedade-fc-03",
+    "topicoId": "intervencao-propriedade",
+    "topico": "Intervenção do Estado na propriedade",
+    "dificuldade": "dificil",
+    "enunciado": "Imóvel desapropriado para a construção de escola municipal é posteriormente destinado, pelo mesmo município, à instalação de uma unidade básica de saúde. Nessa situação, por não ter sido observada a destinação declarada no decreto expropriatório, configura-se desvio de finalidade e assiste ao ex-proprietário o direito de retrocessão.",
+    "gabarito": "E",
+    "justificativa": "O item afirma consequência jurídica que não decorre da premissa. A hipótese narrada é de tredestinação lícita: houve alteração da destinação específica do bem, mas manteve-se a finalidade pública, o que, segundo a jurisprudência do STJ e a doutrina majoritária, não caracteriza desvio de finalidade nem autoriza a retrocessão. O direito de retrocessão pressupõe adestinação (ausência de qualquer destinação pública) ou tredestinação ilícita, com desvio para finalidade privada.",
+    "fundamentacaoLegal": "Art. 519 do Código Civil; art. 5º, XXIV, da CF/88; jurisprudência do STJ sobre tredestinação lícita."
+  },
+  {
+    "id": "intervencao-propriedade-fc-04",
+    "topicoId": "intervencao-propriedade",
+    "topico": "Intervenção do Estado na propriedade",
+    "dificuldade": "dificil",
+    "enunciado": "A servidão administrativa incide sobre bem imóvel determinado, constituindo ônus real de suportar, e enseja indenização condicionada à comprovação de prejuízo efetivo ao proprietário, ao passo que a limitação administrativa, por veicular obrigação de caráter geral e abstrato dirigida a proprietários indeterminados, em regra não é indenizável.",
+    "gabarito": "C",
+    "justificativa": "O item está correto ao contrastar as duas modalidades de intervenção restritiva. A servidão administrativa é direito real sobre coisa alheia, individualizado, que impõe ao proprietário o dever de suportar utilidade pública; a indenização não é automática, dependendo da demonstração de dano concreto. A limitação administrativa, por sua vez, é determinação geral e abstrata que condiciona o exercício do direito de propriedade em benefício do interesse coletivo, não gerando, como regra, dever de indenizar, salvo quando esvaziar o conteúdo econômico do bem.",
+    "fundamentacaoLegal": "Doutrina consolidada (Di Pietro; Carvalho Filho; Bandeira de Mello); art. 40 do Decreto-Lei nº 3.365/1941; art. 5º, XXII e XXIII, da CF/88."
+  },
+  {
+    "id": "intervencao-propriedade-fc-05",
+    "topicoId": "intervencao-propriedade",
+    "topico": "Intervenção do Estado na propriedade",
+    "dificuldade": "dificil",
+    "enunciado": "A alienação onerosa de bem tombado depende do prévio oferecimento do direito de preferência à União, ao Estado e ao Município, nessa ordem, sob pena de nulidade do negócio jurídico.",
+    "gabarito": "E",
+    "justificativa": "O item reproduz redação de dispositivo revogado. O direito de preferência dos entes federativos na alienação onerosa de bens tombados estava previsto no art. 22 do Decreto-Lei nº 25/1937, expressamente revogado pelo art. 1.072, I, do Código de Processo Civil de 2015. Atualmente, a alienação de bem tombado de propriedade particular é livre, subsistindo apenas os deveres de conservação e as demais restrições do Decreto-Lei nº 25/1937, como a necessidade de autorização para saída do país (art. 14) e a comunicação ao órgão competente.",
+    "fundamentacaoLegal": "Art. 1.072, I, do CPC/2015, que revogou o art. 22 do Decreto-Lei nº 25/1937."
+  },
+  {
+    "id": "intervencao-propriedade-fc-06",
+    "topicoId": "intervencao-propriedade",
+    "topico": "Intervenção do Estado na propriedade",
+    "dificuldade": "dificil",
+    "enunciado": "Embora a competência para legislar sobre requisições civis e militares seja privativa da União, a requisição administrativa pode ser efetivada por autoridade municipal competente em caso de iminente perigo público, assegurada ao proprietário indenização ulterior, se houver dano.",
+    "gabarito": "C",
+    "justificativa": "O item exige interpretação sistemática de dois dispositivos constitucionais e está correto em ambas as afirmações. O art. 22, III, da CF/88 atribui privativamente à União a competência legislativa sobre requisições civis e militares; já o art. 5º, XXV, da CF/88 confere a competência material para a prática do ato à 'autoridade competente' de qualquer ente federativo, no caso de iminente perigo público, com indenização ulterior e condicionada à ocorrência de dano — e não prévia, como na desapropriação.",
+    "fundamentacaoLegal": "Arts. 5º, XXV, e 22, III, da CF/88."
+  },
+  {
+    "id": "intervencao-propriedade-fc-07",
+    "topicoId": "intervencao-propriedade",
+    "topico": "Intervenção do Estado na propriedade",
+    "dificuldade": "dificil",
+    "enunciado": "Município que disponha de plano diretor e de lei específica para a área pode desapropriar imóvel urbano não edificado, subutilizado ou não utilizado, com pagamento em títulos da dívida pública resgatáveis em até dez anos, independentemente da prévia imposição do parcelamento ou edificação compulsórios e do imposto predial e territorial urbano progressivo no tempo.",
+    "gabarito": "E",
+    "justificativa": "O erro está na dispensa da gradação das medidas. O art. 182, § 4º, da CF/88 impõe expressamente que as providências sejam adotadas 'sucessivamente': primeiro o parcelamento ou a edificação compulsórios (inciso I), depois o IPTU progressivo no tempo (inciso II) e, somente ao final, a desapropriação-sanção com pagamento em títulos da dívida pública (inciso III). A desapropriação urbanística sancionatória é medida de ultima ratio, não podendo ser aplicada de imediato.",
+    "fundamentacaoLegal": "Art. 182, § 4º, I a III, da CF/88; arts. 5º a 8º da Lei nº 10.257/2001 (Estatuto da Cidade)."
+  },
+  {
+    "id": "intervencao-propriedade-fc-08",
+    "topicoId": "intervencao-propriedade",
+    "topico": "Intervenção do Estado na propriedade",
+    "dificuldade": "dificil",
+    "enunciado": "No processo judicial de desapropriação, é vedado ao Poder Judiciário decidir se se verificam ou não os casos de utilidade pública, e a contestação do expropriado só pode versar sobre vício do processo judicial ou impugnação do preço, devendo qualquer outra questão ser decidida por ação direta.",
+    "gabarito": "C",
+    "justificativa": "O item reproduz com fidelidade dois dispositivos do Decreto-Lei nº 3.365/1941: o art. 9º, que veda ao juiz da ação expropriatória examinar a ocorrência dos casos de utilidade pública, e o art. 20, que restringe o objeto da contestação a vício do processo judicial ou impugnação do preço, remetendo as demais questões à ação direta. Registre-se que tal limitação não impede o controle judicial de legalidade do ato declaratório em via autônoma, como o mandado de segurança.",
+    "fundamentacaoLegal": "Arts. 9º e 20 do Decreto-Lei nº 3.365/1941."
+  },
+  {
+    "id": "intervencao-propriedade-fc-09",
+    "topicoId": "intervencao-propriedade",
+    "topico": "Intervenção do Estado na propriedade",
+    "dificuldade": "dificil",
+    "enunciado": "É vedado ao município desapropriar bem pertencente ao estado-membro em que se situa, ao passo que o estado pode desapropriar bem do município, exigindo-se, em qualquer caso de desapropriação de bem público, prévia autorização legislativa.",
+    "gabarito": "C",
+    "justificativa": "O item está correto e traduz o chamado princípio da hierarquia federativa ou verticalidade na desapropriação de bens públicos. O art. 2º, § 2º, do Decreto-Lei nº 3.365/1941 autoriza a União a desapropriar bens dos Estados, do Distrito Federal, dos Municípios e dos Territórios, e os Estados a desapropriar bens dos Municípios, exigindo, em qualquer caso, prévia autorização legislativa. Não há previsão de desapropriação em sentido ascendente, razão pela qual é vedado ao Município desapropriar bem estadual.",
+    "fundamentacaoLegal": "Art. 2º, § 2º, do Decreto-Lei nº 3.365/1941."
+  },
+  {
+    "id": "intervencao-propriedade-fc-10",
+    "topicoId": "intervencao-propriedade",
+    "topico": "Intervenção do Estado na propriedade",
+    "dificuldade": "dificil",
+    "enunciado": "A ocupação temporária de terrenos não edificados vizinhos a obra pública e necessários à sua realização depende de prévia autorização judicial, sendo a indenização, quando devida, fixada no próprio ato de ocupação.",
+    "gabarito": "E",
+    "justificativa": "O item contém dois erros. Nos termos do art. 36 do Decreto-Lei nº 3.365/1941, a ocupação temporária é ato administrativo autoexecutório, que independe de prévia autorização judicial, exigindo-se do expropriante apenas a prestação de caução, quando exigida. Além disso, o mesmo dispositivo estabelece que a indenização será apurada 'afinal, por ação própria', e não fixada no ato de ocupação.",
+    "fundamentacaoLegal": "Art. 36 do Decreto-Lei nº 3.365/1941; art. 5º, XXV, da CF/88 (por analogia quanto à autoexecutoriedade)."
+  }
+]

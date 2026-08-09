@@ -1,0 +1,102 @@
+[
+  {
+    "id": "transparencia-lai-fc-01",
+    "topicoId": "transparencia-lai",
+    "topico": "Transparência e acesso à informação",
+    "dificuldade": "dificil",
+    "enunciado": "Não sendo possível conceder o acesso imediato à informação solicitada, o órgão deve atender ao pedido em prazo não superior a vinte dias, prorrogável por mais dez mediante justificativa expressa, e, na hipótese de indeferimento, o interessado pode interpor recurso no prazo de dez dias contados da ciência, dirigido à autoridade hierarquicamente superior à que exarou a decisão, que deverá manifestar-se em cinco dias.",
+    "gabarito": "C",
+    "justificativa": "Todas as partes do item reproduzem com exatidão a Lei nº 12.527/2011. O prazo de resposta de vinte dias está no art. 11, § 1º, e a prorrogação por dez dias, mediante justificativa expressa cientificada ao requerente, no art. 11, § 2º. O prazo recursal de dez dias a contar da ciência, o endereçamento à autoridade hierarquicamente superior e o prazo de cinco dias para manifestação constam do art. 15, caput e parágrafo único.",
+    "fundamentacaoLegal": "Art. 11, §§ 1º e 2º, e art. 15, caput e parágrafo único, da Lei nº 12.527/2011."
+  },
+  {
+    "id": "transparencia-lai-fc-02",
+    "topicoId": "transparencia-lai",
+    "topico": "Transparência e acesso à informação",
+    "dificuldade": "dificil",
+    "enunciado": "Os prazos máximos de restrição de acesso à informação classificada, contados da data de sua produção, são de trinta anos para a informação ultrassecreta, de quinze anos para a secreta e de dez anos para a reservada.",
+    "gabarito": "E",
+    "justificativa": "O item altera dois dos três prazos legais. Conforme o art. 24, § 1º, da Lei nº 12.527/2011, os prazos máximos de restrição de acesso, contados da data de produção da informação, são de vinte e cinco anos para a ultrassecreta, quinze anos para a secreta e cinco anos para a reservada. Apenas o prazo da informação secreta foi corretamente indicado.",
+    "fundamentacaoLegal": "Art. 24, § 1º, I a III, da Lei nº 12.527/2011."
+  },
+  {
+    "id": "transparencia-lai-fc-03",
+    "topicoId": "transparencia-lai",
+    "topico": "Transparência e acesso à informação",
+    "dificuldade": "dificil",
+    "enunciado": "Cidadão tem pedido de informação negado por secretaria de município e vê desprovido o recurso apresentado à autoridade hierarquicamente superior. Nessa situação, cabe-lhe recorrer à Controladoria-Geral da União, nos termos da Lei de Acesso à Informação.",
+    "gabarito": "E",
+    "justificativa": "O erro está na competência recursal. O recurso à Controladoria-Geral da União previsto no art. 16 da Lei nº 12.527/2011 é cabível exclusivamente quando o acesso for negado por órgãos ou entidades do Poder Executivo Federal. No âmbito municipal, as instâncias recursais são as definidas na legislação local, editada com fundamento no art. 45 da mesma lei, que atribui a Estados, Distrito Federal e Municípios a competência para estabelecer regras específicas, observadas as normas gerais.",
+    "fundamentacaoLegal": "Arts. 16 e 45 da Lei nº 12.527/2011."
+  },
+  {
+    "id": "transparencia-lai-fc-04",
+    "topicoId": "transparencia-lai",
+    "topico": "Transparência e acesso à informação",
+    "dificuldade": "dificil",
+    "enunciado": "Municípios com população de até dez mil habitantes ficam dispensados da divulgação obrigatória, na internet, do rol mínimo de informações de interesse coletivo previsto na Lei de Acesso à Informação, mantida, contudo, a obrigatoriedade de divulgação, em tempo real, das informações relativas à execução orçamentária e financeira.",
+    "gabarito": "C",
+    "justificativa": "O item está correto e exige a articulação entre a Lei de Acesso à Informação e a Lei de Responsabilidade Fiscal. O art. 8º, § 4º, da Lei nº 12.527/2011 dispensa os Municípios com população de até dez mil habitantes da divulgação obrigatória na internet a que se refere o § 2º do mesmo artigo, ressalvando expressamente a manutenção do dever de divulgar em tempo real as informações de execução orçamentária e financeira, nos critérios e prazos do art. 73-B da Lei Complementar nº 101/2000, incluído pela Lei Complementar nº 131/2009.",
+    "fundamentacaoLegal": "Art. 8º, §§ 2º e 4º, da Lei nº 12.527/2011; art. 73-B da Lei Complementar nº 101/2000 (incluído pela Lei Complementar nº 131/2009)."
+  },
+  {
+    "id": "transparencia-lai-fc-05",
+    "topicoId": "transparencia-lai",
+    "topico": "Transparência e acesso à informação",
+    "dificuldade": "dificil",
+    "enunciado": "São vedadas quaisquer exigências relativas aos motivos determinantes da solicitação de informações de interesse público, e o serviço de busca e fornecimento da informação é gratuito, ressalvada a possibilidade de cobrança do valor necessário ao ressarcimento do custo dos serviços e materiais utilizados na reprodução de documentos, de que fica isento quem declarar não poder suportá-lo sem prejuízo do próprio sustento ou do de sua família.",
+    "gabarito": "C",
+    "justificativa": "O item combina corretamente três regras da Lei nº 12.527/2011. A vedação de exigir do requerente a motivação do pedido consta do art. 10, § 3º, e é corolário do direito fundamental do art. 5º, XXXIII, da CF/88. A gratuidade do serviço de busca e fornecimento, com a ressalva do ressarcimento do custo de reprodução, está no art. 12, caput, e a isenção do hipossuficiente, declarada nos termos da Lei nº 7.115/1983, no parágrafo único do mesmo artigo.",
+    "fundamentacaoLegal": "Art. 10, § 3º, e art. 12, caput e parágrafo único, da Lei nº 12.527/2011; art. 5º, XXXIII, da CF/88."
+  },
+  {
+    "id": "transparencia-lai-fc-06",
+    "topicoId": "transparencia-lai",
+    "topico": "Transparência e acesso à informação",
+    "dificuldade": "dificil",
+    "enunciado": "As informações pessoais relativas à intimidade, à vida privada, à honra e à imagem terão acesso restrito a agentes públicos legalmente autorizados e à pessoa a que se referirem, dependendo tal restrição de prévia classificação em um dos graus de sigilo e observado o prazo máximo de cinquenta anos contados da data de produção da informação.",
+    "gabarito": "E",
+    "justificativa": "O item contém dois erros. Nos termos do art. 31, § 1º, I, da Lei nº 12.527/2011, o acesso a essas informações pessoais é restrito 'independentemente de classificação de sigilo', de modo que a restrição não depende de prévio enquadramento nos graus ultrassecreto, secreto ou reservado; além disso, o prazo máximo legal é de cem anos, e não de cinquenta, contados da data de produção da informação.",
+    "fundamentacaoLegal": "Art. 31, caput e § 1º, I, da Lei nº 12.527/2011."
+  },
+  {
+    "id": "transparencia-lai-fc-07",
+    "topicoId": "transparencia-lai",
+    "topico": "Transparência e acesso à informação",
+    "dificuldade": "dificil",
+    "enunciado": "A Lei Complementar nº 131/2009, ao alterar a Lei de Responsabilidade Fiscal, impôs aos entes federativos a liberação ao pleno conhecimento da sociedade, em tempo real, de informações pormenorizadas sobre a execução orçamentária e financeira, sujeitando o ente que descumprir esse dever, findos os prazos legais de adaptação, ao impedimento de receber transferências voluntárias.",
+    "gabarito": "C",
+    "justificativa": "O item está correto. A Lei Complementar nº 131/2009 acrescentou à Lei Complementar nº 101/2000 os arts. 48, parágrafo único, 48-A, 73-A, 73-B e 73-C, instituindo o dever de disponibilização em tempo real de informações pormenorizadas sobre a execução orçamentária e financeira. O art. 73-C estabelece que o não atendimento, encerrados os prazos de adaptação do art. 73-B, sujeita o ente à sanção do art. 23, § 3º, I, da LRF, que é a vedação ao recebimento de transferências voluntárias.",
+    "fundamentacaoLegal": "Arts. 48, parágrafo único, 48-A, 73-B e 73-C da Lei Complementar nº 101/2000, com a redação dada pela Lei Complementar nº 131/2009; art. 23, § 3º, I, da LRF."
+  },
+  {
+    "id": "transparencia-lai-fc-08",
+    "topicoId": "transparencia-lai",
+    "topico": "Transparência e acesso à informação",
+    "dificuldade": "dificil",
+    "enunciado": "Documentos que versem sobre condutas que impliquem violação de direitos humanos praticada por agentes públicos podem ser classificados no grau ultrassecreto quando sua divulgação puder colocar em risco a segurança do Estado, hipótese em que o acesso permanecerá restrito pelo prazo máximo previsto em lei.",
+    "gabarito": "E",
+    "justificativa": "O item inverte uma vedação legal expressa. O art. 21, parágrafo único, da Lei nº 12.527/2011 estabelece que as informações ou documentos que versem sobre condutas que impliquem violação dos direitos humanos praticada por agentes públicos ou a mando de autoridades públicas 'não poderão ser objeto de restrição de acesso'. Trata-se de vedação absoluta, que não admite classificação em qualquer grau de sigilo, ainda que invocada a segurança do Estado.",
+    "fundamentacaoLegal": "Art. 21, caput e parágrafo único, da Lei nº 12.527/2011."
+  },
+  {
+    "id": "transparencia-lai-fc-09",
+    "topicoId": "transparencia-lai",
+    "topico": "Transparência e acesso à informação",
+    "dificuldade": "dificil",
+    "enunciado": "A Lei de Acesso à Informação não exclui as demais hipóteses legais de sigilo e de segredo de justiça nem as hipóteses de segredo industrial decorrentes da exploração direta de atividade econômica pelo Estado, e, quando não for autorizado o acesso integral por ser a informação parcialmente sigilosa, é assegurado o acesso à parte não sigilosa por meio de certidão, extrato ou cópia com ocultação da parte sob sigilo.",
+    "gabarito": "C",
+    "justificativa": "As duas orações estão corretas. A primeira reproduz o art. 22 da Lei nº 12.527/2011, que preserva as demais hipóteses legais de sigilo, o segredo de justiça e o segredo industrial. A segunda reproduz o art. 7º, § 2º, da mesma lei, que consagra o princípio da divisibilidade da informação, impedindo que o sigilo parcial sirva de fundamento para a negativa integral de acesso.",
+    "fundamentacaoLegal": "Arts. 7º, § 2º, e 22 da Lei nº 12.527/2011."
+  },
+  {
+    "id": "transparencia-lai-fc-10",
+    "topicoId": "transparencia-lai",
+    "topico": "Transparência e acesso à informação",
+    "dificuldade": "dificil",
+    "enunciado": "O prazo de sigilo de informação classificada como ultrassecreta pode ser prorrogado sucessivas vezes, sempre por prazo determinado, enquanto seu acesso ou divulgação puder ocasionar ameaça externa à soberania nacional ou grave risco às relações internacionais do País.",
+    "gabarito": "E",
+    "justificativa": "O erro está na afirmação de que a prorrogação pode ocorrer sucessivas vezes. Embora a Comissão Mista de Reavaliação de Informações possa prorrogar o prazo de sigilo da informação ultrassecreta, sempre por prazo determinado, nas situações descritas no art. 35, § 1º, III, da Lei nº 12.527/2011, o § 2º do mesmo artigo limita expressamente essa prorrogação a uma única renovação.",
+    "fundamentacaoLegal": "Art. 35, § 1º, III, e § 2º, da Lei nº 12.527/2011; art. 24, § 1º, I, da Lei nº 12.527/2011."
+  }
+]

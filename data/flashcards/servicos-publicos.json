@@ -1,0 +1,102 @@
+[
+  {
+    "id": "servicos-publicos-fc-01",
+    "topicoId": "servicos-publicos",
+    "topico": "Serviços públicos",
+    "dificuldade": "dificil",
+    "enunciado": "Concessionária de serviço público que se considere lesada pelo descumprimento de normas contratuais pelo poder concedente somente pode obter a rescisão do contrato por iniciativa judicial, não lhe sendo lícito interromper ou paralisar a prestação do serviço antes do trânsito em julgado da decisão.",
+    "gabarito": "C",
+    "justificativa": "O item reproduz o art. 39 da Lei nº 8.987/1995 e seu parágrafo único: a rescisão do contrato de concessão por iniciativa da concessionária, no caso de descumprimento das normas contratuais pelo poder concedente, depende de ação judicial especialmente intentada para esse fim, e os serviços prestados não poderão ser interrompidos ou paralisados até a decisão judicial transitada em julgado. Trata-se de aplicação do princípio da continuidade do serviço público e da inoponibilidade plena da exceção do contrato não cumprido em face da Administração.",
+    "fundamentacaoLegal": "Lei nº 8.987/1995, art. 39, caput e parágrafo único; princípio da continuidade do serviço público."
+  },
+  {
+    "id": "servicos-publicos-fc-02",
+    "topicoId": "servicos-publicos",
+    "topico": "Serviços públicos",
+    "dificuldade": "dificil",
+    "enunciado": "A caducidade da concessão consiste na retomada do serviço pelo poder concedente durante o prazo do contrato, por motivo de interesse público, dependendo de lei autorizativa específica e do prévio pagamento da indenização devida à concessionária.",
+    "gabarito": "E",
+    "justificativa": "Houve troca entre institutos tecnicamente próximos. O conceito descrito é o de ENCAMPAÇÃO (art. 37 da Lei nº 8.987/1995), que pressupõe interesse público, lei autorizativa específica e prévio pagamento de indenização. A caducidade, ao contrário, é forma de extinção sancionatória, fundada na inexecução total ou parcial do contrato pela concessionária, e é declarada por decreto do poder concedente independentemente de indenização prévia, calculada no decurso do processo, após processo administrativo com ampla defesa.",
+    "fundamentacaoLegal": "Lei nº 8.987/1995, arts. 35, II e III, 37 e 38, §§ 2º e 4º."
+  },
+  {
+    "id": "servicos-publicos-fc-03",
+    "topicoId": "servicos-publicos",
+    "topico": "Serviços públicos",
+    "dificuldade": "dificil",
+    "enunciado": "A permissão de serviço público é delegada por ato administrativo unilateral, discricionário e precário, sendo dispensada a realização de licitação justamente em razão da precariedade que lhe é inerente.",
+    "gabarito": "E",
+    "justificativa": "O item está errado em duas frentes. Primeiro, a Lei nº 8.987/1995 define a permissão como delegação a título precário, mediante licitação, e determina, no art. 40, que ela seja formalizada mediante contrato de adesão, o que afasta a natureza de ato unilateral; no mesmo sentido, o STF, na ADI 1.491, reconheceu a natureza contratual da permissão de serviço público. Segundo, a licitação é exigência constitucional expressa do art. 175 da CF, que impõe prévia licitação tanto para a concessão quanto para a permissão de serviços públicos.",
+    "fundamentacaoLegal": "CF/88, art. 175, caput; Lei nº 8.987/1995, art. 2º, IV, e art. 40."
+  },
+  {
+    "id": "servicos-publicos-fc-04",
+    "topicoId": "servicos-publicos",
+    "topico": "Serviços públicos",
+    "dificuldade": "dificil",
+    "enunciado": "Não configura descontinuidade do serviço público a sua interrupção, após prévio aviso, por inadimplemento do usuário, considerado o interesse da coletividade; segundo o STJ, porém, a suspensão não pode fundar-se em débitos pretéritos consolidados, cuja cobrança deve ser buscada pelas vias ordinárias.",
+    "gabarito": "C",
+    "justificativa": "As duas orações estão corretas. O art. 6º, § 3º, II, da Lei nº 8.987/1995 autoriza a interrupção do serviço, em situação de emergência ou após aviso prévio, por inadimplemento do usuário, considerado o interesse da coletividade, o que não caracteriza ofensa ao princípio da continuidade. O STJ, contudo, firmou orientação no sentido de que o corte do fornecimento é medida legítima apenas para débitos atuais, não podendo ser usado como forma de coação para a cobrança de débitos antigos e consolidados, que devem ser exigidos pelos meios ordinários de cobrança.",
+    "fundamentacaoLegal": "Lei nº 8.987/1995, art. 6º, §§ 1º e 3º, II; jurisprudência do STJ sobre inviabilidade de corte por débitos pretéritos."
+  },
+  {
+    "id": "servicos-publicos-fc-05",
+    "topicoId": "servicos-publicos",
+    "topico": "Serviços públicos",
+    "dificuldade": "dificil",
+    "enunciado": "A subconcessão de serviço público depende de previsão no contrato de concessão e de expressa autorização do poder concedente, devendo a respectiva outorga ser sempre precedida de concorrência.",
+    "gabarito": "C",
+    "justificativa": "O item corresponde ao art. 26 da Lei nº 8.987/1995 e ao seu § 1º: a subconcessão é admitida nos termos previstos no contrato de concessão, desde que expressamente autorizada pelo poder concedente, e a sua outorga será sempre precedida de concorrência. Cumpre distinguir tal hipótese da transferência da concessão ou do controle societário da concessionária sem prévia anuência do poder concedente, que implica a caducidade da concessão, nos termos do art. 27 da mesma lei.",
+    "fundamentacaoLegal": "Lei nº 8.987/1995, art. 26, caput e §§ 1º e 2º; art. 27."
+  },
+  {
+    "id": "servicos-publicos-fc-06",
+    "topicoId": "servicos-publicos",
+    "topico": "Serviços públicos",
+    "dificuldade": "dificil",
+    "enunciado": "A criação, alteração ou extinção de quaisquer tributos ou encargos legais após a apresentação da proposta, inclusive dos impostos sobre a renda, implicará a revisão da tarifa, para mais ou para menos, quando comprovado seu impacto na concessão.",
+    "gabarito": "E",
+    "justificativa": "O erro está na inclusão dos impostos sobre a renda. O art. 9º, § 3º, da Lei nº 8.987/1995 é expresso ao ressalvar os impostos sobre a renda: apenas a criação, alteração ou extinção dos demais tributos ou encargos legais, ocorrida após a apresentação da proposta e comprovado o impacto, enseja a revisão tarifária, para mais ou para menos. A ressalva se justifica porque o imposto de renda incide sobre o lucro do concessionário, componente do risco ordinário do negócio, e não sobre o custo do serviço.",
+    "fundamentacaoLegal": "Lei nº 8.987/1995, art. 9º, caput e §§ 2º, 3º e 4º."
+  },
+  {
+    "id": "servicos-publicos-fc-07",
+    "topicoId": "servicos-publicos",
+    "topico": "Serviços públicos",
+    "dificuldade": "dificil",
+    "enunciado": "A concessionária responde por todos os prejuízos causados ao poder concedente, aos usuários ou a terceiros, sem que a fiscalização exercida pelo órgão competente exclua ou atenue essa responsabilidade, sendo a responsabilidade do poder concedente, quanto a esses danos, de natureza subsidiária.",
+    "gabarito": "C",
+    "justificativa": "A primeira parte reproduz o art. 25, caput, da Lei nº 8.987/1995. A segunda reflete a orientação doutrinária e jurisprudencial consolidada: como a concessionária presta o serviço por sua conta e risco, o poder concedente responde apenas subsidiariamente pelos danos, ou seja, na hipótese de exaurimento ou insuficiência do patrimônio da delegatária. Não se trata de responsabilidade solidária, sob pena de esvaziar-se a assunção de risco que caracteriza a concessão.",
+    "fundamentacaoLegal": "Lei nº 8.987/1995, arts. 2º, II, e 25, caput; CF/88, art. 37, § 6º; doutrina de Maria Sylvia Zanella Di Pietro e José dos Santos Carvalho Filho."
+  },
+  {
+    "id": "servicos-publicos-fc-08",
+    "topicoId": "servicos-publicos",
+    "topico": "Serviços públicos",
+    "dificuldade": "dificil",
+    "enunciado": "A outorga de concessão de serviço público terá sempre caráter de exclusividade, sendo vedada, em qualquer hipótese, a delegação do mesmo serviço, na mesma área, a mais de um concessionário.",
+    "gabarito": "E",
+    "justificativa": "O item inverte a regra legal e transforma em absoluta uma vedação inexistente. Nos termos do art. 16 da Lei nº 8.987/1995, a outorga de concessão ou permissão NÃO terá caráter de exclusividade, salvo no caso de inviabilidade técnica ou econômica justificada no ato que autoriza a delegação. A regra, portanto, é a competição entre delegatários, sendo a exclusividade a exceção, condicionada a justificativa expressa.",
+    "fundamentacaoLegal": "Lei nº 8.987/1995, arts. 5º e 16."
+  },
+  {
+    "id": "servicos-publicos-fc-09",
+    "topicoId": "servicos-publicos",
+    "topico": "Serviços públicos",
+    "dificuldade": "dificil",
+    "enunciado": "Município que instituiu serviço de iluminação pública custeado por taxa cobrada dos proprietários de imóveis urbanos agiu validamente, pois se trata de serviço público específico e divisível, remunerável na forma do art. 145, II, da Constituição Federal.",
+    "gabarito": "E",
+    "justificativa": "O item é falso porque a iluminação pública é serviço público geral (uti universi), prestado indistintamente à coletividade e insuscetível de fruição individualizada e mensurável, faltando-lhe, portanto, os atributos de especificidade e divisibilidade exigidos pelo art. 145, II, da CF. Nesse sentido, a Súmula Vinculante 41 do STF é expressa: o serviço de iluminação pública não pode ser remunerado mediante taxa. O custeio desse serviço se dá pela contribuição de iluminação pública prevista no art. 149-A da CF.",
+    "fundamentacaoLegal": "CF/88, art. 145, II, e art. 149-A; Súmula Vinculante 41 do STF."
+  },
+  {
+    "id": "servicos-publicos-fc-10",
+    "topicoId": "servicos-publicos",
+    "topico": "Serviços públicos",
+    "dificuldade": "dificil",
+    "enunciado": "Extinta a concessão pelo advento do termo contratual, retornam ao poder concedente os bens reversíveis, direitos e privilégios transferidos ao concessionário, procedendo-se à indenização das parcelas dos investimentos vinculados a bens reversíveis ainda não amortizados ou depreciados.",
+    "gabarito": "C",
+    "justificativa": "O item combina corretamente o art. 35, § 1º, e o art. 36 da Lei nº 8.987/1995. Com a extinção da concessão, opera-se a reversão dos bens reversíveis, direitos e privilégios ao poder concedente, com a imediata assunção do serviço. A reversão no advento do termo contratual far-se-á com a indenização das parcelas dos investimentos vinculados a bens reversíveis ainda não amortizados ou depreciados, realizados com o objetivo de garantir a continuidade e a atualidade do serviço concedido, o que preserva o equilíbrio econômico-financeiro do ajuste e veda o enriquecimento sem causa da Administração.",
+    "fundamentacaoLegal": "Lei nº 8.987/1995, art. 35, I, §§ 1º a 4º, e art. 36."
+  }
+]
