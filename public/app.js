@@ -1,8 +1,12 @@
-const STORAGE_STATS_KEY = "idecan-gerador-stats";
-const STORAGE_VISTAS_KEY = "idecan-gerador-vistas";
 const MAX_VISTAS = 600;
 
 const el = {
+  tabQuestoes: document.getElementById("tabQuestoes"),
+  tabFlashcards: document.getElementById("tabFlashcards"),
+  campoDificuldade: document.getElementById("campoDificuldade"),
+  notaFlashcardsDificuldade: document.getElementById("notaFlashcardsDificuldade"),
+  disclaimerQuestoes: document.getElementById("disclaimerQuestoes"),
+  disclaimerFlashcards: document.getElementById("disclaimerFlashcards"),
   topicosList: document.getElementById("topicosList"),
   btnTodos: document.getElementById("btnTodos"),
   btnNenhum: document.getElementById("btnNenhum"),
@@ -22,26 +26,47 @@ const el = {
   resultadoTitulo: document.getElementById("resultadoTitulo"),
   comentario: document.getElementById("comentario"),
   fundamentacao: document.getElementById("fundamentacao"),
+  fcCard: document.getElementById("flashcardCard"),
+  fcBadgeTopico: document.getElementById("fcBadgeTopico"),
+  fcBadgeReiniciado: document.getElementById("fcBadgeReiniciado"),
+  fcEnunciado: document.getElementById("fcEnunciado"),
+  btnCerto: document.getElementById("btnCerto"),
+  btnErrado: document.getElementById("btnErrado"),
+  fcBtnProxima: document.getElementById("fcBtnProxima"),
+  fcResultado: document.getElementById("fcResultado"),
+  fcResultadoTitulo: document.getElementById("fcResultadoTitulo"),
+  fcJustificativa: document.getElementById("fcJustificativa"),
+  fcFundamentacao: document.getElementById("fcFundamentacao"),
   statTotal: document.getElementById("statTotal"),
   statAcertos: document.getElementById("statAcertos"),
   statErros: document.getElementById("statErros"),
   statPercentual: document.getElementById("statPercentual"),
 };
 
+let modo = "questoes"; // "questoes" | "flashcards"
 let questaoAtual = null;
 let alternativaSelecionada = null;
 let respondida = false;
+let flashcardAtual = null;
+let flashcardRespondido = false;
+
+function chaveStats() {
+  return modo === "flashcards" ? "idecan-gerador-stats-flashcards" : "idecan-gerador-stats-questoes";
+}
+function chaveVistas() {
+  return modo === "flashcards" ? "idecan-gerador-vistas-flashcards" : "idecan-gerador-vistas-questoes";
+}
 
 function carregarStats() {
   try {
-    return JSON.parse(localStorage.getItem(STORAGE_STATS_KEY)) || { total: 0, acertos: 0, erros: 0 };
+    return JSON.parse(localStorage.getItem(chaveStats())) || { total: 0, acertos: 0, erros: 0 };
   } catch {
     return { total: 0, acertos: 0, erros: 0 };
   }
 }
 
 function salvarStats(stats) {
-  localStorage.setItem(STORAGE_STATS_KEY, JSON.stringify(stats));
+  localStorage.setItem(chaveStats(), JSON.stringify(stats));
 }
 
 function atualizarStatsUI() {
@@ -55,7 +80,7 @@ function atualizarStatsUI() {
 
 function carregarVistas() {
   try {
-    return JSON.parse(localStorage.getItem(STORAGE_VISTAS_KEY)) || [];
+    return JSON.parse(localStorage.getItem(chaveVistas())) || [];
   } catch {
     return [];
   }
@@ -65,7 +90,7 @@ function registrarVista(id) {
   const vistas = carregarVistas();
   if (!vistas.includes(id)) vistas.push(id);
   while (vistas.length > MAX_VISTAS) vistas.shift();
-  localStorage.setItem(STORAGE_VISTAS_KEY, JSON.stringify(vistas));
+  localStorage.setItem(chaveVistas(), JSON.stringify(vistas));
 }
 
 async function carregarTopicos() {
@@ -73,11 +98,21 @@ async function carregarTopicos() {
   const topicos = await res.json();
   el.topicosList.innerHTML = "";
   topicos.forEach((t) => {
+    const total = modo === "flashcards" ? t.totalFlashcards : t.totalQuestoes;
     const label = document.createElement("label");
     label.className = "topico-item";
     label.title = t.descricao;
-    label.innerHTML = `<input type="checkbox" value="${t.id}" checked /> <span>${t.nome} <small>(${t.totalQuestoes ?? 0})</small></span>`;
+    label.dataset.totalQuestoes = t.totalQuestoes;
+    label.dataset.totalFlashcards = t.totalFlashcards;
+    label.innerHTML = `<input type="checkbox" value="${t.id}" checked /> <span class="topico-item__nome">${t.nome}</span> <small class="topico-item__total">(${total})</small>`;
     el.topicosList.appendChild(label);
+  });
+}
+
+function atualizarContagemTopicos() {
+  el.topicosList.querySelectorAll(".topico-item").forEach((label) => {
+    const total = modo === "flashcards" ? label.dataset.totalFlashcards : label.dataset.totalQuestoes;
+    label.querySelector(".topico-item__total").textContent = `(${total})`;
   });
 }
 
@@ -93,38 +128,67 @@ function setState(state) {
   el.empty.classList.toggle("hidden", state !== "empty");
   el.loading.classList.toggle("hidden", state !== "loading");
   el.erro.classList.toggle("hidden", state !== "erro");
-  el.card.classList.toggle("hidden", state !== "questao");
+  el.card.classList.toggle("hidden", !(state === "questao" && modo === "questoes"));
+  el.fcCard.classList.toggle("hidden", !(state === "questao" && modo === "flashcards"));
 }
 
-async function gerarQuestao() {
+function trocarModo(novoModo) {
+  if (novoModo === modo) return;
+  modo = novoModo;
+
+  el.tabQuestoes.classList.toggle("active", modo === "questoes");
+  el.tabFlashcards.classList.toggle("active", modo === "flashcards");
+  el.campoDificuldade.classList.toggle("hidden", modo === "flashcards");
+  el.notaFlashcardsDificuldade.classList.toggle("hidden", modo !== "flashcards");
+  el.disclaimerQuestoes.classList.toggle("hidden", modo !== "questoes");
+  el.disclaimerFlashcards.classList.toggle("hidden", modo !== "flashcards");
+  el.btnGerar.textContent = modo === "flashcards" ? "Sortear flashcard" : "Sortear questão";
+
+  atualizarContagemTopicos();
+  atualizarStatsUI();
+  setState("empty");
+}
+
+async function gerar() {
   setState("loading");
   el.btnGerar.disabled = true;
 
   const topicoIds = getTopicosSelecionados();
-  const dificuldade = getDificuldadeSelecionada();
   const excluirIds = carregarVistas();
+  const endpoint = modo === "flashcards" ? "/api/flashcard" : "/api/questao";
+  const body =
+    modo === "flashcards"
+      ? { topicoIds, excluirIds }
+      : { topicoIds, dificuldade: getDificuldadeSelecionada(), excluirIds };
 
   try {
-    const res = await fetch("/api/questao", {
+    const res = await fetch(endpoint, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ topicoIds, dificuldade, excluirIds }),
+      body: JSON.stringify(body),
     });
 
     const data = await res.json();
 
     if (!res.ok) {
-      throw new Error(data.erro || "Erro ao buscar questão.");
+      throw new Error(data.erro || "Erro ao buscar item.");
     }
 
-    questaoAtual = data;
-    respondida = false;
-    alternativaSelecionada = null;
-    renderQuestao(data);
+    if (modo === "flashcards") {
+      flashcardAtual = data;
+      flashcardRespondido = false;
+      renderFlashcard(data);
+    } else {
+      questaoAtual = data;
+      respondida = false;
+      alternativaSelecionada = null;
+      renderQuestao(data);
+    }
+
     registrarVista(data.id);
     setState("questao");
   } catch (err) {
-    el.erro.textContent = err.message || "Não foi possível gerar a questão. Tente novamente.";
+    el.erro.textContent = err.message || "Não foi possível buscar o item. Tente novamente.";
     setState("erro");
   } finally {
     el.btnGerar.disabled = false;
@@ -136,10 +200,7 @@ function renderQuestao(q) {
   el.badgeDificuldade.textContent = q.dificuldade === "dificil" ? "Difícil" : "Média";
   el.enunciado.textContent = q.enunciado;
 
-  const badgeReiniciado = document.getElementById("badgeReiniciado");
-  if (badgeReiniciado) {
-    badgeReiniciado.classList.toggle("hidden", !q.reiniciado);
-  }
+  document.getElementById("badgeReiniciado").classList.toggle("hidden", !q.reiniciado);
 
   el.alternativas.innerHTML = "";
   q.alternativas.forEach((alt) => {
@@ -196,15 +257,68 @@ function responder() {
   el.btnProxima.classList.remove("hidden");
 }
 
+function renderFlashcard(fc) {
+  el.fcBadgeTopico.textContent = fc.topico || "Direito Administrativo";
+  el.fcBadgeReiniciado.classList.toggle("hidden", !fc.reiniciado);
+  el.fcEnunciado.textContent = fc.enunciado;
+
+  el.btnCerto.disabled = false;
+  el.btnErrado.disabled = false;
+  el.btnCerto.classList.remove("acertou", "errou");
+  el.btnErrado.classList.remove("acertou", "errou");
+  el.fcBtnProxima.classList.add("hidden");
+  el.fcResultado.classList.add("hidden");
+}
+
+function julgarFlashcard(julgamento) {
+  if (flashcardRespondido || !flashcardAtual) return;
+  flashcardRespondido = true;
+
+  const acertou = julgamento === flashcardAtual.gabarito;
+  const stats = carregarStats();
+  stats.total += 1;
+  if (acertou) stats.acertos += 1;
+  else stats.erros += 1;
+  salvarStats(stats);
+  atualizarStatsUI();
+
+  el.btnCerto.disabled = true;
+  el.btnErrado.disabled = true;
+
+  const btnEscolhido = julgamento === "C" ? el.btnCerto : el.btnErrado;
+  btnEscolhido.classList.add(acertou ? "acertou" : "errou");
+  if (!acertou) {
+    const btnCorreto = flashcardAtual.gabarito === "C" ? el.btnCerto : el.btnErrado;
+    btnCorreto.classList.add("acertou");
+  }
+
+  const rotuloGabarito = flashcardAtual.gabarito === "C" ? "CERTO" : "ERRADO";
+  el.fcResultadoTitulo.textContent = acertou
+    ? `Você acertou! Gabarito: ${rotuloGabarito}`
+    : `Você errou. Gabarito: ${rotuloGabarito}`;
+  el.fcResultadoTitulo.className = "resultado__titulo " + (acertou ? "ok" : "err");
+  el.fcJustificativa.textContent = flashcardAtual.justificativa || "";
+  el.fcFundamentacao.textContent = flashcardAtual.fundamentacaoLegal || "";
+  el.fcResultado.classList.remove("hidden");
+
+  el.fcBtnProxima.classList.remove("hidden");
+}
+
+el.tabQuestoes.addEventListener("click", () => trocarModo("questoes"));
+el.tabFlashcards.addEventListener("click", () => trocarModo("flashcards"));
+
 el.btnTodos.addEventListener("click", () => {
   el.topicosList.querySelectorAll("input[type=checkbox]").forEach((i) => (i.checked = true));
 });
 el.btnNenhum.addEventListener("click", () => {
   el.topicosList.querySelectorAll("input[type=checkbox]").forEach((i) => (i.checked = false));
 });
-el.btnGerar.addEventListener("click", gerarQuestao);
+el.btnGerar.addEventListener("click", gerar);
 el.btnResponder.addEventListener("click", responder);
-el.btnProxima.addEventListener("click", gerarQuestao);
+el.btnProxima.addEventListener("click", gerar);
+el.btnCerto.addEventListener("click", () => julgarFlashcard("C"));
+el.btnErrado.addEventListener("click", () => julgarFlashcard("E"));
+el.fcBtnProxima.addEventListener("click", gerar);
 el.btnZerar.addEventListener("click", () => {
   salvarStats({ total: 0, acertos: 0, erros: 0 });
   atualizarStatsUI();

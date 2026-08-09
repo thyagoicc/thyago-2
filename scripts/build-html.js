@@ -1,7 +1,7 @@
 // Gera um único arquivo HTML autocontido (sem servidor, sem npm install)
 // a partir dos mesmos dados usados pelo app Node: lib/topicos.js +
-// data/questoes/*.json + public/index.html + public/styles.css +
-// public/app-standalone.js.
+// data/questoes/*.json + data/flashcards/*.json + public/index.html +
+// public/styles.css + public/app-standalone.js.
 //
 // Uso: node scripts/build-html.js
 // Saída: gerador-questoes-idecan.html (na raiz do repositório)
@@ -14,12 +14,12 @@ import { TOPICOS } from "../lib/topicos.js";
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.join(__dirname, "..");
 
-function montarBanco() {
+function montarBanco(subpasta) {
   const banco = {};
   for (const topico of TOPICOS) {
-    const arquivo = path.join(ROOT, "data", "questoes", `${topico.id}.json`);
+    const arquivo = path.join(ROOT, "data", subpasta, `${topico.id}.json`);
     if (!fs.existsSync(arquivo)) {
-      console.warn(`AVISO: banco ausente para "${topico.id}"`);
+      console.warn(`AVISO: banco de "${subpasta}" ausente para "${topico.id}"`);
       banco[topico.id] = [];
       continue;
     }
@@ -29,14 +29,19 @@ function montarBanco() {
 }
 
 function build() {
-  const banco = montarBanco();
+  const banco = montarBanco("questoes");
+  const flashcards = montarBanco("flashcards");
   const totalQuestoes = Object.values(banco).reduce((acc, arr) => acc + arr.length, 0);
+  const totalFlashcards = Object.values(flashcards).reduce((acc, arr) => acc + arr.length, 0);
 
   const indexHtml = fs.readFileSync(path.join(ROOT, "public", "index.html"), "utf8");
   const stylesCss = fs.readFileSync(path.join(ROOT, "public", "styles.css"), "utf8");
   const appJs = fs.readFileSync(path.join(ROOT, "public", "app-standalone.js"), "utf8");
 
-  const dadosJs = `const TOPICOS = ${JSON.stringify(TOPICOS)};\nconst BANCO = ${JSON.stringify(banco)};\n`;
+  const dadosJs =
+    `const TOPICOS = ${JSON.stringify(TOPICOS)};\n` +
+    `const BANCO = ${JSON.stringify(banco)};\n` +
+    `const FLASHCARDS = ${JSON.stringify(flashcards)};\n`;
 
   let html = indexHtml
     .replace('<link rel="stylesheet" href="styles.css" />', `<style>\n${stylesCss}\n</style>`)
@@ -52,7 +57,9 @@ function build() {
   const saida = path.join(ROOT, "gerador-questoes-idecan.html");
   fs.writeFileSync(saida, html, "utf8");
   console.log(`Gerado: ${saida}`);
-  console.log(`Tópicos: ${TOPICOS.length} | Questões: ${totalQuestoes} | Tamanho: ${(html.length / 1024).toFixed(0)} KB`);
+  console.log(
+    `Tópicos: ${TOPICOS.length} | Questões: ${totalQuestoes} | Flashcards: ${totalFlashcards} | Tamanho: ${(html.length / 1024).toFixed(0)} KB`
+  );
 }
 
 build();

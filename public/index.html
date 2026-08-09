@@ -12,7 +12,7 @@
       <span class="topbar__logo">QG</span>
       <div>
         <h1>Gerador de Questões</h1>
-        <p>Direito Administrativo · Auditor Fiscal · Campina Grande/PB · Edital 01/2026 · Banca IDECAN</p>
+        <p>Direito Administrativo · Auditor Fiscal · Campina Grande/PB · Edital 01/2026</p>
       </div>
     </div>
     <div class="topbar__stats" id="stats">
@@ -20,15 +20,24 @@
       <div class="stat stat--ok"><span class="stat__value" id="statAcertos">0</span><span class="stat__label">Acertos</span></div>
       <div class="stat stat--err"><span class="stat__value" id="statErros">0</span><span class="stat__label">Erros</span></div>
       <div class="stat"><span class="stat__value" id="statPercentual">0%</span><span class="stat__label">Aproveitamento</span></div>
-      <button id="btnZerar" class="btn btn--ghost btn--small" title="Zerar estatísticas">Zerar</button>
+      <button id="btnZerar" class="btn btn--ghost btn--small" title="Zerar estatísticas do modo atual">Zerar</button>
     </div>
   </header>
+
+  <nav class="modes">
+    <button type="button" class="mode-tab active" id="tabQuestoes" data-modo="questoes">
+      Questões <span class="mode-tab__banca">estilo IDECAN · múltipla escolha</span>
+    </button>
+    <button type="button" class="mode-tab" id="tabFlashcards" data-modo="flashcards">
+      Flashcards <span class="mode-tab__banca">estilo CEBRASPE · Certo ou Errado</span>
+    </button>
+  </nav>
 
   <div class="layout">
     <aside class="sidebar">
       <h2>Filtros</h2>
 
-      <div class="field">
+      <div class="field" id="campoDificuldade">
         <label>Dificuldade</label>
         <div class="radio-group" id="dificuldadeGroup">
           <label><input type="radio" name="dificuldade" value="aleatoria" checked /> Média e difícil (sorteada)</label>
@@ -36,6 +45,9 @@
           <label><input type="radio" name="dificuldade" value="dificil" /> Somente difícil</label>
         </div>
       </div>
+      <p class="field-note hidden" id="notaFlashcardsDificuldade">
+        Todos os flashcards CEBRASPE deste banco são de dificuldade difícil.
+      </p>
 
       <div class="field">
         <div class="field__header">
@@ -51,22 +63,28 @@
       </div>
 
       <button id="btnGerar" class="btn btn--primary btn--block">Sortear questão</button>
-      <p class="disclaimer">
+      <p class="disclaimer" id="disclaimerQuestoes">
         Banco fixo de 30 questões por tópico (600 no total), elaboradas para
         reproduzir o padrão de redação da banca IDECAN. Não são itens reais
         de provas aplicadas — use como treino complementar de estilo e
         conteúdo.
       </p>
+      <p class="disclaimer hidden" id="disclaimerFlashcards">
+        Banco fixo de 10 flashcards difíceis por tópico (200 no total),
+        elaborados para reproduzir o padrão de item único Certo/Errado da
+        banca CEBRASPE. Não são itens reais de provas aplicadas — use como
+        treino complementar de estilo e conteúdo.
+      </p>
     </aside>
 
     <main class="content">
       <div id="empty" class="empty-state">
-        <p>Selecione os filtros desejados e clique em <strong>Gerar questão</strong> para começar.</p>
+        <p>Selecione os filtros desejados e clique em <strong>Sortear</strong> para começar.</p>
       </div>
 
       <div id="loading" class="loading-state hidden">
         <div class="spinner"></div>
-        <p>Buscando questão…</p>
+        <p>Buscando…</p>
       </div>
 
       <div id="erro" class="erro-state hidden"></div>
@@ -98,6 +116,38 @@
           <div class="resultado__bloco">
             <h3>Fundamentação legal</h3>
             <p id="fundamentacao"></p>
+          </div>
+        </div>
+      </article>
+
+      <article id="flashcardCard" class="flashcard-card hidden">
+        <div class="questao-card__badges">
+          <span class="badge badge--banca badge--banca-cebraspe">CEBRASPE (estilo)</span>
+          <span class="badge badge--cargo">Auditor Fiscal · Campina Grande/PB · 2026</span>
+          <span id="fcBadgeTopico" class="badge badge--topico"></span>
+          <span class="badge badge--dificuldade">Difícil</span>
+          <span id="fcBadgeReiniciado" class="badge badge--info hidden" title="Você já viu todos os flashcards desse filtro; o ciclo recomeçou.">Ciclo reiniciado</span>
+        </div>
+
+        <p class="flashcard-card__instrucao">Julgue o item a seguir como CERTO ou ERRADO.</p>
+        <p id="fcEnunciado" class="questao-card__enunciado flashcard-card__enunciado"></p>
+
+        <div class="flashcard-card__botoes">
+          <button id="btnCerto" class="btn btn--julgamento btn--certo">CERTO</button>
+          <button id="btnErrado" class="btn btn--julgamento btn--errado">ERRADO</button>
+        </div>
+
+        <button id="fcBtnProxima" class="btn btn--secondary hidden">Próximo flashcard</button>
+
+        <div id="fcResultado" class="resultado hidden">
+          <p id="fcResultadoTitulo" class="resultado__titulo"></p>
+          <div class="resultado__bloco">
+            <h3>Justificativa</h3>
+            <p id="fcJustificativa"></p>
+          </div>
+          <div class="resultado__bloco">
+            <h3>Fundamentação legal</h3>
+            <p id="fcFundamentacao"></p>
           </div>
         </div>
       </article>
