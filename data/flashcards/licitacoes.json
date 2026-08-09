@@ -1,0 +1,102 @@
+[
+  {
+    "id": "licitacoes-fc-01",
+    "topicoId": "licitacoes",
+    "topico": "Licitações públicas",
+    "dificuldade": "dificil",
+    "enunciado": "É inexigível a licitação para a contratação de serviços técnicos especializados de natureza predominantemente intelectual com profissionais ou empresas de notória especialização, aí incluídos os serviços de publicidade e divulgação, desde que demonstrada a singularidade do objeto.",
+    "gabarito": "E",
+    "justificativa": "O art. 74, III, da Lei nº 14.133/2021 veda expressamente a inexigibilidade para serviços de publicidade e divulgação, de modo que a inclusão desses serviços torna o item falso. Acresce que a nova lei não reproduziu a exigência de natureza singular do objeto, que constava do art. 25, II, da revogada Lei nº 8.666/1993, bastando a notória especialização somada à inviabilidade de competição.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 74, caput e inciso III, e § 3º."
+  },
+  {
+    "id": "licitacoes-fc-02",
+    "topicoId": "licitacoes",
+    "topico": "Licitações públicas",
+    "dificuldade": "dificil",
+    "enunciado": "Em licitação de obras e serviços de engenharia, serão consideradas inexequíveis as propostas cujos valores forem inferiores a setenta e cinco por cento do valor orçado pela Administração, ao passo que do licitante vencedor cuja proposta seja inferior a oitenta e cinco por cento desse valor será exigida garantia adicional equivalente à diferença entre o valor orçado e o valor da proposta.",
+    "gabarito": "C",
+    "justificativa": "O item reproduz corretamente os §§ 4º e 5º do art. 59 da Lei nº 14.133/2021. A dificuldade está em não confundir os dois percentuais: 75% é o parâmetro objetivo de inexequibilidade em obras e serviços de engenharia, enquanto 85% é o gatilho da garantia adicional exigida do vencedor, calculada pela diferença entre o valor orçado e o valor ofertado, sem prejuízo das demais garantias previstas em lei.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 59, §§ 4º e 5º."
+  },
+  {
+    "id": "licitacoes-fc-03",
+    "topicoId": "licitacoes",
+    "topico": "Licitações públicas",
+    "dificuldade": "dificil",
+    "enunciado": "Os limites de valor que autorizam a dispensa de licitação em razão do valor são triplicados nas contratações realizadas por consórcios públicos e por autarquias e fundações qualificadas como agências executivas na forma da lei.",
+    "gabarito": "E",
+    "justificativa": "O erro está no multiplicador. O art. 75, § 2º, da Lei nº 14.133/2021 determina que os valores dos incisos I e II do caput sejam duplicados, e não triplicados, para compras, obras e serviços contratados por consórcio público ou por autarquia ou fundação qualificadas como agências executivas. Registre-se ainda que a aferição dos limites considera o somatório do que for despendido no exercício financeiro pela unidade gestora e das despesas com objetos de mesma natureza (§ 1º).",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 75, caput, I e II, e §§ 1º e 2º."
+  },
+  {
+    "id": "licitacoes-fc-04",
+    "topicoId": "licitacoes",
+    "topico": "Licitações públicas",
+    "dificuldade": "dificil",
+    "enunciado": "A fase de habilitação poderá anteceder as fases de apresentação de propostas e lances e de julgamento, desde que expressamente previsto no edital e mediante ato motivado com explicitação dos benefícios decorrentes da inversão.",
+    "gabarito": "C",
+    "justificativa": "O item corresponde ao art. 17, § 1º, da Lei nº 14.133/2021. A sequência legal ordinária coloca a habilitação após o julgamento (art. 17, IV e V), invertendo a lógica da Lei nº 8.666/1993; a retomada da ordem tradicional é excepcional e depende cumulativamente de previsão expressa no edital e de ato motivado que explicite os benefícios da inversão.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 17, caput, IV e V, e § 1º."
+  },
+  {
+    "id": "licitacoes-fc-05",
+    "topicoId": "licitacoes",
+    "topico": "Licitações públicas",
+    "dificuldade": "dificil",
+    "enunciado": "A modalidade pregão não se aplica às contratações de serviços técnicos especializados de natureza predominantemente intelectual nem às de obras e serviços de engenharia, ressalvados, quanto a estes, os serviços comuns de engenharia.",
+    "gabarito": "C",
+    "justificativa": "O item reflete o parágrafo único do art. 29 da Lei nº 14.133/2021. O pregão é obrigatório para bens e serviços comuns, mas foi vedado para serviços técnicos de natureza predominantemente intelectual e para obras e serviços de engenharia, com a exceção expressa dos serviços comuns de engenharia, conceituados no art. 6º, XXI, alínea a. A dificuldade está em reter a exceção dentro da vedação.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 29, caput e parágrafo único, c/c art. 6º, XXI, a."
+  },
+  {
+    "id": "licitacoes-fc-06",
+    "topicoId": "licitacoes",
+    "topico": "Licitações públicas",
+    "dificuldade": "dificil",
+    "enunciado": "As contratações adicionais realizadas por órgãos ou entidades não participantes da ata de registro de preços não poderão exceder, por órgão ou entidade, a cinquenta por cento dos quantitativos registrados, limitado o total das adesões ao triplo do quantitativo de cada item registrado para o órgão gerenciador e os órgãos participantes.",
+    "gabarito": "E",
+    "justificativa": "O limite individual de cinquenta por cento está correto (art. 86, § 2º), mas o limite global foi alterado. Nos termos do art. 86, § 3º, da Lei nº 14.133/2021, o quantitativo decorrente das adesões não pode exceder, na totalidade, ao dobro do quantitativo de cada item registrado para o órgão gerenciador e os participantes, independentemente do número de caronas aderentes. A troca de dobro por triplo torna o item falso.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 86, §§ 2º e 3º."
+  },
+  {
+    "id": "licitacoes-fc-07",
+    "topicoId": "licitacoes",
+    "topico": "Licitações públicas",
+    "dificuldade": "dificil",
+    "enunciado": "Desde que justificado, o orçamento estimado da contratação poderá ter caráter sigiloso, hipótese em que o sigilo prevalecerá inclusive perante os órgãos de controle interno e externo, salvo determinação judicial em sentido contrário.",
+    "gabarito": "E",
+    "justificativa": "A possibilidade de orçamento sigiloso é real, mas a extensão do sigilo está errada. O art. 24, I, da Lei nº 14.133/2021 é expresso ao dispor que o sigilo não prevalecerá para os órgãos de controle interno e externo, sem necessidade de qualquer ordem judicial. Também não há prejuízo à divulgação do detalhamento dos quantitativos e das demais informações necessárias à elaboração das propostas, e o orçamento deve constar do edital quando o critério for maior desconto.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 24, caput, I, e parágrafo único."
+  },
+  {
+    "id": "licitacoes-fc-08",
+    "topicoId": "licitacoes",
+    "topico": "Licitações públicas",
+    "dificuldade": "dificil",
+    "enunciado": "No regime de contratação semi-integrada, admite-se, mediante justificativa, a alteração do projeto básico elaborado pela Administração, desde que demonstrada a superioridade das inovações propostas pelo contratado em termos de redução de custos, de aumento da qualidade, de redução do prazo de execução ou de facilidade de manutenção ou operação, assumindo o contratado a responsabilidade integral pelos riscos associados à alteração.",
+    "gabarito": "C",
+    "justificativa": "O item corresponde ao art. 46, § 5º, da Lei nº 14.133/2021. Na contratação semi-integrada a Administração fornece o projeto básico e o contratado elabora o projeto executivo e executa a obra; excepcionalmente, o projeto básico pode ser alterado por iniciativa do contratado, desde que demonstrada a superioridade da solução em algum dos vetores legais, transferindo-se a ele a integralidade dos riscos da modificação, o que a distingue da contratação integrada, em que ambos os projetos são de responsabilidade do contratado.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 46, § 5º, c/c art. 6º, XXXII e XXXIII."
+  },
+  {
+    "id": "licitacoes-fc-09",
+    "topicoId": "licitacoes",
+    "topico": "Licitações públicas",
+    "dificuldade": "dificil",
+    "enunciado": "O diálogo competitivo poderá ser adotado para a contratação de bens e serviços comuns cujos padrões de desempenho e qualidade possam ser objetivamente definidos pelo edital, sendo o certame conduzido pelo agente de contratação, auxiliado por equipe de apoio.",
+    "gabarito": "E",
+    "justificativa": "O item contraria duplamente o art. 32 da Lei nº 14.133/2021. Primeiro, o diálogo competitivo é restrito a objetos que envolvam inovação tecnológica ou técnica, impossibilidade de satisfação da necessidade sem adaptação de soluções de mercado ou impossibilidade de definição precisa das especificações técnicas, sendo justamente incompatível com bens e serviços comuns, para os quais a modalidade adequada é o pregão. Segundo, o diálogo competitivo é conduzido por comissão de contratação composta de pelo menos três servidores efetivos ou empregados públicos dos quadros permanentes, e não pelo agente de contratação isoladamente.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 32, caput, I a III, e § 1º, XI, c/c art. 29, caput, e art. 8º."
+  },
+  {
+    "id": "licitacoes-fc-10",
+    "topicoId": "licitacoes",
+    "topico": "Licitações públicas",
+    "dificuldade": "dificil",
+    "enunciado": "Na hipótese de contratação direta indevida ocorrida com dolo, fraude ou erro grosseiro, o contratado e o agente público responsável responderão solidariamente pelo dano causado ao erário, sem prejuízo de outras sanções legais cabíveis.",
+    "gabarito": "C",
+    "justificativa": "O item reproduz o art. 73 da Lei nº 14.133/2021. A responsabilização solidária do particular e do agente público pressupõe dolo, fraude ou erro grosseiro, exigência alinhada ao art. 28 da LINDB, que condiciona a responsabilização pessoal do agente por decisões ou opiniões técnicas ao dolo ou ao erro grosseiro. Contratação direta apenas irregular, sem esses elementos subjetivos qualificados, não gera a solidariedade do dispositivo.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 73, c/c arts. 72, 74 e 75; Decreto-Lei nº 4.657/1942 (LINDB), art. 28."
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "id": "contratos-administrativos-fc-01",
+    "topicoId": "contratos-administrativos",
+    "topico": "Contratos administrativos",
+    "dificuldade": "dificil",
+    "enunciado": "A prerrogativa de alteração unilateral do contrato administrativo, por se fundar na supremacia do interesse público, alcança também as cláusulas econômico-financeiras e monetárias, desde que a Administração demonstre a superveniência de interesse público relevante.",
+    "gabarito": "E",
+    "justificativa": "O item generaliza indevidamente a cláusula exorbitante. Embora a Administração possa modificar unilateralmente o contrato para melhor adequação às finalidades de interesse público (art. 104, I), o art. 104, § 1º, da Lei nº 14.133/2021 veda expressamente a alteração das cláusulas econômico-financeiras e monetárias sem prévia concordância do contratado. Mais que isso, o § 2º impõe a revisão dessas cláusulas justamente para preservar o equilíbrio econômico-financeiro quando houver alteração unilateral.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 104, caput, I, e §§ 1º e 2º; CF/88, art. 37, XXI."
+  },
+  {
+    "id": "contratos-administrativos-fc-02",
+    "topicoId": "contratos-administrativos",
+    "topico": "Contratos administrativos",
+    "dificuldade": "dificil",
+    "enunciado": "Nas alterações unilaterais decorrentes de acréscimo ou diminuição quantitativa do objeto, o contratado é obrigado a aceitar, nas mesmas condições contratuais, acréscimos ou supressões de até vinte e cinco por cento do valor inicial atualizado do contrato, elevando-se o limite a cinquenta por cento apenas para os acréscimos, no caso de reforma de edifício ou de equipamento.",
+    "gabarito": "C",
+    "justificativa": "O item reproduz com exatidão o art. 125 da Lei nº 14.133/2021. A dificuldade está em perceber que o limite ampliado de cinquenta por cento, na reforma de edifício ou de equipamento, vale somente para acréscimos, permanecendo em vinte e cinco por cento o limite de supressões. Ademais, nos termos do art. 126, as alterações unilaterais não podem transfigurar o objeto da contratação.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 125, c/c art. 124, I, b, e art. 126."
+  },
+  {
+    "id": "contratos-administrativos-fc-03",
+    "topicoId": "contratos-administrativos",
+    "topico": "Contratos administrativos",
+    "dificuldade": "dificil",
+    "enunciado": "A sanção de impedimento de licitar e contratar será aplicada pelo prazo mínimo de três e máximo de seis anos e impedirá o responsável de licitar ou contratar no âmbito da Administração Pública direta e indireta de todos os entes federativos.",
+    "gabarito": "E",
+    "justificativa": "O item atribui ao impedimento de licitar e contratar o regime próprio da declaração de inidoneidade. Conforme o art. 156, § 3º, da Lei nº 14.133/2021, o impedimento tem prazo máximo de três anos e produz efeitos apenas no âmbito da Administração direta e indireta do ente federativo que aplicou a sanção. Já a declaração de inidoneidade, prevista no § 4º, é que tem prazo mínimo de três e máximo de seis anos e alcança todos os entes federativos.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 156, caput, III e IV, e §§ 3º e 4º."
+  },
+  {
+    "id": "contratos-administrativos-fc-04",
+    "topicoId": "contratos-administrativos",
+    "topico": "Contratos administrativos",
+    "dificuldade": "dificil",
+    "enunciado": "Exclusivamente nas contratações de serviços contínuos com regime de dedicação exclusiva de mão de obra, a Administração responderá solidariamente pelos encargos previdenciários e subsidiariamente pelos encargos trabalhistas se comprovada falha na fiscalização do cumprimento das obrigações do contratado.",
+    "gabarito": "C",
+    "justificativa": "O item reproduz o art. 121, § 2º, da Lei nº 14.133/2021. A regra geral, do § 1º, é a de que a inadimplência do contratado quanto a encargos trabalhistas, fiscais e comerciais não se transfere à Administração; a responsabilização é excepcional, restrita aos serviços contínuos com dedicação exclusiva de mão de obra, e não é automática, em linha com o decidido pelo STF no RE 760931 (Tema 246), que exige a comprovação de falha na fiscalização.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 121, §§ 1º e 2º; STF, RE 760931 (Tema 246)."
+  },
+  {
+    "id": "contratos-administrativos-fc-05",
+    "topicoId": "contratos-administrativos",
+    "topico": "Contratos administrativos",
+    "dificuldade": "dificil",
+    "enunciado": "Os contratos de serviços e fornecimentos contínuos poderão ser celebrados com prazo inicial de até cinco anos e prorrogados sucessivamente, respeitada a vigência máxima de cinco anos, desde que a autoridade competente ateste que as condições e os preços permanecem vantajosos para a Administração.",
+    "gabarito": "E",
+    "justificativa": "O prazo inicial de até cinco anos está correto (art. 106), mas o limite total foi alterado. O art. 107 da Lei nº 14.133/2021 admite prorrogações sucessivas respeitada a vigência máxima decenal, isto é, de dez anos, e não de cinco, exigindo previsão em edital e atestação anual da vantajosidade, permitida a negociação com o contratado ou a extinção contratual sem ônus para as partes.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, arts. 106 e 107."
+  },
+  {
+    "id": "contratos-administrativos-fc-06",
+    "topicoId": "contratos-administrativos",
+    "topico": "Contratos administrativos",
+    "dificuldade": "dificil",
+    "enunciado": "Nas contratações de obras e serviços de engenharia de grande vulto, poderá ser exigida a prestação de garantia na modalidade seguro-garantia, com cláusula de retomada, em percentual equivalente a até trinta por cento do valor inicial do contrato.",
+    "gabarito": "C",
+    "justificativa": "O item corresponde ao art. 98 da Lei nº 14.133/2021. A regra geral do art. 96, § 1º, permite garantia de até cinco por cento do valor inicial, majorável até dez por cento mediante justificativa; a exigência de até trinta por cento é excepcional e cumulativamente condicionada a que se trate de obra ou serviço de engenharia de grande vulto e a que a modalidade seja o seguro-garantia com cláusula de retomada, que autoriza a seguradora a assumir a execução do contrato.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 98, c/c arts. 96, § 1º, e 102, e art. 6º, XXII."
+  },
+  {
+    "id": "contratos-administrativos-fc-07",
+    "topicoId": "contratos-administrativos",
+    "topico": "Contratos administrativos",
+    "dificuldade": "dificil",
+    "enunciado": "Ao declarar a nulidade do contrato administrativo, a autoridade poderá, com vistas à continuidade da atividade administrativa, decidir que a nulidade só tenha eficácia em momento futuro, suficiente para efetuar nova contratação, por prazo de até seis meses, prorrogável uma única vez.",
+    "gabarito": "C",
+    "justificativa": "O item reproduz o art. 148, § 2º, da Lei nº 14.133/2021. Embora a declaração de nulidade opere, em regra, retroativamente, a lei incorporou a modulação de efeitos no plano administrativo, em coerência com o art. 147, que exige avaliação prévia do interesse público e dos impactos econômicos, sociais e de segurança antes de suspender a execução ou declarar a nulidade do contrato.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 148, caput e § 2º, c/c arts. 147 e 149."
+  },
+  {
+    "id": "contratos-administrativos-fc-08",
+    "topicoId": "contratos-administrativos",
+    "topico": "Contratos administrativos",
+    "dificuldade": "dificil",
+    "enunciado": "Determinada empresa contratada por município para a execução de serviço de engenharia deixou de receber os pagamentos devidos pela Administração por setenta dias, contados da emissão da nota fiscal, sem que houvesse calamidade pública ou culpa da contratada. Nessa situação, a contratada não tem direito à extinção do contrato, pois o prazo legal mínimo de inadimplemento da Administração é de noventa dias.",
+    "gabarito": "E",
+    "justificativa": "O prazo indicado é o da revogada Lei nº 8.666/1993. Nos termos do art. 137, § 2º, V, da Lei nº 14.133/2021, o contratado tem direito à extinção do contrato quando houver atraso superior a dois meses, contado da emissão da nota fiscal, dos pagamentos ou de parcelas de pagamentos devidos pela Administração. Como o atraso de setenta dias supera dois meses e não incide nenhuma das restrições do § 3º do mesmo artigo, a contratada faz jus à extinção.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 137, § 2º, V, e § 3º."
+  },
+  {
+    "id": "contratos-administrativos-fc-09",
+    "topicoId": "contratos-administrativos",
+    "topico": "Contratos administrativos",
+    "dificuldade": "dificil",
+    "enunciado": "O pedido de restabelecimento do equilíbrio econômico-financeiro deve ser formulado durante a vigência do contrato e antes de eventual prorrogação, embora a extinção do contrato não configure óbice ao reconhecimento do desequilíbrio, hipótese em que a indenização será concedida por meio de termo indenizatório.",
+    "gabarito": "C",
+    "justificativa": "O item combina corretamente o caput e o parágrafo único do art. 131 da Lei nº 14.133/2021. A exigência de formulação do pedido na vigência do contrato e antes da prorrogação é ônus do contratado, sob pena de preclusão, mas, formulado tempestivamente, o posterior encerramento do ajuste não impede o reconhecimento do desequilíbrio, que se resolve por termo indenizatório.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 131, caput e parágrafo único, c/c art. 124, II, d."
+  },
+  {
+    "id": "contratos-administrativos-fc-10",
+    "topicoId": "contratos-administrativos",
+    "topico": "Contratos administrativos",
+    "dificuldade": "dificil",
+    "enunciado": "A reabilitação do licitante ou contratado que tenha sido declarado inidôneo poderá ser requerida perante a autoridade que aplicou a penalidade após o transcurso do prazo mínimo de um ano da aplicação da sanção, exigidos ainda a reparação integral do dano causado à Administração e o pagamento da multa.",
+    "gabarito": "E",
+    "justificativa": "O erro está no prazo. Segundo o art. 163, III, da Lei nº 14.133/2021, o prazo mínimo de um ano aplica-se à reabilitação no caso de impedimento de licitar e contratar; para a declaração de inidoneidade, o prazo mínimo é de três anos. Os demais requisitos citados (reparação integral do dano e pagamento da multa) são corretos, mas cumulam-se também com o cumprimento das condições de reabilitação fixadas no ato punitivo e com prévia análise jurídica conclusiva.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 163, caput, I a V, e parágrafo único, c/c art. 156, III e IV."
+  }
+]
