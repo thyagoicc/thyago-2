@@ -1,0 +1,586 @@
+                                                                                      CEBRASPE – SEAD/SEFAZ – Edital: 2023
+•   Nas questões a seguir, marque, para cada uma, a única opção correta, de acordo com o respectivo comando. Para as devidas
+    marcações, use a Folha de Respostas, único documento válido para a correção das suas respostas.
+•   Eventuais espaços livres — identificados ou não pela expressão “Espaço livre” — que constarem deste caderno de provas
+    poderão ser utilizados para rascunho.
+
+                                       -- PROVA OBJETIVA P2 --
+                                 -- CONHECIMENTOS ESPECÍFICOS --
+     Questão 1                                                          Questão 5
+Assinale a opção em que são apresentadas corretamente as           Em relação ao modelo macroeconômico tradicional e a seus
+entidades supervisoras do Sistema Financeiro Nacional.             efeitos relacionados às políticas monetária e fiscal, assinale a
+A Conselho Monetário Nacional e Conselho Nacional de               opção correta.
+  Seguros Privados                                                 A O aumento dos gastos do governo gera aumento da renda e
+B Comissão de Valores Mobiliários e Conselho Monetário               queda da taxa de juros de equilíbrio.
+  Nacional
+                                                                   B A poupança externa é igual ao déficit em transações
+C Comissão de Valores Mobiliários e Banco Central do Brasil
+D Superintendência Nacional de Previdência Complementar e            correntes.
+  Conselho Monetário Nacional                                      C O aumento da incerteza na economia gera queda da taxa de
+E Banco Central do Brasil e Casa da Moeda                            juros e da renda de equilíbrio.
+                                                                   D O aumento da quantidade ofertada de moeda gera redução da
+     Questão 2                                                       taxa de juros e da renda de equilíbrio.
+       Certo mercado opera em concorrência perfeita.
+                                                                   E A situação de armadilha da liquidez corresponde à situação
+As quantidades demandadas e ofertadas bem como os respectivos
+preços são descritos na tabela seguinte.                             em que a política monetária perde a capacidade de influenciar
+                                                                     a economia por meio do canal da taxa de câmbio.
+                          demanda       oferta
+          preço (R$ )                                                   Questão 6
+                        (quantidade) (quantidade)
+               60            11           7
+               80            10           8                          papel-moeda em poder do público           1.000 unidades
+              100            9            9                          reserva bancária                          2.000 unidades
+              120            8            10                         depósitos à vista em bancos comerciais    8.000 unidades
+                                                                     produto interno bruto                     100.000 unidades
+Com base nessas informações, assinale a opção correta.               taxa SELIC                                10% ao ano
+A O preço de equilíbrio de mercado é igual a R$ 80,00.             Dadas as informações da tabela precedente, é correto afirmar que
+B A elasticidade-preço da demanda quando o preço é igual a         o valor do multiplicador monetário será igual a
+  R$ 80,00 é, em módulo, igual a 0,80, logo, por essa razão, a
+  demanda é inelástica ao preço.                                   A 1,5.
+C Se o governo decidir estabelecer uma política pública de fixar   B 2,0.
+  o preço máximo de compra em R$ 80,00, haverá escassez de         C 3,0.
+  produto.                                                         D 3,5.
+D A elasticidade-preço da demanda quando o preço é igual a         E 4,0.
+  R$ 120,00 é, em módulo, igual a 0,60, logo, por essa razão, a
+  demanda é inelástica ao preço.                                        Questão 7
+E A elasticidade-preço da demanda quando o preço é igual a         A emissão e o resgate de títulos da dívida pública interna para
+  R$ 100,00 é, em módulo, igual a 0,55, logo, por essa razão, a    financiar os compromissos do governo podem ser usados como
+  demanda é elástica ao preço.                                     instrumentos de política
+     Questão 3                                                     A monetária.
+Considerando que uma firma opere em concorrência perfeita com      B fiscal.
+função custo total C(q) = 0,4q2 – 10q + 30 e com preço igual a     C tributária.
+10 unidades monetárias, assinale a opção que corresponde à
+                                                                   D salarial.
+quantidade de unidades produzidas por essa firma.
+                                                                   E cambial.
+A 20
+B 25                                                                    Questão 8
+C 30                                                                      Ao elaborar o orçamento anual de um estado, um servidor
+D 35                                                               da secretaria da fazenda realizou apenas o lançamento líquido do
+E 40                                                               valor arrecadado como imposto sobre a propriedade de veículos
+                                                                   automotores (IPVA), subtraído da transferência da parcela devida
+     Questão 4
+                                                                   aos municípios.
+No que diz respeito aos efeitos econômicos relacionados à
+demanda por moeda, assinale a opção correta.                       Nessa situação hipotética, à luz do que dispõe a Constituição
+A Se os preços gerais dobrarem, então, para se manter o saldo      Federal de 1988 (CF), o lançamento realizado pelo servidor viola
+  real constante, a demanda por moeda cai pela metade.             o princípio
+B O aumento da taxa de juros gera aumento do agregado              A do orçamento bruto.
+  monetário M1.
+                                                                   B da anualidade.
+C A base monetária equivale ao agregado monetário M1.
+D A demanda por moeda cai com o aumento da inflação.               C da unidade.
+E O aumento do PIB real aumenta a demanda por moeda com            D da transparência.
+  impacto positivo no agregado monetário M1.                       E do equilíbrio.
+                                                                                          CEBRASPE – SEAD/SEFAZ – Edital: 2023
+
+     Questão 9                                                             Questão 14
+A respeito da progressividade e da neutralidade de tributos, julgue   De acordo com a Lei n.º 2.265/2010 do estado do Acre, os
+os itens a seguir.                                                    ocupantes dos cargos de auditor da receita estadual que estejam
+I   Um imposto que cobre um percentual fixo sobre a renda de          em efetivo exercício fazem jus à gratificação de
+    todos os contribuintes é um imposto progressivo.                  A produtividade fazendária.
+II Um imposto incidente sobre o valor de um patrimônio é              B atividade fazendária.
+    neutro.
+                                                                      C atividade do Tesouro.
+III Um imposto lump-sum, que cobre um valor fixo de cada
+    contribuinte, é neutro.                                           D produtividade fiscal.
+                                                                      E produtividade do Tesouro.
+Assinale a opção correta.
+                                                                           Questão 15
+A Nenhum item está certo.                                             Nos termos da Lei Complementar estadual n.º 39/1993, durante o
+B Apenas o item I está certo.                                         estágio probatório de um servidor público nomeado para cargo
+C Apenas o item II está certo.                                        de provimento efetivo em órgão do estado do Acre, sua aptidão e
+D Apenas o item III está certo.                                       capacidade de desenvolvimento serão objeto de avaliação, sendo
+E Todos os itens estão certos.
+                                                                      observada a sua
+     Questão 10
+Assinale a opção em que é apresentado um exemplo de atividade         I assiduidade.
+do Estado em sua função alocativa.                                    II disciplina.
+                                                                      III responsabilidade.
+A definição de metas de inflação
+                                                                      IV motivação.
+B pagamento de benefício de prestação continuada
+C cobrança de imposto sobre a renda                                   V proatividade.
+D produção de um bem público                                          Assinale a opção correta.
+E controle de preços administrados
+                                                                      A Apenas os itens I, II e III estão certos.
+     Questão 11                                                       B Apenas os itens I, II, IV e V estão certos.
+A respeito da renúncia de receita, julgue os itens seguintes.
+                                                                      C Apenas os itens I, III, IV e V estão certos.
+I   A renúncia de receita deve vir acompanhada de estimativa do       D Apenas os itens II, III, IV e V estão certos.
+    impacto orçamentário-financeiro apenas no exercício em que        E Todos os itens estão certos.
+    iniciar sua vigência, em função do princípio da anualidade.
+II A renúncia de receita pode vir acompanhada de medida de                 Questão 16
+    compensação que consista na criação de um novo tributo ou         Segundo a Lei n.º 9.784/1999, que regula o processo
+    contribuição.                                                     administrativo no âmbito da administração pública federal, a
+III Uma isenção de imposto somente constitui renúncia de              avocação temporária de competência atribuída a órgão
+    receita se for generalizada, ou seja, aplicável a todos os        hierarquicamente inferior será permitida
+    contribuintes que pagam o referido imposto.
+                                                                      I a critério do órgão delegante.
+Assinale a opção correta.                                             II em caráter excepcional.
+A Apenas o item I está certo.                                         III por interesse da autoridade delegante.
+B Apenas o item II está certo.                                        IV por motivos relevantes devidamente justificados.
+C Apenas os itens I e III estão certos.
+                                                                      Estão certos apenas os itens
+D Apenas os itens II e III estão certos.
+E Todos os itens estão certos.                                        A I e II.
+     Questão 12                                                       B II e III.
+Em determinado ano, no qual não tenha havido a emissão de             C II e IV.
+moeda, certo país apresenta inflação zero e superávit primário;       D I, II e III.
+nesse caso, um déficit nominal deve ser financiado com o              E I, III e IV.
+aumento da dívida pública. Tal aumento da dívida pública é
+também denominado necessidade de financiamento do setor                    Questão 17
+público, conceito nominal, e é igual à                                De acordo com a Nova Lei de Licitações e Contratos
+                                                                      Administrativos (Lei n.º 14.133/2021), a contratação de bens e
+A soma da variação nominal do PIB com os juros devidos no             serviços especiais se dará mediante a modalidade de licitação
+  período.                                                            denominada
+B despesa não financeira no período.
+C despesa de juros devidos no período.                                A diálogo competitivo.
+D senhoriagem no período.                                             B tomada de preços.
+E diferença entre os juros devidos no período e o superávit           C concorrência.
+  primário.                                                           D pregão.
+     Questão 13                                                       E concurso.
+A fiscalização, pela administração pública direta, das atividades          Questão 18
+de seus entes, a fim de garantir a observância das suas finalidades
+                                                                      É ato vinculado
+institucionais, exemplifica a manifestação do princípio da
+A legitimidade.                                                       A a concessão de anistia política.
+B hierarquia.                                                         B a licença para capacitação de servidores públicos.
+C tutela.                                                             C a escolha de dirigente de órgão público.
+D autotutela.                                                         D a transferência de militar.
+E especialidade.                                                      E a concessão de indulto.
+                                                                                            CEBRASPE – SEAD/SEFAZ – Edital: 2023
+
+     Questão 19                                                              Questão 23
+No que concerne ao sistema brasileiro de controle de                    No que diz respeito à ordem social na CF, assinale a opção
+constitucionalidade, assinale a opção correta.                          correta.
+A É necessário que o Senado Federal edite resolução para que a
+  declaração de inconstitucionalidade de norma pelo Supremo             A As atividades de ensino, pesquisa e extensão universitárias
+  Tribunal Federal produza efeitos para todas as pessoas.                 devem ser fixadas conforme diretrizes definidas pela chefia
+B O controle de constitucionalidade independe da noção de                 do Poder Executivo, em cada nível da Federação.
+  supremacia constitucional.
+C Ocorre inconstitucionalidade formal de uma norma quando               B As ações públicas de assistência social destinam-se
+  ela dispõe contrariamente sobre o conteúdo de uma norma                 exclusivamente ao amparo de crianças e adolescentes social
+  constitucional.                                                         ou economicamente carentes.
+D O controle difuso de constitucionalidade dá-se apenas nos
+  processos de competência do Supremo Tribunal Federal.                 C Compete privativamente aos orçamentos públicos da União,
+E O controle preventivo de constitucionalidade busca impedir a            dos estados e dos municípios o financiamento da seguridade
+  produção de normas jurídicas contrárias à Constituição, a fim           social.
+  de evitar que produzam efeitos.                                       D É objetivo das ações estatais de saúde não somente o
+     Questão 20                                                           restabelecimento da saúde, mas também a prevenção de
+A garantia constitucional da inviolabilidade domiciliar
+                                                                          riscos.
+A abrange não só a residência dos indivíduos, mas também seu            E Todos os trabalhadores devem filiar-se ao regime geral de
+  local de trabalho.
+B impede que se preste socorro no interior de residência, se              previdência social.
+  houver discordância do morador à entrada de pessoas.
+                                                                             Questão 24
+C dirige-se apenas a autoridades e agentes públicos, não a
+                                                                        Acerca     da     Convenção     Americana sobre   Direitos
+  pessoas privadas.
+D não se aplica, durante dia e noite, no caso de cumprimento de         Humanos (CADH), conhecida como Pacto de São José da Costa
+  ordem judicial.                                                       Rica, assinale a opção correta.
+E deve ser observada, mesmo quando houver concordância do
+  morador ao ingresso em seu domicílio.                                 A No sistema da CADH, a Corte Interamericana de Direitos
+     Questão 21                                                           Humanos é o órgão com competência exclusiva para
+No que diz respeito à administração pública, assinale a opção             concretizar a aplicação dos direitos previstos na convenção.
+correta.                                                                B Diante de qualquer possível agressão a direito protegido pela
+A Os direitos sociais previstos na CF para os empregados da               CADH, tornam-se imediatamente cabíveis as medidas de
+  iniciativa privada não se aplicam aos servidores públicos.
+B Os princípios constitucionais da administração pública                  intervenção da Corte Interamericana de Direitos Humanos.
+  aplicam-se a todos os órgãos e entes que a integram e, em             C Pessoas sem nacionalidade reconhecida (apátridas) não
+  grau variável, a pessoas jurídicas de direito privado e a               podem invocar os direitos previstos na CADH.
+  indivíduos.                                                           D A proteção a direitos humanos contida na CADH é de
+C Os princípios da eficiência e da proporcionalidade, embora
+  sejam aplicáveis à administração pública, são independentes e           natureza complementar à oferecida pelas normas internas.
+  não guardam relação entre si.                                         E A CADH não trata de direitos políticos.
+D A administração pública direta estadual compõe-se da
+  governadoria, das secretarias de Estado e das autarquias.                  Questão 25
+E Em virtude do princípio da isonomia, aplicado à                       No que diz respeito à evolução do direito comercial, julgue os
+  administração pública, esta deve tratar todos os administrados        itens a seguir.
+  do mesmo modo.
+     Questão 22                                                         I   A efervescência do mercado, sobretudo após a Revolução
+Julgue os itens a seguir, referentes às funções essenciais à justiça.       Industrial, fez surgir diversas atividades econômicas
+I   O regime jurídico (o conjunto de normas aplicáveis) do                  relevantes que não estavam compreendidas no conceito de
+    Ministério Público na Constituição Federal de 1988 (CF) é               atos de comércio ou de mercancia, razão pela qual a noção do
+    completamente distinto do regime jurídico destinado ao Poder            direito comercial fundada exclusivamente na figura dos atos
+    Judiciário.                                                             do comércio se mostrou totalmente ultrapassada.
+II O Ministério Público da União compreende quatro
+    sub-ramos, e sua chefia compete ao procurador-geral da              II O direito comercial deixou de ser o direito do comerciante
+    República.                                                              para tornar-se o direito da empresa, abrangendo uma gama
+III Os Ministérios Públicos estaduais são organizados e regidos             muito maior de relações jurídicas.
+    integralmente por leis federais, produzidas pelo
+    Congresso Nacional.                                                 III O Código Civil de 2002 adotou a teoria francesa dos atos de
+IV Os integrantes da Defensoria Pública, assim como os do                   comércio.
+    Ministério Público, gozam da garantia de independência
+    funcional.                                                          Assinale a opção correta.
+Assinale a opção correta.                                               A Apenas o item I está certo.
+A Apenas os itens I e II estão certos.                                  B Apenas o item III está certo.
+B Apenas os itens I e III estão certos.                                 C Apenas os itens I e II estão certos.
+C Apenas os itens II e IV estão certos.
+D Apenas os itens III e IV estão certos.                                D Apenas os itens II e III estão certos.
+E Todos os itens estão certos.                                          E Todos os itens estão certos.
+                                                                                           CEBRASPE – SEAD/SEFAZ – Edital: 2023
+
+     Questão 26                                                             Questão 29
+Considerando as disposições do Código Civil a respeito do              No que se refere a patentes e licença compulsória, assinale a opção
+direito da empresa, assinale a opção correta.                          correta conforme a Lei n.º 9.279/1996.
+A À associação que desenvolva atividade futebolística em               A É vedada a publicação de pedido de patente retirado ou
+  caráter habitual e profissional é defeso requerer inscrição no
+                                                                         abandonado.
+  registro público de empresas mercantis.
+                                                                       B A patente de invenção e a de modelo de utilidade vigorarão,
+B Na sociedade cooperativa, a responsabilidade dos sócios pode
+  ser limitada ou ilimitada.                                             respectivamente, pelos prazos de 15 anos e 20 anos, contados
+C É considerado empresário aquele que exerce esporadicamente             da data de depósito.
+  atividade econômica organizada para a produção ou                    C Quando se tratar de invenção ou de modelo de utilidade
+  circulação de bens ou de serviços.                                     realizado conjuntamente por duas ou mais pessoas, a patente
+D Sociedade limitada deve ser constituída por duas ou mais               deverá ser requerida por todas elas, para que os seus
+  pessoas.                                                               respectivos direitos sejam devidamente assegurados.
+E Sociedade que exerce atividade rural deve ser inscrita no
+                                                                       D É patenteável como modelo de utilidade o objeto de uso
+  registro público de empresas mercantis.
+                                                                         prático suscetível de aplicação industrial que envolva
+     Questão 27                                                          descobertas, teorias científicas e métodos matemáticos.
+Com base no Código Civil, na jurisprudência do Superior                E O titular da patente pode ter a sua patente licenciada
+Tribunal de Justiça (STJ) e na doutrina majoritária, julgue os
+                                                                         compulsoriamente se exercer os direitos dela decorrentes de
+seguintes itens, relativos à desconsideração da personalidade
+jurídica.                                                                forma abusiva, ou se por meio dela praticar abuso de poder
+                                                                         econômico, comprovado nos termos da lei, mediante decisão
+I   Para os fins de desconsideração da personalidade jurídica, o         administrativa ou judicial.
+    desvio de finalidade é a utilização da pessoa jurídica com o
+    propósito de lesar credores e praticar atos ilícitos de qualquer        Questão 30
+    natureza.                                                          Com fundamento na Lei n.º 11.101/2005, que regula a
+II A desconsideração da personalidade jurídica propriamente            recuperação judicial e extrajudicial e a falência, julgue os
+    dita se caracteriza pelo afastamento da autonomia patrimonial      seguintes itens.
+    da sociedade para atingir o ente coletivo e seu patrimônio
+    social, de modo a responsabilizar a pessoa jurídica por            I   A decretação da falência ou o deferimento do processamento
+    obrigações do sócio controlador.                                       da recuperação judicial não implica a suspensão das
+III A teoria da desconsideração inversa ou invertida não é                 execuções ajuizadas contra o devedor.
+    admitida no ordenamento jurídico brasileiro.                       II É competente para homologar o plano de recuperação
+Assinale a opção correta.                                                  extrajudicial, deferir a recuperação judicial ou decretar a
+                                                                           falência o juízo do local do principal estabelecimento do
+A Apenas o item I está certo.
+                                                                           devedor ou da filial de empresa que tenha sede fora do Brasil.
+B Apenas o item II está certo.
+C Apenas os itens I e III estão certos.                                III A citada lei aplica-se a instituição financeira pública ou
+D Apenas os itens II e III estão certos.                                   privada e a cooperativa de crédito.
+E Todos os itens estão certos.                                         IV Os credores estrangeiros têm os mesmos direitos conferidos
+     Questão 28                                                            aos credores nacionais nos processos de recuperação judicial,
+À luz da Lei n.º 6.404/1976 (Lei das Sociedades Anônimas),                 de recuperação extrajudicial ou de falência.
+julgue os itens a seguir.
+                                                                       Estão certos apenas os itens
+I   A companhia ou sociedade anônima terá o capital dividido
+    em ações, e a responsabilidade dos sócios ou acionistas será       A I e III.
+    limitada ao preço de emissão das ações subscritas ou               B I e IV.
+    adquiridas.                                                        C II e IV.
+II A constituição da companhia depende, entre outros requisitos,       D I, II e III.
+    da subscrição, por pelo menos duas pessoas, de todas as ações      E II, III e IV.
+    em que se divide o capital social fixado no estatuto.
+III O aumento do capital social mediante capitalização de lucros            Questão 31
+    ou de reservas importará alteração do valor nominal das ações             Ao definir uma amostra, o auditor define a distorção que
+    ou distribuições das ações novas, correspondentes ao               pode ter o mesmo valor ou valor menor que o da materialidade
+    aumento, entre acionistas, na proporção do número de ações         na execução da auditoria, que serve para avaliar o risco de que o
+    que possuírem.                                                     conjunto de distorções individualmente irrelevantes possa fazer
+IV A assembleia geral poderá deliberar a redução do capital            com que as demonstrações contábeis apresentem distorções
+    social da companhia se houver perda, até o montante dos            relevantes.
+    prejuízos acumulados, bem como se julgá-lo excessivo.
+                                                                       O texto precedente trata da distorção
+Assinale a opção correta.
+                                                                       A seletiva.
+A Apenas os itens I e II estão certos.
+B Apenas os itens I e IV estão certos.                                 B tolerável.
+C Apenas os itens II e III estão certos.                               C material.
+D Apenas os itens III e IV estão certos.                               D populacional.
+E Todos os itens estão certos.                                         E de amostragem.
+                                                                                         CEBRASPE – SEAD/SEFAZ – Edital: 2023
+
+     Questão 32                                                           Questão 37
+Se houver conflitos entre a estrutura de relatório financeiro        No que se refere à confiabilidade, a evidência da auditoria
+aplicável e as fontes sobre cuja aplicação pode-se obter
+orientação, ou entre as fontes que abrangem a estrutura de           A obtida de fontes externas às partes apropriadas é menos
+relatório financeiro,                                                  confiável que a evidência obtida das próprias partes.
+                                                                     B informal, como uma representação verbal do que foi
+A a fonte de referência deve ser a indicada pela junta comercial       discutido, é geralmente mais confiável do que a evidência
+  local.                                                               formal.
+B a escolha da fonte de referência deve ficar sob a escolha          C é sempre mais confiável quando for obtida de fontes internas
+  subjetiva do auditor.                                                à entidade auditada.
+C a fonte de referência deve ser a mais antiga da literatura         D gerada internamente é mais confiável quando os controles
+  contábil.                                                            relacionados são efetivos.
+D prevalece a fonte com a mais alta autoridade.                      E obtida indiretamente pelo auditor independente é geralmente
+E deve prevalecer a fonte de menor autoridade, em obediência
+                                                                       mais confiável que a evidência obtida diretamente.
+  ao princípio da equidade.
+     Questão 33                                                           Questão 38
+                                                                     Na auditoria do patrimônio líquido, deve-se considerar que a
+Quando a auditoria envolver a necessidade de análise de saldos
+bancários e a busca de informações a correntistas, geralmente há     reserva de lucros a realizar
+uma maior probabilidade de resposta se estes acreditarem que o       A poderá ser constituída no exercício em que o dividendo
+saldo de sua conta esteja subavaliado, e menor, se acreditarem         obrigatório for revertido para a constituição da reserva de
+que o saldo esteja superavaliado. Nessa situação, se a solicitação     lucros a realizar.
+de informações é feita pelo auditor para o correntista somente no    B deverá ser constituída no exercício em que o montante do
+caso de discordância das informações fornecidas na solicitação,        dividendo obrigatório ultrapassar a parcela realizada do lucro
+trata-se, então, do procedimento de auditoria denominado               líquido do exercício.
+A indagação.                                                         C deverá ser constituída no exercício em que a parcela realizada
+B procedimentos analíticos.                                            do lucro líquido do exercício ultrapassar o montante do
+C confirmação positiva.                                                dividendo obrigatório.
+D inspeção.                                                          D poderá ser constituída no exercício em que a parcela realizada
+E confirmação negativa.                                                do lucro líquido do exercício ultrapassar o montante do
+     Questão 34                                                        dividendo obrigatório.
+A diferença entre o valor divulgado de um item nas                   E poderá ser constituída no exercício em que o montante do
+demonstrações contábeis e o valor requerido para que o item            dividendo obrigatório ultrapassar a parcela realizada do lucro
+esteja de acordo com a estrutura de relatório financeiro aplicável     líquido do exercício.
+é definido como                                                           Questão 39
+A distorção.                                                         Assinale a opção em que é apresentado um recurso que atende às
+B suficiência da evidência.                                          condições exigidas para enquadramento na definição de ativo,
+C evidência.                                                         conforme pronunciamento técnico CPC 00 (R2)  Estrutura
+D erro.                                                              conceitual para relatório financeiro.
+E fraude.
+                                                                     A imóvel alugado de terceiros com perspectiva de utilização por
+     Questão 35                                                        um longo período de tempo
+        Em auditoria fiscal na empresa XYZ S.A., o auditor           B veículo adquirido por meio de uma operação de arrendamento
+identificou a contabilização de despesa de depreciação de ativo        financeiro
+intangível de uso ou duração limitada no tempo.                      C máquina sem valor residual, que não se encontra em
+Nesse caso hipotético,                                                 condições de funcionamento e cujo reparo não seja
+                                                                       recomendável em função de apresentar uma relação
+A o intangível deveria ser amortizado e não depreciado.                custo-benefício desfavorável
+B é adequada a depreciação de ativo intangível, uma vez que          D praça pública mantida por uma entidade com a autorização da
+  corresponde à perda do valor do capital aplicado na aquisição        prefeitura municipal da cidade
+  de direitos da propriedade industrial ou comercial.                E equipamento que uma entidade já tenha manifestado clara
+C a depreciação de ativo intangível deve ser registrada como           intenção de adquirir no futuro
+  despesa financeira, uma vez que corresponde à perda do valor
+  do capital aplicado na aquisição de direitos da propriedade             Questão 40
+  industrial ou comercial.                                           Assinale a opção em que estão apresentados corretamente o
+D é inadequada a depreciação de ativo intangível, sendo o            evento contábil e a demonstração contábil na qual esse evento
+  correto contabilizar exaustão para direitos da propriedade         pode ser encontrado.
+  industrial ou comercial.
+E o ativo intangível não pode ser amortizado ou depreciado,          A lucro ou prejuízo do exercício por ação do capital social;
+  porque têm vida útil indefinida.                                     demonstração do valor adicionado
+                                                                     B aumento de capital com a utilização de lucros e reservas;
+     Questão 36                                                        balanço patrimonial
+O fato de o auditor-fiscal verificar que o contribuinte pessoa       C lucro líquido ajustado pelas variações nos estoques e nas
+jurídica mantém em sua contabilidade o registro de obrigações já       contas operacionais a receber e a pagar; demonstração dos
+pagas ou cuja exigibilidade não seja comprovada caracteriza            fluxos de caixa
+A devedores duvidosos.                                               D distribuição da riqueza obtida pela entidade aos seus
+B omissão no registro de receita.                                      empregados; demonstração do resultado do exercício
+C ativo fictício.                                                    E parcela dos recursos econômicos da entidade que é financiada
+D saldo credor de caixa.                                               por capital de terceiros; demonstração das mutações do
+E receita fictícia.                                                    patrimônio líquido
+                                                                                        CEBRASPE – SEAD/SEFAZ – Edital: 2023
+
+     Questão 41                                                          Questão 44
+Assinale a opção que corresponde aos ativos que, de acordo com os   Julgue os itens a seguir, referentes a conceitos, terminologia e
+pronunciamentos técnicos do Comitê de Pronunciamentos               classificação próprios da contabilidade de custos.
+Contábeis (CPC), devem ser mensurados escolhendo-se o menor         I   As aquisições de maquinário produtivo e de matérias-primas
+valor entre o seu custo de aquisição e o seu valor realizável           são transações de investimento no processo produtivo.
+                                                                    II Além de alimentar a contabilidade financeira com
+líquido.
+                                                                        informações para registro de estoques e apuração de resultado
+                                                                        com mercadorias e serviços, a contabilidade de custos fornece
+A instrumentos financeiros
+                                                                        informações essenciais para os sistemas de contabilidade
+B propriedades para investimento                                        gerencial e orçamentário.
+C itens do ativo imobilizado                                        III A classificação dos custos de produção em fixos e variáveis,
+D itens do ativo intangível                                             além de estar condicionada pelo conceito de intervalo
+                                                                        relevante de produção, está associada à noção de volume de
+E mercadorias para revenda                                              produção, visto que, em relação à unidade produzida, o
+     Questão 42                                                         comportamento desses mesmos custos é exatamente o oposto.
+Assinale a opção que apresenta o evento o qual, ao ocorrer, deve    Assinale a opção correta.
+impactar positivamente o resultado do período de uma
+                                                                    A Apenas o item I está certo.
+companhia aberta.                                                   B Apenas o item III está certo.
+                                                                    C Apenas os itens I e II estão certos.
+A ajuste no valor do investimento avaliado pelo método da           D Apenas os itens II e III estão certos.
+  equivalência patrimonial em função do lucro realizado obtido      E Todos os itens estão certos.
+  pela investida                                                         Questão 45
+B recursos recebidos pela venda de mercadorias a serem                     Uma indústria têxtil produz peças de vestuário em sistema
+  entregues aos clientes no mês seguinte                            de produção contínua. Em relação ao último mês trabalhado, o
+                                                                    departamento de corte apresentou os seguintes dados para o
+C ajuste positivo no valor justo de instrumentos financeiros        estoque: inicial de 30 mil peças e final de 15 mil peças. Nesse
+  classificados como subsequentemente mensurados ao valor           mês, o departamento iniciou a produção de 175 mil peças e
+  justo por meio de outros resultados abrangentes                   foram enviadas 190 mil peças ao próximo departamento
+                                                                    produtivo. Os percentuais de acabamento das peças que
+D o produto da alienação de partes beneficiárias
+                                                                    compunham o estoque de produção no início e no fim do mês são
+E receitas a apropriar decorrentes de juros embutidos em contas     mostrados na tabela a seguir. Em seu sistema de custeio, a
+  a receber ajustadas a valor presente                              empresa utiliza o método da média ponderada móvel.
+
+     Questão 43                                                                   custo               inicial       final
+Julgue os itens a seguir, a respeito de custos de mercadorias,              de matérias-primas         65%          80%
+produtos vendidos e serviços prestados.                                     de conversão               30%          40%
+                                                                    Com base na situação apresentada, assinale a opção correta no
+I   Quando o ponto de equilíbrio é atingido por uma empresa,        que se refere à produção equivalente do referido mês, em termos
+    cada unidade adicional por ela vendida provocará um             de custos de matérias-primas e custos de conversão,
+    aumento no lucro líquido em valor igual à margem de             respectivamente.
+    contribuição unitária.                                          A 190 mil peças e 190 mil peças
+II Diferentemente do que ocorre no custeio por absorção, os         B 175 mil peças e 175 mil peças
+                                                                    C 202 mil peças e 196 mil peças
+    custos indiretos fixos não serão contemplados no cálculo do
+                                                                    D 196 mil peças e 202 mil peças
+    custo do produto vendido.                                       E 194,5 mil peças e 184 mil peças
+III As despesas de vendas somente poderão ser contempladas no            Questão 46
+    cálculo do custo dos produtos quando estiver em uso o                  Uma oficina metalúrgica utiliza, em seu processo
+    método do custeio variável.                                     produtivo por ordem de serviços, uma taxa predeterminada de
+                                                                    custos indiretos variáveis de produção de R$ 18,20 por hora de
+IV O pronunciamento técnico do Comitê de Pronunciamentos
+                                                                    mão de obra direta. No período de vigência dessa taxa, os custos
+    Contábeis que estabelece o tratamento contábil dos estoques     indiretos variáveis de produção somaram R$ 215.000 e o número
+    veda a utilização do custo-padrão como forma de mensuração      efetivo de horas de mão de obra direta, inicialmente estimado em
+    desses ativos.                                                  12.000 horas, foi de 11 mil horas.
+                                                                    Na situação hipotética apresentada, os custos indiretos variáveis
+Estão certos apenas os itens
+                                                                    de produção considerados nas ordens de serviço do período
+                                                                    foram
+A I e II.
+B I e IV.                                                           A subaplicados em R$ 14.800.
+                                                                    B superaplicados em R$ 14.800.
+C II e III.
+                                                                    C subaplicados em R$ 3.400.
+D I, III e IV.                                                      D superaplicados em R$ 3.400.
+E II, III e IV.                                                     E idênticos aos incorridos.
+                                                                                      CEBRASPE – SEAD/SEFAZ – Edital: 2023
+
+     Questão 47                                                         Questão 51
+       Determinada prestadora de serviços utiliza o custeio                Uma ação de execução fiscal foi ajuizada em desfavor de
+variável para fins de avaliação gerencial de seus resultados. No   um contribuinte que é pessoa idosa, hipossuficiente e
+período mais recente, a empresa faturou R$ 2,5 milhões, tendo      juridicamente incapaz. A propositura da ação de execução fiscal
+incorrido em custos variáveis de R$ 1 milhão, custos fixos de      visa à cobrança do pagamento de imposto sobre a propriedade
+R$ 450 mil, despesas variáveis de R$ 250 mil e despesas fixas de   territorial urbana (IPTU) relativo a um imóvel que o contribuinte
+R$ 300 mil.                                                        havia adquirido por meio de herança. O contribuinte embargou a
+                                                                   execução, alegando incapacidade econômica e jurídica para
+Nesse caso hipotético, o índice de margem de contribuição da       figurar no polo passivo da ação. No município onde o
+empresa foi de                                                     contribuinte reside, não há regra que estabeleça qualquer
+                                                                   tratamento benéfico aos incapazes.
+A 20%.
+B 30%.                                                             Na situação hipotética apresentada, à luz do Código Tributário
+C 40%.                                                             Nacional (CTN), o juiz deve
+D 50%.                                                             A isentar o contribuinte do pagamento do IPTU devido, com
+E 60%.                                                               base na aplicação da equidade.
+     Questão 48                                                    B processar regularmente a execução fiscal, pois, em razão da
+       Determinada empresa, que atinge seu ponto de equilíbrio       equidade, não se pode dispensar a exigência do pagamento de
+contábil ao vender 100 mil unidades de seu único produto,            tributo.
+atualmente está apresentando uma margem de segurança de 50%.       C isentar o contribuinte do pagamento do IPTU devido, dada a
+Sua margem de contribuição unitária é de R$ 18 e representa          ausência de capacidade econômica deste.
+60% do preço de venda. O grau de alavancagem operacional           D isentar o contribuinte do pagamento do IPTU devido, dada a
+atual é igual a 3. Para melhorar seu retorno, a empresa acaba de     ausência de capacidade jurídica deste.
+firmar uma parceria sem custos com outra empresa. A estimativa     E diferir o pagamento do IPTU devido para o momento em que
+é de que as vendas de ambas as empresas cresçam 10% com a            o contribuinte adquirir condições financeiras para realizá-lo.
+parceria.                                                               Questão 52
+                                                                   Suponha que dois amigos tenham constituído uma empresa
+Nessa situação hipotética, o incremento esperado no lucro atual    destinada à produção e venda de salgadinhos e que, desde sua
+da empresa é de                                                    constituição, ela funcione informalmente na casa de um deles.
+A R$ 60.000.                                                       Nessa situação hipotética, de acordo com o CTN, a empresa
+B R$ 100.000.                                                      A não tem capacidade tributária passiva, pois o
+C R$ 135.000.                                                        empreendimento é exercido de modo artesanal.
+D R$ 270.000.                                                      B tem capacidade tributária passiva, em razão de ter sido
+E R$ 450.000.                                                        constituída por dois sócios e ter endereço de funcionamento
+     Questão 49                                                      certo.
+No que se refere à instituição de contribuições para custeio de    C tem capacidade tributária passiva, pois configura uma
+regime próprio de previdência social, deve-se observar a regra       unidade econômica.
+constitucional segundo a qual                                      D não tem capacidade tributária passiva, pois não possui
+                                                                     registro no Cadastro Nacional de Pessoas Jurídicas (CNPJ).
+A a contribuição a ser cobrada dos servidores ativos incidirá      E não tem capacidade tributária passiva, pois funciona sem
+  apenas sobre os vencimentos fixos.                                 registro de pessoa jurídica em junta comercial.
+B somente a União e os estados podem instituir tais
+  contribuições.                                                        Questão 53
+                                                                   Suponha que determinado empresário tenha constituído uma
+C as alíquotas podem ser progressivas de acordo com o valor da
+                                                                   empresa de pequeno porte e que tenha optado pelo regime do
+  base de contribuição.
+                                                                   Simples Nacional, com base na Lei Complementar n.º 123/2006.
+D somente podem ser cobradas tais contribuições dos servidores
+                                                                   Nesse caso, a empresa terá tratamento diferenciado e favorecido
+  ativos.
+                                                                   no que se refere ao recolhimento
+E tais contribuições devem ser instituídas por meio de lei
+  complementar.                                                    A de taxas estaduais, mas não de impostos municipais.
+                                                                   B de taxas federais, mas não de taxas estaduais.
+     Questão 50
+O legislador poderá propor alteração nas normas tributárias, por   C de contribuições federais, mas não de impostos municipais.
+meio de lei ordinária, em matéria de                               D de impostos federais, mas não de contribuições federais.
+                                                                   E de impostos estaduais, mas não de taxas federais.
+A definição das alíquotas dos impostos previstos na
+                                                                        Questão 54
+  Constituição Federal de 1988.                                    Assinale a opção que corresponde a um serviço sobre o qual
+B criação de imposto residual.                                     incide o imposto sobre serviços de qualquer natureza (ISSQN).
+C definição das bases de cálculo dos impostos previstos na
+  Constituição Federal de 1988.                                    A transporte intermunicipal de cargas
+D definição dos fatos geradores dos impostos previstos na          B transporte interestadual de pessoas
+  Constituição Federal de 1988.                                    C transporte intermunicipal de pessoas
+E definição dos contribuintes dos impostos previstos na            D transporte interestadual de cargas
+  Constituição Federal de 1988.                                    E transporte intramunicipal de pessoas
+                                                                                         CEBRASPE – SEAD/SEFAZ – Edital: 2023
+
+     Questão 55                                                           Questão 59
+A respeito do processo administrativo tributário (PAT), assinale a   A respeito do imposto sobre a propriedade de veículos
+opção correta, considerando as disposições da Lei Complementar       automotores (IPVA), considerando a Lei Complementar estadual
+estadual n.º 413/2022.                                               n.º 114/2002, julgue os itens seguintes.
+A A defesa apresentada pelo contribuinte fora do prazo legal,        I   A base de cálculo para fins de cobrança do IPVA é o valor
+  embora não impeça o conhecimento do recurso, será                      venal do veículo, sendo tal valor, no caso de veículo novo, o
+  desprovida de efeitos suspensivos.                                     lançado no documento fiscal de aquisição do veículo,
+B O PAT será extinto quando a questão nele controvertida for
+                                                                         incluídos os valores dos opcionais e acessórios.
+  submetida à apreciação do Poder Judiciário.
+                                                                     II O pagamento do IPVA ficará sujeito à homologação pela
+C O PAT inicia-se por meio de reclamação apresentada pelo
+  contribuinte contra a inscrição em dívida ativa do crédito             autoridade administrativa competente.
+  tributário.                                                        III O adquirente de veículo automotor usado que possua débitos
+D Não se admite a realização de diligências no âmbito do PAT.            de exercícios anteriores em relação ao IPVA somente
+E É prescindível a formalização de procuração para que o                 responderá pelo imposto relativo ao exercício em que efetuou
+  advogado postule no âmbito do PAT.                                     a compra do veículo.
+     Questão 56                                                      Assinale a opção correta.
+No que se refere ao imposto sobre a transmissão causa mortis e
+doação de quaisquer bens ou direitos (ITCMD), considerando as        A Apenas o item I está certo.
+disposições da Lei Complementar estadual n.º 373/2020 e a            B Apenas o item III está certo.
+jurisprudência do Supremo Tribunal Federal (STF), julgue os          C Apenas os itens I e II estão certos.
+itens seguintes.                                                     D Apenas os itens II e III estão certos.
+                                                                     E Todos os itens estão certos.
+I   O ITCMD incidirá nos casos em que a renúncia à herança
+    seja feita sem ressalvas, quando esta ocorrer em benefício do         Questão 60
+    monte partilhável.                                               No que concerne ao tratamento tributário relativo às taxas
+II O ITCMD incide nos casos de transmissão causa mortis              do Poder Executivo do estado do Acre, de acordo com a
+    ainda que relacionada à sucessão provisória.                     Lei Complementar estadual n.º 376/2020, assinale a opção
+III Nos casos em que o doador ou o de cujus for residente ou         correta.
+    domiciliado no exterior, o estado do Acre possui competência
+    supletiva para disciplinar essa situação para fins de cobrança   A A fiscalização das taxas previstas na citada lei é atividade
+    do ITCMD, até que sobrevenha lei federal que fixe normas           privativa dos auditores da Receita Estadual da SEFAZ/AC.
+    gerais.                                                          B A citada lei autoriza a cobrança de taxa em decorrência da
+                                                                       prestação de serviços relativos à vida funcional de servidores,
+Assinale a opção correta.                                              porquanto individualizável.
+A Apenas o item I está certo.                                        C A cobrança da taxa de serviços estaduais não comporta a
+B Apenas o item II está certo.                                         responsabilidade solidária em relação ao polo passivo da
+C Apenas os itens I e III estão certos.                                relação obrigacional, para fins de pagamento do tributo.
+D Apenas os itens II e III estão certos.                             D Taxa pode ser cobrada em decorrência do exercício, de forma
+E Todos os itens estão certos.                                         efetiva ou potencial, do poder de polícia por órgão estadual.
+     Questão 57                                                      E O pagamento de taxa relativa ao exercício atual pode ser
+Em relação ao imposto sobre a circulação de mercadorias e              aproveitado para os exercícios anteriores nos quais aquela
+serviços (ICMS), assinale a opção correta conforme a Lei               não tenha sido adimplida.
+Complementar n.º 87/1996 (Lei Kandir), a Lei Complementar
+estadual n.º 55/1997 e a jurisprudência dos tribunais superiores.    Espaço livre
+
+A A Lei Complementar estadual n.º 55/1997 não adota a
+  seletividade para fins de cobrança do ICMS, razão pela qual
+  as alíquotas relativas às operações com energia elétrica no
+  estado do Acre podem ser fixadas no patamar máximo.
+B O ICMS não incide sobre operações interestaduais relativas a
+  energia elétrica, exceto se destinadas à industrialização.
+C As entradas de mercadorias ou a utilização de serviços
+  resultantes de operações ou prestações isentas ou não
+  tributadas dão direito a crédito de ICMS em relação ao
+  estabelecimento comercial adquirente.
+D A base de cálculo do ICMS é o valor da operação que, nos
+  casos de vendas a prazo, será o preço normal da mercadoria
+  (preço de venda à vista) com acréscimo decorrente do
+  parcelamento.
+E O ICMS incide sobre a prestação de serviços suplementares
+  ao serviço de comunicação.
+     Questão 58
+De acordo com as disposições do CTN, a moratória
+A constitui o crédito tributário.
+B garante o pagamento do crédito tributário.
+C suspende a exigibilidade do crédito tributário.
+D extingue o crédito tributário.
+E exclui o crédito tributário.
+

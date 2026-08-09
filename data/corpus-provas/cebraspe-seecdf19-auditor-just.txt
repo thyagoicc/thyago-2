@@ -1,0 +1,1253 @@
+SECRETARIA DE ESTADO DE ECONOMIA
+DO DISTRITO FEDERAL (SEEC/DF)
+
+
+
+
+    CADERNO DE PROVAS OBJETIVAS
+                                                                                                                                           CONCURSO PÚBLICO
+
+
+                                                                                                                                              APLICAÇÃO: 2020
+
+
+                                                                                                                                                     TARDE
+
+                                                           LEIA COM ATENÇÃO AS INSTRUÇÕES ABAIXO.
+
+1    Ao receber este caderno de provas, confira inicialmente se os                           2        Durante a realização das provas, não se comunique com
+     seus dados pessoais, transcritos acima, estão corretos e                                         outros(as) candidatos(as) nem se levante sem autorização de
+
+     coincidem com o que está registrado na sua Folha de Respostas.                                   um(a) dos(as) aplicadores(as) de provas.
+                                                                                             3        Na duração das provas, está incluído o tempo destinado à
+     Confira também o seu nome em cada página numerada deste
+                                                                                                      identificação — que será feita no decorrer das provas — e ao
+     caderno de provas (desconsidere estas instruções, caso se trate
+                                                                                                      preenchimento da Folha de Respostas.
+     de caderno de provas reserva). Em seguida, verifique se ele                             4        Ao terminar as provas, chame o(a) aplicador(a) de provas mais
+     contém a quantidade de itens indicada em sua Folha de                                            próximo(a), devolva-lhe a sua Folha de Respostas e deixe o local
+     Respostas, correspondentes às provas objetivas. Caso o caderno                                   de provas.
+                                                                                             5        Nenhuma folha deste caderno pode ser destacada, exceto a Folha
+     esteja incompleto, tenha qualquer defeito e(ou) apresente
+                                                                                                      de Respostas, cujo cabeçalho será destacado pelo(a) chefe de
+     divergência quanto aos seus dados pessoais, solicite, de imediato,
+                                                                                                      sala ao final das provas, para fins de desidentificação.
+     ao(à) aplicador(a) de provas mais próximo(a) que tome as
+                                                                                             6        A desobediência a qualquer uma das determinações constantes
+     providências necessárias.                                                                        em edital, no presente caderno ou na Folha de Respostas implicará
+
+    OBSERVAÇÕES:                                                                                      a anulação das suas provas.
+
+    • Não serão conhecidos recursos em desacordo com o estabelecido em edital.
+    • É permitida a reprodução deste material apenas para fins didáticos, desde que citada a fonte.
+
+     INFORMAÇÕES ADICIONAIS: 0(XX) 61 3448-0100 | www.cebraspe.org.br | sac@cebraspe.org.br
+||IdentificaPDF||                                                                                                CEBRASPE – SEECDF – Aplicação: 2020
+
+•       Cada um dos itens das provas objetivas está vinculado ao comando que imediatamente o antecede. De acordo com o comando a que
+        cada um deles esteja vinculado, marque, na Folha de Respostas, para cada item: o campo designado com o código C, caso julgue
+        o item CERTO; ou o campo designado com o código E, caso julgue o item ERRADO. A ausência de marcação ou a marcação de
+        ambos os campos não serão apenadas, ou seja, não receberão pontuação negativa. Para as devidas marcações, use a Folha de
+        Respostas, único documento válido para a correção das suas provas objetivas.
+•       Caso haja item(ns) constituído(s) pela estrutura Situação hipotética: ... seguida de Assertiva: ..., os dados apresentados como situação
+        hipotética deverão ser considerados premissa(s) para o julgamento da assertiva proposta.
+•       Nos itens que avaliarem conhecimentos de informática e(ou) tecnologia da informação, a menos que seja explicitamente informado
+        o contrário, considere que todos os programas mencionados estão em configuração-padrão e que não há restrições de proteção, de
+        funcionamento e de uso em relação aos programas, arquivos, diretórios, recursos e equipamentos mencionados.
+•       Eventuais espaços livres — identificados ou não pela expressão “Espaço livre” — que constarem deste caderno de provas poderão
+        ser utilizados para rascunho.
+
+                                                       CONHECIMENTOS GERAIS
+                                                                                            Considerando as informações veiculadas no texto CG1A1-I, julgue
+                LÍNGUA PORTUGUESA                                                           os itens seguintes.
+
+Texto CG1A1-I                                                                               1   Os resultados da pesquisa realizada pelos dois professores do
+                                                                                                IMD refletem a atitude dos executivos quanto à
+    1             Grandes companhias globais falam muito em                                     sustentabilidade, conforme comprovam as informações do
+        sustentabilidade ambiental e descarbonização de sua produção,
+                                                                                                segundo parágrafo do texto.
+        mas o que fazem na prática é insuficiente. A implementação de
+    4   programas de sustentabilidade corporativa tem sido lenta,                               JUSTIFICATIVA: ERRADO. O texto sugere que os estudos
+        conforme estudo de dois professores do International Institute                          atestam exatamente o contrário: existe divergência entre o que
+        for Management Development (IMD), instituto de                                          os executivos afirmam e o que as empresas realizam em termos
+    7   administração sediado na cidade suíça de Lausanne.                                      de sustentabilidade.
+                  Dos executivos consultados em outra pesquisa
+        realizada pelo IMD, 62% consideram estratégias de
+10      sustentabilidade necessárias para serem competitivos                                2   De acordo com as informações do texto, setores econômicos
+        atualmente, e outros 22% dizem que isso será importante no                              distintos apresentam resultados diferentes em termos de ações
+        futuro. Sustentabilidade é vista como uma abordagem de                                  voltadas para a sustentabilidade.
+13      negócios para criar valor a longo prazo, levando-se em conta                            JUSTIFICATIVA: CERTO. O que está afirmado no item pode
+        como uma companhia opera nos ambientes ecológico, social e                              ser comprovado neste trecho do texto: “Alguns setores têm
+        econômico.                                                                              melhores resultados na implementação de programas de
+16                Em pesquisa com dez setores industriais ao longo de
+                                                                                                sustentabilidade, como o setor de material de construção, em
+        três anos, os dois professores do IMD concluíram que, ao
+        contrário do otimismo gerado pelo Acordo de Paris para                                  comparação ao de telecomunicações.”.
+19      combater a mudança climática e pelos Objetivos de
+        Desenvolvimento Sustentável das Nações Unidas, as iniciativas                       3   O texto informa que os investidores levam em consideração o
+        nas empresas deixam a desejar. Na pesquisa, eles constataram                            impacto social das empresas nas quais investem, o que é
+22      que menos de um terço das companhias desenvolveram casos
+                                                                                                comprovado pelo estudo mencionado no segundo parágrafo.
+        de negócios claros ou proposições de valor apoiadas em
+        sustentabilidade. Além disso, apenas 10% das empresas estão                             JUSTIFICATIVA: ERRADO. Essa informação encontra-se no
+25      conseguindo captar o valor total da sustentabilidade, enquanto                          penúltimo parágrafo do texto, associada ao estudo dos dois
+        muitas companhias restam presas na “divulgação”. Alguns                                 professores. O segundo parágrafo trata dos resultados de outra
+        setores têm melhores resultados na implementação de                                     pesquisa.
+28      programas de sustentabilidade, como o setor de material de
+        construção, em comparação ao de telecomunicações.
+                  Os professores alertam que o tempo está esgotando.                        4   Conclui-se da noção de sustentabilidade presente no texto que
+31      Estudos mostram que a poluição de carbono precisa ser cortada                           ser sustentável é incompatível com criar valor.
+        quase pela metade até 2030 para evitar 1,5 grau de                                      JUSTIFICATIVA: ERRADO. O texto afirma que
+        aquecimento do planeta. Isso requer revisões ainda mais                                 “Sustentabilidade é vista como uma abordagem de negócios
+34      drásticas das indústrias globais e dos governos.                                        para criar valor a longo prazo” (R. 12 e 13).
+                  Os dois professores destacam que os investidores
+        reconhecem cada vez mais o impacto, para a sociedade, das
+37      empresas nas quais investem. Eles notam que a necessidade de                        Considerando os aspectos linguísticos do texto CG1A1-I, julgue os
+        desenvolver modelos de negócios mais sustentáveis está                              itens a seguir.
+        aumentando tão rapidamente quanto os níveis de dióxido de
+40      carbono na atmosfera. E sugerem um forte senso de foco que                          5   O texto é um artigo de opinião, em que predomina o tipo
+        chamam de “vetorização”, que inclui programas de                                        argumentativo, haja vista a presença de diversos argumentos
+        sustentabilidade corporativa mais acelerados.                                           para sustentar a ideia defendida por seu autor.
+43                Os pesquisadores alertam que companhias que                                   JUSTIFICATIVA: ERRADO. O texto é predominantemente
+        trabalham em boas causas sem relação com seus negócios
+                                                                                                dissertativo, uma vez que se estrutura em termos de
+        centrais tendem a ser menos efetivas.
+                                                                                                apresentação de resultados e conclusões de estudos realizados
+                                            Assis Moreira. Valor econômico, 18/3/2019.
+                                            Internet: <valor.globo.com> (com adaptações).       sobre o tema da sustentabilidade.
+
+/R*Cargo: Auditor-Fiscal da Receita do Distrito Federal *R/                                                                               /C*Caderno X*C/ – 1 –
+||IdentificaPDF||                                                                                   CEBRASPE – SEECDF – Aplicação: 2020
+
+6    Sem prejuízo da correção gramatical e do sentido original do
+     texto, a forma verbal “restam” (R.26) poderia ser substituída                     CONHECIMENTOS SOBRE
+     por mantém-se.                                                                      O DISTRITO FEDERAL
+     JUSTIFICATIVA: ERRADO. A forma verbal sugerida
+     apresenta flexão de singular (mantém-se) em vez de plural                A respeito de aspectos econômicos do Distrito Federal (DF),
+     (mantêm-se), o que implica erro de concordância verbal no                julgue os itens a seguir.
+     período; logo, a correção gramatical ficaria prejudicada com a
+                                                                              11   O DF carece de grandes indústrias e de empresas privadas
+     substituição.
+                                                                                   e apresenta uma desigual distribuição de renda entre as
+                                                                                   diferentes regiões administrativas, o que inibe a formação
+7    A substituição da forma verbal “desenvolveram” (R.22) por                     de um mercado consumidor expressivo.
+     desenvolveu manteria a correção gramatical do texto.                          JUSTIFICATIVA: ERRADO. Brasília é muito mais que o
+     JUSTIFICATIVA: CERTO. O sujeito da oração em apreço é                         centro político do Brasil; é um polo econômico em uma cidade
+     o coletivo partitivo “menos de um terço das companhias”                       atípica e diversificada. Possui um expressivo mercado
+                                                                                   consumidor, com 2,9 milhões de pessoas cuja renda média é
+     (R.22). Nesse caso, o verbo pode ir tanto para o plural, como
+                                                                                   até três vezes maior que a nacional, o que evidencia um grande
+     consta no texto, quanto para o singular, como consta na
+                                                                                   potencial de desenvolvimento.
+     substituição proposta na assertiva.
+                                                                              12   A grande extensão territorial de unidades de conservação
+8    Dada a regência do verbo tender, é facultativo o emprego do                   de uso restrito e controlado inibiu o desenvolvimento
+     sinal indicativo de crase no vocábulo “a” em “tendem a ser                    do setor agropecuário no DF e a expansão do agronegócio
+     menos efetivas” (R.45).                                                       e de hortifrutigranjeiros para abastecer a capital federal
+     JUSTIFICATIVA: ERRADO. Considerando o termo a que se                          aconteceu nos municípios goianos e mineiros do entorno.
+     liga a expressão “tendem a”, o emprego do acento grave                        JUSTIFICATIVA: ERRADO. Apesar das extensas áreas
+     indicativo da crase seria inadequado em termos de correção gramatical.        protegidas por unidades de conservação em suas diferentes
+                                                                                   tipologias, o setor agropecuário se desenvolveu no Distrito
+                                                                                   Federal, tanto na produção de hortifrutigranjeiros, quanto na
+9    Sem prejuízo da correção gramatical e da coerência do texto,                  produção de commodities de exportação. Nas áreas rurais das
+     o período “Sustentabilidade é vista como uma abordagem de                     regiões administrativas de Brazlândia, Sobradinho, Planaltina,
+     negócios para criar valor a longo prazo, levando-se em conta                  Paranoá e São Sebastião, essas atividades são desenvolvidas
+     como uma companhia opera nos ambientes ecológico, social e                    em larga escala e com altos índices de produtividade. O
+     econômico.” (R. 12 a 15) poderia ser reescrito da seguinte                    PAD/DF foi o primeiro e mais importante mostruário das
+     forma: Vê-se sustentabilidade como uma abordagem de                           potencialidades e possibilidades agrícolas dos cerrados
+     negócios para criar valor a longo prazo, considerando-se como                 brasileiros, constituindo o mais bem sucedido programa de
+                                                                                   colonização e reforma agrária do país, e cumpriu
+     uma companhia opera no ambiente ecológico, no social e no
+                                                                                   exemplarmente o papel da nova capital da República, de
+     econômico.
+                                                                                   interiorizar e integrar o desenvolvimento.
+     JUSTIFICATIVA: CERTO. A reescrita em questão apresenta
+     três alterações que preservam a correção gramatical e a
+     coerência do texto. Na primeira alteração, nota-se a                             ADMINISTRAÇÃO PÚBLICA
+     substituição de uma construção na voz passiva analítica
+     (“Sustentabilidade é vista”) pela forma sintética (“Vê-se                Em relação à organização do Estado e da administração pública,
+     sustentabilidade”). Em seguida, o trecho “levando-se em                  julgue os seguintes itens.
+     conta” foi substituído por “considerando-se”. Uma das
+                                                                              13   O princípio da legalidade se aplica apenas ao Poder Executivo
+     acepções do verbo considerar é justamente “ter ou levar em
+                                                                                   federal.
+     conta; tomar em consideração; atentar para”. Por fim, houve a
+                                                                                   JUSTIFICATIVA: ERRADO. O princípio da legalidade é
+     substituição do trecho “nos ambientes ecológico, social e                     consagrado no art. 37 da Constituição Federal de 1988 como
+     econômico” por “no ambiente ecológico, no social e no                         um dos princípios norteadores da atuação do estado e da
+     econômico”. Neste caso, passou-se o substantivo “ambientes”                   administração pública no Brasil. Segundo esse princípio, o
+     para o singular, e tal termo está elidido nos demais membros da               agente público, de qualquer nível federativo e de qualquer
+     coordenação (no ambiente ecológico, no [ambiente] social e no                 poder da administração pública direta ou indireta, somente
+     [ambiente] econômico).                                                        pode fazer aquilo que é expressamente autorizado pela lei.
+
+
+10   No trecho “os investidores reconhecem cada vez mais o                    14   Compete privativamente à União legislar sobre o sistema
+     impacto, para a sociedade, das empresas nas quais investem”                   monetário e de medidas, títulos e garantia de valores.
+                                                                                   JUSTIFICATIVA: CERTO. No âmbito da Constituição
+     (R. 35 a 37), a substituição de “nas quais” por aonde
+                                                                                   Federal de 1988, manteve-se como competência privativa da
+     prejudicaria a correção gramatical do texto.                                  União legislar sobre matérias que versem sobre o sistema
+     JUSTIFICATIVA: CERTO. Com a substituição, haveria erro                        monetário e seus instrumentos, uma vez que a competência
+     de regência verbal em razão do uso da preposição “a” no termo                 comum da União, de estados, do Distrito Federal e de
+     regido pela forma verbal “investem”, que exige a preposição                   municípios, de legislar sobre esses temas poderia levaria a um
+     “em”.                                                                         desarranjo sistêmico de consequências imprevisíveis.
+
+/R*Cargo: Auditor-Fiscal da Receita do Distrito Federal *R/                                                                  /C*Caderno X*C/ – 2 –
+||IdentificaPDF||                                                                            CEBRASPE – SEECDF – Aplicação: 2020
+
+No que se refere à administração pública brasileira, julgue os itens
+a seguir.
+                                                                                CONTABILIDADE PÚBLICA
+                                                                       Relativamente à natureza e ao propósito dos ativos e passivos do
+15   O modelo de administração pública gerencial respondeu             setor público, julgue os itens que se seguem.
+     à expansão das funções econômicas e sociais da sociedade
+                                                                       19   Para que os objetivos da informação contábil sejam
+     com uma proposta de diminuição do tamanho do Estado.                   alcançados, pode-se reconhecer, nas demonstrações contábeis,
+     JUSTIFICATIVA: CERTO. De fato, à medida que a economia                 recurso ou obrigação que não satisfaça a definição de elemento
+                                                                            definido na estrutura conceitual.
+     se tornava mais globalizada e as relações sociais mais                 JUSTIFICATIVA: CERTO. Em alguns casos, ao se
+     complexas, houve uma demanda para que o Estado como um                 desenvolver ou revisar uma NBC TSP, pode-se determinar
+     todo se tornasse menos intervencionista e as estruturas                que, para o alcance dos objetivos da informação contábil, o
+                                                                            recurso ou a obrigação que não satisfaça a definição de
+     governamentais em particular fossem mais eficientes na busca           elemento definido nesta estrutura conceitual seja reconhecido
+     por resultados. Nesse contexto, surgiram as reformas                   nas demonstrações contábeis.
+     administrativas em diversos países. Isso resultou na
+                                                                       20   Para que uma entidade do setor público seja capaz de acessar
+     implantação do modelo de administração pública gerencial.              o potencial de serviços associado a um recurso, é necessário
+                                                                            que essa entidade obtenha direitos jurídicos sobre ele.
+                                                                            JUSTIFICATIVA: ERRADO. A entidade pode ser capaz de
+16   As políticas de compliance no âmbito da administração                  acessar o potencial de serviços ou a capacidade de gerar
+     pública objetivam garantir que os servidores públicos prestem          benefícios econômicos associados ao recurso
+                                                                            independentemente da obtenção de direitos jurídicos.
+     contas, aos órgãos de controle, das atividades exercidas no
+     âmbito de suas funções.                                           21   Para que uma obrigação presente exista, é essencial conhecer
+     JUSTIFICATIVA: ERRADO. A prestação de contas aos                       a identidade dos terceiros antes da época da extinção do
+                                                                            passivo.
+     órgãos de controle é uma característica inerente à função              JUSTIFICATIVA: ERRADO. Não é essencial saber a
+     pública e um princípio legal. As políticas de compliance, na           identidade dos terceiros antes da época da extinção do passivo
+     verdade, têm por objetivo prevenir e combater práticas ilícitas        para que a obrigação presente exista.
+     praticadas contra a administração pública, fomentando a
+                                                                       Considerando que os sistemas de custos dos entes públicos
+     emergência de um ambiente em que a reputação de uma               objetivam a mensuração, o controle e a avaliação de custos
+     organização tenha valor econômico e no qual propina, suborno      na administração pública, julgue os itens a seguir.
+     e congêneres constituam infrações previstas em lei, sujeitas à    22   A contabilização dos itens de custo subsidia o gestor e os
+     punição.                                                               demais usuários de informações sobre os insumos utilizados
+                                                                            pelos entes públicos no processo de prestação de serviços
+                                                                            à sociedade.
+                                                                            JUSTIFICATIVA: CERTO. Os itens de custo podem ser
+Ciente de que seus atos, comportamentos e atitudes implicam a               definidos como agregadores dos insumos utilizados, que têm
+preservação da imagem da administração pública, o servidor                  por objetivo identificar o que se consome, sem relação com a
+público deve                                                                finalidade do objeto de gasto. Cabe destacar que o Tesouro
+                                                                            Nacional estabeleceu a definição de itens de custo. A
+                                                                            finalidade gerencial dessa informação é ser um dos
+17   evitar ações que atrasem a prestação do serviço público.               instrumentos para os gestores nos seus processos decisórios.
+     JUSTIFICATIVA: CERTO. Está previsto no art. 6.º, inciso III.
+     Art. 6.º do Código de Ética do Poder Executivo do DF:             23   São exemplos de itens de custo das entidades públicas os
+                                                                            gastos incorridos com o pagamento de salários e a aquisição
+     “É dever do servidor ou empregado público:
+                                                                            de computadores e material de consumo.
+     (...)                                                                  JUSTIFICATIVA: ERRADO. A aquisição de bens duráveis,
+     III – exercer as atribuições com eficiência e excelência,              como computadores, não é custo, mas investimento.
+     evitando ações que atrasem a prestação do serviço públicop”.
+                                                                       24   O acesso à informação de custos permite a avaliação de riscos
+                                                                            na aplicação de recursos públicos voltados ao alcance das
+                                                                            metas estabelecidas na ação governamental.
+18   fazer uso dos recursos públicos com economicidade e clareza,           JUSTIFICATIVA: CERTO. Informações de custos associadas
+     no desempenho de suas atribuições.                                     podem, muitas vezes, clarificar uma tomada de decisão ou,
+     JUSTIFICATIVA: CERTO. Código de Ética dos Servidores                   ainda, explicitar riscos. E quando se fala em setor público,
+                                                                            onde as demandas a serem atendidas são bem superiores aos
+     do Poder Executivo do Distrito Federal, art. 6.º, inciso XXIII:        recursos disponíveis, tais escolhas ganham uma relevância
+     “É dever do servidor ou empregado público utilizar os recursos         ainda maior. É essencial que o gestor conheça seus custos, com
+                                                                            o propósito de direcioná-los, ou, ainda, realizar alterações em
+     públicos disponíveis com responsabilidade, economicidade e             procedimentos e alocações em projetos e atividades, a fim de
+     clareza.”.                                                             atender os objetivos esperados.
+
+/R*Cargo: Auditor-Fiscal da Receita do Distrito Federal *R/                                                            /C*Caderno X*C/ – 3 –
+||IdentificaPDF||                                                                               CEBRASPE – SEECDF – Aplicação: 2020
+
+Com base nas normas que regem a contabilidade pública, julgue            Acerca da responsabilidade civil do Estado, julgue o item a seguir.
+os itens a seguir.
+                                                                         29   Uma vez que o ordenamento jurídico brasileiro adota a teoria
+25   O saldo da receita disponível no balanço orçamentário deve
+                                                                              da responsabilidade objetiva do Estado, com base no risco
+     ser maior ou igual a zero, uma vez que é vedado realizar
+     despesas sem a fonte de recursos correspondente.                         administrativo, a mera ocorrência de ato lesivo causado pelo
+     JUSTIFICATIVA: ERRADO. A receita disponível no balanço                   poder público à vítima gera o dever de indenização pelo dano
+     orçamentário é calculada a partir da previsão de receita (inicial        pessoal e(ou) patrimonial sofrido, independentemente da
+     e atualizada), que é comparada com a receita efetivamente                caracterização de culpa dos agentes estatais ou da
+     realizada. Se a receita efetiva for maior que a prevista, haverá
+                                                                              demonstração de falta do serviço público. Não obstante, em
+     excesso de arrecadação. Se for menor, haverá insuficiência.
+     Neste último caso, a receita disponível será negativa (menor             caso fortuito ou de força maior, a responsabilidade do Estado
+     que zero) e o fato suscitará o processo de limitação de                  pode ser mitigada ou afastada.
+     empenho previsto pela Lei de Responsabilidade Fiscal.                    JUSTIFICATIVA: CERTO. A responsabilidade civil do
+                                                                              Estado está prevista no art. 37, § 6.º, da Constituição Federal
+26   O destaque de determinado crédito orçamentário pode ser                  de 1988. A assertiva foi adotada pelo STF por força do
+     realizado independentemente de autorização específica da
+                                                                              julgamento do RE 109.615-2/RJ, de relatoria do ministro Celso
+     lei orçamentária anual.
+     JUSTIFICATIVA: CERTO. A Constituição Federal de 1988                     de Mello.
+     determina que são vedados a transposição, o remanejamento ou
+     a transferência de recursos de uma categoria de programação
+     para outra ou de um órgão para outro, sem prévia autorização        Acerca da concessão de serviços públicos, julgue o item que se
+     legislativa. Porém, o destaque constitui mera descentralização      segue.
+     de créditos, que não modifica a programação original, o valor       30   Concessão de serviço público é um contrato administrativo
+     das dotações ou a unidade orçamentária detentora do crédito.             pelo qual a administração pública delega a terceiro a execução
+     Assim sendo, o destaque pode ser feito sempre que necessário,            de um serviço público, para que este o realize em seu próprio
+     independentemente de autorização legal específica.                       nome e por sua conta e risco, sendo assegurada ao terceiro a
+                                                                              remuneração mediante tarifa paga pelo usuário, que é fixada
+                                                                              pelo preço da proposta vencedora da licitação e não pode ser
+          DIREITO ADMINISTRATIVO                                              alterada unilateralmente pelo poder público ou pela
+                                                                              concessionária.
+Cada um dos próximos itens apresenta uma situação hipotética                  JUSTIFICATIVA: ERRADO. Consoante previsto na Lei
+seguida de uma assertiva a ser julgada, acerca de atos                        n.º 8.987/1995, a tarifa pode ser unilateralmente alterada pela
+administrativos.                                                              administração. Ademais, por ser a concessão uma espécie do
+                                                                              gênero contrato administrativo, aplica-se às concessões a teoria
+27   Em um único ato administrativo, foram concedidas férias
+     e licença a um servidor público da Secretaria de Estado                  das cláusulas exorbitantes.
+     de Economia do Distrito Federal. Na semana seguinte,
+     publicou-se outro ato, que ratificava as férias desse servidor      Considerando a Lei n.º 13.303/2016, que dispõe sobre o estatuto
+     e retirava-lhe a licença concedida, por ter sido constatado         jurídico da empresa pública, da sociedade de economia mista e de
+     que ele não fazia jus à licença. Nessa situação, realizou-se        suas subsidiárias, no âmbito da União, dos estados, do Distrito
+     a convalidação do ato administrativo, por meio de reforma.          Federal e dos municípios, julgue o próximo item.
+     JUSTIFICATIVA: CERTO. O item está certo, pois há três
+     formas de convalidação. A primeira é a retificação, a segunda       31   Ocorre superfaturamento quando os preços orçados para a
+     é a reforma e a terceira é a conversão. A reforma é a forma de           licitação ou os preços contratados são expressivamente
+     aproveitamento que admite que novo ato suprima a parte                   superiores aos preços referenciais de mercado.
+     inválida do ato anterior, mantendo sua parte válida.                     JUSTIFICATIVA: ERRADO. A definição de
+                                                                              superfaturamento está posta no art. 31, § 1.º, inciso II, da Lei
+                                                                              federal n.º 13.303/2016. A definição apresentada no item é de
+28   Servidor público do Distrito Federal exerceu atividade
+                                                                              sobrepreço, que é apresentada no art. 31, § 1.º, inciso I, da
+     remunerada durante o gozo de licença por motivo de doença
+                                                                              mesma lei.
+     em pessoa da família, o que se confirmou em processo
+     disciplinar específico. Nessa situação, conforme a Lei
+     Complementar n.º 840/2011 e suas alterações, os dias em             Considerando as normas de direito administrativo, as disposições
+     que o servidor efetivamente exerceu a atividade remunerada          normativas relativas ao pregão e a Lei federal n.º 9.784/1999,
+     durante a licença serão considerados, para todos os efeitos         acerca de processo administrativo, julgue os itens seguintes.
+     legais, faltas justificadas ao serviço, caso a licença tenha
+     sido concedida sem remuneração.                                     32   No processo administrativo, os cidadãos e as associações têm
+     JUSTIFICATIVA: ERRADO. O item está errado, pois os dias                  legitimidade para interpor recurso administrativo, quando se
+     de atividade remunerada durante o gozo de licença por motivo             tratar de direitos ou interesses difusos.
+     de doença em pessoa da família, constatados em processo                  JUSTIFICATIVA: CERTO. O inciso IV do art. 58
+     disciplinar, serão considerados como faltas injustificadas ao            expressamente confere legitimidade aos cidadãos e às
+     serviço, ainda que a licença tenha sido dada sem remuneração,            associações para interposição de recursos administrativos,
+     nos termos do art. 135 da Lei Complementar n.º 840/2011.                 quanto a direitos ou interesses difusos.
+
+/R*Cargo: Auditor-Fiscal da Receita do Distrito Federal *R/                                                              /C*Caderno X*C/ – 4 –
+||IdentificaPDF||                                                                                CEBRASPE – SEECDF – Aplicação: 2020
+
+33   No pregão, a definição das exigências de habilitação no             39   As empresas públicas e as sociedades de economia mista
+     certame é feita durante a fase externa.                                  gozam de privilégios fiscais não extensivos às sociedades
+     JUSTIFICATIVA: ERRADO. Como previsto no inciso I do
+                                                                              comerciais do setor privado.
+     art. 3.º da Lei federal n.º 10.520/2002, a autoridade competente
+     deve definir as exigências de habilitação durante a fase                 JUSTIFICATIVA: ERRADO. As empresas públicas e as
+     preparatória, a qual antecede a fase externa do certame.                 sociedades de economia mista não podem gozar de privilégios
+                                                                              fiscais não extensivos às sociedades comerciais do setor privado.
+34   É impedido de atuar em processo administrativo o servidor que            Art. 173, § 2.º, da Constituição Federal de 1988.
+     tenha amizade íntima com algum dos interessados no processo.
+     JUSTIFICATIVA: ERRADO. Na forma dos arts. 18 e 20 da
+     Lei federal n.º 9.784/1999, o fato de o servidor ter amizade        40   A União detém o monopólio da pesquisa e lavra das jazidas de
+     íntima com algum dos interessados é hipótese de arguição de              petróleo e gás natural, sendo-lhe permitida a contratação de
+     suspeição da autoridade, não de impedimento.                             empresas estatais e privadas para a realização dessas
+                                                                              atividades, desde que observadas as condições estabelecidas
+          DIREITO CONSTITUCIONAL                                              em lei.
+                                                                              JUSTIFICATIVA: CERTO. A assertiva está em conformidade
+Acerca dos direitos e garantias fundamentais, das cláusulas pétreas           com o disposto no art. 177, inciso I e § 1.º, da Constituição
+e da organização político-administrativa do Estado, julgue os itens           Federal de 1988.
+a seguir.
+35   A Constituição Federal de 1988 prevê expressamente a
+                                                                         Acerca da administração tributária do Distrito Federal, julgue o
+     exigência de inscrição em conselho de fiscalização para o
+     exercício de qualquer atividade profissional.                       item a seguir, com base na Lei Orgânica do Distrito Federal.
+     JUSTIFICATIVA: ERRADO. O item está incorreto, pois é
+                                                                         41   O lançamento, a fiscalização e a arrecadação dos tributos de
+     livre o exercício de qualquer trabalho, ofício ou profissão,
+     atendidas as qualificações profissionais que a lei estabelecer,          competência do Distrito Federal, bem como o julgamento
+     nos termos do inciso XIII do art. 5.º da Constituição Federal de         administrativo     dos   processos     fiscais,   incumbem     à
+     1988 (CF). Portanto, a regra é a liberdade. A CF não dispõe              administração tributária desse ente federado e serão exercidos,
+     sobre a necessidade de inscrição em conselho de fiscalização
+                                                                              privativamente, por integrantes da carreira de auditoria
+     da respectiva profissão.
+                                                                              tributária. Entretanto, o lançamento, a fiscalização e a
+                                                                              arrecadação das taxas que tenham como fato gerador o
+36   As cláusulas pétreas correspondem às limitações temporais,
+     implícitas, circunstanciais e materiais de alteração da                  exercício do poder de polícia poderão ser realizados por
+     Constituição Federal de 1988.                                            agentes não integrantes dessa carreira.
+     JUSTIFICATIVA: ERRADO. O item está incorreto, pois as                    JUSTIFICATIVA: CERTO. A assertiva reproduz a redação do
+     cláusulas pétreas são as limitações materiais de alteração da
+                                                                              caput do art. 31 da Lei Orgânica do Distrito Federal,
+     Constituição Federal de 1988 (núcleo intangível da Carta
+     Magna, previsto no art. 60, § 4.º).                                      combinado com o seu parágrafo 2.º, com alteração dada pela
+                                                                              Emenda à Lei Orgânica n.º 35/2001. Como exemplo de agentes
+37   Embora a Constituição Federal de 1988 preveja expressamente              não integrantes da carreira de auditoria tributária, podem-se
+     não distinção entre brasileiros, o próprio constituinte                  citar os agentes das administrações regionais.
+     estabeleceu, no texto constitucional, hipóteses de tratamentos
+     distintos entre homens e mulheres.
+     JUSTIFICATIVA: CERTO. O item está certo, pois o próprio             A respeito da possibilidade de emenda à Lei Orgânica do Distrito
+     constituinte estabeleceu desigualdades em relação a homens e        Federal, julgue o próximo item.
+     mulheres em direitos e obrigações, nos termos da Constituição
+     Federal de 1988 (CF). É o caso do previsto no art. 5.º, inciso L,   42   A Lei Orgânica do Distrito Federal somente poderá ser
+     da CF.                                                                   emendada após a proposta de alteração ser discutida e votada
+                                                                              em dois turnos e se obtiver, em ambos, o voto favorável de três
+Considerando os princípios gerais da atividade econômica previstos            quintos dos membros da Câmara Legislativa do Distrito
+na Constituição Federal de 1988, julgue os itens a seguir.
+                                                                              Federal.
+38   A prestação de serviços públicos de transporte coletivo sob o            JUSTIFICATIVA: ERRADO. O quórum para aprovação de
+     regime de permissão prescinde de licitação, que é exigida
+                                                                              emenda à Lei Orgânica do Distrito Federal é de dois terços,
+     apenas para a modalidade de concessão.
+     JUSTIFICATIVA: ERRADO. A licitação é exigida em ambas                    conforme previsto no art. 70, § 1.º, da Lei Orgânica do Distrito
+     as modalidades, concessão e permissão, conforme art. 175 da              Federal. O quórum de três quintos é para alteração da
+     Constituição Federal de 1988 e decisão do STF.                           Constituição Federal.
+
+/R*Cargo: Auditor-Fiscal da Receita do Distrito Federal *R/                                                               /C*Caderno X*C/ – 5 –
+||IdentificaPDF||                                                                             CEBRASPE – SEECDF – Aplicação: 2020
+
+                                                                       A respeito das sociedades limitadas, julgue os itens a seguir.
+              DIREITO CIVIL, DIREITO
+                                                                       47   É de dois anos da data da subscrição das quotas sociais o prazo
+     EMPRESARIAL E DIREITO PENAL                                            para que os sócios respondam solidariamente pela exata
+                                                                            estimação de bens conferidos ao capital social de uma
+         João dirigia embriagado quando colidiu com outro veículo,          sociedade limitada.
+causando um grave acidente. João morreu no local do acidente                JUSTIFICATIVA: ERRADO. O art. 1.055, § 1.º, do Código
+e o motorista do outro veículo, Pedro, foi levado ao hospital,              Civil estipula que “pela exata estimação de bens conferidos ao
+onde ficou internado por dois meses, até falecer. Os herdeiros              capital social respondem solidariamente todos os sócios, até o
+de Pedro decidiram pleitear danos morais e materiais contra os              prazo de cinco anos da data do registro da sociedade”.
+herdeiros de João.
+                                                                       48   Em atenção ao princípio da estabilidade ou da variabilidade
+Considerando essa situação hipotética, julgue os itens subsequentes.        condicionada do capital social, ressalvado o disposto em lei
+                                                                            especial, só pode ser aumentado o capital social após a
+43   A pretensão dos herdeiros de Pedro é viável, pois tanto
+                                                                            integralização das quotas sociais inicialmente subscritas.
+     o direito de exigir a reparação civil por ato ilícito quanto
+                                                                            JUSTIFICATIVA: CERTO. O princípio da estabilidade ou da
+     a obrigação de prestá-la são transmitidos por sucessão aos             variabilidade condicionada do capital social refere-se ao fato
+     herdeiros.                                                             de o capital social apenas poder ser alterado quando
+     JUSTIFICATIVA: CERTO. A assertiva está de acordo com o                 obedecidas determinadas condições. Ainda, conforme o
+     art. 943 do Código Civil.                                              art. 1.081 do Código Civil “ressalvado o disposto em lei
+                                                                            especial, integralizadas as quotas, pode ser o capital
+44   A prescrição da pretensão indenizatória iniciou-se na data do          aumentado, com a correspondente modificação do contrato”.
+     acidente, interrompeu-se com a morte de Pedro e recomeçou
+     contra os seus sucessores.                                        49   A sociedade limitada poderá reduzir o capital se houver perdas
+     JUSTIFICATIVA: ERRADO. A assertiva está em desacordo                   irreparáveis, após a integralização do capital social original, ou
+                                                                            se o capital for excessivo em relação ao objeto da sociedade.
+     com o art. 196 do Código Civil, que determina que a
+                                                                            JUSTIFICATIVA: CERTO. O art. 1.082 do Código Civil e
+     prescrição continua a correr, na hipótese.
+                                                                            seus incisos disciplinam que “pode a sociedade reduzir o
+                                                                            capital, mediante a correspondente modificação do contrato:
+Considerando o disposto no Código Civil acerca de personalidade             I – depois de integralizado, se houver perdas irreparáveis;
+e o disposto na Lei de Introdução às Normas do Direito Brasileiro           II – se excessivo em relação ao objeto da sociedade.”.
+acerca da vigência das leis, julgue os itens a seguir.
+                                                                       À luz da legislação penal brasileira, julgue os itens a seguir.
+45   O início da personalidade civil das pessoas físicas ocorre com
+     o nascimento com vida, enquanto o início da personalidade         50   O agente que faz uso de selo falsificado destinado a controle
+     civil das pessoas jurídicas de direito privado ocorre com              tributário, sabendo de sua falsificação, comete crime contra a
+     a inscrição do seu ato constitutivo no respectivo registro,            fé pública.
+     precedida de autorização ou aprovação do Poder Executivo,              JUSTIFICATIVA: CERTO. Há tipo penal específico nos
+     quando necessário.                                                     crimes contra a fé pública (art. 293, I, do Código Penal).
+     JUSTIFICATIVA: CERTO. Quanto à pessoa física, o início da
+     personalidade civil dá-se no nascimento com vida, e não com       51   Auditor-fiscal que exigir vantagem indevida para deixar de
+     a concepção nem com a maioridade. Para as pessoas jurídicas            lançar ou de cobrar tributo devido por contribuinte terá
+     de direito privado, o início da personalidade civil acontece           cometido o crime de concussão previsto no Código Penal.
+     com a inscrição do seu ato constitutivo no respectivo registro,        JUSTIFICATIVA: ERRADO. Não caracteriza o crime de
+                                                                            concussão previsto no Código Penal, mas, sim, crime funcional
+     precedida, quando necessário, de autorização ou aprovação do
+                                                                            contra a ordem tributária, por haver tipo penal específico na
+     Poder Executivo. A aprovação do governo só é necessária
+                                                                            Lei n.º 8.137/1990 (art. 3.º, II).
+     excepcionalmente (arts. 2.º e 45 do Código Civil).
+
+                                                                       52   Para a caracterização do crime de ordenação de despesa não
+46   Lei nova que estabeleça disposições especiais a par das                autorizada, é necessário o efetivo prejuízo financeiro ao ente
+     já existentes revogará a lei anterior.                                 público.
+     JUSTIFICATIVA: ERRADO. A assertiva contraria                           JUSTIFICATIVA: ERRADO. O tipo penal não exige o efetivo
+     expressamente o disposto no art. 2.º, § 2.º, da Lei de                 prejuízo; é crime de mera conduta (Lei n.º 10.028/2000, art.
+     Introdução às Normas do Direito Brasileiro.                            359-D).
+
+/R*Cargo: Auditor-Fiscal da Receita do Distrito Federal *R/                                                              /C*Caderno X*C/ – 6 –
+||IdentificaPDF||                                                                             CEBRASPE – SEECDF – Aplicação: 2020
+
+                                                                       58   A arrecadação de impostos compartilhados com diversos
+ ECONOMIA E FINANÇAS PÚBLICAS                                               entes da Federação deve ser contabilizada no âmbito do ente
+                                                                            arrecadador pelo seu valor líquido, descontados os valores
+Com relação a conceitos econômicos e monetários, julgue os itens            pertencentes aos demais entes.
+a seguir.                                                                   JUSTIFICATIVA: ERRADO. A contabilização de impostos
+                                                                            compartilhados pelo valor líquido viola o princípio do
+53   Se um país possuir superávit no balanço de pagamentos, haverá
+     oscilação positiva na base monetária.                                  orçamento bruto. De acordo com este princípio, todas as
+     JUSTIFICATIVA: CERTO. Por definição, o saldo positivo no               receitas e despesas da lei orçamentária anual devem ser
+     balanço de pagamentos implica em variação positiva nas                 registradas pelo valor total e bruto, vedadas quaisquer
+     reservas internacionais. A variação positiva nas reservas              deduções. No caso de impostos compartilhados, portanto, a
+     internacionais, por sua vez, implica em elevação do ativo do           parcela repassada é contabilizada depois, como despesa.
+     Banco Central. Pelo método das partidas dobradas, o passivo
+     varia na mesma proporção, de modo que a base monetária            59   Emenda parlamentar ao projeto de lei orçamentária
+     evidencia expansão.                                                    destinada a reforçar a dotação para os serviços da dívida
+                                                                            correspondentes a determinada operação de crédito deve
+54   Se há plena mobilidade de capitais e a autoridade monetária            ser rejeitada por inconstitucionalidade se apresentar como
+     conduz a política monetária com a fixação do juro, então o             fonte de recursos a anulação das despesas com serviços da
+     regime cambial não poderá ser do tipo câmbio fixo.                     dívida correspondentes a outra operação de crédito.
+     JUSTIFICATIVA: CERTO. Este resultado decorre                           JUSTIFICATIVA: CERTO. A Constituição Federal prevê que
+     diretamente da trindade impossível. A autoridade monetária             as emendas ao projeto de lei do orçamento anual ou aos
+     não pode, em nenhuma hipótese, adotar simultaneamente                  projetos que o modifiquem somente podem ser aprovadas caso
+     câmbio fixo, meta de juros e plena mobilidade de capitais.             indiquem os recursos necessários, admitidos apenas os
+     Desses três fatores, só é possível a escolha de dois (nunca dos        provenientes de anulação de despesa, excluídas as que incidam
+     três).                                                                 sobre serviço da dívida.
+
+55   Se o governo decide aumentar a carga tributária sobre             Julgue os itens a seguir, relativos ao disposto na Lei de
+     determinado produto, então a maior parte do imposto será          Responsabilidade Fiscal sobre limites para dívida, transferências
+     necessariamente paga pelo consumidor.
+                                                                       voluntárias e destinação de recursos para o setor privado.
+     JUSTIFICATIVA: ERRADO. Quando o governo aumenta a
+     carga tributária sobre um bem ou serviço específico, o imposto    60   As sanções de suspensão de transferências voluntárias não se
+     recai sobre o agente com menor flexibilidade, ou seja, sobre o         aplicam sobre as ações de educação, saúde e assistência social.
+     lado mais inelástico do mercado. Se a elasticidade-preço da            JUSTIFICATIVA: CERTO. De acordo com o disposto no
+     demanda for maior do que a elasticidade-preço da oferta, o             art. 25, § 3.º, da Lei de Responsabilidade Fiscal, para fins da
+     produtor irá pagar a maior parte da conta do imposto.                  aplicação das sanções de suspensão de transferências
+                                                                            voluntárias constantes excetuam-se aquelas relativas a ações de
+Relativamente a tópicos específicos de finanças públicas, julgue            educação, saúde e assistência social.
+os itens a seguir.
+                                                                       61   Ainda que não sejam pagos durante a execução do orçamento
+56   O lançamento tributário deve ser feito por homologação se
+                                                                            em que tenham sido incluídos, os precatórios judiciais
+     o sujeito passivo da obrigação tributária antecipar o pagamento
+                                                                            integram a dívida consolidada, para fins de aplicação dos
+     do tributo sem prévio exame da autoridade administrativa.
+                                                                            limites.
+     JUSTIFICATIVA: CERTO. O lançamento por homologação
+     (uma das etapas da receita) ocorre quando a autoridade                 JUSTIFICATIVA: CERTO. De acordo com o disposto no
+     tributária, tomando conhecimento da antecipação do                     art. 25, § 7.º, da Lei de Responsabilidade Fiscal, os precatórios
+     pagamento pelo sujeito passivo, verifica sua legalidade e              judiciais não pagos durante a execução do orçamento em que
+     expressamente homologa a operação.                                     houverem sido incluídos integram a dívida consolidada, para
+                                                                            fins de aplicação dos limites.
+
+57   A classificação institucional da despesa orçamentária
+     deve atribuir a cada órgão público com competência para           62   A prevenção de insolvência e outros riscos associados à
+     realizar despesas uma unidade orçamentária única e exclusiva.          destinação de recursos para o setor privado fica a cargo de
+     JUSTIFICATIVA: ERRADO. Uma unidade orçamentária na                     mecanismos constituídos pelo respectivo ente federativo.
+     classificação institucional não corresponde necessariamente a          JUSTIFICATIVA: ERRADO. De acordo com o disposto no
+     um órgão da estrutura administrativa. Pode haver unidades              art. 28, § 1.º, da Lei de Responsabilidade Fiscal, a prevenção
+     orçamentárias que abranjam vários órgãos administrativos,              de insolvência e outros riscos ficará a cargo de fundos, e outros
+     assim como um único órgão pode conter diversas unidades                mecanismos, constituídos pelas instituições do Sistema
+     orçamentárias.                                                         Financeiro Nacional, na forma da lei.
+
+/R*Cargo: Auditor-Fiscal da Receita do Distrito Federal *R/                                                             /C*Caderno X*C/ – 7 –
+||IdentificaPDF||                                                                              CEBRASPE – SEECDF – Aplicação: 2020
+
+                                                                        No que se refere à gerência de projetos, julgue o próximo item,
+     TECNOLOGIA DA INFORMAÇÃO                                           com base no PMBOK 5.
+                                                                        67   Os cinco grupos de processos de gerenciamento de projetos
+A respeito de componentes funcionais de computadores e do                    previstos no PMBOK são iniciação, planejamento, execução,
+                                                                             monitoramento e controle, e encerramento.
+sistema operacional Linux, julgue os itens a seguir.                         JUSTIFICATIVA: CERTO. O guia PMBOK, em sua 5.a
+                                                                             edição, provê diretrizes para a gerência dos projetos
+63   O SSD (solid-state drive) é uma tecnologia de armazenamento             individualmente e define conceitos associados à gerência de
+     que utiliza memória flash e cuja interface de comunicação é a           projetos, além de descrever o ciclo de vida do gerenciamento
+                                                                             do projeto e seus processos relacionados, assim como o ciclo
+     mesma utilizada em discos rígidos.
+                                                                             de vida do projeto. O guia PMBOK reconhece 47 processos
+     JUSTIFICATIVA: CERTO. O SSD (solid-state drive) é uma                   que recaem em cinco grupos de processos e em dez áreas de
+     tecnologia de armazenamento considerada a evolução do disco             conhecimento que são típicas em quase todas as áreas de
+                                                                             projetos. Os grupos de processos de gerenciamento de projetos
+     rígido. Ele utiliza memória flash e sua interface de
+                                                                             são: iniciação; planejamento; execução; monitoramento e
+     comunicação é a mesma utilizada em discos rígidos.                      controle; e encerramento.
+
+                                                                        Acerca de fundamentos da ITIL v3, julgue o item que se segue.
+64   No Linux, o diretório /home é o local onde é instalada a maior
+     parte dos aplicativos e das bibliotecas do sistema operacional,    68   Os volumes da ITIL são embasados nos seguintes ciclos
+                                                                             de vida do serviço: estratégia de serviço; desenho de serviço;
+     enquanto no diretório /usr são armazenados os arquivos dos              transição de serviço; operação de serviço; e melhoria de
+     usuários.                                                               serviço continuada. Cada estágio do ciclo de vida do serviço
+                                                                             influencia outros estágios e é influenciado por eles.
+     JUSTIFICATIVA: ERRADO. Por padrão, o diretório /home
+                                                                             JUSTIFICATIVA: CERTO. A ITIL é organizada em cinco
+     armazena os arquivos dos usuários. Por sua vez, o diretório             publicações baseadas em torno de um ciclo de vida do serviço,
+     /usr é onde é instalada a maior parte dos aplicativos e das             a saber: estratégia de serviço; desenho de serviço; transição de
+                                                                             serviço; operação de serviço; e melhoria de serviço continuada.
+     bibliotecas do sistema Linux.
+                                                                             Cada estágio do ciclo de vida do serviço influencia
+                                                                             (saídas/feedback) e é influenciado (entradas/feedback) por
+                                                                             outros estágios.
+Com relação ao MS Excel 2013, julgue o próximo item.
+                                                                        Com relação ao plano de continuidade de negócios, a assinatura
+65   A função PROCV permite localizar itens em qualquer posição
+                                                                        digital e a auditoria, julgue os itens a seguir.
+     de uma tabela ou em um intervalo por coluna, pesquisando-se
+                                                                        69   A assinatura digital foi desenvolvida especialmente com o
+     a partir de determinado valor para se obter o valor de retorno.         objetivo de prover confidencialidade. Para criá-la, basta que o
+     JUSTIFICATIVA: ERRADO. A função PROCV localiza itens                    emissor gere um hash da mensagem enviada e cifre esse
+     em uma tabela ou um intervalo por linha e só pode pesquisar             código hash com sua chave privada.
+                                                                             JUSTIFICATIVA: ERRADO. É importante enfatizar que a
+     um valor da esquerda para a direita. Isso significa que a coluna        assinatura digital não provê confidencialidade. Isto é, a
+     que contém o valor procurado deve estar sempre localizada à             mensagem que está sendo enviada está a salvo de alteração,
+                                                                             mas não de escuta por terceiros. Isso é óbvio no caso de uma
+     esquerda da coluna que contém o valor de retorno.
+                                                                             assinatura baseada em uma parte da mensagem, porque o
+                                                                             restante da mensagem é transmitido às claras. Mesmo no caso
+                                                                             de cifração completa da mensagem, não há qualquer proteção
+Acerca do navegador Google Chrome, julgue o item seguinte.                   de confidencialidade, porque qualquer observador pode
+                                                                             decifrar a mensagem usando a chave pública do remetente.
+66   O atalho SHIFT + ESC permite acessar o Gerenciador de
+     Tarefas para visualizar e finalizar processos do Google Chrome     70   São objetivos da auditoria a revisão e o exame independentes
+     em execução.                                                            de registros e atividades do sistema, para testar a
+                                                                             adequabilidade dos controles desse sistema, de modo a
+     JUSTIFICATIVA: CERTO. Para acessar o gerenciador de                     verificar se há obediência às políticas e aos procedimentos
+     tarefas do Google Chrome, basta apertar as teclas Shift e Esc           estabelecidos.
+                                                                             JUSTIFICATIVA: CERTO. A auditoria envolve a revisão e o
+     ao mesmo tempo. Para fechar uma aba, clique sobre o nome
+                                                                             exame independentes de registros e atividades do sistema, para
+     dela e depois em Encerrar processo. Ela será fechada                    testar a adequabilidade dos controles do sistema, de modo a
+     imediatamente, sem que você tenha que fechar a janela inteira           garantir a obediência a políticas e procedimentos operacionais
+                                                                             estabelecidos, detectar brechas na segurança e recomendar
+     do navegador, conforme manual de ajuda do Google Chrome
+                                                                             mudanças indicadas em termos de controle, política e
+     — tópico “Gerenciador de Tarefas”.                                      procedimentos.
+
+/R*Cargo: Auditor-Fiscal da Receita do Distrito Federal *R/                                                             /C*Caderno X*C/ – 8 –
+||IdentificaPDF||                                                                               CEBRASPE – SEECDF – Aplicação: 2020
+
+                                                                         75   O desvio padrão amostral da variável X foi igual ou superior
+         MATEMÁTICA FINANCEIRA,
+                                                                              a 2.
+         ESTATÍSTICA E RACIOCÍNIO                                             JUSTIFICATIVA: CERTO. Sem o fator de correção de vício,
+                  LÓGICO                                                      a variância de X seria igual a 13 ! 9 = 4, ou seja, nesse caso,
+                                                                              o desvio padrão de X seria igual a 2. Com o fator de correção,
+         Em determinada loja, uma bicicleta é vendida por                     o desvio padrão torna-se superior a 2.
+R$ 1.720 a vista ou em duas vezes, com uma entrada de R$ 920 e
+uma parcela de R$ 920 com vencimento para o mês seguinte. Caso
+queira antecipar o crédito correspondente ao valor da parcela, o         76   A mediana amostral da variável X foi igual a 2,5.
+lojista paga para a financeira uma taxa de antecipação
+                                                                              JUSTIFICATIVA: ERRADO. A mediana de X foi igual a 4,
+correspondente a 5% do valor da parcela.
+                                                                              pois                e                .
+Com base nessas informações, julgue os itens a seguir.
+
+71   Considere que um comprador sabe que o preço da bicicleta não
+     irá aumentar durante 1 mês e tem a possibilidade de investir        77   A distribuição da variável X é simétrica em torno da sua média
+     suas economias em uma aplicação com rendimento líquido de                amostral.
+     5% ao mês. Nessa situação, o comprador poderá realizar a
+                                                                              JUSTIFICATIVA: ERRADO. A variável X é assimétrica, pois
+     compra à vista da bicicleta investindo nessa aplicação uma
+     quantia inferior a R$ 1.650, independentemente de o regime de            o valor da sua média amostral sugere menor frequência de
+     capitalização da aplicação ser simples ou composto.                      observações iguais a !1.
+     JUSTIFICATIVA: CERTO. Para obter um montante de
+     R$ 1.720,00 o capital C aplicado, tanto no regime de
+     capitalização simples quanto no composto, deve obedecer a           Considerando a proposição P: “Se o servidor gosta do que faz,
+     seguinte equação: R$ 1.720,00 = C*1,05. Portanto,                   então o cidadão-cliente fica satisfeito”, julgue os itens a seguir.
+     C = R$ 1.720,00/1,05 = R$ 1.638,10 < R$ 1.650,00.
+                                                                         78   A proposição “O servidor não gosta do que faz, ou o
+72   Na compra a prazo, o custo efetivo da operação de                        cidadão-cliente não fica satisfeito” é uma maneira correta de
+     financiamento pago pelo cliente será inferior a 14% ao mês.
+                                                                              negar a proposição P.
+     JUSTIFICATIVA: ERRADO. Fazendo a equivalência de
+     capitais sob o ponto de vista do cliente e indicando por i a taxa        JUSTIFICATIVA: ERRADO. A proposição P tem a estrutura
+     que representa o custo efetivo da operação de financiamento,             p6q, em que p e q são, respectivamente, as proposições
+     tem-se a seguinte equação: R$ 1.720,00 = R$ 920,00 +                     simples “o servidor gosta do que faz” e “o cidadão-cliente fica
+     R$ 920,00/(1+i). Resolvendo-a para i tem-se
+     i = R$ 920,00/R$ 800,00 ! 1 = 0,15 = 15% > 14%.                          satisfeito”. Se essas proposições simples assumem ambas o
+                                                                              valor lógico F, então tanto a proposição P quanto a proposição
+73   No caso de uma venda a prazo em que o lojista optasse pela               apresentada no item são ambas verdadeiras, não podendo, pois,
+     antecipação do crédito correspondente à parcela que só seria             a proposição do item ser negação da proposição P.
+     paga no mês seguinte, o valor total que ele receberia (entrada
+     mais antecipação) seria superior a R$ 1.790.
+     JUSTIFICATIVA: CERTO. O lojista receberia R$ 920,00 de              79   A proposição P é logicamente equivalente à seguinte
+     entrada e R$ 874,00 (R$ 920,00 × 0,95) como antecipação,                 proposição: “Se o cidadão-cliente não fica satisfeito, então o
+     perfazendo um total de R$ 1.794,00.
+                                                                              servidor não gosta do que faz”.
+                                                                              JUSTIFICATIVA: CERTO. A proposição do item é a
+A partir de uma amostra aleatória simples de tamanho n, sabe-se
+que a média aritmética de uma variável X foi igual a 3.                       contrarrecíproca da proposição condicional P, equivalentes
+Considerando que os valores possíveis para a variável X sejam !1 e            entre si.
++4, julgue os itens que se seguem.
+
+74   Nessa amostra aleatória, a quantidade de observações iguais a       80   P é uma proposição composta formada por duas proposições
+     +4 foi igual a 0,8 n.
+                                                                              simples, de modo que sua tabela-verdade possui 2 linhas.
+     JUSTIFICATIVA: CERTO. Como a variável X assume dois
+     estados possíveis, +4 e !1, a média aritmética pode ser escrita          JUSTIFICATIVA: ERRADO. Se n indica o número de
+     como                          , em que ƒ denota a frequência             proposições simples de uma proposição composta, então o
+     relativa de observações iguais a +4 na amostra em questão.               número de linhas de sua tabela é 2n. A proposição P é
+     Como       , conclui-se que ƒ = 0,8, ou seja, a quantidade de            composta por n = 2 proposições simples, possuindo, pois,
+     observações iguais a +4 nessa amostra foi igual a 0,8 n.                 22 = 4 linhas.
+
+/R*Cargo: Auditor-Fiscal da Receita do Distrito Federal *R/                                                               /C*Caderno X*C/ – 9 –
+||IdentificaPDF||                                                                             CEBRASPE – SEECDF – Aplicação: 2020
+
+
+                                               CONHECIMENTOS ESPECÍFICOS
+                                                                       86   Ao encontrar lançamentos contábeis com valores incorretos
+                   AUDITORIA FISCAL                                         para maior e para menor em várias rubricas de uma entidade,
+                   DO ICMS E DO ISS                                         o auditor externo deve aplicar os testes principais de
+                                                                            subavaliação nas contas de ativos e despesas dessa entidade.
+                                                                            JUSTIFICATIVA: ERRADO. A prática recomenda a
+Com relação a planos, procedimentos e amostragem de auditoria,              concentração dos testes de subavaliação nas contas credoras da
+julgue os itens a seguir.                                                   entidade. Para as contas devedoras, é mais eficaz aplicar os
+                                                                            testes de superavaliação. Nas contas de caixa, bancos, créditos,
+81   Preliminarmente aos trabalhos de auditoria independente                estoques e outras, é mais provável a ocorrência de erros para
+     das demonstrações contábeis, o profissional responsável                maior do que de erros para menor.
+     deve avaliar a conformidade com os requisitos éticos,
+     incluindo-se a independência da equipe de trabalho em relação
+     ao auditado, conforme exigido pelas normas aplicáveis.            As distorções nas demonstrações contábeis podem originar-se de
+     JUSTIFICATIVA: CERTO. Cf. NBC TA 300 (R1). São                    fraude ou de erro. Acerca desse assunto, julgue os itens seguintes.
+     “atividades preliminares do trabalho de auditoria (...) (b)       87   Omissões intencionais de eventos nas demonstrações
+     avaliação da conformidade com os requisitos éticos, inclusive          contábeis poderão ser consideradas erro ou fraude, conforme
+     independência, conforme exigido pela NBC TA 220, itens 9 a             a gravidade.
+     11”.                                                                   JUSTIFICATIVA: ERRADO. O fator distintivo entre fraude
+                                                                            e erro está no fato de ser intencional ou não intencional à ação
+82   Ao utilizar informações comparáveis de períodos anteriores             subjacente que resulta em distorção nas demonstrações
+     para estabelecer relações plausíveis entre dados financeiros           contábeis. A intenção caracteriza fraude.
+     e dados não financeiros da entidade auditada, o auditor
+     está aplicando um procedimento analítico de auditoria.            88   O auditor deve se preocupar com qualquer tipo de fator
+     JUSTIFICATIVA: CERTO. NBC TA 520: “procedimento                        que cause distorção nas demonstrações contábeis, podendo
+     analítico significa avaliações de informações contábeis por            ser responsabilizado em caso de não detecção de tais fatores.
+     meio de análise das relações plausíveis entre dados financeiros        JUSTIFICATIVA: ERRADO. Embora a fraude constitua um
+     e não financeiros.” “A1. Os procedimentos analíticos incluem,          conceito jurídico amplo, para efeitos das normas de auditoria,
+     por exemplo, levar em consideração comparações de                      o auditor deverá ater-se à fraude que causa distorção relevante
+     informações contábeis e financeiras da entidade: informações           nas demonstrações contábeis. A opinião do auditor considera
+     comparáveis de períodos anteriores”.                                   as demonstrações contábeis como um todo e, portanto, o
+                                                                            auditor não é responsável pela detecção de distorções que não
+83   O risco de amostragem em auditoria está associado ao desvio            sejam relevantes para as demonstrações contábeis como um todo.
+     não representativo do desvio existente em uma população.
+     JUSTIFICATIVA: ERRADO. NBC TA 530 O risco de                      89   A responsabilidade pela prevenção e detecção da fraude
+     amostragem “é o risco de que a conclusão do auditor, com base          compete principalmente à área de gestão de riscos da
+     em amostra, pudesse ser diferente se toda a população fosse            organização.
+     sujeita ao mesmo procedimento de auditoria.” A ocorrência de           JUSTIFICATIVA: ERRADO. A prevenção e detecção da
+     desvio não representativo é denominada anomalia.                       fraude competem principalmente aos responsáveis pela
+                                                                            governança da entidade e da sua administração.
+
+A respeito dos testes de auditoria, julgue os itens seguintes.
+                                                                       90   A realização de lançamentos contábeis em contas não
+84   Testes de observância em auditoria estão intimamente ligados           relacionadas, não usuais ou raramente utilizadas, com números
+     à verificação do cumprimento dos procedimentos de controles            quebrados e informações de centavos, caracteriza lançamentos
+     internos da auditada.                                                  fraudulentos.
+     JUSTIFICATIVA: CERTO. O objetivo primeiro dos testes de                JUSTIFICATIVA: ERRADO. Conter números redondos ou
+     observância é permitir uma razoável segurança de que os                números com finais constantes pode caracterizar lançamentos
+     procedimentos de controle interno da organização auditada              contábeis fraudulentos
+     estão sendo cumpridos pelos colaboradores da organização.
+                                                                       91   Ao determinar respostas globais para enfrentar os riscos
+85   A constatação da existência real e da integridade das                  avaliados de distorção relevante nas demonstrações contábeis,
+     transações evidenciadas nos relatórios contábeis é o principal         o auditor deve incorporar elementos de imprevisibilidade
+     objetivo dos testes de observância.                                    na seleção dos procedimentos de auditoria.
+     JUSTIFICATIVA: ERRADO. A constatação da existência real                JUSTIFICATIVA: CERTO. Ao determinar respostas globais
+     dos eventos relatados, ou seja, de que as transações realmente         para enfrentar os riscos avaliados de distorção relevante nas
+     ocorreram, e a verificação da integridade dessas transações,           demonstrações contábeis, o auditor deve, entre outras coisas,
+     isto é, que não existem transações além das relatadas, são             incorporar elemento de imprevisibilidade na seleção da
+     objetivos dos testes substantivos.                                     natureza, época e extensão dos procedimentos de auditoria.
+
+/R*Cargo: Auditor-Fiscal da Receita do Distrito Federal *R/                                                            /C*Caderno X*C/ – 1 –
+||IdentificaPDF||                                                                                 CEBRASPE – SEECDF – Aplicação: 2020
+
+O objetivo da auditoria é aumentar o grau de confiança dos                 Com relação à auditoria na escrituração fiscal digital (EFD), julgue
+usuários nas demonstrações contábeis. Isso é alcançado mediante            os itens a seguir.
+a opinião expressa pelo auditor sobre se as demonstrações                  96    O auditor-fiscal do GDF não pode solicitar ao contribuinte a
+contábeis foram elaboradas, em todos os aspectos relevantes, em                  EFD ICMS-IPI, uma vez que a recepção e a validação dos
+conformidade com uma estrutura de relatório financeiro aplicável.                dados são realizadas no ambiente do Sistema Público de
+Com referência à auditoria das demonstrações contábeis,                          Escrituração Digital, administrado pelo próprio GDF.
+julgue os itens a seguir.                                                        JUSTIFICATIVA: ERRADO. É administrado pela Secretaria
+                                                                                 da Receita Federal do Brasil. É necessário solicitar.
+92   O auditor deve, antes de expressar uma opinião, ter obtido                  (Decreto n.º 39.789/2019, art. 1.º, § 3.º)
+     segurança razoável de que as demonstrações contábeis como
+     um todo estão livres de distorção relevante, independentemente
+                                                                           97    Ao arquivo digital da EFD ICMS-IPI anexado a processo de
+     de terem sido causadas por fraude ou erro.
+                                                                                 fiscalização, não se aplica nenhuma especificação quanto ao
+     JUSTIFICATIVA: CERTO. As NBC TA exigem que o auditor                        leiaute na sua geração, já que se devem respeitar as
+     obtenha segurança razoável de que as demonstrações contábeis                características de cada empresa.
+     como um todo estão livres de distorção relevante,                           JUSTIFICATIVA: ERRADO. O arquivo digital da
+     independentemente de terem sido causadas por fraude ou erro.                EFD ICMS-IPI será gerado pelo contribuinte de acordo com as
+     Asseguração razoável é um nível elevado de segurança.                       especificações do Manual de Orientação do Leiaute da
+                                                                                 Escrituração Fiscal Digital e do Guia Prático da Escrituração
+93   Ao planejar e executar a auditoria de demonstrações contábeis,              Fiscal Digital, cujas versões atualizadas estão disponíveis no
+     o auditor deve considerar as circunstâncias envolvidas,                     Portal Nacional do SPED (http://sped.rfb.gov.br/). (Decreto
+                                                                                 n.º 39.789/2019, art. 2.º)
+     a magnitude e a natureza das distorções, ou a combinação
+     de ambos.
+     JUSTIFICATIVA: CERTO. Em geral, as distorções, inclusive                       Ao fiscalizar determinada empresa, um auditor-fiscal do
+     as omissões, são consideradas relevantes se for razoável              GDF verificou que ela aproveitava crédito do ICMS oriundo de
+     esperar que, individual ou conjuntamente, elas influenciem as         aquisição de ativo permanente. O auditor, então, concluiu a
+     decisões econômicas dos usuários tomadas com base nas                 fiscalização e apresentou notificação de algumas operações.
+     demonstrações contábeis. Julgamentos sobre a materialidade
+                                                                           A respeito da situação hipotética apresentada e de aspectos legais,
+     são estabelecidos levando-se em consideração as circunstâncias
+                                                                           normativos ou técnicos a ela relacionados, julgue o item seguinte,
+     envolvidas, e são afetadas pela percepção que o auditor tem
+                                                                           que se refere ao procedimento de fiscalização.
+     das necessidades dos usuários das demonstrações contábeis e
+     pelo tamanho ou pela natureza de uma distorção, ou por uma            98    Infere-se que o auditor-fiscal considerou os demais créditos de
+     combinação de ambos.                                                        ICMS porque os ativos imobilizados dos quais foram
+                                                                                 originados são todos utilizados no processo produtivo, além de
+                                                                                 terem sido adquiridos nos últimos doze meses.
+94   A opinião do auditor sobre as demonstrações contábeis                       JUSTIFICATIVA: CERTO. Procedimento correto porque o
+     assegura a viabilidade futura da entidade, assim como                       aproveitamento é condicionado à utilização do equipamento na
+     assegura a eficiência da administração na condução dos                      atividade do estabelecimento. E o crédito é utilizado na
+     negócios dessa entidade.                                                    proporção de 1/48 avos. (Art. 34, II, e 34, § 4.º, VII , da
+     JUSTIFICATIVA: ERRADO. A opinião do auditor sobre as                        Lei distrital n.º 1.254/1996 e suas alterações)
+     demonstrações contábeis trata de determinar se as
+     demonstrações contábeis são elaboradas, em todos os aspectos
+                                                                           Considerando que determinado contribuinte tenha passado por um
+     relevantes, em conformidade com a estrutura de relatório              processo de auditoria fiscal e não tenha conseguido comprovar, com
+     financeiro aplicável. Tal opinião é comum a todas as auditorias       documentos fiscais, a base de cálculo do ISS, julgue o item que se
+     de demonstrações contábeis. A opinião do auditor, portanto,           segue.
+     não assegura, por exemplo, a viabilidade futura da entidade
+     nem a eficiência ou eficácia com a qual a administração               99    Na hipótese de haver o arbitramento, a autoridade fiscal pode
+     conduziu os negócios da entidade.                                           fixar a base de cálculo do ISS utilizando o preço do serviço
+                                                                                 praticado em períodos idênticos pelo próprio contribuinte ou
+                                                                                 por outros contribuintes que exerçam a mesma atividade.
+Julgue o próximo item, relativo a fraudes e erros na escrita fiscal.             JUSTIFICATIVA: CERTO. Art. 29, I, do Decreto distrital
+                                                                                 n.º 25.508/2005 e suas alterações.
+95   As penalidades relativas à obrigação acessória referente à
+     escrituração dos livros fiscais se aplicam mesmo aos
+     contribuintes que tenham sanado, antes de qualquer                    Julgue o item a seguir, a respeito da escrita fiscal.
+     procedimento do fisco, as irregularidades das respectivas             100   Salvo disposição em contrário, o contribuinte que mantiver
+     obrigações.                                                                 mais de um estabelecimento — filial, sucursal, agência,
+     JUSTIFICATIVA: ERRADO. As penalidades relativas à                           depósito, fábrica ou outro — deverá fazer escrituração em
+     obrigação acessória não se aplicam aos contribuintes que, antes             livros fiscais distintos para cada um deles, vedada a sua
+     de qualquer procedimento do fisco, sanarem as irregularidades               centralização.
+     verificadas no cumprimento das respectivas obrigações.                      JUSTIFICATIVA: CERTO. Art 184, § 4.º, Decreto distrital
+     (Art. 62, § 3.º, da Lei distrital n.º 1.254/1996 e suas alterações)         n.º 18.955/1997 e seus anexos e suas alterações.
+
+/R*Cargo: Auditor-Fiscal da Receita do Distrito Federal *R/                                                                 /C*Caderno X*C/ – 2 –
+||IdentificaPDF||                                                                             CEBRASPE – SEECDF – Aplicação: 2020
+
+                                                                               Determinada entidade privada adquiriu, para revenda,
+           CONTABILIDADE GERAL E                                       mercadorias pelo valor de R$ 500.000. Com base nesse montante,
+        CONTABILIDADE DE CUSTOS                                        o fornecedor cobrou, ainda, 10% referentes aos tributos não
+                                                                       recuperáveis e 5% de frete para entrega.
+
+No que se refere às características qualitativas fundamentais da       A partir dessas informações, julgue os itens a seguir.
+informação contábil-financeira, julgue o item seguinte.
+                                                                       105   O gestor contábil deve contabilizar as mercadorias como
+101   Para ser útil, a informação contábil deve, concomitantemente,          ativo circulante ao custo de R$ 550.000.
+      ser relevante e representar com fidedignidade a realidade              JUSTIFICATIVA: ERRADO. O valor correto do ativo
+      reportada: nem a representação fidedigna de fenômeno                   circulante é de R$ 575.000, pois o montante pago pelo frete
+      irrelevante, nem a representação não fidedigna de fenômeno             deve compor seu custo de aquisição. Na situação: R$ 500.000
+      relevante auxiliam os usuários a tomarem boas decisões.                + R$50.000 + R$25.000 = R$575.000.
+      JUSTIFICATIVA: CERTO. Resolução CFC n.º 1.374/2011,                    Conforme determina o Conselho Federal de Contabilidade:
+      QC17.                                                                  NBC TG 16 (R2) – ESTOQUES
+                                                                             11. O custo de aquisição dos estoques compreende o preço de
+Considerando os conceitos de receita, despesa, ganhos e perdas,              compra, os impostos de importação e outros tributos (exceto os
+julgue o próximo item.                                                       recuperáveis perante o fisco), bem como os custos de
+                                                                             transporte, seguro, manuseio e outros diretamente atribuíveis
+102   Ganhos representam outros itens que se enquadram na                    à aquisição de produtos acabados, materiais e serviços.
+      definição de receita e podem ou não surgir no curso das                Descontos comerciais, abatimentos e outros itens semelhantes
+      atividades usuais da entidade, representando aumentos nos              devem ser deduzidos na determinação do custo de aquisição.
+      benefícios econômicos, e, como tais, não diferem, em natureza,
+      das receitas.
+                                                                       106   O gestor contábil deve debitar como despesa operacional
+      JUSTIFICATIVA: CERTO. Resolução CFC n.º 1.374/2011,
+                                                                             o valor de R$ 25.000, referente ao valor pago pelo frete.
+      4.30.
+                                                                             JUSTIFICATIVA: ERRADO. O frete é parte integrante do
+                                                                             valor de custo da mercadoria, devendo ser contabilizado como
+Com relação aos conceitos de ativos, passivos e patrimônio líquido,          ativo e não como despesa.
+julgue o item a seguir.                                                      NBC TG 16 (R2) – ESTOQUES do Conselho Federal de Contabilidade
+                                                                             11. O custo de aquisição dos estoques compreende o preço de
+103   Ao avaliar se um item se enquadra na definição de ativo,
+                                                                             compra, os impostos de importação e outros tributos (exceto os
+      passivo ou patrimônio líquido, deve-se atentar para a sua
+                                                                             recuperáveis perante o fisco), bem como os custos de
+      essência subjacente e sua realidade econômica, e não apenas
+                                                                             transporte, seguro, manuseio e outros diretamente atribuíveis
+      para sua forma legal.
+                                                                             à aquisição de produtos acabados, materiais e serviços.
+      JUSTIFICATIVA: CERTO. Prevalência da essência sobre a
+                                                                             Descontos comerciais, abatimentos e outros itens semelhantes
+      forma (Resolução CFC n.º 1.374/2011, 4.6).
+                                                                             devem ser deduzidos na determinação do custo de aquisição.
+
+         Determinada entidade contratou dois funcionários para a
+                                                                       A respeito das demonstrações contábeis, julgue os itens que
+área de vendas no primeiro dia do mês. No dia 15 do referido mês,
+                                                                       se seguem.
+esses dois funcionários receberam adiantamentos correspondentes
+a 30% dos salários a que tinham direito no mês. O restante foi pago    107   A partir da análise da demonstração dos fluxos de caixa,
+no quinto dia útil do mês subsequente.                                       o usuário da informação toma conhecimento de como
+                                                                             a entidade financia suas atividades, descritas através dos
+A respeito da situação hipotética apresentada, julgue o item a
+                                                                             fluxos operacional, de investimento e de financiamento.
+seguir.
+                                                                             JUSTIFICATIVA: CERTO. A DFC permite o conhecimento
+104   Os adiantamentos pagos aos funcionários no dia 15 do referido          de quem são os credores da entidade (NBC TG 03 (R3) –
+      mês são considerados fatos modificativos porque reduzem o              DEMONSTRAÇÃO DOS FLUXOS DE CAIXA – DFC).
+      ativo (saída de caixa) e reduzem o patrimônio (reconhecimento          Benefícios da informação dos fluxos de caixa:
+      de despesa).                                                           Apresentação da demonstração dos fluxos de caixa
+      JUSTIFICATIVA: ERRADO. Trata-se de um fato contábil                    10. A demonstração dos fluxos de caixa deve apresentar os
+      permutativo: reduz o ativo (saída de caixa) e aumenta outro            fluxos de caixa do período classificados por atividades
+      ativo (adiantamento a funcionários).                                   operacionais, de investimento e de financiamento.
+
+/R*Cargo: Auditor-Fiscal da Receita do Distrito Federal *R/                                                            /C*Caderno X*C/ – 3 –
+||IdentificaPDF||                                                                             CEBRASPE – SEECDF – Aplicação: 2020
+
+108   A demonstração do valor adicionado apresenta as riquezas         Com relação às metodologias adotadas tanto para fins de
+      criadas pela entidade em determinado período e a forma           custeamento de estoques quanto para fins meramente gerenciais,
+                                                                       julgue os itens que se seguem.
+      como foram pagas, a exemplo de valores destinados
+                                                                       112   Situação hipotética: Em 20X9, no seu último ano de exercício
+      à quitação de impostos, taxas e contribuições.                         social, determinada empresa apurou, antes de impostos, lucro
+      JUSTIFICATIVA: CERTO. Segundo instrui a NBC TG 09 –                    de R$ 1.350.000, pelo método do custeio variável, e lucro
+      Demonstração do Valor Adicionado do Conselho Federal de                de R$ 1.125.000, pelo método do custeio por absorção.
+                                                                             Assertiva: Considerando-se essas informações, é correto
+      Contabilidade                                                          afirmar que a empresa teve redução de estoques no período.
+      5. A DVA deve proporcionar aos usuários das demonstrações              JUSTIFICATIVA: CERTO. A diferença entre ambas as
+                                                                             metodologias é o tratamento dado aos custos fixos,
+      contábeis informações relativas à riqueza criada pela entidade         reconhecidos imediatamente no resultado pelo custeio variável
+      em determinado período e a forma como tais riquezas foram              e diferidos pelo custeio por absorção. Em momentos de baixa
+      distribuídas.                                                          no volume dos estoques, o custeio por absorção levará ao
+                                                                             resultado unidades antigas que contêm custos fixos diferidos,
+      6. A distribuição da riqueza criada deve ser detalhada,                reduzindo o resultado do período, quando comparado com o
+      minimamente, da seguinte forma:                                        apurado pelo custeio variável.
+      (a) pessoal e encargos;
+                                                                       113   Em seu segundo estágio, o custeio ABC atribui custos de
+      (b) impostos, taxas e contribuições;                                   insumos às atividades.
+      (c) juros e aluguéis;                                                  JUSTIFICATIVA: ERRADO. Essa atribuição de custos é
+                                                                             característica do primeiro estágio. No segundo estágio, o
+      (d) juros sobre o capital próprio (JCP) e dividendos;
+                                                                             custeio ABC atribui custos aos objetos de custeio.
+      (e) lucros retidos/prejuízos do exercício.
+                                                                       114   Situação hipotética: Determinada empresa atingiu seu ponto
+                                                                             de equilíbrio ao vender 4 mil unidades de seu único produto.
+No que se refere à metodologia do custeio por absorção, julgue               Seus custos e despesas fixas somaram R$ 160.000.
+os itens seguintes.                                                          Assertiva: Nessa situação, se a empresa apurar um lucro, antes
+                                                                             de impostos, de R$ 80.000, ela terá obtido uma margem
+                                                                             de segurança superior a 40%.
+109   O custeio RKW é um tipo de custeio por absorção.                       JUSTIFICATIVA: ERRADO. Se a empresa atinge seu ponto
+      JUSTIFICATIVA: ERRADO. O custeio RKW é uma                             de equilíbrio ao vender 4 mil unidades e seus custos e despesas
+                                                                             fixas são de R$ 160 mil, então sua margem de contribuição é
+      metodologia baseada na filosofia de custeio pleno. O RKW
+                                                                             de R$ 40 por unidade (R$ 160 mil / 4 mil). Ao obter um lucro
+      incorpora aos produtos os custos diretos e indiretos, fixos e          de 80 mil, a empresa apurou R$ 240 mil de margem de
+      variáveis considerados no custeio por absorção, mas também             contribuição (R$ 160 mil para custos fixos e R$ 80 mil para
+                                                                             lucro), o que representa 6 mil unidades vendidas (R$ 240 mil
+      incorpora despesas ao custo dos produtos, o que o diferencia           / R$ 40), das quais 4 mil cobrem os custos e despesas fixas e
+      do custeio por absorção.                                               2 mil geram o lucro. A margem de segurança representa o
+                                                                             quanto as vendas estão acima do ponto de equilíbrio. Nesse
+                                                                             caso, 67% das vendas são utilizadas para atingir o ponto de
+110   Os custos que podem ser associados aos objetos de custeio              equilíbrio e 33% são margem de segurança.
+      sem o uso de modelos matemáticos de rateio são atribuídos
+                                                                       115   Situação hipotética: Uma empresa que utiliza o sistema de
+      a esses objetos na metodologia do custeio por absorção.                custo padrão para fins gerenciais considera que uma unidade
+      JUSTIFICATIVA: CERTO. Os custos que não exigem                         de dado produto deve consumir 0,45 horas de mão de obra
+                                                                             direta, cuja taxa horária é de R$ 13,00. Em dado período foram
+      modelos de rateio são os custos diretos, e eles são atribuídos
+                                                                             produzidas 200 unidades desse produto, o que gerou uma
+      aos produtos pelo custeio por absorção.                                variação favorável de taxa de mão de obra direta (MOD) de
+                                                                             R$ 90,00 e uma variação total de R$ 40,00 desfavorável.
+                                                                             Assertiva: Com base nessas informações, é correto concluir
+111   Na metodologia de custeio por absorção, as rubricas                    que a taxa efetivamente incorrida pela mão de obra utilizada
+                                                                             foi inferior a R$ 12,50.
+      necessárias para o controle de custos e estoques diferem no            JUSTIFICATIVA: CERTO. O custo esperado de MOD para
+      que se refere aos sistemas produtivos empregados: produção             o volume de produção é de R$ 1.170 (200 × 0,45 × R$ 13).
+      por ordem de serviços e produção contínua, respectivamente.            Como a variação total foi desfavorável em R$ 40, então o
+                                                                             custo efetivo foi de R$ 1.210. Entretanto, o fato de a variação
+      JUSTIFICATIVA: ERRADO. Há diversas diferenças entre os                 de taxa ter sido favorável em R$ 90 significa que o custo
+      dois sistemas produtivos, mas as rubricas necessárias para o           esperado, dados os padrões adotados pela empresa, deveria ser
+                                                                             de R$ 1.300, o que implica um total de hMOD efetiva de
+      tratamento de custos e estoques é um ponto de convergência             100 horas (R$ 13 × 100 = R$ 1.300) e um custo efetivo de
+      entre ambos os sistemas, e não um diferencial.                         hMOD de R$ 12,10.
+
+/R*Cargo: Auditor-Fiscal da Receita do Distrito Federal *R/                                                             /C*Caderno X*C/ – 4 –
+||IdentificaPDF||                                                                                CEBRASPE – SEECDF – Aplicação: 2020
+
+
+                 DIREITO FINANCEIRO                                                     DIREITO TRIBUTÁRIO
+
+Considerando as regras constitucionais de direito financeiro,            Julgue os próximos itens, com base no disposto na Lei Orgânica
+julgue o item a seguir.                                                  do DF, na Constituição Federal de 1988 e no Código Tributário
+                                                                         Nacional (CTN).
+116   O crédito especial cujo ato de autorização seja promulgado
+                                                                         121   Segundo a Lei Orgânica do DF, são isentas de impostos
+      nos últimos quatro meses do exercício financeiro pode ser
+                                                                               distritais as operações de transferência de imóveis
+      reaberto e incorporado ao orçamento do ano seguinte,
+                                                                               desapropriados para fins de reforma agrária.
+      desde que respeitado o limite do seu saldo.                              JUSTIFICATIVA: CERTO. É exatamente o que prevê
+      JUSTIFICATIVA: CERTO. Essa autorização está                              o art. 130 da Lei Orgânica do DF: “Art. 130. São isentas
+      expressamente prevista no § 2.º do art. 167 da Constituição              de impostos de competência do Distrito Federal as operações
+      Federal de 1988.                                                         de transferência de imóveis desapropriados para fins de
+                                                                               reforma agrária.”.
+Julgue os próximos itens, considerando o disposto na
+Lei n.º 4.320/1964.                                                      122   A majoração de qualquer tributo por medida provisória
+                                                                               somente produzirá efeitos no exercício financeiro seguinte
+117   Os valores objeto da previsão de arrecadação de receitas                 se for convertida em lei até o último dia do exercício em
+      constante da lei orçamentária anual pertencem ao respectivo              que tiver sido editada.
+      exercício financeiro.                                                    JUSTIFICATIVA: ERRADO. De acordo com o § 2.º do
+      JUSTIFICATIVA: ERRADO. Segundo o art. 35 da Lei n.º                      art. 62 da Constituição Federal de 1988 (CF), essa norma
+      4.320/1964, pertencem ao exercício financeiro as receitas                somente é aplicável para os impostos, não para qualquer
+      efetivamente arrecadadas, e não as meramente previstas para              tributo (gênero da espécie, na qual se incluem as taxas,
+                                                                               contribuições, empréstimos compulsórios, contribuições de
+      arrecadação.
+                                                                               melhoria e impostos, art. 145, da CF). Além disso, mesmo para
+                                                                               os impostos, ela não é aplicável para os impostos sobre
+118   Os créditos da fazenda pública serão escriturados como receita           importação, sobre exportação, IPI, IOF e impostos extraordinários.
+      do exercício financeiro em que tiver se dado o fato gerador.
+       JUSTIFICATIVA: ERRADO. Segundo o art. 39 da Lei                   123   De acordo com o CTN, o arrematante de produtos importados
+      n.º 4.320/1964, os créditos da fazenda pública serão                     apreendidos pela aduana é contribuinte do imposto sobre
+      escriturados como receita do exercício em que tiverem sido               a importação.
+      arrecadados, e não como receita daquele em que tiver ocorrido            JUSTIFICATIVA: CERTO. O CTN define quem são os
+      o fato gerador.                                                          contribuintes do imposto sobre a importação em seu art. 22:
+                                                                               “Art. 22. Contribuinte do imposto é: I – o importador ou quem
+                                                                               a lei a ele equiparar; II – o arrematante de produtos
+Julgue os itens a seguir, à luz da Lei de Responsabilidade Fiscal.             apreendidos ou abandonados.”.
+119   No conceito de receita corrente líquida dos estados, são
+      deduzidos os valores das transferências que eles fizerem aos       Considerando as regras do CTN acerca da vigência da legislação
+      municípios por determinação constitucional.                        tributária e das limitações constitucionais ao poder de tributar,
+      JUSTIFICATIVA: CERTO. O inciso IV do art. 2.º da Lei de            julgue os itens que se seguem.
+      Responsabilidade Fiscal conceitua a “receita corrente líquida      124   Não havendo disposição em contrário, os efeitos normativos
+      [como o]: somatório das receitas tributárias, de contribuições,          das decisões dos órgãos coletivos de jurisdição administrativa
+      patrimoniais, industriais, agropecuárias, de serviços,                   a que a lei atribua eficácia normativa entram em vigor
+      transferências correntes e outras receitas também correntes,             trinta dias após a data da publicação da decisão.
+      deduzidos (...) b) nos Estados, as parcelas entregues aos                JUSTIFICATIVA: CERTO. A afirmativa corresponde
+      Municípios por determinação constitucional;”.                            à literalidade da regra contida no inciso II do art. 103 c/c
+                                                                               art. 100, II, ambos do CTN.
+120   Exige-se autorização por lei específica para a realização de
+      doação, pelo governo federal, de determinada quantia em            125   A imunidade tributária recíproca dos entes federativos não
+                                                                               é extensível às respectivas autarquias e fundações públicas.
+      dinheiro para satisfazer necessidades de pessoa física que
+                                                                               JUSTIFICATIVA: ERRADO. A imunidade tributária
+      tenha prestado relevantes serviços à nação.
+                                                                               recíproca dos entes federativos está prevista no art. 150, VI, a),
+      JUSTIFICATIVA: CERTO. O art. 26 da Lei de
+                                                                               da CF. Segundo essa regra constitucional, os entes federativos
+      Responsabilidade Fiscal exige que qualquer transferência ao              não podem instituir impostos sobre o patrimônio, renda ou
+      setor privado seja objeto de lei específica: “Art. 26. A                 serviços uns dos outros. Na forma do § 2.º do art. 150 do texto
+      destinação de recursos para, direta ou indiretamente, cobrir             constitucional, essa imunidade é extensiva às autarquias e às
+      necessidades de pessoas físicas ou déficits de pessoas jurídicas         fundações instituídas e mantidas pelo poder público, observada
+      deverá ser autorizada por lei específica.”.                              a delimitação feita na parte final do referido parágrafo.
+
+/R*Cargo: Auditor-Fiscal da Receita do Distrito Federal *R/                                                                 /C*Caderno X*C/ – 5 –
+||IdentificaPDF||                                                                                CEBRASPE – SEECDF – Aplicação: 2020
+
+No que se refere a aplicação da lei e responsabilidade tributária,       Com relação à inscrição na dívida ativa, julgue os itens a seguir.
+julgue os itens seguintes.
+                                                                         131   É facultativo constar no termo de inscrição da dívida ativa a
+126   A atribuição de responsabilidade tributária solidária ao                 maneira de calcular os juros de mora acrescidos à quantia
+      administrador da massa falida pelas penalidades tributárias
+                                                                               devida.
+      por ela devidas se restringe às de caráter moratório.
+      JUSTIFICATIVA: CERTO. Trata-se de previsão expressa do                   JUSTIFICATIVA: ERRADO. Deve constar obrigatoriamente,
+      art. 134, V, e parágrafo único, do Código Tributário Nacional            e não facultativamente, a maneira de calcular os juros de mora,
+      (CTN): “Art. 134. Nos casos de impossibilidade de exigência              conforme art. 202, inc. II, da Lei n.º 5.172/1966.
+      do cumprimento da obrigação principal pelo contribuinte,
+      respondem solidariamente com este nos atos em que                  132   É obrigatório constar no termo de inscrição da dívida ativa o
+      intervierem ou pelas omissões de que forem responsáveis: [...]           número do processo administrativo de que se origina o crédito
+      V - o síndico e o comissário, pelos tributos devidos pela massa
+                                                                               tributário.
+      falida ou pelo concordatário; [...] Parágrafo único. O disposto
+                                                                               JUSTIFICATIVA: CERTO. É o teor do art. 202, inc. V, da
+      neste artigo só se aplica, em matéria de penalidades, às de
+      caráter moratório.”.                                                     Lei n.º 5.172/1966.
+
+
+127   O Código Tributário Nacional admite a aplicação do princípio       133   Eventual nulidade do termo de inscrição da dívida ativa poderá
+      da insignificância aos ilícitos tributários, de modo que                 ser sanada até a decisão de primeira instância, mediante a
+      a ocorrência da infração fiscal depende da análise da                    substituição da certidão nula, devolvendo-se o prazo de defesa.
+      efetividade e da extensão dos efeitos do ato.                            JUSTIFICATIVA: CERTO. É o teor do art. 203 da Lei n.º 5.172/1966.
+      JUSTIFICATIVA: ERRADO. O art. 136 do CTN é expresso
+      no sentido de que a responsabilidade por infrações da
+      legislação tributária independe da efetividade, da natureza e da   A respeito das garantias e dos privilégios do crédito tributário,
+      extensão dos efeitos do ato.                                       julgue os itens seguintes.
+                                                                         134   Independentemente da inscrição em dívida ativa, pode-se
+128   É incompatível com o Código Tributário Nacional lei distrital            presumir como fraudulenta a alienação de bens realizada pelo
+      que admita a indicação do sujeito passivo do imposto sobre
+                                                                               sujeito passivo que esteja em débito com a fazenda pública,
+      transmissão de bens imóveis (ITBI) pelas partes no contrato de
+      compra e venda de imóvel, pois as convenções particulares não            desde que exista o crédito tributário.
+      são oponíveis à fazenda pública.                                         JUSTIFICATIVA: ERRADO. Nos termos do art. 185 da
+      JUSTIFICATIVA: ERRADO. O art. 123 do CTN prevê que a                     Lei n.º 5.172/1966, é necessário que haja a regular inscrição do
+      lei pode autorizar convenções particulares a alterar a sujeição          crédito tributário como dívida ativa.
+      passiva: “Salvo disposições de lei em contrário, as convenções
+      particulares, relativas à responsabilidade pelo pagamento de       135   Não há presunção de fraude na alienação de bens feita por
+      tributos, não podem ser opostas à fazenda pública, para
+                                                                               sujeito passivo se o devedor reservar bens ou rendas suficientes
+      modificar a definição legal do sujeito passivo das obrigações
+                                                                               ao pagamento da dívida regularmente inscrita.
+      tributárias correspondentes.”.
+                                                                               JUSTIFICATIVA: CERTO. É possível haver a reserva, o que
+                                                                               evitará que a operação seja presumida como fraudulenta, nos
+129   A sociedade empresária que tenha sócio remanescente
+                                                                               termos do art. 185, parágrafo único, da Lei n.º 5.172/1966.
+      de sociedade extinta e que explore a mesma atividade
+      não responde pelos débitos tributários desta.
+      JUSTIFICATIVA: ERRADO. O parágrafo único do art. 132
+      do CTN prevê expressamente que responde pelos débitos                         LEGISLAÇÃO TRIBUTÁRIA
+      tributários da sociedade extinta a empresa que continue a
+      exploração da atividade sob a mesma ou outra razão social e        De acordo com a Lei Orgânica do Distrito Federal e o Código
+      que tenha sócio remanescente da sociedade extinta.                 Tributário do Distrito Federal, julgue os itens seguintes.
+
+130   Como o conceito de doação constante do direito civil               136   O ICMS não incide sobre operações que destinem mercadorias
+      decorre de legislação infraconstitucional ordinária da União,            para o exterior.
+      não oponível aos demais entes federados, o intérprete                    JUSTIFICATIVA: CERTO. A Lei Orgânica do Distrito
+      da legislação que necessitar utilizar tal conceito para fins             Federal expressamente prevê a não incidência do ICMS sobre
+      tributários no âmbito do Distrito Federal deve buscá-lo                  operações que destinem mercadorias ao exterior (arts. 134 e
+      exclusivamente na legislação tributária distrital, ainda que             135, § 3.º).
+      esta veicule definição mais ampla que a do direito privado.
+      JUSTIFICATIVA: ERRADO. O art. 110 do CTN prevê                     137   É vedada a cobrança da contribuição de iluminação pública na
+      expressamente que a legislação tributária não pode alterar os
+                                                                               fatura de consumo de energia elétrica emitida pela empresa
+      conceitos e formas de direito privado utilizados implícita ou
+                                                                               concessionária desse serviço.
+      explicitamente pela Constituição Federal de 1988 para limitar
+      a competência tributária. Com efeito, caso o intérprete                  JUSTIFICATIVA: ERRADO. A cobrança da contribuição de
+      necessite definir o conceito de “doação” para fins tributários,          iluminação pública na fatura de energia elétrica é
+      deverá buscá-lo na legislação de direito privado, uma vez que            expressamente autorizada pelo parágrafo único do art. 149-A
+      a lei tributária do Distrito Federal não poderá alterar os               da Constituição Federal de 1988, previsão essa que se encontra
+      conceitos utilizados pela Constituição Federal de 1988 para              reproduzida no § 6.º do art. 4.º-A do Código Tributário do
+      limitar ou definir competências tributárias.                             Distrito Federal.
+
+/R*Cargo: Auditor-Fiscal da Receita do Distrito Federal *R/                                                                /C*Caderno X*C/ – 6 –
+||IdentificaPDF||                                                                               CEBRASPE – SEECDF – Aplicação: 2020
+
+138   Na hipótese de aplicação de multa em razão do recolhimento        Com base no Decreto distrital n.º 28.445/2007, julgue os itens a
+      do tributo depois de iniciado o processo de exigência do          seguir, com relação ao IPTU no âmbito do Distrito Federal.
+      crédito tributário, o contribuinte terá direito a desconto se
+      efetuar o pagamento antes do ajuizamento da ação de execução      144   A incidência do IPTU depende do registro do respectivo
+      do crédito tributário.                                                  imóvel residencial em cartório de registro de imóveis.
+      JUSTIFICATIVA: CERTO. O Código Tributário do Distrito                   JUSTIFICATIVA: ERRADO. Nos termos do art. 1.º, §§ 3.º e
+      Federal prevê multa na hipótese de recolhimento do tributo              4.º, do Decreto distrital n.º 28.445/2007, a incidência do
+      após o prazo regulamentar. Na forma do art. 62 desse código,            tributo não depende de nenhuma exigência legal, regulamentar
+      a multa será de 20% se o tributo tiver sido recolhido antes de          ou administrativa, e também pode recair sobre áreas não
+      iniciado o processo de exigência do crédito tributário (inciso          registradas nos cartórios de registro de imóveis.
+      I), ou de 50% se recolhido posteriormente (inciso II).
+      Conforme previsão expressa do inciso IV do § 3.º do art. 62 do
+      referido código, é possível a redução do valor da multa           145   Posseiro possui responsabilidade tributária pelo pagamento do
+      prevista no inciso II do art. 62 se o pagamento for efetuado            IPTU do imóvel que ocupa.
+      antes do ajuizamento da ação de execução do crédito tributário.         JUSTIFICATIVA: CERTO. Nos termos do art. 4.º, § 3.º, do
+                                                                              Decreto distrital n.º 28.445/2007, o posseiro possui
+                                                                              responsabilidade solidária pelo IPTU.
+A respeito da apreensão de mercadoria pelo fisco e do processo
+administrativo fiscal, julgue os próximos itens, considerando o
+Decreto n.º 33.269/2011 e o Regimento Interno do Tribunal               146   A base de cálculo do referido imposto é o valor venal do
+Administrativo de Recursos Fiscais (TARF).                                    imóvel, desconsiderando-se, na avaliação desse valor, a área
+                                                                              não edificada.
+139   Os bens encontrados em situação irregular e apreendidos pela
+      autoridade tributária somente devem ser liberados após o                JUSTIFICATIVA: ERRADO. A área não edificada deve ser
+      pagamento do imposto incidente e das multas devidas.                    considerada no valor venal do imóvel, conforme art. 13, § 1.º,
+      JUSTIFICATIVA: ERRADO. O caput do art. 38 do Decreto                    inciso II, do Decreto distrital n.º 28.445/2007.
+      n.º 33.269/2011 expressamente admite a liberação de bens
+      ainda que pendente o pagamento do imposto e das multas devidas.   A respeito do IPVA no âmbito do Distrito Federal, julgue os itens
+                                                                        seguintes.
+140   São considerados créditos tributários não contenciosos aqueles
+      sujeitos a lançamento por homologação, se forem declarados        147   São isentos de IPVA os veículos de serviços agrícolas que
+      pelo contribuinte por escrituração fiscal eletrônica e não              transitem apenas dentro dos limites das propriedades agrícolas
+      tiverem sido recolhidos no prazo estabelecido.                          a que pertençam, assim como as máquinas agrícolas e de
+      JUSTIFICATIVA: CERTO. Definição contida no inciso II do                 terraplenagem, desde que não circulem em vias públicas
+      art. 50 do Decreto n.º 33.269/2011.                                     abertas à circulação.
+                                                                              JUSTIFICATIVA: CERTO. É o que dispõe o art. 4.º da Lei
+141   No âmbito do TARF, compete ao tribunal pleno conhecer e                 federal n.º 7.431/1985, que institui, no Distrito Federal, o
+      julgar os recursos em processos de jurisdição voluntária,               imposto sobre a propriedade de veículos automotores.
+      exceto os processos de consulta.
+      JUSTIFICATIVA: CERTO. É exatamente o que prevê o inciso
+      III do art. 7.º do Regimento Interno do Tribunal Administrativo   148   Deverá incidir correção monetária sobre o valor do IPVA em
+      Recursos Fiscais (TARF).                                                caso de pagamento espontâneo fora dos prazos regulamentares.
+                                                                              JUSTIFICATIVA: CERTO. Deverá incidir, sim, a correção
+                                                                              monetária, nos termos do art. 6.º da Lei federal n.º 7.431/1985.
+Com relação ao ISS e ao ICMS, julgue os itens subsequentes, à luz
+da Lei distrital n.º 1.254/1996 (Lei do ICMS no DF) e da Lei
+Complementar n.º 116/2003 (Lei do ISS).                                 149   Terá isenção do pagamento de IPVA o proprietário de veículo
+                                                                              roubado, furtado ou sinistrado, desde que o fato seja objeto de
+142   O valor do frete da mercadoria não deverá integrar a base de            ocorrência policial.
+      cálculo do ICMS se o transporte for efetuado pelo próprio               JUSTIFICATIVA: ERRADO. Trata-se de caso de não
+      remetente.                                                              incidência do IPVA, não de isenção, conforme art. 5.º,
+      JUSTIFICATIVA: ERRADO. De acordo com a alínea b) do
+                                                                              inciso II, do Decreto distrital n.º 34.024/2012.
+      inciso II do art. 8.º da Lei distrital n.º 1.254/1996 (Lei do
+      ICMS no DF), o valor correspondente ao frete integra a base
+      de cálculo do ICMS, quando o transporte for efetuado pelo         Acerca do ITBI no âmbito do Distrito Federal, julgue os itens
+      próprio remetente ou por sua conta e ordem e for cobrado em       subsecutivos.
+      separado.
+                                                                        150   Incide ITBI no caso de extinção de usufruto por consolidação
+143   A pessoa jurídica tomadora de serviços de engenharia de obras           na pessoa do nu proprietário em decorrência de morte do
+      de construção civil executadas por subempreitada não é                  usufrutuário.
+      responsável pelo ISS devido na operação se não for                      JUSTIFICATIVA: ERRADO. Nos termos do art. 2.º, § 4.º, da
+      contribuinte do tributo.                                                Lei distrital n.º 3.830/2006, não incide ITBI nesse caso.
+      JUSTIFICATIVA: ERRADO. O serviço descrito no item está
+      sujeito ao ISS, na forma do item 7.02 da Lei Complementar         151   É isenta de ITBI operação de aquisição de imóveis de
+      n.º 116/2003 (Lei do ISS). Na forma do inciso II do § 2.º do
+                                                                              propriedade da Companhia Imobiliária de Brasília
+      art. 6.º dessa lei, as pessoas jurídicas tomadoras do serviço
+      contido no item 7.02 são responsáveis tributárias.                      (TERRACAP) por empreendedores habilitados pela Caixa
+      Importante frisar que a responsabilidade é um dever legal               Econômica Federal.
+      imposto a um terceiro, que não precisa ser contribuinte do              JUSTIFICATIVA: CERTO. Nos termos do art. 4.º, inciso IV,
+      tributo.                                                                da Lei distrital n.º 3.830/2006, há isenção de ITBI nesse caso.
+
+/R*Cargo: Auditor-Fiscal da Receita do Distrito Federal *R/                                                              /C*Caderno X*C/ – 7 –
+||IdentificaPDF||                                                                                  CEBRASPE – SEECDF – Aplicação: 2020
+
+152   Não incide ITBI sobre a transmissão de bens ou direitos              No que se refere ao Estatuto Nacional da Microempresa e da
+      incorporados ao patrimônio de pessoa jurídica, em realização         Empresa de Pequeno Porte – Simples Nacional, julgue os próximos
+      de capital nela subscrito, ou em decorrência de fusão,               itens.
+      incorporação, cisão ou extinção de pessoa jurídica.
+      JUSTIFICATIVA: CERTO. Nos termos do art. 2.º, incisos I e            157   A lei que institui esse estatuto destina-se a dar tratamento
+      II, do Decreto distrital n.º 27.576/2006, trata-se de caso de não          diferenciado às micro e pequenas empresas no que se refere
+      incidência do ITBI.                                                        tanto às obrigações principais quanto às acessórias.
+                                                                                 JUSTIFICATIVA: CERTO. Em seu primeiro artigo, inciso I,
+À luz do Decreto-lei n.º 82/1966, que regula o Sistema Tributário                a LC n.º 123/2006 deixa patente esse objetivo:
+do Distrito Federal, julgue os itens seguintes.                                  “Art. 1.º. Esta Lei Complementar estabelece normas gerais
+                                                                                 relativas ao tratamento diferenciado e favorecido a ser
+153   Ao criar uma contribuição de melhoria, o governo do Distrito
+                                                                                 dispensado às microempresas e empresas de pequeno porte no
+      Federal deve estabelecer a contribuição relativa a cada imóvel,
+      que será calculada em razão dos parâmetros publicados.                     âmbito dos Poderes da União, dos estados, do Distrito Federal
+      JUSTIFICATIVA: CERTO. O art. 127 do Decreto-lei                            e dos municípios, especialmente no que se refere:
+      n.º 82/1966 determina que se publiquem os elementos ou                     I    à apuração e recolhimento dos impostos e contribuições
+      parâmetros a partir dos quais será determinada a contribuição                   da União, dos estados, do Distrito Federal e dos
+      relativa a cada imóvel:                                                         municípios, mediante regime único de arrecadação,
+      “Art. 127. Para cobrança da contribuição de melhoria a                          inclusive obrigações acessórias;”.
+      repartição competente deverá:
+      I    publicar previamente os seguintes elementos:
+           (...)                                                           158   Para efeito de caracterização como micro ou pequena empresa,
+           § 1.º A contribuição relativa a cada imóvel será                      é levada em consideração a receita bruta, que deve ser
+           determinada pelo rateio da parcela de custo da obra a que             entendida como o produto da venda de bens e serviços nas
+           se refere a alínea c), do inciso I, pelos imóveis situados na         operações de conta própria, o preço dos serviços prestados e o
+           zona beneficiada, em função dos respectivos fatores                   resultado nas operações em conta alheia, não incluídos vendas
+           individuais de valorização.”.                                         canceladas nem descontos incondicionais concedidos.
+                                                                                 JUSTIFICATIVA: CERTO. O item reproduz o conceito
+154   É facultado aos contribuintes impugnar os elementos ou                     constante do § 1.º do art. 3.º da LC n.º 123/2006: “§ 1.º
+      parâmetros utilizados para cálculos, cabendo o ônus da prova               Considera-se receita bruta, para fins do disposto no caput deste
+      ao governo do Distrito Federal.                                            artigo, o produto da venda de bens e serviços nas operações de
+      JUSTIFICATIVA: ERRADO. O § 3.º do art. 127 do                              conta própria, o preço dos serviços prestados e o resultado nas
+      Decreto-lei n.º 82/1966 faculta ao contribuinte a impugnação,
+                                                                                 operações em conta alheia, não incluídas as vendas canceladas
+      mas será dele o ônus da prova: “§ 3.º Caberá ao contribuinte o
+                                                                                 e os descontos incondicionais concedidos.”.
+      ônus da prova quando impugnar quaisquer dos elementos a que
+      se refere o inciso I deste artigo”.
+                                                                           A Lei distrital n.º 2.834/2001 tornou aplicável ao Distrito Federal
+Consoante a Lei Complementar distrital n.º 435/2001, os tributos           a Lei federal n.º 9.784/1999, que regula o processo administrativo
+vencidos e os valores expressos em moeda na legislação distrital           no âmbito da administração pública federal. Considerando essas
+devem ser atualizados. A respeito dessa atualização, julgue os itens       normas, julgue os itens subsequentes.
+que se seguem.
+                                                                           159   A citada norma distrital não recepcionou os dispositivos da
+155   Os valores expressos em moeda na legislação devem ser                      referida lei federal relativos aos direitos dos administrados.
+      atualizados pelo Índice Nacional de Preços ao Consumidor e
+                                                                                 JUSTIFICATIVA: ERRADO. Não houve matéria excluída.
+      sua periodicidade deve ser mensal.
+                                                                                 Sem estabelecer qualquer ressalva, a Lei distrital
+      JUSTIFICATIVA: ERRADO. A periodicidade é anual,
+      conforme § 1.º do art. 1.º da LC do DF n.º 435/2001: “§ 1.º A              n.º 2.834/2001 praticamente se resume a afirmar: “Art. 1.º.
+      atualização prevista neste artigo será efetuada no dia 1.º de              Aplicam-se aos atos e aos processos administrativos no âmbito
+      janeiro de cada ano, considerando a variação acumulada do                  da administração direta e indireta do Distrito Federal, no que
+      INPC nos doze meses, contados até o mês de novembro,                       couber, as disposições da Lei federal n.º 9.784, de 29 de
+      inclusive, do ano anterior”.                                               janeiro de 1999, com a redação conferida pela Lei federal
+                                                                                 n.º 12.008, de 29 de julho de 2009.”.
+156   Aos tributos vencidos aplicam-se, além do Índice Nacional de
+      Preços ao Consumidor, a multa e os juros de mora.                    160   A referida lei federal impõe que o processo administrativo se
+      JUSTIFICATIVA: ERRADO. Os tributos vencidos recebem
+                                                                                 inicie apenas por iniciativa do interessado.
+      atualização e juros por taxa do SELIC, conforme § 2.º do
+                                                                                 JUSTIFICATIVA: ERRADO. O art. 5.º da Lei n.º 9.784/1999
+      art. 2.º da LC do DF n.º 435/2001: “§ 2.º Sobre o montante a
+      que se refere o caput incidem juros de mora equivalentes à taxa            é claro em prever a hipótese de início por iniciativa do
+      referencial do Sistema Especial de Liquidação e Custódia                   interessado ou de ofício: “Art. 5.º. O processo administrativo
+      (SELIC), para títulos federais (...)”.                                     pode iniciar-se de ofício ou a pedido de interessado.”.
+
+/R*Cargo: Auditor-Fiscal da Receita do Distrito Federal *R/                                                                 /C*Caderno X*C/ – 8 –
+o cebraspe trabalha para oferecer o melhor!
+
+
+  FOLHA DE RASCUNHO
+

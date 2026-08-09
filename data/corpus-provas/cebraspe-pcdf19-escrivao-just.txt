@@ -1,0 +1,1181 @@
+                                                                                                                 LEIA COM ATENÇÃO AS
+                                                                                                                 INSTRUÇÕES ABAIXO.
+
+                                                        1 Ao receber este caderno de provas, confira inicialmente se os dados transcritos acima estão
+                                                          corretos e se estão corretamente registrados na sua Folha de Respostas e na sua Folha de
+                                                          Texto Definitivo da Prova Discursiva. Confira também seus dados em cada página numerada
+                                                          deste caderno de provas (desconsidere estas instruções, caso se trate de caderno de
+                                                          provas reserva). Em seguida, verifique se ele contém a quantidade de itens indicada em sua
+                                                          Folha de Respostas, correspondentes às provas objetivas, e a prova discursiva, acompanhada
+                                                          de espaço para rascunho. Caso o caderno esteja incompleto, tenha qualquer defeito e(ou)
+                                                          apresente divergência quanto aos seus dados, solicite, de imediato, ao(à) aplicador(a) de
+                                                          provas mais próximo(a) que tome as providências necessárias.
+
+                                                        2 Durante a realização das provas, não se comunique com outros(as) candidatos(as) nem se
+                                                          levante sem autorização de um(a) dos(as) aplicadores(as) de provas.
+
+                                                        3 Não serão fornecidas folhas suplementares para rascunho nem para a transcrição do texto
+                                                          definitivo da prova discursiva.
+
+                                                        4 Na duração das provas, está incluído o tempo destinado à identificação — que será feita no
+                                                          decorrer das provas —, ao preenchimento da Folha de Respostas e à transcrição do texto da
+                                                          prova discursiva para a Folha de Texto Definitivo da Prova Discursiva.
+
+                                                        5 Ao terminar as provas, chame o(a) aplicador(a) de provas mais próximo(a), devolva-lhe a sua Folha
+                                                          de Respostas e a sua Folha de Texto Definitivo da Prova Discursiva e deixe o local de provas.
+
+                                                        6 Nenhuma folha deste caderno pode ser destacada, exceto a folha que contém os documentos
+CONCURSO PÚBLICO                                          Folha de Respostas e Folha de Texto Definitivo da Prova Discursiva, cujo cabeçalho será
+                                                          destacado pelo(a) chefe de sala ao final das provas, para fins de desidentificação.
+APLICAÇÃO: 2021
+                                                        7 A desobediência a qualquer uma das determinações constantes em edital, no presente
+TARDE                                                     caderno, na Folha de Respostas ou na Folha de Texto Definitivo da Prova Discursiva
+                                                          implicará a anulação das suas provas.
+
+
+
+
+CADERNO DE PROVAS
+OBJETIVAS E DISCURSIVA
+
+
+
+OBSERVAÇÕES:
+• Não serão conhecidos recursos em desacordo com o estabelecido em edital.
+• É permitida a reprodução deste material apenas para fins didáticos, desde que citada a fonte.
+
+INFORMAÇÕES ADICIONAIS:
+0(XX) 61 3448-0100 | www.cebraspe.org.br | sac@cebraspe.org.br                                                      O CEBRASPE TRABALHA PARA OFERECER O MELHOR!
+        Matriz_CB                                                                                             CEBRASPE – PCDF-ESC – Aplicação: 2021
+
+       Cada um dos itens das provas objetivas está vinculado ao comando que imediatamente o antecede. De acordo com o comando a
+        que cada um deles esteja vinculado, marque, na Folha de Respostas, para cada item: o campo designado com o código C, caso
+        julgue o item CERTO; ou o campo designado com o código E, caso julgue o item ERRADO. A ausência de marcação ou a
+        marcação de ambos os campos não serão apenadas, ou seja, não receberão pontuação negativa. Para as devidas marcações, use a
+        Folha de Respostas, único documento válido para a correção das suas provas objetivas.
+       Nos itens constituídos pela estrutura Situação hipotética: ... seguida de Assertiva: ..., os dados apresentados como situação
+        hipotética deverão ser considerados premissa(s) para o julgamento da assertiva proposta.
+       Nos itens que avaliarem conhecimentos de informática e(ou) tecnologia da informação, a menos que seja explicitamente
+        informado o contrário, considere que todos os programas mencionados estão em configuração-padrão e que não há restrições de
+        proteção, de funcionamento e de uso em relação aos programas, arquivos, diretórios, recursos e equipamentos mencionados.
+       Eventuais espaços livres — identificados ou não pela expressão “Espaço livre” — que constarem deste caderno de provas
+        poderão ser utilizados para rascunho.
+
+                                             -- CONHECIMENTOS BÁSICOS --
+\t/1            Nova Iorque já foi vista como uma das metrópoles                           2   As formas verbais “dizem” (ℓ.13) e “afirma” (ℓ.23) foram
+        mais perigosas do mundo. Em 1990, alcançou seu pico de                                 empregadas com o mesmo objetivo: fazer referência às
+        homicídios: 2.262 em um ano, média de 188 por mês. Mas
+                                                                                               palavras de um interlocutor.
+    4   esse cenário mudou, e a cidade apresentou uma das
+        maiores reduções de crimes registradas nos EUA.                                        JUSTIFICATIVA - ERRADO. Apenas a forma verbal “afirma” foi
+                Uma das medidas adotadas pela prefeitura de Nova                               empregada para fazer referência às palavras de um interlocutor, que
+    7   Iorque ficou conhecida como “janelas quebradas” e previa                               parecem no texto entre aspas. A forma verbal “dizem” compõe uma
+        o combate a crimes pequenos e a prevenção do                                           oração justaposta cujo objetivo é fazer um esclarecimento a respeito
+        vandalismo, para impedir uma espiral de violência que                                  do que se afirma no período, em referência a “alguns
+10      levasse a crimes mais graves.                                                          observadores”.
+                Para alguns observadores, entretanto, o modelo da
+        “janela quebrada” foi superestimado. O mais importante,                            3   A correção gramatical do texto seria mantida caso a vírgula
+13      dizem, foi identificar focos de criminalidade para                                     empregada logo após “mudou” (ℓ.4) fosse suprimida.
+        concentrar, ali, ação preventiva. Foi possível assinalar                               JUSTIFICATIVA - CERTO. A vírgula, empregada para separar
+        áreas pequenas onde criminosos mais atuavam, onde se
+                                                                                               duas orações coordenadas pela conjunção “e”, é opcional.
+16      sabia que crimes iam ocorrer.
+                O ex-policial Tom Reppetto sugere que essas áreas
+                                                                                           4   No trecho “e previa o combate a crimes pequenos e a
+        tenham presença visível e constante da polícia. As
+19      patrulhas preventivas — e em grande número — em focos                                  prevenção do vandalismo” (ℓ. 7 a 9), o “a”, em ambas as
+        de crime foi essencial para reduzir a violência. “O crime é                            ocorrências, classifica-se como preposição e seu emprego
+        mais situacional do que se pensa, inclusive homicídios.                                deve-se à presença da palavra “combate”.
+22      Com a patrulha policial, pessoas que iam cometer crimes                                JUSTIFICATIVA - Errado. Apenas em sua primeira ocorrência o
+        simplesmente foram fazer outra coisa”, afirma outro                                    “a” classifica-se como preposição e decorre do emprego de
+        especialista, Frank Zimring.                                                           “combate”. Na segunda ocorrência, classifica-se como artigo e
+25              Outra medida que teve papel importantíssimo foi a
+                                                                                               introduz o segundo membro da coordenação que complementa o
+        implementação de cortes (tribunais), nos anos 90, para
+                                                                                               verbo prever.
+        tratar de crimes menores, mediar conflitos comunitários e
+28      casos de violência doméstica e para lidar com usuários de
+                                                                                           5   Sem prejuízo da correção gramatical e dos sentidos originais
+        drogas. A ideia é evitar que esses conflitos evoluam e
+        aumentar a confiança dos cidadãos no sistema judiciário e                              do texto, o trecho “Outra medida que teve papel
+31      político.                                                                              importantíssimo foi a implementação de cortes (tribunais),
+                                                                                               nos anos 90, para tratar de crimes menores, mediar conflitos
+                                              Internet: <www.bbc.com > (com adaptações).       comunitários e casos de violência doméstica e para lidar com
+No que se refere aos sentidos e aos aspectos linguísticos do texto                             usuários de drogas.” (ℓ. 25 a 29) poderia ser reescrito da
+precedente, julgue os próximos itens.                                                          seguinte forma: Outra medida cujo papel foi muito
+1   Seria mantida a correção gramatical do período caso a                                      importante foi a implantação, nos anos 90, de cortes
+    locução “iam ocorrer” (ℓ.16) fosse substituída por ocorriam                                (tribunais) para tratar de crimes menores, mediar conflitos
+    ou ocorreriam, mas apenas a substituição por ocorreriam                                    nas comunidades e casos de violência doméstica e lidar com
+    preservaria a ideia original do texto.                                                     usuários de drogas.
+        JUSTIFICATIVA - CERTO. A locução “iam ocorrer” equivale, a                             JUSTIFICATIVA - CERTO. O emprego do cujo mantém a relação
+        rigor, à forma ocorriam e, por isso, a substituição por esta forma
+                                                                                               da oração adjetiva com o sentido de posse; o deslocamento da
+        manteria a correção gramatical. Entretanto, o sentido, no contexto, é
+        de hipótese, equivalente ao futuro do pretérito. Assim a substituição                  locução adverbial não altera seu escopo; implantação é sinônimo de
+        por ocorreriam manteria tanto a correção quanto o sentido original.                    implementação; a supressão de para não prejudica a correção, uma
+        Dado o sentido do emprego da locução, a substituição pelo pretérito                    vez que o primeiro para que aparece no período é suficiente para
+        perfeito alteraria o sentido ao dar uma ideia de ação reiterada no                     estabelecer a relação entre a oração anterior e todos os membros da
+        passado, ausente no original.                                                          enumeração.
+
+
+‹Ci›Cargo: Nome‹Cf›                                                                                                                                      Página: 1
+        Matriz_CB                                                                                                     CEBRASPE – PCDF-ESC – Aplicação: 2021
+
+\t/1            Há violências da moral patriarcal que instauram a                                 10   Sem prejuízo do sentido original e da correção gramatical do
+        solidão; outras marcam a lei no corpo das mulheres —                                           texto, o vocábulo “assim” (ℓ.3) poderia ser substituído por
+        assim sobrevive Maria da Penha; outras aniquilam a vida,                                       desse modo.
+    4   como é a história de mulheres assassinadas pela fúria do                                       JUSTIFICATIVA - CERTO. No contexto apresentado, o termo
+                                                                                                       “assim” foi empregado como advérbio, significando “deste, desse
+        gênero. Entre 2006 e 2011, o Instituto Médico Legal do
+                                                                                                       ou daquele modo; com características semelhantes; de natureza
+        Distrito Federal foi o destino de 81 mulheres mortas pelo                                      igual”. Assim, a substituição por desse modo não acarreta prejuízo
+    7   gênero. Foram 337 mortes violentas de mulheres que                                             nem para o sentido nem para a correção gramatical do texto.
+        chegaram ao IML. Dessas, somente 180 processos judiciais
+        foram localizados, dos quais 81 eram de violência                                         11   O termo “pelo gênero” (ℓ. 6 e 7) veicula o agente da ação de
+10      doméstica. Muitas delas saíram do espaço da casa como                                          matar.
+        asilo (“lugar onde ficam isentos da execução das leis os                                       JUSTIFICATIVA - ERRADO. O termo veicula a causa, podendo a
+        que a ele se recolhem”) para o necrotério. Essas mulheres,                                     contração “pelo” ser substituída por em decorrência do. Falta à
+                                                                                                       palavra “gênero” o traço agentivo necessário para que possa ser
+13      as verdadeiras testemunhas de como a moral patriarcal                                          interpretada como o agente.
+        inscreve nos corpos a sentença de subordinação, são
+        anônimas e não nos contam suas histórias em primeira                                      12   Conclui-se do texto que 157 processos judiciais relativos a
+16      pessoa. Acredita-se poder biografá-las por diferentes                                          mortes violentas de mulheres no DF desapareceram
+        gêneros de discurso — um deles é o texto penal. As                                             enquanto tramitavam na justiça.
+        mulheres mortas pelo gênero não retornarão pela                                                JUSTIFICATIVA - ERRADO. Não há elementos no texto que
+19      instauração de uma nova ordem punitiva, o feminicídio,                                         permitam tal conclusão. A informação nele veiculada é a de que
+                                                                                                       nem todas as mortes violentas de mulheres têm processo judicial
+        mas acredita-se que a nominação de seu desaparecimento                                         correspondente.
+        seja uma operação de resistência: o nome facilitaria a
+22      esfera de aparição da mulher como vítima.                                                 13   A autora defende que, ao se nominarem como feminicídio
+                              Débora Diniz. Perspectivas e articulações de uma pesquisa                certos tipos de homicídio contra mulheres, coloca-se em
+                              feminista. In: Estudos feministas e de gênero: articulações e
+                              perspectivas. Florianópolis: Ed. Mulheres, 2014 (com adaptações).        evidência a situação feminina de vítima em um contexto em
+                                                                                                       que as mulheres são tratadas de forma desigual em relação
+Considerando os sentidos e os aspectos linguísticos do texto                                           aos homens.
+apresentado, julgue os próximos itens.                                                                 JUSTIFICATIVA - CERTO. A autora defende que o nome
+                                                                                                       feminicídio dá visibilidade à mulher como vítima, no contexto
+6   O principal objetivo do texto é alertar as mulheres sobre a
+                                                                                                       patriarcal, em que predomina a autoridade masculina, conforme fica
+    violência letal cometida contra elas no ambiente doméstico.                                        claro ao longo do texto.
+        JUSTIFICATIVA - ERRADO. O principal objetivo do texto é
+        chamar a atenção para a necessidade de nominar o assassinato
+                                                                                                  14   Seria mantida a correção gramatical do texto caso se
+        cometido contra mulheres devido a questões de gênero, o que não
+        se limita ao ambiente doméstico, embora ela use o exemplo do                                   inserisse o vocábulo que logo após a palavra “outras”, em
+        assassinato de mulheres vítimas de violência doméstica para                                    suas duas ocorrências, nas linhas 2 e 3.
+        fundamentar seu ponto de vista.                                                                JUSTIFICATIVA - CERTO. Por paralelismo, pode-se considerar
+                                                                                                       que há elipse do trecho “Há [outras] violências que”.
+7       No texto, a autora discorre sobre aspectos positivos trazidos
+        pela então recém-sancionada lei que pune o assassinato de                                 15   No último período do texto, a oração “que a nominação de
+        mulheres.                                                                                      seu desaparecimento seja uma operação de resistência”
+        JUSTIFICATIVA - ERRADO. A autora discorre sobre os aspectos                                    exerce a função de complemento da forma verbal “acredita”,
+        positivos que serão trazidos por uma possível aprovação da Lei dos                             cujo sujeito é indeterminado, conforme comprova o emprego
+        Feminicídios. Os tempos verbais, como o futuro do pretérito,                                   da partícula “se”.
+        denotam que, quando da escrita do texto, a lei ainda não havia sido                            JUSTIFICATIVA - ERRADO. O verbo foi empregado na acepção
+        aprovada: “o nome facilitaria a esfera de aparição da mulher como                              de pensar, sem convicção ou certeza; achar, supor, em que se
+        vítima”.                                                                                       classifica como transitivo direto. Trata-se, portanto, de voz passiva
+                                                                                                       sintética, e a oração substantiva subsequente exerce a função de
+8       No trecho “Muitas delas saíram do espaço da casa como                                          sujeito.
+        asilo (‘lugar onde ficam isentos da execução das leis os que a
+        ele se recolhem’) para o necrotério” (ℓ. 10 a 12), a definição                            Espaço livre
+        de asilo é um recurso utilizado para fazer referência direta à
+        impunidade associada aos crimes contra as mulheres
+        “assassinadas pela fúria do gênero” (ℓ. 4 e 5).
+        JUSTIFICATIVA - ERRADO. Essa interpretação extrapola os
+        sentidos do texto. Não é possível afirmar que ela usou o vocábulo
+        “asilo” e uma de suas acepções para fazer referência direta à
+        impunidade dos homens que cometem violência doméstica e ficam
+        impunes.
+
+9       O texto é predominantemente argumentativo e um dos
+        elementos principais em que se esteia é a evidência das
+        provas, que se apresenta por meio de fatos comprovados por
+        dados estatísticos.
+        JUSTIFICATIVA - CERTO. Na argumentação, procura-se
+        principalmente formar a opinião do leitor ou ouvinte, tentando
+        convencê-lo de que a razão está com o autor (ou falante), de que ele
+        é quem está de posse da verdade. No texto, está presente a
+        evidência das provas: os fatos propriamente ditos (o assassinato de
+        mulheres) e os dados estatísticos, que são os números apresentados.
+
+‹Ci›Cargo: Nome‹Cf›                                                                                                                                               Página: 2
+       Matriz_CB                                                                                                  CEBRASPE – PCDF-ESC – Aplicação: 2021
+
+\t/1          Fernando arrancou o paletó no auge da impaciência                               18   No trecho “Se por acaso alguém tinha pensado em comprar
+       e perguntou com voz esganiçada se eu pretendia ficar a                                      um novo fio dental” (ℓ. 27 e 28), a partícula “Se” introduz
+       noite inteira ali de estátua enquanto ele teria que encher o                                uma oração interrogativa indireta.
+  4    tanque naquela escuridão de merda porque ninguém lhe                                        JUSTIFICATIVA - CERTO. Nesse caso, o “Se” introduz oração
+       passava o raio da lanterna.                                                                 subordinada substantiva que complementa um verbo interrogativo
+              — Onde está a lanterna?                                                              (elíptico).
+  7           — Mas onde poderia estar a lanterna senão no
+       porta-luvas, a princesa esqueceu?                                                      19   Os sentidos originais e a correção gramatical do texto seriam
+              Através do vidro, a estrela maior (Vênus) pulsava                                    preservados se o vocábulo “esganiçada” (ℓ.2) fosse
+10     reflexos azuis. Gostaria de estar numa nave, mas com o                                      substituído por estridente.
+       motor desligado, sem ruído, sem nada. Quieta. Ou neste                                      JUSTIFICATIVA - CERTO. O verbo esganiçar tem como acepção
+       carro silencioso mas sem ele. Já fazia algum tempo que eu                                   tornar (a voz) estridente, um pouco como o ganido de um cão.
+13     queria estar sem ele, mesmo com o problema de ter
+       acabado a gasolina.                                                                    20   No trecho “Quando me lembro dessa noite” (ℓ.21), a
+              — As coisas ficariam mais fáceis se você fosse                                       correção gramatical seria mantida caso o pronome “me”
+16     menos grosso — eu disse, entreabrindo a mão e                                               fosse deslocado para imediatamente após a forma verbal
+       experimentando a lanterna no pedregulho que achei na                                        “lembro”, da seguinte forma: Quando lembro-me dessa
+       estrada.                                                                                    noite.
+19            — Está bem, minha princesa, se não for muito                                         JUSTIFICATIVA - ERRADO. Nesse caso, o verbo perde sua força
+       incômodo, será que poderia me passar a lanterninha?                                         enclítica pela anteposição da partícula “Quando” (uma conjunção
+              Quando me lembro dessa noite (e estou sempre                                         subordinativa temporal) ao verbo, o que, para efeito de eufonia,
+22     lembrando) me vejo repartida em dois momentos: antes e                                      atrai o pronome oblíquo.
+       depois. Antes, as pequenas palavras, os pequenos gestos,
+       os pequenos amores culminados nesse Fernando, aventura                                 21   Os sentidos e a correção gramatical do texto seriam
+25     medíocre de gozo breve e convivência comprida. Se ao                                        preservados se as locuções verbais “tinha levado” (ℓ.27) e
+       menos ele não fizesse aquela voz para perguntar se por                                      “tinha pensado” (ℓ.28) fossem substituídas pelas formas
+       acaso alguém tinha levado a sua caneta. Se por acaso                                        verbais levara e pensara, respectivamente.
+28     alguém tinha pensado em comprar um novo fio dental, este                                    JUSTIFICATIVA - CERTO. A substituição das locuções verbais
+       estava no fim. Não está, respondi, é que ele se enredou lá                                  “tinha levado” e “tinha pensado” pelas formas verbais levara e
+       dentro, se a gente tirar esta plaqueta (tentei levantar a                                   pensara, que estão flexionadas no pretérito mais-que-perfeito do
+31     plaqueta) a gente vê que o rolo está inteiro mas enredado e                                 indicativo, não alteram os sentidos nem a correção gramatical do
+       quando o fio se enreda desse jeito, nunca mais!, melhor                                     texto.
+       jogar fora e começar outro rolo. Não joguei. Anos e anos
+34     tentando desenredar o fio impossível, medo da solidão?                                 22   O emprego de “princesa” (ℓ. 8 e 19) no tratamento que
+       Medo de me encontrar quando tão ardentemente me                                             Fernando dispensa à narradora comprova que ele a ama,
+       buscava?                                                                                    embora aja de maneira grosseira algumas vezes.
+                              Lygia Fagundes Telles. Noturno Amarelo. In: Mistérios. Rio de        JUSTIFICATIVA - ERRADO. Não há elementos no texto que
+                              Janeiro: Nova Fronteira, 1981 (com adaptações).                      permitam comprovar o amor de Fernando pela narradora, podendo
+                                                                                                   o emprego de “princesa” ser interpretado, no contexto da irritação
+Julgue os itens seguintes, relativos aos sentidos e a aspectos
+                                                                                                   descrita, como uma forma irônica.
+linguísticos do texto precedente.
+16     Nessa narração, a personagem, com base em lembranças e                                 Espaço livre
+       em impressões do seu passado, reconstrói cenas
+       fragmentárias das violências psicológicas a que seu
+       relacionamento com Fernando se resumia.
+       JUSTIFICATIVA - ERRADO. No texto, a personagem recorre a
+       lembranças para reconstruir uma cena, não cenas fragmentárias, das
+       violências simbólicas que, a partir de certo tempo, passou a ser
+       vítima no seu relacionamento. As impressões do passado denotam
+       que, no início, antes, havia “as pequenas palavras, os pequenos
+       gestos, os pequenos amores culminados nesse Fernando, aventura
+       medíocre de gozo breve e convivência comprida”. Por isso, não é
+       possível afirmar que as lembranças e impressões do passado se
+       referem a uma violência simbólica incessante.
+
+17     O fio dental enredado é usado pela personagem como
+       metáfora para denotar não só o nível de desgaste do seu
+       relacionamento infeliz, mas também para explicitar sua
+       passividade diante de tal fato.
+       JUSTIFICATIVA - CERTO. O fio dental enredado denota tanto
+       que o casamento está desgastado quanto denota que, ao não jogar
+       esse rolo fora e começar de novo, ela se mantém passiva diante
+       dessa situação.
+
+
+‹Ci›Cargo: Nome‹Cf›                                                                                                                                         Página: 3
+       Matriz_CB                                                                                                CEBRASPE – PCDF-ESC – Aplicação: 2021
+
+\t/1           In Hollywood, a typical medium-sized town in the                            \t/1           The same nerves involved in the fight-or-flight
+       American state of Florida, the Police Department (PD)                                      response can cause permanent damage to the cells
+       values the development of its community’s youth. The                                       responsible for producing hair color in mice, scientists
+  4    agency recognizes the importance of raising young people                              4    have found. There is some truth to the longstanding
+       to become upstanding, law-abiding citizens. The town                                       anecdote that your locks can lose color when you’re
+       serves as home to over 20,000 youth, some of whom live                                     stressed.
+  7    in underprivileged areas and need positive role models.                               7            A team of researchers has found that in mice,
+               Officers identified this hardship and began making                                 stressful events damage the stem cells that are responsible
+       a difference in many kids’ lives when the department                                       for producing pigment in hair. These stem cells, found near
+10     established its Cops Mentoring Kids program during the                              10     the base of each hair follicle, differentiate to form more
+       2015-2016 academic year. This initiative connects police                                   specialized cells called melanocytes, which generate the
+       officers who serve as mentors with at-risk students in local                               brown, black, red and yellow hues in hair and skin. Stress
+13     schools.                                                                            13     makes the stem cells differentiate faster, exhausting their
+               Mentoring provides an avenue to change future                                      number and resulting in strands that are more likely to be
+       generations’ mind-sets. Countering and preventing                                          transparent — gray.
+16     recruitment efforts by criminal organizations should                                16             The study also found that the sympathetic nervous
+       concern everyone. Adolescents trying to find their place in                                system, which prepares the body to respond to threats,
+       the world become most vulnerable to enticement by these                                    plays a major role in the graying process. “Normally, the
+19     groups. Building young people’s self-esteem and values                              19     sympathetic nervous system is an emergency system for
+       provides     resilience    against    criminal    predators’                               fight or flight, and it is supposed to be very beneficial or, at
+       misguidance.                                                                               the very least, its effects are supposed to be transient and
+                                             Internet: < https://leb.fbi.gov> (adapted).   22     reversible,” said Ya-Chieh Hsu.
+                                                                                                          Stress affects the whole body, so the researchers
+Based on the text presented above, judge the following items.                                     had to do some investigation to figure out which
+23 In the first paragraph, “values” (ℓ.3), “recognizes” (ℓ.4) and                          25     physiological system was conveying its effects to hair
+    “serves” (ℓ.6) refer to things done by the Police Department                                  follicles. The findings provide the first scientific link
+    of Hollywood.                                                                                 between stress and hair graying. The new study is an
+       JUSTIFICATIVA - ERRADO. Embora os dois primeiros verbos                             28     important step toward understanding the role of stress on
+       estejam ligados ao departamento de polícia, que também é chamado                           various tissues.
+       de “agency” no parágrafo, o terceiro verbo, “serves” tem como
+       sujeito a cidade e não o departamento de polícia.                                                                                Internet: <www.nytimes.com> (adapted).
+
+
+24     The expression “this hardship” (ℓ.8) refers to information                          Concerning the text above, judge the items below.
+       presented in the end of the first paragraph: the fact that many                     28     The common-sense belief according to which a person’s hair
+       young people live in the town’s urban area.                                                can turn gray when he or she is stressed is something new.
+       JUSTIFICATIVA - ERRADO. A dificuldade ou problema
+                                                                                                  JUSTIFICATIVA - ERRADO. No primeiro parágrafo, o texto diz
+       identificado pelo departamento de polícia a que a expressão
+       mencionada no item se relaciona tem a ver com o fato de que                                que existe uma crença antiga (longstanding anecdote) que as
+       muitos dos 20.000 jovens da cidade vivem em áreas                                          mechas de uma pessoa podem perder a cor quando ele/ela está
+       economicamente desfavorecidas e precisam de modelos de                                     estressado(a).
+       comportamento. Não tem relação com o fato de muitos jovens
+       viverem na área urbana da cidade.                                                   29     Before the study mentioned in the text, a connection between
+                                                                                                  stress and hair graying had never been found in science.
+25     The expression “Cops Mentoring Kids” (ℓ.10) is the name of
+                                                                                                  JUSTIFICATIVA - CERTO. É dito no 4.º parágrafo que as
+       the program created by the students of local schools and the
+                                                                                                  descobertas fornecem a primeira correlação científica entre o
+       Police Department.
+       JUSTIFICATIVA - ERRADO. A expressão entre aspas é o nome                                   estresse e o “embranquecimento” do cabelo.
+       do programa, mas esse programa não foi criado pelos alunos das
+       escolas municipais. De acordo com o texto, foi criado pelo                          30     Melanocytes are hair follicles which create different color
+       departamento de polícia para o trabalho com os alunos em situação                          shades in hair and skin.
+       de risco dessas escolas.                                                                   JUSTIFICATIVA - ERRADO. É dito no 2.º parágrafo que os
+                                                                                                  melanócitos são células especializadas formadas na base de cada
+26     In line 5, the expressions “upstanding” and “law-abiding”
+       are used to describe the kind of citizens the Police                                       folículo capilar. Sendo assim, são células e não os próprios
+       Department wants young people to become.                                                   folículos.
+       JUSTIFICATIVA - CERTO. São expressões de sentido
+       aproximado, usadas no texto em ligação com o tipo de cidadão que                    31     The word “likely” (ℓ.14) conveys the idea of probability.
+       o departamento de polícia quer que os jovens da comunidade sejam                           JUSTIFICATIVA - CERTO. A palavra “likely” significa
+       na vida adulta.                                                                            “provável” ou “provavelmente”.
+
+27     It can be concluded from the text that working to raise young                       32     The effects of the sympathetic nervous system are permanent
+       people’s self-esteem and values is a way to stop these people
+                                                                                                  regarding the fight-or-flight response, but not regarding the
+       from becoming criminals.
+       JUSTIFICATIVA - CERTO. O texto faz essa conexão no terceiro                                graying process.
+       parágrafo, ligando a atividade de “mentoring” com o aumento da                             JUSTIFICATIVA - ERRADO. Os efeitos do sistema nervoso
+       autoestima e dos valores dos jovens e afirmando que isso ajuda a                           simpático são transitórios (“transient”, 3.º parágrafo) e não
+       prevenir o recrutamento dos jovens por organizações criminosas.                            permanentes.
+
+
+‹Ci›Cargo: Nome‹Cf›                                                                                                                                              Página: 4
+      Matriz_CB                                                                                 CEBRASPE – PCDF-ESC – Aplicação: 2021
+
+No que concerne aos aspectos geográficos, políticos e                      A respeito da organização do espaço rural no Distrito Federal,
+econômicos do Distrito Federal e da Região Integrada de                    julgue o próximo item.
+Desenvolvimento do Distrito Federal e Entorno (RIDE), julgue               37   O Programa de Assentamento Dirigido do Distrito Federal
+os itens a seguir.
+                                                                                (PAD-DF) levou à formação de uma grande área de
+33   Brasília é apontada como uma das três metrópoles nacionais                 produção moderna de grãos, o que transformou o DF em um
+     mais importantes no Brasil, e sua influência urbana direta                 polo indutor de desenvolvimento agrícola.
+     estende-se por uma larga porção do território nacional,                    JUSTIFICATIVA - CERTO. O Programa de Assentamento
+     alcançando os estados de Minas Gerais e de Goiás.                          Dirigido do Distrito Federal (PAD-DF) foi um projeto elaborado e
+     JUSTIFICATIVA – CERTO. Brasília é a terceira metrópole                     implementado a partir de 1977 pelo governo do Distrito Federal por
+     nacional, logo depois de São Paulo e Rio de Janeiro, e sua
+                                                                                meio da Secretaria de Agricultura e Produção. O PAD/DF foi a
+     influência urbana estende-se por diversos territórios de estados do
+                                                                                primeira e mais importante vitrine das potencialidades e
+     país, inclusive, e principalmente, MG e GO, com as cidades da
+                                                                                possibilidades agrícolas do cerrado brasileiro, constituindo-se no
+     RIDE.
+                                                                                mais bem sucedido programa de colonização e reforma agrária do
+34   É correto afirmar que, no contexto nacional, Brasília                      país e cumprindo o papel da nova capital da República, de
+     apresenta-se como centro polarizador, considerando-se                      interiorizar e integrar o desenvolvimento. A região é a principal
+     aspectos como supremacia na gestão pública federal, renda,                 produtora de grãos (soja, feijão, milho, trigo) e de pecuária, além de
+     densidade populacional, grau de urbanização, coesão interna                áreas destinadas ao cultivo de hortifrutigranjeiros e avicultura.
+     da área (dada pelos deslocamentos da população em função
+     dos serviços) e acesso ao mercado de trabalho.                                O território do Distrito Federal é um mosaico
+     JUSTIFICATIVA – CERTO. Brasília é centro polarizador nacional         morfológico. Brasília não foi construída em território virgem: os
+     em virtude de algumas variáveis, entre as quais aquelas listadas no   núcleos urbanos de Planaltina (século XIX) e de Brazlândia
+     item.
+                                                                           (anos 30 do século XX) e sedes isoladas de fazendas preexistiram
+35   A RIDE foi criada com a finalidade de solucionar os                   à edificação da nova capital. O modernismo clássico de Brasília,
+     problemas advindos do crescimento desordenado de Brasília             de início, contrastou com o vernáculo de construções seculares.
+     e seu entorno.                                                                                                 Frederico Holanda. UnB, 2019 (com adaptações).
+     JUSTIFICATIVA - CERTO. As regiões integradas de
+     desenvolvimento constituem um modo de associação entre unidades       Tendo o texto apresentado como referência inicial, julgue o item
+     da federação. Possuem, basicamente, dois objetivos principais: a)     seguinte a respeito dos assentamentos vernaculares.
+     acelerar o desenvolvimento econômico da região; b) reduzir as
+                                                                           38   Os núcleos urbanos de Planaltina e Brazlândia, preexistentes
+     desigualdades sociais. Com base nessas premissas, a Lei
+     Complementar n.º 94, de 1998, instituiu a Região Integrada de              à construção de Brasília e à constituição do atual Distrito
+     Desenvolvimento do Distrito Federal e Entorno (RIDE). Sendo                Federal, são cidades históricas nas quais o poder público
+     assim, a RIDE tem como objetivo articular e harmonizar as ações            impôs restrições à urbanização com vistas à preservação de
+     administrativas da União, dos estados e dos municípios para a              seu patrimônio histórico.
+     promoção de projetos que visem à dinamização econômica e                   JUSTIFICATIVA - ERRADO. Planaltina e Brazlândia foram, até
+     provisão de infraestruturas necessárias ao desenvolvimento em
+                                                                                1960, pequenas cidades de apoio ao meio rural goiano,
+     escala regional. Visa reduzir as desigualdades regionais causadas
+                                                                                configuradas como o espaço brasileiro tradicional. A construção
+     pela alta concentração urbana decorrente do fluxo migratório entre
+                                                                                de Brasília transformou-as em cidades-satélites, a elas
+     o Distrito Federal e os municípios vizinhos, que gerou um
+     crescimento desordenado da região. Fazem parte da RIDE o                   anexando grandes áreas para moradia de egressos de favelas e
+     Distrito Federal e alguns municípios pertencentes aos estados de           transformando-as em cidades dormitórios. Nelas passaram a
+     Goiás e Minas Gerais. No sentido de promover o desenvolvimento             conviver dois tipos de habitantes e de organização morfológica,
+     econômico da RIDE, a lei complementar autoriza o Poder                     implicando diferentes possibilidades funcionais, interativas e
+     Executivo a instituir um Programa Especial de Desenvolvimento do           informativas.
+     Entorno do Distrito Federal, o que foi feito em 2018.
+                                                                           Espaço livre
+A qualidade e a quantidade das águas foram fatores importantes
+para a determinação do local onde seria construída a capital do
+Brasil. A respeito desse assunto, julgue o item seguinte.
+36   No Distrito Federal ocorre um fenômeno hidrográfico de
+     dispersão de águas atípico, pois nele encontram-se nascentes
+     de rios que pertencem a três bacias hidrográficas distintas.
+     JUSTIFICATIVA - ERRADO. O fenômeno hidrográfico
+     encontrado no DF corresponde à dispersão das águas, porém, ocorre
+     quando a água flui, a partir de um mesmo ponto, para lados opostos.
+     Trata-se de águas emendadas. O nome águas emendadas foi
+     atribuído devido ao fato de haver, em seu interior, uma nascente
+     que origina dois córregos que vão a direções opostas. Trata-se dos
+     Córregos Brejinho e Vereda Grande, que têm, respectivamente,
+     suas águas escoando rumo ao Rio Paraná e ao Rio Tocantins. Eles
+     cooperam para a formação das duas maiores bacias hidrográficas da
+     América Latina, que são a Platina e a Amazônica.
+
+‹Ci›Cargo: Nome‹Cf›                                                                                                                                  Página: 5
+      Matriz_CB                                                                                   CEBRASPE – PCDF-ESC – Aplicação: 2021
+
+No que se refere ao Regime Jurídico dos Funcionários Policiais                      Durante a fase de instrução processual de determinada
+Civis da União e do Distrito Federal, ao Regimento Interno da                ação civil pública por improbidade administrativa, um réu,
+Polícia Civil do Distrito Federal e à carreira de policial civil do          servidor público, foi afastado de suas funções por determinação
+                                                                             judicial, para resguardar a instrução processual. Sobreveio
+Distrito Federal, julgue os itens que se seguem.                             julgamento de procedência dos pedidos e o réu foi, então,
+39   A função de escrivão de polícia é incompatível com qualquer             condenado à perda da função pública.
+     outra atividade e o exercício de atividade liberal estranha à
+     do cargo é considerado transgressão disciplinar grave,                  Tendo o caso em tela como referência, julgue os itens a seguir, à
+                                                                             luz do disposto na Lei n.º 8.429/1992.
+     punível com suspensão de noventa dias.
+                                                                             45 Dada a penalidade imposta ao réu, conclui-se que a conduta
+     JUSTIFICATIVA - ERRADO. O item está errado, pois a função
+                                                                                  por ele praticada causou dano ao patrimônio público.
+     policial é incompatível com qualquer outra atividade, sendo                  JUSTIFICATIVA - ERRADO. Para a aplicação da pena da perda
+     considerada transgressão disciplinar grave o exercício de atividade          da função pública não é necessário ter havido efetiva comprovação
+     liberal estranha à de seu cargo, sujeita à pena de demissão, e não de        do dano financeiro ao erário, conforme art. 21 da Lei de
+     suspensão, nos termos da Lei n.º 4.878/1965, arts. 4.º, 40, 43, 47 e         Improbidade Administrativa – Lei n.º 8.429/1992. Só seria possível
+     48                                                                           falar em efetiva comprovação de dano se a pena aplicada fosse de
+                                                                                  ressarcimento, que não é a hipótese cogitada no enunciado.
+40   Policial civil preso em flagrante tem o direito à prisão                46   A perda da função pública só poderá ser efetivada após o
+     especial durante o curso da ação penal e durante o                           trânsito em julgado da sentença.
+     cumprimento da pena determinada em sentença transitada                       JUSTIFICATIVA - CERTO. Em conformidade com o art. 20, da
+                                                                                  Lei de Improbidade Administrativa – Lei n.º 8.429/1992.
+     em julgado, conforme o regime prisional.
+     JUSTIFICATIVA - ERRADO. O item está errado, pois o policial             47   É correto afirmar, com base na referida lei, que o agente
+     somente tem direito à prisão especial durante o curso da ação penal          público recebeu remuneração enquanto permaneceu afastado
+     e até que a sentença transite em julgado.                                    do exercício do cargo, por determinação judicial, para
+                                                                                  resguardar a instrução processual.
+41   As atribuições da Divisão de Registros Criminais e Controle                  JUSTIFICATIVA - CERTO, porque em conformidade com o
+     de Procedimentos incluem controlar o registro de tramitação                  art. 20, parágrafo único, da Lei de Improbidade Administrativa –
+                                                                                  Lei n.º 8.429/1992:
+     de inquéritos policiais e termos circunstanciais na Polícia
+     Civil e emitir relatórios mensais e anuais com mapas                         Art. 20. A perda da função pública e a suspensão dos direitos
+     estatísticos desta atividade.                                                políticos só se efetivam com o trânsito em julgado da sentença
+                                                                                  condenatória.
+     JUSTIFICATIVA - CERTO. O item está certo, pois a Divisão de                  Parágrafo único. A autoridade judicial ou administrativa
+     Registros Criminais e Controle de Procedimentos tem como                     competente poderá determinar o afastamento do agente público do
+     atribuição controlar registro de inquéritos policiais e termos               exercício do cargo, emprego ou função, sem prejuízo da
+     circunstanciais, além da emissão de relatórios mensais e anuais com          remuneração, quando a medida se fizer necessária à instrução
+     mapas estatísticos das atividades que desenvolve. Decreto                    processual.
+     n.º 30.490/2009, art. 18.
+                                                                             Considerando o disposto na Lei Orgânica do Distrito Federal
+42   Ato próprio do diretor-geral da Polícia Civil do Distrito               sobre a Polícia Civil do Distrito Federal, julgue os itens que se
+     Federal pode permitir tanto a transferência quanto a ascensão           seguem.
+     funcional para a carreira de policial civil do Distrito Federal.        48 São princípios institucionais da Polícia Civil do Distrito
+     JUSTIFICATIVA - ERRADO. O item está errado, pois não são                    Federal a unidade, a indivisibilidade, a legalidade, a
+     possíveis a transferência nem a ascensão funcional para a carreira          moralidade, a impessoalidade, a hierarquia funcional, a
+                                                                                 disciplina e a unidade de doutrina e de procedimentos.
+     de policial civil do Distrito Federal. Decreto-lei n.º 2.266/1985,
+                                                                                  JUSTIFICATIVA - CERTO. Em conformidade com o art. 119 e
+     art. 6.º.                                                                    seu parágrafo único, da LODF.
+
+43   A cessão de escrivão da Polícia Civil do Distrito Federal               49   As atividades dos Institutos de Criminalística, de Medicina
+     para qualquer tribunal superior somente é permitida para o                   Legal e de Identificação têm natureza exclusivamente técnica
+     exercício de cargo em comissão cuja remuneração seja igual                   e os dirigentes desses institutos são escolhidos entre os
+                                                                                  delegados de polícia de carreira.
+     ou superior à de cargo DAS-101.4 ou equivalente.                             JUSTIFICATIVA - ERRADO. Os dirigentes dos Institutos de
+     JUSTIFICATIVA - CERTO. O item está certo, pois a cessão de                   Criminalística, de Medicina Legal e de Identificação são escolhidos
+     escrivão da Polícia Civil para tribunal superior somente pode                entre os integrantes do quadro funcional do respectivo
+     ocorrer para cargo em comissão cuja remuneração seja compatível              instituto e as atividades desenvolvidas são consideradas de natureza
+     com a de cargo DAS-101.4 ou equivalente. Lei n.º 9.264/1996,                 técnico-científica, conforme art. 119, §§ 5.º e 8.º da LODF.
+     art. 3.º e art. 12-B.                                                   50   A independência funcional no exercício das atribuições de
+                                                                                  polícia judiciária é garantida aos delegados de polícia, aos
+44   A ouvidoria é órgão autônomo em relação aos demais órgãos                    agentes de polícia, aos agentes policiais de custódia e aos
+     da Polícia Civil do Distrito Federal, e tem como atribuição                  escrivães de polícia.
+     receber e controlar as comunicações de prisão em flagrante.                  JUSTIFICATIVA - ERRADO. A independência funcional no
+     JUSTIFICATIVA - ERRADO. O item está errado, pois a ouvidoria                 exercício de atribuições de polícia judiciária é restrita aos delegados
+                                                                                  de polícia, conforme art. 119, § 4.º, da LODF. A independência
+     não é autônoma, e sim subordinada à Corregedoria-Geral da                    funcional das demais categorias mencionadas no enunciado é
+     Polícia, tendo a atribuição de receber e controlar as comunicações           diversa e estabelecida no § 15 do mesmo artigo, relacionada à
+     de prisão em flagrante à Divisão de Correição, e não à ouvidoria.            elaboração e conteúdo de atos legais delegados ou próprios sob sua
+     Decreto n.º 30.490/2009, art. 11 e art. 17.                                  responsabilidade.
+
+
+‹Ci›Cargo: Nome‹Cf›                                                                                                                            Página: 6
+››    Matriz_CE                                                                                 CEBRASPE – PCDF-ESC – Aplicação: 2021
+
+                                     -- CONHECIMENTOS ESPECÍFICOS --
+       Determinado cidadão norte-americano em férias em                     55   Se ficar constatado que o assassinato cometido pelo referido
+Brasília cometeu o crime de homicídio ao fugir da cena de crime                  cidadão norte-americano configura o crime de latrocínio, a
+de tráfico ilícito de entorpecentes, supostamente por ele                        competência para seu julgamento será do juiz singular.
+praticado. Após o crime, ele fugiu para o hotel onde se                          JUSTIFICATIVA - CERTO. A competência para o processo e
+                                                                                 julgamento de latrocínio é do juiz singular (Súmula n.º 603 do
+encontrava hospedado desde que chegou ao Brasil.
+                                                                                 Supremo Tribunal Federal).
+Cinco minutos após ter adentrado em seu quarto, a polícia
+invadiu o local e conseguiu prendê-lo.                                      56   O crime de tráfico ilícito de entorpecentes é considerado
+                                                                                 imprescritível, inafiançável e insuscetível de graça ou anistia.
+Considerando a jurisprudência do STF, julgue os itens a seguir, a                JUSTIFICATIVA - ERRADO. Estabelece o art. XLIII da
+partir da situação hipotética precedente.                                        Constituição Federal que o crime tráfico ilícito de entorpecentes e
+51   Por não ser residente no Brasil, o referido cidadão                         drogas afins é inafiançável e insuscetível de graça ou anistia, mas
+     norte-americano não poderá suscitar a nulidade de                           não o coloca como imprescritível.
+     julgamento por ofensa ao devido processo legal, direito
+                                                                            57   Caso o referido cidadão norte-americano considere ilegal a
+     fundamental previsto no art. 5.º da Constituição Federal de
+                                                                                 sua prisão, ele próprio, mesmo sendo estrangeiro, poderá
+     1988.
+                                                                                 impetrar habeas corpus em face da autoridade coatora, sendo
+     JUSTIFICATIVA - ERRADO. A condição jurídica de não nacional
+     do Brasil e a circunstância de o réu estrangeiro não possuir                prescindível o patrocínio judicial por advogado nesse caso.
+     domicílio em nosso país não legitimam a adoção, contra o acusado,           JUSTIFICATIVA - CERTO. Qualquer do povo, nacional ou
+     de qualquer tratamento arbitrário ou discriminatório. Precedentes:          estrangeiro, independentemente de capacidade civil, política,
+     HC 94.016, rel. min. Celso de Mello, j. 16-9-2008, 2.ª T, DJE de            profissional, de idade, sexo, profissão, estado mental, pode fazer
+     27-2-2009; HC 94.477, rel. min. Gilmar Mendes, j. 6-9-2011, 2.ª T,          uso do habeas corpus. A impetração do habeas corpus, pela própria
+     DJE de 8-2-2012; HC 72.391 QO, rel. min. Celso de Mello, j. 8-3-            parte, a seu favor ou de terceiro, conforme possibilita o
+     1995, P, DJ de 17-3-1995;                                                   ordenamento processual penal, não fere o disposto no art. 133 da
+     HC 94016/SP, rel. min. Celso de Mello, 16-9-2008. (HC-94016).               Carta Magna, posto que esse dispositivo não obriga o patrocínio
+                                                                                 judicial por advogado.
+52   Nessa situação, o autor dos crimes não poderia alegar que a
+     polícia violou o seu domicílio, uma vez que a garantia                 Com base no disposto na Constituição Federal de 1988, julgue os
+     constitucional da inviolabilidade domiciliar pode ser                  itens seguintes.
+     estendida a quartos de hotel.
+                                                                            58   Os fundamentos que regem o Brasil em suas relações
+     JUSTIFICATIVA - CERTO. “Para os fins de proteção jurídica a
+     que se refere o art. 5.º, inciso XI, da Constituição da República, o
+                                                                                 internacionais inclui o repúdio ao racismo.
+     conceito normativo de ‘casa’ revela-se abrangente e, por estender-          JUSTIFICATIVA: CERTO. Conforme previsto expressamente no
+     se a qualquer aposento de habitação coletiva, desde que ocupado             inc. VIII do art. 4.º da CF, a República Federativa do Brasil rege-se
+     (CP, art. 150, § 4.º, II), compreende, observada essa específica            em suas relações internacionais pelos princípios do repúdio ao
+     limitação espacial, os quartos de hotel. Doutrina. Precedentes”             terrorismo e ao racismo.
+     (RHC 90.376, rel. min. Celso de Mello, j. 3-4-2007, DJ, 18-5-2007
+                                                                            59   A pena de morte é vedada em qualquer hipótese pela
+53   Se for comprovado que o referido cidadão norte-americano                    Constituição Federal.
+     praticou o crime de tráfico ilícito de entorpecentes, ele                   JUSTIFICATIVA: ERRADO. Em caso de guerra pode haver a
+     poderá ser extraditado para o seu país de origem.                           aplicação de pena de morte, conforme previsto expressamente no
+     JUSTIFICATIVA - ERRADO. A extradição é o modo de entregar o                 inc. XLVII, alínea “a”, do art. 5.
+     estrangeiro ou, excepcionalmente, o brasileiro naturalizado ao outro
+     Estado por delito nele praticado.                                      60   A obrigação de identificação do responsável por conduzir o
+                                                                                 interrogatório do preso está expressamente prevista na
+54   Considerando-se as competências das forças policiais                        Constituição Federal.
+     constantes da Constituição Federal de 1988, é correto afirmar               JUSTIFICATIVA: CERTO. Está previsto expressamente no art. 5.º,
+     que a ação policial narrada foi realizada pela Polícia Civil do             inc. LXIV o direito do preso em saber quem é o responsável pela
+     Distrito Federal, uma vez que ela é a responsável pelo                      sua prisão e interrogatório.
+     policiamento ostensivo e pela preservação da ordem pública.
+                                                                            61   Em processo administrativo disciplinar, a falta de defesa
+     Entretanto, a prisão poderia ter sido realizada pela polícia
+                                                                                 técnica, por advogado, configura desrespeito aos princípios
+     federal, que detém competência para prevenir e reprimir o
+                                                                                 do contraditório e da ampla defesa.
+     tráfico ilícito de entorpecentes e drogas afins.
+                                                                                 JUSTIFICATIVA: ERRADO. A falta de defesa técnica por
+     JUSTIFICATIVA - ERRADO. Consoante estabelecido no art. 144,
+                                                                                 advogado não agride o contraditório e a ampla defesa, conforme já
+     § 5.º, da Constituição Federal de 1988, é a polícia militar, e não a
+                                                                                 reconhecido de forma pacífica pelo STF a partir da edição da
+     civil, a responsável pelo policiamento ostensivo e pela preservação
+                                                                                 Súmula Vinculante n.º 5.
+     da ordem pública.
+
+
+‹Ci›Cargo: Nome‹Cf›                                                                                                                         Página: 1
+››    Matriz_CE                                                                                                            CEBRASPE – PCDF-ESC – Aplicação: 2021
+
+       O mal infligido pela autoridade pública, sem condenação                                         67   Após ter sido roubada, Fabrícia procurou uma delegacia,
+pública anterior, não deve ser classificado como punição, mas                                               onde foi atendida por agente de polícia que exigiu da vítima
+como ato hostil. Porque o ato devido ao qual se aplica a alguém                                             certa quantia em dinheiro para proceder às diligências de
+uma punição deve primeiro ser considerado pela autoridade                                                   praxe. Nessa situação, o agente praticou crime de concussão.
+pública como transgressão da lei.                                                                           JUSTIFICATIVA - CERTO. O crime de concussão é crime formal
+                                                                                                            e se consuma no momento em que o funcionário público exige a
+          Thomas Hobbes. O Leviatã (1651). São Paulo: Martins Fontes, 2003. p. 264 (com adaptações).
+                                                                                                            vantagem indevida, independentemente de ter alcançado ou não seu
+                                                                                                            intento. Código Penal, art. 316.
+Tendo o fragmento do texto precedente como referência, julgue o
+item a seguir.
+                                                                                                       Acerca dos delitos contra a administração pública, julgue os itens
+62 O texto apresentado faz referência ao princípio da                                                  a seguir.
+    irretroatividade da lei penal.
+     JUSTIFICATIVA - CERTO. O princípio da irretroatividade da lei                                     68 Situação hipotética: Determinado funcionário público que
+     penal pode ser compreendido como um corolário do princípio da                                          não tem atribuição para responsabilizar, após receber
+     legalidade. Não há crime sem previsão legal e não há pena sem                                          vantagem indevida, deixou de levar ao conhecimento da
+     prévia cominação legal – cf. art. 1.º do CPB. Hobbes é                                                 autoridade competente a infração cometida por subordinado
+     frequentemente citado como, pelo menos, um dos primeiros a                                             no exercício do cargo. Assertiva: Nesse caso, o referido
+     trabalhar tal ideia. O trecho indica que o mal infligido pelo Estado a                                 funcionário público incorreu em crime de condescendência
+     alguém só pode ser considerado como legítima punição, e não como                                       criminosa.
+     mero ato hostil, se realizada após a previsão em lei da conduta.                                       JUSTIFICATIVA - ERRADO. Configura crime de corrupção
+                                                                                                            passiva, e não condescendência criminosa, o funcionário público
+                                                                                                            receber uma vantagem indevida em razão do cargo. Não se trata de
+      Jamil telefonou para Lurdes simulando o sequestro da neta                                             condescendência criminosa, caso em que o agente deixa de praticar
+dela. Ambos localizavam-se em Brasília – DF. Ludibriada,                                                    o ato por clemência, tão-somente.
+Lurdes enviou dinheiro à conta de Jorge, nascido e residente no
+Paraguai e comparsa de Jamil. Jorge foi condenado e cumpriu                                            69   Configura crime de desobediência a oposição à execução de
+pena no estrangeiro pelos fatos narrados.                                                                   ato legal, emanado por funcionário público, mediante atitude
+                                                                                                            negativa, sendo a pena privativa de liberdade prevista para
+No que se refere a essa situação hipotética, julgue os itens que se                                         tal crime mais branda que a prevista para o crime de
+seguem.                                                                                                     resistência.
+63 Jamil praticou o crime de estelionato.                                                                   JUSTIFICATIVA - CERTO. A resistência passiva é figura típica
+     JUSTIFICATIVA - ERRADO. A conduta de Jamil configura o                                                 distinta do crime de resistência ativa. Em se tratando deste último,
+     crime de extorsão (art. 158 do CPB) com a causa de aumento pelo                                        há emprego de violência ou grave ameaça para se opor à execução
+     concurso de pessoas. No estelionato, ao contrário da extorsão, a                                       de ato legal, enquanto a desobediência se configura com a
+     vítima não se percebe em uma situação criminosa e entrega o bem                                        inexecução do ato sem o uso de vis compulsiva ou vil corporalis, de
+     em razão do engano ou fraude, não porque se sente ameaçada.                                            modo a receber a nomenclatura de “atitude ghândica” ou mediante
+                                                                                                            uma conduta negativa. Em razão da ausência de violência ou grave
+64   Jorge não poderá ser preso no Brasil pelos mesmos fatos.                                               ameaça, a pena do crime de desobediência é inferior à do crime de
+     JUSTIFICATIVA - ERRADO. De acordo com o art. 8.º do CPB, há                                            resistência. Código Penal, arts. 329 e 330.
+     previsão de atenuação de pena quando um estrangeiro cumpre pena
+     pelo mesmo crime em país que não o Brasil. Dessa forma, não há
+                                                                                                       No que se refere aos crimes contra o patrimônio, julgue os itens
+     que se falar que Jorge não poderá ser preso no Brasil, pois isso
+     dependerá da qualidade e da quantidade da pena cumprida no
+                                                                                                       que se seguem.
+     estrangeiro em comparação com sua condenação no Brasil pelos                                      70 Em se tratando do crime de roubo impróprio, embora seja ele
+     mesmos fatos.                                                                                         material e plurissubsistente, não se admite a tentativa, pois a
+                                                                                                           consumação ocorre antes do emprego de grave ameaça ou
+65   É correto afirmar que o crime relatado na situação em tela foi                                        violência.
+     praticado tanto no Brasil quanto no Paraguai.                                                          JUSTIFICATIVA - CERTO. O roubo impróprio se configura
+     JUSTIFICATIVA - CERTO. Na hipótese do enunciado, o crime,                                              quando o agente, após a subtração da coisa, emprega grave ameaça
+     para efeitos de aplicação da lei penal, ocorreu tanto no Brasil como                                   ou violência para assegurar a coisa ou a impunidade do delito, não
+     no Paraguai, porque a ação ocorreu no Brasil, mas produziu seu                                         se admitindo a sua tentativa. Caso o agente não empregue violência
+     resultado (recebimento do dinheiro transferido) no Paraguai.                                           ou grave ameaça, resta configurado o crime de furto. Caso
+     Código Penal, art. 6.º.                                                                                contrário, roubo impróprio consumado. É uma hipótese
+                                                                                                            excepcional, quando se trata de crime material (aquele que, para a
+                                                                                                            consumação, exige-se o resultado naturalístico) e plurissubsistente
+Em cada um dos itens subsecutivos, é apresentada uma situação                                               (cuja conduta admite ser fracionada em atos). Ressalta-se que o
+hipotética relativa a crimes contra a administração pública,                                                roubo se consuma com a subtração da coisa. Por isso, o roubo
+seguida de uma assertiva a ser julgada.                                                                     impróprio não admite tentativa.
+66 Denilson, artista de rua, vestiu-se, de forma jocosa e satírica,
+    com distintivos e símbolos da Polícia Civil do Distrito                                            71   Situação hipotética: Carlos subtraiu para si, sem o
+    Federal. Nessa situação, Denilson praticou o crime de                                                   consentimento de Mariana, sua esposa, a quantia de
+    desacato.                                                                                               R$ 4.000 depositados na caderneta de poupança que pertence
+     JUSTIFICATIVA - ERRADO. O crime de desacato exige o dolo do                                            exclusivamente a ela. Assertiva: Nessa situação, Carlos
+     agente em menosprezar, ofender, humilhar, desprestigiar, o                                             cometeu crime de furto, havendo consequente punibilidade.
+     funcionário público que está no exercício da sua profissão ou em                                       JUSTIFICATIVA - ERRADO. Na constância do casamento, o
+     razão dela. Na hipótese, não está presente o dolo de desacatar um                                      cônjuge é isento de pena se praticar um delito sem violência ou
+     funcionário público, havendo mero animus jocandi ou, no máximo,                                        grave ameaça contra o outro consorte, conforme se depreende da
+     intenção de crítica humorada à instituição policial. O intuito jocoso                                  escusa absolutória descrita no art. 181, inciso I, do Código Penal. A
+     e satírico direcionado a uma instituição, além de estar respaldado                                     doutrina majoritária entende não haver crime. Portanto, Carlos não
+     pelo direito constitucional à liberdade de expressão, não configura,                                   cometeu crime de furto na situação hipotética em questão e,
+     em nenhuma hipótese, crime contra a administração pública.                                             consequentemente, não há que se falar em punibilidade.
+
+
+‹Ci›Cargo: Nome‹Cf›                                                                                                                                                    Página: 2
+››    Matriz_CE                                                                                  CEBRASPE – PCDF-ESC – Aplicação: 2021
+
+Em relação aos crimes contra a pessoa, julgue os próximos itens.             76   O delegado não poderá lavrar auto de prisão em flagrante em
+                                                                                  face de Januário, mas poderá requerer ou cumprir mandado
+72 O crime de lesão corporal leve cometido em situação de
+                                                                                  de prisão preventiva ou temporária expedido por autoridade
+   violência doméstica não configura um tipo penal autônomo,                      judiciária competente.
+   mas uma qualificadora do delito de lesão corporal, em                          JUSTIFICATIVA - CERTO. Na situação hipotética, não estão
+   decorrência da relação havida entre os sujeitos ativo e                        preenchidos os requisitos da prisão em flagrante, e não há o alcance
+                                                                                  a nenhuma das hipóteses previstas no art. 302 do CPP, que trata do
+   passivo do delito.                                                             assunto. No caso, há ausência do quesito atualidade, necessário para
+     JUSTIFICATIVA - CERTO. O crime de lesão corporal leve em                     configuração da situação flagrancial, uma vez que o fato
+     situação de violência doméstica não é autônomo, e a circunstância é          supostamente criminoso ocorrera sete dias antes da apresentação.
+     qualificadora do delito de lesão corporal, e não uma majorante. As           Nada impede, contudo, que o delegado venha a requerer, ainda que
+     circunstâncias qualificadoras do delito referem-se às relações               durante a presença do investigado na delegacia, o mandado de
+     domésticas ou familiares, de modo a alterar a pena abstrata no tipo          prisão preventiva ou temporária, a ser expedido por autoridade
+     penal do art. 129 do Código Penal.                                           competente. Não impede, no mesmo sentido, o cumprimento de
+                                                                                  mandado judicial de prisão.
+
+73   Constitui crime de calúnia imputar um fato ofensivo à                   A respeito da prisão em flagrante e dos vários aspectos
+     reputação de uma pessoa, de modo a atingir a sua honra                  relacionados a esse assunto, julgue os itens que se seguem.
+     objetiva, consumando-se o delito quando a vítima toma                   77 O conduzido não poderá se negar à realização do exame de
+     conhecimento da imputação.                                                   corpo de delito quando da lavratura do auto de prisão em
+     JUSTIFICATIVA - ERRADO. A calúnia se configura quando se                     flagrante.
+     imputar falsamente a alguém fato definido como crime. A                      JUSTIFICATIVA - ERRADO. Além da previsão constitucional de
+     imputação de um fato ofensivo à reputação de uma pessoa                      que “ninguém será obrigado a fazer ou deixar de fazer alguma coisa
+     configura difamação. Os crimes de calúnia e de difamação atingem             senão em virtude de lei” (CF, art. 5.º, II), o conduzido não poderá
+                                                                                  ser submetido à força a procedimento que não deseja realizar (a não
+     a honra objetiva e se consumam quando terceiros, e não a vítima,             ser nas raríssimas hipóteses legais, como de identificação criminal e
+     tomam conhecimento da imputação.                                             coleta de material genético), devendo aceitar, contudo, as possíveis
+                                                                                  consequências de tal escolha.
+
+       Odete filmou Januário, empresário famoso, em conversa                 78   Em razão da existência das audiências de custódia, não pode
+com um político. Segundo Odete, no encontro filmado, Januário                     o delegado relaxar o flagrante realizado por policiais
+estaria oferecendo dinheiro ao político local em troca de                         militares, ainda que eivado de vícios.
+                                                                                  JUSTIFICATIVA - ERRADO. O delegado de polícia deve ser um
+vantagens indevidas em determinado processo licitatório.                          filtro de legalidade das prisões em flagrante realizadas pela polícia
+Sete dias após o ocorrido, ela veiculou o vídeo em suas mídias                    ostensiva, não podendo se contentar ao papel de mero validador de
+sociais. O vídeo alcançou alta projeção nos noticiários. Diante da                suas ações. No momento em que o delegado vislumbra hipótese de
+                                                                                  ilegalidade na condução, especialmente em condutas atípicas, ele
+repercussão, o político negou a propina e Januário apresentou-se                  deve cumprir o direito e observar as garantias processuais e penais
+espontaneamente em uma delegacia, acompanhado de seu                              do conduzido, devendo relaxar a prisão ilegal. Do contrário, seria o
+advogado, para prestar esclarecimentos.                                           delegado obrigado a dar sequência à ilegalidade sofrida pelo
+                                                                                  conduzido.
+A partir da situação hipotética precedente, julgue os itens a
+seguir, a respeito do tema de inquérito policial.                            Com base no disposto na Lei n.º 9.099/1995, julgue os itens a
+                                                                             seguir.
+74 Durante o inquérito policial, dada sua natureza
+                                                                             79 A lavratura de termo circunstanciado de ocorrência não
+    administrativa e inquisitorial, não se garantem o                            acarreta indiciamento do autor do fato.
+    contraditório e a ampla defesa, razão por que o advogado de                   JUSTIFICATIVA - CERTO. A lavratura de termo circunstanciado
+    Januário não poderá requisitar diligências ou propor                          se insere no contexto de busca por celeridade da lei de juizados
+                                                                                  especiais criminais (Lei n.º 9.099/1995) e de previsão de
+    perguntas ao delegado.                                                        mecanismos de despenalização, o que inviabiliza (como regra) e
+     JUSTIFICATIVA - ERRADO. Não só é permitido ao advogado                       desautoriza a lavratura de auto de prisão em flagrante e instauração
+     requerer diligências, como há previsão legal nesse sentido, como no          de inquérito policial, dispensando análise de mérito aprofundada
+     art. 7.º, XXI, da Lei n.º 8.906/1994. Nada impede, contudo, de               sobre autoria e materialidade, condição mínima necessária ao
+     haver negativa fundamentada do delegado em aceitar os                        indiciamento.
+     requerimentos do advogado. A propósito, a simples caracterização
+     do inquérito policial como inquisitivo não é apta a tornar o papel do
+                                                                             80   O indiciamento de beneficiário da suspensão condicional do
+                                                                                  processo por novo crime praticado durante a vigência do
+     advogado no inquérito policial a mero espectador inerte.
+                                                                                  benefício implica revogação do sursis processual, devendo o
+                                                                                  juiz, nesse caso, determinar o prosseguimento do feito, sem
+75   Ainda que o eventual crime cometido por Januário e pelo
+                                                                                  prejuízo de outras medidas.
+     referido político seja de ação penal pública incondicionada, a               JUSTIFICATIVA - ERRADO. O sursis processual poderá ser
+     instauração do inquérito policial depende de notícia crime,                  revogado se, no curso do benefício, o sursistário vier a ser
+     fundada em documentação oficial, como um boletim de                          processado, e não indiciado, consoante art. 89, § 4.º, da
+                                                                                  Lei n.º 9.099/1995.
+     ocorrência, não sendo possível sua instauração apenas com
+     base na divulgação de fato criminoso pela mídia.
+                                                                             81   Em se tratando de crimes de médio potencial ofensivo cuja
+     JUSTIFICATIVA - ERRADO. O delegado, em crimes de ação                        ação penal seja pública incondicionada, o Ministério Público
+     penal pública incondicionada, poderá de ofício instaurar inquérito           poderá oferecer transação penal, com aplicação imediata de
+     policial, independentemente de comunicação oficial, como um                  pena restritiva de direitos ou multa.
+     boletim de ocorrência ou denúncia, bastando haver a notícia crime,           JUSTIFICATIVA - ERRADO. Não se admite transação penal em
+     que poderá se dar por qualquer meio, inclusive a partir de fruto de          crimes de médio potencial ofensivo (cuja pena privativa de
+     matéria jornalística ou divulgação do fato criminoso nas mídias              liberdade mínima seja igual ou inferior a um ano e a máxima seja
+     sociais. O delegado de polícia, portanto, não só poderá como deverá          superior a 2 anos). A transação penal é admissível em crimes de
+     instaurar inquérito policial quando se deparar com um possível fato          menor potencial ofensivo (cuja pena privativa de liberdade não seja
+                                                                                  superior a 2 anos) e em contravenções penais.
+     criminoso.
+
+
+‹Ci›Cargo: Nome‹Cf›                                                                                                                          Página: 3
+››    Matriz_CE                                                                                 CEBRASPE – PCDF-ESC – Aplicação: 2021
+
+Acerca da prisão, julgue os itens que se seguem.                            88   Foi no período pós-Segunda Guerra Mundial que, pela
+82   Ainda que não haja testemunhas da infração penal, poderá                    primeira vez na história, foram positivados direitos humanos,
+     ser realizado o auto de prisão em flagrante, caso em que o                  em uma tentativa de reconstrução da sociedade marcada
+     auto deverá ser assinado por duas testemunhas da                            pelas atrocidades cometidas no regime nazista.
+                                                                                 JUSTIFICATIVA - ERRADO. A Segunda Guerra Mundial findou
+     apresentação do preso à autoridade e pelo condutor do                       em 1945, gerando uma forte reação dos organismos internacionais
+     flagrante.                                                                  no sentido de restaurar, reconstruir e reforçar a concepção de
+     JUSTIFICATIVA - CERTO. De acordo com o § 2.º do art. 304 do                 direitos humanos, de dignidade humana e de igualdade entre todos
+     Código de Processo Penal, “A falta de testemunhas da infração não           os seres humanos. Contudo, mesmo antes desse período, que de
+     impedirá o auto de prisão em flagrante; mas, nesse caso, com o              fato tornou-se um marco histórico dos direitos humanos com a
+     condutor, deverão assiná-lo pelo menos duas testemunhas que                 Declaração Universal de Direitos Humanos de 1948, diversos
+     hajam testemunhado a apresentação do preso à autoridade”.                   outros documentos, como declarações de independência de diversos
+                                                                                 países, a Declaração dos Direitos do Homem e do Cidadão de 1789
+                                                                                 da França e diversos outros documentos normativos já vinham
+83   Em caso de falta ou impedimento do escrivão, qualquer                       positivando direitos humanos.
+     pessoa compromissada e designada pela autoridade pode
+     lavrar o auto de prisão em flagrante.
+                                                                            Com relação aos direitos humanos e responsabilidade do Estado e
+     JUSTIFICATIVA - CERTO. Segundo art. 305 do Código de
+                                                                            os direitos humanos na Constituição Federal, julgue os próximos
+     Processo Penal, “Na falta ou no impedimento do escrivão, qualquer
+                                                                            itens.
+     pessoa designada pela autoridade lavrará o auto, depois de prestado
+     o compromisso”.                                                        89 O procurador-geral da República, a fim de assegurar o
+                                                                                 cumprimento de obrigações internacionais de direitos
+                                                                                 humanos das quais o Brasil faz parte, pode suscitar perante o
+Considerando as disposições constitucionais aplicáveis ao direito                STJ incidente de deslocamento de competência para a justiça
+processual penal, julgue os próximos itens.                                      federal.
+84   O preso, apesar de seu direito de permanecer calado, poderá                 JUSTIFICATIVA - CERTO. Conforme o parágrafo 5.º do art. 109
+                                                                                 da Constituição Federal de 1988, “Nas hipóteses de violação de
+     indicar uma pessoa para ser comunicada de sua prisão e, se                  Direitos Humanos, o Procurador Geral da República, com a
+     lei admitir a liberdade provisória sem fiança, ele não será                 finalidade de assegurar o cumprimento de obrigações de correntes
+     mantido na prisão.                                                          de tratados internacionais dos quais o Brasil seja parte, poderá
+     JUSTIFICATIVA - CERTO: Segundo o art. 5.º, incisos LXII,                    suscitar, perante o Superior Tribunal de Justiça, em qualquer fase
+     LXIII e LXVI, da CF, o preso tem o direito de permanecer calado,            do inquérito ou do processo, incidente de deslocamento de
+     informar a sua prisão para a sua família ou para uma pessoa por ele         competência para a Justiça Federal”.
+     indicada, bem como, se lei admitir a liberdade com ou sem fiança, o
+     indivíduo não será mantido na prisão.                                  90   Um dos objetivos fundamentais da República Federativa do
+                                                                                 Brasil é a prevalência dos direitos humanos.
+                                                                                 JUSTIFICATIVA - ERRADO. A prevalência dos direitos humanos
+85   Segundo a Constituição Federal de 1988, o preso tem o                       faz parte do rol de princípios que regem as relações internacionais
+     direito de conhecer a identificação dos responsáveis pelo                   da República Federativa do Brasil. Tal item justifica-se pela
+     interrogatório policial.                                                    redação do art. 4.º, II, da Constituição Federal de 1988. Em
+     JUSTIFICATIVA - CERTO. O preso tem direito à identificação                  complemento, cita-se o art. 3.º, também da Constituição Federal de
+     dos responsáveis por sua prisão ou por seu interrogatório policial,         1988, que traz o rol de objetivos fundamentais da República
+     de acordo com a CF (art. 5.º, inciso LXIV).                                 Federativa do Brasil, dentre os quais não está inclusa a prevalência
+                                                                                 dos direitos humanos.
+
+Acerca da concepção e da evolução histórica dos direitos                    Espaço livre
+humanos, julgue os itens a seguir.
+86   A Declaração Universal dos Direitos Humanos, de 1948, foi
+     o primeiro documento normativo de alcance global a respeito
+     desse assunto.
+     JUSTIFICATIVA - CERTO. De fato, a Declaração Universal de
+     Direitos Humanos foi o primeiro documento internacional de
+     alcance global — abrangendo quase a totalidade dos povos da Terra
+     — a proclamar os direitos humanos, declarando que “todos os
+     homens nascem livres e iguais em dignidade e direitos”.
+
+87   Ainda antes de Cristo, foram lançados os primeiros
+     fundamentos intelectuais da igualdade essencial entre todos
+     os homens e, por conseguinte, da afirmação da existência de
+     direitos universais.
+     JUSTIFICATIVA - CERTO. É a partir do período axial que o ser
+     humano passa a ser considerado, pela primeira vez na história, em
+     sua igualdade essencial, como ser dotado de liberdade e razão, não
+     obstante as múltiplas diferenças de sexo, raça, religião ou costumes
+     sociais. Lançavam-se, assim, os fundamentos intelectuais para a
+     compreensão da pessoa humana e para a afirmação da existência de
+     direitos universais, porque a ela inerentes.
+
+
+‹Ci›Cargo: Nome‹Cf›                                                                                                                        Página: 4
+››    Matriz_CE                                                                               CEBRASPE – PCDF-ESC – Aplicação: 2021
+
+        Por meio da Política Nacional de Direitos Humanos do              95   Caso se deseje ter acesso remoto a todos os aplicativos e
+Brasil surgiu o Programa Nacional de Direitos Humanos, que traz                recursos de um computador conectado em rede, de forma
+propostas para temas de debate nacional. O Programa também                     similar ao que ocorre no acesso local, é possível fazê-lo por
+visa fazer com que todos os estados da Federação protejam os                   meio de recursos disponibilizados na área de trabalho remota
+direitos humanos inseridos na Constituição Federal e nos tratados              do Windows 10.
+internacionais de que o Brasil é signatário.                                   JUSTIFICATIVA - CERTO. A área de trabalho remota do
+                                                                               Windows 10 pode ser usada para conectar e controlar um
+                                                                               computador a partir de um dispositivo remoto. Dessa forma, é
+Considerando a Política Nacional de Direitos Humanos, a
+                                                                               possível usar outro dispositivo para se conectar ao computador em
+Constituição Federal e os tratados internacionais de direitos                  apreço e ter acesso a todos os seus aplicativos, arquivos e recursos
+humanos, julgue os itens a seguir.                                             de rede.
+91   Segundo a Constituição Federal, a equiparação dos tratados
+     internacionais de direitos humanos às emendas                        Julgue os seguintes itens, relativos a tecnologias, ferramentas,
+     constitucionais depende de aprovação da maioria simples              aplicativos e procedimentos associados à Internet e intranet.
+     dos membros de cada casa do Congresso Nacional, em turno             96   Sempre que uma URL é salva pelo gerenciador de favoritos
+     único.                                                                    do Google Chrome, ela é sincronizada em todos os
+     JUSTIFICATIVA - ERRADO. Segundo o § 3.º do art. 5.º da CF, os             dispositivos utilizados pelo usuário, na sua conta do Google.
+     tratados e convenções internacionais sobre direitos humanos que           JUSTIFICATIVA - ERRADO. As informações do usuário são
+     forem aprovados, em cada Casa do Congresso Nacional, em dois              salvas na sua conta do Google somente quando é ligada no Chrome
+     turnos, por três quintos dos votos dos respectivos membros, serão         a opção ativar e desativar a sincronização. Nesse caso, é possível
+     equivalentes às emendas constitucionais.                                  ver e atualizar as informações em todos os dispositivos, como
+                                                                               favoritos, histórico, senhas e outras configurações.
+92   Os temas trazidos pelo Programa Nacional de Direitos
+     Humanos têm força normativa, ou seja, são considerados lei,          97   Por meio de configurações do IMAP e do SMTP, é possível
+     já que foram discutidos previamente pelo Congresso                        ler as mensagens do Gmail em aplicativos tais como o
+     Nacional.                                                                 Apple Mail e o Microsoft Outlook.
+     JUSTIFICATIVA - ERRADO. Há três versões do Programa                       JUSTIFICATIVA - CERTO. Configurar o IMAP e alterar as
+     Nacional de Direitos Humanos já publicadas, tendo sido as duas            configurações de SMTP permite ler as mensagens do Gmail em
+     primeiras elaboradas entre 1996 e 2002, e a última em 2009. O             outros clientes de email, como o Microsoft Outlook e o Apple Mail.
+     Programa Nacional de Direitos Humanos foi o primeiro do gênero
+     na América Latina e o terceiro do mundo. Trata-se, porém, apenas     98   No PowerPoint do Office 365, uma alteração no slide mestre
+     de propostas para temas de debate nacional em matéria de direitos         é aplicada a todos os slides nele embasados, incluindo as
+     humanos, que não têm força normativa (ou seja, não são leis).             fontes e as imagens.
+     Contudo, à medida que tais propostas forem apreciadas e discutidas        JUSTIFICATIVA - CERTO. No PowerPoint para Office 365, para
+     pelo Congresso Nacional, poderão ser transformadas em leis                que todos os slides contenham as mesmas fontes e imagens (como
+     federais.                                                                 logotipos), deve-se fazer as alterações em um só lugar, o slide
+                                                                               mestre. Quando se edita o slide mestre, todos os slides baseados
+                                                                               nele conterão essas alterações.
+Julgue os próximos itens, a respeito de Internet e intranet.
+93   Sendo o HTTPS um protocolo de segurança utilizado em                 99   No Word do Office 365, o recurso controlar alterações é
+     redes privadas de computadores, infere-se que o endereço                  limitado à visualização das alterações realizadas, sem que se
+     https://intra.pcdf.df.br identifica necessariamente                       possa removê-las ou torná-las permanentes.
+     um sítio localizado em um servidor de uma intranet.                       JUSTIFICATIVA - ERRADO. No Word para Office 365, a
+     JUSTIFICATIVA - ERRADO. Pode haver intranet sem HTTPS e                   ativação do recurso controlar alterações oferece uma maneira de
+     HTTPS em sítios de Internet. Um dos serviços de segurança mais            fazer alterações fáceis de identificar. Elas são como sugestões que
+     amplamente usados é o SSL (secure sockets layer) e o padrão de            podem ser revisadas e depois removidas ou tornadas permanentes.
+     Internet dela decorrente é conhecido como TLS (transport layer
+                                                                          100 No Office 365, tanto no Word quanto no PowerPoint,
+     security). O SSL é um serviço de uso geral implementado como um
+     conjunto de protocolos que fazem uso do TCP.                              a função Limpar toda a formatação aplica no texto
+                                                                               selecionado ⸺ que pode estar sobrescrito, em negrito e
+94   Considere que a sintaxe "velocidade do jaguar" –carro                     itálico e com fonte na cor vermelha, por exemplo ⸺ o estilo
+     tenha sido utilizada em uma pesquisa no Google. Nesse caso,               de formatação padrão.
+     serão mostrados resultados que contenham a frase                          JUSTIFICATIVA - CERTO. Pode-se limpar facilmente toda a
+                                                                               formatação (como negrito, sublinhado, itálico, cores, sobrescrito,
+     velocidade do jaguar, com essa correspondência exata,
+                                                                               subscrito e outros elementos) no texto e voltá-lo para estilos de
+     sem a palavra carro.                                                      formatação padrão. No Word, esse recurso encontra-se na guia
+     JUSTIFICATIVA - CERTO. O uso sinal de hífen (-) antes de uma              Página inicial. Para utilizá-lo, no grupo Fonte deve-se clicar em
+     palavra em pesquisa no Google exclui tal palavra dos resultados. O        Limpar toda a formatação. No PowerPoint, na guia Página
+     uso das aspas, por sua vez, permite a pesquisa de uma                     inicial, no grupo Fonte, deve-se clicar em Limpar toda a
+     correspondência exata.                                                    formatação.
+
+
+‹Ci›Cargo: Nome‹Cf›                                                                                                                      Página: 5
+››    Matriz_CE                                                                              CEBRASPE – PCDF-ESC – Aplicação: 2021
+
+                                                                          106 O DTD (document type definition) define regras que obrigam
+                                                                              a formatação da informação de forma descritiva dentro de
+                                                                              um arquivo XML, como, por exemplo, o encadeamento dos
+                                                                              atributos do dado.
+                                                                              JUSTIFICATIVA - CERTO. O DTD (document type definition)
+                                                                              contém metainformações de definições sintáticas sobre os
+                                                                              elementos e atributos do documento XML, definindo como as
+                                                                              marcas devem ser interpretadas por meio de várias regras, como o
+                                                                              encadeamento de elementos, ligação de atributos a elementos ou
+Tendo como referência a figura precedente, que apresenta parte
+                                                                              valores permitidos para atributos.
+de uma planilha sendo editada no Microsoft Office Excel, julgue
+os próximos itens.
+101 Considerando-se que a célula D2 contenha a fórmula                    A respeito de segurança e proteção na Internet, julgue os itens
+    =(B$2+C$2), é correto concluir que, ao se arrastar a alça de          que se seguem.
+    preenchimento para baixo até a célula D4, o valor resultante          107 Para que as pragas virtuais denominadas worms ataquem o
+    nesta célula será 400.                                                    computador em uso, é necessário que se execute um arquivo
+     JUSTIFICATIVA - ERRADO. O valor será 300, pois a fórmula em              do tipo .bat.
+     D4 também será =(B$2+C$2).
+                                                                              JUSTIFICATIVA - ERRADO. Os worms não necessitam infectar
+                                                                              outros arquivos para se multiplicar e normalmente se espalham
+                                                                              usando recursos da rede. Ele não necessita que o usuário o acione,
+                                                                              pois, por ser um programa completo, é autônomo.
+
+                                                                          108 Firewall de proxy é um aplicativo de segurança que
+102 Considerando-se que a célula D5 contenha a fórmula                        monitora e controla o tráfico de dados de uma rede interna
+     =SOMA(B2:C4), é correto afirmar que o valor resultante nessa             para a rede externa e impede o ataque externo.
+     célula será 200.                                                         JUSTIFICATIVA - CERTO. Um firewall de proxy funciona como
+     JUSTIFICATIVA - ERRADO. O valor será 950 que é a soma das                a passagem de uma rede para outra. Servidores proxy podem
+     células B2, B3, B4, C2, C3 e C4.                                         oferecer recursos adicionais, como armazenamento em cache e
+                                                                              segurança de conteúdo, ao evitar conexões diretas de fora da rede.
+Julgue os itens a seguir, a respeito de redes de computadores.                No entanto, isso também pode afetar a capacidade de taxa de
+103 O modelo OSI (open systems interconnection) possibilita a                 transferência e as aplicações que eles podem comportar.
+    conexão de diferentes redes de computadores com sistemas
+    operacionais Windows; para acessar máquinas ligadas à rede                   Para ter acesso a um arquivo digital criptografado, um
+    com sistema Linux, é necessário instalar, nelas, um sistema           cibernauta deve testar uma senha de 8 dígitos composta pelos
+    operacional Windows, conforme modelo OSI implantado.                  algarismos de 0 a 9, admitida a repetição. O cibernauta teve a
+     JUSTIFICATIVA - ERRADO. Um sistema aberto é um conjunto
+                                                                          informação prévia de que o arquivo foi criado no dia 23/12/19 e
+     de protocolos que permite que dois sistemas diferentes se
+     comuniquem independentemente de suas arquiteturas subjacentes.       que o dia, o mês e o ano da criação do arquivo, representados por
+     O propósito do modelo OSI é facilitar a comunicação entre sistemas   dois algarismos cada, estão presentes na senha, mas aparecem em
+     diferentes sem a necessidade de se realizar mudanças na lógica do    ordem aleatória.
+     hardware e software de cada um deles.
+
+104 No modelo OSI (open systems interconnection), os dados                Com base nessas informações, julgue os itens a seguir.
+     trafegam entre sete camadas que se comunicam entre si por            109 O número máximo de possibilidades de senhas que o
+     meio de serviços existentes nas interfaces entre camadas                 cibernauta deve testar é inferior a 5.000.
+     adjacentes. Quando são alterados, os serviços obrigam que as             JUSTIFICATIVA - ERRADO. O dia, mês e ano são valores fixos e
+     respectivas camadas adjacentes (superior e inferior) também              compostos por dois algarismos cada, totalizando 6 posições da
+     sejam modificadas.                                                       senha. Considerando p1 e p2 as duas posições restantes e que as
+     JUSTIFICATIVA - ERRADO. A passagem de cima para baixo de                 posições p1 e p2 podem assumir os algarismos de 0 a 9. Como p1 e
+     dados e informações de rede pelas camadas do dispositivo emissor         p2 assumem o mesmo conjunto de valores (algarismos de 0 a 9),
+     e depois de volta através das camadas do dispositivo receptor é          não há necessariamente a geração de senhas distintas quando se
+     possível graças a uma interface entre cada par de camadas                atribuem valores para p1 e p2. Por exemplo, as sequências p1-dia-p2-
+     adjacentes. Cada interface define as informações e serviços que
+                                                                              ano-mês e p2-dia-p1-ano-mês geram duas vezes cada senha, quando
+     uma camada deve fornecer para a camada superior. Desde que uma
+                                                                              as posições p1 e p2 assumem os algarismos de 0 a 9. Logo, as
+     camada forneça os serviços esperados para a camada superior, a
+     implantação específica de suas funções pode ser modificada ou            possibilidades equivalem a (120 × 10 × 10)/2 = 6.000.
+     substituída, sem exigir mudanças nas camadas adjacentes.
+                                                                          110 Sem a informação de que o dia, o mês e o ano da criação do
+105 PPP     (point to point protocol) é um protocolo de
+                                                                              arquivo fazem parte da senha, a quantidade máxima de
+     comunicação que permite a configuração de um endereço de
+                                                                              senhas a serem testadas pelo cibernauta seria de 108.
+     rede temporário para conexão à Internet.
+                                                                              JUSTIFICATIVA - CERTO. Em cada posição da senha, pode-se ter
+     JUSTIFICATIVA - CERTO. O PPP (point to point protocol)
+     fornece a configuração do endereço de rede. Isso é particularmente       um algarismo de 0 a 9, ou seja, 10 possibilidades. Sendo 8 posições,
+     útil quando um usuário doméstico precisa de um endereço de rede          ter-se-á 10  10 …  10  10଼ .
+     temporário para se conectar à Internet.
+
+
+‹Ci›Cargo: Nome‹Cf›                                                                                                                     Página: 6
+››    Matriz_CE                                                                                CEBRASPE – PCDF-ESC – Aplicação: 2021
+
+       Dos 3.250 candidatos inscritos em um concurso público                116 A proposição [p Ʌ q]  [p V (~q)], em que (~q) denota a
+com 160 vagas e apenas a aplicação de uma prova objetiva, 1,6%                  negação da proposição q, só apresenta resultado verdadeiro
+não compareceram para realizar a prova. Com base em eventos
+                                                                                quando a proposição p for verdadeira e a proposição q for
+anteriores, os organizadores do certame conseguiram modelar o
+número N de candidatos que acertam o percentual  de questões                   falsa.
+da prova objetiva pela função                                                   JUSTIFICATIVA - ERRADO. A tabela verdade a seguir mostra
+                                        ௉మ                                      que, independentemente do valor das proposições, o resultado será
+                                        10 .
+                                        ଵ଴                                      sempre verdadeiro.
+
+Com base nessas informações, julgue os itens que se seguem.
+111 De acordo com o modelo estabelecido, a quantidade de
+    candidatos que acertará 80% das questões da prova objetiva
+    é igual ao número de vagas oferecidas.
+     JUSTIFICATIVA - CERTO. Sendo   80, na função, obtém-se
+     160.
+                                                                            117 A negação da proposição “Todos são iguais perante a lei” é
+112 Considerando-se apenas os candidatos que compareceram à
+     prova objetiva, verifica-se que a concorrência do concurso                 “Todos são diferentes perante a lei”.
+     foi superior a 20 candidatos por vaga.                                     JUSTIFICATIVA - ERRADO. A negação de “Todos são iguais
+     JUSTIFICATIVA - ERRADO. Calculando-se 1,6% de                              perante a lei” é “Nem todos são iguais perante a lei” ou, ainda,
+     3.250, tem-se 3.250  0,016  52. Logo, compareceram                       “Existem indivíduos que são diferentes perante a lei”.
+     3.198 candidatos para realizar as provas objetivas.
+     Considerando-se a proporção 3.198160  19,98 candidatos
+                                                                            Espaço livre
+     por vaga.
+
+
+       Em uma loteria estadual, a aposta mínima permitida é de
+R$ 2, a máxima é de R$ 50 e o prêmio pago ao acertador é igual
+a 10 vezes o valor apostado. Um apostador iniciou apostando o
+valor mínimo e, não tendo sido contemplado, fez novas apostas,
+aumentando, a cada aposta, R$ 2 no valor da aposta anterior.
+
+Com base nessas informações, julgue os próximos itens.
+113 Se o jogador não tiver acertado nenhuma aposta, ele terá
+    jogado 25 vezes ao apostar o valor máximo permitido.
+     JUSTIFICATIVA - CERTO. Sendo uma PA, o n-ésimo termo, que
+     é igual a R$ 50, é dado pela equação 50  2  2  1, obtendo-
+     se   25.
+
+114 Se o jogador vinha sempre errando suas apostas, mas acertou
+     na décima aposta, o valor do prêmio recebido supera o valor
+     total apostado em mais de R$ 100.
+     JUSTIFICATIVA - ERRADO. O valor de cada aposta segue uma
+     PA com ଵ  2 e razão   2. Logo na décima aposta o jogador
+     apostou ଵ଴  2  2  9  R$ 20, recebendo R$ 200. Com as
+     10 apostas, o jogador gastou a soma dos 10 primeiros termos da PA
+             ሺ௔భ ା௔భబ ሻଵ଴
+     ଵ଴                    R$ 110. Logo, o ganho líquido foi de R$ 90.
+                  ଶ
+
+
+
+Com relação a estruturas lógicas, lógica de argumentação e
+lógica proposicional, julgue os itens subsequentes.
+115 A proposição “Se Paulo está mentindo, então Maria não está
+     mentindo” é equivalente à proposição “Se Maria está
+     mentindo, então Paulo não está mentindo”.
+     JUSTIFICATIVA - CERTO. A proposição pode ser escrita como
+     p  m em que p, m são as seguintes proposições
+
+     p: “Paulo está mentindo”.
+     m: “Maria não está mentindo”.
+
+     A proposição p  m é equivalente a (~m)  (~p), em que (~p),
+     (~m) denotam, respectivamente, as negações das proposições p e m.
+     Portanto p  m é equivalente a “Se Maria está mentindo, então
+     Paulo não está mentindo”.
+
+
+‹Ci›Cargo: Nome‹Cf›                                                                                                                      Página: 7
+››    Matriz_CE                                                                              CEBRASPE – PCDF-ESC – Aplicação: 2021
+
+Em cada um dos itens a seguir, é apresentada uma situação                     Espaço livre
+hipotética seguida de uma assertiva a ser julgada.
+118 Seis pessoas devem se reunir em uma mesa redonda, mas
+     duas delas não podem se sentar uma ao lado da outra. Nessa
+     situação, a quantidade de maneiras distintas de essas
+     seis pessoas sentarem em torno dessa mesa é superior a 400.
+     JUSTIFICATIVA - CERTO. Uma das pessoas que tem restrição de
+     posicionamento na mesa tem seis possibilidades de tomar assento
+     nessa mesa. A segunda pessoa com restrição teria então três
+     possibilidades de tomar assento à mesa. Portanto as duas pessoas
+     com restrição de posicionamento teriam 6 × 3 = 18 possibilidades
+     de posicionamento. Como as outras quatro pessoas podem se sentar
+     em qualquer local, então tem-se 18 × 4! = 18 × 24 = 432
+     possibilidades de essas pessoas tomarem assento à mesa.
+
+119 No processo de investigação de um crime, os suspeitos
+     foram separados em três grupos, conforme mostra a tabela a
+     seguir.
+
+
+
+
+     Os grupos A e C têm elemento em comum e todos os
+     indivíduos do grupo B também estão no grupo C. Nessa
+     situação, é correto concluir que A e B têm algum elemento
+     em comum.
+     JUSTIFICATIVA - ERRADO. Pode ocorrer de B estar contido
+     propriamente em C, que (C – B) ∩ A ≠ Ø e que B ∩ A = Ø.
+
+
+
+
+120 Um foragido da justiça, que gostava de se exibir perante seus
+     comparsas e conhecia um pouco de matemática, ligou para a
+     polícia e passou as seguintes informações: “em 30 minutos,
+     eu estarei na rua Alfa, em uma casa, do lado direito da rua,
+     cujo número tem as seguintes características: é inferior a
+     1.000, o algarismo das centenas é igual ao número de
+     diagonais de um retângulo e, além disso, a parte do número
+     formada só pelos algarismos das dezenas e das unidades é
+     múltiplo de 7”. Uma viatura foi deslocada para o intervalo de
+     casas da rua Alfa correspondente ao algarismo das centenas
+     revelado. Lá chegando, os policiais verificaram que, nesse
+     trecho da rua Alfa, os números das casas tinham as seguintes
+     características: os algarismos das dezenas e das unidades
+     começavam de 01 e de uma casa para a próxima eram
+     acrescentadas 8 unidades. Nessa situação, o número da casa
+     informado pelo foragido é inferior a 250.
+     JUSTIFICATIVA - CERTO. O número de diagonais de um
+     retângulo é igual a 2. Por outro lado, os algarismos das dezenas e
+     unidades que podem aparecer do lado direito da rua Alfa são: 01,
+     09, 17, 25, 33, 41, 49, 57, 65, 73, 81, 89 e 97. Desses, apenas o 49 é
+     múltiplo de 7, logo o foragido estava na casa n.º 249.
+
+
+‹Ci›Cargo: Nome‹Cf›                                                                                                         Página: 8
+                                                                                               CEBRASPE – PCDF-ESC – Aplicação: 2021
+
+                                                 -- PROVA DISCURSIVA --
+•       Nesta prova, faça o que se pede, usando, caso deseje, o espaço para rascunho indicado no presente caderno. Em seguida,
+        transcreva o texto para a FOLHA DE TEXTO DEFINITIVO DA PROVA DISCURSIVA, no local apropriado, pois não será
+        avaliado fragmento de texto escrito em local indevido.
+    •   Qualquer fragmento de texto além da extensão máxima de linhas disponibilizadas será desconsiderado.
+    •   Na Folha de Texto Definitivo, a presença de qualquer marca identificadora no espaço destinado à transcrição do texto definitivo
+        acarretará a anulação da sua prova discursiva.
+    •   Ao domínio do conteúdo serão atribuídos até 30,00 pontos, dos quais até 1,50 ponto será atribuído ao quesito apresentação
+        (legibilidade, respeito às margens e indicação de parágrafos) e estrutura textual (organização das ideias em texto estruturado).
+
+
+                   De acordo com as Diretrizes Nacionais para Investigar, Processar e Julgar com Perspectiva
+             de Gênero as Mortes Violentas de Mulheres — Feminicídios, feminicídio é uma expressão utilizada
+             para denominar as mortes violentas de mulheres em razão de gênero, ou seja, que tenham sido
+             motivadas por sua “condição” de mulher.
+                    No Código Penal brasileiro, o feminicídio está definido como um crime hediondo, tipificado nos
+             seguintes termos: é o assassinato de uma mulher cometido por razões da condição de sexo
+             feminino, quando o crime envolve violência doméstica e familiar e(ou) menosprezo ou discriminação à
+             condição de mulher.
+                    Nomear e definir o problema é um passo importante, mas, para coibir o crime, é fundamental
+             conhecer as características dos feminicídios, construindo-se um entendimento de que se referem a
+             mortes decorrentes da desigualdade de gênero e que, muitas vezes, o assassinato é o desfecho de um
+             histórico de violências. Nesse contexto, os feminicídios são considerados mortes evitáveis — ou seja, que
+             não aconteceriam sem a conivência institucional e social às discriminações e violências contra as
+             mulheres. Outro aspecto importante é a responsabilidade do Estado, que, por ação ou omissão,
+             compactua com a perpetuação dessas mortes.
+                    Os feminicídios acontecem tanto no âmbito privado como no público, em circunstâncias e contextos
+             diversos, em que as discriminações e os menosprezos com a condição feminina assumem variadas
+             formas, mais ou menos evidentes. São reveladores dessa discriminação os requintes de crueldade,
+             especialmente em regiões do corpo associadas ao feminino, a prática de violência sexual, a imposição de
+             sofrimento físico e mental e a existência de histórico de violência anterior ao episódio fatal.
+                                                                       Internet: < https://dossies.agenciapatriciagalvao.org.br > (com adaptações).
+
+
+
+
+    Considerando que o fragmento de texto precedente tem caráter unicamente motivador, redija um texto dissertativo acerca do
+    seguinte tema.
+
+                                                              FEMINICÍDIOS
+
+    Ao elaborar seu texto, faça o que se pede a seguir.
+
+         •    Comente sobre a importância da sanção da Lei do Feminicídio (Lei n.º 13.104/2015). [valor: 9,50 pontos]
+         •    Aborde razões sociais e culturais que legitimam desigualdades de gênero e, consequentemente, culminam em
+              feminicídios. [valor: 9,50 pontos]
+         •    Dê exemplos de medidas que podem ser adotadas pelo Estado para proteger as mulheres e prevenir a perpetuação
+              dos feminicídios. [valor: 9,50 pontos]
+     CEBRASPE – PCDF-ESC – Aplicação: 2021
+
+                            RASCUNHO
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+
