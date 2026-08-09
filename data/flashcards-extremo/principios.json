@@ -1,0 +1,102 @@
+[
+  {
+    "id": "principios-fcx-01",
+    "topicoId": "principios",
+    "topico": "Princípios da Administração Pública",
+    "dificuldade": "extremo",
+    "enunciado": "Na esfera controladora, a decisão que ordenar a invalidação de contrato administrativo deverá indicar de modo expresso suas consequências jurídicas e administrativas e, quando impuser dever ou condicionamento de direito novo ao administrado, deverá prever regime de transição, sendo que a ausência dessa previsão não compromete a validade da decisão, por se tratar de mera recomendação legal.",
+    "gabarito": "E",
+    "justificativa": "A expressão que torna o item falso é \"a ausência dessa previsão não compromete a validade da decisão, por se tratar de mera recomendação legal\". As premissas iniciais reproduzem corretamente os arts. 21 e 23 da LINDB, incluídos pela Lei nº 13.655/2018: a decisão que decretar invalidação de ato, contrato, ajuste, processo ou norma administrativa deve indicar de modo expresso suas consequências jurídicas e administrativas; e a decisão administrativa, controladora ou judicial que estabelecer interpretação ou orientação nova sobre norma de conteúdo indeterminado, impondo novo dever ou novo condicionamento de direito, deverá prever regime de transição quando indispensável para que o novo dever seja cumprido de modo proporcional, equânime e eficiente. São comandos vinculantes — o texto legal emprega \"deverá\" —, e não recomendações. A redação correta seria a de que se trata de exigência legal cujo descumprimento vicia a decisão.",
+    "fundamentacaoLegal": "LINDB (Decreto-Lei nº 4.657/1942), arts. 21 e 23, incluídos pela Lei nº 13.655/2018."
+  },
+  {
+    "id": "principios-fcx-02",
+    "topicoId": "principios",
+    "topico": "Princípios da Administração Pública",
+    "dificuldade": "extremo",
+    "enunciado": "A vedação ao nepotismo decorre diretamente dos princípios constitucionais da impessoalidade e da moralidade, dispensando lei formal que a preveja; contudo, segundo a jurisprudência do Supremo Tribunal Federal, essa vedação não alcança, em regra, a nomeação para cargos de natureza política, como a de Secretário Municipal.",
+    "gabarito": "C",
+    "justificativa": "O item está correto em suas duas partes. A Súmula Vinculante 13 veda a nomeação de cônjuge, companheiro ou parente em linha reta, colateral ou por afinidade, até o terceiro grau, da autoridade nomeante ou de servidor da mesma pessoa jurídica investido em cargo de direção, chefia ou assessoramento, para o exercício de cargo em comissão ou de confiança, bem como o ajuste mediante designações recíprocas. Como a vedação decorre diretamente dos princípios do art. 37, caput, da CF, não depende de lei formal que a discipline. Quanto à segunda parte, o STF firmou orientação no sentido de que a Súmula Vinculante 13 não se aplica, como regra, à nomeação para cargos de natureza política — como Ministros e Secretários estaduais e municipais —, ressalvadas as situações de fraude à lei, de nepotismo cruzado ou de inequívoca ausência de qualificação técnica do nomeado. É justamente essa ressalva que costuma ser omitida em itens semelhantes, tornando-os falsos por generalização absoluta.",
+    "fundamentacaoLegal": "CF/88, art. 37, caput; Súmula Vinculante 13 do STF."
+  },
+  {
+    "id": "principios-fcx-03",
+    "topicoId": "principios",
+    "topico": "Princípios da Administração Pública",
+    "dificuldade": "extremo",
+    "enunciado": "Nas esferas administrativa, controladora e judicial, o agente público responderá pessoalmente por suas decisões ou opiniões técnicas em caso de dolo ou erro grosseiro, admitindo-se, por essa razão, que a simples divergência entre a interpretação adotada pelo agente e aquela posteriormente firmada pelo órgão de controle caracterize o erro grosseiro apto a ensejar responsabilização.",
+    "gabarito": "E",
+    "justificativa": "A expressão que torna o item falso é \"admitindo-se, por essa razão, que a simples divergência entre a interpretação adotada pelo agente e aquela posteriormente firmada pelo órgão de controle caracterize o erro grosseiro\". A primeira oração reproduz corretamente o art. 28 da LINDB, incluído pela Lei nº 13.655/2018: o agente público responderá pessoalmente por suas decisões ou opiniões técnicas em caso de dolo ou erro grosseiro. A conclusão, porém, não decorre da premissa. Erro grosseiro é o erro manifesto, evidente, inescusável, aquele que decorre de grave inobservância do dever de cuidado — não se confunde com divergência interpretativa razoável. O art. 22 da mesma LINDB reforça o ponto ao determinar que, na interpretação de normas sobre gestão pública, sejam considerados os obstáculos e as dificuldades reais do gestor e as exigências das políticas públicas a seu cargo, sem prejuízo dos direitos dos administrados. A redação correta seria a de que a mera divergência interpretativa razoável não configura erro grosseiro.",
+    "fundamentacaoLegal": "LINDB, arts. 22 e 28, incluídos pela Lei nº 13.655/2018."
+  },
+  {
+    "id": "principios-fcx-04",
+    "topicoId": "principios",
+    "topico": "Princípios da Administração Pública",
+    "dificuldade": "extremo",
+    "enunciado": "O princípio da autotutela autoriza a Administração a anular seus próprios atos quando eivados de vício de legalidade, mas o exercício dessa prerrogativa, quando o ato houver produzido efeitos favoráveis ao destinatário, submete-se a prazo decadencial e ao dever de instaurar prévio contraditório, salvo comprovada má-fé do beneficiário quanto ao prazo.",
+    "gabarito": "C",
+    "justificativa": "O item está correto e é preciso em três pontos que costumam ser confundidos. Primeiro, a autotutela é consagrada nas Súmulas 346 e 473 do STF e no art. 53 da Lei nº 9.784/1999. Segundo, o art. 54 da mesma lei fixa em cinco anos, contados da data em que praticados, o prazo decadencial para que a Administração anule atos administrativos de que decorram efeitos favoráveis aos destinatários, salvo comprovada má-fé — de modo que a ressalva final do item está correta e se refere apenas ao prazo. Terceiro, o STF firmou, em sede de repercussão geral, o entendimento de que a Administração deve observar o contraditório e a ampla defesa antes de anular ato administrativo que tenha repercutido no campo de interesses individuais, orientação que também se extrai do art. 2º, parágrafo único, X, da Lei nº 9.784/1999. Registre-se que a Súmula Vinculante 3 do STF ressalva do contraditório perante o Tribunal de Contas a apreciação da legalidade do ato de concessão inicial de aposentadoria, reforma e pensão — exceção que não se confunde com a regra geral aqui tratada.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, arts. 2º, parágrafo único, X, 53 e 54; Súmulas 346 e 473 do STF; Súmula Vinculante 3 do STF."
+  },
+  {
+    "id": "principios-fcx-05",
+    "topicoId": "principios",
+    "topico": "Princípios da Administração Pública",
+    "dificuldade": "extremo",
+    "enunciado": "A publicidade dos atos, programas, obras, serviços e campanhas dos órgãos públicos admite a divulgação de nomes, símbolos ou imagens que caracterizem promoção pessoal de autoridades ou servidores públicos, desde que custeada exclusivamente com recursos oriundos de convênio firmado com entidade privada e não com dotação orçamentária do ente.",
+    "gabarito": "E",
+    "justificativa": "A expressão que torna o item falso é \"desde que custeada exclusivamente com recursos oriundos de convênio firmado com entidade privada e não com dotação orçamentária do ente\". O art. 37, § 1º, da CF é categórico ao determinar que a publicidade dos atos, programas, obras, serviços e campanhas dos órgãos públicos deverá ter caráter educativo, informativo ou de orientação social, DELA NÃO PODENDO CONSTAR nomes, símbolos ou imagens que caracterizem promoção pessoal de autoridades ou servidores públicos. A vedação é decorrência direta do princípio da impessoalidade e não comporta a exceção inventada pelo item: a origem do recurso é juridicamente irrelevante, pois o que a norma proíbe é o desvio de finalidade consistente em converter comunicação institucional em promoção pessoal. A redação correta seria a de que a divulgação com esse conteúdo é vedada em qualquer hipótese.",
+    "fundamentacaoLegal": "CF/88, art. 37, caput e § 1º."
+  },
+  {
+    "id": "principios-fcx-06",
+    "topicoId": "principios",
+    "topico": "Princípios da Administração Pública",
+    "dificuldade": "extremo",
+    "enunciado": "A revisão, na esfera administrativa, controladora ou judicial, quanto à validade de ato, contrato, ajuste, processo ou norma administrativa cuja produção já se houver completado levará em conta as orientações gerais da época, sendo vedado que, com base em mudança posterior de orientação geral, se declarem inválidas situações plenamente constituídas.",
+    "gabarito": "C",
+    "justificativa": "O item está correto e reproduz com fidelidade o art. 24 da LINDB, incluído pela Lei nº 13.655/2018. O dispositivo é uma das mais relevantes concretizações do princípio da segurança jurídica e da proteção da confiança legítima no direito administrativo brasileiro: consagra a chamada vedação à surpresa retroativa, impedindo que o controlador julgue condutas pretéritas segundo interpretação superveniente. O parágrafo único do mesmo artigo esclarece que se consideram orientações gerais as interpretações e especificações contidas em atos públicos de caráter geral ou em jurisprudência judicial ou administrativa majoritária, bem como aquelas adotadas por prática administrativa reiterada e de amplo conhecimento público. O item resiste à leitura capciosa porque não afirma que a mudança de orientação é proibida — ela é lícita —, apenas que não pode retroagir para invalidar situações já plenamente constituídas.",
+    "fundamentacaoLegal": "LINDB, art. 24, caput e parágrafo único, incluído pela Lei nº 13.655/2018; Lei nº 9.784/1999, art. 2º, caput (princípio da segurança jurídica)."
+  },
+  {
+    "id": "principios-fcx-07",
+    "topicoId": "principios",
+    "topico": "Princípios da Administração Pública",
+    "dificuldade": "extremo",
+    "enunciado": "Determinada autoridade municipal exonerou servidor ocupante de cargo em comissão, ato de natureza discricionária que dispensaria motivação, mas consignou expressamente no ato que a exoneração se dava em razão de reprovação do servidor em avaliação periódica de desempenho, o que se revelou inverídico. Nessa situação, o ato permanece válido, pois a motivação era juridicamente dispensável e, por isso, seu conteúdo não vincula a Administração.",
+    "gabarito": "E",
+    "justificativa": "A expressão que torna o item falso é \"o ato permanece válido, pois a motivação era juridicamente dispensável e, por isso, seu conteúdo não vincula a Administração\". Aplica-se aqui a teoria dos motivos determinantes: ainda que a motivação seja dispensável, uma vez exteriorizada ela adere ao ato e passa a condicionar sua validade, de modo que a falsidade ou inexistência do motivo invocado acarreta a nulidade. É o exemplo doutrinário clássico justamente com a exoneração de servidor ocupante de cargo em comissão, que é ad nutum, mas que se torna inválida quando fundada em motivo declarado e falso. A dificuldade do item está em induzir o candidato a raciocinar apenas com a dispensabilidade da motivação, ignorando a vinculação que a declaração produz. A redação correta seria a de que o ato é nulo por vício no motivo.",
+    "fundamentacaoLegal": "Teoria dos motivos determinantes (doutrina de Celso Antônio Bandeira de Mello e Maria Sylvia Zanella Di Pietro); Lei nº 9.784/1999, arts. 2º, parágrafo único, VII, e 50; CF/88, art. 37, II, parte final."
+  },
+  {
+    "id": "principios-fcx-08",
+    "topicoId": "principios",
+    "topico": "Princípios da Administração Pública",
+    "dificuldade": "extremo",
+    "enunciado": "O princípio da eficiência, embora já reconhecido pela doutrina anteriormente, foi expressamente incorporado ao caput do art. 37 da Constituição Federal pela Emenda Constitucional nº 19/1998, e sua invocação isolada não autoriza o administrador a afastar a exigência de licitação, cuja dispensa depende de hipótese legalmente prevista.",
+    "gabarito": "C",
+    "justificativa": "O item está correto em ambas as afirmações. A EC nº 19/1998, no contexto da chamada Reforma Administrativa Gerencial, acrescentou a eficiência ao rol de princípios expressos do caput do art. 37 da CF, que passou a contemplar legalidade, impessoalidade, moralidade, publicidade e eficiência — o mnemônico LIMPE. Quanto à segunda parte, a eficiência não tem força para derrogar a exigência constitucional de licitação do art. 37, XXI, da CF: as hipóteses de contratação direta são taxativas e estão previstas em lei, nos arts. 74 e 75 da Lei nº 14.133/2021, referentes respectivamente à inexigibilidade e à dispensa. Admitir o contrário permitiria que qualquer contratação direta fosse justificada por alegação genérica de agilidade, esvaziando o dever de licitar. O item resiste à leitura capciosa porque não nega eficácia ao princípio, apenas afirma que sua invocação isolada não cria hipótese de contratação direta.",
+    "fundamentacaoLegal": "CF/88, art. 37, caput, com a redação da EC nº 19/1998, e art. 37, XXI; Lei nº 14.133/2021, arts. 74 e 75."
+  },
+  {
+    "id": "principios-fcx-09",
+    "topicoId": "principios",
+    "topico": "Princípios da Administração Pública",
+    "dificuldade": "extremo",
+    "enunciado": "O princípio da legalidade, no direito administrativo, traduz-se em vinculação positiva à lei, de modo que a Administração só pode agir quando autorizada; já para o particular vigora a vinculação negativa, podendo fazer tudo o que a lei não proíba. Por decorrência dessa vinculação positiva, o regulamento editado para dar fiel execução à lei pode inovar na ordem jurídica sempre que a lei regulamentada for omissa quanto a aspectos operacionais.",
+    "gabarito": "E",
+    "justificativa": "A expressão que torna o item falso é \"pode inovar na ordem jurídica sempre que a lei regulamentada for omissa quanto a aspectos operacionais\". A primeira parte do item está correta: a Administração submete-se à vinculação positiva à lei, extraída do art. 37, caput, da CF, enquanto o particular se rege pela vinculação negativa do art. 5º, II, da CF. Mas a conclusão contraria justamente essa premissa. O regulamento de execução, previsto no art. 84, IV, da CF, destina-se a viabilizar a fiel execução da lei e não pode criar direitos, obrigações ou restrições novas; se o fizer, exorbita do poder regulamentar e sujeita-se à sustação pelo Congresso Nacional, nos termos do art. 49, V, da CF. A única hipótese de regulamento autônomo admitida no texto constitucional está no art. 84, VI, restrita à organização e ao funcionamento da administração federal quando não implicar aumento de despesa nem criação ou extinção de órgãos públicos, e à extinção de funções ou cargos públicos quando vagos. A redação correta seria a de que o regulamento executivo não inova na ordem jurídica.",
+    "fundamentacaoLegal": "CF/88, art. 5º, II; art. 37, caput; art. 49, V; art. 84, IV e VI."
+  },
+  {
+    "id": "principios-fcx-10",
+    "topicoId": "principios",
+    "topico": "Princípios da Administração Pública",
+    "dificuldade": "extremo",
+    "enunciado": "Ao decidir com base em valores jurídicos abstratos, a autoridade administrativa deve considerar as consequências práticas da decisão, e a motivação demonstrará a necessidade e a adequação da medida imposta, inclusive em face das possíveis alternativas, exigência que se aplica igualmente às esferas controladora e judicial.",
+    "gabarito": "C",
+    "justificativa": "O item está correto e sintetiza o art. 20, caput e parágrafo único, da LINDB, incluído pela Lei nº 13.655/2018, que expressamente alcança as esferas administrativa, controladora e judicial. O dispositivo consagra o chamado consequencialismo jurídico e impõe motivação qualificada quando a decisão se apoiar em valores jurídicos abstratos — como interesse público, moralidade ou eficiência —, exigindo demonstração da necessidade e da adequação da medida e exame comparativo das alternativas disponíveis. Trata-se de concretização legal dos princípios da proporcionalidade e da motivação. Um detalhe que costuma ser explorado em itens falsos é restringir a exigência apenas à Administração: o texto legal é expresso ao abranger também o controlador e o juiz, e é por isso que o item, tal como redigido, é verdadeiro.",
+    "fundamentacaoLegal": "LINDB, art. 20, caput e parágrafo único, incluído pela Lei nº 13.655/2018; Lei nº 9.784/1999, arts. 2º, caput e parágrafo único, VI, e 50."
+  }
+]

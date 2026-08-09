@@ -1,0 +1,102 @@
+[
+  {
+    "id": "estado-administracao-fcx-01",
+    "topicoId": "estado-administracao",
+    "topico": "Estado, governo e Administração Pública",
+    "dificuldade": "extremo",
+    "enunciado": "Determinado município foi criado por lei estadual publicada em 2005, sem que houvesse lei complementar federal fixando o período dentro do qual poderia ocorrer o desmembramento, e teve sua instalação efetivada no mesmo ano. Nessa situação, por se tratar de vício de inconstitucionalidade formal insanável, a criação do ente permanece nula, ainda que o Congresso Nacional tenha posteriormente editado emenda constitucional destinada a convalidar situações semelhantes.",
+    "gabarito": "E",
+    "justificativa": "A expressão que torna o item falso é \"permanece nula, ainda que o Congresso Nacional tenha posteriormente editado emenda constitucional destinada a convalidar situações semelhantes\". A Emenda Constitucional nº 57/2008 acrescentou o art. 96 ao ADCT justamente para convalidar os atos de criação, fusão, incorporação e desmembramento de municípios cuja lei tenha sido publicada até 31 de dezembro de 2006, atendidos os requisitos estabelecidos na legislação do respectivo Estado à época de sua criação. Um município criado em 2005 está, portanto, dentro do marco temporal da convalidação. O contexto é o do art. 18, § 4º, da CF, na redação da EC nº 15/1996, que passou a exigir lei complementar federal fixando o período para criação de municípios, além de estudos de viabilidade municipal e consulta plebiscitária — lei complementar que nunca foi editada, o que levou o STF a reconhecer a mora legislativa do Congresso Nacional na ADI 3.682. A redação correta seria a de que a criação foi convalidada pelo art. 96 do ADCT.",
+    "fundamentacaoLegal": "CF/88, art. 18, § 4º, com a redação da EC nº 15/1996; art. 96 do ADCT, incluído pela EC nº 57/2008; STF, ADI 3.682 (mora legislativa do Congresso Nacional)."
+  },
+  {
+    "id": "estado-administracao-fcx-02",
+    "topicoId": "estado-administracao",
+    "topico": "Estado, governo e Administração Pública",
+    "dificuldade": "extremo",
+    "enunciado": "A distinção entre interesse público primário e secundário, difundida a partir da obra de Renato Alessi, permite afirmar que o interesse da Fazenda Pública em reduzir o valor de uma indenização devida ao particular configura interesse secundário, o qual somente pode ser legitimamente perseguido pela Administração quando coincidir com o interesse primário da coletividade.",
+    "gabarito": "C",
+    "justificativa": "O item está correto e resiste à leitura mais capciosa. O interesse público primário é o interesse da coletividade como um todo, enquanto o secundário é o interesse patrimonial do Estado enquanto pessoa jurídica — o chamado interesse do erário. A doutrina majoritária, seguindo Alessi e desenvolvida entre nós por Celso Antônio Bandeira de Mello, sustenta que o interesse secundário não é legítimo por si só: a Administração só pode persegui-lo na medida em que sua realização coincida com o interesse primário. Daí por que economizar recursos públicos é legítimo, mas não ao custo de negar ao particular indenização a que faz jus. É essa distinção que fundamenta, por exemplo, a atuação da Advocacia Pública na celebração de acordos e o reconhecimento de procedência do pedido em causas manifestamente perdidas, em vez da litigância indiscriminada.",
+    "fundamentacaoLegal": "Doutrina de Renato Alessi, difundida por Celso Antônio Bandeira de Mello (interesse público primário x secundário); CF/88, art. 37, caput; LINDB, arts. 26 e 27, incluídos pela Lei nº 13.655/2018."
+  },
+  {
+    "id": "estado-administracao-fcx-03",
+    "topicoId": "estado-administracao",
+    "topico": "Estado, governo e Administração Pública",
+    "dificuldade": "extremo",
+    "enunciado": "A competência da União para legislar sobre normas gerais de licitação e contratação é privativa, mas admite delegação a Estados e ao Distrito Federal, por lei complementar, para questões específicas, de modo que a edição de norma estadual sobre licitação, fora dessa hipótese de delegação, é sempre inconstitucional por invasão de competência.",
+    "gabarito": "E",
+    "justificativa": "A expressão que torna o item falso é \"de modo que a edição de norma estadual sobre licitação, fora dessa hipótese de delegação, é sempre inconstitucional por invasão de competência\". As duas primeiras orações estão corretas — a competência para normas gerais de licitação é privativa da União (art. 22, XXVII, da CF) e o parágrafo único do art. 22 permite que lei complementar autorize os Estados a legislar sobre questões específicas das matérias do artigo. O erro está na conclusão: como a competência privativa da União se restringe às NORMAS GERAIS, os demais entes federados conservam competência para legislar suplementarmente sobre normas específicas de licitação no âmbito de suas próprias administrações, independentemente de delegação. Esse é justamente o desenho adotado pela Lei nº 14.133/2021, que se apresenta como norma geral aplicável às Administrações diretas, autárquicas e fundacionais da União, dos Estados, do Distrito Federal e dos Municípios. A redação correta seria a de que os demais entes podem editar normas específicas, respeitadas as normas gerais federais.",
+    "fundamentacaoLegal": "CF/88, art. 22, XXVII, e parágrafo único; art. 37, XXI; Lei nº 14.133/2021, art. 1º."
+  },
+  {
+    "id": "estado-administracao-fcx-04",
+    "topicoId": "estado-administracao",
+    "topico": "Estado, governo e Administração Pública",
+    "dificuldade": "extremo",
+    "enunciado": "A descentralização política não se confunde com a descentralização administrativa: a primeira decorre diretamente da Constituição e atribui ao ente descentralizado capacidade legislativa própria, ao passo que a segunda pressupõe a existência de um ente central que transfere a execução de atividades a pessoa jurídica distinta, sem outorga de competência legislativa autônoma.",
+    "gabarito": "C",
+    "justificativa": "O item está correto. A descentralização política é a que caracteriza a forma federativa de Estado: os entes federados — União, Estados, Distrito Federal e Municípios — recebem competências diretamente da Constituição, inclusive competência legislativa, e por isso são dotados de autonomia, que não se confunde com soberania (atributo exclusivo da República Federativa do Brasil no plano internacional). Já a descentralização administrativa opera dentro de cada ente e transfere apenas a titularidade ou a execução de atividades administrativas a pessoa jurídica diversa — seja por outorga legal, criando entidades da Administração indireta, seja por delegação negocial, como nas concessões e permissões de serviço público. A entidade descentralizada administrativamente não legisla: submete-se à lei do ente que a criou. A pegadinha típica é apresentar a autonomia dos entes federados como soberania ou atribuir capacidade legislativa a autarquias.",
+    "fundamentacaoLegal": "CF/88, arts. 1º, 18 e 25 a 30; Decreto-Lei nº 200/1967, arts. 4º e 5º; doutrina de Maria Sylvia Zanella Di Pietro e José dos Santos Carvalho Filho."
+  },
+  {
+    "id": "estado-administracao-fcx-05",
+    "topicoId": "estado-administracao",
+    "topico": "Estado, governo e Administração Pública",
+    "dificuldade": "extremo",
+    "enunciado": "O regime jurídico-administrativo é integrado tanto por prerrogativas quanto por sujeições, de modo que a mesma supremacia que autoriza a Administração a alterar unilateralmente o contrato administrativo impede que ela disponha livremente do interesse público, sendo essa indisponibilidade o fundamento pelo qual a Administração não pode transacionar em nenhuma hipótese sobre direitos patrimoniais controvertidos.",
+    "gabarito": "E",
+    "justificativa": "A expressão que torna o item falso é \"não pode transacionar em nenhuma hipótese sobre direitos patrimoniais controvertidos\". As premissas iniciais estão corretas: o regime jurídico-administrativo compõe-se de prerrogativas (como as cláusulas exorbitantes) e de sujeições (como a licitação e a motivação), e suas pedras de toque são a supremacia do interesse público e a indisponibilidade do interesse público. O erro está na consequência extraída: a indisponibilidade não significa vedação absoluta à autocomposição. A própria LINDB, no art. 26, incluído pela Lei nº 13.655/2018, autoriza a autoridade administrativa a celebrar compromisso com os interessados para eliminar irregularidade, incerteza jurídica ou situação contenciosa, mediante consulta pública e sem desonerar o agente de responsabilidade. Na mesma linha, a Lei nº 13.140/2015 disciplina a autocomposição de conflitos no âmbito da Administração Pública, e a Lei nº 8.429/1992, após a Lei nº 14.230/2021, passou a admitir expressamente o acordo de não persecução civil (art. 17-B). A redação correta seria a de que a transação é admitida nas hipóteses e formas previstas em lei.",
+    "fundamentacaoLegal": "LINDB, art. 26, incluído pela Lei nº 13.655/2018; Lei nº 13.140/2015; Lei nº 8.429/1992, art. 17-B, incluído pela Lei nº 14.230/2021; Lei nº 14.133/2021, art. 151."
+  },
+  {
+    "id": "estado-administracao-fcx-06",
+    "topicoId": "estado-administracao",
+    "topico": "Estado, governo e Administração Pública",
+    "dificuldade": "extremo",
+    "enunciado": "Empresa pública que explore atividade econômica em regime concorrencial sujeita-se ao regime jurídico próprio das empresas privadas quanto aos direitos e obrigações civis, comerciais, trabalhistas e tributários, razão pela qual não lhe é dado invocar a imunidade tributária recíproca, ainda que a totalidade de seu capital social pertença a ente federado.",
+    "gabarito": "C",
+    "justificativa": "O item está correto e a dificuldade está em não confundir as duas situações possíveis das estatais. O art. 173, § 1º, II, e § 2º, da CF submete as empresas públicas e sociedades de economia mista exploradoras de atividade econômica ao regime jurídico próprio das empresas privadas e veda que gozem de privilégios fiscais não extensivos às do setor privado. A imunidade recíproca do art. 150, VI, \"a\", da CF é estendida pelo § 2º do mesmo artigo apenas às autarquias e fundações públicas, no que se refere ao patrimônio, à renda e aos serviços vinculados a suas finalidades essenciais. O ponto que costuma derrubar o candidato é o inverso deste item: o STF reconhece a imunidade recíproca a estatais que prestem serviço público em regime NÃO concorrencial, sem finalidade primordial de lucro e sem distribuição de resultados a acionistas privados — foi assim quanto à Empresa Brasileira de Correios e Telégrafos e a entidades de saúde de capital majoritariamente público. Como o item delimitou expressamente a hipótese ao regime concorrencial, o julgamento é CERTO.",
+    "fundamentacaoLegal": "CF/88, art. 150, VI, \"a\", e §§ 2º e 3º; art. 173, § 1º, II, e § 2º; Lei nº 13.303/2016, art. 1º."
+  },
+  {
+    "id": "estado-administracao-fcx-07",
+    "topicoId": "estado-administracao",
+    "topico": "Estado, governo e Administração Pública",
+    "dificuldade": "extremo",
+    "enunciado": "Considerada a tripartição de funções estatais, a fixação, pelo Senado Federal, das alíquotas máximas do imposto sobre transmissão causa mortis e doação constitui exercício de função atípica de natureza administrativa, uma vez que se materializa por resolução, e não por lei em sentido formal.",
+    "gabarito": "E",
+    "justificativa": "A expressão que torna o item falso é \"função atípica de natureza administrativa, uma vez que se materializa por resolução, e não por lei em sentido formal\". A fixação, por resolução do Senado, das alíquotas máximas do ITCMD é prevista no art. 155, § 1º, IV, da CF e constitui exercício de função TÍPICA do Poder Legislativo — a função normativa —, pois a resolução é espécie normativa primária arrolada no art. 59, VII, da CF, com fundamento de validade retirado diretamente da Constituição. Não se trata de ato administrativo. Exemplos verdadeiros de função atípica administrativa do Legislativo são a realização de concurso público para prover seus próprios cargos e a licitação para suas contratações, previstas nos arts. 51, IV, e 52, XIII, da CF; e exemplo de função atípica jurisdicional é o julgamento do Presidente da República nos crimes de responsabilidade, pelo Senado, nos termos do art. 52, I. A redação correta seria a de que se trata de função típica normativa.",
+    "fundamentacaoLegal": "CF/88, art. 2º; art. 59, VII; art. 155, § 1º, IV; arts. 51, IV, e 52, I e XIII."
+  },
+  {
+    "id": "estado-administracao-fcx-08",
+    "topicoId": "estado-administracao",
+    "topico": "Estado, governo e Administração Pública",
+    "dificuldade": "extremo",
+    "enunciado": "A gestão associada de serviços públicos, autorizada pelo art. 241 da Constituição Federal, pressupõe autorização legislativa de cada ente consorciado para a subscrição do protocolo de intenções, e a transferência de encargos, serviços, pessoal e bens entre os entes só é admitida quando expressamente prevista no instrumento de consórcio.",
+    "gabarito": "C",
+    "justificativa": "O item está correto. O art. 241 da CF determina que a União, os Estados, o Distrito Federal e os Municípios disciplinarão por meio de lei os consórcios públicos e os convênios de cooperação entre os entes federados, autorizando a gestão associada de serviços públicos, bem como a transferência total ou parcial de encargos, serviços, pessoal e bens essenciais à continuidade dos serviços transferidos. A Lei nº 11.107/2005 regulamentou o dispositivo e estabeleceu que o consórcio público é constituído por contrato cuja celebração depende de prévia subscrição de protocolo de intenções, o qual deve ser ratificado por lei de cada ente consorciado. Vale registrar que a lei dispensa a ratificação legislativa do ente que, antes de subscrever o protocolo de intenções, já disciplinar por lei sua participação no consórcio. A pegadinha clássica sobre o tema é confundir o contrato de rateio — instrumento pelo qual os entes entregam recursos ao consórcio, formalizado a cada exercício financeiro — com o contrato de programa, que disciplina obrigações de prestação de serviços.",
+    "fundamentacaoLegal": "CF/88, art. 241; Lei nº 11.107/2005, arts. 3º a 5º, 8º e 13."
+  },
+  {
+    "id": "estado-administracao-fcx-09",
+    "topicoId": "estado-administracao",
+    "topico": "Estado, governo e Administração Pública",
+    "dificuldade": "extremo",
+    "enunciado": "Em sentido objetivo, material ou funcional, a Administração Pública compreende o conjunto de órgãos e pessoas jurídicas incumbidos constitucionalmente do exercício da função administrativa, ao passo que, em sentido subjetivo, formal ou orgânico, designa a própria atividade administrativa desempenhada pelo Estado.",
+    "gabarito": "E",
+    "justificativa": "O item inverte deliberadamente as duas acepções, e essa inversão é a expressão que o torna falso. Em sentido SUBJETIVO, formal ou orgânico, Administração Pública designa o conjunto de órgãos, agentes e pessoas jurídicas incumbidos do exercício da função administrativa — é o \"quem\". Em sentido OBJETIVO, material ou funcional, designa a própria atividade administrativa exercida pelo Estado, isto é, o fomento, a polícia administrativa, o serviço público e a intervenção — é o \"o quê\". Convencionou-se, na doutrina, grafar Administração Pública com iniciais maiúsculas quando empregada em sentido subjetivo e com iniciais minúsculas quando em sentido objetivo. A redação correta seria exatamente a inversa da apresentada no item.",
+    "fundamentacaoLegal": "Doutrina de Maria Sylvia Zanella Di Pietro e de José dos Santos Carvalho Filho; Decreto-Lei nº 200/1967, arts. 4º e 5º."
+  },
+  {
+    "id": "estado-administracao-fcx-10",
+    "topicoId": "estado-administracao",
+    "topico": "Estado, governo e Administração Pública",
+    "dificuldade": "extremo",
+    "enunciado": "Segundo a jurisprudência do Supremo Tribunal Federal, a circunstância de determinado ato ser qualificado como ato de governo, ou ato político, não o subtrai por completo ao controle jurisdicional, que permanece cabível quanto à observância dos limites constitucionais de competência e de forma, ainda que vedado ao Judiciário substituir o juízo político de conveniência da autoridade.",
+    "gabarito": "C",
+    "justificativa": "O item está correto. Atos de governo, ou atos políticos, são os praticados no exercício de competência constitucional diretamente atribuída, com ampla margem de discricionariedade política — como a sanção e o veto de projetos de lei, a decretação de estado de defesa e a nomeação de Ministros. A doutrina clássica os tratava como imunes ao controle judicial, mas prevalece hoje o entendimento, alinhado ao princípio da inafastabilidade da jurisdição do art. 5º, XXXV, da CF, de que nenhum ato estatal é integralmente insindicável: o Judiciário pode verificar a competência, a forma e a observância dos pressupostos constitucionais, sem, contudo, substituir o mérito político da escolha. A formulação do item resiste à leitura capciosa justamente porque delimita o controle aos limites constitucionais e ressalva expressamente a vedação de substituição do juízo político — que é o ponto em que itens semelhantes costumam se tornar falsos, ao afirmar que o Judiciário poderia reavaliar a conveniência da decisão.",
+    "fundamentacaoLegal": "CF/88, art. 5º, XXXV; LINDB, arts. 20 e 22, incluídos pela Lei nº 13.655/2018; doutrina de Celso Antônio Bandeira de Mello e Maria Sylvia Zanella Di Pietro."
+  }
+]
