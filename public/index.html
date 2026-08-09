@@ -45,9 +45,14 @@
           <label><input type="radio" name="dificuldade" value="dificil" /> Somente difícil</label>
         </div>
       </div>
-      <p class="field-note hidden" id="notaFlashcardsDificuldade">
-        Todos os flashcards CEBRASPE deste banco são de dificuldade difícil.
-      </p>
+      <div class="field hidden" id="campoNivel">
+        <label>Nível</label>
+        <div class="radio-group" id="nivelGroup">
+          <label><input type="radio" name="nivel" value="extremo" checked /> Extremo <small>— nível fiscal/delegado</small></label>
+          <label><input type="radio" name="nivel" value="dificil" /> Difícil</label>
+          <label><input type="radio" name="nivel" value="todos" /> Todos os níveis</label>
+        </div>
+      </div>
 
       <div class="field">
         <div class="field__header">
@@ -70,9 +75,11 @@
         conteúdo.
       </p>
       <p class="disclaimer hidden" id="disclaimerFlashcards">
-        Banco fixo de 10 flashcards difíceis por tópico (200 no total),
-        elaborados para reproduzir o padrão de item único Certo/Errado da
-        banca CEBRASPE. Não são itens reais de provas aplicadas — use como
+        Banco fixo de 20 flashcards por tópico (400 no total) no padrão de
+        item único Certo/Errado da banca CEBRASPE: 10 de nível difícil e 10
+        de nível <strong>extremo</strong>, este último calibrado em 28
+        provas reais de concursos fiscais e de delegado (CEBRASPE, FCC, FGV,
+        ESAF e VUNESP). Não são itens reais de provas aplicadas — use como
         treino complementar de estilo e conteúdo.
       </p>
     </aside>
@@ -125,7 +132,7 @@
           <span class="badge badge--banca badge--banca-cebraspe">CEBRASPE (estilo)</span>
           <span class="badge badge--cargo">Auditor Fiscal · Campina Grande/PB · 2026</span>
           <span id="fcBadgeTopico" class="badge badge--topico"></span>
-          <span class="badge badge--dificuldade">Difícil</span>
+          <span id="fcBadgeDificuldade" class="badge badge--dificuldade"></span>
           <span id="fcBadgeReiniciado" class="badge badge--info hidden" title="Você já viu todos os flashcards desse filtro; o ciclo recomeçou.">Ciclo reiniciado</span>
         </div>
 

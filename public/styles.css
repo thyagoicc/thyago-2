@@ -193,6 +193,9 @@ body {
 .badge--dificuldade { background: #fde8e8; color: #a11c1c; }
 .badge--info { background: #e6f0fb; color: #1b4f9c; }
 .badge--banca-cebraspe { background: #6b2fa3; }
+.badge--extremo { background: #7a1010; color: #fff; }
+
+.radio-group small { color: var(--cinza-texto); }
 
 .questao-card__enunciado {
   font-size: 15.5px; line-height: 1.6; color: var(--texto-escuro);

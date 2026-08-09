@@ -3,13 +3,20 @@
 // no escopo global (injetados pelo scripts/build-html.js antes deste
 // arquivo).
 
-const MAX_VISTAS = 600;
+const MAX_VISTAS = 1200;
+const DIFICULDADES = ["media", "dificil", "extremo"];
+
+const ROTULO_DIFICULDADE = {
+  media: "Média",
+  dificil: "Difícil",
+  extremo: "Extremo",
+};
 
 const el = {
   tabQuestoes: document.getElementById("tabQuestoes"),
   tabFlashcards: document.getElementById("tabFlashcards"),
   campoDificuldade: document.getElementById("campoDificuldade"),
-  notaFlashcardsDificuldade: document.getElementById("notaFlashcardsDificuldade"),
+  campoNivel: document.getElementById("campoNivel"),
   disclaimerQuestoes: document.getElementById("disclaimerQuestoes"),
   disclaimerFlashcards: document.getElementById("disclaimerFlashcards"),
   topicosList: document.getElementById("topicosList"),
@@ -33,6 +40,7 @@ const el = {
   fundamentacao: document.getElementById("fundamentacao"),
   fcCard: document.getElementById("flashcardCard"),
   fcBadgeTopico: document.getElementById("fcBadgeTopico"),
+  fcBadgeDificuldade: document.getElementById("fcBadgeDificuldade"),
   fcBadgeReiniciado: document.getElementById("fcBadgeReiniciado"),
   fcEnunciado: document.getElementById("fcEnunciado"),
   btnCerto: document.getElementById("btnCerto"),
@@ -98,35 +106,42 @@ function registrarVista(id) {
   localStorage.setItem(chaveVistas(), JSON.stringify(vistas));
 }
 
+function getNivelSelecionado() {
+  return document.querySelector('input[name="nivel"]:checked').value;
+}
+
+function getDificuldadeSelecionada() {
+  return document.querySelector('input[name="dificuldade"]:checked').value;
+}
+
+/** Quantos itens o tópico oferece no modo e no filtro de nível atuais. */
+function contarTopico(topicoId) {
+  const itens = modo === "flashcards" ? FLASHCARDS[topicoId] || [] : BANCO[topicoId] || [];
+  const filtro = modo === "flashcards" ? getNivelSelecionado() : getDificuldadeSelecionada();
+  if (!DIFICULDADES.includes(filtro)) return itens.length;
+  return itens.filter((i) => i.dificuldade === filtro).length;
+}
+
 function carregarTopicos() {
   el.topicosList.innerHTML = "";
   TOPICOS.forEach((t) => {
-    const totalQuestoes = (BANCO[t.id] || []).length;
-    const totalFlashcards = (FLASHCARDS[t.id] || []).length;
-    const total = modo === "flashcards" ? totalFlashcards : totalQuestoes;
     const label = document.createElement("label");
     label.className = "topico-item";
     label.title = t.descricao;
-    label.dataset.totalQuestoes = totalQuestoes;
-    label.dataset.totalFlashcards = totalFlashcards;
-    label.innerHTML = `<input type="checkbox" value="${t.id}" checked /> <span class="topico-item__nome">${t.nome}</span> <small class="topico-item__total">(${total})</small>`;
+    label.innerHTML = `<input type="checkbox" value="${t.id}" checked /> <span class="topico-item__nome">${t.nome}</span> <small class="topico-item__total">(${contarTopico(t.id)})</small>`;
     el.topicosList.appendChild(label);
   });
 }
 
 function atualizarContagemTopicos() {
   el.topicosList.querySelectorAll(".topico-item").forEach((label) => {
-    const total = modo === "flashcards" ? label.dataset.totalFlashcards : label.dataset.totalQuestoes;
-    label.querySelector(".topico-item__total").textContent = `(${total})`;
+    const id = label.querySelector("input").value;
+    label.querySelector(".topico-item__total").textContent = `(${contarTopico(id)})`;
   });
 }
 
 function getTopicosSelecionados() {
   return Array.from(el.topicosList.querySelectorAll("input[type=checkbox]:checked")).map((i) => i.value);
-}
-
-function getDificuldadeSelecionada() {
-  return document.querySelector('input[name="dificuldade"]:checked').value;
 }
 
 function setState(state) {
@@ -144,7 +159,7 @@ function trocarModo(novoModo) {
   el.tabQuestoes.classList.toggle("active", modo === "questoes");
   el.tabFlashcards.classList.toggle("active", modo === "flashcards");
   el.campoDificuldade.classList.toggle("hidden", modo === "flashcards");
-  el.notaFlashcardsDificuldade.classList.toggle("hidden", modo !== "flashcards");
+  el.campoNivel.classList.toggle("hidden", modo !== "flashcards");
   el.disclaimerQuestoes.classList.toggle("hidden", modo !== "questoes");
   el.disclaimerFlashcards.classList.toggle("hidden", modo !== "flashcards");
   el.btnGerar.textContent = modo === "flashcards" ? "Sortear flashcard" : "Sortear questão";
@@ -160,7 +175,7 @@ function sortear(banco, { topicoIds, dificuldade, excluirIds }) {
 
   let candidatas = idsAlvo.flatMap((id) => banco[id] || []);
 
-  if (dificuldade === "media" || dificuldade === "dificil") {
+  if (DIFICULDADES.includes(dificuldade)) {
     candidatas = candidatas.filter((q) => q.dificuldade === dificuldade);
   }
 
@@ -183,13 +198,12 @@ function gerar() {
 
   const topicoIds = getTopicosSelecionados();
   const excluirIds = carregarVistas();
+  const banco = modo === "flashcards" ? FLASHCARDS : BANCO;
+  const dificuldade = modo === "flashcards" ? getNivelSelecionado() : getDificuldadeSelecionada();
 
   // pequeno atraso artificial só para dar feedback visual de "buscando"
   setTimeout(() => {
-    const data =
-      modo === "flashcards"
-        ? sortear(FLASHCARDS, { topicoIds, dificuldade: "dificil", excluirIds })
-        : sortear(BANCO, { topicoIds, dificuldade: getDificuldadeSelecionada(), excluirIds });
+    const data = sortear(banco, { topicoIds, dificuldade, excluirIds });
 
     if (!data) {
       el.erro.textContent = `Não há ${modo === "flashcards" ? "flashcards" : "questões"} cadastrados para os filtros selecionados.`;
@@ -217,7 +231,8 @@ function gerar() {
 
 function renderQuestao(q) {
   el.badgeTopico.textContent = q.topico || "Direito Administrativo";
-  el.badgeDificuldade.textContent = q.dificuldade === "dificil" ? "Difícil" : "Média";
+  el.badgeDificuldade.textContent = ROTULO_DIFICULDADE[q.dificuldade] || q.dificuldade;
+  el.badgeDificuldade.classList.toggle("badge--extremo", q.dificuldade === "extremo");
   el.enunciado.textContent = q.enunciado;
 
   document.getElementById("badgeReiniciado").classList.toggle("hidden", !q.reiniciado);
@@ -279,6 +294,8 @@ function responder() {
 
 function renderFlashcard(fc) {
   el.fcBadgeTopico.textContent = fc.topico || "Direito Administrativo";
+  el.fcBadgeDificuldade.textContent = ROTULO_DIFICULDADE[fc.dificuldade] || fc.dificuldade;
+  el.fcBadgeDificuldade.classList.toggle("badge--extremo", fc.dificuldade === "extremo");
   el.fcBadgeReiniciado.classList.toggle("hidden", !fc.reiniciado);
   el.fcEnunciado.textContent = fc.enunciado;
 
@@ -326,6 +343,8 @@ function julgarFlashcard(julgamento) {
 
 el.tabQuestoes.addEventListener("click", () => trocarModo("questoes"));
 el.tabFlashcards.addEventListener("click", () => trocarModo("flashcards"));
+document.getElementById("nivelGroup").addEventListener("change", atualizarContagemTopicos);
+document.getElementById("dificuldadeGroup").addEventListener("change", atualizarContagemTopicos);
 
 el.btnTodos.addEventListener("click", () => {
   el.topicosList.querySelectorAll("input[type=checkbox]").forEach((i) => (i.checked = true));

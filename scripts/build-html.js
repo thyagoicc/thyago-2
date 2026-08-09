@@ -14,23 +14,25 @@ import { TOPICOS } from "../lib/topicos.js";
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.join(__dirname, "..");
 
-function montarBanco(subpasta) {
+function montarBanco(subpastas) {
   const banco = {};
   for (const topico of TOPICOS) {
-    const arquivo = path.join(ROOT, "data", subpasta, `${topico.id}.json`);
-    if (!fs.existsSync(arquivo)) {
-      console.warn(`AVISO: banco de "${subpasta}" ausente para "${topico.id}"`);
-      banco[topico.id] = [];
-      continue;
+    banco[topico.id] = [];
+    for (const subpasta of subpastas) {
+      const arquivo = path.join(ROOT, "data", subpasta, `${topico.id}.json`);
+      if (!fs.existsSync(arquivo)) {
+        console.warn(`AVISO: banco de "${subpasta}" ausente para "${topico.id}"`);
+        continue;
+      }
+      banco[topico.id].push(...JSON.parse(fs.readFileSync(arquivo, "utf8")));
     }
-    banco[topico.id] = JSON.parse(fs.readFileSync(arquivo, "utf8"));
   }
   return banco;
 }
 
 function build() {
-  const banco = montarBanco("questoes");
-  const flashcards = montarBanco("flashcards");
+  const banco = montarBanco(["questoes"]);
+  const flashcards = montarBanco(["flashcards", "flashcards-extremo"]);
   const totalQuestoes = Object.values(banco).reduce((acc, arr) => acc + arr.length, 0);
   const totalFlashcards = Object.values(flashcards).reduce((acc, arr) => acc + arr.length, 0);
 

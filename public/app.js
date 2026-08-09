@@ -1,10 +1,16 @@
-const MAX_VISTAS = 600;
+const MAX_VISTAS = 1200;
+
+const ROTULO_DIFICULDADE = {
+  media: "Média",
+  dificil: "Difícil",
+  extremo: "Extremo",
+};
 
 const el = {
   tabQuestoes: document.getElementById("tabQuestoes"),
   tabFlashcards: document.getElementById("tabFlashcards"),
   campoDificuldade: document.getElementById("campoDificuldade"),
-  notaFlashcardsDificuldade: document.getElementById("notaFlashcardsDificuldade"),
+  campoNivel: document.getElementById("campoNivel"),
   disclaimerQuestoes: document.getElementById("disclaimerQuestoes"),
   disclaimerFlashcards: document.getElementById("disclaimerFlashcards"),
   topicosList: document.getElementById("topicosList"),
@@ -28,6 +34,7 @@ const el = {
   fundamentacao: document.getElementById("fundamentacao"),
   fcCard: document.getElementById("flashcardCard"),
   fcBadgeTopico: document.getElementById("fcBadgeTopico"),
+  fcBadgeDificuldade: document.getElementById("fcBadgeDificuldade"),
   fcBadgeReiniciado: document.getElementById("fcBadgeReiniciado"),
   fcEnunciado: document.getElementById("fcEnunciado"),
   btnCerto: document.getElementById("btnCerto"),
@@ -44,6 +51,7 @@ const el = {
 };
 
 let modo = "questoes"; // "questoes" | "flashcards"
+let topicosCache = [];
 let questaoAtual = null;
 let alternativaSelecionada = null;
 let respondida = false;
@@ -93,35 +101,47 @@ function registrarVista(id) {
   localStorage.setItem(chaveVistas(), JSON.stringify(vistas));
 }
 
+function getNivelSelecionado() {
+  return document.querySelector('input[name="nivel"]:checked').value;
+}
+
+function getDificuldadeSelecionada() {
+  return document.querySelector('input[name="dificuldade"]:checked').value;
+}
+
+/** Quantos itens o tópico oferece no modo e no filtro de nível atuais. */
+function contarTopico(topico) {
+  if (modo === "flashcards") {
+    const nivel = getNivelSelecionado();
+    return nivel === "todos" ? topico.flashcards.total : topico.flashcards[nivel] || 0;
+  }
+  const dificuldade = getDificuldadeSelecionada();
+  return dificuldade === "aleatoria" ? topico.questoes.total : topico.questoes[dificuldade] || 0;
+}
+
 async function carregarTopicos() {
   const res = await fetch("/api/topicos");
-  const topicos = await res.json();
+  topicosCache = await res.json();
   el.topicosList.innerHTML = "";
-  topicos.forEach((t) => {
-    const total = modo === "flashcards" ? t.totalFlashcards : t.totalQuestoes;
+  topicosCache.forEach((t) => {
     const label = document.createElement("label");
     label.className = "topico-item";
     label.title = t.descricao;
-    label.dataset.totalQuestoes = t.totalQuestoes;
-    label.dataset.totalFlashcards = t.totalFlashcards;
-    label.innerHTML = `<input type="checkbox" value="${t.id}" checked /> <span class="topico-item__nome">${t.nome}</span> <small class="topico-item__total">(${total})</small>`;
+    label.innerHTML = `<input type="checkbox" value="${t.id}" checked /> <span class="topico-item__nome">${t.nome}</span> <small class="topico-item__total">(${contarTopico(t)})</small>`;
     el.topicosList.appendChild(label);
   });
 }
 
 function atualizarContagemTopicos() {
-  el.topicosList.querySelectorAll(".topico-item").forEach((label) => {
-    const total = modo === "flashcards" ? label.dataset.totalFlashcards : label.dataset.totalQuestoes;
-    label.querySelector(".topico-item__total").textContent = `(${total})`;
+  el.topicosList.querySelectorAll(".topico-item").forEach((label, i) => {
+    const topico = topicosCache[i];
+    if (!topico) return;
+    label.querySelector(".topico-item__total").textContent = `(${contarTopico(topico)})`;
   });
 }
 
 function getTopicosSelecionados() {
   return Array.from(el.topicosList.querySelectorAll("input[type=checkbox]:checked")).map((i) => i.value);
-}
-
-function getDificuldadeSelecionada() {
-  return document.querySelector('input[name="dificuldade"]:checked').value;
 }
 
 function setState(state) {
@@ -139,7 +159,7 @@ function trocarModo(novoModo) {
   el.tabQuestoes.classList.toggle("active", modo === "questoes");
   el.tabFlashcards.classList.toggle("active", modo === "flashcards");
   el.campoDificuldade.classList.toggle("hidden", modo === "flashcards");
-  el.notaFlashcardsDificuldade.classList.toggle("hidden", modo !== "flashcards");
+  el.campoNivel.classList.toggle("hidden", modo !== "flashcards");
   el.disclaimerQuestoes.classList.toggle("hidden", modo !== "questoes");
   el.disclaimerFlashcards.classList.toggle("hidden", modo !== "flashcards");
   el.btnGerar.textContent = modo === "flashcards" ? "Sortear flashcard" : "Sortear questão";
@@ -156,16 +176,13 @@ async function gerar() {
   const topicoIds = getTopicosSelecionados();
   const excluirIds = carregarVistas();
   const endpoint = modo === "flashcards" ? "/api/flashcard" : "/api/questao";
-  const body =
-    modo === "flashcards"
-      ? { topicoIds, excluirIds }
-      : { topicoIds, dificuldade: getDificuldadeSelecionada(), excluirIds };
+  const dificuldade = modo === "flashcards" ? getNivelSelecionado() : getDificuldadeSelecionada();
 
   try {
     const res = await fetch(endpoint, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify(body),
+      body: JSON.stringify({ topicoIds, dificuldade, excluirIds }),
     });
 
     const data = await res.json();
@@ -197,7 +214,8 @@ async function gerar() {
 
 function renderQuestao(q) {
   el.badgeTopico.textContent = q.topico || "Direito Administrativo";
-  el.badgeDificuldade.textContent = q.dificuldade === "dificil" ? "Difícil" : "Média";
+  el.badgeDificuldade.textContent = ROTULO_DIFICULDADE[q.dificuldade] || q.dificuldade;
+  el.badgeDificuldade.classList.toggle("badge--extremo", q.dificuldade === "extremo");
   el.enunciado.textContent = q.enunciado;
 
   document.getElementById("badgeReiniciado").classList.toggle("hidden", !q.reiniciado);
@@ -259,6 +277,8 @@ function responder() {
 
 function renderFlashcard(fc) {
   el.fcBadgeTopico.textContent = fc.topico || "Direito Administrativo";
+  el.fcBadgeDificuldade.textContent = ROTULO_DIFICULDADE[fc.dificuldade] || fc.dificuldade;
+  el.fcBadgeDificuldade.classList.toggle("badge--extremo", fc.dificuldade === "extremo");
   el.fcBadgeReiniciado.classList.toggle("hidden", !fc.reiniciado);
   el.fcEnunciado.textContent = fc.enunciado;
 
@@ -306,6 +326,8 @@ function julgarFlashcard(julgamento) {
 
 el.tabQuestoes.addEventListener("click", () => trocarModo("questoes"));
 el.tabFlashcards.addEventListener("click", () => trocarModo("flashcards"));
+document.getElementById("nivelGroup").addEventListener("change", atualizarContagemTopicos);
+document.getElementById("dificuldadeGroup").addEventListener("change", atualizarContagemTopicos);
 
 el.btnTodos.addEventListener("click", () => {
   el.topicosList.querySelectorAll("input[type=checkbox]").forEach((i) => (i.checked = true));

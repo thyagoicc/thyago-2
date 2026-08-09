@@ -6,28 +6,42 @@ import { TOPICOS } from "./lib/topicos.js";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const QUESTOES_DIR = path.join(__dirname, "data", "questoes");
-const FLASHCARDS_DIR = path.join(__dirname, "data", "flashcards");
+const FLASHCARDS_DIRS = [
+  path.join(__dirname, "data", "flashcards"),
+  path.join(__dirname, "data", "flashcards-extremo"),
+];
 const PORT = process.env.PORT || 3000;
+const DIFICULDADES = ["media", "dificil", "extremo"];
 
 const app = express();
 app.use(express.json());
 app.use(express.static("public"));
 
-const bancoQuestoes = carregarBanco(QUESTOES_DIR, "questões");
-const bancoFlashcards = carregarBanco(FLASHCARDS_DIR, "flashcards");
+const bancoQuestoes = carregarBanco([QUESTOES_DIR], "questões");
+const bancoFlashcards = carregarBanco(FLASHCARDS_DIRS, "flashcards");
 
-function carregarBanco(dir, rotulo) {
+function carregarBanco(dirs, rotulo) {
   const banco = {};
   for (const topico of TOPICOS) {
-    const arquivo = path.join(dir, `${topico.id}.json`);
-    if (!fs.existsSync(arquivo)) {
-      console.warn(`AVISO: banco de ${rotulo} ausente para o tópico "${topico.id}" (${arquivo})`);
-      banco[topico.id] = [];
-      continue;
+    banco[topico.id] = [];
+    for (const dir of dirs) {
+      const arquivo = path.join(dir, `${topico.id}.json`);
+      if (!fs.existsSync(arquivo)) {
+        console.warn(`AVISO: banco de ${rotulo} ausente para "${topico.id}" em ${dir}`);
+        continue;
+      }
+      banco[topico.id].push(...JSON.parse(fs.readFileSync(arquivo, "utf8")));
     }
-    banco[topico.id] = JSON.parse(fs.readFileSync(arquivo, "utf8"));
   }
   return banco;
+}
+
+function contarPorDificuldade(itens) {
+  const contagem = { total: itens.length };
+  for (const nivel of DIFICULDADES) {
+    contagem[nivel] = itens.filter((i) => i.dificuldade === nivel).length;
+  }
+  return contagem;
 }
 
 function sortear(banco, { topicoIds, dificuldade, excluirIds }) {
@@ -40,7 +54,7 @@ function sortear(banco, { topicoIds, dificuldade, excluirIds }) {
 
   let candidatas = idsAlvo.flatMap((id) => banco[id] || []);
 
-  if (dificuldade === "media" || dificuldade === "dificil") {
+  if (DIFICULDADES.includes(dificuldade)) {
     candidatas = candidatas.filter((q) => q.dificuldade === dificuldade);
   }
 
@@ -60,8 +74,8 @@ function sortear(banco, { topicoIds, dificuldade, excluirIds }) {
 app.get("/api/topicos", (req, res) => {
   const topicosComContagem = TOPICOS.map((t) => ({
     ...t,
-    totalQuestoes: (bancoQuestoes[t.id] || []).length,
-    totalFlashcards: (bancoFlashcards[t.id] || []).length,
+    questoes: contarPorDificuldade(bancoQuestoes[t.id] || []),
+    flashcards: contarPorDificuldade(bancoFlashcards[t.id] || []),
   }));
   res.json(topicosComContagem);
 });
@@ -77,7 +91,7 @@ app.post("/api/questao", (req, res) => {
 });
 
 app.post("/api/flashcard", (req, res) => {
-  const resultado = sortear(bancoFlashcards, { ...(req.body || {}), dificuldade: "dificil" });
+  const resultado = sortear(bancoFlashcards, req.body || {});
   if (!resultado) {
     return res.status(404).json({
       erro: "Não há flashcards cadastrados para os filtros selecionados.",
@@ -87,9 +101,16 @@ app.post("/api/flashcard", (req, res) => {
 });
 
 app.listen(PORT, () => {
-  const totalQuestoes = Object.values(bancoQuestoes).reduce((acc, arr) => acc + arr.length, 0);
-  const totalFlashcards = Object.values(bancoFlashcards).reduce((acc, arr) => acc + arr.length, 0);
+  const soma = (banco) => Object.values(banco).reduce((acc, arr) => acc + arr.length, 0);
+  const porNivel = (banco) =>
+    DIFICULDADES.map((n) => {
+      const qtd = Object.values(banco).flat().filter((i) => i.dificuldade === n).length;
+      return qtd ? `${n}: ${qtd}` : null;
+    })
+      .filter(Boolean)
+      .join(", ");
+
   console.log(`Gerador de questões IDECAN rodando em http://localhost:${PORT}`);
-  console.log(`Banco de questões: ${totalQuestoes} em ${TOPICOS.length} tópicos.`);
-  console.log(`Banco de flashcards: ${totalFlashcards} em ${TOPICOS.length} tópicos.`);
+  console.log(`Banco de questões: ${soma(bancoQuestoes)} (${porNivel(bancoQuestoes)})`);
+  console.log(`Banco de flashcards: ${soma(bancoFlashcards)} (${porNivel(bancoFlashcards)})`);
 });
