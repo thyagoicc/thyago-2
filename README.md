@@ -7,10 +7,10 @@ dois bancos fixos de conteúdo de Direito Administrativo para o concurso de
 
 - **Questões (estilo IDECAN)** — 600 questões de múltipla escolha (30 por
   tópico × 20 tópicos), dificuldade média/difícil.
-- **Flashcards (estilo CEBRASPE)** — 320 itens Certo/Errado em dois níveis:
-  **difícil** (10 por tópico, nos 20 tópicos) e **extremo** (10 por tópico,
-  em 12 tópicos), este último no patamar de provas de Auditor Fiscal e de
-  Delegado, calibrado em 28 provas reais de 5 bancas.
+- **Flashcards (estilo CEBRASPE)** — 400 itens Certo/Errado em dois níveis,
+  10 de cada por tópico nos 20 tópicos: **difícil** e **extremo**, este
+  último no patamar de provas de Auditor Fiscal e de Delegado, calibrado em
+  28 provas reais de 5 bancas.
 
 O app tem duas abas para alternar entre os dois modos.
 
@@ -115,11 +115,10 @@ hospedar o app em um servidor.
 1. Escolha a aba **Questões (IDECAN)** ou **Flashcards (CEBRASPE)** no topo.
 2. No modo Questões, escolha a dificuldade (média, difícil, ou sorteada
    entre as duas). No modo Flashcards, escolha o nível: **Extremo**
-   (padrão), **Difícil** ou **Todos os níveis** — tópicos sem itens no
-   nível escolhido aparecem com `(0)` e ficam fora do sorteio.
+   (padrão), **Difícil** ou **Todos os níveis**.
 3. Marque os tópicos de Direito Administrativo desejados (todos vêm
-   marcados por padrão, com a contagem de itens do modo atual entre
-   parênteses).
+   marcados por padrão, com a contagem de itens disponíveis no modo e no
+   nível atuais entre parênteses).
 4. Clique em **Sortear questão** / **Sortear flashcard**.
 5. No modo Questões, selecione uma alternativa e clique em **Responder**
    para ver o gabarito, o comentário explicativo e a fundamentação legal.
@@ -143,7 +142,7 @@ lib/cebraspeStyleGuide.js       guia de estilo da banca CEBRASPE usado na redaç
 lib/nivelExtremoStyleGuide.js   calibração do nível Extremo, extraída de 28 provas reais
 data/questoes/<topicoId>.json   banco de 30 questões por tópico (20 arquivos, 600 questões)
 data/flashcards/<topicoId>.json banco de 10 flashcards nível difícil por tópico (20 arquivos, 200)
-data/flashcards-extremo/<id>.json  banco de 10 flashcards nível extremo (12 arquivos, 120)
+data/flashcards-extremo/<id>.json  banco de 10 flashcards nível extremo por tópico (20 arquivos, 200)
 data/corpus-provas/             texto das 28 provas reais usadas para calibrar o nível Extremo
 docs/provas-analisadas.md       inventário das provas, limitações e padrões extraídos
 public/index.html               página única do app (versão servidor), com abas Questões/Flashcards

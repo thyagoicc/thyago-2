@@ -12,26 +12,16 @@ tipo de pegadinha; todos os flashcards são inéditos.
 
 ## Cobertura atual do nível Extremo
 
-O nível Extremo cobre **12 dos 20 tópicos**, com 10 itens cada (120
-flashcards), em [`data/flashcards-extremo/`](../data/flashcards-extremo/):
+O nível Extremo cobre **todos os 20 tópicos**, com 10 itens cada (200
+flashcards), em [`data/flashcards-extremo/`](../data/flashcards-extremo/).
+Somados aos 200 itens de nível difícil de
+[`data/flashcards/`](../data/flashcards/), o banco de flashcards totaliza
+**400 itens**, com distribuição equilibrada entre gabaritos CERTO e ERRADO
+em cada tópico.
 
-| # | Tópico | # | Tópico |
-|---|--------|---|--------|
-| 1 | `ato-administrativo` | 7 | `processo-administrativo` |
-| 2 | `extincao-ato` | 8 | `servicos-publicos` |
-| 3 | `regime-disciplinar` | 9 | `bens-publicos` |
-| 4 | `improbidade` | 10 | `intervencao-propriedade` |
-| 5 | `licitacoes` | 11 | `transparencia-lai` |
-| 6 | `responsabilidade-civil-estado` | 12 | `controle-administracao` |
-
-Os 8 tópicos restantes — `estado-administracao`, `principios`,
-`organizacao-administrativa`, `orgaos-publicos`, `poderes-administrativos`,
-`agentes-publicos`, `contratos-administrativos` e `lgpd-administracao` —
-permanecem apenas com os 10 flashcards de nível **difícil** cada. No app, ao escolher o nível Extremo, esses tópicos
-aparecem com `(0)` na lista lateral e são simplesmente ignorados no
-sorteio. Para ampliar a cobertura, basta acrescentar novos arquivos
-`data/flashcards-extremo/<topicoId>.json` seguindo o mesmo schema e rodar
-`npm run build:html`.
+Para ampliar o banco, basta acrescentar itens aos arquivos
+`data/flashcards-extremo/<topicoId>.json`, seguindo o mesmo schema, e rodar
+`npm run build:html` para atualizar o HTML autocontido.
 
 ## Inventário (28 provas, 5 bancas)
 
