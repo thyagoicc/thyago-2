@@ -1,0 +1,102 @@
+[
+  {
+    "id": "contratos-administrativos-fcx-01",
+    "topicoId": "contratos-administrativos",
+    "topico": "Contratos administrativos",
+    "dificuldade": "extremo",
+    "enunciado": "A inadimplência do contratado em relação a encargos trabalhistas, fiscais e comerciais não transfere à Administração a responsabilidade por seu pagamento, mas, segundo a jurisprudência do Supremo Tribunal Federal, admite-se a responsabilização subsidiária do ente público pelos encargos trabalhistas quando comprovada, no caso concreto, sua conduta culposa na fiscalização da execução do contrato.",
+    "gabarito": "C",
+    "justificativa": "O item está correto e articula norma legal e jurisprudência. O art. 121, caput, da Lei nº 14.133/2021 estabelece que a inadimplência do contratado em relação a encargos trabalhistas, fiscais e comerciais não transfere à Administração a responsabilidade por seu pagamento. O STF, ao julgar a ADC 16 e, posteriormente, o RE 760.931, firmou o entendimento consolidado no Tema 246 da repercussão geral: o inadimplemento dos encargos trabalhistas dos empregados do contratado não transfere automaticamente ao Poder Público contratante a responsabilidade pelo pagamento, seja em caráter solidário, seja subsidiário. A responsabilização depende da comprovação de culpa in vigilando ou in eligendo, ônus que não pode ser presumido nem invertido em desfavor da Administração. A Súmula 331, V, do TST segue essa mesma linha ao condicionar a responsabilidade subsidiária à conduta culposa no cumprimento do dever de fiscalização.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 121, caput e § 2º; STF, ADC 16 e RE 760.931 (Tema 246 da repercussão geral); Súmula 331, V, do TST."
+  },
+  {
+    "id": "contratos-administrativos-fcx-02",
+    "topicoId": "contratos-administrativos",
+    "topico": "Contratos administrativos",
+    "dificuldade": "extremo",
+    "enunciado": "As cláusulas econômico-financeiras do contrato administrativo não podem ser alteradas sem prévia concordância do contratado, e, uma vez alteradas unilateralmente as cláusulas regulamentares, deverão ser revistas para que se mantenha o equilíbrio contratual, revisão que independe de pedido do particular por decorrer de imposição legal.",
+    "gabarito": "C",
+    "justificativa": "O item está correto e reproduz o regime do art. 104, §§ 1º e 2º, da Lei nº 14.133/2021. As prerrogativas da Administração — entre elas a alteração unilateral do contrato para melhor adequação às finalidades de interesse público — incidem sobre as cláusulas regulamentares ou de serviço, jamais sobre as cláusulas econômico-financeiras e monetárias, que não podem ser alteradas sem prévia concordância do contratado. E o § 2º é expresso: na hipótese de alteração unilateral que aumente ou diminua os encargos do contratado, a Administração deverá restabelecer, no mesmo termo aditivo, o equilíbrio econômico-financeiro inicial. Daí a correção da parte final do item — trata-se de dever legal que acompanha a própria alteração, e não de faculdade condicionada a requerimento. O fundamento último é a intangibilidade da equação econômico-financeira, protegida pelo art. 37, XXI, da CF, que assegura a manutenção das condições efetivas da proposta.",
+    "fundamentacaoLegal": "CF/88, art. 37, XXI; Lei nº 14.133/2021, arts. 104, caput, I, e §§ 1º e 2º, e 124 a 130."
+  },
+  {
+    "id": "contratos-administrativos-fcx-03",
+    "topicoId": "contratos-administrativos",
+    "topico": "Contratos administrativos",
+    "dificuldade": "extremo",
+    "enunciado": "Na Lei nº 14.133/2021, o contratado é obrigado a aceitar, nas mesmas condições contratuais, os acréscimos ou supressões que se fizerem nas obras, serviços ou compras até vinte e cinco por cento do valor inicial atualizado do contrato, percentual que se eleva a cinquenta por cento em caso de reforma de edifício ou de equipamento, tanto para acréscimos quanto para supressões.",
+    "gabarito": "E",
+    "justificativa": "A expressão que torna o item falso é \"tanto para acréscimos quanto para supressões\" na parte final. O art. 125 da Lei nº 14.133/2021 estabelece que, nas alterações unilaterais, o contratado será obrigado a aceitar, nas mesmas condições contratuais, acréscimos ou supressões de até vinte e cinco por cento do valor inicial atualizado do contrato que se fizerem nas obras, nos serviços ou nas compras, e, no caso de reforma de edifício ou de equipamento, o limite para os acréscimos será de cinquenta por cento. O percentual majorado de cinquenta por cento, portanto, aplica-se APENAS aos acréscimos em reforma de edifício ou equipamento; para as supressões, o limite permanece em vinte e cinco por cento em qualquer hipótese. Trata-se de erro de generalização indevida da exceção. A redação correta seria a de que o limite de cinquenta por cento é exclusivo dos acréscimos em reforma.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 125."
+  },
+  {
+    "id": "contratos-administrativos-fcx-04",
+    "topicoId": "contratos-administrativos",
+    "topico": "Contratos administrativos",
+    "dificuldade": "extremo",
+    "enunciado": "A sanção de impedimento de licitar e contratar impede o responsável de licitar ou contratar no âmbito da Administração Pública direta e indireta do ente federativo que tiver aplicado a sanção, pelo prazo máximo de três anos, ao passo que a declaração de inidoneidade para licitar ou contratar impede o responsável de licitar ou contratar no âmbito da Administração Pública direta e indireta de todos os entes federativos, pelo prazo mínimo de três e máximo de seis anos.",
+    "gabarito": "C",
+    "justificativa": "O item está correto e distingue com precisão as duas sanções mais graves da Lei nº 14.133/2021, cujos alcances e prazos são objeto recorrente de confusão. O art. 156, § 4º, dispõe que a sanção de impedimento de licitar e contratar impedirá o responsável de licitar ou contratar no âmbito da Administração Pública direta e indireta do ente federativo que tiver aplicado a sanção, pelo prazo máximo de três anos. Já o § 5º prevê que a declaração de inidoneidade para licitar ou contratar impedirá o responsável de licitar ou contratar no âmbito da Administração Pública direta e indireta de todos os entes federativos, pelo prazo mínimo de três anos e máximo de seis anos. Note-se a diferença de arquitetura em relação à Lei nº 8.666/1993, em que a suspensão temporária tinha prazo de até dois anos e a inidoneidade perdurava enquanto não promovida a reabilitação — sob a lei nova, a reabilitação é disciplinada pelo art. 163.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 156, III, IV, §§ 4º e 5º, e art. 163."
+  },
+  {
+    "id": "contratos-administrativos-fcx-05",
+    "topicoId": "contratos-administrativos",
+    "topico": "Contratos administrativos",
+    "dificuldade": "extremo",
+    "enunciado": "Constatada irregularidade no procedimento licitatório ou na execução contratual, caso não seja possível o saneamento, a decisão sobre a suspensão da execução ou sobre a declaração de nulidade do contrato somente será adotada na hipótese em que se revelar medida de interesse público, avaliando-se, entre outros aspectos, os riscos sociais decorrentes da paralisação e a motivação social e ambiental do contrato.",
+    "gabarito": "C",
+    "justificativa": "O item está correto e reproduz o art. 147 da Lei nº 14.133/2021, que representa importante incorporação do consequencialismo da LINDB ao regime contratual. O dispositivo determina que, constatada irregularidade no procedimento licitatório ou na execução contratual, caso não seja possível o saneamento, a decisão sobre a suspensão da execução ou sobre a declaração de nulidade do contrato somente será adotada na hipótese em que se revelar medida de interesse público, avaliados, entre outros, os seguintes aspectos: impactos econômicos e financeiros decorrentes do atraso na fruição dos benefícios; riscos sociais, ambientais e à segurança da população local decorrentes do atraso; motivação social e ambiental do contrato; custo da deterioração ou perda das parcelas executadas; despesa necessária à preservação das instalações e serviços já executados; despesa inerente à desmobilização e ao posterior retorno às atividades; possibilidade de substituição do contratado; e custo total e estágio de execução física e financeira. Trata-se de norma que dialoga diretamente com os arts. 20 a 22 da LINDB.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, arts. 147 e 148; LINDB, arts. 20 a 22, incluídos pela Lei nº 13.655/2018."
+  },
+  {
+    "id": "contratos-administrativos-fcx-06",
+    "topicoId": "contratos-administrativos",
+    "topico": "Contratos administrativos",
+    "dificuldade": "extremo",
+    "enunciado": "O atraso superior a um mês dos pagamentos devidos pela Administração decorrentes de obras, serviços ou fornecimentos autoriza o contratado a optar pela suspensão do cumprimento de suas obrigações até que a situação seja normalizada, ressalvadas as hipóteses de calamidade pública, grave perturbação da ordem interna ou guerra.",
+    "gabarito": "E",
+    "justificativa": "A expressão que torna o item falso é \"atraso superior a um mês\". O art. 137, § 2º, IV, da Lei nº 14.133/2021 estabelece que o contratado terá direito à extinção do contrato, entre outras hipóteses, no caso de atraso superior a DOIS MESES, contado da emissão da nota fiscal, dos pagamentos ou de parcelas de pagamentos devidos pela Administração por despesas de obras, serviços ou fornecimentos. E o § 3º do mesmo artigo prevê que, nas hipóteses de extinção por ato unilateral da Administração relacionadas a esses atrasos, o contratado poderá optar pela suspensão do cumprimento das obrigações assumidas até a normalização da situação, admitindo-se, ainda, a exceção de contrato não cumprido nesses limites. A ressalva relativa a calamidade pública, grave perturbação da ordem interna ou guerra está corretamente enunciada no item e consta do próprio dispositivo. O erro é de alteração de prazo. A redação correta seria \"atraso superior a dois meses\".",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 137, § 2º, IV, e § 3º."
+  },
+  {
+    "id": "contratos-administrativos-fcx-07",
+    "topicoId": "contratos-administrativos",
+    "topico": "Contratos administrativos",
+    "dificuldade": "extremo",
+    "enunciado": "Nas contratações de obras e serviços de engenharia de grande vulto, a Administração poderá exigir a prestação de garantia na modalidade seguro-garantia, com cláusula de retomada, em percentual equivalente a até trinta por cento do valor inicial do contrato, hipótese em que a seguradora, em caso de inadimplemento do contratado, assumirá a execução e concluirá o objeto.",
+    "gabarito": "C",
+    "justificativa": "O item está correto e trata de uma das principais inovações da Lei nº 14.133/2021 em matéria de garantias, o chamado performance bond. Como regra geral, o art. 98 permite exigir garantia de até cinco por cento do valor inicial do contrato, elevável a dez por cento em contratações de obras, serviços e fornecimentos de grande complexidade técnica e riscos financeiros consideráveis. Excepcionalmente, porém, o art. 102 dispõe que, nas contratações de obras e serviços de engenharia de grande vulto, poderá ser exigida a prestação de garantia na modalidade seguro-garantia, com cláusula de retomada, em percentual equivalente a até trinta por cento do valor inicial do contrato. Nessa hipótese, o edital deve prever a obrigação de a seguradora assumir a execução e concluir o objeto do contrato em caso de inadimplemento pelo contratado. Convém lembrar que obras de grande vulto são definidas no art. 6º, XXII, da lei, por referência a valor estimado superior a duzentos milhões de reais, atualizável na forma do art. 182.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, arts. 6º, XXII, 96, 98 e 102."
+  },
+  {
+    "id": "contratos-administrativos-fcx-08",
+    "topicoId": "contratos-administrativos",
+    "topico": "Contratos administrativos",
+    "dificuldade": "extremo",
+    "enunciado": "Determinado município celebrou, sob a égide da Lei nº 8.666/1993, contrato de prestação de serviços contínuos ainda vigente quando do advento da Lei nº 14.133/2021. Nessa situação, o contrato passa automaticamente a submeter-se ao regime da lei nova a partir da revogação da lei anterior, devendo suas cláusulas ser adaptadas por termo aditivo.",
+    "gabarito": "E",
+    "justificativa": "A expressão que torna o item falso é \"passa automaticamente a submeter-se ao regime da lei nova a partir da revogação da lei anterior, devendo suas cláusulas ser adaptadas por termo aditivo\". O art. 190 da Lei nº 14.133/2021 é expresso ao determinar que o contrato cujo instrumento tenha sido assinado antes da entrada em vigor da nova lei continuará a ser regido de acordo com as regras previstas na legislação revogada. Trata-se de aplicação do princípio tempus regit actum e da proteção ao ato jurídico perfeito, garantida pelo art. 5º, XXXVI, da CF. Na mesma linha, o art. 191 disciplinava o regime de transição para as licitações, permitindo à Administração optar por licitar ou contratar diretamente conforme a lei antiga ou a nova durante o período de convivência, vedada a aplicação combinada de ambas. A redação correta seria a de que o contrato permanece regido pela Lei nº 8.666/1993 até seu encerramento.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, arts. 190 e 191; CF/88, art. 5º, XXXVI."
+  },
+  {
+    "id": "contratos-administrativos-fcx-09",
+    "topicoId": "contratos-administrativos",
+    "topico": "Contratos administrativos",
+    "dificuldade": "extremo",
+    "enunciado": "Reajuste em sentido estrito e repactuação são espécies do gênero reajustamento de preços: o primeiro destina-se a corrigir a variação de custos de produção ou de insumos mediante índice previamente definido no contrato, enquanto a segunda se aplica a contratos de serviços contínuos com regime de dedicação exclusiva de mão de obra e depende da demonstração analítica da variação dos custos.",
+    "gabarito": "C",
+    "justificativa": "O item está correto e distingue institutos que a própria Lei nº 14.133/2021 conceitua no art. 6º. O inciso LVIII define reajustamento em sentido estrito como a forma de manutenção do equilíbrio econômico-financeiro destinada a corrigir os preços contratados por meio da aplicação de índice de correção monetária previsto no contrato, que deve retratar a variação efetiva do custo de produção. Já o inciso LIX define repactuação como a forma de manutenção do equilíbrio econômico-financeiro dos contratos de serviços contínuos com regime de dedicação exclusiva de mão de obra ou com predominância de mão de obra, por meio da análise da variação dos custos contratuais, devendo estar prevista no edital com data vinculada à apresentação das propostas. Ambos não se confundem com a revisão, ou reequilíbrio propriamente dito, que decorre de álea econômica extraordinária e extracontratual — a teoria da imprevisão —, tratada no art. 124, II, \"d\", da lei.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, art. 6º, LVIII e LIX; art. 92, V; art. 124, II, \"d\"; art. 135."
+  },
+  {
+    "id": "contratos-administrativos-fcx-10",
+    "topicoId": "contratos-administrativos",
+    "topico": "Contratos administrativos",
+    "dificuldade": "extremo",
+    "enunciado": "A duração dos contratos de serviços e fornecimentos contínuos pode alcançar até dez anos, desde que a autoridade competente ateste que as condições e os preços permanecem vantajosos para a Administração, permitida a negociação ou a extinção contratual sem ônus para qualquer das partes, sendo que essa mesma duração decenal é a regra geral aplicável a todos os contratos administrativos.",
+    "gabarito": "E",
+    "justificativa": "A expressão que torna o item falso é \"sendo que essa mesma duração decenal é a regra geral aplicável a todos os contratos administrativos\". A primeira parte está correta: o art. 106 da Lei nº 14.133/2021 admite prazo inicial de até cinco anos para serviços e fornecimentos contínuos, e o art. 107 permite a prorrogação sucessiva até o limite de dez anos, desde que a autoridade competente ateste que as condições e os preços permanecem vantajosos, permitida a negociação com o contratado ou a extinção contratual sem ônus. O erro está na generalização: não há regra geral de dez anos. A lei estabelece prazos diversos conforme a natureza do ajuste — o art. 105 vincula a duração à vigência dos créditos orçamentários como regra; o art. 108 admite até dez anos nas hipóteses de contratação direta dos incisos que menciona; e o art. 114 prevê prazo de até trinta e cinco anos para os contratos que gerem receita e para os de eficiência com investimento. A redação correta seria a de que a duração varia conforme o objeto e o regime do contrato.",
+    "fundamentacaoLegal": "Lei nº 14.133/2021, arts. 105, 106, 107, 108, 110 e 114."
+  }
+]

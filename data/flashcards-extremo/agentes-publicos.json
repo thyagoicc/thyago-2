@@ -1,0 +1,102 @@
+[
+  {
+    "id": "agentes-publicos-fcx-01",
+    "topicoId": "agentes-publicos",
+    "topico": "Agentes públicos",
+    "dificuldade": "extremo",
+    "enunciado": "Candidato aprovado fora do número de vagas previsto no edital, mas classificado dentro do quantitativo de cargos posteriormente providos por candidatos de concurso subsequente, realizado durante a vigência do certame anterior, possui direito subjetivo à nomeação, ainda que não demonstre preterição arbitrária ou imotivada por parte da Administração.",
+    "gabarito": "E",
+    "justificativa": "A expressão que torna o item falso é \"ainda que não demonstre preterição arbitrária ou imotivada por parte da Administração\". O STF, ao julgar o RE 837.311, fixou a tese do Tema 784 da repercussão geral: o surgimento de novas vagas ou a abertura de novo concurso durante a validade do certame anterior não gera automaticamente direito à nomeação dos candidatos aprovados fora das vagas previstas no edital; esse direito surge apenas quando demonstrado, de forma cabal, o comportamento arbitrário e imotivado da Administração, caracterizador de preterição. O direito subjetivo automático à nomeação é reconhecido ao candidato aprovado DENTRO do número de vagas previsto no edital, conforme o Tema 161 (RE 598.099). A redação correta seria a de que o direito depende da demonstração de preterição arbitrária.",
+    "fundamentacaoLegal": "STF, RE 837.311 (Tema 784 da repercussão geral); STF, RE 598.099 (Tema 161); CF/88, art. 37, IV."
+  },
+  {
+    "id": "agentes-publicos-fcx-02",
+    "topicoId": "agentes-publicos",
+    "topico": "Agentes públicos",
+    "dificuldade": "extremo",
+    "enunciado": "A investidura em cargo ou emprego público depende de aprovação prévia em concurso público, e a contratação de servidor sem esse requisito é nula, não gerando efeitos trabalhistas, salvo quanto ao direito à percepção dos salários referentes ao período efetivamente trabalhado e ao levantamento dos depósitos do Fundo de Garantia do Tempo de Serviço.",
+    "gabarito": "C",
+    "justificativa": "O item está correto e combina três fontes normativas. O art. 37, II e § 2º, da CF exige a aprovação prévia em concurso e comina de nulidade o ato que a desrespeite, punindo-se a autoridade responsável. A Súmula 363 do TST estabelece que a contratação de servidor público sem prévia aprovação em concurso confere-lhe direito apenas ao pagamento da contraprestação pactuada em relação ao número de horas trabalhadas, respeitado o valor da hora do salário mínimo, e dos valores referentes aos depósitos do FGTS. O direito ao levantamento do FGTS tem base no art. 19-A da Lei nº 8.036/1990, cuja constitucionalidade foi reconhecida pelo STF. A pegadinha usual é afirmar que a nulidade não gera efeito algum, o que ignoraria a vedação ao enriquecimento sem causa da Administração, ou, no extremo oposto, reconhecer verbas rescisórias típicas do contrato válido.",
+    "fundamentacaoLegal": "CF/88, art. 37, II e § 2º; Súmula 363 do TST; Lei nº 8.036/1990, art. 19-A."
+  },
+  {
+    "id": "agentes-publicos-fcx-03",
+    "topicoId": "agentes-publicos",
+    "topico": "Agentes públicos",
+    "dificuldade": "extremo",
+    "enunciado": "A estabilidade é adquirida após três anos de efetivo exercício pelo servidor nomeado para cargo de provimento efetivo em virtude de concurso público, sendo condição para sua aquisição a avaliação especial de desempenho por comissão instituída para essa finalidade, e o servidor estável só perderá o cargo por sentença judicial transitada em julgado, processo administrativo com ampla defesa, procedimento de avaliação periódica de desempenho ou em razão de medida de adequação de despesa com pessoal.",
+    "gabarito": "C",
+    "justificativa": "O item está correto e cobre integralmente o regime do art. 41 da CF, na redação da EC nº 19/1998. O caput fixa o prazo de três anos de efetivo exercício e restringe a estabilidade aos servidores nomeados para cargo de provimento efetivo em virtude de concurso público. O § 4º condiciona a aquisição da estabilidade à avaliação especial de desempenho por comissão instituída para essa finalidade. O § 1º arrola três hipóteses de perda do cargo pelo servidor estável: sentença judicial transitada em julgado, processo administrativo com ampla defesa e procedimento de avaliação periódica de desempenho na forma de lei complementar. A quarta hipótese está fora do art. 41 e é justamente o detalhe que derruba o candidato desatento: o art. 169, § 4º, da CF admite a exoneração de servidor estável como medida de adequação das despesas com pessoal aos limites legais, após o corte de cargos em comissão e a exoneração dos não estáveis.",
+    "fundamentacaoLegal": "CF/88, art. 41, caput, §§ 1º e 4º, com a redação da EC nº 19/1998; art. 169, §§ 3º e 4º."
+  },
+  {
+    "id": "agentes-publicos-fcx-04",
+    "topicoId": "agentes-publicos",
+    "topico": "Agentes públicos",
+    "dificuldade": "extremo",
+    "enunciado": "Servidor estável teve sua demissão invalidada por decisão administrativa e retornou ao cargo anteriormente ocupado, com ressarcimento de todas as vantagens do período de afastamento. O ocupante da vaga, que a havia assumido como estável em outro cargo, foi reconduzido ao seu cargo de origem. Nessa situação, os institutos aplicados foram, respectivamente, a reintegração e a recondução.",
+    "gabarito": "C",
+    "justificativa": "O item está correto e exige a distinção precisa entre quatro formas de provimento derivado que as bancas costumam embaralhar. REINTEGRAÇÃO é o retorno do servidor estável ao cargo de que fora demitido, quando invalidada a demissão por decisão administrativa ou judicial, com ressarcimento de todas as vantagens do período de afastamento — é exatamente a situação do primeiro servidor. RECONDUÇÃO é o retorno do servidor estável ao cargo anteriormente ocupado, que decorre da inabilitação em estágio probatório relativo a outro cargo ou, como no caso, da reintegração do anterior ocupante — situação do segundo servidor. Não se confundem com a REVERSÃO, que é o retorno à atividade de servidor aposentado, nem com o APROVEITAMENTO, que é o retorno à atividade de servidor em disponibilidade. Registre-se ainda que, se o cargo de origem do reconduzido estiver provido, ele será aproveitado em outro cargo ou posto em disponibilidade.",
+    "fundamentacaoLegal": "CF/88, art. 41, §§ 2º e 3º; Lei nº 8.112/1990, arts. 25, 28, 29, 30 e 31."
+  },
+  {
+    "id": "agentes-publicos-fcx-05",
+    "topicoId": "agentes-publicos",
+    "topico": "Agentes públicos",
+    "dificuldade": "extremo",
+    "enunciado": "O teto remuneratório constitucional, correspondente ao subsídio dos Ministros do Supremo Tribunal Federal, aplica-se aos empregados das empresas públicas e das sociedades de economia mista, bem como de suas subsidiárias, independentemente de recebimento de recursos do ente controlador para pagamento de despesas de pessoal ou de custeio em geral.",
+    "gabarito": "E",
+    "justificativa": "A expressão que torna o item falso é \"independentemente de recebimento de recursos do ente controlador para pagamento de despesas de pessoal ou de custeio em geral\". O art. 37, § 9º, da CF, incluído pela EC nº 19/1998, determina que o teto remuneratório do inciso XI se aplica às empresas públicas, às sociedades de economia mista e a suas subsidiárias SOMENTE quando elas receberem recursos da União, dos Estados, do Distrito Federal ou dos Municípios para pagamento de despesas de pessoal ou de custeio em geral. A estatal que se sustenta com receitas próprias, portanto, não se submete ao teto — solução coerente com o art. 173, § 1º, II, da CF, que a sujeita ao regime jurídico próprio das empresas privadas quanto às obrigações trabalhistas. A redação correta seria a de que a submissão ao teto depende justamente do recebimento desses recursos.",
+    "fundamentacaoLegal": "CF/88, art. 37, XI e § 9º, com a redação da EC nº 19/1998; art. 173, § 1º, II."
+  },
+  {
+    "id": "agentes-publicos-fcx-06",
+    "topicoId": "agentes-publicos",
+    "topico": "Agentes públicos",
+    "dificuldade": "extremo",
+    "enunciado": "A acumulação remunerada de cargos públicos é vedada como regra, mas admitida, havendo compatibilidade de horários, nas hipóteses constitucionalmente previstas, e a jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que, nessas hipóteses, a existência de compatibilidade de horários é requisito que se afere caso a caso, não sendo lícito à Administração fixar limite máximo de carga horária semanal como impedimento automático à acumulação.",
+    "gabarito": "C",
+    "justificativa": "O item está correto. O art. 37, XVI, da CF veda a acumulação remunerada de cargos públicos, ressalvando, quando houver compatibilidade de horários e observado o teto do inciso XI, a acumulação de dois cargos de professor, a de um cargo de professor com outro técnico ou científico e a de dois cargos ou empregos privativos de profissionais de saúde com profissões regulamentadas. Ao julgar o RE 1.094.802, sob o rito da repercussão geral (Tema 1.081), o STF fixou a tese de que a acumulação de cargos públicos de profissionais da área de saúde, prevista no art. 37, XVI, da CF, não se sujeita ao limite de sessenta horas semanais previsto em norma infraconstitucional, pois inexiste tal requisito na Constituição; a compatibilidade de horários deve ser aferida no caso concreto. O item resiste à leitura capciosa porque não afirma que a acumulação é livre, apenas que o limite horário fixado abstratamente não pode operar como impedimento automático.",
+    "fundamentacaoLegal": "CF/88, art. 37, XI, XVI e XVII; STF, RE 1.094.802 (Tema 1.081 da repercussão geral)."
+  },
+  {
+    "id": "agentes-publicos-fcx-07",
+    "topicoId": "agentes-publicos",
+    "topico": "Agentes públicos",
+    "dificuldade": "extremo",
+    "enunciado": "Por força da Súmula Vinculante 43 do Supremo Tribunal Federal, é inconstitucional toda modalidade de provimento que propicie ao servidor investir-se, sem prévia aprovação em concurso público destinado ao seu provimento, em cargo que não integre a carreira na qual anteriormente investido, o que torna inconstitucional o instituto da promoção entre classes da mesma carreira.",
+    "gabarito": "E",
+    "justificativa": "A expressão que torna o item falso é a conclusão de que a súmula \"torna inconstitucional o instituto da promoção entre classes da mesma carreira\". O enunciado da Súmula Vinculante 43 está corretamente transcrito na primeira parte e veda o chamado provimento derivado por ascensão ou transposição, isto é, a investidura em cargo que NÃO integre a carreira em que o servidor foi originariamente investido. A promoção, ao contrário, opera dentro da mesma carreira, elevando o servidor de classe ou padrão segundo critérios de antiguidade e merecimento previstos em lei, e por isso é plenamente compatível com o art. 37, II, da CF — tanto que a própria Constituição a pressupõe ao tratar da estruturação de carreiras. Detalhe frequentemente cobrado: a promoção é, a um só tempo, forma de provimento do cargo superior e causa de vacância do cargo anteriormente ocupado. A redação correta seria a de que a promoção na mesma carreira permanece válida.",
+    "fundamentacaoLegal": "Súmula Vinculante 43 do STF; CF/88, art. 37, II; Lei nº 8.112/1990, arts. 8º, 10, parágrafo único, e 33, III."
+  },
+  {
+    "id": "agentes-publicos-fcx-08",
+    "topicoId": "agentes-publicos",
+    "topico": "Agentes públicos",
+    "dificuldade": "extremo",
+    "enunciado": "Os agentes honoríficos, como os jurados, os mesários eleitorais e os membros de conselhos tutelares no exercício de múnus público gratuito, não são titulares de cargo, emprego ou função pública remunerada, mas equiparam-se a funcionários públicos para fins penais quando no exercício da atividade.",
+    "gabarito": "C",
+    "justificativa": "O item está correto. Agentes honoríficos, na classificação de Hely Lopes Meirelles, são cidadãos convocados, designados ou nomeados para prestar transitoriamente determinados serviços ao Estado, em razão de sua condição cívica, honorabilidade ou notória capacidade profissional, sem vínculo empregatício e, em regra, sem remuneração — jurados e mesários são os exemplos clássicos. Embora não ocupem cargo ou emprego público, exercem função pública, e o art. 327 do Código Penal define como funcionário público, para efeitos penais, quem, embora transitoriamente ou sem remuneração, exerce cargo, emprego ou função pública. Daí a correção da equiparação afirmada no item. Em matéria de responsabilidade civil, note-se que o art. 37, § 6º, da CF alcança os danos que \"seus agentes\" causarem a terceiros, expressão ampla que abarca também os honoríficos no exercício da função.",
+    "fundamentacaoLegal": "Código Penal, art. 327; CF/88, art. 37, § 6º; classificação dos agentes públicos de Hely Lopes Meirelles; Código de Processo Penal, arts. 436 e seguintes (jurados)."
+  },
+  {
+    "id": "agentes-publicos-fcx-09",
+    "topicoId": "agentes-publicos",
+    "topico": "Agentes públicos",
+    "dificuldade": "extremo",
+    "enunciado": "As funções de confiança e os cargos em comissão submetem-se ao mesmo regime quanto à forma de provimento, uma vez que ambos se destinam às atribuições de direção, chefia e assessoramento e podem ser livremente providos por pessoas estranhas aos quadros da Administração, observados os percentuais mínimos reservados aos servidores de carreira.",
+    "gabarito": "E",
+    "justificativa": "A expressão que torna o item falso é \"ambos [...] podem ser livremente providos por pessoas estranhas aos quadros da Administração, observados os percentuais mínimos reservados aos servidores de carreira\". O art. 37, V, da CF, na redação da EC nº 19/1998, distingue com nitidez os dois institutos: as funções de confiança são exercidas EXCLUSIVAMENTE por servidores ocupantes de cargo efetivo, ao passo que os cargos em comissão, declarados em lei de livre nomeação e exoneração, podem ser preenchidos por pessoas estranhas à Administração, observados os casos, condições e percentuais mínimos previstos em lei para preenchimento por servidores de carreira. A regra dos percentuais mínimos, portanto, é pertinente apenas aos cargos em comissão — nas funções de confiança a reserva é integral. A redação correta seria a de que apenas os cargos em comissão admitem provimento por não integrantes dos quadros.",
+    "fundamentacaoLegal": "CF/88, art. 37, V, com a redação da EC nº 19/1998."
+  },
+  {
+    "id": "agentes-publicos-fcx-10",
+    "topicoId": "agentes-publicos",
+    "topico": "Agentes públicos",
+    "dificuldade": "extremo",
+    "enunciado": "Segundo entendimento sumulado do Superior Tribunal de Justiça, o servidor público que exerce cargo de provimento efetivo tem direito à contagem, para fins de estágio probatório, do período em que esteve licenciado para tratar de interesses particulares, uma vez que o vínculo funcional permanece íntegro durante a licença.",
+    "gabarito": "E",
+    "justificativa": "A expressão que torna o item falso é a afirmação de que existe entendimento sumulado do STJ reconhecendo a contagem do período de licença para tratar de interesses particulares no estágio probatório. O estágio probatório destina-se justamente a avaliar a aptidão e a capacidade do servidor para o desempenho do cargo, o que pressupõe EFETIVO EXERCÍCIO — a Lei nº 8.112/1990 condiciona a aquisição da estabilidade e a aprovação no estágio ao efetivo exercício, e a licença para tratar de interesses particulares é concedida sem remuneração e com interrupção do exercício, não sendo computada para essa finalidade. O item explora a técnica de invocar um enunciado sumular inexistente para conferir falsa autoridade à afirmação. Registre-se, para contraste, que o STJ possui entendimento consolidado no sentido de que o prazo do estágio probatório é de três anos, coincidindo com o prazo da estabilidade do art. 41 da CF. A redação correta seria a de que o período de licença para tratar de interesses particulares não é computado.",
+    "fundamentacaoLegal": "CF/88, art. 41, caput e § 4º; Lei nº 8.112/1990, arts. 20 e 91."
+  }
+]

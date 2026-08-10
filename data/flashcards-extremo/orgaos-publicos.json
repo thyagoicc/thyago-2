@@ -1,0 +1,102 @@
+[
+  {
+    "id": "orgaos-publicos-fcx-01",
+    "topicoId": "orgaos-publicos",
+    "topico": "Órgãos públicos e teoria do órgão",
+    "dificuldade": "extremo",
+    "enunciado": "Pela teoria do órgão, a atuação do agente público é imputada diretamente à pessoa jurídica a que pertence o órgão, o que explica por que os atos praticados por funcionário de fato, investido irregularmente mas em situação de aparência de legalidade, permanecem válidos perante terceiros de boa-fé.",
+    "gabarito": "C",
+    "justificativa": "O item está correto e articula corretamente dois institutos que costumam ser cobrados em separado. A teoria do órgão, ou teoria da imputação volitiva, formulada por Otto Gierke, sustenta que a vontade do agente é a própria vontade do Estado, de modo que não há relação de representação nem de mandato entre agente e pessoa jurídica, mas imputação direta. É justamente essa premissa que permite sustentar a validade dos atos do funcionário de fato: como a atuação é imputada ao órgão, e não ao indivíduo, a irregularidade da investidura não contamina os atos praticados perante terceiros de boa-fé, em nome da aparência de legalidade e da segurança jurídica. Não se confunde o funcionário de fato — investido de modo irregular, mas com aparência de legitimidade — com o usurpador de função, que atua sem qualquer investidura e cujos atos são tidos por inexistentes pela doutrina majoritária.",
+    "fundamentacaoLegal": "Teoria do órgão (Otto Gierke), difundida por Celso Antônio Bandeira de Mello e Maria Sylvia Zanella Di Pietro; CF/88, art. 37, § 6º; Código Penal, art. 328 (usurpação de função pública)."
+  },
+  {
+    "id": "orgaos-publicos-fcx-02",
+    "topicoId": "orgaos-publicos",
+    "topico": "Órgãos públicos e teoria do órgão",
+    "dificuldade": "extremo",
+    "enunciado": "Os órgãos públicos, por serem centros de competência despersonalizados, não possuem personalidade jurídica nem capacidade processual, razão pela qual a Câmara Municipal não pode figurar no polo ativo de mandado de segurança, ainda que a impetração vise à defesa de suas prerrogativas institucionais.",
+    "gabarito": "E",
+    "justificativa": "A expressão que torna o item falso é \"não possuem personalidade jurídica nem capacidade processual, razão pela qual a Câmara Municipal não pode figurar no polo ativo de mandado de segurança, ainda que a impetração vise à defesa de suas prerrogativas institucionais\". É verdade que os órgãos públicos são despersonalizados. Contudo, doutrina e jurisprudência reconhecem aos órgãos independentes e autônomos a chamada personalidade judiciária, ou capacidade processual, para a defesa em juízo de suas prerrogativas institucionais — é o caso da Câmara Municipal, da Assembleia Legislativa, da Mesa de Casa Legislativa, do Tribunal de Contas e do Ministério Público. Trata-se de capacidade processual restrita: o órgão pode litigar em defesa de suas prerrogativas, mas não para discutir direitos patrimoniais ou obrigações de natureza civil, hipótese em que a legitimidade é da pessoa jurídica de direito público a que pertence. A redação correta seria a de que a Câmara Municipal detém personalidade judiciária para essa finalidade específica.",
+    "fundamentacaoLegal": "Lei nº 12.016/2009, art. 1º; doutrina da personalidade judiciária dos órgãos independentes e autônomos (Hely Lopes Meirelles e José dos Santos Carvalho Filho); CF/88, art. 5º, LXIX."
+  },
+  {
+    "id": "orgaos-publicos-fcx-03",
+    "topicoId": "orgaos-publicos",
+    "topico": "Órgãos públicos e teoria do órgão",
+    "dificuldade": "extremo",
+    "enunciado": "A criação e a extinção de órgãos da administração pública federal dependem de lei de iniciativa privativa do Presidente da República, mas a mera reorganização de suas atribuições, desde que não implique aumento de despesa nem criação ou extinção de órgãos, pode ser veiculada por decreto.",
+    "gabarito": "C",
+    "justificativa": "O item está correto e sintetiza o regime constitucional vigente após a EC nº 32/2001. A criação e a extinção de Ministérios e órgãos da administração pública dependem de lei, cuja iniciativa é privativa do Presidente da República por força do art. 61, § 1º, II, \"e\", da CF. Por outro lado, o art. 84, VI, \"a\", da CF, na redação da EC nº 32/2001, autoriza o Presidente a dispor, mediante decreto, sobre organização e funcionamento da administração federal quando não implicar aumento de despesa nem criação ou extinção de órgãos públicos — é a única hipótese de decreto autônomo expressamente admitida no texto constitucional, ao lado da extinção de funções ou cargos públicos quando vagos, prevista na alínea \"b\". A dificuldade está em não confundir organização, que admite decreto nos limites indicados, com criação e extinção, que exigem lei.",
+    "fundamentacaoLegal": "CF/88, art. 61, § 1º, II, \"e\"; art. 84, VI, \"a\" e \"b\", com a redação da EC nº 32/2001; art. 88."
+  },
+  {
+    "id": "orgaos-publicos-fcx-04",
+    "topicoId": "orgaos-publicos",
+    "topico": "Órgãos públicos e teoria do órgão",
+    "dificuldade": "extremo",
+    "enunciado": "Quando a lei condiciona a prática do ato administrativo à emissão de parecer obrigatório e vinculante, o parecerista responde solidariamente com o administrador pelos efeitos do ato, uma vez que sua manifestação integra a própria formação da vontade administrativa; já na hipótese de parecer facultativo, a responsabilização do parecerista pressupõe demonstração de dolo ou erro grosseiro.",
+    "gabarito": "C",
+    "justificativa": "O item está correto e reflete a orientação firmada pelo STF no MS 24.631, em que se distinguiram três situações: no parecer facultativo, o administrador não está obrigado a solicitá-lo nem a segui-lo, e o parecerista em regra não responde, salvo culpa ou erro grosseiro; no parecer obrigatório, o administrador deve solicitá-lo, mas pode dele divergir motivadamente, hipótese em que a responsabilidade do parecerista permanece condicionada a culpa ou erro grosseiro; e no parecer vinculante, o administrador não pode decidir de modo diverso, de modo que a manifestação técnica integra a formação da vontade administrativa e o parecerista compartilha o poder de decisão, respondendo solidariamente. Esse regime foi posteriormente reforçado pelo art. 28 da LINDB, incluído pela Lei nº 13.655/2018, que condiciona a responsabilização pessoal do agente por decisões ou opiniões técnicas à existência de dolo ou erro grosseiro.",
+    "fundamentacaoLegal": "STF, MS 24.631/DF; LINDB, art. 28, incluído pela Lei nº 13.655/2018; Lei nº 9.784/1999, art. 42."
+  },
+  {
+    "id": "orgaos-publicos-fcx-05",
+    "topicoId": "orgaos-publicos",
+    "topico": "Órgãos públicos e teoria do órgão",
+    "dificuldade": "extremo",
+    "enunciado": "A classificação dos órgãos públicos quanto à estrutura distingue órgãos simples e compostos, ao passo que a classificação quanto à composição os divide em singulares e colegiados; assim, um órgão pode ser simultaneamente composto e singular, como ocorre com um Ministério que reúne diversos órgãos menores e é dirigido por uma única autoridade.",
+    "gabarito": "C",
+    "justificativa": "O item está correto e exige que o candidato mantenha separados dois critérios classificatórios frequentemente embaralhados pelas bancas. Quanto à ESTRUTURA, os órgãos são simples ou unitários, quando não possuem outros órgãos em sua composição, e compostos, quando reúnem em si diversos órgãos menores. Quanto à COMPOSIÇÃO, ou seja, ao número de agentes que atuam na formação da vontade do órgão, são singulares ou unipessoais, quando a decisão cabe a um único agente, e colegiados ou pluripessoais, quando a decisão resulta da manifestação conjunta de vários agentes. Por serem critérios independentes, as combinações se acumulam: um Ministério é composto quanto à estrutura e singular quanto à composição, pois é dirigido por um Ministro de Estado. A técnica de erro típica em itens semelhantes é trocar os critérios, apresentando simples e composto como classificação quanto à composição.",
+    "fundamentacaoLegal": "Doutrina de Hely Lopes Meirelles e Maria Sylvia Zanella Di Pietro (classificação dos órgãos públicos); Decreto-Lei nº 200/1967, arts. 4º e 5º."
+  },
+  {
+    "id": "orgaos-publicos-fcx-06",
+    "topicoId": "orgaos-publicos",
+    "topico": "Órgãos públicos e teoria do órgão",
+    "dificuldade": "extremo",
+    "enunciado": "A delegação de competência administrativa é vedada quanto à edição de atos de caráter normativo, à decisão de recursos administrativos e às matérias de competência exclusiva do órgão ou autoridade, sendo certo que, uma vez delegada a competência, a autoridade delegante perde a atribuição enquanto perdurar a delegação, não podendo praticar o ato delegado.",
+    "gabarito": "E",
+    "justificativa": "A expressão que torna o item falso é \"a autoridade delegante perde a atribuição enquanto perdurar a delegação, não podendo praticar o ato delegado\". A primeira parte reproduz corretamente o art. 13 da Lei nº 9.784/1999, que veda a delegação da edição de atos de caráter normativo, da decisão de recursos administrativos e das matérias de competência exclusiva do órgão ou autoridade. O erro está na segunda parte: a delegação não implica renúncia nem transferência definitiva da competência, que continua a pertencer ao delegante; trata-se de ato revogável a qualquer tempo pela autoridade delegante, nos termos do art. 14, § 2º, da mesma lei. Além disso, o § 3º do art. 14 estabelece que as decisões adotadas por delegação devem mencionar explicitamente essa qualidade e considerar-se-ão editadas pelo delegado, o que se conecta à Súmula 510 do STF, segundo a qual, praticado o ato por autoridade no exercício de competência delegada, contra ela cabe o mandado de segurança ou a medida judicial. A redação correta seria a de que o delegante conserva a competência.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, arts. 12, 13 e 14, §§ 2º e 3º; Súmula 510 do STF."
+  },
+  {
+    "id": "orgaos-publicos-fcx-07",
+    "topicoId": "orgaos-publicos",
+    "topico": "Órgãos públicos e teoria do órgão",
+    "dificuldade": "extremo",
+    "enunciado": "Órgãos independentes são os que se situam no ápice da estrutura estatal, sem qualquer subordinação hierárquica ou funcional, sendo representados pelas Casas Legislativas, pela Chefia do Executivo, pelos Tribunais e pelo Ministério Público; já os órgãos autônomos situam-se na cúpula da Administração, subordinados diretamente aos independentes, com ampla autonomia administrativa, financeira e técnica, como os Ministérios e as Secretarias.",
+    "gabarito": "C",
+    "justificativa": "O item está correto e reproduz com precisão a classificação quanto à posição estatal proposta por Hely Lopes Meirelles. Órgãos INDEPENDENTES são os originários da Constituição, representativos dos Poderes do Estado, sem subordinação hierárquica ou funcional, sujeitos apenas aos controles constitucionais recíprocos: Congresso Nacional, Assembleias, Câmaras Municipais, Presidência da República, Governadorias, Prefeituras, Tribunais do Judiciário e o Ministério Público, além dos Tribunais de Contas. Órgãos AUTÔNOMOS estão na cúpula da Administração, imediatamente abaixo dos independentes, e gozam de autonomia administrativa, financeira e técnica, participando das decisões governamentais — Ministérios, Secretarias estaduais e municipais, Advocacia-Geral da União. Abaixo deles situam-se os órgãos SUPERIORES, que têm poder de direção e controle mas não gozam de autonomia, e os SUBALTERNOS, de mera execução. A dificuldade do item está em exigir a distinção entre ausência de subordinação e mera autonomia.",
+    "fundamentacaoLegal": "Classificação de Hely Lopes Meirelles quanto à posição estatal dos órgãos públicos; CF/88, arts. 2º, 44, 76, 92 e 127."
+  },
+  {
+    "id": "orgaos-publicos-fcx-08",
+    "topicoId": "orgaos-publicos",
+    "topico": "Órgãos públicos e teoria do órgão",
+    "dificuldade": "extremo",
+    "enunciado": "A atribuição de número de inscrição no Cadastro Nacional da Pessoa Jurídica a determinado órgão público, para viabilizar a movimentação de recursos e a celebração de ajustes, confere-lhe personalidade jurídica própria, distinta da pessoa política a que se integra, ainda que restrita ao âmbito das obrigações assumidas.",
+    "gabarito": "E",
+    "justificativa": "A expressão que torna o item falso é \"confere-lhe personalidade jurídica própria, distinta da pessoa política a que se integra, ainda que restrita ao âmbito das obrigações assumidas\". A inscrição no CNPJ é providência de natureza meramente cadastral e operacional, destinada a permitir controle fiscal, movimentação orçamentária e financeira e identificação da unidade administrativa; não tem o condão de criar pessoa jurídica. Órgãos públicos permanecem despersonalizados: quem contrata, adquire direitos e assume obrigações é sempre a pessoa jurídica de direito público em cuja estrutura o órgão se insere, e é ela que responde patrimonialmente. Personalidade jurídica só se adquire na forma da lei — no caso das entidades da Administração indireta, mediante lei específica que autorize ou institua a entidade, nos termos do art. 37, XIX, da CF. A redação correta seria a de que a inscrição no CNPJ não confere personalidade jurídica ao órgão.",
+    "fundamentacaoLegal": "CF/88, art. 37, XIX; Código Civil, arts. 41 e 45; doutrina sobre a despersonalização dos órgãos públicos."
+  },
+  {
+    "id": "orgaos-publicos-fcx-09",
+    "topicoId": "orgaos-publicos",
+    "topico": "Órgãos públicos e teoria do órgão",
+    "dificuldade": "extremo",
+    "enunciado": "A avocação de competência de órgão hierarquicamente inferior é admitida em caráter excepcional, por motivos relevantes devidamente justificados e por tempo determinado, mas não alcança as competências atribuídas com exclusividade ao órgão subordinado.",
+    "gabarito": "C",
+    "justificativa": "O item está correto. O art. 15 da Lei nº 9.784/1999 dispõe que será permitida, em caráter excepcional e por motivos relevantes devidamente justificados, a avocação temporária de competência atribuída a órgão hierarquicamente inferior. Três requisitos, portanto, são cumulativos: excepcionalidade, motivação relevante e temporariedade. A ressalva quanto às competências exclusivas decorre da própria lógica do instituto e do art. 13, III, da mesma lei, que veda a delegação de matérias de competência exclusiva: se a competência exclusiva não pode ser delegada para baixo, tampouco pode ser avocada para cima, sob pena de esvaziamento da atribuição legal específica. Vale distinguir a avocação, que pressupõe hierarquia, do recurso hierárquico impróprio, dirigido a autoridade não integrante da mesma linha hierárquica e que depende de previsão legal expressa.",
+    "fundamentacaoLegal": "Lei nº 9.784/1999, arts. 13, III, e 15; Decreto-Lei nº 200/1967, art. 170."
+  },
+  {
+    "id": "orgaos-publicos-fcx-10",
+    "topicoId": "orgaos-publicos",
+    "topico": "Órgãos públicos e teoria do órgão",
+    "dificuldade": "extremo",
+    "enunciado": "A desconcentração administrativa pressupõe a existência de hierarquia entre os órgãos resultantes da distribuição interna de competências, ao passo que na descentralização por outorga legal inexiste hierarquia entre a entidade criada e a Administração direta, subsistindo apenas controle finalístico, também denominado tutela ou supervisão ministerial.",
+    "gabarito": "C",
+    "justificativa": "O item está correto e fixa uma das distinções mais cobradas da matéria. A desconcentração ocorre dentro de uma mesma pessoa jurídica, mediante distribuição interna de competências entre órgãos, e por isso é sempre marcada por relação de hierarquia, da qual decorrem os poderes de dar ordens, fiscalizar, rever, delegar e avocar. Já a descentralização por outorga, ou descentralização por serviço, transfere a titularidade e a execução de atividade a entidade dotada de personalidade jurídica própria, criada ou autorizada por lei específica, nos termos do art. 37, XIX, da CF. Entre a Administração direta e a entidade descentralizada não há subordinação hierárquica, mas vinculação, exercida por meio de controle finalístico — a supervisão ministerial de que tratam os arts. 19 e 26 do Decreto-Lei nº 200/1967 —, cujo alcance é limitado ao que a lei expressamente autorizar, voltado à verificação do cumprimento das finalidades institucionais.",
+    "fundamentacaoLegal": "CF/88, art. 37, XIX; Decreto-Lei nº 200/1967, arts. 4º, 5º, 19 e 26; doutrina de Maria Sylvia Zanella Di Pietro."
+  }
+]
