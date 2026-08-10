@@ -97,6 +97,36 @@ npm install
 npm run build:html
 ```
 
+## Exportação em JSON único
+
+Todo o conteúdo já vive como JSON, separado por tópico, em
+`data/questoes/`, `data/flashcards/` e `data/flashcards-extremo/`. Para
+obter tudo reunido em **um só arquivo**, útil para importar em outra
+ferramenta:
+
+```bash
+npm run export:json
+```
+
+Isso gera `gerador-questoes-idecan.json` na raiz, com esta estrutura:
+
+```jsonc
+{
+  "meta": {
+    "titulo": "...", "concurso": "...", "edital": "...",
+    "totais": { "topicos": 20, "questoes": 600, "flashcards": 400, "...": "..." },
+    "formatos": { "questoes": "...", "flashcards": "..." },
+    "aviso": "..."
+  },
+  "topicos":    [ /* 20 tópicos, com id, nome e descrição */ ],
+  "questoes":   [ /* 600 itens de múltipla escolha, com alternativas A–E */ ],
+  "flashcards": [ /* 400 itens Certo/Errado, níveis difícil e extremo */ ]
+}
+```
+
+Cada item carrega `topicoId` e `dificuldade`, o que permite filtrar por
+tópico e por nível sem depender da origem do arquivo.
+
 ## Como usar via servidor Node (alternativa)
 
 Pré-requisito: Node.js 18+.
@@ -134,7 +164,9 @@ hospedar o app em um servidor.
 
 ```
 gerador-questoes-idecan.html    arquivo único autocontido (gerado) — abrir direto no navegador, sem servidor
+gerador-questoes-idecan.json    banco completo em um só JSON (gerado) — para importar em outras ferramentas
 scripts/build-html.js           gera o HTML autocontido a partir de lib/ + data/ + public/
+scripts/export-json.js          consolida tópicos, questões e flashcards no JSON único
 server.js                       servidor Express + endpoints /api/questao e /api/flashcard (sorteio nos bancos estáticos)
 lib/topicos.js                  conteúdo programático de Direito Administrativo (20 tópicos)
 lib/idecanStyleGuide.js         guia de estilo da banca IDECAN usado na redação das questões
