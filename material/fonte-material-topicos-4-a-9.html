@@ -1,0 +1,1858 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<title>Direito Administrativo — ISS Campina Grande/PB 2026 — Tópicos 4 a 9</title>
+<style>
+@page { size: A4; margin: 18mm 15mm 16mm 15mm; }
+@page { @bottom-center { content: counter(page); } }
+
+:root{
+  --tinta:#12181f;
+  --suave:#4a5560;
+  --linha:#d8dee5;
+  --azul:#123a63;
+  --azul-claro:#eef3f8;
+  --ouro:#8a6a1f;
+  --ouro-claro:#fdf7e7;
+  --verde:#1c5c3b;
+  --verde-claro:#eaf5ee;
+  --vermelho:#8e2020;
+  --vermelho-claro:#fbeded;
+}
+
+*{ box-sizing:border-box; }
+body{
+  font-family:"Charter","Georgia","Times New Roman",serif;
+  font-size:10.2pt; line-height:1.5; color:var(--tinta); margin:0;
+  text-align:justify; hyphens:auto;
+}
+h1,h2,h3,h4,h5{ font-family:"Helvetica Neue",Helvetica,Arial,sans-serif; text-align:left; hyphens:none; }
+
+/* ---------- CAPA ---------- */
+.capa{ height:250mm; display:flex; flex-direction:column; justify-content:center; page-break-after:always; text-align:left; }
+.capa .selo{ font-family:Helvetica,Arial,sans-serif; font-size:9pt; letter-spacing:.22em; text-transform:uppercase; color:var(--ouro); font-weight:700; }
+.capa h1{ font-size:31pt; line-height:1.1; margin:.35em 0 .1em; color:var(--azul); letter-spacing:-.02em; }
+.capa h2{ font-size:14pt; font-weight:400; color:var(--suave); margin:0 0 1.6em; line-height:1.35; }
+.capa .regua{ height:3px; background:var(--azul); width:62px; margin:0 0 1.5em; }
+.capa .topicos{ list-style:none; padding:0; margin:0 0 2em; }
+.capa .topicos li{ font-family:Helvetica,Arial,sans-serif; font-size:11.5pt; padding:.42em 0; border-bottom:1px solid var(--linha); }
+.capa .topicos li b{ color:var(--azul); }
+.capa .rodape{ font-family:Helvetica,Arial,sans-serif; font-size:8.6pt; color:var(--suave); line-height:1.6; border-top:2px solid var(--azul); padding-top:.9em; }
+
+/* ---------- ESTRUTURA ---------- */
+h2.parte{
+  font-size:9.5pt; letter-spacing:.2em; text-transform:uppercase; color:#fff;
+  background:var(--azul); padding:.55em .9em; margin:0 0 1.1em; border-radius:2px;
+  page-break-before:always; page-break-after:avoid;
+}
+h2.parte.primeira{ page-break-before:auto; }
+h3{ font-size:14pt; color:var(--azul); margin:1.5em 0 .5em; padding-bottom:.22em; border-bottom:2px solid var(--azul); page-break-after:avoid; }
+h4{ font-size:11pt; color:var(--tinta); margin:1.25em 0 .35em; page-break-after:avoid; }
+h5{ font-size:9.6pt; margin:1em 0 .3em; color:var(--ouro); text-transform:uppercase; letter-spacing:.06em; page-break-after:avoid; }
+p{ margin:0 0 .6em; }
+ul,ol{ margin:.2em 0 .7em; padding-left:1.25em; }
+li{ margin-bottom:.22em; }
+b,strong{ color:#000; }
+.pequeno{ font-size:9pt; color:var(--suave); }
+
+/* ---------- TABELAS ---------- */
+table{ width:100%; border-collapse:collapse; margin:.6em 0 1em; font-size:8.9pt; page-break-inside:auto; }
+tr{ page-break-inside:avoid; }
+thead{ display:table-header-group; }
+th{ background:var(--azul); color:#fff; font-family:Helvetica,Arial,sans-serif; font-size:8.2pt; text-transform:uppercase; letter-spacing:.05em; padding:.5em .55em; text-align:left; vertical-align:bottom; }
+td{ border-bottom:1px solid var(--linha); padding:.45em .55em; vertical-align:top; text-align:left; }
+tr:nth-child(even) td{ background:#f7f9fb; }
+td.rot{ font-weight:700; background:#eef2f6 !important; width:20%; }
+
+/* ---------- CAIXAS ---------- */
+.box{ border-left:3px solid var(--azul); background:var(--azul-claro); padding:.65em .85em; margin:.7em 0 1em; font-size:9.4pt; page-break-inside:avoid; }
+.box h5{ margin-top:0; color:var(--azul); }
+.alerta{ border-left-color:var(--vermelho); background:var(--vermelho-claro); }
+.alerta h5{ color:var(--vermelho); }
+.ok{ border-left-color:var(--verde); background:var(--verde-claro); }
+.ok h5{ color:var(--verde); }
+.ouro{ border-left-color:var(--ouro); background:var(--ouro-claro); }
+.ouro h5{ color:var(--ouro); }
+
+.mnem{ font-family:Helvetica,Arial,sans-serif; font-weight:700; color:var(--azul); letter-spacing:.04em; }
+
+/* ---------- QUESTÕES ---------- */
+.q{ border:1px solid var(--linha); border-radius:3px; padding:.7em .85em; margin:.8em 0; font-size:9.2pt; page-break-inside:avoid; }
+.q .cab{ font-family:Helvetica,Arial,sans-serif; font-size:7.8pt; text-transform:uppercase; letter-spacing:.08em; color:#fff; background:var(--suave); display:inline-block; padding:.2em .55em; border-radius:2px; margin-bottom:.5em; }
+.q .cab.ide{ background:#6b3f8a; }
+.q .cab.fcc{ background:#0e6b57; }
+.q .cab.ceb{ background:#a34413; }
+.q .enun{ margin-bottom:.4em; }
+.q .alts{ margin:.3em 0 .5em; padding-left:1.1em; }
+.q .gab{ border-top:1px dashed var(--linha); padding-top:.45em; margin-top:.45em; font-size:8.9pt; }
+.q .gab b{ color:var(--verde); }
+
+.grade2{ display:flex; gap:12px; }
+.grade2 > div{ flex:1; }
+
+.rodape-doc{ font-size:8pt; color:var(--suave); border-top:1px solid var(--linha); padding-top:.7em; margin-top:1.6em; }
+</style>
+<style>
+/* --- acréscimos do Volume II --- */
+.q .cab.tre{ background:#123a63; }
+.q .cab.lei{ background:#8a6a1f; }
+.dispositivo{ font-family:"Charter","Georgia",serif; font-style:italic; }
+.chip{ display:inline-block; font-family:Helvetica,Arial,sans-serif; font-size:7.6pt; text-transform:uppercase;
+       letter-spacing:.07em; padding:.12em .45em; border-radius:2px; background:#eef2f6; color:var(--azul); font-weight:700; }
+.chip.novo{ background:var(--verde-claro); color:var(--verde); }
+.chip.fim{ background:var(--vermelho-claro); color:var(--vermelho); }
+</style>
+</head>
+<body>
+
+<!-- ============================ CAPA ============================ -->
+<section class="capa">
+  <div class="selo">Auditor Fiscal da Receita Municipal · Campina Grande/PB · Volume II</div>
+  <h1>Direito Administrativo</h1>
+  <div class="regua"></div>
+  <h2>Material esquematizado dos seis tópicos finais do conteúdo programático<br>
+  Edital nº 01/2026 · Banca IDECAN · Prova objetiva em 30/08/2026</h2>
+
+  <ul class="topicos">
+    <li><b>Tópico 4</b> &nbsp;·&nbsp; Poderes administrativos</li>
+    <li><b>Tópico 5</b> &nbsp;·&nbsp; Serviços públicos</li>
+    <li><b>Tópico 6</b> &nbsp;·&nbsp; Controle da Administração Pública</li>
+    <li><b>Tópico 7</b> &nbsp;·&nbsp; Responsabilidade civil do Estado</li>
+    <li><b>Tópico 8</b> &nbsp;·&nbsp; Processo administrativo</li>
+    <li><b>Tópico 9</b> &nbsp;·&nbsp; Lei nº 14.133/2021 — licitações e contratos</li>
+  </ul>
+
+  <div class="rodape">
+    <b>Continuação.</b> Este é o <b>Volume II</b>. Os Tópicos 1 a 3 — Administração direta e indireta, princípios e
+    atos administrativos — estão no volume anterior, e são pressupostos aqui: sempre que um conceito daquele volume
+    reaparece (desconcentração, elementos do ato, autotutela), o texto remete a ele em vez de repeti-lo.<br>
+    <b>Fonte do conteúdo programático.</b> Anexo do Edital nº 01/2026, de 09/05/2026, item 2.3 (SEFIN),
+    cargo Auditor Fiscal da Receita Municipal.<br>
+    <b>Sobre as questões deste volume.</b> Diferentemente do Volume I, as questões ao final de cada tópico são
+    <b>inéditas</b>, escritas no padrão de redação de cada banca, e não transcrições de cadernos oficiais — a
+    distinção está explicada no item 0.3 e repetida na nota metodológica final.
+  </div>
+</section>
+
+<!-- ============================ PARTE 0 ============================ -->
+<h2 class="parte primeira">Parte 0 · O que muda deste ponto em diante</h2>
+
+<h3>0.1 A segunda metade do edital tem outra natureza</h3>
+
+<p>Os três primeiros tópicos do edital são <b>conceituais</b>: vivem de definições doutrinárias e de pares
+confusíveis. Os seis tópicos deste volume são, em sua maior parte, <b>legais</b> — resolvem-se pela literalidade
+de cinco diplomas, e não por doutrina:</p>
+
+<table>
+<tr><th style="width:26%">Diploma</th><th>Tópicos que ele decide</th><th>Peso na prova</th></tr>
+<tr><td class="rot">Lei nº 9.784/1999</td><td>Processo administrativo (Tópico 8) e boa parte do poder hierárquico (delegação e avocação, Tópico 4) e do controle interno (Tópico 6)</td><td>Altíssimo — é a lei mais cobrada de todo o programa</td></tr>
+<tr><td class="rot">Lei nº 14.133/2021</td><td>Licitações e contratos (Tópico 9), inteiro</td><td>Alto e crescente: desde 30/12/2023 é a <b>única</b> lei geral em vigor</td></tr>
+<tr><td class="rot">Lei nº 8.987/1995</td><td>Serviços públicos (Tópico 5): concessão, permissão, extinção, tarifa</td><td>Médio-alto, muito literal</td></tr>
+<tr><td class="rot">CF, arts. 37, §6º, e 70 a 75</td><td>Responsabilidade civil (Tópico 7) e controle externo (Tópico 6)</td><td>Alto — quase sempre somado a jurisprudência do STF</td></tr>
+<tr><td class="rot">CTN, art. 78</td><td>Poder de polícia (Tópico 4) — e é a ponte com Direito Tributário</td><td>Específico do cargo: a taxa de polícia é matéria de fisco municipal</td></tr>
+</table>
+
+<div class="box">
+<h5>Consequência prática para o estudo</h5>
+<p style="margin-bottom:0">No Volume I, decorar a <i>definição</i> resolvia. Aqui, decorar a definição <b>não</b> resolve:
+a banca cobra <b>prazo</b>, <b>quórum</b>, <b>rol</b> e <b>competência</b>. Por isso este volume tem mais tabelas de números
+e menos tabelas de conceitos. Onde houver um número, ele é a resposta.</p>
+</div>
+
+<h3>0.2 O recorte de Auditor Fiscal — três pontes com o resto do edital</h3>
+
+<ul>
+<li><b>Poder de polícia ↔ taxa de polícia.</b> O art. 78 do CTN é o conceito legal de poder de polícia <i>e</i> o
+fato gerador da taxa. Uma questão de Direito Administrativo sobre polícia administrativa e uma de Direito Tributário
+sobre taxa de fiscalização se resolvem pelo <b>mesmo dispositivo</b>. Estude-o uma vez, ganhe duas.</li>
+<li><b>Processo administrativo ↔ processo tributário.</b> A Lei nº 9.784/1999 é a lei geral <b>subsidiária</b>: onde o
+processo administrativo fiscal municipal for omisso, é ela que preenche. Prazos de recurso, motivação e
+<i>reformatio in pejus</i> vêm daí.</li>
+<li><b>Controle ↔ Tribunal de Contas.</b> O auditor fiscal municipal é agente de arrecadação, mas está do lado
+<i>controlado</i> da relação com o TCE/PB. Súmula Vinculante 3 e o prazo do Tema 445 do STF são recorrentes.</li>
+</ul>
+
+<h3>0.3 Uma diferença honesta em relação ao Volume I</h3>
+
+<div class="box ouro">
+<h5>Leia antes de usar as questões</h5>
+<p>No Volume I, cada questão ao final do tópico era <b>real</b>: transcrita de caderno oficial, com banca, órgão, ano e
+gabarito publicado. As caixas vermelhas reproduziam a redação exata que já havia sido usada para induzir ao erro.</p>
+<p style="margin-bottom:0">Neste volume isso não seria possível sem inventar procedência. As questões das seções
+“<b>Treino no padrão da banca</b>” são, portanto, <b>inéditas</b>: escritas a partir da letra da lei e da jurisprudência
+citada em cada tópico, seguindo o formato de redação de cada banca (IDECAN: enunciado-contexto + “assinale a alternativa
+correta”; FCC: alternativas longas e paralelas; CEBRASPE: item único julgado como certo ou errado). Elas treinam o
+<i>padrão</i>, não substituem a resolução de provas anteriores. Toda referência a <b>lei, súmula, tema de repercussão
+geral ou acórdão</b>, essa sim, é real e está identificada pelo número — confira-a na fonte primária sempre que
+o ponto for decisivo.</p>
+</div>
+
+<h3>0.4 Mapa deste volume</h3>
+
+<table>
+<tr><th style="width:8%">Tópico</th><th style="width:30%">Núcleo que decide a questão</th><th>Par confusível que a banca explora</th></tr>
+<tr><td class="rot">4</td><td>Poder de polícia: ciclo, delegação e prescrição</td><td>Polícia administrativa × judiciária; excesso × desvio de poder; poder disciplinar × poder de polícia</td></tr>
+<tr><td class="rot">5</td><td>Concessão × permissão × autorização e as formas de extinção</td><td>Encampação × caducidade; concessão comum × PPP</td></tr>
+<tr><td class="rot">6</td><td>Recurso administrativo (prazos) e competências do Tribunal de Contas</td><td>Controle de legalidade × de mérito; contas de governo × contas de gestão</td></tr>
+<tr><td class="rot">7</td><td>Art. 37, §6º, da CF e o tratamento da omissão</td><td>Risco administrativo × risco integral; conduta comissiva × omissiva</td></tr>
+<tr><td class="rot">8</td><td>Lei nº 9.784/1999 inteira, com os prazos</td><td>Impedimento × suspeição; anulação × revogação × convalidação</td></tr>
+<tr><td class="rot">9</td><td>Fases, modalidades e contratação direta na Lei nº 14.133/2021</td><td>Dispensa (taxativa) × inexigibilidade (exemplificativa); impedimento × inidoneidade</td></tr>
+</table>
+
+<!-- ============================ TÓPICO 4 ============================ -->
+<h2 class="parte">Tópico 4 · Poderes administrativos</h2>
+
+<h3>4.1 A ideia que organiza o tópico: poder-dever</h3>
+
+<p>Os poderes administrativos são <b>instrumentais</b>: existem para viabilizar o cumprimento da função
+administrativa, nunca em benefício do agente. Daí três consequências que a banca cobra em forma de afirmação
+absoluta:</p>
+
+<ul>
+<li>São <b>irrenunciáveis</b> — o agente não pode abrir mão de exercê-los (Lei nº 9.784/1999, art. 11: “a competência é irrenunciável”).</li>
+<li>São de exercício <b>obrigatório</b>, e não facultativo: por isso a doutrina fala em <b>poder-dever</b>. Deixar de exercer é omissão, e pode gerar responsabilidade.</li>
+<li>São <b>limitados</b>: excedido o limite, o ato não é apenas inconveniente — é <b>ilegal</b>, e o Judiciário o anula.</li>
+</ul>
+
+<div class="box alerta">
+<h5>Formulação típica de erro</h5>
+<p style="margin-bottom:0">“O exercício do poder disciplinar é <i>facultativo</i>, cabendo à autoridade avaliar a conveniência
+de instaurar o processo.” → <b>ERRADO</b>. A instauração é <b>vinculada</b> diante de indício de irregularidade; o que é
+discricionário é a <b>dosimetria</b> da sanção, dentro dos limites legais. Confundir “discricionariedade na graduação”
+com “discricionariedade na instauração” é a armadilha nº 1 do tópico.</p>
+</div>
+
+<h4>4.1.1 A observação doutrinária que vira alternativa correta</h4>
+
+<p>Boa parte da doutrina contemporânea sustenta que <b>poder vinculado e poder discricionário não são poderes autônomos</b>:
+são <i>atributos</i>, <i>graus de liberdade</i> presentes no exercício dos demais poderes. Um ato de polícia pode ser
+vinculado (licença) ou discricionário (autorização); um ato disciplinar tem margem na dosimetria e vinculação no
+dever de apurar.</p>
+
+<div class="box ok">
+<h5>Fixe assim</h5>
+<p style="margin-bottom:0">Se a alternativa disser que <b>vinculação e discricionariedade qualificam o modo de exercício
+dos poderes administrativos</b>, e não constituem poderes autônomos, ela está <b>correta</b> — é a posição doutrinária
+prevalente. Mas o edital os arrola como poderes, e a banca também pode cobrá-los assim: só marque a crítica doutrinária
+quando ela for <i>a</i> alternativa, nunca contra uma alternativa que apenas reproduza a nomenclatura clássica.</p>
+</div>
+
+<h3>4.2 Poder vinculado e poder discricionário</h3>
+
+<table>
+<tr><th style="width:22%">Aspecto</th><th>Vinculado</th><th>Discricionário</th></tr>
+<tr><td class="rot">Margem do agente</td><td><b>Nenhuma</b>: a lei descreve todos os elementos. Preenchidos os requisitos, o ato é <b>devido</b>.</td><td>Juízo de <b>conveniência e oportunidade</b> nos limites da lei — o <b>mérito</b> administrativo.</td></tr>
+<tr><td class="rot">Elementos livres</td><td>—</td><td><b>Motivo</b> e <b>objeto</b>. Competência, finalidade e forma são <b>sempre vinculados</b>.</td></tr>
+<tr><td class="rot">Exemplos</td><td>Licença para construir (atendidos os requisitos); aposentadoria compulsória; lançamento tributário (CTN, art. 3º e art. 142, § único).</td><td>Autorização de uso de bem público; permissão de uso; escolha da sanção dentro da faixa legal.</td></tr>
+<tr><td class="rot">Controle judicial</td><td>Integral quanto à subsunção do fato à norma.</td><td>Integral quanto à <b>legalidade e juridicidade</b> (competência, finalidade, forma, existência e veracidade do motivo, razoabilidade e proporcionalidade). <b>Vedada</b> a substituição do mérito.</td></tr>
+</table>
+
+<div class="box alerta">
+<h5>Duas armadilhas gêmeas</h5>
+<ul style="margin-bottom:0">
+<li>“Ato discricionário <b>não</b> se submete a controle judicial.” → <b>ERRADO</b>. Submete-se ao controle de legalidade; o que não se controla é o mérito legítimo.</li>
+<li>“No ato discricionário, <b>todos</b> os elementos comportam juízo de conveniência.” → <b>ERRADO</b>. Só motivo e objeto.</li>
+</ul>
+</div>
+
+<p>O lançamento tributário merece destaque para este cargo: o art. 142, parágrafo único, do CTN diz que a atividade
+de lançamento é <b>vinculada e obrigatória, sob pena de responsabilidade funcional</b>. É o exemplo perfeito de
+poder vinculado — e frequentemente é o distrator “correto” escondido entre exemplos de discricionariedade.</p>
+
+<h3>4.3 Poder hierárquico</h3>
+
+<p>Decorre da <b>desconcentração</b> (Volume I, Tópico 1): existe <b>dentro</b> de uma mesma pessoa jurídica, entre órgãos
+e agentes escalonados. Não existe hierarquia entre a Administração Direta e as entidades da Indireta — ali há
+<b>controle finalístico</b>, e essa é a troca mais explorada pelas bancas.</p>
+
+<table>
+<tr><th style="width:30%">Faculdade decorrente</th><th>Conteúdo</th></tr>
+<tr><td class="rot">Ordenar</td><td>Editar comandos e instruções aos subordinados.</td></tr>
+<tr><td class="rot">Fiscalizar</td><td>Vigiar permanentemente a atuação do subordinado.</td></tr>
+<tr><td class="rot">Rever</td><td>Anular ou revogar atos do subordinado (é a autotutela na vertical).</td></tr>
+<tr><td class="rot">Delegar e avocar</td><td>Redistribuir temporariamente o exercício da competência (arts. 11 a 15 da Lei nº 9.784/1999).</td></tr>
+<tr><td class="rot">Aplicar sanções</td><td>Ponte com o poder disciplinar.</td></tr>
+<tr><td class="rot">Dirimir conflitos</td><td>Resolver conflitos de competência entre subordinados.</td></tr>
+</table>
+
+<h4>4.3.1 Delegação e avocação — o bloco literal que cai todo ano</h4>
+
+<div class="box ouro">
+<h5>Lei nº 9.784/1999, arts. 11 a 15 — o que decorar</h5>
+<ul style="margin-bottom:0">
+<li><b>Art. 11.</b> A competência é <b>irrenunciável</b> e se exerce pelos órgãos a que foi atribuída como própria, <b>salvo</b> os casos de delegação e avocação legalmente admitidos.</li>
+<li><b>Art. 12.</b> Pode-se delegar <b>parte</b> da competência a outros órgãos ou titulares, <b>ainda que não haja subordinação hierárquica</b>, quando conveniente por circunstâncias de índole técnica, social, econômica, jurídica ou territorial.</li>
+<li><b>Art. 13.</b> <b>Não</b> podem ser objeto de delegação: <b>I</b> — a edição de atos de caráter <b>normativo</b>; <b>II</b> — a decisão de <b>recursos</b> administrativos; <b>III</b> — as matérias de competência <b>exclusiva</b> do órgão ou autoridade.</li>
+<li><b>Art. 14.</b> O ato de delegação e sua revogação são <b>publicados</b>; a delegação é <b>revogável a qualquer tempo</b>; as decisões adotadas por delegação mencionam essa qualidade e <b>consideram-se editadas pelo delegado</b>.</li>
+<li><b>Art. 15.</b> A <b>avocação</b> é <b>temporária</b>, de competência atribuída a órgão <b>hierarquicamente inferior</b>, e exige <b>motivos relevantes devidamente justificados</b>.</li>
+</ul>
+</div>
+
+<div class="box ok">
+<h5>Fixe assim — <span class="mnem">NO.RE.EX. não se delega</span></h5>
+<p style="margin-bottom:0"><b>NO</b>rmativo · <b>RE</b>curso · <b>EX</b>clusiva.<br>
+E os quatro adjetivos da delegação: <b>parcial</b> (nunca total), <b>revogável</b> a qualquer tempo, <b>publicada</b>,
+e sem exigir <b>hierarquia</b>. A responsabilidade pela decisão delegada é do <b>delegado</b> — e a autoridade delegante
+<b>não perde</b> a competência, que passa a ser exercida cumulativamente.</p>
+</div>
+
+<div class="box alerta">
+<h5>Pegadinhas de delegação</h5>
+<ul style="margin-bottom:0">
+<li>“A delegação <b>pressupõe</b> subordinação hierárquica.” → <b>ERRADO</b> (art. 12: “ainda que não haja”).</li>
+<li>“A delegação transfere a <b>titularidade</b> da competência.” → <b>ERRADO</b>. Transfere apenas o <b>exercício</b>, de parte dela, temporariamente.</li>
+<li>“A avocação pode recair sobre competência de órgão <b>de igual hierarquia</b>.” → <b>ERRADO</b>. Só de <b>inferior</b>.</li>
+<li>“A avocação é <b>definitiva</b> enquanto não revogada.” → <b>ERRADO</b>. É expressamente <b>temporária</b>.</li>
+<li>“É delegável a decisão de recurso administrativo, desde que ao órgão imediatamente superior.” → <b>ERRADO</b> (art. 13, II — vedação absoluta).</li>
+</ul>
+</div>
+
+<h3>4.4 Poder disciplinar</h3>
+
+<p><b>Definição operacional:</b> é o poder de apurar infrações e aplicar sanções a quem tem <b>vínculo específico</b>
+com a Administração — servidores <i>e</i> particulares contratados. O critério do vínculo é o que separa disciplinar de
+polícia, e é o eixo de quase toda questão do subtópico.</p>
+
+<table>
+<tr><th style="width:22%"></th><th>Poder disciplinar</th><th>Poder de polícia</th></tr>
+<tr><td class="rot">Vínculo</td><td><b>Especial</b> (servidor, contratado, aluno de escola pública, permissionário)</td><td><b>Geral</b> (qualquer particular, pelo só fato de viver em sociedade)</td></tr>
+<tr><td class="rot">Fundamento</td><td>Supremacia especial</td><td>Supremacia geral</td></tr>
+<tr><td class="rot">Exemplo</td><td>Suspensão de servidor; multa contratual à empresa contratada (Lei nº 14.133/2021, art. 156)</td><td>Multa de trânsito; interdição de estabelecimento; auto de infração ao contribuinte</td></tr>
+</table>
+
+<div class="box alerta">
+<h5>A troca preferida das bancas</h5>
+<p style="margin-bottom:0">“A multa aplicada ao <b>contratado</b> pelo descumprimento de cláusula contratual é manifestação
+do <b>poder de polícia</b>.” → <b>ERRADO</b>: há vínculo específico, logo é <b>poder disciplinar</b>. E o espelho:
+“A multa aplicada ao <b>particular</b> por infração sanitária decorre do poder disciplinar.” → <b>ERRADO</b>: vínculo geral,
+logo <b>poder de polícia</b>.</p>
+</div>
+
+<h4>4.4.1 Discricionariedade limitada e dever de motivar</h4>
+<ul>
+<li>A <b>instauração</b> da apuração, diante de notícia de irregularidade, é <b>vinculada</b>.</li>
+<li>A <b>escolha e a graduação</b> da sanção comportam juízo — mas <b>vinculado à proporcionalidade</b> e <b>sempre motivado</b> (Lei nº 9.784/1999, art. 50, II: atos que “imponham ou agravem deveres, encargos ou sanções” exigem motivação).</li>
+<li>Sanção só pode ser a <b>prevista em lei</b> e aplicada pela autoridade competente (Lei nº 9.784/1999, art. 68).</li>
+</ul>
+
+<div class="box">
+<h5>Jurisprudência que a banca gosta no processo disciplinar</h5>
+<ul style="margin-bottom:0">
+<li><b>Súmula Vinculante 5:</b> a falta de defesa técnica por advogado no processo administrativo disciplinar <b>não</b> ofende a Constituição.</li>
+<li><b>Súmula 591 do STJ:</b> é <b>permitida</b> a prova emprestada no processo administrativo disciplinar, desde que assegurados o contraditório e a ampla defesa.</li>
+<li><b>Súmula 635 do STJ:</b> os prazos prescricionais da lei de regência iniciam-se na data em que a <b>autoridade competente para instaurar</b> o processo toma conhecimento do fato.</li>
+<li><b>Súmula 641 do STJ:</b> a portaria de instauração do processo disciplinar <b>prescinde</b> da exposição detalhada dos fatos a serem apurados — o detalhamento é exigido na <b>indiciação</b>.</li>
+<li>Independência das instâncias: a sanção administrativa independe das esferas penal e civil, <b>salvo</b> absolvição penal por <b>inexistência do fato</b> ou <b>negativa de autoria</b>, que vincula a Administração.</li>
+</ul>
+</div>
+
+<h3>4.5 Poder regulamentar (ou normativo)</h3>
+
+<p>É o poder de editar atos gerais e abstratos para <b>dar fiel execução à lei</b>. A palavra decisiva é
+<b>secundário</b>: o regulamento não inova originariamente na ordem jurídica, não cria direito, não cria obrigação
+não prevista em lei, não cria tributo, não cria órgão.</p>
+
+<table>
+<tr><th style="width:26%">Espécie</th><th>Base</th><th>Alcance</th></tr>
+<tr><td class="rot">Regulamento <b>executivo</b></td><td>CF, art. 84, IV</td><td>Regra geral. Detalha lei preexistente; é <b>secundário</b> e <b>subordinado</b>. Indelegável (art. 84, § único, admite delegação apenas dos incisos VI, XII e XXV, 1ª parte).</td></tr>
+<tr><td class="rot">Regulamento <b>autônomo</b></td><td>CF, art. 84, VI (redação da EC 32/2001)</td><td><b>Exceção taxativa</b>: (a) organização e funcionamento da administração federal, quando <b>não</b> implicar aumento de despesa nem criação ou extinção de órgãos; (b) extinção de <b>funções ou cargos públicos vagos</b>. É <b>delegável</b> a Ministros, ao AGU e ao Procurador-Geral.</td></tr>
+<tr><td class="rot">Atos normativos de agências</td><td>Lei setorial + Lei nº 13.848/2019</td><td>Poder normativo <b>técnico</b>, nos limites e parâmetros fixados na lei (deslegalização / deferimento normativo).</td></tr>
+<tr><td class="rot">Demais atos ordinatórios</td><td>Hierarquia</td><td>Portarias, instruções normativas, ordens de serviço, circulares — efeitos <b>internos</b>.</td></tr>
+</table>
+
+<div class="box alerta">
+<h5>Os dois erros que aparecem juntos</h5>
+<ul style="margin-bottom:0">
+<li>“O decreto autônomo pode <b>criar</b> órgãos, desde que sem aumento de despesa.” → <b>ERRADO</b>: pode <b>organizar</b> e <b>extinguir cargos vagos</b>, nunca criar ou extinguir órgão.</li>
+<li>“O regulamento executivo pode criar obrigações não previstas em lei, desde que compatíveis com a finalidade legal.” → <b>ERRADO</b>: viola o art. 5º, II, da CF, e sujeita o ato à <b>sustação pelo Congresso</b> (CF, art. 49, V), quando exorbite do poder regulamentar.</li>
+</ul>
+</div>
+
+<div class="box">
+<h5>Ponte com o Tópico 6</h5>
+<p style="margin-bottom:0">O <b>art. 49, V</b>, da CF é o único caso em que o Legislativo <b>susta o ato</b> diretamente:
+“sustar os atos normativos do Poder Executivo que exorbitem do poder regulamentar ou dos limites de delegação
+legislativa”. Guarde-o como controle legislativo, não como poder regulamentar — mas saiba que a banca o cobra
+nos dois tópicos.</p>
+</div>
+
+<h3>4.6 Poder de polícia — o núcleo do tópico</h3>
+
+<div class="box ouro">
+<h5>CTN, art. 78 — o conceito legal (decorar literalmente)</h5>
+<p class="dispositivo">“Considera-se poder de polícia atividade da administração pública que, limitando ou disciplinando
+direito, interesse ou liberdade, regula a prática de ato ou abstenção de fato, em razão de interesse público concernente
+à segurança, à higiene, à ordem, aos costumes, à disciplina da produção e do mercado, ao exercício de atividades
+econômicas dependentes de concessão ou autorização do Poder Público, à tranquilidade pública ou ao respeito à
+propriedade e aos direitos individuais ou coletivos.”</p>
+<p style="margin-bottom:0"><b>Parágrafo único.</b> Considera-se <b>regular</b> o exercício do poder de polícia quando
+desempenhado pelo órgão competente nos limites da lei aplicável, com observância do processo legal e, tratando-se de
+atividade que a lei tenha como discricionária, <b>sem abuso ou desvio de poder</b>.</p>
+</div>
+
+<div class="box">
+<h5>Por que este artigo importa para o cargo</h5>
+<p style="margin-bottom:0">O art. 78 é o <b>fato gerador da taxa de polícia</b> (CTN, art. 77). O STF já assentou que a
+existência do <b>órgão fiscalizador em funcionamento</b> autoriza presumir o efetivo exercício do poder de polícia, ainda
+que não haja fiscalização porta a porta em cada estabelecimento (RE 588.322, repercussão geral) — tese que sustenta a
+cobrança de taxas de fiscalização e funcionamento pelos municípios. Uma questão de Administrativo e uma de Tributário
+se resolvem com o mesmo parágrafo.</p>
+</div>
+
+<h4>4.6.1 O ciclo de polícia — as quatro fases</h4>
+
+<table>
+<tr><th style="width:22%">Fase</th><th>Conteúdo</th><th>Exemplo</th></tr>
+<tr><td class="rot">1. Ordem de polícia</td><td>A <b>norma</b> que limita ou condiciona o direito. É legislação em sentido amplo.</td><td>Lei/código de posturas que exige alvará para funcionamento.</td></tr>
+<tr><td class="rot">2. Consentimento de polícia</td><td>A <b>anuência</b> prévia: licença (vinculada) ou autorização (discricionária).</td><td>Alvará de funcionamento; licença para construir.</td></tr>
+<tr><td class="rot">3. Fiscalização de polícia</td><td>Verificação do cumprimento. Pode ser de ofício ou provocada.</td><td>Vistoria sanitária; ação fiscal no estabelecimento.</td></tr>
+<tr><td class="rot">4. Sanção de polícia</td><td>A <b>medida repressiva</b> diante do descumprimento.</td><td>Multa, interdição, apreensão, demolição, cassação do alvará.</td></tr>
+</table>
+
+<h4>4.6.2 Delegação do poder de polícia — a tese que decide a questão difícil</h4>
+
+<div class="box ouro">
+<h5>STF, RE 633.782 (Tema 532, 2020) — tese fixada</h5>
+<p style="margin-bottom:0">É <b>constitucional</b> a delegação do poder de polícia, <b>por meio de lei</b>, a pessoas jurídicas
+de <b>direito privado integrantes da Administração indireta</b> de capital social <b>majoritariamente público</b> que prestem
+<b>exclusivamente serviço público de atuação própria do Estado</b> e em <b>regime não concorrencial</b>.</p>
+</div>
+
+<table>
+<tr><th style="width:30%">Fase do ciclo</th><th>Delegável a estatal nos termos do Tema 532?</th></tr>
+<tr><td class="rot">Ordem de polícia</td><td><b>NÃO</b> — é atividade legislativa, indelegável.</td></tr>
+<tr><td class="rot">Consentimento</td><td><b>SIM</b></td></tr>
+<tr><td class="rot">Fiscalização</td><td><b>SIM</b></td></tr>
+<tr><td class="rot">Sanção</td><td><b>SIM</b></td></tr>
+</table>
+
+<div class="box alerta">
+<h5>O que continua vedado — e é o distrator preferido</h5>
+<ul style="margin-bottom:0">
+<li>Delegação a <b>entidade privada</b> não integrante da Administração indireta (particular em colaboração): <b>inconstitucional</b> — foi o que decidiu o STF na <b>ADI 1.717</b>, ao afastar a delegação do poder de polícia a conselhos de fiscalização profissional constituídos sob regime privado.</li>
+<li>O particular pode praticar apenas <b>atos materiais preparatórios ou de execução</b>, sem juízo de valor: o exemplo clássico é a <b>empresa que opera o radar</b> — quem aplica a multa é o agente público.</li>
+<li>“A delegação a estatal <b>independe de lei</b>, bastando previsão em contrato de gestão.” → <b>ERRADO</b>: a tese exige lei.</li>
+</ul>
+</div>
+
+<h4>4.6.3 Atributos</h4>
+
+<table>
+<tr><th style="width:24%">Atributo</th><th>Significado</th><th>Ressalva que a banca cobra</th></tr>
+<tr><td class="rot">Discricionariedade</td><td>Margem na escolha do meio, da sanção e do momento.</td><td><b>Não é universal</b>: a <b>licença</b> é ato de polícia <b>vinculado</b>. Alternativa que disser “todo ato de polícia é discricionário” está <b>errada</b>.</td></tr>
+<tr><td class="rot">Autoexecutoriedade</td><td>Executar a medida <b>sem</b> prévia autorização judicial.</td><td>Depende de <b>previsão legal</b> ou de <b>urgência</b>. Decompõe-se em <b>exigibilidade</b> (meios indiretos de coerção, sempre presente) e <b>executoriedade</b> (meios diretos, nem sempre).</td></tr>
+<tr><td class="rot">Coercibilidade</td><td>Imposição coativa, admitido o uso proporcional da força.</td><td>Inseparável da autoexecutoriedade na prática das provas.</td></tr>
+</table>
+
+<div class="box alerta">
+<h5>A exceção que quase toda prova cobra</h5>
+<p style="margin-bottom:0">A <b>multa</b> é o exemplo padrão de ato de polícia <b>sem executoriedade</b>: aplicada de ofício
+(exigível), mas <b>cobrada judicialmente</b>, por execução fiscal, se não paga. A Administração não invade a conta do
+devedor. Item que afirme “a multa administrativa é dotada de executoriedade, podendo ser cobrada diretamente pela
+Administração” está <b>errado</b>.</p>
+</div>
+
+<h4>4.6.4 Polícia administrativa × polícia judiciária</h4>
+
+<table>
+<tr><th style="width:22%">Critério</th><th>Polícia administrativa</th><th>Polícia judiciária</th></tr>
+<tr><td class="rot">Objeto</td><td>Incide sobre <b>bens, direitos e atividades</b></td><td>Incide sobre <b>pessoas</b></td></tr>
+<tr><td class="rot">Natureza do ilícito</td><td>Ilícito <b>administrativo</b></td><td>Ilícito <b>penal</b></td></tr>
+<tr><td class="rot">Caráter</td><td>Predominantemente <b>preventivo</b> (mas também repressivo)</td><td>Predominantemente <b>repressivo</b> (apuração após o fato)</td></tr>
+<tr><td class="rot">Quem exerce</td><td>Órgãos administrativos <b>em geral</b> (vigilância sanitária, fisco, posturas, ambiental)</td><td>Corporações <b>especializadas</b> (polícia civil, polícia federal)</td></tr>
+<tr><td class="rot">Regime</td><td>Direito Administrativo</td><td>Processo Penal</td></tr>
+</table>
+
+<div class="box ok">
+<h5>Fixe assim</h5>
+<p style="margin-bottom:0">O critério <b>não</b> é a corporação, é o <b>ilícito</b>. A mesma polícia militar faz polícia
+<b>administrativa</b> quando fiscaliza o cumprimento de posturas e <b>judiciária</b> quando atua na apuração de crime.
+Item que use a corporação como critério exclusivo está errado.</p>
+</div>
+
+<h4>4.6.5 Prescrição da pretensão punitiva</h4>
+<ul>
+<li>No âmbito <b>federal</b>, a <b>Lei nº 9.873/1999</b> fixa em <b>5 anos</b> o prazo da ação punitiva da Administração
+no exercício do poder de polícia, contados da data do fato ou, se permanente ou continuado, do dia em que cessar.</li>
+<li>Se o fato também for <b>crime</b>, aplica-se o prazo prescricional da <b>lei penal</b>.</li>
+<li><b>Prescrição intercorrente de 3 anos</b>: paralisado o procedimento por mais de três anos, pendente de julgamento
+ou despacho, prescreve.</li>
+<li>É lei <b>federal</b> — Estados e Municípios têm competência para fixar prazos próprios; na omissão, a jurisprudência
+tende à aplicação analógica do prazo quinquenal.</li>
+</ul>
+
+<h3>4.7 Uso e abuso de poder</h3>
+
+<table>
+<tr><th style="width:22%"></th><th>Excesso de poder</th><th>Desvio de poder (desvio de finalidade)</th></tr>
+<tr><td class="rot">Elemento viciado</td><td><b>Competência</b></td><td><b>Finalidade</b></td></tr>
+<tr><td class="rot">O que ocorre</td><td>O agente é competente, mas <b>vai além</b> dos limites da sua atribuição.</td><td>O agente é competente e age nos limites, mas persegue <b>fim diverso</b> do interesse público ou do fim específico da norma.</td></tr>
+<tr><td class="rot">Visibilidade</td><td><b>Ostensivo</b> — afere-se pela comparação com a norma de competência.</td><td><b>Dissimulado</b> — o ato é aparentemente legal; exige prova indiciária da real intenção.</td></tr>
+<tr><td class="rot">Convalidação</td><td><b>Possível</b> se o vício for quanto à pessoa e a competência não for exclusiva (Volume I, item 3.6).</td><td><b>Impossível</b> — vício insanável.</td></tr>
+<tr><td class="rot">Exemplo</td><td>Fiscal que interdita estabelecimento quando sua atribuição alcança apenas a autuação.</td><td>Remoção de servidor, formalmente regular, usada como <b>punição disfarçada</b>.</td></tr>
+</table>
+
+<div class="box">
+<h5>Dois complementos</h5>
+<ul style="margin-bottom:0">
+<li>O <b>desvio de finalidade</b> tem base legal expressa: Lei nº 4.717/1965 (ação popular), art. 2º, “e”, e parágrafo único, “e”: “o desvio de finalidade se verifica quando o agente pratica o ato visando a fim diverso daquele previsto, explícita ou implicitamente, na regra de competência”.</li>
+<li>Há ainda a <b>omissão abusiva</b>: deixar de agir quando a lei impõe o dever é modalidade de abuso, atacável por mandado de segurança e por mandado de injunção, conforme o caso.</li>
+</ul>
+</div>
+
+<h3>4.8 Treino no padrão da banca — Tópico 4</h3>
+<p class="pequeno">Questões <b>inéditas</b>, escritas para este material no formato de cada banca (ver item 0.3). As
+referências normativas e jurisprudenciais citadas nos comentários são reais.</p>
+
+<div class="q">
+<span class="cab tre">Treino · padrão IDECAN · múltipla escolha</span>
+<div class="enun">Determinado município delegou, por lei, a uma empresa pública municipal de capital integralmente público,
+prestadora exclusiva de serviço de transporte coletivo em regime não concorrencial, atribuições relacionadas ao poder de
+polícia de trânsito. À luz do entendimento firmado pelo Supremo Tribunal Federal, assinale a alternativa correta.</div>
+<ol class="alts" type="A">
+<li>A delegação é integralmente inconstitucional, pois o poder de polícia é indelegável a pessoa jurídica de direito privado, ainda que integrante da Administração indireta.</li>
+<li>A delegação é válida quanto ao consentimento, à fiscalização e à sanção, mas não alcança a ordem de polícia, que corresponde à atividade normativa.</li>
+<li>A delegação é válida em todas as quatro fases do ciclo de polícia, inclusive a ordem, desde que haja autorização legal específica.</li>
+<li>A delegação seria válida independentemente de lei, bastando a celebração de contrato de gestão que preveja as atribuições.</li>
+<li>A delegação é válida apenas quanto à fiscalização, por se tratar de atividade material desprovida de juízo de valor.</li>
+</ol>
+<div class="gab"><b>Resposta: B.</b> É a tese do Tema 532 (RE 633.782): delegação por lei a estatal de capital majoritariamente
+público, prestadora exclusiva de serviço público em regime não concorrencial, alcança <b>consentimento, fiscalização e
+sanção</b>; a <b>ordem de polícia</b> permanece indelegável. (A) confunde o caso com a ADI 1.717, que tratava de entidade
+privada <i>não</i> integrante da Administração indireta. (D) suprime a exigência de lei, expressa na tese. (E) restringe
+indevidamente — a sanção também foi admitida.</div>
+</div>
+
+<div class="q">
+<span class="cab tre">Treino · padrão FCC · múltipla escolha</span>
+<div class="enun">Sobre delegação e avocação de competência na Lei nº 9.784/1999, é correto afirmar que</div>
+<ol class="alts" type="A">
+<li>a delegação depende de subordinação hierárquica entre delegante e delegado, e abrange a totalidade da competência delegada, salvo ressalva expressa no ato.</li>
+<li>a delegação pode ser feita ainda que não haja subordinação hierárquica, é sempre parcial e revogável a qualquer tempo, e as decisões adotadas por delegação consideram-se editadas pelo delegado.</li>
+<li>a avocação é definitiva enquanto não sobrevier ato de revogação, e pode recair sobre competência de órgão de igual hierarquia, desde que motivada.</li>
+<li>a decisão de recursos administrativos é delegável ao órgão imediatamente superior, por não constituir matéria de competência exclusiva.</li>
+<li>a competência é renunciável quando o órgão titular demonstrar impossibilidade técnica de exercê-la, hipótese em que a atribuição retorna ao órgão delegante.</li>
+</ol>
+<div class="gab"><b>Resposta: B.</b> Reúne os arts. 12, 14, <i>caput</i> e § 3º. (A) inverte o art. 12 e ignora a parcialidade.
+(C) contraria o art. 15 em dois pontos: a avocação é <b>temporária</b> e recai sobre órgão <b>inferior</b>. (D) viola o art. 13, II.
+(E) viola o art. 11 — a competência é <b>irrenunciável</b>. Padrão FCC: alternativas longas e paralelas, cada distrator
+negando um único requisito legal.</div>
+</div>
+
+<div class="q">
+<span class="cab tre">Treino · padrão CEBRASPE · item certo/errado</span>
+<div class="enun">A multa aplicada pela autoridade fiscal municipal a contribuinte que descumpre obrigação acessória
+constitui manifestação do poder disciplinar, dada a existência de vínculo jurídico entre o contribuinte e a Administração
+tributária.</div>
+<div class="gab"><b>ERRADO.</b> O vínculo tributário é de <b>supremacia geral</b>, e não vínculo <i>especial</i> de sujeição:
+trata-se de <b>poder de polícia</b> (CTN, art. 78). O poder disciplinar pressupõe vínculo específico — servidor, contratado,
+concessionário. Este é o par confusível nº 1 do tópico, e o CEBRASPE costuma embuti-lo em item que parece falar de
+Direito Tributário.</div>
+</div>
+
+<div class="q">
+<span class="cab tre">Treino · padrão CEBRASPE · item certo/errado</span>
+<div class="enun">A autoexecutoriedade é atributo presente em todos os atos de polícia, razão pela qual a multa
+administrativa não paga pode ser executada diretamente pela Administração, independentemente de intervenção do
+Poder Judiciário.</div>
+<div class="gab"><b>ERRADO.</b> Dois erros somados — o padrão da banca. Primeiro, a autoexecutoriedade <b>não</b> é
+universal: depende de previsão legal ou de urgência. Segundo, a multa é o exemplo clássico de ato <b>exigível</b> mas
+<b>não executório</b>: a cobrança forçada se faz por <b>execução fiscal</b>, no Judiciário.</div>
+</div>
+
+<!-- ============================ TÓPICO 5 ============================ -->
+<h2 class="parte">Tópico 5 · Serviços públicos</h2>
+
+<h3>5.1 Conceito e o dispositivo-matriz</h3>
+
+<div class="box ouro">
+<h5>CF, art. 175</h5>
+<p class="dispositivo" style="margin-bottom:.4em">“Incumbe ao Poder Público, na forma da lei, <b>diretamente ou sob regime
+de concessão ou permissão</b>, <b>sempre através de licitação</b>, a prestação de serviços públicos.”</p>
+<p style="margin-bottom:0"><b>Parágrafo único.</b> A lei disporá sobre: I — o regime das empresas concessionárias e
+permissionárias, o caráter especial de seu contrato e sua prorrogação, bem como as condições de caducidade,
+fiscalização e rescisão; II — os direitos dos usuários; III — <b>política tarifária</b>; IV — a obrigação de manter
+serviço adequado.</p>
+</div>
+
+<p>Três leituras que a banca extrai deste artigo:</p>
+<ul>
+<li>A <b>titularidade</b> do serviço público é sempre do Estado; o que se transfere ao particular é a <b>execução</b>
+(descentralização por colaboração — Volume I, item 1.2.1).</li>
+<li>A licitação é <b>obrigatória</b> para concessão e permissão — inclusive para permissão, que é contrato, e não ato.</li>
+<li>A <b>autorização</b> de serviço público <b>não</b> está no art. 175: é ato unilateral, precário e, em regra,
+dispensa licitação. Item que afirme que “toda delegação de serviço público exige licitação” costuma ser cobrado como
+<b>errado</b> justamente por causa da autorização.</li>
+</ul>
+
+<h3>5.2 Princípios do serviço adequado</h3>
+
+<div class="box ouro">
+<h5>Lei nº 8.987/1995, art. 6º, § 1º</h5>
+<p style="margin-bottom:0">“Serviço adequado é o que satisfaz as condições de <b>regularidade</b>, <b>continuidade</b>,
+<b>eficiência</b>, <b>segurança</b>, <b>atualidade</b>, <b>generalidade</b>, <b>cortesia</b> na sua prestação e
+<b>modicidade</b> das tarifas.”</p>
+</div>
+
+<div class="box ok">
+<h5>Fixe assim — <span class="mnem">RE.CO.E.S.A.G.C.M.</span> (oito, exatamente oito)</h5>
+<p style="margin-bottom:0"><b>Re</b>gularidade · <b>Co</b>ntinuidade · <b>E</b>ficiência · <b>S</b>egurança ·
+<b>A</b>tualidade · <b>G</b>eneralidade · <b>C</b>ortesia · <b>M</b>odicidade.<br>
+<b>Atualidade</b> tem definição legal própria (§ 2º): compreende a <b>modernidade</b> das técnicas, do equipamento e das
+instalações e a sua <b>conservação</b>, bem como a <b>melhoria e expansão</b> do serviço. É o inciso que a banca
+inventa erro trocando por “manutenção do serviço nas condições originalmente contratadas”.</p>
+</div>
+
+<h4>5.2.1 Continuidade e a interrupção lícita</h4>
+
+<table>
+<tr><th style="width:38%">Hipótese (Lei nº 8.987/1995, art. 6º, § 3º)</th><th>Exige aviso prévio?</th></tr>
+<tr><td class="rot">Situação de <b>emergência</b></td><td><b>Não</b></td></tr>
+<tr><td class="rot">Razões de ordem <b>técnica ou de segurança</b> das instalações</td><td><b>Sim</b></td></tr>
+<tr><td class="rot"><b>Inadimplemento do usuário</b>, considerado o interesse da coletividade</td><td><b>Sim</b></td></tr>
+</table>
+
+<div class="box">
+<h5>O que o STJ acrescentou</h5>
+<ul style="margin-bottom:0">
+<li>O corte por <b>inadimplemento atual</b> é lícito e <b>não</b> viola o princípio da continuidade — a interrupção legal está expressa na lei.</li>
+<li>É <b>ilícito</b> o corte fundado em <b>débitos antigos e consolidados</b>, que devem ser cobrados pelas vias ordinárias de cobrança, e não pela suspensão do fornecimento.</li>
+<li>Também se veda o corte usado como meio coercitivo para cobrar <b>débito de terceiro</b> ou <b>débito do antigo ocupante</b> do imóvel, de natureza pessoal.</li>
+<li>Em unidades que prestam <b>serviços essenciais à coletividade</b> (hospital público, por exemplo), a jurisprudência exige ponderação e, em regra, afasta o corte.</li>
+</ul>
+</div>
+
+<h3>5.3 Classificações que a banca cobra</h3>
+
+<table>
+<tr><th style="width:26%">Critério</th><th>Espécies</th><th>Consequência prática</th></tr>
+<tr><td class="rot">Destinatários</td><td><b><i>Uti universi</i></b> (gerais, indivisíveis, prestados à coletividade — segurança pública, iluminação pública) · <b><i>Uti singuli</i></b> (individuais, divisíveis, com usuário determinado — água, energia)</td><td>Serviço <i>uti universi</i> é custeado por <b>impostos</b>; <i>uti singuli</i>, por <b>taxa</b> ou <b>tarifa</b>. Ponte direta com Tributário.</td></tr>
+<tr><td class="rot">Essencialidade</td><td><b>Próprios</b> (o Estado presta direta ou indiretamente, sob regime público) · <b>Impróprios</b> (atividades de interesse coletivo prestadas por particulares sob autorização e fiscalização)</td><td>A doutrina diverge sobre a natureza dos impróprios; a banca cobra o rótulo, não a controvérsia.</td></tr>
+<tr><td class="rot">Delegabilidade</td><td><b>Delegáveis</b> (transporte, energia, telecomunicações) · <b>Indelegáveis</b> (segurança pública, jurisdição, defesa nacional, fiscalização tributária)</td><td>Atividades <b>típicas de Estado</b> não se delegam a particular.</td></tr>
+<tr><td class="rot">Titularidade constitucional</td><td>Federais (CF, art. 21), estaduais (art. 25, § 2º — gás canalizado), municipais (art. 30, V — <b>interesse local</b>, inclusive transporte coletivo, que tem <b>caráter essencial</b>)</td><td>O art. 30, V, é o dispositivo do serviço público <b>municipal</b> — relevante para prova de cargo municipal.</td></tr>
+</table>
+
+<div class="box alerta">
+<h5>Taxa × tarifa — a distinção que cai nas duas disciplinas</h5>
+<table style="margin-bottom:0">
+<tr><th style="width:24%"></th><th>Taxa</th><th>Tarifa (preço público)</th></tr>
+<tr><td class="rot">Natureza</td><td><b>Tributo</b></td><td>Preço, natureza <b>contratual</b></td></tr>
+<tr><td class="rot">Regime</td><td>Legal, compulsório</td><td>Contratual, facultativo</td></tr>
+<tr><td class="rot">Instituição</td><td><b>Lei</b>; sujeita à legalidade e à anterioridade tributárias</td><td>Ato do poder concedente / contrato; <b>não</b> se sujeita à anterioridade</td></tr>
+<tr><td class="rot">Rescindível?</td><td>Não — decorre de lei</td><td>Sim — a relação é contratual</td></tr>
+<tr><td class="rot">Súmula</td><td colspan="2"><b>Súmula 545 do STF:</b> preços de serviços públicos e taxas não se confundem, porque estas, diferentemente daqueles, são compulsórias.</td></tr>
+</table>
+</div>
+
+<h3>5.4 Concessão, permissão e autorização</h3>
+
+<table>
+<tr><th style="width:18%"></th><th>Concessão comum</th><th>Permissão</th><th>Autorização</th></tr>
+<tr><td class="rot">Natureza</td><td><b>Contrato</b> administrativo</td><td><b>Contrato de adesão</b> (Lei nº 8.987/1995, art. 40)</td><td><b>Ato</b> administrativo unilateral</td></tr>
+<tr><td class="rot">Discricionariedade / precariedade</td><td>Não precária; prazo determinado</td><td><b>Precária</b> e <b>revogável</b> a qualquer tempo pelo poder concedente</td><td><b>Discricionária e precária</b></td></tr>
+<tr><td class="rot">Licitação</td><td><b>Concorrência</b> (ou diálogo competitivo, art. 2º, II, com a redação dada pela Lei nº 14.133/2021)</td><td><b>Licitação</b> — sem modalidade vinculada</td><td>Em regra <b>dispensada</b></td></tr>
+<tr><td class="rot">Delegatário</td><td>Pessoa jurídica ou <b>consórcio</b> de empresas</td><td>Pessoa <b>física</b> ou jurídica</td><td>Pessoa física ou jurídica</td></tr>
+<tr><td class="rot">Prazo</td><td><b>Determinado</b> (a lei não fixa teto geral)</td><td>Sem prazo definido em lei; a precariedade é a regra</td><td>Sem prazo</td></tr>
+<tr><td class="rot">Indenização na extinção antecipada</td><td>Sim, dos bens reversíveis não amortizados</td><td>Em regra não há (precariedade), salvo previsão contratual ou prazo certo</td><td>Em regra não há</td></tr>
+</table>
+
+<div class="box ok">
+<h5>Fixe assim — a frase que resolve o par</h5>
+<p style="margin-bottom:0"><b>Concessão: só pessoa jurídica ou consórcio, nunca pessoa física.</b><br>
+<b>Permissão: admite pessoa física, é contrato de adesão, precário e revogável.</b><br>
+<b>Autorização: ato unilateral, discricionário e precário — não é contrato.</b><br>
+E o detalhe que fecha a questão: apesar de a doutrina clássica chamar a permissão de <i>ato</i>, o <b>art. 40 da Lei
+nº 8.987/1995</b> a define como <b>contrato de adesão</b>. Em prova de banca literal, prevalece a lei.</p>
+</div>
+
+<h4>5.4.1 Concessão especial — as parcerias público-privadas (Lei nº 11.079/2004)</h4>
+
+<table>
+<tr><th style="width:22%"></th><th>Patrocinada</th><th>Administrativa</th></tr>
+<tr><td class="rot">Definição</td><td>Concessão de serviços ou obras públicas em que há <b>tarifa do usuário</b> <b>+</b> contraprestação pecuniária do parceiro público.</td><td>Contrato de prestação de serviços de que a <b>Administração é a usuária</b> direta ou indireta. <b>Não</b> há tarifa do usuário.</td></tr>
+<tr><td class="rot">Remuneração</td><td>Mista</td><td>Integralmente pública</td></tr>
+</table>
+
+<ul>
+<li><b>Sempre</b> há contraprestação pecuniária do parceiro público — é isso que distingue a PPP da concessão <b>comum</b>, na qual a remuneração é basicamente tarifária.</li>
+<li><b>Prazo</b>: não inferior a <b>5</b> nem superior a <b>35</b> anos, incluída eventual prorrogação.</li>
+<li><b>Valor mínimo</b> do contrato: <b>R$ 10 milhões</b> (redação dada pela Lei nº 13.529/2017 ao art. 2º, § 4º, I).</li>
+<li><b>Vedações</b>: contrato que tenha como objeto <b>único</b> o fornecimento de mão de obra, o fornecimento e instalação de equipamentos ou a execução de obra pública.</li>
+<li><b>Repartição objetiva de riscos</b> entre as partes, inclusive quanto a caso fortuito, força maior, fato do príncipe e álea econômica extraordinária.</li>
+<li>Concessão patrocinada com mais de <b>70%</b> da remuneração paga pela Administração depende de <b>autorização legislativa específica</b>.</li>
+<li>A <b>sociedade de propósito específico (SPE)</b> deve ser constituída antes da celebração do contrato; é vedado à Administração ser titular da <b>maioria do capital votante</b> da SPE.</li>
+</ul>
+
+<div class="box alerta">
+<h5>Pegadinhas de PPP</h5>
+<ul style="margin-bottom:0">
+<li>“Na concessão administrativa há cobrança de tarifa dos usuários.” → <b>ERRADO</b>: quem paga é a Administração, usuária do serviço.</li>
+<li>“O prazo da PPP pode ser de 3 anos, se assim justificado.” → <b>ERRADO</b>: mínimo de <b>5</b>.</li>
+<li>“A Administração deve deter a maioria do capital votante da SPE, para garantir o controle.” → <b>ERRADO</b>: é <b>vedado</b>, salvo a hipótese legal de aquisição da maioria por instituição financeira controlada pelo Poder Público em caso de inadimplemento.</li>
+</ul>
+</div>
+
+<h3>5.5 Extinção da concessão — o quadro decisivo</h3>
+
+<table>
+<tr><th style="width:20%">Forma</th><th>Causa</th><th>Exige lei?</th><th>Indenização</th></tr>
+<tr><td class="rot">Advento do <b>termo</b> contratual</td><td>Fim do prazo</td><td>Não</td><td>Apenas dos bens reversíveis não amortizados</td></tr>
+<tr><td class="rot"><b>Encampação</b></td><td><b>Interesse público</b> — a concessionária <b>não</b> deu causa</td><td><b>SIM</b>, lei autorizativa específica</td><td><b>Prévia</b></td></tr>
+<tr><td class="rot"><b>Caducidade</b></td><td><b>Inadimplemento</b> da concessionária</td><td>Não — declarada por <b>decreto</b>, após processo administrativo</td><td><b>Posterior</b>, e descontadas multas e danos</td></tr>
+<tr><td class="rot"><b>Rescisão</b></td><td>Iniciativa da <b>concessionária</b>, por descumprimento do poder concedente</td><td>Não</td><td>Exige ação <b>judicial</b>; os serviços <b>não</b> podem ser interrompidos até o trânsito em julgado</td></tr>
+<tr><td class="rot"><b>Anulação</b></td><td><b>Ilegalidade</b> na licitação ou no contrato</td><td>Não</td><td>Conforme boa-fé e vedação ao enriquecimento sem causa</td></tr>
+<tr><td class="rot">Falência ou extinção da empresa</td><td>Desaparecimento do delegatário</td><td>Não</td><td>—</td></tr>
+</table>
+
+<div class="box ok">
+<h5>Fixe assim — o par que decide a questão</h5>
+<p style="margin-bottom:0"><b>Encampação: culpa de ninguém, exige LEI, indenização PRÉVIA.</b><br>
+<b>Caducidade: culpa da concessionária, basta DECRETO, indenização POSTERIOR.</b><br>
+Mnemônico: <span class="mnem">EncampaÇÃO → LEI e PRÉVIA; CaduCidade → Culpa e deCreto.</span></p>
+</div>
+
+<div class="box alerta">
+<h5>Pegadinhas de extinção</h5>
+<ul style="margin-bottom:0">
+<li>“A encampação é declarada por decreto, após processo administrativo em que se assegure a ampla defesa.” → <b>ERRADO</b>: isso é a <b>caducidade</b>.</li>
+<li>“Na caducidade, a indenização é prévia, sob pena de enriquecimento sem causa da Administração.” → <b>ERRADO</b>: é <b>posterior</b>, e sofre os descontos das multas e dos danos causados.</li>
+<li>“A concessionária pode interromper a prestação do serviço tão logo ajuíze a ação de rescisão.” → <b>ERRADO</b>: os serviços prestados <b>não</b> poderão ser interrompidos ou paralisados até a decisão judicial transitada em julgado (Lei nº 8.987/1995, art. 39, § único).</li>
+<li>“A <b>reversão</b> é forma de extinção da concessão.” → <b>ERRADO</b>: reversão é o <b>efeito</b> da extinção — a passagem dos bens afetados ao serviço para o poder concedente.</li>
+</ul>
+</div>
+
+<h3>5.6 Equilíbrio econômico-financeiro e as áleas</h3>
+
+<table>
+<tr><th style="width:24%">Álea</th><th>Conteúdo</th><th>Quem suporta</th></tr>
+<tr><td class="rot">Ordinária (empresarial)</td><td>Risco normal do negócio; variações previsíveis.</td><td><b>Contratado</b></td></tr>
+<tr><td class="rot">Extraordinária econômica<br>(<b>teoria da imprevisão</b>)</td><td>Evento externo, imprevisível ou previsível de consequências incalculáveis, que desequilibra o contrato (<i>rebus sic stantibus</i>).</td><td><b>Revisão</b> do contrato</td></tr>
+<tr><td class="rot"><b>Fato do príncipe</b></td><td>Ato <b>geral</b> do Estado, não relacionado diretamente ao contrato, que o onera reflexamente (ex.: aumento de alíquota).</td><td>Revisão / recomposição</td></tr>
+<tr><td class="rot"><b>Fato da Administração</b></td><td>Conduta <b>específica</b> do próprio contratante que impede ou retarda a execução (ex.: não entregar o terreno da obra).</td><td>Revisão, suspensão ou extinção</td></tr>
+<tr><td class="rot">Interferências imprevistas</td><td>Condições materiais preexistentes, desconhecidas e não detectáveis (ex.: subsolo rochoso).</td><td>Revisão</td></tr>
+</table>
+
+<div class="box">
+<h5>Reajuste × revisão — não confunda</h5>
+<p style="margin-bottom:0"><b>Reajuste</b> é <b>periódico e previsto</b> no contrato: aplica índice para corrigir a inflação;
+é ato <b>vinculado</b>, não depende de prova de desequilíbrio. <b>Revisão</b> (recomposição) é <b>eventual</b>, decorre de
+fato superveniente que rompeu a equação econômico-financeira, e <b>depende de demonstração</b>. Item que trate reajuste
+como espécie de revisão está errado.</p>
+</div>
+
+<h3>5.7 Direitos dos usuários e responsabilidade</h3>
+<ul>
+<li>O art. 7º da Lei nº 8.987/1995 assegura, entre outros: serviço adequado, informação para a defesa de interesses individuais e coletivos, <b>liberdade de escolha</b> entre prestadores quando houver mais de um, e o dever de <b>levar ao conhecimento do poder público</b> as irregularidades de que tenha conhecimento.</li>
+<li>A <b>Lei nº 13.460/2017</b> é o Código de Defesa do Usuário de Serviços Públicos: aplica-se à administração direta e indireta de todos os entes; institui as <b>ouvidorias</b>, a <b>carta de serviços ao usuário</b> e a avaliação continuada dos serviços.</li>
+<li><b>Responsabilidade civil</b> da concessionária: <b>objetiva</b> (CF, art. 37, § 6º), inclusive perante <b>terceiros não usuários</b> — tese firmada pelo STF no RE 591.874 (Tema 130). O Estado responde de forma <b>subsidiária</b>, esgotado o patrimônio da delegatária (detalhamento no Tópico 7).</li>
+</ul>
+
+<div class="box alerta">
+<h5>Item recorrente</h5>
+<p style="margin-bottom:0">“A responsabilidade objetiva da concessionária de serviço público alcança apenas os
+<b>usuários</b> do serviço, respondendo ela subjetivamente perante terceiros.” → <b>ERRADO</b> desde o RE 591.874:
+alcança <b>usuários e não usuários</b>.</p>
+</div>
+
+<h3>5.8 Treino no padrão da banca — Tópico 5</h3>
+<p class="pequeno">Questões <b>inéditas</b>, escritas para este material (ver item 0.3).</p>
+
+<div class="q">
+<span class="cab tre">Treino · padrão IDECAN · múltipla escolha</span>
+<div class="enun">O Município, invocando o interesse público e sem imputar qualquer falta à concessionária, decide retomar
+antes do prazo a prestação do serviço de transporte coletivo. Sobre a forma de extinção cabível, assinale a alternativa correta.</div>
+<ol class="alts" type="A">
+<li>Trata-se de caducidade, declarada por decreto após processo administrativo em que se assegure a ampla defesa, com indenização apurada posteriormente.</li>
+<li>Trata-se de encampação, que depende de lei autorizativa específica e de prévio pagamento da indenização.</li>
+<li>Trata-se de rescisão, que deve ser postulada judicialmente pelo poder concedente, vedada a interrupção dos serviços até o trânsito em julgado.</li>
+<li>Trata-se de reversão, forma autônoma de extinção pela qual os bens afetados ao serviço retornam ao poder concedente.</li>
+<li>Trata-se de anulação, cabível sempre que o interesse público superveniente tornar inconveniente a manutenção do ajuste.</li>
+</ol>
+<div class="gab"><b>Resposta: B.</b> Sem falta da concessionária e por interesse público: <b>encampação</b> — lei autorizativa
+específica + indenização <b>prévia</b> (Lei nº 8.987/1995, art. 37). (A) descreve caducidade, que pressupõe
+<b>inadimplemento</b>. (C) a rescisão é de iniciativa da <b>concessionária</b>. (D) reversão é efeito, não forma de extinção.
+(E) anulação pressupõe <b>ilegalidade</b>, não inconveniência.</div>
+</div>
+
+<div class="q">
+<span class="cab tre">Treino · padrão FCC · múltipla escolha</span>
+<div class="enun">A respeito das parcerias público-privadas disciplinadas pela Lei nº 11.079/2004, é correto afirmar que</div>
+<ol class="alts" type="A">
+<li>na concessão administrativa, a remuneração do parceiro privado provém exclusivamente das tarifas cobradas dos usuários do serviço.</li>
+<li>o prazo do contrato não pode ser inferior a cinco nem superior a trinta e cinco anos, incluída eventual prorrogação, e há sempre contraprestação pecuniária do parceiro público.</li>
+<li>é vedada a celebração de contrato de parceria cujo valor seja superior a dez milhões de reais, limite fixado para preservar a capacidade fiscal do ente.</li>
+<li>a sociedade de propósito específico deve ter a maioria do seu capital votante detida pela Administração Pública, a fim de assegurar o controle do empreendimento.</li>
+<li>a concessão patrocinada dispensa licitação, por envolver delegação de serviço público a parceiro previamente qualificado em chamamento público.</li>
+</ol>
+<div class="gab"><b>Resposta: B.</b> Art. 5º, I, e art. 2º, § 3º. (A) inverte: na administrativa a <b>Administração</b> é a usuária,
+não há tarifa. (C) inverte o limite — dez milhões é o valor <b>mínimo</b>, não o teto. (D) é justamente o que a lei
+<b>veda</b>. (E) toda concessão exige licitação (CF, art. 175).</div>
+</div>
+
+<div class="q">
+<span class="cab tre">Treino · padrão CEBRASPE · item certo/errado</span>
+<div class="enun">A interrupção do fornecimento de água por inadimplemento do usuário, precedida de aviso, é lícita e não
+configura ofensa ao princípio da continuidade do serviço público; é ilícito, contudo, o corte destinado a compelir o
+usuário ao pagamento de débitos pretéritos consolidados, que devem ser cobrados pelas vias ordinárias.</div>
+<div class="gab"><b>CERTO.</b> A primeira parte reproduz o art. 6º, § 3º, II, da Lei nº 8.987/1995; a segunda reflete a
+orientação consolidada do STJ. Note o formato: o CEBRASPE constrói itens <b>longos e verdadeiros</b> com duas
+proposições encadeadas — o candidato mal preparado desconfia da extensão e marca errado.</div>
+</div>
+
+<!-- ============================ TÓPICO 6 ============================ -->
+<h2 class="parte">Tópico 6 · Controle da Administração Pública</h2>
+
+<h3>6.1 As cinco classificações — a base de qualquer questão do tópico</h3>
+
+<table>
+<tr><th style="width:22%">Critério</th><th>Espécies</th><th>Observação decisiva</th></tr>
+<tr><td class="rot">Órgão que controla</td><td><b>Administrativo</b> · <b>Legislativo</b> (parlamentar) · <b>Judicial</b></td><td>O controle judicial é <b>sempre</b> de legalidade/juridicidade, jamais de mérito.</td></tr>
+<tr><td class="rot">Posição do controlador</td><td><b>Interno</b> (dentro da mesma estrutura de Poder) · <b>Externo</b> (Poder diverso) · <b>Externo popular</b></td><td>O <b>controle externo popular</b> tem sede constitucional: art. 31, § 3º (contas municipais à disposição de qualquer contribuinte por 60 dias) e art. 74, § 2º.</td></tr>
+<tr><td class="rot">Momento</td><td><b>Prévio</b> (a priori) · <b>Concomitante</b> · <b>Posterior</b> (a posteriori)</td><td>O registro de aposentadoria pelo TC é controle <b>posterior</b>; a autorização legislativa prévia para operação de crédito é <b>prévio</b>.</td></tr>
+<tr><td class="rot">Amplitude</td><td><b>De legalidade</b> · <b>De mérito</b></td><td>O controle de mérito é privativo da <b>própria Administração</b> (e do Legislativo nos casos constitucionais).</td></tr>
+<tr><td class="rot">Iniciativa</td><td><b>De ofício</b> · <b>Provocado</b></td><td>Autotutela é de ofício; recurso administrativo é provocado.</td></tr>
+</table>
+
+<h3>6.2 Controle administrativo (interno) e autotutela</h3>
+
+<div class="box ouro">
+<h5>As duas súmulas fundadoras</h5>
+<ul style="margin-bottom:0">
+<li><b>Súmula 346 do STF:</b> “A Administração Pública pode declarar a nulidade dos seus próprios atos.”</li>
+<li><b>Súmula 473 do STF:</b> “A Administração pode <b>anular</b> seus próprios atos, quando eivados de vícios que os tornam ilegais, porque deles não se originam direitos; ou <b>revogá-los</b>, por motivo de conveniência ou oportunidade, respeitados os direitos adquiridos, e <b>ressalvada, em todos os casos, a apreciação judicial</b>.”</li>
+</ul>
+</div>
+
+<table>
+<tr><th style="width:22%"></th><th>Anulação</th><th>Revogação</th></tr>
+<tr><td class="rot">Fundamento</td><td><b>Ilegalidade</b></td><td><b>Mérito</b> (conveniência e oportunidade)</td></tr>
+<tr><td class="rot">Quem pode</td><td>Administração <b>e</b> Judiciário</td><td><b>Só</b> a Administração</td></tr>
+<tr><td class="rot">Efeitos</td><td><b><i>Ex tunc</i></b></td><td><b><i>Ex nunc</i></b></td></tr>
+<tr><td class="rot">Objeto</td><td>Ato <b>ilegal</b></td><td>Ato <b>válido</b> e inconveniente</td></tr>
+<tr><td class="rot">Prazo</td><td><b>5 anos</b> para atos favoráveis ao destinatário, salvo <b>má-fé</b> (Lei nº 9.784/1999, art. 54)</td><td>Não há prazo, mas há <b>limites</b>: direito adquirido, ato vinculado, ato já exaurido, ato que integrou procedimento (preclusão) e ato enunciativo</td></tr>
+</table>
+
+<div class="box alerta">
+<h5>Os limites da autotutela — o que a Súmula 473 não diz</h5>
+<p style="margin-bottom:0">A leitura isolada da Súmula 473 sugere que a Administração anula <b>livremente</b>. Não é assim:
+o art. 2º, parágrafo único, X, da Lei nº 9.784/1999 e a jurisprudência do STF impõem <b>contraditório e ampla defesa
+prévios</b> sempre que a anulação repercuta no campo de interesses individuais. Item que afirme que “a autotutela
+dispensa o contraditório, por decorrer do poder de rever os próprios atos” está <b>errado</b>.</p>
+</div>
+
+<h4>6.2.1 Recurso administrativo — o bloco de prazos que decide a questão</h4>
+
+<table>
+<tr><th style="width:34%">Regra (Lei nº 9.784/1999)</th><th>Conteúdo</th></tr>
+<tr><td class="rot">Prazo para <b>interpor</b> (art. 59)</td><td><b>10 dias</b>, contados da ciência ou divulgação oficial da decisão, salvo disposição legal específica.</td></tr>
+<tr><td class="rot">Prazo para <b>decidir</b> (art. 59, § 1º)</td><td><b>30 dias</b> a partir do recebimento dos autos, prorrogável por <b>igual período</b> mediante justificativa explícita.</td></tr>
+<tr><td class="rot"><b>Reconsideração</b> (art. 56, § 1º)</td><td>O recurso é dirigido à autoridade que proferiu a decisão, que, se <b>não</b> reconsiderar em <b>5 dias</b>, o encaminha à autoridade superior.</td></tr>
+<tr><td class="rot">Instâncias (art. 57)</td><td>No máximo <b>três</b> instâncias administrativas, salvo disposição legal diversa.</td></tr>
+<tr><td class="rot">Efeito (art. 61)</td><td>Em regra <b>apenas devolutivo</b>. Havendo <b>justo receio de prejuízo de difícil ou incerta reparação</b>, a autoridade recorrida ou a imediatamente superior pode conceder <b>efeito suspensivo</b>.</td></tr>
+<tr><td class="rot">Legitimados (art. 58)</td><td>Titulares de direitos ou interesses atingidos; quem tiver direitos/interesses <b>indiretamente</b> afetados; <b>organizações e associações</b> representativas; <b>cidadãos ou associações</b>, quanto a direitos ou interesses <b>difusos</b>.</td></tr>
+<tr><td class="rot">Não conhecimento (art. 63)</td><td>Fora do prazo; perante órgão incompetente (com indicação da autoridade correta e devolução do prazo); por quem não seja legitimado; após exaurida a esfera administrativa. <b>§ 2º:</b> o não conhecimento <b>não impede</b> a Administração de rever de ofício o ato ilegal, se não ocorrida preclusão administrativa.</td></tr>
+<tr><td class="rot"><b><i>Reformatio in pejus</i></b> (art. 64, § único)</td><td><b>É POSSÍVEL</b>: da revisão do ato pode resultar <b>agravamento</b> da situação do recorrente — mas o interessado deve ser <b>cientificado previamente</b> para formular alegações antes da decisão.</td></tr>
+<tr><td class="rot"><b>Revisão</b> (art. 65)</td><td>Cabe <b>a qualquer tempo</b>, de ofício ou a pedido, quando surgirem <b>fatos novos ou circunstâncias relevantes</b>. <b>§ único: da revisão NÃO pode resultar agravamento da sanção.</b></td></tr>
+</table>
+
+<div class="box ok">
+<h5>Fixe assim — o contraste que a banca adora</h5>
+<p style="margin-bottom:0"><b>RECURSO (art. 64): PODE agravar</b>, desde que haja ciência prévia.<br>
+<b>REVISÃO (art. 65): NÃO PODE agravar</b>, em nenhuma hipótese.<br>
+Trocar um pelo outro é a armadilha mais frequente da Lei nº 9.784/1999.</p>
+</div>
+
+<div class="box">
+<h5>Depósito prévio — bloco de súmulas com peso de fisco</h5>
+<ul style="margin-bottom:0">
+<li><b>Súmula Vinculante 21:</b> é <b>inconstitucional</b> a exigência de depósito ou arrolamento prévios de dinheiro ou bens para admissibilidade de <b>recurso administrativo</b>.</li>
+<li><b>Súmula Vinculante 28:</b> é <b>inconstitucional</b> a exigência de depósito prévio como requisito de admissibilidade de <b>ação judicial</b> na qual se pretenda discutir a exigibilidade de crédito tributário.</li>
+<li><b>Súmula 373 do STJ:</b> é ilegítima a exigência de depósito prévio para admissibilidade de recurso administrativo.</li>
+<li><b>Súmula 430 do STF:</b> pedido de reconsideração na via administrativa <b>não interrompe</b> o prazo para o mandado de segurança.</li>
+<li><b>Súmula 429 do STF:</b> a existência de recurso administrativo com efeito suspensivo <b>não impede</b> o uso do mandado de segurança contra omissão da autoridade.</li>
+</ul>
+</div>
+
+<h4>6.2.2 Controle interno constitucional</h4>
+<p>O art. 74 da CF impõe a cada Poder a manutenção de <b>sistema de controle interno integrado</b>, com quatro
+finalidades: avaliar o cumprimento das metas do plano plurianual; comprovar a legalidade e avaliar resultados quanto
+a <b>eficácia e eficiência</b>; exercer o controle das operações de crédito e da renúncia de receitas; e apoiar o
+controle externo.</p>
+
+<div class="box alerta">
+<h5>Os dois parágrafos que caem</h5>
+<ul style="margin-bottom:0">
+<li><b>§ 1º:</b> os responsáveis pelo controle interno, ao tomarem conhecimento de irregularidade, <b>darão ciência ao Tribunal de Contas, sob pena de responsabilidade solidária</b>.</li>
+<li><b>§ 2º:</b> <b>qualquer cidadão</b>, partido político, associação ou sindicato é <b>parte legítima</b> para, na forma da lei, denunciar irregularidades ou ilegalidades perante o Tribunal de Contas. Note: <b>cidadão</b>, não “qualquer pessoa”.</li>
+</ul>
+</div>
+
+<h3>6.3 Controle legislativo</h3>
+
+<table>
+<tr><th style="width:24%">Instrumento</th><th>Base</th><th>Conteúdo</th></tr>
+<tr><td class="rot">Sustação de ato normativo</td><td>CF, art. 49, V</td><td>Sustar atos do Executivo que <b>exorbitem do poder regulamentar</b> ou dos limites de delegação legislativa. É controle <b>político e de legalidade</b>.</td></tr>
+<tr><td class="rot">Julgamento de contas</td><td>CF, art. 49, IX</td><td>Julgar anualmente as contas do Chefe do Executivo, <b>mediante parecer prévio</b> do Tribunal de Contas.</td></tr>
+<tr><td class="rot">Fiscalização e convocação</td><td>CF, art. 50</td><td>Convocar Ministro/autoridade; a <b>ausência sem justificação adequada</b> configura crime de responsabilidade. Pedidos escritos de informação devem ser respondidos em <b>30 dias</b>.</td></tr>
+<tr><td class="rot">CPI</td><td>CF, art. 58, § 3º</td><td>Poderes de investigação <b>próprios das autoridades judiciais</b>; requer <b>1/3</b> dos membros, <b>fato determinado</b> e <b>prazo certo</b>. Pode quebrar sigilo bancário, fiscal e telefônico (dados), <b>mas não</b> determinar interceptação telefônica, busca domiciliar nem prisão (salvo em flagrante).</td></tr>
+<tr><td class="rot">Sustação de contrato</td><td>CF, art. 71, § 1º</td><td>Quem susta <b>contrato</b> é o <b>Congresso Nacional</b> (o Legislativo), não o Tribunal de Contas.</td></tr>
+</table>
+
+<h4>6.3.1 Tribunal de Contas — competências do art. 71</h4>
+
+<table>
+<tr><th style="width:12%">Inciso</th><th>Competência</th></tr>
+<tr><td class="rot">I</td><td><b>Apreciar</b> as contas anuais do Chefe do Executivo, mediante <b>parecer prévio</b> a ser elaborado em <b>60 dias</b>. <b>Aprecia</b>, não julga.</td></tr>
+<tr><td class="rot">II</td><td><b>Julgar</b> as contas dos <b>administradores</b> e demais responsáveis por dinheiros, bens e valores públicos.</td></tr>
+<tr><td class="rot">III</td><td>Apreciar a <b>legalidade</b>, para fins de <b>registro</b>, das admissões de pessoal e das concessões de aposentadorias, reformas e pensões — <b>excetuadas</b> as nomeações para cargo de <b>provimento em comissão</b>.</td></tr>
+<tr><td class="rot">VIII</td><td>Aplicar <b>sanções</b>, inclusive <b>multa proporcional ao dano</b> causado ao erário.</td></tr>
+<tr><td class="rot">IX</td><td><b>Assinar prazo</b> para que o órgão adote as providências necessárias ao cumprimento da lei.</td></tr>
+<tr><td class="rot">X</td><td><b>Sustar</b>, se não atendido, a execução do <b>ato</b> impugnado, comunicando a decisão à Câmara e ao Senado.</td></tr>
+<tr><td class="rot">§ 1º</td><td>No caso de <b>contrato</b>, a sustação é adotada <b>diretamente pelo Congresso Nacional</b>, que solicitará de imediato ao Executivo as medidas cabíveis.</td></tr>
+<tr><td class="rot">§ 3º</td><td>As decisões de que resulte <b>imputação de débito ou multa</b> terão eficácia de <b>título executivo</b>.</td></tr>
+</table>
+
+<div class="box ok">
+<h5>Fixe assim — três frases que resolvem quase todo item de TC</h5>
+<p style="margin-bottom:0">
+<b>1.</b> Contas do <b>Chefe do Executivo</b>: o TC <b>aprecia</b> (parecer prévio); quem <b>julga</b> é o <b>Legislativo</b>.<br>
+<b>2.</b> Contas de <b>administrador</b>: o TC <b>julga</b> — decisão própria, com eficácia de título executivo.<br>
+<b>3.</b> <b>Ato</b> ilegal: o TC susta. <b>Contrato</b>: quem susta é o <b>Legislativo</b>.</p>
+</div>
+
+<div class="box">
+<h5>Jurisprudência essencial sobre Tribunais de Contas</h5>
+<ul style="margin-bottom:0">
+<li><b>Súmula Vinculante 3:</b> nos processos perante o TCU asseguram-se o contraditório e a ampla defesa quando da decisão puder resultar anulação ou revogação de ato administrativo que beneficie o interessado, <b>excetuada</b> a apreciação da legalidade do ato de <b>concessão inicial</b> de aposentadoria, reforma e pensão.</li>
+<li><b>Tema 445 (RE 636.553):</b> os Tribunais de Contas estão sujeitos ao prazo de <b>5 anos</b> para julgar a legalidade do ato de concessão inicial de aposentadoria, reforma ou pensão, contados da <b>chegada do processo</b> à Corte de Contas. Ultrapassado o prazo, o registro é considerado tacitamente aprovado.</li>
+<li><b>Tema 835 (RE 848.826):</b> as contas de <b>Prefeito</b> — tanto as de <b>governo</b> quanto as de <b>gestão</b> — são julgadas pela <b>Câmara Municipal</b>, com auxílio do Tribunal de Contas, cujo parecer prévio só deixa de prevalecer por decisão de <b>2/3</b> dos vereadores (CF, art. 31, § 2º).</li>
+<li><b>Tema 899 (RE 636.886):</b> é <b>prescritível</b> a pretensão de ressarcimento ao erário fundada em decisão de Tribunal de Contas.</li>
+<li><b>Tema 897 (RE 852.475):</b> são <b>imprescritíveis</b> as ações de ressarcimento ao erário fundadas na prática de ato <b>doloso</b> tipificado na Lei de Improbidade Administrativa.</li>
+<li><b>Súmula 347 do STF</b> (“o Tribunal de Contas pode apreciar a constitucionalidade das leis e dos atos do Poder Público”) permanece formalmente editada, mas sua aplicação vem sendo <b>fortemente restringida</b> em decisões recentes do STF. Em prova objetiva, marque-a como correta apenas quando o enunciado pedir a literalidade da súmula.</li>
+<li>Tribunal de Contas é órgão <b>auxiliar</b> do Legislativo, mas <b>não subordinado</b> a ele; não integra o Poder Judiciário e suas decisões, embora chamadas de “julgamento”, <b>não fazem coisa julgada</b> — são sempre revisíveis pelo Judiciário quanto à legalidade.</li>
+</ul>
+</div>
+
+<h3>6.4 Controle judicial</h3>
+
+<p>Vigora no Brasil o sistema de <b>jurisdição una</b> (inglês): a última palavra sobre a legalidade do ato é do
+Judiciário (CF, art. 5º, XXXV). Não adotamos o <b>contencioso administrativo</b> francês — item que afirme o contrário é
+<b>errado</b>, e é o distrator preferido em provas de nível superior.</p>
+
+<table>
+<tr><th style="width:26%">Instrumento</th><th>Cabimento e detalhe cobrado</th></tr>
+<tr><td class="rot">Mandado de segurança</td><td>Direito líquido e certo, não amparado por <i>habeas corpus</i> ou <i>habeas data</i>. Prazo <b>decadencial de 120 dias</b> (Lei nº 12.016/2009, art. 23). Cabe contra <b>particular</b> no exercício de atribuições do Poder Público. <b>Não</b> cabe contra lei em tese (Súmula 266/STF) nem contra decisão judicial com recurso próprio (Súmula 267/STF).</td></tr>
+<tr><td class="rot">Ação popular</td><td>Lei nº 4.717/1965. Legitimado: <b>cidadão</b> (eleitor — prova-se com título eleitoral). Objeto: anular ato <b>lesivo</b> ao patrimônio público, à moralidade administrativa, ao meio ambiente e ao patrimônio histórico-cultural. Autor <b>isento</b> de custas e ônus da sucumbência, salvo <b>má-fé</b>.</td></tr>
+<tr><td class="rot">Ação civil pública</td><td>Lei nº 7.347/1985. Legitimados: MP, Defensoria, entes federativos, autarquias, empresas públicas, fundações, sociedades de economia mista e <b>associações</b> constituídas há pelo menos 1 ano. <b>Não</b> serve para veicular pretensões tributárias individualizáveis (art. 1º, § único).</td></tr>
+<tr><td class="rot">Improbidade administrativa</td><td>Lei nº 8.429/1992, com a redação da <b>Lei nº 14.230/2021</b>. Ver quadro abaixo.</td></tr>
+<tr><td class="rot"><i>Habeas data</i> e mandado de injunção</td><td>Acesso/retificação de informações pessoais em bancos de dados públicos; e suprimento de omissão normativa que inviabilize direito constitucional.</td></tr>
+</table>
+
+<h4>6.4.1 Improbidade após a Lei nº 14.230/2021 — o que mudou</h4>
+
+<table>
+<tr><th style="width:30%">Ponto</th><th>Regime atual</th></tr>
+<tr><td class="rot">Elemento subjetivo</td><td><b>Somente DOLO</b>. A modalidade <b>culposa</b> foi <b>revogada</b>, inclusive no art. 10. Exige-se dolo <b>específico</b>: vontade livre e consciente de alcançar o resultado ilícito, não bastando a voluntariedade da conduta.</td></tr>
+<tr><td class="rot">Espécies</td><td>Art. 9º (enriquecimento ilícito) · Art. 10 (dano ao erário) · Art. 11 (violação a princípios)</td></tr>
+<tr><td class="rot">Art. 11</td><td>Passou a ser <b>rol TAXATIVO</b> (antes era exemplificativo). Continua <b>dispensando</b> dano ao erário e enriquecimento ilícito.</td></tr>
+<tr><td class="rot">Legitimidade ativa</td><td><b>Exclusiva do Ministério Público</b> — a pessoa jurídica lesada deixou de ser legitimada para a ação de improbidade (mantida sua legitimidade para a ação de <b>ressarcimento</b>).</td></tr>
+<tr><td class="rot">Prescrição</td><td><b>8 anos</b>, contados da ocorrência do fato ou, no caso de infrações permanentes, do dia em que cessou a permanência. Há <b>prescrição intercorrente</b> pela metade do prazo.</td></tr>
+<tr><td class="rot">Ressarcimento</td><td>A <b>ação de ressarcimento</b> por ato doloso de improbidade é <b>imprescritível</b> (CF, art. 37, § 5º, e Tema 897).</td></tr>
+<tr><td class="rot">Retroatividade</td><td><b>Tema 1.199 do STF:</b> a revogação da modalidade culposa não retroage para alcançar condenações <b>transitadas em julgado</b>; os novos prazos prescricionais <b>não retroagem</b>, aplicando-se aos processos em curso a partir da vigência da lei nova.</td></tr>
+</table>
+
+<div class="box alerta">
+<h5>Três itens que ainda circulam com a redação antiga</h5>
+<ul style="margin-bottom:0">
+<li>“Responde por improbidade quem, por <b>culpa</b>, causar dano ao erário.” → <b>ERRADO</b> desde 2021.</li>
+<li>“O rol de condutas do art. 11 é <b>exemplificativo</b>.” → <b>ERRADO</b> desde 2021: é taxativo.</li>
+<li>“A pessoa jurídica interessada tem legitimidade concorrente com o Ministério Público para propor a ação de improbidade.” → <b>ERRADO</b>: a legitimidade é <b>exclusiva</b> do MP.</li>
+</ul>
+</div>
+
+<h4>6.4.2 Nepotismo</h4>
+<div class="box ouro">
+<h5>Súmula Vinculante 13</h5>
+<p style="margin-bottom:0">Veda a nomeação de <b>cônjuge, companheiro ou parente em linha reta, colateral ou por
+afinidade, até o terceiro grau</b>, da autoridade nomeante ou de servidor da mesma pessoa jurídica investido em cargo de
+direção, chefia ou assessoramento, para cargo em comissão, função de confiança ou contratação temporária — inclusive o
+<b>nepotismo cruzado</b> (ajuste mediante designações recíprocas).<br>
+<b>Exceção consolidada:</b> a súmula <b>não alcança</b>, em regra, os cargos de natureza <b>política</b> (Ministro, Secretário
+estadual ou municipal), salvo fraude ou flagrante inabilidade do nomeado.</p>
+</div>
+
+<h3>6.5 Treino no padrão da banca — Tópico 6</h3>
+<p class="pequeno">Questões <b>inéditas</b>, escritas para este material (ver item 0.3).</p>
+
+<div class="q">
+<span class="cab tre">Treino · padrão IDECAN · múltipla escolha</span>
+<div class="enun">Servidor municipal, sancionado com suspensão de 15 dias, interpõe recurso administrativo. Ao analisá-lo, a
+autoridade superior entende que a conduta apurada era mais grave do que a considerada na decisão recorrida. Nos termos
+da Lei nº 9.784/1999, assinale a alternativa correta.</div>
+<ol class="alts" type="A">
+<li>A autoridade não pode agravar a sanção, pois vigora no processo administrativo a vedação absoluta à <i>reformatio in pejus</i>.</li>
+<li>A autoridade pode agravar a sanção, desde que o recorrente seja previamente cientificado para que formule suas alegações antes da decisão.</li>
+<li>A autoridade pode agravar a sanção independentemente de qualquer comunicação, uma vez que o recorrente assumiu o risco ao recorrer.</li>
+<li>A autoridade deve encaminhar o feito ao órgão de origem, único competente para reavaliar a dosimetria da sanção aplicada.</li>
+<li>A autoridade só poderia agravar a sanção em sede de revisão, e não de recurso, por expressa disposição do art. 65 da lei.</li>
+</ol>
+<div class="gab"><b>Resposta: B.</b> Art. 64, parágrafo único: o agravamento é possível <b>com prévia ciência</b>. (A) confunde com o
+processo penal. (C) suprime a exigência de ciência. (E) <b>inverte</b> os dois institutos — é na <b>revisão</b> (art. 65,
+§ único) que o agravamento é vedado. Guarde o contraste: <b>recurso agrava; revisão não agrava</b>.</div>
+</div>
+
+<div class="q">
+<span class="cab tre">Treino · padrão FCC · múltipla escolha</span>
+<div class="enun">No que se refere às competências constitucionais dos Tribunais de Contas, é correto afirmar que compete a essas Cortes</div>
+<ol class="alts" type="A">
+<li>julgar as contas anuais prestadas pelo Chefe do Poder Executivo, cabendo ao Poder Legislativo apenas homologar a decisão proferida.</li>
+<li>sustar diretamente a execução de contrato administrativo eivado de ilegalidade, comunicando a decisão à respectiva Casa Legislativa.</li>
+<li>apreciar, para fins de registro, a legalidade das concessões de aposentadorias e pensões, bem como das nomeações para cargo de provimento em comissão.</li>
+<li>apreciar, mediante parecer prévio, as contas anuais do Chefe do Poder Executivo e julgar as contas dos demais administradores de bens e valores públicos.</li>
+<li>rever, com força de coisa julgada, os atos administrativos que tenham gerado dano ao erário, vedado o reexame da matéria pelo Poder Judiciário.</li>
+</ol>
+<div class="gab"><b>Resposta: D.</b> Art. 71, I e II. (A) inverte: o TC <b>aprecia</b>, o Legislativo <b>julga</b>. (B) a sustação de
+<b>contrato</b> cabe ao <b>Legislativo</b> (§ 1º); o TC susta <b>ato</b>. (C) as nomeações para cargo em comissão são
+<b>expressamente excetuadas</b> pelo inciso III. (E) decisão de TC <b>não</b> faz coisa julgada e é sempre revisível
+quanto à legalidade.</div>
+</div>
+
+<div class="q">
+<span class="cab tre">Treino · padrão CEBRASPE · item certo/errado</span>
+<div class="enun">Após a Lei nº 14.230/2021, a modalidade culposa do ato de improbidade que causa lesão ao erário foi
+mantida apenas para os agentes públicos ocupantes de cargo efetivo, exigindo-se dolo específico somente quanto aos atos
+que atentam contra os princípios da Administração Pública.</div>
+<div class="gab"><b>ERRADO.</b> A modalidade <b>culposa foi integralmente revogada</b>, para todos os agentes e para todas as
+espécies de improbidade. Exige-se <b>dolo</b> — e dolo específico — nos arts. 9º, 10 e 11. O item usa a técnica clássica do
+CEBRASPE: uma afirmação verdadeira em parte (a exigência de dolo no art. 11) que legitima uma falsa (a sobrevivência
+da culpa no art. 10).</div>
+</div>
+
+<!-- ============================ TÓPICO 7 ============================ -->
+<h2 class="parte">Tópico 7 · Responsabilidade civil do Estado</h2>
+
+<h3>7.1 Evolução das teorias — a linha do tempo que a banca cobra</h3>
+
+<table>
+<tr><th style="width:26%">Teoria</th><th>Conteúdo</th><th>Ônus da vítima</th></tr>
+<tr><td class="rot">Irresponsabilidade</td><td>“<i>The King can do no wrong</i>”. Estado absolutista; abandonada.</td><td>—</td></tr>
+<tr><td class="rot">Civilista (culpa civil)</td><td>Distingue atos de <b>império</b> (sem responsabilidade) e de <b>gestão</b> (responsabilidade como a de qualquer particular).</td><td>Provar a culpa do agente.</td></tr>
+<tr><td class="rot">Culpa administrativa<br>(<i>faute du service</i> / culpa anônima)</td><td>O serviço <b>não funcionou</b>, funcionou <b>mal</b> ou funcionou <b>atrasado</b>. Dispensa identificar o agente, mas exige a falta do serviço.</td><td>Provar a <b>falta do serviço</b>.</td></tr>
+<tr><td class="rot"><b>Risco administrativo</b></td><td><b>Regra vigente no Brasil</b> (CF, art. 37, § 6º). Basta conduta, dano e nexo. <b>Admite excludentes.</b></td><td>Provar <b>conduta + dano + nexo</b>.</td></tr>
+<tr><td class="rot">Risco integral</td><td><b>Excepcional.</b> Não admite excludentes.</td><td>Provar dano e nexo; nem as excludentes afastam.</td></tr>
+</table>
+
+<div class="box alerta">
+<h5>A troca nº 1 do tópico</h5>
+<p style="margin-bottom:0">“A Constituição adotou a teoria do <b>risco integral</b>.” → <b>ERRADO</b>. Adotou o <b>risco
+administrativo</b>. A diferença não está na necessidade de culpa (ambas dispensam) — está nas <b>excludentes</b>:
+risco administrativo <b>admite</b>, risco integral <b>não admite</b>.</p>
+</div>
+
+<h3>7.2 O dispositivo-matriz</h3>
+
+<div class="box ouro">
+<h5>CF, art. 37, § 6º</h5>
+<p class="dispositivo" style="margin-bottom:0">“As <b>pessoas jurídicas de direito público</b> e as de <b>direito privado
+prestadoras de serviços públicos</b> responderão pelos danos que seus <b>agentes</b>, <b>nessa qualidade</b>, causarem a
+terceiros, assegurado o <b>direito de regresso</b> contra o responsável nos casos de <b>dolo ou culpa</b>.”</p>
+</div>
+
+<table>
+<tr><th style="width:24%">Expressão</th><th>O que ela decide</th></tr>
+<tr><td class="rot">“pessoas jurídicas de direito público”</td><td>União, Estados, DF, Municípios, autarquias e fundações públicas de direito público.</td></tr>
+<tr><td class="rot">“de direito privado <b>prestadoras de serviços públicos</b>”</td><td>Concessionárias, permissionárias, empresas públicas e sociedades de economia mista <b>prestadoras de serviço público</b>. As <b>exploradoras de atividade econômica</b> ficam de fora: respondem pelo <b>direito privado</b> (em regra, subjetiva; objetiva quando incidir o CDC).</td></tr>
+<tr><td class="rot">“<b>agentes</b>”</td><td>Sentido <b>amplíssimo</b>: servidores, empregados, temporários, agentes políticos, particulares em colaboração (mesário, jurado). Não importa o vínculo.</td></tr>
+<tr><td class="rot">“<b>nessa qualidade</b>”</td><td>É o filtro. Dano causado pelo agente <b>fora</b> do exercício e sem relação com a função não gera responsabilidade estatal. A jurisprudência aceita o nexo quando a função <b>facilitou</b> o dano (ex.: uso de arma da corporação).</td></tr>
+<tr><td class="rot">“<b>dolo ou culpa</b>”</td><td>O regresso contra o <b>agente</b> é <b>subjetivo</b>. A responsabilidade do <b>Estado</b> perante a vítima é <b>objetiva</b>. Duas relações, dois regimes.</td></tr>
+</table>
+
+<div class="box ok">
+<h5>Fixe assim — o esquema de duas relações</h5>
+<p style="margin-bottom:0"><b>Vítima → Estado:</b> responsabilidade <b>OBJETIVA</b> (risco administrativo).<br>
+<b>Estado → Agente:</b> ação de regresso, responsabilidade <b>SUBJETIVA</b> (só dolo ou culpa).<br>
+<b>Vítima → Agente diretamente:</b> <b>NÃO</b> — é a <b>teoria da dupla garantia</b>.</p>
+</div>
+
+<div class="box ouro">
+<h5>Tema 940 (RE 1.027.633) — a dupla garantia</h5>
+<p style="margin-bottom:0">A ação por danos causados por agente público deve ser ajuizada <b>contra o Estado</b> ou contra a
+pessoa jurídica de direito privado prestadora de serviço público, sendo o <b>autor do ato parte ilegítima</b>, assegurado
+o direito de regresso contra o responsável nos casos de dolo ou culpa. A garantia é <b>dupla</b>: protege a vítima (que
+demanda um devedor solvente e sem discutir culpa) e o agente (que só responde perante a Administração).</p>
+</div>
+
+<h3>7.3 Conduta comissiva × omissiva — o ponto mais difícil</h3>
+
+<table>
+<tr><th style="width:26%">Tipo de conduta</th><th>Regime</th><th>O que a vítima precisa provar</th></tr>
+<tr><td class="rot">Comissiva (ação)</td><td><b>Objetiva</b> — risco administrativo</td><td>Conduta, dano e nexo</td></tr>
+<tr><td class="rot">Omissão <b>específica</b></td><td><b>Objetiva</b></td><td>Havia dever <b>individualizado</b> de agir e posição de garante (ex.: detento sob custódia, aluno na escola pública, paciente internado)</td></tr>
+<tr><td class="rot">Omissão <b>genérica</b></td><td><b>Subjetiva</b> — culpa administrativa</td><td>Além do nexo, a <b>falta do serviço</b>: que não funcionou, funcionou mal ou tardiamente, dentro do padrão razoavelmente exigível</td></tr>
+</table>
+
+<div class="box">
+<h5>Como reconhecer qual é qual</h5>
+<p style="margin-bottom:0">Pergunte: <b>o Estado tinha o dever de proteger aquela pessoa determinada, naquela situação
+determinada?</b> Se sim (custódia, guarda, vigilância específica), a omissão é <b>específica</b> → objetiva. Se o dever
+era o genérico de segurança pública devido a todos, a omissão é <b>genérica</b> → subjetiva. O STF trabalha com essa
+lógica no Tema 366, ao exigir a violação de <b>dever jurídico específico de agir</b> para configurar a responsabilidade.</p>
+</div>
+
+<h4>7.3.1 Os casos julgados que a banca reaproveita</h4>
+
+<table>
+<tr><th style="width:34%">Situação</th><th>Solução firmada</th></tr>
+<tr><td class="rot">Morte de <b>detento</b> sob custódia</td><td><b>Tema 592 (RE 841.526):</b> o Estado responde, por inobservância do dever específico de proteção (CF, art. 5º, XLIX). A responsabilidade é afastada se comprovado que a morte <b>não podia ser evitada</b> — rompimento do nexo.</td></tr>
+<tr><td class="rot">Crime praticado por <b>foragido</b> do sistema prisional</td><td><b>Tema 362 (RE 608.880):</b> <b>não</b> há responsabilidade objetiva quando não demonstrado <b>nexo causal direto</b> entre a fuga e o dano. Fuga antiga + crime posterior = sem nexo.</td></tr>
+<tr><td class="rot">Danos causados por <b>tabeliães e registradores</b></td><td><b>Tema 777 (RE 842.846):</b> o Estado responde <b>objetivamente</b> pelos atos dos delegatários no exercício da função, com direito de regresso nos casos de dolo ou culpa.</td></tr>
+<tr><td class="rot">Danos a <b>terceiro não usuário</b> por concessionária</td><td><b>Tema 130 (RE 591.874):</b> responsabilidade <b>objetiva</b> também perante quem não é usuário do serviço.</td></tr>
+<tr><td class="rot">Danos de <b>obra pública</b></td><td>Se decorrem da <b>obra em si</b> (do só fato da obra): responsabilidade <b>objetiva</b> do ente. Se decorrem da <b>má execução</b> pela empreiteira: responde a empreiteira (subjetiva), e o Estado <b>subsidiariamente</b>.</td></tr>
+<tr><td class="rot">Atos <b>multitudinários</b> (multidões, saques)</td><td>Omissão genérica → responsabilidade <b>subjetiva</b>, exigindo prova da falta do serviço.</td></tr>
+<tr><td class="rot"><b>Concessionária</b> de serviço público insolvente</td><td>O Estado responde de forma <b>SUBSIDIÁRIA</b> (não solidária): só após esgotado o patrimônio da delegatária.</td></tr>
+</table>
+
+<h3>7.4 Excludentes e atenuantes do nexo causal</h3>
+
+<table>
+<tr><th style="width:32%">Causa</th><th>Efeito</th></tr>
+<tr><td class="rot">Culpa <b>exclusiva</b> da vítima</td><td><b>Exclui</b> a responsabilidade</td></tr>
+<tr><td class="rot">Culpa <b>concorrente</b> da vítima</td><td><b>Atenua</b>: reparte-se o valor da indenização</td></tr>
+<tr><td class="rot">Fato exclusivo de <b>terceiro</b></td><td><b>Exclui</b>, salvo se houver omissão específica do Estado</td></tr>
+<tr><td class="rot"><b>Força maior</b></td><td><b>Exclui</b> — evento externo, irresistível e imprevisível</td></tr>
+<tr><td class="rot"><b>Caso fortuito</b></td><td>Controverso: parte da doutrina o considera <b>interno</b> à atividade (falha de equipamento) e, por isso, <b>não excludente</b></td></tr>
+</table>
+
+<div class="box alerta">
+<h5>Cuidado com o advérbio</h5>
+<p style="margin-bottom:0">A palavra decisiva é <b>“exclusiva”</b>. “Culpa da vítima exclui a responsabilidade do Estado”
+é <b>errado</b> sem o advérbio: culpa <i>concorrente</i> apenas <b>reduz</b>. Retirar ou acrescentar “exclusiva” é a técnica
+mais barata de transformar um item verdadeiro em falso.</p>
+</div>
+
+<h4>7.4.1 Onde vige o risco integral</h4>
+<ul>
+<li><b>Dano nuclear</b> — CF, art. 21, XXIII, “d”: a responsabilidade civil por danos nucleares independe da existência de culpa.</li>
+<li><b>Dano ambiental</b> — construção jurisprudencial do STJ, com base no art. 14, § 1º, da Lei nº 6.938/1981.</li>
+<li><b>Atentado terrorista, ato de guerra ou eventos correlatos contra aeronaves de matrícula brasileira</b> — Lei nº 10.744/2003 (assunção de responsabilidade pela União).</li>
+<li><b>Seguro DPVAT</b> e, para parte da doutrina, os danos decorrentes de <b>atentados terroristas</b> em geral.</li>
+</ul>
+
+<div class="box ok">
+<h5>Fixe assim — <span class="mnem">NAT: Nuclear, Ambiental, Terrorismo (aéreo)</span></h5>
+<p style="margin-bottom:0">Fora dessas hipóteses excepcionais, é <b>risco administrativo</b>. Se o item afirmar risco
+integral em caso comum (buraco na via, queda de árvore, erro médico em hospital público), está <b>errado</b>.</p>
+</div>
+
+<h3>7.5 Responsabilidade por atos legislativos e judiciais</h3>
+
+<table>
+<tr><th style="width:26%">Ato</th><th>Regra</th><th>Exceções</th></tr>
+<tr><td class="rot">Legislativo</td><td><b>Irresponsabilidade</b>, como regra: a lei é ato geral e abstrato, e sua edição é exercício de soberania.</td><td>(a) <b>Lei declarada inconstitucional</b> pelo STF que tenha causado dano concreto; (b) <b>lei de efeitos concretos</b>, que materialmente é ato administrativo; (c) <b>omissão legislativa</b> inconstitucional, em termos restritos.</td></tr>
+<tr><td class="rot">Judicial</td><td><b>Irresponsabilidade</b> pela decisão jurisdicional regular, ainda que depois reformada — sob pena de comprometer a independência do juiz e a coisa julgada.</td><td>(a) <b>Erro judiciário</b> e (b) permanência na prisão <b>além do tempo fixado na sentença</b> — CF, art. 5º, <b>LXXV</b>; (c) <b>atos administrativos</b> praticados pelo Judiciário (cartórios judiciais, serventias), que seguem a regra geral do art. 37, § 6º.</td></tr>
+</table>
+
+<h3>7.6 Prescrição</h3>
+
+<table>
+<tr><th style="width:38%">Pretensão</th><th>Prazo</th></tr>
+<tr><td class="rot">Reparação civil <b>contra</b> a Fazenda Pública</td><td><b>5 anos</b> — Decreto nº 20.910/1932, confirmado pelo STJ em recurso repetitivo (REsp 1.251.993, Tema 553), <b>prevalecendo sobre</b> o prazo trienal do Código Civil.</td></tr>
+<tr><td class="rot">Ação de <b>regresso</b> contra o agente</td><td>Prescritível; o STF, no Tema 666, assentou que a pretensão de ressarcimento fundada em ilícito civil é <b>prescritível</b>.</td></tr>
+<tr><td class="rot">Ressarcimento por ato <b>doloso</b> de improbidade</td><td><b>Imprescritível</b> — CF, art. 37, § 5º, e Tema 897.</td></tr>
+<tr><td class="rot">Ressarcimento fundado em decisão de <b>Tribunal de Contas</b></td><td><b>Prescritível</b> — Tema 899.</td></tr>
+</table>
+
+<div class="box alerta">
+<h5>A trinca que a banca embaralha</h5>
+<p style="margin-bottom:0">Só é <b>imprescritível</b> o ressarcimento decorrente de ato <b>doloso de improbidade</b>.
+Ilícito civil comum: <b>prescreve</b>. Decisão de Tribunal de Contas: <b>prescreve</b>. Item que generalize a
+imprescritibilidade do ressarcimento ao erário está <b>errado</b>.</p>
+</div>
+
+<h3>7.7 Treino no padrão da banca — Tópico 7</h3>
+<p class="pequeno">Questões <b>inéditas</b>, escritas para este material (ver item 0.3).</p>
+
+<div class="q">
+<span class="cab tre">Treino · padrão IDECAN · múltipla escolha</span>
+<div class="enun">Pedestre é atropelado por veículo oficial conduzido por servidor municipal em serviço. Comprovou-se que o
+pedestre atravessou fora da faixa, contribuindo para o evento, embora o condutor também trafegasse acima da velocidade
+permitida. Assinale a alternativa correta.</div>
+<ol class="alts" type="A">
+<li>O Município não responde, pois a conduta da vítima configura excludente do nexo causal.</li>
+<li>O Município responde objetivamente, mas a indenização deve ser reduzida em razão da culpa concorrente da vítima.</li>
+<li>O Município responde subjetivamente, cabendo à vítima demonstrar a culpa do agente público.</li>
+<li>A vítima deve demandar diretamente o servidor, ao qual se imputa a conduta culposa, cabendo ao Município apenas responsabilidade subsidiária.</li>
+<li>Aplica-se a teoria do risco integral, sendo irrelevante o comportamento da vítima.</li>
+</ol>
+<div class="gab"><b>Resposta: B.</b> Culpa <b>concorrente</b> apenas <b>atenua</b>; só a <b>exclusiva</b> exclui. (C) contraria o
+art. 37, § 6º — a responsabilidade perante a vítima é objetiva. (D) contraria o <b>Tema 940</b> (dupla garantia): o
+servidor é parte <b>ilegítima</b>. (E) risco integral é excepcional e não alcança o caso.</div>
+</div>
+
+<div class="q">
+<span class="cab tre">Treino · padrão FCC · múltipla escolha</span>
+<div class="enun">Sobre a responsabilidade civil do Estado, é correto afirmar que</div>
+<ol class="alts" type="A">
+<li>as empresas públicas exploradoras de atividade econômica submetem-se ao art. 37, § 6º, da Constituição, respondendo objetivamente pelos danos causados por seus empregados.</li>
+<li>a responsabilidade das concessionárias de serviço público é objetiva apenas em relação aos usuários do serviço, respondendo subjetivamente perante terceiros.</li>
+<li>o Estado responde objetivamente pelos danos causados por tabeliães e registradores no exercício da função, assegurado o direito de regresso nos casos de dolo ou culpa.</li>
+<li>a pretensão de reparação civil contra a Fazenda Pública prescreve em três anos, por aplicação do Código Civil de 2002, mais recente que o Decreto nº 20.910/1932.</li>
+<li>a responsabilidade do Estado pelos danos causados por preso foragido é objetiva, independentemente do lapso temporal entre a fuga e a prática do dano.</li>
+</ol>
+<div class="gab"><b>Resposta: C.</b> Tema 777 (RE 842.846). (A) o § 6º alcança as <b>prestadoras de serviço público</b>, não as
+exploradoras de atividade econômica. (B) superada pelo Tema 130. (D) o STJ, no Tema 553, firmou o prazo <b>quinquenal</b>.
+(E) contraria o Tema 362, que exige <b>nexo causal direto</b>.</div>
+</div>
+
+<div class="q">
+<span class="cab tre">Treino · padrão CEBRASPE · item certo/errado</span>
+<div class="enun">Configura-se a responsabilidade civil objetiva do Estado pela morte de detento sob sua custódia, salvo
+se demonstrado que o óbito não podia ser evitado pelo poder público, hipótese em que se rompe o nexo de causalidade.</div>
+<div class="gab"><b>CERTO.</b> É a tese do <b>Tema 592</b> (RE 841.526): o dever específico de proteção do art. 5º, XLIX, da CF
+coloca o Estado na posição de <b>garante</b>; a ressalva final reproduz exatamente a exceção admitida pelo STF. Observe
+que aqui a omissão é <b>específica</b> — daí o regime objetivo, e não a culpa administrativa.</div>
+</div>
+
+<!-- ============================ TÓPICO 8 ============================ -->
+<h2 class="parte">Tópico 8 · Processo administrativo</h2>
+
+<h3>8.1 Alcance da Lei nº 9.784/1999</h3>
+
+<ul>
+<li>Estabelece <b>normas básicas</b> sobre o processo administrativo no âmbito da Administração <b>Federal</b> direta e indireta.</li>
+<li><b>Art. 1º, § 1º:</b> aplica-se também aos órgãos dos Poderes <b>Legislativo e Judiciário da União</b> quando no desempenho de <b>função administrativa</b>.</li>
+<li><b>Art. 69:</b> os processos administrativos <b>específicos</b> (disciplinar, tributário, previdenciário) continuam regidos por <b>lei própria</b>, aplicando-se a Lei nº 9.784/1999 apenas <b>subsidiariamente</b>.</li>
+</ul>
+
+<div class="box ouro">
+<h5>Súmula 633 do STJ — por que esta lei federal cai em concurso municipal</h5>
+<p style="margin-bottom:0">“A Lei n. 9.784/1999, especialmente no que diz respeito ao prazo decadencial para a revisão de
+atos administrativos no âmbito da Administração Pública federal, <b>pode ser aplicada, de forma subsidiária, aos estados
+e municípios, se inexistente norma local e específica</b> que regule a matéria.” É o fundamento para que o prazo de
+5 anos do art. 54 alcance a Administração municipal.</p>
+</div>
+
+<h3>8.2 Princípios e critérios (art. 2º)</h3>
+
+<div class="box">
+<h5>Os onze princípios expressos no <i>caput</i></h5>
+<p style="margin-bottom:0"><b>Legalidade · finalidade · motivação · razoabilidade · proporcionalidade · moralidade ·
+ampla defesa · contraditório · segurança jurídica · interesse público · eficiência.</b><br>
+<span class="pequeno">São <b>onze</b> — e a banca costuma inserir na lista um princípio que <i>não</i> está no artigo
+(“publicidade”, “supremacia do interesse público”, “impessoalidade”) ou retirar um que está (“segurança jurídica” é o
+mais suprimido).</span></p>
+</div>
+
+<table>
+<tr><th style="width:8%">Inciso</th><th>Critério do parágrafo único que costuma virar questão</th></tr>
+<tr><td class="rot">I</td><td>Atuação conforme <b>a lei e o Direito</b> — é a base normativa do princípio da <b>juridicidade</b>: a Administração se vincula não só à lei formal, mas ao ordenamento como um todo.</td></tr>
+<tr><td class="rot">III</td><td>Objetividade no atendimento do interesse público, <b>vedada a promoção pessoal</b> de agentes ou autoridades.</td></tr>
+<tr><td class="rot">VI</td><td><b>Adequação entre meios e fins</b>, vedada a imposição de obrigações, restrições e sanções em medida <b>superior àquelas estritamente necessárias</b> — é a proporcionalidade positivada.</td></tr>
+<tr><td class="rot">IX</td><td>Adoção de <b>formas simples</b>, suficientes para propiciar adequado grau de certeza e segurança — princípio do <b>informalismo moderado</b>.</td></tr>
+<tr><td class="rot">XI</td><td><b>Proibição de cobrança de despesas processuais</b>, ressalvadas as previstas em lei — princípio da <b>gratuidade</b>.</td></tr>
+<tr><td class="rot">XII</td><td><b>Impulsão de ofício</b> do processo, sem prejuízo da atuação dos interessados — princípio da <b>oficialidade</b>.</td></tr>
+<tr><td class="rot">XIII</td><td>Interpretação da norma do modo que melhor garanta o fim público, <b>vedada aplicação retroativa de nova interpretação</b>. É segurança jurídica em estado puro, e cai muito em matéria fiscal.</td></tr>
+</table>
+
+<h3>8.3 Direitos e deveres do administrado (arts. 3º e 4º)</h3>
+
+<div class="grade2">
+<div>
+<h5>Direitos (art. 3º)</h5>
+<ul>
+<li>Ser tratado com <b>respeito</b>;</li>
+<li>Ter <b>ciência</b> da tramitação, <b>vista</b> dos autos, <b>cópias</b> e conhecer as decisões;</li>
+<li>Formular alegações e apresentar documentos <b>antes da decisão</b>, que <b>serão objeto de consideração</b> pelo órgão;</li>
+<li>Fazer-se assistir <b>facultativamente</b> por advogado, salvo quando a representação for obrigatória por lei.</li>
+</ul>
+</div>
+<div>
+<h5>Deveres (art. 4º)</h5>
+<ul>
+<li>Expor os fatos conforme a <b>verdade</b>;</li>
+<li>Proceder com <b>lealdade, urbanidade e boa-fé</b>;</li>
+<li><b>Não</b> agir de modo temerário;</li>
+<li><b>Prestar as informações</b> que lhe forem solicitadas e <b>colaborar</b> para o esclarecimento dos fatos.</li>
+</ul>
+</div>
+</div>
+
+<div class="box alerta">
+<h5>Dois itens recorrentes</h5>
+<ul style="margin-bottom:0">
+<li>“A assistência por advogado é <b>obrigatória</b> no processo administrativo.” → <b>ERRADO</b> (art. 3º, IV, e <b>Súmula Vinculante 5</b>: a falta de defesa técnica por advogado no PAD não ofende a Constituição).</li>
+<li>“O desatendimento da intimação importa <b>confissão</b> quanto aos fatos e renúncia a direitos.” → <b>ERRADO</b>. O <b>art. 27</b> diz exatamente o contrário: “o desatendimento da intimação <b>não importa</b> o reconhecimento da verdade dos fatos, nem a renúncia a direito pelo administrado”. <b>Não há revelia</b> no processo administrativo.</li>
+</ul>
+</div>
+
+<h3>8.4 Impedimento e suspeição — o par confusível do tópico</h3>
+
+<table>
+<tr><th style="width:22%"></th><th>Impedimento (arts. 18 e 19)</th><th>Suspeição (arts. 20 e 21)</th></tr>
+<tr><td class="rot">Natureza</td><td><b>Objetiva</b> — hipóteses taxativas na lei</td><td><b>Subjetiva</b> — ligada ao ânimo do julgador</td></tr>
+<tr><td class="rot">Hipóteses</td><td>Interesse direto ou indireto na matéria; ter participado ou vir a participar como <b>perito, testemunha ou representante</b> (ou o cônjuge, companheiro, parente e afins até o <b>3º grau</b>); estar <b>litigando</b> judicial ou administrativamente com o interessado</td><td><b>Amizade íntima</b> ou <b>inimizade notória</b> com o interessado, cônjuge, companheiro, parentes e afins até o <b>3º grau</b></td></tr>
+<tr><td class="rot">Iniciativa</td><td>A autoridade <b>deve</b> comunicar e <b>abster-se</b> de atuar, de ofício</td><td>Deve ser <b>arguida</b> pelo interessado</td></tr>
+<tr><td class="rot">Omissão</td><td>Constitui <b>falta grave</b>, para efeitos disciplinares</td><td>Preclui: não arguida no momento próprio, convalida-se</td></tr>
+<tr><td class="rot">Recurso</td><td>—</td><td>O <b>indeferimento</b> da alegação de suspeição é recorrível, <b>sem efeito suspensivo</b></td></tr>
+</table>
+
+<div class="box ok">
+<h5>Fixe assim</h5>
+<p style="margin-bottom:0"><b>Impedimento é objetivo, de ofício, e omiti-lo é falta grave.</b><br>
+<b>Suspeição é subjetiva (amizade/inimizade) e precisa ser arguida.</b><br>
+O grau é o <b>mesmo nos dois</b>: até o <b>terceiro</b>. Trocar “terceiro” por “segundo” ou “quarto” é o erro numérico
+preferido da banca neste artigo.</p>
+</div>
+
+<h3>8.5 Forma, tempo, lugar e prazos</h3>
+
+<table>
+<tr><th style="width:14%">Artigo</th><th>Regra</th></tr>
+<tr><td class="rot">22</td><td>Os atos <b>não dependem de forma determinada</b>, senão quando a lei expressamente a exigir. Devem ser produzidos por escrito, em vernáculo, com data, local e assinatura.</td></tr>
+<tr><td class="rot">22, § 2º</td><td><b>Reconhecimento de firma</b>: exigido <b>somente quando houver dúvida de autenticidade</b>, salvo imposição legal.</td></tr>
+<tr><td class="rot">23</td><td>Os atos realizam-se em <b>dias úteis</b>, no <b>horário normal</b> de funcionamento da repartição. Concluir-se-á depois do horário o ato já iniciado cujo adiamento prejudique o curso regular do procedimento.</td></tr>
+<tr><td class="rot">24</td><td>Inexistindo disposição específica, os atos devem ser praticados no prazo de <b>5 dias</b>, salvo força maior. <b>Dilatável até o dobro</b> mediante comprovada justificação.</td></tr>
+<tr><td class="rot">26, § 2º</td><td>A <b>intimação</b> observará antecedência mínima de <b>3 dias úteis</b> quanto à data de comparecimento.</td></tr>
+<tr><td class="rot">42</td><td><b>Parecer</b> de órgão consultivo obrigatoriamente ouvido: prazo máximo de <b>15 dias</b>.</td></tr>
+<tr><td class="rot">44</td><td>Encerrada a instrução, o interessado tem <b>10 dias</b> para manifestar-se.</td></tr>
+<tr><td class="rot">49</td><td>Concluída a instrução, a Administração tem <b>30 dias</b> para decidir, prorrogáveis por <b>igual período</b>, <b>expressamente motivada</b>.</td></tr>
+<tr><td class="rot">59</td><td>Recurso: <b>10 dias</b> para interpor; <b>30 dias</b> para decidir, prorrogáveis por igual período (Tópico 6).</td></tr>
+<tr><td class="rot">54</td><td>Decadência do direito de <b>anular</b> atos favoráveis ao destinatário: <b>5 anos</b>, salvo comprovada <b>má-fé</b>.</td></tr>
+<tr><td class="rot">66</td><td>Contagem: <b>exclui-se</b> o dia do começo e <b>inclui-se</b> o do vencimento; prorroga-se ao primeiro dia útil se não houver expediente; prazos em dias contam-se de modo <b>contínuo</b> (corridos); em meses ou anos, <b>de data a data</b>.</td></tr>
+<tr><td class="rot">67</td><td>Salvo <b>força maior</b> comprovada, os prazos processuais <b>não se suspendem</b>.</td></tr>
+</table>
+
+<div class="box ok">
+<h5>Fixe assim — a escada de prazos</h5>
+<p style="margin-bottom:0"><b>3</b> dias úteis (antecedência da intimação) · <b>5</b> dias (ato sem prazo próprio; reconsideração no recurso) ·
+<b>10</b> dias (alegações finais; interposição de recurso) · <b>15</b> dias (parecer) · <b>30</b> dias (decidir; decidir o recurso) ·
+<b>5 anos</b> (decadência do art. 54).<br>
+Regra de ouro: se a alternativa trouxer um número <b>diferente</b> desses, é o distrator.</p>
+</div>
+
+<div class="box">
+<h5>Art. 54 — os dois parágrafos que decidem a questão</h5>
+<ul style="margin-bottom:0">
+<li><b>§ 1º:</b> no caso de efeitos patrimoniais <b>contínuos</b>, o prazo conta-se da <b>percepção do primeiro pagamento</b>.</li>
+<li><b>§ 2º:</b> considera-se exercício do direito de anular <b>qualquer medida de autoridade administrativa que importe impugnação à validade do ato</b> — ou seja, o simples ato de questionar formalmente já interrompe a decadência, sem necessidade de decisão anulatória.</li>
+</ul>
+</div>
+
+<h3>8.6 Instrução e prova</h3>
+
+<table>
+<tr><th style="width:14%">Artigo</th><th>Regra</th></tr>
+<tr><td class="rot">29, § 2º</td><td>Os atos de instrução que exijam a atuação dos interessados devem realizar-se do modo <b>menos oneroso</b> para estes.</td></tr>
+<tr><td class="rot">36</td><td>Cabe ao <b>interessado</b> a prova dos fatos que <b>tenha alegado</b>, sem prejuízo do dever de instrução do órgão.</td></tr>
+<tr><td class="rot"><b>37</b></td><td>Se o interessado declarar que os fatos e dados constam de <b>documentos existentes na própria Administração</b> — no mesmo ou em outro órgão — cabe ao órgão instrutor obtê-los <b>de ofício</b>. É a vedação a exigir do cidadão prova que a Administração já possui.</td></tr>
+<tr><td class="rot">38, § 2º</td><td>Provas propostas pelo interessado só podem ser recusadas por <b>decisão fundamentada</b>, e apenas se <b>ilícitas, impertinentes, desnecessárias ou protelatórias</b>.</td></tr>
+<tr><td class="rot">45</td><td>Em caso de <b>risco iminente</b>, a Administração pode adotar <b>motivadamente</b> providências acauteladoras <b>sem</b> a prévia manifestação do interessado.</td></tr>
+<tr><td class="rot">47</td><td>O órgão de instrução que não decide elabora <b>relatório</b> com proposta de decisão <b>objetivamente justificada</b>.</td></tr>
+<tr><td class="rot">48</td><td>A Administração tem o <b>dever</b> de emitir decisão <b>explícita</b> — não existe indeferimento tácito por conveniência.</td></tr>
+</table>
+
+<h4>8.6.1 Espécies de parecer e a responsabilidade do parecerista</h4>
+
+<table>
+<tr><th style="width:24%">Espécie</th><th>Consequência</th><th>Responsabilidade do parecerista</th></tr>
+<tr><td class="rot">Facultativo</td><td>A autoridade pode ou não solicitá-lo e não se vincula a ele.</td><td>Em regra, <b>não</b> responde — salvo dolo ou erro grosseiro.</td></tr>
+<tr><td class="rot">Obrigatório</td><td>A solicitação é obrigatória; a autoridade <b>pode</b> divergir, desde que <b>motivadamente</b>. Se não emitido no prazo, o processo <b>prossegue</b> (art. 42, § 2º).</td><td>Responsabilidade em caso de dolo ou erro grosseiro.</td></tr>
+<tr><td class="rot"><b>Vinculante</b></td><td>A autoridade <b>não pode</b> decidir em sentido diverso. Se não emitido, o processo <b>não tem seguimento</b> (art. 42, § 1º).</td><td>O STF (MS 24.631) admite <b>responsabilização solidária</b> do parecerista, pois o parecer integra o próprio ato decisório.</td></tr>
+</table>
+
+<div class="box">
+<h5>O filtro da LINDB</h5>
+<p style="margin-bottom:0">Os arts. 20 a 30 do Decreto-Lei nº 4.657/1942 (LINDB), incluídos pela Lei nº 13.655/2018,
+temperam tudo isto: decisões com base em <b>valores jurídicos abstratos</b> devem considerar as <b>consequências
+práticas</b> (art. 20); a invalidação deve indicar de modo <b>expresso</b> as consequências e, quando cabível, as
+<b>condições de regularização</b> (art. 21); e o agente público só responde pessoalmente por decisões ou opiniões
+técnicas em caso de <b>dolo ou erro grosseiro</b> (art. 28). É a base normativa moderna da responsabilidade do parecerista.</p>
+</div>
+
+<h3>8.7 Motivação (art. 50) — as oito hipóteses obrigatórias</h3>
+
+<div class="box ouro">
+<h5>Os atos que <b>devem</b> ser motivados, com indicação dos fatos e dos fundamentos jurídicos</h5>
+<ol style="margin-bottom:.4em">
+<li><b>Neguem, limitem ou afetem</b> direitos ou interesses;</li>
+<li><b>Imponham ou agravem</b> deveres, encargos ou sanções;</li>
+<li>Decidam processos de <b>concurso ou seleção pública</b>;</li>
+<li><b>Dispensem</b> ou declarem a <b>inexigibilidade</b> de processo licitatório;</li>
+<li>Decidam <b>recursos</b> administrativos;</li>
+<li>Decorram de <b>reexame de ofício</b>;</li>
+<li><b>Deixem de aplicar jurisprudência firmada</b> sobre a questão ou <b>discrepem</b> de pareceres, laudos, propostas e relatórios oficiais;</li>
+<li>Importem <b>anulação, revogação, suspensão ou convalidação</b> de ato administrativo.</li>
+</ol>
+<p style="margin-bottom:0"><b>§ 1º:</b> a motivação deve ser <b>explícita, clara e congruente</b>, podendo consistir em
+declaração de concordância com fundamentos de anteriores pareceres, informações, decisões ou propostas — que, nesse caso,
+<b>integram o ato</b>. É a <b>motivação <i>aliunde</i></b> (ou por referência).</p>
+</div>
+
+<div class="box alerta">
+<h5>Erro recorrente</h5>
+<p style="margin-bottom:0">“Os atos que importem convalidação <b>prescindem</b> de motivação, por não inovarem na
+situação jurídica.” → <b>ERRADO</b>: o inciso VIII exige motivação expressa para anulação, revogação, suspensão <b>e
+convalidação</b>. Repare que o verbo “prescindir” é o disfarce: significa <i>dispensar</i>, e a banca conta com a leitura
+apressada.</p>
+</div>
+
+<h3>8.8 Desistência, extinção e sanções</h3>
+<ul>
+<li><b>Art. 51:</b> o interessado pode <b>desistir</b> total ou parcialmente do pedido, ou <b>renunciar</b> a direitos disponíveis, por escrito. <b>§ 2º:</b> a desistência <b>não prejudica</b> o prosseguimento do processo, se a Administração considerar que o <b>interesse público</b> o exige.</li>
+<li><b>Art. 52:</b> o órgão pode declarar extinto o processo quando exaurida sua finalidade ou o objeto se tornar impossível, inútil ou prejudicado por fato superveniente.</li>
+<li><b>Art. 68:</b> as sanções terão <b>natureza pecuniária</b> ou consistirão em obrigação de fazer ou de não fazer, assegurado sempre o <b>direito de defesa</b> — e só podem ser as <b>previstas em lei</b>.</li>
+<li><b>Art. 69-A:</b> têm <b>prioridade de tramitação</b> os procedimentos em que figure como parte pessoa com <b>60 anos ou mais</b>, pessoa com deficiência, ou portador de doença grave listada em lei.</li>
+</ul>
+
+<h3>8.9 Treino no padrão da banca — Tópico 8</h3>
+<p class="pequeno">Questões <b>inéditas</b>, escritas para este material (ver item 0.3).</p>
+
+<div class="q">
+<span class="cab tre">Treino · padrão IDECAN · múltipla escolha</span>
+<div class="enun">Sobre impedimento e suspeição na Lei nº 9.784/1999, assinale a alternativa correta.</div>
+<ol class="alts" type="A">
+<li>O servidor que tenha amizade íntima com o interessado está impedido de atuar, devendo abster-se de ofício, sob pena de falta grave.</li>
+<li>O servidor que esteja litigando administrativamente com o interessado é apenas suspeito, cabendo ao interessado arguir a suspeição no prazo de dez dias.</li>
+<li>O servidor que tenha interesse indireto na matéria está impedido, devendo comunicar o fato à autoridade competente e abster-se de atuar, sendo a omissão desse dever falta grave.</li>
+<li>O indeferimento da alegação de suspeição é irrecorrível na via administrativa, por se tratar de juízo discricionário da autoridade.</li>
+<li>As hipóteses de impedimento e de suspeição alcançam parentes e afins até o segundo grau.</li>
+</ol>
+<div class="gab"><b>Resposta: C.</b> Art. 18, I, c/c art. 19 e parágrafo único. (A) troca os institutos: amizade íntima é
+<b>suspeição</b>. (B) também troca: litígio com o interessado é <b>impedimento</b> (art. 18, III). (D) contraria o art. 21 — cabe
+recurso, <b>sem efeito suspensivo</b>. (E) erro numérico: é até o <b>terceiro</b> grau. Padrão IDECAN puro: quatro distratores
+por <b>troca de instituto</b> ou <b>troca de número</b>.</div>
+</div>
+
+<div class="q">
+<span class="cab tre">Treino · padrão FCC · múltipla escolha</span>
+<div class="enun">De acordo com a Lei nº 9.784/1999, é correto afirmar que</div>
+<ol class="alts" type="A">
+<li>concluída a instrução, a Administração tem o prazo de quinze dias para decidir, prorrogável uma única vez por igual período, independentemente de motivação.</li>
+<li>o desatendimento da intimação importa o reconhecimento da verdade dos fatos alegados pela Administração, salvo se o interessado comprovar justa causa.</li>
+<li>quando o interessado declarar que os fatos constam de documentos existentes na própria Administração, cabe ao órgão instrutor providenciar de ofício a obtenção desses documentos.</li>
+<li>o reconhecimento de firma é exigível em todos os documentos apresentados pelo interessado, por constituir formalidade essencial à validade do processo.</li>
+<li>a desistência do interessado acarreta necessariamente a extinção do processo, ainda que subsista interesse público na apuração dos fatos.</li>
+</ol>
+<div class="gab"><b>Resposta: C.</b> Art. 37. (A) o prazo é de <b>30 dias</b> e a prorrogação exige motivação expressa (art. 49).
+(B) o art. 27 diz o <b>oposto</b> — não há revelia. (D) o art. 22, § 2º só admite exigir reconhecimento de firma <b>havendo
+dúvida de autenticidade</b>. (E) o art. 51, § 2º ressalva expressamente o interesse público.</div>
+</div>
+
+<div class="q">
+<span class="cab tre">Treino · padrão CEBRASPE · item certo/errado</span>
+<div class="enun">A motivação da decisão administrativa pode consistir em declaração de concordância com fundamentos de
+pareceres anteriores, os quais, nessa hipótese, passam a integrar o ato; contudo, a decisão que deixa de aplicar
+jurisprudência firmada sobre a questão dispensa motivação específica, por prevalecer a autonomia do administrador.</div>
+<div class="gab"><b>ERRADO.</b> A primeira metade está correta — é a motivação <i>aliunde</i> do art. 50, § 1º. A segunda
+inverte o <b>inciso VII</b>: deixar de aplicar jurisprudência firmada é justamente uma das hipóteses em que a motivação é
+<b>obrigatória</b>. Técnica clássica: verdade + mentira na mesma frase, ligadas por “contudo”.</div>
+</div>
+
+<!-- ============================ TÓPICO 9 ============================ -->
+<h2 class="parte">Tópico 9 · Lei nº 14.133/2021 — noções gerais de licitações e contratos</h2>
+
+<h3>9.1 Vigência e abrangência — comece por aqui</h3>
+
+<div class="box ouro">
+<h5>Não existe mais “opção” entre as leis</h5>
+<p style="margin-bottom:0">A Lei nº 14.133/2021 <b>revogou</b> a Lei nº 8.666/1993, a Lei nº 10.520/2002 (pregão) e os
+arts. 1º a 47-A da Lei nº 12.462/2011 (RDC) a partir de <b>30 de dezembro de 2023</b> (art. 193, II). Desde então, a Lei
+nº 14.133/2021 é a <b>única</b> lei geral de licitações. Item que mencione o regime de transição ou a faculdade de opção
+está <b>desatualizado</b>.</p>
+</div>
+
+<table>
+<tr><th style="width:36%">Situação</th><th>Lei aplicável</th></tr>
+<tr><td class="rot">Administração direta, autárquica e fundacional de <b>todos os entes</b>, inclusive Municípios; fundos especiais e demais entidades controladas</td><td><b>Lei nº 14.133/2021</b></td></tr>
+<tr><td class="rot"><b>Empresas públicas e sociedades de economia mista</b> e suas subsidiárias</td><td><b>Lei nº 13.303/2016</b>, com regulamento interno próprio — <b>ressalvado</b> o art. 178 da Lei nº 14.133/2021, que inseriu no <b>Código Penal</b> os crimes em licitações e contratos, aplicáveis também às estatais</td></tr>
+<tr><td class="rot"><b>Concessões e permissões</b> de serviço público</td><td>Leis nº 8.987/1995 e nº 11.079/2004 (Tópico 5) — a Lei nº 14.133/2021 <b>não</b> as rege</td></tr>
+<tr><td class="rot">Contratações no <b>terceiro setor</b> (OS, OSCIP, OSC)</td><td>Leis nº 9.637/1998, nº 9.790/1999 e nº 13.019/2014</td></tr>
+</table>
+
+<h3>9.2 Princípios e objetivos</h3>
+
+<p>O <b>art. 5º</b> arrola vinte e dois princípios — e ainda manda aplicar as disposições da <b>LINDB</b> (arts. 20 a 30 do
+Decreto-Lei nº 4.657/1942). Cinco deles são <b>novidades</b> da lei e, por isso, os prediletos das bancas:</p>
+
+<table>
+<tr><th style="width:26%">Princípio novo</th><th>Conteúdo</th></tr>
+<tr><td class="rot"><b>Planejamento</b></td><td>Materializa-se no <b>plano de contratações anual</b> (art. 12, VII) e no <b>estudo técnico preliminar</b>.</td></tr>
+<tr><td class="rot"><b>Segregação de funções</b></td><td>Veda que o mesmo agente concentre atribuições incompatíveis — quem planeja não julga, quem julga não fiscaliza a execução.</td></tr>
+<tr><td class="rot"><b>Transparência</b></td><td>Publicidade em tempo real no <b>PNCP</b> (art. 174).</td></tr>
+<tr><td class="rot"><b>Celeridade</b></td><td>Fase recursal única, inversão de fases como regra, prazos em dias úteis.</td></tr>
+<tr><td class="rot"><b>Desenvolvimento nacional sustentável</b></td><td>Já existia na 8.666 desde 2010, mas agora vem acompanhado de instrumentos concretos (margens de preferência, critérios de sustentabilidade).</td></tr>
+</table>
+
+<div class="box">
+<h5>Os quatro objetivos do processo licitatório (art. 11)</h5>
+<ol style="margin-bottom:.4em">
+<li>Assegurar a seleção da proposta <b>apta a gerar o resultado de contratação mais vantajoso</b> para a Administração, inclusive no que se refere ao <b>ciclo de vida do objeto</b>;</li>
+<li>Assegurar <b>tratamento isonômico</b> entre os licitantes e a <b>justa competição</b>;</li>
+<li><b>Evitar contratações com sobrepreço</b> ou com preços manifestamente inexequíveis e <b>superfaturamento</b> na execução;</li>
+<li>Incentivar a <b>inovação</b> e o desenvolvimento nacional sustentável.</li>
+</ol>
+<p style="margin-bottom:0"><b>Parágrafo único:</b> a <b>alta administração</b> do órgão é responsável pela <b>governança</b> das
+contratações e deve implementar processos e estruturas de gestão de riscos e controles internos. É a novidade que a
+banca cobra como “responsabilidade da alta administração”.</p>
+</div>
+
+<h3>9.3 As sete fases do processo licitatório (art. 17)</h3>
+
+<table>
+<tr><th style="width:10%">Ordem</th><th style="width:28%">Fase</th><th>Conteúdo</th></tr>
+<tr><td class="rot">1ª</td><td><b>Preparatória</b> (interna)</td><td>ETP, termo de referência / anteprojeto / projeto básico, matriz de riscos, orçamento estimado, minuta do edital e do contrato, parecer jurídico.</td></tr>
+<tr><td class="rot">2ª</td><td>Divulgação do edital</td><td>Publicação no <b>PNCP</b>. Prazos mínimos para apresentação de propostas no art. 55, contados em <b>dias úteis</b> e variáveis conforme o objeto e o critério de julgamento.</td></tr>
+<tr><td class="rot">3ª</td><td>Apresentação de propostas e lances</td><td>Modo de disputa aberto, fechado ou combinado (art. 56).</td></tr>
+<tr><td class="rot">4ª</td><td><b>Julgamento</b></td><td>Aplicação do critério escolhido; verificação de exequibilidade; negociação com o primeiro colocado.</td></tr>
+<tr><td class="rot">5ª</td><td><b>Habilitação</b></td><td>Jurídica · técnica · fiscal, social e trabalhista · econômico-financeira (art. 62).</td></tr>
+<tr><td class="rot">6ª</td><td><b>Recursal</b></td><td><b>Fase única</b>: um só momento recursal, após habilitação e julgamento.</td></tr>
+<tr><td class="rot">7ª</td><td><b>Homologação</b></td><td>Ato da autoridade superior que confere eficácia ao certame.</td></tr>
+</table>
+
+<div class="box ok">
+<h5>Fixe assim — a inversão virou regra</h5>
+<p style="margin-bottom:0">Na Lei nº 8.666/1993, habilitava-se <b>antes</b> de julgar. Na Lei nº 14.133/2021, a ordem é
+<b>julgamento → habilitação</b>: só se examinam os documentos de quem já venceu. O <b>art. 17, § 1º</b> permite <b>inverter</b>
+(habilitação antes do julgamento) desde que haja <b>ato motivado</b> e <b>previsão expressa no edital</b>. E a fase recursal
+é <b>única</b> — não há mais recurso separado da habilitação.</p>
+</div>
+
+<div class="box alerta">
+<h5>Erros construídos sobre a ordem das fases</h5>
+<ul style="margin-bottom:0">
+<li>“A habilitação antecede o julgamento das propostas, salvo no pregão.” → <b>ERRADO</b>: a inversão é a <b>regra geral</b> para todas as modalidades.</li>
+<li>“A adjudicação é a última fase do processo licitatório.” → <b>ERRADO</b>: o art. 17 encerra na <b>homologação</b>.</li>
+<li>“A fase preparatória é dispensável nas contratações diretas.” → <b>ERRADO</b>: o art. 72 exige processo instruído com ETP (quando for o caso), estimativa de despesa, parecer jurídico, razão da escolha e justificativa de preço.</li>
+</ul>
+</div>
+
+<h3>9.4 Modalidades (art. 28)</h3>
+
+<table>
+<tr><th style="width:20%">Modalidade</th><th>Objeto</th><th>Observação</th></tr>
+<tr><td class="rot"><b>Pregão</b></td><td>Bens e serviços <b>comuns</b> — aqueles cujos padrões de desempenho e qualidade podem ser objetivamente definidos por especificações usuais de mercado.</td><td><b>Não se aplica</b> a serviços técnicos especializados de natureza predominantemente <b>intelectual</b> nem a <b>obras</b> e serviços de engenharia — exceto os <b>serviços comuns de engenharia</b> (art. 29, § único).</td></tr>
+<tr><td class="rot"><b>Concorrência</b></td><td>Bens e serviços <b>especiais</b>, obras e serviços <b>de engenharia</b>.</td><td>Segue o <b>mesmo rito</b> do pregão (art. 29). O valor <b>deixou de ser</b> critério de escolha da modalidade.</td></tr>
+<tr><td class="rot"><b>Concurso</b></td><td>Escolha de <b>trabalho técnico, científico ou artístico</b>.</td><td>Critério de julgamento: <b>melhor técnica ou conteúdo artístico</b>. Prêmio ou remuneração ao vencedor.</td></tr>
+<tr><td class="rot"><b>Leilão</b></td><td><b>Alienação</b> de bens imóveis ou de bens móveis inservíveis ou legalmente apreendidos.</td><td>Critério: <b>maior lance</b>. Pode ser conduzido por leiloeiro oficial ou por servidor designado.</td></tr>
+<tr><td class="rot"><b>Diálogo competitivo</b> <span class="chip novo">novidade</span></td><td>Contratações que envolvam <b>inovação tecnológica ou técnica</b>, <b>impossibilidade de o órgão ter sua necessidade satisfeita sem adaptação de soluções disponíveis</b>, ou impossibilidade de <b>especificação técnica suficientemente precisa</b>.</td><td>Duas fases: <b>diálogos</b> com licitantes pré-selecionados para desenvolver alternativas, e depois <b>competição</b> sobre a solução definida.</td></tr>
+</table>
+
+<div class="box alerta">
+<h5>As duas modalidades que sumiram — e o que a banca faz com isso</h5>
+<p style="margin-bottom:0"><b>Convite</b> e <b>tomada de preços</b> foram <b>extintos</b> <span class="chip fim">extintas</span>.
+Alternativa que os mencione como modalidades vigentes está <b>errada</b>. Extinto também está o critério de escolha por
+<b>faixa de valor</b>: hoje a modalidade se define pelo <b>objeto</b>, não pelo preço estimado.</p>
+</div>
+
+<h4>9.4.1 Critérios de julgamento (art. 33) e modos de disputa (art. 56)</h4>
+
+<div class="grade2">
+<div>
+<h5>Critérios de julgamento — são seis</h5>
+<ol>
+<li><b>Menor preço</b></li>
+<li><b>Maior desconto</b></li>
+<li><b>Melhor técnica ou conteúdo artístico</b></li>
+<li><b>Técnica e preço</b></li>
+<li><b>Maior lance</b> (leilão)</li>
+<li><b>Maior retorno econômico</b> (contrato de eficiência)</li>
+</ol>
+</div>
+<div>
+<h5>Modos de disputa</h5>
+<ul>
+<li><b>Aberto</b> (lances públicos e sucessivos), <b>fechado</b> (propostas sigilosas) ou <b>combinação</b> de ambos.</li>
+<li>O modo <b>fechado</b> não pode ser usado <b>isoladamente</b> quando o critério for menor preço ou maior desconto.</li>
+<li>O modo <b>aberto</b> não pode ser usado quando o critério for <b>técnica e preço</b>.</li>
+</ul>
+</div>
+</div>
+
+<h4>9.4.2 Desempate (art. 60)</h4>
+<p>Critérios <b>sucessivos</b>: (1) disputa final, com novas propostas dos licitantes empatados; (2) avaliação do
+<b>desempenho contratual prévio</b>; (3) desenvolvimento pelo licitante de ações de <b>equidade entre homens e mulheres</b>
+no ambiente de trabalho; (4) desenvolvimento de <b>programa de integridade</b>. Persistindo o empate, aplicam-se as
+<b>preferências</b> legais, inclusive as das microempresas e empresas de pequeno porte (LC nº 123/2006).</p>
+
+<h3>9.5 Contratação direta</h3>
+
+<table>
+<tr><th style="width:22%"></th><th>Inexigibilidade (art. 74)</th><th>Dispensa (art. 75)</th></tr>
+<tr><td class="rot">Causa</td><td><b>Inviabilidade de competição</b></td><td>A competição é <b>viável</b>, mas a lei autoriza não licitar</td></tr>
+<tr><td class="rot">Natureza do rol</td><td><b>Exemplificativo</b> (“em especial”)</td><td><b>TAXATIVO</b></td></tr>
+<tr><td class="rot">Hipóteses típicas</td><td>Fornecedor <b>exclusivo</b>; <b>profissional do setor artístico</b> consagrado pela crítica ou pela opinião pública; <b>serviços técnicos especializados</b> de natureza predominantemente intelectual com profissional de <b>notória especialização</b>; <b>credenciamento</b>; aquisição ou <b>locação de imóvel</b> cujas características de instalação e localização tornem necessária a escolha</td><td><b>Por valor</b> (incisos I e II); licitação <b>deserta</b> ou <b>fracassada</b>; <b>emergência</b> ou calamidade; guerra, grave perturbação da ordem; <b>alienação</b> de bens; contratação de remanescente de obra</td></tr>
+<tr><td class="rot">Vedação expressa</td><td><b>Vedada</b> a inexigibilidade para serviços de <b>publicidade e divulgação</b> (art. 74, § 3º)</td><td>Vedado o <b>fracionamento</b> da despesa para escapar da modalidade cabível</td></tr>
+</table>
+
+<div class="box ok">
+<h5>Fixe assim — <span class="mnem">DisPEnsa é TAXATIVA; INExigibilidade é EXEmplificativa</span></h5>
+<p style="margin-bottom:0">Ambos exigem <b>processo instruído</b> (art. 72) e <b>publicação no PNCP</b> — a contratação direta
+não é contratação informal. E ambos exigem <b>motivação</b>: o art. 50, IV, da Lei nº 9.784/1999 obriga a motivar os atos
+que dispensem ou declarem inexigível a licitação (ponte com o Tópico 8).</p>
+</div>
+
+<div class="box">
+<h5>Dispensa por valor — os limites e a regra de atualização</h5>
+<ul style="margin-bottom:0">
+<li><b>Art. 75, I:</b> obras e serviços de <b>engenharia</b> ou de manutenção de veículos automotores — até <b>R$ 100.000,00</b>;</li>
+<li><b>Art. 75, II:</b> demais <b>serviços e compras</b> — até <b>R$ 50.000,00</b>;</li>
+<li>Esses são os valores <b>originais</b> do texto legal. O <b>art. 182</b> determina sua <b>atualização anual</b> pelo IPCA, por ato do Poder Executivo federal — de modo que os valores <b>praticados</b> hoje são superiores. Em prova, verifique se o enunciado pede o <b>texto da lei</b> (valores originais) ou o valor <b>vigente</b> (atualizado por decreto);</li>
+<li><b>§ 1º:</b> os valores são <b>dobrados</b> para consórcios públicos, autarquias e fundações qualificadas como <b>agências executivas</b>;</li>
+<li><b>§ 2º:</b> os limites são considerados em relação ao <b>exercício financeiro</b> e ao <b>objeto</b> — é a norma antifracionamento.</li>
+</ul>
+</div>
+
+<h3>9.6 Contratos administrativos</h3>
+
+<h4>9.6.1 Prerrogativas da Administração (art. 104)</h4>
+<ol>
+<li><b>Modificar</b> unilateralmente, para melhor adequação às finalidades de interesse público, respeitados os direitos do contratado;</li>
+<li><b>Extinguir</b> unilateralmente, nos casos especificados na lei;</li>
+<li><b>Fiscalizar</b> a execução;</li>
+<li><b>Aplicar sanções</b> motivadas pela inexecução total ou parcial;</li>
+<li><b>Ocupar provisoriamente</b> bens móveis e imóveis e utilizar pessoal e serviços vinculados ao objeto.</li>
+</ol>
+
+<div class="box ouro">
+<h5>Limites da alteração unilateral (art. 125)</h5>
+<p style="margin-bottom:0">O contratado é <b>obrigado a aceitar</b>, nas mesmas condições contratuais, acréscimos ou
+supressões de até <b>25%</b> do valor inicial atualizado do contrato em obras, serviços e compras — e até <b>50%</b> no caso
+de <b>reforma de edifício ou de equipamento</b> (apenas para <b>acréscimos</b>).<br>
+Alteração unilateral que aumente ou diminua encargos obriga a Administração a <b>restabelecer o equilíbrio
+econômico-financeiro no mesmo termo aditivo</b>.</p>
+</div>
+
+<div class="box alerta">
+<h5>Três erros clássicos sobre o art. 125</h5>
+<ul style="margin-bottom:0">
+<li>“O limite de 50% na reforma vale para acréscimos <b>e</b> supressões.” → <b>ERRADO</b>: só para <b>acréscimos</b>.</li>
+<li>“Os percentuais incidem sobre o valor <b>atualizado da parcela alterada</b>.” → <b>ERRADO</b>: incidem sobre o <b>valor inicial atualizado do contrato</b>.</li>
+<li>“A alteração unilateral pode modificar o objeto do contrato, desde que respeitados os limites percentuais.” → <b>ERRADO</b>: é vedado <b>transfigurar o objeto</b>.</li>
+</ul>
+</div>
+
+<h4>9.6.2 Duração</h4>
+<table>
+<tr><th style="width:44%">Situação</th><th>Prazo</th></tr>
+<tr><td class="rot">Regra geral</td><td>O previsto no edital, observadas a <b>disponibilidade de créditos orçamentários</b> e a previsão no <b>plano plurianual</b> quando ultrapassar um exercício financeiro.</td></tr>
+<tr><td class="rot">Serviços e fornecimentos <b>contínuos</b></td><td>Até <b>5 anos</b>, prorrogáveis sucessivamente até o limite de <b>10 anos</b>.</td></tr>
+<tr><td class="rot">Contratos que <b>gerem receita</b> e contratos de <b>eficiência</b></td><td>Até <b>10 anos</b> sem investimento; até <b>35 anos</b> quando houver investimento.</td></tr>
+<tr><td class="rot">Contratos de <b>escopo</b> (objeto predefinido)</td><td>A vigência é <b>automaticamente prorrogada</b> quando o objeto não for concluído no período firmado.</td></tr>
+</table>
+
+<h4>9.6.3 Exceção do contrato não cumprido — o prazo mudou</h4>
+<div class="box ok">
+<h5>Fixe assim</h5>
+<p style="margin-bottom:0">Atraso da Administração no pagamento superior a <b>2 meses</b> (contados da emissão da nota
+fiscal) dá ao contratado o direito à <b>extinção do contrato</b>; ordem escrita de <b>suspensão</b> por prazo superior a
+<b>3 meses</b> produz o mesmo efeito. Na Lei nº 8.666/1993 o prazo era de <b>90 dias</b> — item que traga “90 dias” está
+<b>desatualizado</b>.</p>
+</div>
+
+<h4>9.6.4 Sanções (art. 156)</h4>
+<table>
+<tr><th style="width:26%">Sanção</th><th>Alcance</th><th>Prazo</th></tr>
+<tr><td class="rot">Advertência</td><td>Infração que não justifique sanção mais grave</td><td>—</td></tr>
+<tr><td class="rot">Multa</td><td>Não inferior a 0,5% nem superior a 30% do valor do contrato licitado ou celebrado</td><td>—</td></tr>
+<tr><td class="rot"><b>Impedimento</b> de licitar e contratar</td><td>Administração direta e indireta <b>do ente federativo</b> que aplicou a sanção</td><td><b>Máximo de 3 anos</b></td></tr>
+<tr><td class="rot"><b>Declaração de inidoneidade</b></td><td>Administração direta e indireta de <b>TODOS</b> os entes federativos</td><td><b>Mínimo de 3, máximo de 6 anos</b></td></tr>
+</table>
+
+<div class="box ok">
+<h5>Fixe assim — o par decisivo</h5>
+<p style="margin-bottom:0"><b>Impedimento: 1 ente, até 3 anos.</b> · <b>Inidoneidade: todos os entes, de 3 a 6 anos.</b><br>
+Multa e advertência podem ser aplicadas <b>cumulativamente</b> com as demais.</p>
+</div>
+
+<h4>9.6.5 Nulidade do contrato</h4>
+<ul>
+<li>A declaração de nulidade opera <b>retroativamente</b>, impedindo os efeitos que o contrato deveria produzir e desconstituindo os já produzidos.</li>
+<li><b>Mas</b> a nulidade <b>não exonera</b> a Administração do dever de <b>indenizar</b> o contratado pelo que houver executado até a data em que for declarada, e por outros prejuízos comprovados, <b>desde que não lhe seja imputável</b> a nulidade — promovendo-se a responsabilização de quem lhe deu causa.</li>
+<li>Antes de anular, a autoridade deve <b>avaliar as consequências</b> e ponderar se a nulidade é a medida de interesse público mais adequada, podendo optar pela <b>manutenção</b> do contrato com medidas de saneamento — aplicação direta dos arts. 20 a 22 da LINDB.</li>
+</ul>
+
+<h4>9.6.6 Meios alternativos de resolução de controvérsias (arts. 151 a 154)</h4>
+<ul>
+<li>Admitidos: <b>conciliação</b>, <b>mediação</b>, <b>comitê de resolução de disputas</b> (<i>dispute board</i>) e <b>arbitragem</b>.</li>
+<li>Aplicam-se a <b>direitos patrimoniais disponíveis</b>: restabelecimento do equilíbrio econômico-financeiro, inadimplemento de obrigações contratuais e cálculo de indenizações.</li>
+<li>A <b>arbitragem</b> será <b>sempre de direito</b> (nunca por equidade) e observará o princípio da <b>publicidade</b>.</li>
+</ul>
+
+<h3>9.7 Governança, controle e o PNCP</h3>
+<ul>
+<li><b>PNCP</b> (art. 174): sítio eletrônico oficial e centralizado de divulgação. A <b>publicidade no PNCP é condição de eficácia</b> do contrato e de seus aditamentos — não de validade. Distinção clássica, e repetição do que o Volume I disse sobre publicidade nos atos administrativos.</li>
+<li><b>Agente de contratação</b> (art. 8º): servidor efetivo ou empregado público dos quadros permanentes, designado para conduzir o certame. No <b>pregão</b>, chama-se <b>pregoeiro</b>. Em objetos complexos, pode ser substituído por <b>comissão de contratação</b> — obrigatória no <b>diálogo competitivo</b>.</li>
+<li><b>Três linhas de defesa</b> (art. 169): 1ª — servidores e agentes públicos que atuam na execução; 2ª — unidades de assessoramento jurídico e de controle interno do próprio órgão; 3ª — órgão central de controle interno e <b>tribunal de contas</b>.</li>
+<li><b>Regimes de execução</b> (art. 46): empreitada por preço unitário, por preço global, empreitada integral, contratação por tarefa, <b>contratação integrada</b> (o contratado elabora projeto básico <b>e</b> executivo e executa), <b>contratação semi-integrada</b> (a Administração entrega o projeto básico; o contratado faz o executivo e executa) e fornecimento e prestação de serviço associado.</li>
+<li><b>Orçamento sigiloso</b> (art. 24): o orçamento estimado pode ter caráter sigiloso, mediante justificativa — e o sigilo <b>não prevalece</b> perante os órgãos de <b>controle interno e externo</b>. No critério de <b>maior desconto</b>, o preço estimado <b>constará obrigatoriamente</b> do edital.</li>
+</ul>
+
+<h3>9.8 Treino no padrão da banca — Tópico 9</h3>
+<p class="pequeno">Questões <b>inéditas</b>, escritas para este material (ver item 0.3).</p>
+
+<div class="q">
+<span class="cab tre">Treino · padrão IDECAN · múltipla escolha</span>
+<div class="enun">Município pretende contratar a reforma de prédio da Secretaria de Finanças. Já em execução o contrato,
+verifica-se a necessidade de acréscimos de serviços não previstos inicialmente. À luz da Lei nº 14.133/2021, assinale a
+alternativa correta.</div>
+<ol class="alts" type="A">
+<li>O contratado é obrigado a aceitar acréscimos de até 25% do valor inicial atualizado do contrato, limite aplicável indistintamente a obras, serviços, compras e reformas.</li>
+<li>O contratado é obrigado a aceitar acréscimos de até 50% do valor inicial atualizado do contrato, por se tratar de reforma de edifício, sendo o mesmo limite aplicável às supressões.</li>
+<li>O contratado é obrigado a aceitar acréscimos de até 50% do valor inicial atualizado do contrato, limite específico da reforma de edifício ou de equipamento, aplicável somente aos acréscimos.</li>
+<li>Qualquer acréscimo depende de anuência do contratado, pois a alteração unilateral quantitativa foi suprimida pela Lei nº 14.133/2021.</li>
+<li>O acréscimo é possível sem limite percentual, desde que preservado o equilíbrio econômico-financeiro no mesmo termo aditivo.</li>
+</ol>
+<div class="gab"><b>Resposta: C.</b> Art. 125: 25% é a regra; <b>50%</b> é a exceção da <b>reforma de edifício ou equipamento</b>, e vale
+<b>só para acréscimos</b>. (B) erra ao estender o limite às supressões — é o distrator mais atraente da questão. (D) e (E)
+negam o próprio art. 125. Note o padrão IDECAN: três alternativas quase idênticas, separadas por <b>uma</b> palavra.</div>
+</div>
+
+<div class="q">
+<span class="cab tre">Treino · padrão FCC · múltipla escolha</span>
+<div class="enun">A respeito das modalidades e do rito da Lei nº 14.133/2021, é correto afirmar que</div>
+<ol class="alts" type="A">
+<li>as modalidades são o convite, a tomada de preços, a concorrência, o concurso, o leilão e o diálogo competitivo, definindo-se a modalidade cabível pelo valor estimado da contratação.</li>
+<li>a concorrência e o pregão seguem o mesmo rito procedimental, adotando-se o pregão sempre que o objeto possuir padrões de desempenho e qualidade objetivamente definíveis por especificações usuais de mercado.</li>
+<li>o pregão é obrigatório para a contratação de obras e serviços de engenharia, em razão do princípio da celeridade.</li>
+<li>a habilitação antecede o julgamento das propostas, admitida a inversão apenas na modalidade pregão, mediante previsão no edital.</li>
+<li>o diálogo competitivo aplica-se a qualquer contratação de grande vulto, independentemente da natureza inovadora do objeto, desde que autorizado pela autoridade máxima do órgão.</li>
+</ol>
+<div class="gab"><b>Resposta: B.</b> Art. 29. (A) convite e tomada de preços foram <b>extintos</b>, e o valor <b>não</b> define mais a
+modalidade. (C) o pregão é <b>vedado</b> para obras e serviços de engenharia, salvo os <b>comuns</b> de engenharia. (D) inverte a
+regra do art. 17: o julgamento vem <b>antes</b> da habilitação, em <b>todas</b> as modalidades. (E) o diálogo competitivo exige
+<b>inovação</b>, necessidade de adaptação de soluções ou impossibilidade de especificação precisa.</div>
+</div>
+
+<div class="q">
+<span class="cab tre">Treino · padrão CEBRASPE · item certo/errado</span>
+<div class="enun">O rol de hipóteses de dispensa de licitação previsto na Lei nº 14.133/2021 é exemplificativo, ao passo
+que as hipóteses de inexigibilidade constituem numerus clausus, dada a excepcionalidade da inviabilidade de competição.</div>
+<div class="gab"><b>ERRADO.</b> Está exatamente <b>invertido</b>. A <b>dispensa</b> é <b>taxativa</b> — só se dispensa a licitação nos
+casos que a lei enumera. A <b>inexigibilidade</b> é <b>exemplificativa</b>: o art. 74 usa a expressão “em especial”, porque a
+causa é a <b>inviabilidade de competição</b>, que pode se apresentar em situações não catalogadas. A inversão de rótulos é a
+técnica preferida do CEBRASPE neste tópico.</div>
+</div>
+
+<div class="q">
+<span class="cab tre">Treino · padrão CEBRASPE · item certo/errado</span>
+<div class="enun">A declaração de nulidade do contrato administrativo opera retroativamente, mas não exonera a
+Administração do dever de indenizar o contratado pelo que houver executado até a data em que a nulidade for declarada,
+desde que a ele não seja imputável a causa da invalidade.</div>
+<div class="gab"><b>CERTO.</b> É a redação do art. 149. Repare que a lei acrescentou algo que a 8.666 não dizia com essa
+clareza: antes de anular, a autoridade deve <b>ponderar as consequências</b> (arts. 20 a 22 da LINDB) e pode optar por
+<b>manter</b> o contrato, com medidas de saneamento, quando a nulidade for mais gravosa ao interesse público do que a
+manutenção.</div>
+</div>
+
+<!-- ============================ PARTE 10 ============================ -->
+<h2 class="parte">Parte 10 · Síntese operacional para a véspera</h2>
+
+<h3>10.1 As 30 frases que valem ponto</h3>
+<ol>
+<li>Poder administrativo é <b>poder-dever</b>: irrenunciável, de exercício obrigatório e limitado.</li>
+<li>Instaurar a apuração disciplinar é <b>vinculado</b>; graduar a sanção é que comporta juízo.</li>
+<li>Delegação: <b>parcial</b>, <b>revogável</b>, <b>publicada</b>, <b>dispensa hierarquia</b>. A decisão é imputada ao <b>delegado</b>.</li>
+<li>Não se delega: <b>normativo</b>, <b>decisão de recurso</b>, <b>competência exclusiva</b>.</li>
+<li>Avocação: <b>temporária</b>, de órgão <b>inferior</b>, por <b>motivos relevantes justificados</b>.</li>
+<li>Disciplinar = vínculo <b>especial</b>. Polícia = vínculo <b>geral</b>.</li>
+<li>Decreto autônomo (CF, 84, VI): organiza e extingue <b>cargos vagos</b>; <b>não cria nem extingue órgão</b>.</li>
+<li>O conceito legal de poder de polícia está no <b>art. 78 do CTN</b> — e é o fato gerador da <b>taxa de polícia</b>.</li>
+<li>Ciclo de polícia: <b>ordem → consentimento → fiscalização → sanção</b>. Só a <b>ordem</b> é indelegável (Tema 532).</li>
+<li>Delegação de polícia a estatal: exige <b>lei</b>, capital majoritariamente público, serviço público exclusivo, regime <b>não concorrencial</b>.</li>
+<li>Nem todo ato de polícia é discricionário: a <b>licença</b> é vinculada. A <b>multa</b> é exigível, mas <b>não</b> executória.</li>
+<li>Polícia administrativa incide sobre <b>bens, direitos e atividades</b>; judiciária, sobre <b>pessoas</b>. O critério é o <b>ilícito</b>, não a corporação.</li>
+<li>Excesso de poder vicia a <b>competência</b> (convalidável); desvio de poder vicia a <b>finalidade</b> (insanável).</li>
+<li>Serviço adequado tem <b>oito</b> requisitos (art. 6º, § 1º, da Lei nº 8.987/1995); <b>atualidade</b> inclui expansão e melhoria.</li>
+<li>Corte por inadimplemento <b>atual</b> é lícito; por débito <b>pretérito consolidado</b>, não.</li>
+<li>Concessão: só <b>pessoa jurídica ou consórcio</b>. Permissão: admite <b>pessoa física</b>, é <b>contrato de adesão</b> precário.</li>
+<li>Autorização de serviço é <b>ato</b> unilateral e precário — não é contrato e, em regra, dispensa licitação.</li>
+<li><b>Encampação</b>: interesse público, exige <b>lei</b>, indenização <b>prévia</b>. <b>Caducidade</b>: culpa da concessionária, <b>decreto</b>, indenização <b>posterior</b>.</li>
+<li>PPP: prazo de <b>5 a 35</b> anos, valor mínimo de <b>R$ 10 milhões</b>, <b>sempre</b> há contraprestação pública.</li>
+<li><b>Reajuste</b> é previsto e periódico; <b>revisão</b> é eventual e exige prova do desequilíbrio.</li>
+<li>Tribunal de Contas <b>aprecia</b> as contas do Chefe do Executivo (parecer prévio); <b>julga</b> as dos administradores.</li>
+<li>O TC susta <b>ato</b>; quem susta <b>contrato</b> é o <b>Legislativo</b> (CF, art. 71, § 1º).</li>
+<li>Contas de <b>prefeito</b> — de governo e de gestão — são julgadas pela <b>Câmara Municipal</b> (Tema 835).</li>
+<li>Recurso administrativo: <b>10 dias</b> para interpor, <b>30</b> para decidir; <b>pode</b> agravar com prévia ciência. <b>Revisão não agrava.</b></li>
+<li>Depósito prévio como condição de recurso administrativo é <b>inconstitucional</b> (SV 21).</li>
+<li>Improbidade após a Lei nº 14.230/2021: <b>só dolo</b>, art. 11 <b>taxativo</b>, legitimidade <b>exclusiva do MP</b>, prescrição de <b>8 anos</b>.</li>
+<li>Art. 37, § 6º: Estado responde <b>objetivamente</b> à vítima; regresso contra o agente é <b>subjetivo</b>; a vítima <b>não</b> demanda o agente (Tema 940).</li>
+<li>Omissão <b>específica</b> → objetiva. Omissão <b>genérica</b> → subjetiva. Risco integral só em <b>nuclear, ambiental e terrorismo aéreo</b>.</li>
+<li>Ação indenizatória contra a Fazenda prescreve em <b>5 anos</b>; ressarcimento por improbidade <b>dolosa</b> é <b>imprescritível</b>.</li>
+<li>Lei nº 14.133/2021: <b>julgamento antes da habilitação</b>, fase recursal <b>única</b>, <b>dispensa taxativa</b> e <b>inexigibilidade exemplificativa</b>.</li>
+</ol>
+
+<h3>10.2 Radar de números — a tabela que resolve metade das questões</h3>
+
+<table>
+<tr><th style="width:14%">Número</th><th>Onde aparece</th></tr>
+<tr><td class="rot"><b>3 dias úteis</b></td><td>Antecedência mínima da intimação (Lei nº 9.784/1999, art. 26, § 2º) · prazo de recurso na Lei nº 14.133/2021 (art. 165)</td></tr>
+<tr><td class="rot"><b>5 dias</b></td><td>Prazo geral para atos do processo administrativo (art. 24) · reconsideração pela autoridade recorrida (art. 56, § 1º)</td></tr>
+<tr><td class="rot"><b>10 dias</b></td><td>Alegações finais após a instrução (art. 44) · interposição de recurso administrativo (art. 59)</td></tr>
+<tr><td class="rot"><b>15 dias</b></td><td>Emissão de parecer por órgão consultivo obrigatoriamente ouvido (art. 42)</td></tr>
+<tr><td class="rot"><b>30 dias</b></td><td>Decisão após a instrução (art. 49) e decisão do recurso (art. 59, § 1º) — ambos prorrogáveis por igual período, <b>motivadamente</b> · resposta a pedido escrito de informação do Legislativo (CF, art. 50, § 2º)</td></tr>
+<tr><td class="rot"><b>60 dias</b></td><td>Parecer prévio do Tribunal de Contas sobre as contas do Chefe do Executivo (CF, art. 71, I) · contas municipais à disposição de qualquer contribuinte (CF, art. 31, § 3º)</td></tr>
+<tr><td class="rot"><b>120 dias</b></td><td>Prazo decadencial do mandado de segurança (Lei nº 12.016/2009, art. 23)</td></tr>
+<tr><td class="rot"><b>2 meses</b></td><td>Atraso no pagamento que autoriza a extinção do contrato pelo contratado (Lei nº 14.133/2021)</td></tr>
+<tr><td class="rot"><b>3 meses</b></td><td>Suspensão por ordem escrita da Administração que autoriza a extinção do contrato</td></tr>
+<tr><td class="rot"><b>3 anos</b></td><td>Prescrição intercorrente no processo punitivo de polícia (Lei nº 9.873/1999) · prazo <b>máximo</b> do impedimento de licitar</td></tr>
+<tr><td class="rot"><b>3 a 6 anos</b></td><td>Declaração de inidoneidade (Lei nº 14.133/2021, art. 156, § 5º)</td></tr>
+<tr><td class="rot"><b>5 anos</b></td><td>Decadência da anulação de ato favorável (Lei nº 9.784/1999, art. 54) · prescrição da ação punitiva de polícia (Lei nº 9.873/1999) · prescrição da ação indenizatória contra a Fazenda (Decreto nº 20.910/1932) · prazo do TC para julgar concessão inicial de aposentadoria (Tema 445) · duração dos contratos de serviços contínuos</td></tr>
+<tr><td class="rot"><b>8 anos</b></td><td>Prescrição na Lei de Improbidade após a Lei nº 14.230/2021</td></tr>
+<tr><td class="rot"><b>10 anos</b></td><td>Limite de prorrogação dos contratos de serviços contínuos</td></tr>
+<tr><td class="rot"><b>5 a 35 anos</b></td><td>Prazo da PPP (Lei nº 11.079/2004)</td></tr>
+<tr><td class="rot"><b>25% / 50%</b></td><td>Limites da alteração unilateral quantitativa — 50% <b>só</b> para acréscimos em reforma de edifício ou equipamento</td></tr>
+<tr><td class="rot"><b>3º grau</b></td><td>Parentesco no impedimento, na suspeição (Lei nº 9.784/1999) e no nepotismo (SV 13)</td></tr>
+<tr><td class="rot"><b>1/3 · 2/3</b></td><td>1/3 dos membros para instaurar CPI (CF, art. 58, § 3º) · 2/3 dos vereadores para rejeitar o parecer prévio do TC (CF, art. 31, § 2º)</td></tr>
+</table>
+
+<h3>10.3 Radar de palavras — o que denuncia o erro neste volume</h3>
+
+<table>
+<tr><th style="width:32%">Expressão no item</th><th>Reação imediata</th></tr>
+<tr><td class="rot">“risco integral”</td><td>Só em <b>nuclear, ambiental e terrorismo aéreo</b>. Em caso comum, é risco administrativo.</td></tr>
+<tr><td class="rot">“culpa da vítima” <i>sem</i> “exclusiva”</td><td>Culpa concorrente <b>atenua</b>; só a exclusiva <b>exclui</b>.</td></tr>
+<tr><td class="rot">“solidária”, falando do Estado e da concessionária</td><td>É <b>subsidiária</b>.</td></tr>
+<tr><td class="rot">“o Tribunal de Contas julga as contas do prefeito”</td><td>Quem julga é a <b>Câmara Municipal</b> (Tema 835). O TC emite <b>parecer prévio</b>.</td></tr>
+<tr><td class="rot">“o Tribunal de Contas susta o contrato”</td><td>O TC susta <b>ato</b>; o <b>contrato</b> é sustado pelo Legislativo.</td></tr>
+<tr><td class="rot">“da revisão pode resultar agravamento”</td><td>Inverte o art. 65: <b>revisão nunca agrava</b>. Quem pode agravar é o <b>recurso</b>.</td></tr>
+<tr><td class="rot">“prescinde de”</td><td>Leia “dispensa”. Quase sempre a lei <b>exige</b> — motivação, lei autorizativa, processo.</td></tr>
+<tr><td class="rot">“convite” ou “tomada de preços”</td><td><b>Extintos</b> desde 30/12/2023.</td></tr>
+<tr><td class="rot">“a modalidade é definida pelo valor”</td><td>Falso na Lei nº 14.133/2021: define-se pelo <b>objeto</b>.</td></tr>
+<tr><td class="rot">“a habilitação precede o julgamento”</td><td>Inverteu-se: <b>julga-se primeiro</b>, salvo inversão motivada e prevista no edital.</td></tr>
+<tr><td class="rot">“rol exemplificativo de dispensa”</td><td>Dispensa é <b>taxativa</b>; exemplificativa é a <b>inexigibilidade</b>.</td></tr>
+<tr><td class="rot">“a delegação exige hierarquia”</td><td>Art. 12: “<b>ainda que não haja</b> subordinação hierárquica”.</td></tr>
+<tr><td class="rot">“o desatendimento da intimação importa confissão”</td><td>Art. 27 diz o contrário: <b>não há revelia</b> no processo administrativo.</td></tr>
+<tr><td class="rot">“culposo”, em improbidade</td><td>Revogado pela Lei nº 14.230/2021: <b>só dolo</b>.</td></tr>
+<tr><td class="rot">“90 dias” de atraso no pagamento</td><td>Era a Lei nº 8.666/1993. Hoje são <b>2 meses</b>.</td></tr>
+</table>
+
+<h3>10.4 Método de resolução em 4 passos (versão deste volume)</h3>
+<ol>
+<li><b>Identifique a lei</b>, não o conceito. Enunciado sobre prazo de recurso → Lei nº 9.784/1999. Sobre extinção de concessão → Lei nº 8.987/1995. Sobre alteração contratual → Lei nº 14.133/2021. Metade das questões deste volume se resolve só por localizar o diploma correto.</li>
+<li><b>Procure o número</b>. Se a alternativa tem número, ele é o gabarito ou o erro. Passe a tabela do item 10.2.</li>
+<li><b>Teste a inversão</b>. As bancas erram estes tópicos quase sempre por <b>troca de polos</b>: encampação/caducidade, recurso/revisão, dispensa/inexigibilidade, impedimento/suspeição, ato/contrato no Tribunal de Contas. Leia a alternativa e pergunte: “isso não é a definição do <i>outro</i>?”.</li>
+<li><b>Cheque a atualização</b>. Este é o volume das leis novas: 14.133/2021 (licitações), 14.230/2021 (improbidade), 13.460/2017 (usuários), 13.848/2019 (agências). Item que soe “clássico demais” pode estar reproduzindo a lei revogada.</li>
+</ol>
+
+<div class="rodape-doc">
+<b>Nota metodológica — leia com atenção.</b> Este Volume II cobre os Tópicos 4 a 9 de “Noções de Direito Administrativo”
+do Anexo do Edital nº 01/2026 da Prefeitura Municipal de Campina Grande/PB, cargo de Auditor Fiscal da Receita
+Municipal. O conteúdo doutrinário e legal foi redigido a partir da <b>legislação em vigor</b> e da <b>jurisprudência
+consolidada</b> do STF e do STJ, cujas referências — artigos de lei, súmulas, súmulas vinculantes e temas de repercussão
+geral — estão identificadas pelo número ao longo do texto, para conferência na fonte primária.<br><br>
+<b>Diferença em relação ao Volume I.</b> Naquele volume, as questões ao final de cada tópico eram transcrições de
+cadernos oficiais de prova, com banca, órgão, ano e gabarito publicado, e as caixas de “pegadinha” reproduziam a
+redação literal de itens efetivamente aplicados. Neste volume <b>não há transcrição de prova real</b>: as questões das
+seções “Treino no padrão da banca” são <b>inéditas</b>, escritas especificamente para este material, imitando o formato de
+redação de IDECAN, FCC e CEBRASPE, e as caixas de pegadinha apresentam <b>formulações típicas de erro</b> construídas a
+partir dos dispositivos legais — não citações atribuídas a provas determinadas. Essa distinção é deliberada: preferiu-se
+declará-la a atribuir procedência a itens que não foram verificados em caderno oficial.<br><br>
+<b>Recomendação de uso.</b> Use este volume para dominar a estrutura legal e os pares confusíveis, e complemente-o com a
+resolução de provas anteriores reais das três bancas, especialmente as de carreiras fiscais. Sempre que um ponto for
+decisivo para a sua estratégia de prova, confirme o texto legal atualizado — em particular os valores de dispensa da
+Lei nº 14.133/2021, que são reajustados anualmente por decreto.
+</div>
+
+</body>
+</html>
