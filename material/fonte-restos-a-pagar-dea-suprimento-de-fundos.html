@@ -1,0 +1,1473 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<title>Restos a Pagar, DEA e Suprimento de Fundos — SEFAZ-AL 2026 — Teoria reescrita</title>
+<style>
+@page { size: A4; margin: 18mm 15mm 16mm 15mm; }
+@page { @bottom-center { content: counter(page); } }
+
+:root{
+  --tinta:#12181f;
+  --suave:#4a5560;
+  --linha:#d8dee5;
+  --azul:#123a63;
+  --azul-claro:#eef3f8;
+  --ouro:#8a6a1f;
+  --ouro-claro:#fdf7e7;
+  --verde:#1c5c3b;
+  --verde-claro:#eaf5ee;
+  --vermelho:#8e2020;
+  --vermelho-claro:#fbeded;
+  --roxo:#4b2e6b;
+  --roxo-claro:#f2eef8;
+}
+
+*{ box-sizing:border-box; }
+body{
+  font-family:"Charter","Georgia","Times New Roman",serif;
+  font-size:10.2pt; line-height:1.5; color:var(--tinta); margin:0;
+  text-align:justify; hyphens:auto;
+}
+h1,h2,h3,h4,h5{ font-family:"Helvetica Neue",Helvetica,Arial,sans-serif; text-align:left; hyphens:none; }
+
+/* ---------- CAPA ---------- */
+.capa{ height:250mm; display:flex; flex-direction:column; justify-content:center; page-break-after:always; text-align:left; }
+.capa .selo{ font-family:Helvetica,Arial,sans-serif; font-size:9pt; letter-spacing:.22em; text-transform:uppercase; color:var(--ouro); font-weight:700; }
+.capa h1{ font-size:29pt; line-height:1.1; margin:.35em 0 .1em; color:var(--azul); letter-spacing:-.02em; }
+.capa h2{ font-size:13.5pt; font-weight:400; color:var(--suave); margin:0 0 1.6em; line-height:1.35; }
+.capa .regua{ height:3px; background:var(--azul); width:62px; margin:0 0 1.5em; }
+.capa .topicos{ list-style:none; padding:0; margin:0 0 2em; }
+.capa .topicos li{ font-family:Helvetica,Arial,sans-serif; font-size:11.5pt; padding:.42em 0; border-bottom:1px solid var(--linha); }
+.capa .topicos li b{ color:var(--azul); }
+.capa .rodape{ font-family:Helvetica,Arial,sans-serif; font-size:8.6pt; color:var(--suave); line-height:1.6; border-top:2px solid var(--azul); padding-top:.9em; }
+
+/* ---------- ESTRUTURA ---------- */
+h2.parte{
+  font-size:9.5pt; letter-spacing:.2em; text-transform:uppercase; color:#fff;
+  background:var(--azul); padding:.55em .9em; margin:0 0 1.1em; border-radius:2px;
+  page-break-before:always; page-break-after:avoid;
+}
+h2.parte.primeira{ page-break-before:auto; }
+h3{ font-size:13.5pt; color:var(--azul); margin:1.5em 0 .5em; padding-bottom:.22em; border-bottom:2px solid var(--azul); page-break-after:avoid; }
+h4{ font-size:11pt; color:var(--tinta); margin:1.25em 0 .35em; page-break-after:avoid; }
+h5{ font-size:9.6pt; margin:1em 0 .3em; color:var(--ouro); text-transform:uppercase; letter-spacing:.06em; page-break-after:avoid; }
+p{ margin:0 0 .6em; }
+ul,ol{ margin:.2em 0 .7em; padding-left:1.25em; }
+li{ margin-bottom:.22em; }
+b,strong{ color:#000; }
+.pequeno{ font-size:9pt; color:var(--suave); }
+.lead{ font-size:10.8pt; color:var(--suave); font-style:italic; margin-bottom:1em; }
+
+/* ---------- TABELAS ---------- */
+table{ width:100%; border-collapse:collapse; margin:.6em 0 1em; font-size:8.9pt; page-break-inside:auto; }
+tr{ page-break-inside:avoid; }
+thead{ display:table-header-group; }
+th{ background:var(--azul); color:#fff; font-family:Helvetica,Arial,sans-serif; font-size:8.2pt; text-transform:uppercase; letter-spacing:.05em; padding:.5em .55em; text-align:left; vertical-align:bottom; }
+td{ border-bottom:1px solid var(--linha); padding:.45em .55em; vertical-align:top; text-align:left; }
+tr:nth-child(even) td{ background:#f7f9fb; }
+td.rot{ font-weight:700; background:#eef2f6 !important; width:20%; }
+td.cert{ color:var(--verde); font-weight:700; }
+td.err{ color:var(--vermelho); font-weight:700; }
+
+/* ---------- CAIXAS ---------- */
+.box{ border-left:3px solid var(--azul); background:var(--azul-claro); padding:.65em .85em; margin:.7em 0 1em; font-size:9.4pt; page-break-inside:avoid; }
+.box h5{ margin-top:0; color:var(--azul); }
+.box p:last-child{ margin-bottom:0; }
+.alerta{ border-left-color:var(--vermelho); background:var(--vermelho-claro); }
+.alerta h5{ color:var(--vermelho); }
+.ok{ border-left-color:var(--verde); background:var(--verde-claro); }
+.ok h5{ color:var(--verde); }
+.ouro{ border-left-color:var(--ouro); background:var(--ouro-claro); }
+.ouro h5{ color:var(--ouro); }
+.lei{ border-left-color:var(--roxo); background:var(--roxo-claro); font-family:"Charter","Georgia",serif; font-size:9.1pt; }
+.lei h5{ color:var(--roxo); }
+
+.mnem{ font-family:Helvetica,Arial,sans-serif; font-weight:700; color:var(--azul); letter-spacing:.04em; }
+.form{ font-family:"Helvetica Neue",Helvetica,Arial,sans-serif; font-size:10.5pt; font-weight:700; color:var(--azul);
+       background:#fff; border:1px solid var(--azul); border-radius:3px; padding:.45em .8em; margin:.5em 0 .8em; display:block; text-align:center; letter-spacing:.02em; }
+
+/* ---------- ÂNCORA NA QUESTÃO ---------- */
+.qref{ font-family:Helvetica,Arial,sans-serif; font-size:7.6pt; font-weight:700; color:#fff; background:var(--suave);
+       padding:.08em .38em; border-radius:2px; letter-spacing:.03em; white-space:nowrap; }
+.prova{ border:1px solid var(--linha); border-left:3px solid var(--suave); border-radius:3px; padding:.6em .8em; margin:.7em 0 1em; font-size:9.1pt; page-break-inside:avoid; background:#fbfcfd; }
+.prova .cab{ font-family:Helvetica,Arial,sans-serif; font-size:7.8pt; text-transform:uppercase; letter-spacing:.08em; color:var(--suave); margin-bottom:.35em; font-weight:700; }
+.prova .item{ font-style:italic; margin-bottom:.35em; }
+.prova .gab{ border-top:1px dashed var(--linha); padding-top:.4em; margin-top:.4em; font-size:8.9pt; }
+.prova .gab b.c{ color:var(--verde); }
+.prova .gab b.e{ color:var(--vermelho); }
+
+svg{ display:block; margin:.5em auto 1em; max-width:100%; }
+.legenda{ font-family:Helvetica,Arial,sans-serif; font-size:8pt; color:var(--suave); text-align:center; margin:-.6em 0 1.1em; }
+
+.rodape-doc{ font-size:8pt; color:var(--suave); border-top:1px solid var(--linha); padding-top:.7em; margin-top:1.6em; }
+.sumario{ font-family:Helvetica,Arial,sans-serif; font-size:9.3pt; }
+.sumario li{ margin-bottom:.3em; }
+</style>
+</head>
+<body>
+
+<!-- ============================ CAPA ============================ -->
+<section class="capa">
+  <div class="selo">Auditor Fiscal da Administração Tributária Estadual · SEFAZ-AL</div>
+  <h1>Restos a Pagar,<br>Despesas de Exercícios Anteriores<br>e Suprimento de Fundos</h1>
+  <div class="regua"></div>
+  <h2>Reescrita da parte teórica da Aula 10 — Finanças Públicas<br>
+  Orçamento Público + Lei de Responsabilidade Fiscal · 2026 (pós-edital)</h2>
+
+  <ul class="topicos">
+    <li><b>Parte 0</b> &nbsp;·&nbsp; A chave de leitura: um problema, três soluções</li>
+    <li><b>Parte 1</b> &nbsp;·&nbsp; Restos a Pagar</li>
+    <li><b>Parte 2</b> &nbsp;·&nbsp; Despesas de Exercícios Anteriores</li>
+    <li><b>Parte 3</b> &nbsp;·&nbsp; Suprimento de Fundos</li>
+    <li><b>Parte 4</b> &nbsp;·&nbsp; Síntese e mapa de armadilhas</li>
+  </ul>
+
+  <div class="rodape">
+    <b>O que este material é.</b> Uma reescrita da teoria da Aula 10, organizada em torno de um único eixo lógico
+    em vez da sequência de tópicos avulsos do original. Nada foi acrescentado por fora: todo o conteúdo normativo
+    vem do próprio material (Lei nº 4.320/1964, Decreto nº 93.872/1986, LRF, MCASP, CF/1988).<br>
+    <b>Como foi calibrada.</b> Cada seção foi dimensionada pela incidência real nas <b>50 questões comentadas</b>
+    da aula (mais as ~40 questões intercaladas na teoria). Os pontos mais cobrados ganharam explicação, exemplo e
+    diagrama; os pontos que nunca caíram foram reduzidos a uma linha. As marcas <span class="qref">Q7</span> remetem
+    à numeração das questões comentadas do material original.
+  </div>
+</section>
+
+<!-- ============================ PARTE 0 ============================ -->
+<h2 class="parte primeira">Parte 0 · A chave de leitura: um problema, três soluções</h2>
+
+<p class="lead">A Aula 10 apresenta três institutos em blocos separados, como se fossem assuntos distintos.
+Não são. Os três respondem à mesma pergunta, e é por isso que as bancas os cobram sempre juntos —
+e sempre trocados entre si.</p>
+
+<h3>0.1 O problema que gera os três institutos</h3>
+
+<p>O orçamento é <b>anual</b>: vale de 1º de janeiro a 31 de dezembro (art. 34 da Lei nº 4.320/1964).
+A despesa pública, porém, é um <b>processo em três estágios</b> — empenho, liquidação e pagamento —
+e esse processo não tem nenhuma obrigação de caber dentro do ano civil.</p>
+
+<div class="box ouro">
+<h5>A regra de ouro de toda a aula</h5>
+<p style="margin-bottom:0">O que define a qual exercício uma despesa pertence <b>não é o pagamento — é o empenho</b>.
+“Pertencem ao exercício financeiro: I — as receitas nele arrecadadas; <b>II — as despesas nele legalmente
+empenhadas</b>” (art. 35 da Lei nº 4.320/1964). Guarde esta frase: dela decorrem, por dedução, praticamente
+todas as regras das Partes 1 e 2 deste material.</p>
+</div>
+
+<p>Da tensão entre um orçamento anual e um processo de despesa que atravessa o ano nascem
+<b>três situações-problema</b>, e cada instituto da aula é a resposta a uma delas:</p>
+
+<table>
+<thead><tr><th style="width:26%">Situação em 31/12</th><th style="width:20%">Instituto</th><th>Lógica</th></tr></thead>
+<tr>
+  <td class="rot">O empenho foi feito no ano, mas o pagamento não saiu</td>
+  <td><b>Restos a Pagar</b><br><span class="pequeno">art. 36, Lei 4.320</span></td>
+  <td>O empenho está <b>vivo</b>. A despesa já pertence ao exercício que acabou; basta arrastar a obrigação
+      para o ano seguinte e concluir os estágios que faltam. <b>Não consome orçamento novo.</b></td>
+</tr>
+<tr>
+  <td class="rot">Não houve empenho — ou o empenho existiu e morreu —, mas o credor cumpriu e tem direito</td>
+  <td><b>Despesas de Exercícios Anteriores</b><br><span class="pequeno">art. 37, Lei 4.320</span></td>
+  <td>Não há empenho a arrastar. A dívida é real, mas está órfã de suporte orçamentário: é preciso
+      <b>empenhar de novo</b>, no orçamento do ano em que se pagará. <b>Consome orçamento novo.</b></td>
+</tr>
+<tr>
+  <td class="rot">A despesa é urgente e não pode esperar o rito normal (licitação, empenho prévio, pagamento por tesouraria)</td>
+  <td><b>Suprimento de Fundos</b><br><span class="pequeno">arts. 68-69, Lei 4.320</span></td>
+  <td>Não é problema de <i>ano</i>, e sim de <i>rito</i>. Adianta-se dinheiro a um servidor, que gasta primeiro
+      e <b>presta contas depois</b>. É exceção ao processo normal — nunca ao empenho prévio.</td>
+</tr>
+</table>
+
+<div class="box">
+<h5>A frase que resolve metade das questões de RP × DEA</h5>
+<p style="margin-bottom:0"><b>Empenho vivo → Restos a Pagar. Empenho morto (ou inexistente) → DEA.</b>
+Foi exatamente esse o eixo das questões <span class="qref">Q8</span>, <span class="qref">Q9</span>,
+<span class="qref">Q19</span>, <span class="qref">Q24</span> e <span class="qref">Q40</span> — cinco das
+cinquenta questões comentadas, todas construídas sobre a mesma confusão.</p>
+</div>
+
+<h3>0.2 Onde a prova realmente pesa</h3>
+
+<p>Classificando as 50 questões comentadas da aula por tema principal, a distribuição é assimétrica —
+e vale calibrar o estudo por ela:</p>
+
+<table>
+<thead><tr><th style="width:38%">Tema</th><th style="width:12%">Questões</th><th style="width:10%">%</th><th>Concentração interna</th></tr></thead>
+<tr><td class="rot">Restos a Pagar</td><td>33</td><td>66%</td>
+    <td>Conceito e classificação processados × não processados: <b>11 questões</b>. Cálculo por subtração: 3.
+        “Em liquidação” × “a liquidar”: 4. Natureza extraorçamentária: 4. Inscrição e anulação de empenho: 3.</td></tr>
+<tr><td class="rot">Fronteira RP × DEA</td><td>4</td><td>8%</td>
+    <td>Sempre a mesma pergunta: houve empenho regular no exercício de origem?</td></tr>
+<tr><td class="rot">Suprimento de Fundos</td><td>10</td><td>20%</td>
+    <td>Vedações à concessão: 3. Restituições (anulação × receita): 4. Natureza orçamentária × patrimonial: 2.</td></tr>
+<tr><td class="rot">DEA (isoladamente)</td><td>3</td><td>6%</td>
+    <td>Conceito do art. 37 e competência para reconhecer a obrigação.</td></tr>
+</table>
+
+<div class="box alerta">
+<h5>Leitura estratégica</h5>
+<p>Três quartos da aula giram em torno de <b>Restos a Pagar</b>, e dentro dele o miolo absoluto é a
+distinção <b>processado × não processado</b> — a mesma ideia cobrada em onze formulações diferentes.
+Se o tempo for curto, domine com profundidade cirúrgica a Parte 1, seções 1.1 a 1.4.</p>
+<p style="margin-bottom:0">Em contrapartida, temas que ocupam páginas do material original praticamente
+não caem: o bloqueio/cancelamento de RPNP do Decreto nº 93.872/1986 rendeu <b>1 questão</b> em 50
+(<span class="qref">Q4</span>) — embora seja tema recente e, por isso, com risco crescente; e os limites em
+reais do suprimento de fundos, <b>nenhuma</b>.</p>
+</div>
+
+<h3>0.3 Sumário do que vem</h3>
+<div class="sumario">
+<ol>
+<li><b>Parte 1 — Restos a Pagar.</b> Conceito e as duas espécies (1.1–1.2) · os três subestados do MCASP (1.3) ·
+inscrição, empenho que sobrevive a 31/12 e valores estimados (1.4) · bloqueio e cancelamento (1.5) ·
+por que o RP processado não pode ser cancelado (1.6) · a mecânica extraorçamentária (1.7) ·
+créditos plurianuais (1.8) · anulação de despesa (1.9) · programação financeira (1.10) ·
+LRF, TCU e emendas parlamentares (1.11).</li>
+<li><b>Parte 2 — DEA.</b> As três hipóteses do art. 37 (2.1) · por que DEA é despesa orçamentária (2.2) ·
+quem reconhece a obrigação (2.3) · elemento 92 × 93 × elemento próprio (2.4) · o confronto RP × DEA (2.5).</li>
+<li><b>Parte 3 — Suprimento de Fundos.</b> Para que serve (3.1) · a dupla natureza orçamentária/patrimonial (3.2) ·
+as três hipóteses (3.3) · classificação por natureza (3.4) · vedações (3.5) · CPGF (3.6) ·
+regime especial (3.7) · prestação de contas (3.8) · restituições (3.9) · limites (3.10).</li>
+<li><b>Parte 4 — Síntese.</b> Quadro comparativo geral, mapa de armadilhas e as vinte afirmações que a banca repete.</li>
+</ol>
+</div>
+
+<!-- ============================ PARTE 1 ============================ -->
+<h2 class="parte">Parte 1 · Restos a Pagar</h2>
+
+<h3>1.1 O conceito — e a palavra que a banca troca</h3>
+
+<p>A execução normal de uma despesa tem três estágios: <b>empenho</b> (a reserva da dotação, que
+compromete o crédito com um credor determinado), <b>liquidação</b> (a verificação de que o credor cumpriu
+sua obrigação — apura-se a origem e o objeto do que se deve pagar, a importância exata e a quem se deve
+pagar) e <b>pagamento</b>. Quando o ano acaba antes do pagamento, o crédito é inscrito em Restos a Pagar
+e o pagamento migra para o exercício seguinte, uma vez concluídos os estágios que faltavam.</p>
+
+<div class="lei">
+<h5>Lei nº 4.320/1964, art. 36</h5>
+<p style="margin-bottom:0">“Consideram-se Restos a Pagar as despesas <b>empenhadas</b> mas não pagas até o dia
+31 de dezembro, distinguindo-se as <b>processadas</b> das <b>não processadas</b>.”</p>
+</div>
+
+<p>Repare no que o artigo <b>não</b> diz. Ele não exige liquidação. O único requisito para existir Resto a
+Pagar é <b>empenho válido dentro do exercício</b>; a liquidação não é condição de existência, é apenas o
+critério que separa as duas espécies. Também são chamados de <b>resíduos passivos</b>.</p>
+
+<div class="prova">
+<div class="cab">CEBRASPE · PC-DF · 2025 &nbsp;—&nbsp; <span class="qref">Q7</span></div>
+<div class="item">“Restos a pagar são as despesas empenhadas <b>e liquidadas</b> que não foram pagas no exercício
+financeiro correspondente e se classificam em restos a pagar processados ou não processados, conforme o
+estágio em que se encontrem.”</div>
+<div class="gab"><b class="e">ERRADO.</b> Ao dizer “empenhadas e liquidadas”, a assertiva descreveu apenas os
+<b>processados</b> — e um subconjunto não pode se dividir no conjunto inteiro. O erro está na definição, não
+na classificação.</div>
+</div>
+
+<div class="prova">
+<div class="cab">CEBRASPE · STJ · 2024 &nbsp;—&nbsp; (questão intercalada na teoria)</div>
+<div class="item">“Os restos a pagar <b>englobam</b> as despesas que foram empenhadas e liquidadas durante um
+exercício financeiro, mas que não foram pagas até 31 de dezembro.”</div>
+<div class="gab"><b class="c">CERTO.</b> Mesmíssimo conteúdo do item anterior, gabarito oposto — e a diferença
+está inteira no verbo. <b>“Englobam”</b> afirma inclusão sem excluir o resto; <b>“são”</b> afirma identidade e,
+por isso, exclui os não processados. Quando a assertiva descrever só uma espécie, leia o verbo antes de julgar.</div>
+</div>
+
+<div class="box alerta">
+<h5>Erro-padrão nº 1</h5>
+<p style="margin-bottom:0">Definir RP exigindo liquidação. Aparece em <span class="qref">Q7</span>,
+<span class="qref">Q39</span> (“empenhadas e <b>não liquidadas</b>” — também errado, porque exclui os
+processados) e <span class="qref">Q46</span> (“<b>apenas</b> as empenhadas e liquidadas”). Três formulações,
+três gabaritos ERRADOS, uma única causa: o art. 36 fala em <b>empenhadas e não pagas</b>, ponto.</p>
+</div>
+
+<h3>1.2 As duas espécies — e as duas subtrações</h3>
+
+<p>A palavra “processado” refere-se ao <b>processamento da despesa</b>, isto é, ao seu percurso pelos estágios.
+Daí a mnemônica que resolve o tema:</p>
+
+<div class="box ok">
+<h5>Mnemônica</h5>
+<p><b>PROCESSADO = já passou pelo PROCESSO.</b> Empenhado <i>e</i> liquidado; o credor já entregou o bem ou
+prestou o serviço, tem direito líquido e certo, e falta somente o pagamento.</p>
+<p style="margin-bottom:0"><b>NÃO PROCESSADO = parou no empenho.</b> Contrato ou convênio ainda em execução;
+não há ainda direito líquido e certo do credor, porque a liquidação não se completou.</p>
+</div>
+
+<p>Como cada estágio é um acumulador de valores, as duas espécies são obtidas por subtração — e é assim que
+a banca cobra quando dá uma tabela de números:</p>
+
+<span class="form">RP PROCESSADOS = LIQUIDADO − PAGO</span>
+<span class="form">RP NÃO PROCESSADOS = EMPENHADO − LIQUIDADO (− empenhos cancelados)</span>
+
+<p>A razão é aritmética, não decoreba: tudo o que foi liquidado e ainda não foi pago está parado entre o 2º e o
+3º estágio (processado); tudo o que foi empenhado e ainda não foi liquidado está parado entre o 1º e o 2º
+(não processado). Empenhos cancelados saem da conta porque deixaram de existir.</p>
+
+<div class="prova">
+<div class="cab">CEBRASPE · CGDF · 2023 &nbsp;—&nbsp; <span class="qref">Q21</span> e <span class="qref">Q22</span></div>
+<div class="item">Empenho de despesa R$ 570.000 · despesas empenhadas e liquidadas R$ 500.000 · despesas pagas
+R$ 450.000 · arrecadação de receitas tributárias R$ 600.000.</div>
+<div class="gab"><b>RPNP</b> = 570.000 − 500.000 = <b>R$ 70.000</b>. &nbsp;·&nbsp;
+<b>RPP</b> = 500.000 − 450.000 = <b>R$ 50.000</b>.<br>
+A receita tributária é ruído: <b>nenhuma</b> das duas fórmulas olha para a receita. A banca costuma incluir
+uma linha de receita justamente para atrair quem confunde inscrição de RP com disponibilidade de caixa.</div>
+</div>
+
+<div class="prova">
+<div class="cab">CEBRASPE · Pref. Maringá · 2022 &nbsp;—&nbsp; <span class="qref">Q31</span> (anulada por erro nas alternativas)</div>
+<div class="item">Empenho R$ 1.400.000 · liquidação R$ 800.000 · pagamento R$ 600.000 · <b>empenho cancelado R$ 50.000</b>.</div>
+<div class="gab"><b>RPNP</b> = 1.400.000 − 800.000 − 50.000 = <b>R$ 550.000</b>. &nbsp;·&nbsp;
+<b>RPP</b> = 800.000 − 600.000 = <b>R$ 200.000</b>.<br>
+É a única questão da aula com empenho cancelado — e ele só afeta a primeira fórmula, porque o valor cancelado
+nunca chegou a ser liquidado.</div>
+</div>
+
+<div class="box alerta">
+<h5>Erro-padrão nº 2</h5>
+<p style="margin-bottom:0">Vincular a classificação à existência de caixa. Em <span class="qref">Q16</span>
+(SEPLAG-CE 2024) a banca definiu processados como “aqueles que possuem caixa para futuro pagamento” e não
+processados como “aqueles que não possuem saldo de caixa reservado”: <b>ERRADO</b>. A distinção é
+<b>exclusivamente</b> o estágio de liquidação. Disponibilidade de caixa é assunto do art. 42 da LRF (seção 1.11),
+que é outra coisa.</p>
+</div>
+
+<h3>1.3 Os três subestados do MCASP</h3>
+
+<p>O MCASP desdobra os não processados em dois, e o critério é uma pergunta única e muito concreta:
+<b>o fato gerador já ocorreu? Isto é: o credor já entregou?</b></p>
+
+<table>
+<thead><tr><th style="width:24%">Subestado</th><th style="width:23%">O credor já entregou?</th><th>Situação e razão de ser</th></tr></thead>
+<tr>
+  <td class="rot">RPNP <b>a liquidar</b></td>
+  <td>Não. O fato gerador ainda não ocorreu.</td>
+  <td>Houve empenho dentro do exercício, mas o produto só será entregue no exercício seguinte.
+      É a hipótese-padrão: reserva orçamentária feita, execução ainda por vir.</td>
+</tr>
+<tr>
+  <td class="rot">RPNP <b>em liquidação</b></td>
+  <td>Sim. O fato gerador ocorreu antes de 31/12.</td>
+  <td>O credor entregou dentro do exercício, mas a conferência (liquidação) não se concluiu a tempo.
+      Como já houve <b>impacto patrimonial</b>, ele precisa ser reconhecido no exercício em que ocorreu —
+      daí a categoria própria.</td>
+</tr>
+<tr>
+  <td class="rot">RP <b>processados</b> (a pagar)</td>
+  <td>Sim, e a liquidação já foi concluída.</td>
+  <td>Direito líquido e certo do credor reconhecido. Falta apenas o cheque.</td>
+</tr>
+</table>
+
+<div class="box ok">
+<h5>A intuição da expressão “em liquidação”</h5>
+<p style="margin-bottom:0">“Em liquidação” é gerúndio: a liquidação <b>está acontecendo</b> e ainda não terminou.
+E, se ela começou, é porque <b>o fornecedor já cumpriu sua parte</b> — não se confere uma entrega que não houve.
+Traduzindo para a linguagem que a banca usa: <i>“houve o adimplemento da obrigação pelo credor, mas o direito
+adquirido está em fase de verificação”</i> — redação literal de <span class="qref">Q44</span> e da questão
+CESPE/STM 2018, ambas <b>CERTAS</b>.</p>
+</div>
+
+<div class="prova">
+<div class="cab">CESPE · TCE-RJ · 2021 &nbsp;—&nbsp; <span class="qref">Q38</span></div>
+<div class="item">“A inscrição de restos a pagar não processados <b>a liquidar</b> ocorre quando tiver ocorrido o
+fato gerador da obrigação, antes do término do exercício em curso, sem que se tenha procedido o estágio da
+liquidação.”</div>
+<div class="gab"><b class="e">ERRADO.</b> A descrição está perfeita — só que é a do <b>em liquidação</b>.
+Esta é a troca preferida da banca no tema: descrever corretamente um subestado e etiquetá-lo com o nome do outro.
+Leia sempre o rótulo por último.</div>
+</div>
+
+<div class="prova">
+<div class="cab">CEBRASPE · SEPLAN-RR · 2023 &nbsp;—&nbsp; <span class="qref">Q23</span> &nbsp;|&nbsp; CESPE · IPHAN · 2018 &nbsp;—&nbsp; <span class="qref">Q49</span></div>
+<div class="item">Q23: “Serviço ou material contratado que se encontre, ao final do exercício, <b>em processo de
+liquidação</b>, não pode ser inscrito em restos a pagar.” &nbsp;·&nbsp; Q49: “Determinada despesa pode ser inscrita
+em restos a pagar não processados <b>mesmo que o serviço a que ela se refere tenha sido prestado</b>.”</div>
+<div class="gab">Q23 <b class="e">ERRADO</b> · Q49 <b class="c">CERTO</b>. As duas afirmam a mesma coisa por
+caminhos opostos, e a chave é a mesma: <b>serviço prestado sem liquidação concluída é RPNP em liquidação — e é
+inscrito normalmente</b>. Entrega feita não significa despesa processada.</div>
+</div>
+
+<h3>1.4 A inscrição em 31 de dezembro</h3>
+
+<h4>Regra geral e valor estimado</h4>
+
+<p>São inscritos em Restos a Pagar, no encerramento do exercício, os empenhos de despesas <b>já liquidadas
+e não pagas</b> e também os empenhos <b>não anulados</b>, pelo valor devido ou — se este não for conhecido —
+pelo <b>valor estimado</b>, desde que satisfeitas as condições estabelecidas para empenho e liquidação.
+Havendo estimativa, o acerto se dá depois:</p>
+
+<table>
+<thead><tr><th style="width:32%">Se o valor real…</th><th>Consequência</th></tr></thead>
+<tr><td class="rot">…for <b>maior</b> que o inscrito</td><td>A diferença é empenhada à conta de <b>despesas de exercícios anteriores</b>
+    — porque, para essa diferença, não existe empenho vivo. É a lógica da Parte 0 operando.</td></tr>
+<tr><td class="rot">…for <b>menor</b> que o inscrito</td><td>O saldo existente é <b>cancelado</b>.</td></tr>
+</table>
+
+<h4>A inscrição é automática?</h4>
+
+<p>Depende da espécie — e essa é uma alteração recente do Decreto nº 93.872/1986 que vale conhecer:</p>
+
+<div class="lei">
+<h5>Decreto nº 93.872/1986, art. 68</h5>
+<p><b>Caput.</b> “A inscrição de despesas como restos a pagar no encerramento do exercício financeiro de emissão
+da Nota de Empenho depende da observância das condições estabelecidas neste Decreto para empenho e liquidação
+da despesa.”</p>
+<p style="margin-bottom:0"><b>§ 1º.</b> “A inscrição prevista no <i>caput</i> como restos a pagar
+<b>não processados</b> fica condicionada à <b>indicação pelo ordenador de despesas</b>.”</p>
+</div>
+
+<p>Ou seja: os <b>processados</b>, por já terem direito líquido e certo reconhecido, são inscritos
+automaticamente pelo sistema em 31/12; os <b>não processados</b> exigem ato de indicação do ordenador de
+despesas. Não há, portanto, inscrição automática indiscriminada.</p>
+
+<div class="prova">
+<div class="cab">CEBRASPE · TRT-10 · 2025 &nbsp;—&nbsp; <span class="qref">Q3</span></div>
+<div class="item">“As despesas empenhadas cujo pagamento não foi realizado até o encerramento do exercício,
+sendo <b>automaticamente</b> transferidas para o exercício subsequente, <b>desde que atendam aos requisitos
+legais e financeiros</b>, consistem em restos a pagar…”</div>
+<div class="gab"><b class="c">CERTO</b> — e a aula registra o desconforto com razão. O item só se sustenta
+porque a ressalva “desde que atendam aos requisitos legais e financeiros” neutraliza o “automaticamente”.
+<b>Lição prática:</b> quando o CEBRASPE insere uma condicional ampla no meio do item, ela costuma ser a
+âncora que salva a assertiva — leia a condicional como parte do enunciado, não como enfeite.</div>
+</div>
+
+<div class="prova">
+<div class="cab">CEBRASPE · TRF-6 · 2025 &nbsp;—&nbsp; <span class="qref">Q6</span></div>
+<div class="item">“Uma despesa decorrente de lei de crédito especial aberto no penúltimo mês do exercício e
+empenhada no último mês <b>deverá</b> ser inscrita em restos a pagar no último dia desse mesmo exercício.”</div>
+<div class="gab"><b class="e">ERRADO.</b> A despesa legalmente empenhada <b>poderá</b> ser inscrita, atendidos
+os requisitos — não “deverá”, automaticamente, só por ter sido empenhada perto do fim do ano.
+<b>“Poderá” × “deverá” é um eixo de erro autônomo</b> nesta matéria.</div>
+</div>
+
+<h4>O empenho não liquidado que sobrevive a 31/12</h4>
+
+<p>A regra é que o empenho não liquidado <b>morre</b> em 31 de dezembro. Mas há quatro sobrevidas, e elas são
+cobradas na literalidade:</p>
+
+<div class="lei">
+<h5>Decreto nº 93.872/1986, art. 35</h5>
+<p>“O empenho de despesa não liquidada será considerado <b>anulado em 31 de dezembro</b>, para todos os fins,
+<b>salvo</b> quando:</p>
+<p>I — vigente o <b>prazo</b> para cumprimento da obrigação assumida pelo credor, nele estabelecida;</p>
+<p>II — vencido o prazo do inciso anterior, mas esteja <b>em curso a liquidação</b> da despesa, ou seja de
+<b>interesse da Administração</b> exigir o cumprimento da obrigação assumida pelo credor;</p>
+<p>III — se destinar a atender <b>transferências</b> a instituições públicas <b>ou privadas</b>;</p>
+<p style="margin-bottom:0">IV — corresponder a <b>compromissos assumidos no exterior</b>.”</p>
+</div>
+
+<div class="box alerta">
+<h5>Duas armadilhas literais no art. 35</h5>
+<p>1. O inciso III alcança instituições públicas <b>ou privadas</b>. Em <span class="qref">Q25</span>
+(IADES/Hemocentro 2017) a banca escreveu “instituições públicas, <b>exceto</b> quando corresponder a
+compromissos assumidos no exterior” — troca dupla, gabarito ERRADO.</p>
+<p style="margin-bottom:0">2. Como existem exceções, <b>não</b> é verdade que todo empenho não inscrito em RP
+seja automaticamente cancelado — foi o erro cobrado em <span class="qref">Q50</span> (ABIN 2018).
+Já <span class="qref">Q13</span> (INPI 2024) afirmou o inciso I com todas as letras (“vigente o prazo, o empenho
+não será anulado mesmo sem liquidação”): <b>CERTO</b>.</p>
+</div>
+
+<div class="prova">
+<div class="cab">CEBRASPE · CGDF · 2023 &nbsp;—&nbsp; <span class="qref">Q28</span></div>
+<div class="item">Em 31 de dezembro, o prazo para cumprimento da obrigação pelo credor está vigente
+(despesa a liquidar). Essa despesa deverá ser: (a) cancelada; (b) RP processados; (c) <b>RP não processados</b>;
+(d) DEA.</div>
+<div class="gab"><b>Letra C.</b> A questão costura o art. 35, I (o empenho não é anulado) com a classificação
+do MCASP (não houve fato gerador → <b>RPNP a liquidar</b>). É o exemplo mais limpo de como os dois blocos
+teóricos se encaixam.</div>
+</div>
+
+<h3>1.5 Bloqueio e cancelamento dos RP não processados</h3>
+
+<p>Regra <b>federal</b> (Decreto nº 93.872/1986, art. 68, §§ 2º a 7º), alterada recentemente: antes, os RPNP não
+liquidados eram <b>cancelados em 31/12 do ano subsequente</b>; hoje eles primeiro são <b>bloqueados</b>, e só
+depois cancelados. Guarde a linha do tempo, não os parágrafos:</p>
+
+<svg viewBox="0 0 700 210" role="img" aria-label="Linha do tempo do bloqueio e cancelamento de restos a pagar não processados">
+  <line x1="40" y1="70" x2="670" y2="70" stroke="#123a63" stroke-width="2"/>
+  <g font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#12181f">
+    <!-- marcos -->
+    <circle cx="60" cy="70" r="5" fill="#123a63"/>
+    <text x="60" y="52" text-anchor="middle" font-weight="bold" fill="#123a63">31/12 · X0</text>
+    <text x="60" y="92" text-anchor="middle" font-size="9.5">inscrição</text>
+
+    <circle cx="285" cy="70" r="5" fill="#8a6a1f"/>
+    <text x="285" y="52" text-anchor="middle" font-weight="bold" fill="#8a6a1f">30/06 · X2</text>
+    <text x="285" y="92" text-anchor="middle" font-size="9.5">BLOQUEIO pela STN</text>
+    <text x="285" y="106" text-anchor="middle" font-size="9">(2º ano subsequente)</text>
+
+    <circle cx="470" cy="70" r="5" fill="#8e2020"/>
+    <text x="470" y="52" text-anchor="middle" font-weight="bold" fill="#8e2020">31/12 · X2</text>
+    <text x="470" y="92" text-anchor="middle" font-size="9.5">prazo de desbloqueio</text>
+    <text x="470" y="106" text-anchor="middle" font-size="9">e cancelamento do que</text>
+    <text x="470" y="119" text-anchor="middle" font-size="9">seguiu bloqueado</text>
+
+    <circle cx="645" cy="70" r="5" fill="#8e2020"/>
+    <text x="645" y="52" text-anchor="middle" font-weight="bold" fill="#8e2020">31/12 · X3</text>
+    <text x="645" y="92" text-anchor="middle" font-size="9.5">cancelamento do</text>
+    <text x="645" y="106" text-anchor="middle" font-size="9">desbloqueado não</text>
+    <text x="645" y="119" text-anchor="middle" font-size="9">liquidado</text>
+
+    <!-- ramos -->
+    <path d="M470 145 L470 160 L360 160" stroke="#8e2020" stroke-width="1.2" fill="none"/>
+    <path d="M470 145 L470 175 L600 175" stroke="#1c5c3b" stroke-width="1.2" fill="none"/>
+    <text x="352" y="163" text-anchor="end" font-size="9" fill="#8e2020">segue bloqueado → cancela em 31/12/X2</text>
+    <text x="608" y="178" font-size="9" fill="#1c5c3b">desbloqueia</text>
+  </g>
+</svg>
+<div class="legenda">X0 = exercício de inscrição. A regra é federal e se aplica aos RP <b>não processados</b>.</div>
+
+<div class="box ouro">
+<h5>Mnemônica “2 · 2 · 3”</h5>
+<p style="margin-bottom:0">Bloqueio em <b>30/06 do 2º ano</b> subsequente à inscrição. Se <b>permanecer
+bloqueado</b>, cancelamento até o encerramento do exercício do bloqueio — <b>31/12 do 2º ano</b>. Se for
+<b>desbloqueado</b> e ainda assim não for liquidado, cancelamento em 31/12 do ano subsequente ao do bloqueio —
+<b>31/12 do 3º ano</b>. Portanto: <b>desbloquear compra exatamente um ano a mais</b>.</p>
+</div>
+
+<h4>Quem escapa do bloqueio (§ 3º)</h4>
+<ul>
+<li>Despesas do <b>Ministério da Saúde</b>;</li>
+<li>Emendas <b>individuais</b> impositivas com identificador de resultado primário <b>6</b>, empenhos emitidos
+a partir de <b>2016</b>;</li>
+<li>Emendas de <b>bancada</b> de parlamentares de estado ou do DF, impositivas, identificador de resultado
+primário <b>7</b>, empenhos emitidos a partir de <b>2020</b>.</li>
+</ul>
+
+<h4>Quem pode ser desbloqueado (§ 4º) e o que é “execução iniciada” (§ 5º)</h4>
+<p>As unidades gestoras podem desbloquear até 31/12 do exercício do bloqueio quando (i) a execução da despesa
+já tiver <b>começado</b> até 30/06, no caso de execução direta pela União, ou (ii) os instrumentos de
+transferência (convênios, contratos de repasse, termos de colaboração ou de fomento e congêneres) estiverem
+vigentes e eficazes, no caso de repasses a estados, DF, municípios, consórcios públicos, serviços sociais
+autônomos e entidades privadas sem fins lucrativos. E “execução iniciada” tem definição própria:</p>
+<ul>
+<li><b>Bens:</b> quantidade <b>parcial</b> entregue, atestada e aferida;</li>
+<li><b>Serviços e obras:</b> realização <b>parcial</b> com a medição correspondente atestada e aferida.</li>
+</ul>
+<p class="pequeno">A gestão do art. 68 cabe a ministros de Estado, titulares de órgãos da Presidência, dirigentes
+de órgãos setoriais dos sistemas federais de planejamento, orçamento e administração financeira e aos ordenadores
+de despesas; a STN pode expedir normas complementares. O art. 68-A acrescenta que o Ministério da Fazenda pode
+fixar <b>limites</b> para inscrição e reinscrição de empenhos em RP a cada exercício.</p>
+
+<div class="prova">
+<div class="cab">CEBRASPE · TRT-10 · 2025 &nbsp;—&nbsp; <span class="qref">Q4</span> (também cobrada em 2025 na íntegra)</div>
+<div class="item">“Os restos a pagar inscritos na condição de não processados e que não forem liquidados serão
+bloqueados no dia 30 de junho do segundo ano subsequente ao de sua inscrição, excetuados os restos a pagar
+relativos a algumas despesas previstas em norma, como as do Ministério da Saúde.”</div>
+<div class="gab"><b class="c">CERTO.</b> Transcrição quase literal do § 2º somada ao § 3º, I. É a única questão
+da aula sobre o tema — mas a alteração é recente, o que costuma antecipar reincidência.</div>
+</div>
+
+<h3>1.6 Por que o RP processado não pode ser cancelado</h3>
+
+<p>Toda a mecânica de bloqueio e cancelamento da seção anterior atinge apenas os <b>não processados</b>. Com os
+processados a solução é oposta, e a razão é substantiva:</p>
+
+<div class="box ok">
+<h5>Parecer PGFN nº 401/2000</h5>
+<p style="margin-bottom:0">Cancelar RP processado caracterizaria <b>enriquecimento ilícito</b> da Administração:
+o fornecedor já cumpriu a obrigação de fazer — entregou o bem, prestou o serviço — e o Poder Público não pode
+se eximir da obrigação de pagar sob pena de violar o princípio da <b>moralidade</b> (art. 37 da CF/1988).
+Logo, <b>restos a pagar processados não podem ser cancelados</b>.</p>
+</div>
+
+<p>Esta é a razão profunda da distinção da seção 1.2: processado significa que o <b>direito do credor já se
+consolidou</b>. Não é uma etiqueta contábil, é o marco em que a Administração deixa de poder voltar atrás.</p>
+
+<h3>1.7 A mecânica extraorçamentária — o ponto que mais confunde</h3>
+
+<p>Quatro questões da aula (<span class="qref">Q32</span>, <span class="qref">Q43</span>,
+<span class="qref">Q45</span>, <span class="qref">Q47</span>) atacam o mesmo ponto, e o material original o
+apresenta como regra a decorar. Ele é, na verdade, dedutível — basta seguir o dinheiro.</p>
+
+<div class="box">
+<h5>A dedução em quatro passos</h5>
+<p><b>1.</b> No exercício X0, ao ser empenhada, a despesa entra como <b>despesa orçamentária</b>: ela consumiu a
+dotação fixada na LOA daquele ano.</p>
+<p><b>2.</b> Só que o dinheiro <b>não saiu do caixa</b> em X0. Se nada mais fosse feito, o Balanço Financeiro
+mostraria uma saída que não ocorreu.</p>
+<p><b>3.</b> Para compensar, os RP do exercício são computados em X0 como <b>receita extraorçamentária</b>
+(art. 103, parágrafo único, da Lei nº 4.320/1964). É um lançamento de compensação — não é arrecadação nova.</p>
+<p style="margin-bottom:0"><b>4.</b> Em X1, quando o pagamento efetivamente ocorre, o dinheiro sai — mas contra o
+orçamento <b>de X0</b>, que já foi contabilizado. Para não contar a mesma despesa duas vezes, a saída é
+registrada como <b>despesa extraorçamentária</b>.</p>
+</div>
+
+<span class="form">INSCRIÇÃO (31/12/X0) → receita extraorçamentária &nbsp;&nbsp;|&nbsp;&nbsp; PAGAMENTO (X1) → despesa extraorçamentária</span>
+
+<div class="prova">
+<div class="cab">CESPE · STM · 2018 &nbsp;—&nbsp; <span class="qref">Q43</span> &nbsp;|&nbsp; CGM-JP · 2018 &nbsp;—&nbsp; <span class="qref">Q47</span></div>
+<div class="item">Q43: “O pagamento de restos a pagar processados corresponde a uma despesa <b>orçamentária</b>.”
+&nbsp;·&nbsp; Q47: “Ao efetuar o pagamento de restos a pagar, o ente está convertendo uma despesa
+<b>extraorçamentária em orçamentária</b>.”</div>
+<div class="gab">Ambas <b class="e">ERRADAS</b>. A direção é a inversa: a despesa <b>nasce orçamentária</b> (no
+empenho, em X0) e o <b>pagamento</b> é que é extraorçamentário. Note que Q43 não distingue processados de não
+processados — para esse efeito, tanto faz.</div>
+</div>
+
+<div class="prova">
+<div class="cab">CEBRASPE · SECONT-ES · 2022 &nbsp;—&nbsp; <span class="qref">Q32</span></div>
+<div class="item">“As despesas empenhadas, não liquidadas e não pagas advêm de uma <b>despesa
+extraorçamentária</b> e a sua inscrição constitui <b>receita orçamentária</b>.”</div>
+<div class="gab"><b class="e">ERRADO</b> — os dois adjetivos estão trocados. O correto: a despesa é
+<b>orçamentária</b> e a inscrição é computada na <b>receita extraorçamentária</b>. Item excelente para testar
+se você entendeu o mecanismo ou apenas memorizou a palavra “extraorçamentário”.</div>
+</div>
+
+<h4>Restos a Pagar como dívida flutuante</h4>
+<p>Pelo art. 92 da Lei nº 4.320/1964, os restos a pagar — <b>excluídos os serviços da dívida</b> — são espécie
+de <b>dívida pública flutuante</b>, e seu registro se faz <b>por exercício e por credor</b>, distinguindo-se as
+despesas processadas das não processadas. Atenção ao detalhe: o mesmo artigo arrola separadamente os
+“<b>serviços da dívida a pagar</b>” (inciso II), que também são restos a pagar — do serviço da dívida — mas
+contabilizados à parte, para maior controle.</p>
+
+<div class="box alerta">
+<h5>Duas assertivas que decorrem direto do art. 92</h5>
+<p><span class="qref">Q42</span> — “as despesas empenhadas e não pagas constituirão dívida flutuante”:
+<b>CERTO</b>.</p>
+<p style="margin-bottom:0"><span class="qref">Q48</span> — “na inscrição dos restos a pagar, é <b>vedado</b> o
+registro de beneficiários específicos”: <b>ERRADO</b>, porque o registro é justamente <b>por credor</b>.
+A banca inverteu a regra.</p>
+</div>
+
+<h3>1.8 Créditos com vigência plurianual</h3>
+
+<div class="lei">
+<h5>Lei nº 4.320/1964, art. 36, parágrafo único</h5>
+<p style="margin-bottom:0">“Os empenhos que correm à conta de créditos com vigência plurienal, que <b>não tenham
+sido liquidados</b>, só serão computados como Restos a Pagar <b>no último ano de vigência do crédito</b>.”</p>
+</div>
+
+<p>Traduzindo: em crédito plurianual, durante os anos intermediários, <b>só se inscreve em RP o que já foi
+liquidado</b> (os processados). Os não liquidados aguardam o último ano de vigência.</p>
+
+<div class="box">
+<h5>Exemplo numérico (o mesmo do material)</h5>
+<p style="margin-bottom:0">Crédito adicional especial plurianual, 1º ano: empenhado R$ 200 mil, liquidado
+R$ 160 mil, pago R$ 130 mil. Inscreve-se em RP <b>apenas R$ 30 mil</b> — a parcela liquidada e não paga.
+Os R$ 40 mil empenhados e não liquidados <b>não</b> viram RPNP neste ano.</p>
+</div>
+
+<div class="box alerta">
+<h5>Cuidado: dispositivo vigente, aplicação superada</h5>
+<p>A própria aula adverte (<span class="qref">Q2</span>) que esse parágrafo <b>não é aplicado atualmente</b>,
+porque o Decreto nº 93.872/1986 adotou solução diferente — art. 27: as despesas de contratos, convênios,
+acordos ou ajustes plurianuais “serão empenhadas em cada exercício financeiro <b>pela parte nele a ser
+executada</b>”; art. 30, § 1º: indica-se o crédito e o empenho do exercício em curso e, por termos aditivos, os
+créditos e empenhos das parcelas futuras.</p>
+<p style="margin-bottom:0"><b>Mas o artigo não foi revogado</b> — e por isso continua sendo cobrado
+<b>na literalidade</b>: <span class="qref">Q2</span> (IBAMA 2025) reproduziu o texto e o gabarito foi
+<b>CERTO</b>. Regra prática: se a assertiva citar a lei, responda pela lei.
+(<span class="qref">Q15</span>, que tentou aplicar a ideia a um caso concreto de crédito especial, acabou
+<b>anulada</b> por permitir mais de uma interpretação — sinal de que a tensão é real.)</p>
+</div>
+
+<h3>1.9 Redução, cancelamento e anulação de despesa</h3>
+
+<table>
+<thead><tr><th style="width:34%">Momento da anulação</th><th>Efeito</th></tr></thead>
+<tr><td class="rot"><b>Dentro</b> do exercício</td>
+    <td>Anulação parcial ou total do empenho; a importância <b>reverte à respectiva dotação orçamentária</b>,
+        que volta a ficar disponível.</td></tr>
+<tr><td class="rot"><b>Após</b> o encerramento do exercício</td>
+    <td>Pela <b>letra do art. 38</b> da Lei nº 4.320/1964, considera-se <b>receita orçamentária</b> do ano em
+        que se efetivar.</td></tr>
+</table>
+
+<div class="box alerta">
+<h5>Onde o MCASP diverge da letra da lei</h5>
+<p>O MCASP determina que <b>não</b> se reconheçam como receita orçamentária os recursos financeiros oriundos do
+<b>cancelamento de despesas inscritas em restos a pagar</b>. A razão: cancelar RP é dar baixa em obrigação
+constituída em exercícios anteriores — é <b>restabelecimento de saldo de disponibilidade comprometida</b>,
+originário de receita já arrecadada lá atrás, e não receita nova.</p>
+<p style="margin-bottom:0">E não confunda com caso vizinho: o <b>ressarcimento ou restituição de despesas pagas
+em exercícios anteriores</b> — aí sim há entrada nova, reconhecida como <b>receita orçamentária</b> do exercício.
+A diferença é se o dinheiro <b>voltou</b> (ressarcimento, receita) ou se apenas <b>deixou de ser devido</b>
+(cancelamento, não é receita).</p>
+</div>
+
+<h3>1.10 Programação financeira</h3>
+
+<p>Pelo art. 15 do Decreto nº 93.872/1986, os restos a pagar “constituirão <b>item específico</b> da programação
+financeira, devendo o seu pagamento efetuar-se dentro do limite de saques fixado”. Daí uma aparente contradição
+que na verdade é a chave do tema: os RP são <b>despesa de exercícios já encerrados</b>, mas integram a
+<b>programação financeira do exercício em curso</b> — porque é o caixa <i>de agora</i> que os paga.</p>
+
+<p>Há um tipo de RP que foge desse regime: os <b>restos a pagar com prescrição interrompida</b> — aqueles cuja
+inscrição foi cancelada, mas cujo direito do credor permanece vigente. Eles são pagos à conta de
+<b>despesas de exercícios anteriores</b>, respeitada a categoria própria. É a ponte natural para a Parte 2:
+o RP cancelado perdeu o empenho, e sem empenho vivo o caminho é o DEA.</p>
+
+<h3>1.11 Restos a Pagar na LRF, no TCU e nas emendas parlamentares</h3>
+
+<h4>O diagnóstico do TCU</h4>
+<p>Cabe ao TCU emitir parecer prévio sobre as contas do presidente da República (art. 71 da CF/1988), competindo
+<b>exclusivamente ao Congresso Nacional</b> julgá-las (art. 49, IX). Nesses relatórios, o Tribunal tem apontado
+de forma reiterada o volume expressivo de <b>RP não processados</b> inscritos ou revalidados, que compromete a
+programação financeira e o planejamento dos exercícios seguintes.</p>
+
+<p>A causa apontada é concreta: o <b>contingenciamento</b> de dotações ao longo do ano, com liberação
+(“descompressão”) concentrada no <b>fim do exercício</b>. Liberado o crédito em novembro ou dezembro, não há
+tempo hábil para executar e liquidar — e a despesa cai, quase inevitavelmente, em <b>RPNP</b>. O excesso de
+RPNP é, portanto, sintoma de um problema de programação, não de contabilidade.</p>
+
+<h4>O art. 42 da LRF</h4>
+
+<div class="lei">
+<h5>LRF (LC nº 101/2000), art. 42</h5>
+<p>“É vedado ao titular de Poder ou órgão referido no art. 20, nos <b>últimos dois quadrimestres do seu
+mandato</b>, contrair obrigação de despesa que não possa ser cumprida integralmente dentro dele, ou que tenha
+parcelas a serem pagas no exercício seguinte <b>sem que haja suficiente disponibilidade de caixa</b> para este
+efeito.”</p>
+<p style="margin-bottom:0"><b>Parágrafo único.</b> “Na determinação da disponibilidade de caixa serão
+considerados os encargos e despesas compromissadas a pagar até o final do exercício.”</p>
+</div>
+
+<p>O MCASP observa que a LRF <b>não trata do mérito</b> do que pode ou não ser inscrito em RP — isso é matéria
+da Lei nº 4.320/1964 e do Decreto nº 93.872/1986. O que o art. 42 faz é <b>vedar herança fiscal</b>: proibir que
+o gestor em fim de mandato assuma obrigação sem lastro financeiro para o sucessor.</p>
+
+<div class="box">
+<h5>O raciocínio implícito do art. 42 (MCASP)</h5>
+<p>A receita que custeia a despesa deve, em regra, já ter sido arrecadada. Como a receita que amparou o empenho
+pertence ao exercício de sua arrecadação e serviu de base — pelo equilíbrio orçamentário — à fixação da despesa
+pelo Legislativo, a despesa empenhada com esse crédito pertence ao <b>mesmo</b> exercício.</p>
+<p style="margin-bottom:0">Consequência prática: se há receita em caixa ao fim do exercício e, ao mesmo tempo,
+despesa empenhada com fato gerador ocorrido mas sem liquidação, é preciso registrar o <b>passivo financeiro</b>
+correspondente. Sem esse registro, o balanço patrimonial exibirá <b>superávit financeiro indevido</b> —
+que poderia ser usado como fonte para abertura de créditos adicionais no ano seguinte, embora aquele dinheiro já
+esteja comprometido com o empenho inscrito em RP. É assim que se cria, na prática, um orçamento paralelo:
+obrigações de pagar sem fonte de recursos.</p>
+</div>
+
+<div class="prova">
+<div class="cab">FGV · MRE · 2016 &nbsp;—&nbsp; (questão intercalada)</div>
+<div class="item">“De acordo com a LRF, os restos a pagar devem ser inscritos com suficiente disponibilidade de caixa.”</div>
+<div class="gab"><b class="c">CERTO</b> — na leitura que a banca consagrou do art. 42, ainda que o dispositivo
+esteja literalmente circunscrito aos dois últimos quadrimestres de mandato.</div>
+</div>
+
+<h4>Emendas parlamentares (EC nº 126/2022)</h4>
+<p>A EC nº 126/2022 alterou o art. 166, § 17, da CF/1988 para permitir que os <b>restos a pagar</b> das
+programações de emendas sejam considerados no cumprimento da execução financeira obrigatória, até os limites:</p>
+<ul>
+<li><b>1%</b> da receita corrente líquida do exercício anterior ao do envio do projeto de LOA — emendas
+<b>individuais</b>;</li>
+<li><b>0,5%</b> — emendas de iniciativa de <b>bancada</b> de parlamentares de estado ou do DF.</li>
+</ul>
+<p class="pequeno">Ponto sem questão na aula, mas que se conecta ao § 3º do art. 68 do Decreto nº 93.872/1986
+(seção 1.5): são as mesmas emendas impositivas, com identificadores de resultado primário 6 e 7, que escapam do
+bloqueio.</p>
+
+<!-- ============================ PARTE 2 ============================ -->
+<h2 class="parte">Parte 2 · Despesas de Exercícios Anteriores</h2>
+
+<p class="lead">DEA são dívidas resultantes de compromissos gerados em exercícios financeiros anteriores àquele
+em que ocorrerá o pagamento. A definição é fácil; o difícil é não confundi-las com Restos a Pagar — e é
+exatamente aí que a banca mira.</p>
+
+<h3>2.1 As três hipóteses do art. 37</h3>
+
+<div class="lei">
+<h5>Lei nº 4.320/1964, art. 37</h5>
+<p style="margin-bottom:0">“As <b>despesas de exercícios encerrados</b>, para as quais o orçamento respectivo
+consignava crédito próprio, com saldo suficiente para atendê-las, <b>que não se tenham processado na época
+própria</b>, bem como os <b>Restos a Pagar com prescrição interrompida</b> e os <b>compromissos reconhecidos
+após o encerramento</b> do exercício correspondente poderão ser pagos à conta de <b>dotação específica
+consignada no orçamento</b>, discriminada por elementos, obedecida, sempre que possível, a ordem cronológica.”</p>
+</div>
+
+<table>
+<thead><tr><th style="width:30%">Hipótese</th><th>O que aconteceu de fato</th></tr></thead>
+<tr>
+  <td class="rot">1. Despesas de exercícios encerrados <b>não processadas na época própria</b></td>
+  <td>Havia crédito e saldo suficiente, mas a despesa não se processou: tipicamente o <b>empenho foi
+      considerado insubsistente e anulado</b>, ou houve erro/omissão administrativa. O credor, porém, cumpriu
+      sua obrigação no prazo. Quando o pagamento vier a ser reclamado, empenha-se de novo, como DEA.</td>
+</tr>
+<tr>
+  <td class="rot">2. <b>Restos a Pagar com prescrição interrompida</b></td>
+  <td>A inscrição em RP foi <b>cancelada</b>, mas o <b>direito do credor continua vigente</b>. O empenho morreu;
+      a dívida não. Paga-se à conta de DEA, respeitada a categoria própria.</td>
+</tr>
+<tr>
+  <td class="rot">3. <b>Compromissos reconhecidos após o encerramento</b> do exercício</td>
+  <td>Obrigações criadas por lei e reconhecidas pela autoridade competente depois do fim do exercício em que
+      nasceram — <b>ainda que não houvesse saldo na dotação própria ou que a dotação sequer existisse</b>.
+      Exemplo clássico: reconhecimento de vários anos de diferenças de gratificação devidas a servidores.</td>
+</tr>
+</table>
+
+<div class="box ouro">
+<h5>Detalhe da 3ª hipótese que costuma passar batido</h5>
+<p style="margin-bottom:0">Na hipótese 3, as parcelas relativas a <b>anos anteriores</b> vão para DEA,
+classificadas como despesas correntes; as parcelas relativas aos <b>meses do exercício corrente</b> são pagas no
+<b>elemento de despesa próprio</b>. A mesma decisão judicial ou administrativa, portanto, pode se dividir em
+dois elementos distintos — critério puramente temporal.</p>
+</div>
+
+<div class="prova">
+<div class="cab">CEBRASPE · ANM · 2025 &nbsp;—&nbsp; <span class="qref">Q5</span></div>
+<div class="item">“Para fins de identificação de uma despesa como despesa de exercícios anteriores, são
+consideradas as despesas <b>processadas</b> na época própria.”</div>
+<div class="gab"><b class="e">ERRADO</b> — o art. 37 exige exatamente o contrário: despesas que <b>NÃO</b> se
+tenham processado na época própria. Uma despesa corretamente empenhada, liquidada e paga no seu exercício não
+configura omissão nem erro — logo, não é DEA. Supressão de um “não”: a mais barata das armadilhas, e funciona.</div>
+</div>
+
+<div class="prova">
+<div class="cab">CEBRASPE · SEPLAN-RR · 2023 &nbsp;—&nbsp; <span class="qref">Q24</span> &nbsp;|&nbsp; CESPE · STM · 2018</div>
+<div class="item">“Caso ainda esteja vigente o direito do credor, a despesa cuja inscrição como restos a pagar
+tenha sido cancelada pode ser paga à conta de despesas de exercícios anteriores.”</div>
+<div class="gab"><b class="c">CERTO.</b> É a definição literal de <b>RP com prescrição interrompida</b> —
+hipótese 2 do art. 37. A mesma redação já foi cobrada pelo menos três vezes no material.</div>
+</div>
+
+<h3>2.2 DEA é despesa orçamentária — e por quê</h3>
+
+<p>Este é o ponto que resolve a maioria das questões de fronteira, e ele decorre da regra de ouro da Parte 0.
+Como <b>não existe empenho vivo</b> para a DEA, ela não pode simplesmente ser arrastada: precisa ser
+<b>empenhada de novo</b>, comprometendo o orçamento vigente à época do efetivo pagamento. Há, portanto,
+<b>necessidade de nova autorização orçamentária</b>.</p>
+
+<span class="form">DEA precisa de dotação na LOA do ano em que se paga → é despesa ORÇAMENTÁRIA</span>
+
+<p>E, para isso, a classificação por natureza da despesa reserva um <b>elemento de despesa específico</b>:
+o <b>elemento 92 — Despesas de Exercícios Anteriores</b>.</p>
+
+<div class="box alerta">
+<h5>O contraste que a banca explora sem parar</h5>
+<p style="margin-bottom:0"><b>Pagamento de RP = despesa EXTRAorçamentária</b> (o orçamento consumido foi o do
+ano do empenho). <b>Pagamento de DEA = despesa ORÇAMENTÁRIA</b> (consome o orçamento do ano do pagamento).
+Foi o núcleo de <span class="qref">Q9</span>, <span class="qref">Q40</span> e da questão CESPE/STJ 2018
+(“despesa inscrita em RP terá de ser contabilizada como DEA no exercício do pagamento” — <b>ERRADO</b>).</p>
+</div>
+
+<h3>2.3 Quem reconhece a obrigação</h3>
+
+<p>O reconhecimento da obrigação de pagamento de DEA cabe à <b>autoridade competente para empenhar a
+despesa</b> (art. 22, § 1º, do Decreto nº 93.872/1986; MCASP), em procedimento administrativo específico.
+Além disso, é preciso verificar rigorosamente a regularidade da execução: o descumprimento pode afrontar o
+<b>art. 167, II, da CF/1988</b>, que veda a realização de despesas ou a assunção de obrigações diretas que
+excedam os créditos orçamentários ou adicionais.</p>
+
+<div class="prova">
+<div class="cab">CEBRASPE · SEPLAN-RR · 2023 &nbsp;—&nbsp; <span class="qref">Q19</span></div>
+<div class="item">“Cabe à autoridade competente o reconhecimento da obrigação de pagamento dos <b>restos a
+pagar</b>.”</div>
+<div class="gab"><b class="e">ERRADO.</b> A regra do reconhecimento por autoridade competente é de <b>DEA</b>,
+não de RP. Restos a pagar processados, por exemplo, são inscritos <b>automaticamente</b> pelo sistema em 31/12,
+sem ato de reconhecimento (os não processados dependem de indicação do ordenador — seção 1.4, mas isso é
+<i>indicação para inscrição</i>, não <i>reconhecimento de obrigação</i>).</div>
+</div>
+
+<div class="box">
+<h5>Como a banca monta essa questão</h5>
+<p style="margin-bottom:0">Ela pega uma afirmação <b>verdadeira sobre DEA</b> e a aplica a <b>RP</b> — ou
+vice-versa. <span class="qref">Q1</span> (IBAMA 2025) trouxe a <i>mesma</i> frase corretamente atribuída a DEA:
+gabarito <b>CERTO</b>. Duas questões, uma frase, dois gabaritos opostos. Ao ler qualquer assertiva desta aula,
+identifique primeiro <b>de qual instituto ela fala</b>, e só depois julgue o conteúdo.</p>
+</div>
+
+<h3>2.4 Elemento 92 × elemento 93 × elemento próprio</h3>
+
+<p>O elemento de despesa identifica o <b>objeto do gasto</b>. O MCASP fixa a regra geral e depois abre duas
+exceções, que a banca cobra por meio de casos concretos:</p>
+
+<table>
+<thead><tr><th style="width:22%">Elemento</th><th style="width:30%">Quando usar</th><th>Chave de identificação</th></tr></thead>
+<tr>
+  <td class="rot"><b>Elemento próprio</b><br><span class="pequeno">(39, 44, 52…)</span></td>
+  <td>Regra geral: fato gerador ocorrido <b>no exercício</b>, sempre que for possível conhecer o objeto do gasto.</td>
+  <td>“Sei o que comprei e comprei este ano.”</td>
+</tr>
+<tr>
+  <td class="rot"><b>92 — DEA</b></td>
+  <td>Empenho referente a despesa cujo <b>fato gerador ocorreu em exercícios anteriores</b>, nas condições do
+      art. 37 da Lei nº 4.320/1964 e do Decreto nº 93.872/1986.</td>
+  <td>“A dívida é de ano passado e não tem empenho vivo.”</td>
+</tr>
+<tr>
+  <td class="rot"><b>93 — Indenizações e Restituições</b></td>
+  <td>Indenizações (exceto trabalhistas) e restituições devidas a qualquer título, inclusive devolução de
+      receitas quando não for possível compensar com o crédito correspondente, e demais despesas indenizatórias
+      sem elemento específico.</td>
+  <td>“Estou <b>devolvendo</b> a alguém, ou <b>reparando</b> um dano — não pagando um fornecedor por contrato.”</td>
+</tr>
+</table>
+
+<h4>Os quatro casos do MCASP (todos já cobrados)</h4>
+<table>
+<thead><tr><th style="width:66%">Situação</th><th style="width:12%">Elemento</th><th>Por quê</th></tr></thead>
+<tr><td>Ônibus da universidade quebra em viagem; o conserto excede o suprimento de fundos e o <b>motorista paga a
+    diferença do próprio bolso</b>. Ao retornar, a universidade o restitui.</td>
+    <td><b>93</b></td><td>Restituição a servidor.</td></tr>
+<tr><td>Árvore que a prefeitura foi reiteradamente instada a cortar cai sobre o carro de um cidadão; constatada a
+    responsabilidade, paga-se o cidadão.</td>
+    <td><b>93</b></td><td>Indenização por dano.</td></tr>
+<tr><td>Contrato de limpeza vence em outubro; a empresa segue prestando serviço em <b>novembro sem cobertura
+    contratual</b>; regulariza-se em dezembro. Empenho feito <b>no mesmo exercício</b>.</td>
+    <td><b>39</b><br><span class="pequeno">(elemento próprio)</span></td>
+    <td>Há relação contratual, ainda que viciada — não é restituição nem reparação de dano, e a Administração não
+        pode locupletar-se do serviço alheio. <b>Se o empenho fosse feito no exercício seguinte, seria 92.</b></td></tr>
+<tr><td>Em janeiro, servidor percebe que não recebeu <b>auxílio-alimentação por 10 meses</b> e pede o retroativo.</td>
+    <td><b>92</b></td><td>Fato gerador em exercício anterior.</td></tr>
+</table>
+
+<div class="box ouro">
+<h5>Fluxo de decisão em três perguntas</h5>
+<p style="margin-bottom:0"><b>1.</b> É devolução de valor ou reparação de dano? → <b>93</b>.
+&nbsp;<b>2.</b> Se não: o fato gerador é de exercício anterior (sem empenho vivo)? → <b>92</b>.
+&nbsp;<b>3.</b> Se não: <b>elemento próprio</b> do objeto.</p>
+</div>
+
+<div class="prova">
+<div class="cab">FCC · Pref. Recife · 2019 &nbsp;|&nbsp; FCC · CL-DF · 2018 &nbsp;|&nbsp; VUNESP · Sertãozinho · 2018 &nbsp;—&nbsp; (intercaladas)</div>
+<div class="item">Três casos, um padrão: gratificação retroativa de novembro/dezembro paga em janeiro classificada
+como <i>“Outras Despesas Variáveis — Pessoal Civil”</i>; equipamentos de segurança com empenho anulado em
+31/12/2017 e reempenhados em janeiro classificados como <i>“Equipamentos e Material Permanente”</i>;
+auxílio-alimentação retroativo classificado no elemento <i>“restos a pagar”</i>.</div>
+<div class="gab">As três <b class="e">ERRADAS</b>, pela mesma razão: existindo o elemento <b>92</b>, é ele que se
+usa quando o fato gerador é de exercício anterior. E a terceira acrescenta um erro grosseiro que vale registrar:
+<b>“restos a pagar” não é elemento de despesa</b>. Já <span class="qref">a questão FCC/DPE-AM 2018</span>,
+com empenho cancelado em 31/12/2016 e novo empenho em 03/01/2017 classificado em DEA, é <b>CERTA</b>.</div>
+</div>
+
+<h3>2.5 O confronto direto: RP × DEA</h3>
+
+<p>Este quadro é o destino final da Parte 0. Se você souber preenchê-lo de memória, as quatro questões de
+fronteira da aula caem sozinhas.</p>
+
+<table>
+<thead><tr><th style="width:26%">Critério</th><th style="width:37%">Restos a Pagar</th><th>Despesas de Exercícios Anteriores</th></tr></thead>
+<tr><td class="rot">Houve empenho no exercício de origem?</td>
+    <td><b>Sim</b>, e ele continua válido.</td>
+    <td><b>Não</b> — nunca houve, ou o empenho foi anulado/cancelado.</td></tr>
+<tr><td class="rot">Precisa de novo empenho?</td>
+    <td>Não. Conclui-se o percurso do empenho original.</td>
+    <td><b>Sim</b>, na dotação do orçamento vigente.</td></tr>
+<tr><td class="rot">Natureza do pagamento</td>
+    <td><b>Despesa extraorçamentária</b>.</td>
+    <td><b>Despesa orçamentária</b>.</td></tr>
+<tr><td class="rot">Consome orçamento do ano do pagamento?</td>
+    <td>Não.</td><td>Sim.</td></tr>
+<tr><td class="rot">Elemento de despesa próprio?</td>
+    <td>Não existe elemento “restos a pagar”.</td>
+    <td>Sim: <b>elemento 92</b>.</td></tr>
+<tr><td class="rot">Quem reconhece</td>
+    <td>Processados: inscrição automática em 31/12. Não processados: indicação do ordenador de despesas.</td>
+    <td>A <b>autoridade competente para empenhar</b> a despesa, em procedimento específico.</td></tr>
+<tr><td class="rot">A qual exercício a despesa pertence</td>
+    <td>Ao exercício do <b>empenho</b> (o anterior).</td>
+    <td>Ao exercício do <b>novo empenho</b> (o corrente).</td></tr>
+<tr><td class="rot">Classificação como dívida</td>
+    <td><b>Dívida flutuante</b> (art. 92 da Lei nº 4.320/1964).</td>
+    <td>Despesa orçamentária corrente ou de capital, conforme a natureza.</td></tr>
+</table>
+
+<div class="prova">
+<div class="cab">CEBRASPE · TCE-PR · 2024 &nbsp;—&nbsp; <span class="qref">Q8</span></div>
+<div class="item">Em 20X1 o estado contratou 5.000 resmas de papel por R$ 100.000 com crédito ordinário da LOA.
+A despesa foi empenhada, mas o fornecedor não entregou até o fim do ano. Assinale a correta.</div>
+<div class="gab"><b>Letra B</b> — “caso a despesa <b>não</b> tenha sido inscrita em RP em 20X1 e a empresa
+entregue os materiais em 20X2, o pagamento poderá ser feito por meio de DEA consignadas no orçamento
+<b>de 20X2</b>”.<br>
+Percurso da resposta: sem entrega, não houve liquidação → não pode ser RP <b>processado</b> (elimina A e D);
+sem inscrição em RP, o empenho de 20X1 morreu e não há como ressuscitá-lo retroativamente (elimina C); e a DEA,
+por definição, é paga com dotação do <b>orçamento vigente</b>, não do orçamento antigo (elimina E).</div>
+</div>
+
+<div class="prova">
+<div class="cab">CEBRASPE · STJ · 2024 &nbsp;—&nbsp; <span class="qref">Q9</span></div>
+<div class="item">“As despesas de exercícios anteriores podem ser inscritas como restos a pagar, desde que o
+empenho tenha sido realizado no exercício financeiro correspondente.”</div>
+<div class="gab"><b class="e">ERRADO</b> — a assertiva é autocontraditória, e perceber isso vale mais que
+decorar. Se houve empenho regular no exercício correspondente, a despesa <b>é resto a pagar e não é DEA</b>;
+se é DEA, é justamente porque <b>não</b> houve empenho regular. Os dois institutos são <b>mutuamente
+excludentes</b> por construção.</div>
+</div>
+
+<div class="prova">
+<div class="cab">CESPE · MPE-CE · 2020 &nbsp;—&nbsp; <span class="qref">Q40</span></div>
+<div class="item">Medicamentos entregues e <b>atestados em 31/12/2019</b>; pagamento realizado trinta dias depois.
+“Essa despesa deve ser registrada como <b>DEA</b>, uma vez que foi gerada em 2019 e liquidada em 2020.”</div>
+<div class="gab"><b class="e">ERRADO.</b> “Entregue e devidamente atestada” <b>é</b> liquidação — ocorreu ainda
+em 2019. Empenhada, liquidada e não paga em 31/12 = <b>RP processado</b>. A banca tenta induzir ao erro
+afirmando no próprio enunciado que a liquidação teria ocorrido em 2020, o que o fato narrado desmente.
+<b>Guarde “entrega atestada = liquidação”</b>: com esse gatilho, <span class="qref">Q29</span> (computadores
+atestados em 31/12/2022, pagamento 30 dias depois → <b>RP processados</b>) sai em cinco segundos.</div>
+</div>
+
+<!-- ============================ PARTE 3 ============================ -->
+<h2 class="parte">Parte 3 · Suprimento de Fundos</h2>
+
+<p class="lead">Aqui o problema muda de natureza. Restos a Pagar e DEA resolvem descompassos entre a despesa e o
+<i>calendário</i>. O suprimento de fundos resolve um descompasso entre a despesa e o <i>rito</i>: há situações
+que não podem esperar licitação, empenho, liquidação e pagamento por tesouraria — mas que também não autorizam
+gastar sem controle.</p>
+
+<h3>3.1 Para que serve — e para que não serve</h3>
+
+<p>O processo tradicional de realização da despesa é demorado, sobretudo quando exige licitação prévia. O
+suprimento de fundos (também chamado <b>regime de adiantamento</b>) existe para atender <b>situações atípicas
+que exijam pronto pagamento</b> e não possam se subordinar ao processo normal de aplicação. É, portanto,
+<b>exceção ao procedimento licitatório</b>.</p>
+
+<div class="box alerta">
+<h5>O filtro negativo</h5>
+<p style="margin-bottom:0">Despesas de <b>caráter repetitivo</b> não podem ser atendidas por suprimento de
+fundos: sendo previsíveis, não têm a excepcionalidade que justifica o regime. Se dá para planejar, não é caso de
+adiantamento.</p>
+</div>
+
+<p>Estruturalmente, o instituto é simples: <b>entrega-se numerário a um servidor</b> (o “suprido”), que realiza
+o gasto e depois <b>presta contas</b>. Cada ente da Federação deve regulamentar o seu regime de adiantamento,
+observadas as peculiaridades de seu sistema de controle interno — os arts. 68 e 69 da Lei nº 4.320/1964 são
+normas gerais de observância obrigatória por União, estados, DF e municípios.</p>
+
+<h3>3.2 A dupla natureza — o ponto mais cobrado do tema</h3>
+
+<p>O suprimento de fundos tem <b>duas naturezas simultâneas e divergentes</b>, e confundi-las é o erro que a
+banca explora em quase todas as questões do bloco.</p>
+
+<table>
+<thead><tr><th style="width:26%">Enfoque</th><th style="width:22%">É despesa?</th><th>Por quê</th></tr></thead>
+<tr><td class="rot"><b>Orçamentário</b></td>
+    <td><b>SIM</b> — despesa orçamentária plena</td>
+    <td>Para conceder o recurso ao suprido é preciso percorrer os <b>três estágios</b>: empenho, liquidação e
+        pagamento. Aplica-se o art. 60 da Lei nº 4.320/1964 (“é vedada a realização de despesa sem prévio
+        empenho”) — o adiantamento é <b>sempre precedido de empenho na dotação própria</b>.</td></tr>
+<tr><td class="rot"><b>Patrimonial</b></td>
+    <td><b>NÃO</b> — no momento da concessão</td>
+    <td>Não há redução do patrimônio líquido. Na liquidação, ao mesmo tempo em que se registra um <b>passivo</b>,
+        incorpora-se um <b>ativo</b>: o direito de receber o bem ou serviço objeto do gasto, ou a devolução do
+        numerário adiantado. É <b>fato permutativo</b>.</td></tr>
+</table>
+
+<div class="box ok">
+<h5>Quando a riqueza efetivamente diminui</h5>
+<p style="margin-bottom:0">A <b>variação patrimonial diminutiva (VPD)</b> só é reconhecida na
+<b>prestação de contas</b> do suprido — é aí que se sabe o que de fato foi consumido. Enquanto o dinheiro está
+com o servidor, o ente trocou caixa por um direito: continua tão rico quanto antes. Daí a expressão que a banca
+usa: o adiantamento é uma <b>despesa corrente não efetiva</b> (uma mutação patrimonial, não uma redução).</p>
+</div>
+
+<div class="prova">
+<div class="cab">CEBRASPE · CGDF · 2023 &nbsp;—&nbsp; <span class="qref">Q18</span></div>
+<div class="item">“Sob o enfoque patrimonial, o registro da VPD de um suprimento de fundos se dá no momento
+(a) da concessão; (b) da liquidação; (c) do pagamento; (d) <b>da prestação de contas</b>.”</div>
+<div class="gab"><b>Letra D.</b> As alternativas A, B e C são os três estágios orçamentários — todos ocorrem na
+concessão. A resposta está fora deles, exatamente porque as duas naturezas correm em tempos diferentes.</div>
+</div>
+
+<div class="prova">
+<div class="cab">Diversas &nbsp;—&nbsp; <span class="qref">Q12/CNPq 2024</span>, CGM-JP 2018, STM 2018, FGV/Salvador 2018, FCC/DPE-AM 2018</div>
+<div class="item">Cinco formulações da mesma ideia: “é despesa orçamentária que, sob o enfoque patrimonial, não
+representa despesa” (<b>CERTO</b>) · “não constitui despesa orçamentária” (<b>ERRADO</b>) · “constitui despesa
+orçamentária, embora a despesa patrimonial ocorra em momento futuro” (<b>CERTO</b>) · “é exemplo de despesa
+corrente não efetiva” (<b>CERTO</b>) · “a VPD foi reconhecida na data do empenho” (<b>ERRADO</b> — foi na
+prestação de contas).</div>
+<div class="gab">Uma única ideia, cinco gabaritos. Domine o quadro da seção e o bloco inteiro se resolve.</div>
+</div>
+
+<h3>3.3 As três hipóteses de concessão</h3>
+
+<p>O suprimento é aplicável aos casos de despesas <b>expressamente definidas em lei</b> e consiste na entrega de
+numerário a servidor, <b>sempre precedida de empenho</b>, a critério do ordenador de despesa e sob sua inteira
+responsabilidade (arts. 68 e 69 da Lei nº 4.320/1964 c/c art. 45 do Decreto nº 93.872/1986):</p>
+
+<table>
+<thead><tr><th style="width:30%">Hipótese</th><th>Delimitação</th></tr></thead>
+<tr><td class="rot">Despesas <b>eventuais</b></td>
+    <td>Inclusive em viagem e com serviços especiais, <b>que exijam pronto pagamento</b>.</td></tr>
+<tr><td class="rot">Despesas em caráter <b>sigiloso</b></td>
+    <td>Conforme classificação em regulamento.</td></tr>
+<tr><td class="rot">Despesas de <b>pequeno vulto</b></td>
+    <td>Aquelas cujo valor, <b>em cada caso</b>, não ultrapasse limite fixado em portaria do Ministro da Fazenda.</td></tr>
+</table>
+
+<div class="box alerta">
+<h5>Duas trocas típicas</h5>
+<p><b>“Grande vulto”</b> no lugar de pequeno vulto — FGV/Câmara de Salvador 2018: <b>ERRADO</b>.</p>
+<p style="margin-bottom:0"><b>“Despesas não definidas em lei”</b> — item II de <span class="qref">Q26</span>
+(CEBRASPE/Pref. SP 2023): <b>ERRADO</b>, o art. 68 exige despesas <b>expressamente definidas em lei</b>.
+Na mesma questão, o item III afirmava entrega de numerário “<b>independentemente de empenho</b>”: também
+<b>ERRADO</b> — o empenho prévio é inafastável. Gabarito da questão: apenas os itens I e IV corretos
+<b>(letra A)</b>.</p>
+</div>
+
+<p class="pequeno"><b>Caso especial.</b> Nos deslocamentos do presidente e do vice-presidente da República em
+território nacional, as despesas correm à conta das dotações da Presidência e da Vice-Presidência e são
+realizadas <b>mediante concessão de suprimento de fundos</b> a servidor designado pelo ordenador de despesas
+(art. 9º, § 3º, do Decreto nº 5.992/2006), observado o art. 47 do Decreto nº 93.872/1986.</p>
+
+<h3>3.4 Classificação por natureza: não há elemento “suprimento de fundos”</h3>
+
+<p>Os valores entregues ao suprido podem se relacionar a <b>mais de uma natureza de despesa</b>, desde que
+precedidos dos empenhos nas dotações respectivas e respeitados os valores de cada natureza. Mas — e aqui está o
+ponto — <b>não existe elemento de despesa específico para suprimento de fundos</b>, diferentemente do que ocorre
+com DEA (elemento 92).</p>
+
+<div class="box ouro">
+<h5>Como classificar, então</h5>
+<p style="margin-bottom:0">Pelo <b>objeto do gasto</b>. Suprimento concedido para custear pedágios de uma viagem
+a serviço é empenhado no elemento <b>“Passagens e Despesas com Locomoção”</b> — foi exatamente a chave da questão
+FCC/DPE-AM 2018 (<span class="qref">seção 3.2</span>), que a banca completou com um segundo erro (a data da VPD).
+Duas armadilhas no mesmo item.</p>
+</div>
+
+<h3>3.5 A quem não se pode conceder</h3>
+
+<p>O núcleo legal está no art. 69 da Lei nº 4.320/1964 (“não se fará adiantamento a servidor <b>em alcance</b>
+nem a responsável por <b>dois adiantamentos</b>”), detalhado pelo art. 45, § 3º, do Decreto nº 93.872/1986 e por
+normas complementares:</p>
+
+<table>
+<thead><tr><th style="width:44%">Vedação</th><th>Observação</th></tr></thead>
+<tr><td class="rot">A quem <b>não seja servidor</b></td><td>Nunca a terceirizado ou estagiário.</td></tr>
+<tr><td class="rot">A responsável por <b>dois</b> suprimentos</td>
+    <td><b>Leia com cuidado:</b> é permitido ter até <b>dois</b> suprimentos com prazo de aplicação não vencido.
+        Quem tem dois não recebe o terceiro; quem tem um <b>pode</b> receber o segundo.</td></tr>
+<tr><td class="rot">A servidor que tenha a seu cargo a <b>guarda ou utilização do material</b> a adquirir</td>
+    <td><b>Única vedação com exceção:</b> se não houver na repartição outro servidor em condições de receber o
+        suprimento, ele pode receber.</td></tr>
+<tr><td class="rot">A responsável por suprimento que, <b>esgotado o prazo</b>, não prestou contas</td><td>—</td></tr>
+<tr><td class="rot">A servidor declarado <b>em alcance</b></td>
+    <td><b>Sem exceção alguma.</b> Alcance = não prestou contas no prazo regulamentar <b>ou</b> teve as contas
+        impugnadas, total ou parcialmente (por desvio, desfalque, falta ou má aplicação de bens ou valores sob
+        sua guarda).</td></tr>
+<tr><td class="rot">A servidor respondendo a <b>inquérito administrativo</b></td><td>IN-STN nº 10/1991.</td></tr>
+<tr><td class="rot">A quem seja o <b>próprio demandante</b> da aquisição/contratação</td>
+    <td>Exceto em viagem a serviço; e o suprido não se confunde com o <b>ordenador de despesas</b>.</td></tr>
+<tr><td class="rot">A quem tenha cometido apropriação indevida, extravio, desvio ou falta na prestação de contas,
+    ou esteja em <b>tomada de contas especial</b></td><td>—</td></tr>
+</table>
+
+<div class="box ouro">
+<h5>Mnemônica “A-G-2-P”</h5>
+<p style="margin-bottom:0"><b>A</b>lcance (sem exceção) · <b>G</b>uarda do material (com exceção) ·
+<b>2</b> suprimentos em aberto · <b>P</b>restação de contas vencida. As quatro vedações que a aula cobra.</p>
+</div>
+
+<div class="prova">
+<div class="cab">CEBRASPE · INPI · 2024 &nbsp;—&nbsp; <span class="qref">Q12</span> &nbsp;|&nbsp; Codevasf · 2024 &nbsp;—&nbsp; <span class="qref">Q14</span></div>
+<div class="item">Q12: “O servidor <b>declarado em alcance</b> poderá receber suprimento de fundos, <b>desde que</b>
+não tenha a seu cargo a guarda ou a utilização do material a adquirir.” &nbsp;·&nbsp;
+Q14: “É vedada a concessão ao servidor que tenha a seu cargo a utilização do material a adquirir, <b>ainda que
+não haja outro servidor</b> na repartição.”</div>
+<div class="gab">Ambas <b class="e">ERRADAS</b> — e por erros <b>espelhados</b>: Q12 cria uma exceção onde não
+há (alcance é absoluto); Q14 elimina a exceção que existe (guarda do material admite ressalva quando não há
+outro servidor). Se você guardar apenas “<b>alcance não tem exceção; guarda tem</b>”, resolve as duas.</div>
+</div>
+
+<div class="prova">
+<div class="cab">CEBRASPE · Pref. Maringá · 2022 &nbsp;—&nbsp; <span class="qref">Q35</span></div>
+<div class="item">Servidor A recebeu suprimento em 15/03/2021 (prestou contas em 20/07) e está <b>em alcance</b>
+em 15/07/2021, data em que se cogita novo suprimento de R$ 450.</div>
+<div class="gab"><b>Letra E</b> — não poderá receber <b>por estar em alcance</b>, com vedação expressa na
+Lei nº 4.320/1964. A alternativa D (“não poderá por já ter um sob sua responsabilidade”) é a armadilha: ter
+<b>um</b> suprimento em aberto não impede o segundo. O que impede é o alcance.</div>
+</div>
+
+<h3>3.6 O Cartão de Pagamento do Governo Federal (CPGF)</h3>
+
+<p>A concessão de suprimento de fundos <b>deve</b> ocorrer por meio do CPGF (art. 45, § 5º, do Decreto
+nº 93.872/1986), utilizando-se contas de suprimento de fundos apenas em caráter excepcional, quando
+comprovadamente não for possível usar o cartão. O CPGF foi criado para <b>substituir o uso de cheques</b> na
+Administração: torna tudo eletrônico, facilita a prestação de contas, dá segurança às operações e permite
+acompanhamento integral dos gastos.</p>
+
+<div class="box">
+<h5>O que o cartão não muda</h5>
+<p style="margin-bottom:0">O CPGF é apenas uma <b>modalidade de pagamento</b>: não altera em nada os
+procedimentos de utilização do suprimento de fundos nem a sua prestação de contas. Essa frase, aparentemente
+banal, é a chave para não errar itens que sugerem regimes distintos conforme o meio de pagamento.</p>
+</div>
+
+<h4>Regras operacionais</h4>
+<ul>
+<li><b>Titularidade e uso.</b> Instrumento emitido <b>em nome da unidade gestora</b>, operacionalizado por
+instituição financeira autorizada, utilizado <b>exclusivamente pelo portador nele identificado</b>.</li>
+<li><b>Ordenador de despesas.</b> Define o limite de utilização e o valor de cada portador, altera esse limite e
+expede a ordem de disponibilização eletrônica junto ao banco. <b>O portador</b>, por sua vez, responde pela
+<b>guarda e uso</b> do cartão.</li>
+<li><b>Acréscimos.</b> É <b>vedada</b> a aceitação de qualquer acréscimo no valor da despesa decorrente do uso
+do CPGF.</li>
+<li><b>Abrangência.</b> A utilização pode ocorrer na aquisição de materiais e contratação de serviços
+enquadrados como suprimento de fundos (Decreto nº 5.355/2005), sem prejuízo dos demais instrumentos de
+pagamento; ato conjunto dos Ministros do Planejamento/Orçamento e da Fazenda pode autorizar seu uso para
+<b>outras despesas</b>.</li>
+<li><b>Transparência.</b> O Portal da Transparência publica <b>mensalmente</b> as faturas dos cartões do Poder
+Executivo federal — CPGF, CPCC (Compras Centralizadas) e CPDC (Defesa Civil) —, <b>exceto</b> gastos sigilosos.</li>
+<li><b>Retenção tributária.</b> Nos pagamentos por cartão, a retenção é feita pelo órgão pagador sobre o total
+devido ao fornecedor, pagando-se o valor líquido. <b>Isso não se aplica</b> às despesas com suprimento de fundos
+dos arts. 45 a 47 do Decreto nº 93.872/1986 nem aos adiantamentos para despesas miúdas de pronto pagamento
+(art. 10 da IN RFB nº 1.234/2012).</li>
+</ul>
+
+<h4>Saque: vedado, com três exceções</h4>
+<p>É vedada a utilização do CPGF na modalidade de <b>saque</b> (art. 45, § 6º), salvo:</p>
+<ul>
+<li>despesas do <b>Regime Especial de Execução</b> do art. 47 (seção 3.7);</li>
+<li>situações específicas do <b>órgão ou entidade</b>, autorizadas em portaria do Ministro de Estado competente,
+nunca superiores a <b>30%</b> do total da despesa anual do órgão com suprimento de fundos;</li>
+<li>situações específicas de <b>agência reguladora</b>, autorizadas em portaria de seu dirigente máximo, com o
+mesmo teto de <b>30%</b>.</li>
+</ul>
+
+<h4>Conta bancária: vedada, com exceções institucionais</h4>
+<p>É vedada a abertura de conta bancária destinada à movimentação de suprimentos de fundos (art. 45-A do Decreto
+nº 93.872/1986). A STN encerrou tais contas até <b>2 de junho de 2008</b>, mas o prazo <b>não se aplicou</b> aos
+órgãos dos Poderes <b>Legislativo</b> e <b>Judiciário</b>, do <b>MPU</b> e dos <b>Comandos Militares</b>, que
+podem abrir novas contas (art. 3º do Decreto nº 6.370/2008).</p>
+
+<div class="box ouro">
+<h5>Novidade legislativa a monitorar</h5>
+<p style="margin-bottom:0">O Decreto nº 12.143/2024 incluiu o § 3º no art. 3º do Decreto nº 6.370/2008 para
+permitir que a <b>Polícia Federal</b> abra novas contas bancárias para movimentação de suprimento de fundos,
+desde que restritas ao atendimento das especificidades de instalação, manutenção, funcionamento e suporte
+financeiro de necessidades de serviço nas <b>adidâncias no exterior</b>. Alteração recente e ainda sem questão
+registrada na aula — perfil típico do que as bancas cobram em seguida.</p>
+</div>
+
+<h3>3.7 Regime Especial de Execução (art. 47)</h3>
+
+<p>Para atender peculiaridades de determinados órgãos, a concessão e a aplicação obedecem a <b>Regime Especial
+de Execução</b>, estabelecido em instruções aprovadas pelos respectivos Ministros de Estado, <b>vedada a
+delegação de competência</b>. Alcança: Presidência e Vice-Presidência da República, Ministério da Economia,
+Ministério da Saúde, Ministério da Agricultura, Pecuária e Abastecimento, Polícia Federal, Ministério das
+Relações Exteriores, Controladoria-Geral da União, além dos órgãos militares e de inteligência.</p>
+
+<p>Para quatro deles, o parágrafo único restringe o objeto:</p>
+<table>
+<thead><tr><th style="width:34%">Órgão</th><th>Restrição</th></tr></thead>
+<tr><td class="rot">Ministério da Saúde</td><td>Especificidades da <b>assistência à saúde indígena</b>.</td></tr>
+<tr><td class="rot">MAPA</td><td>Especificidades dos <b>adidos agrícolas</b> em missões diplomáticas no exterior.</td></tr>
+<tr><td class="rot">MRE</td><td>Especificidades das <b>repartições no exterior</b>.</td></tr>
+<tr><td class="rot">CGU</td><td>Acordos de leniência, inteligência, fiscalização, investigação e operações
+    especiais da Secretaria de Combate à Corrupção que demandem despesas de <b>caráter sigiloso</b>.</td></tr>
+</table>
+
+<h3>3.8 Prestação de contas</h3>
+
+<ul>
+<li>O servidor que recebe suprimento <b>é obrigado a prestar contas</b> de sua aplicação.</li>
+<li>Não o fazendo no prazo assinalado pelo ordenador de despesa, procede-se <b>automaticamente à tomada de
+contas</b>, sem prejuízo das providências administrativas para apuração de responsabilidades e imposição das
+penalidades cabíveis.</li>
+<li>A importância aplicada <b>até 31 de dezembro</b> será comprovada <b>até 15 de janeiro</b> seguinte
+(art. 46, parágrafo único).</li>
+<li>Aprovada a prestação de contas, a <b>responsabilidade pela aplicação</b> passa a ser da <b>autoridade que
+concedeu</b> o suprimento.</li>
+<li>Impugnadas as contas pelo ordenador, o suprido devolve, por <b>GRU</b>, os valores das despesas não
+elegíveis — rotina válida tanto para conta bancária quanto para cartão.</li>
+<li>O suprimento é <b>contabilizado e incluído nas contas do ordenador como despesa realizada</b>.</li>
+</ul>
+
+<div class="prova">
+<div class="cab">CESPE · EBSERH · 2018 &nbsp;—&nbsp; (intercalada)</div>
+<div class="item">“A tomada de contas de suprimento de fundos concedido é automática, e será realizada <b>tão
+logo cessem os motivos da concessão</b>.”</div>
+<div class="gab"><b class="e">ERRADO.</b> A tomada de contas é automática, sim — mas o gatilho é o
+<b>descumprimento do prazo</b> de prestação de contas, não o fim dos motivos da concessão. A banca preservou a
+palavra verdadeira (“automática”) e trocou a condição.</div>
+</div>
+
+<h3>3.9 Restituições: anulação de despesa ou receita orçamentária?</h3>
+
+<p>Se o suprido não aplica o valor, aplica só em parte ou aplica indevidamente, ele devolve o dinheiro.
+O tratamento contábil depende <b>exclusivamente de quando a devolução é recolhida</b> (art. 45, § 1º, do Decreto
+nº 93.872/1986; MCASP):</p>
+
+<table>
+<thead><tr><th style="width:44%">Recolhimento da restituição</th><th>Tratamento</th></tr></thead>
+<tr><td class="rot"><b>No mesmo exercício</b> da concessão</td>
+    <td><b>Anulação de despesa</b> — a despesa registrada simplesmente deixa de existir e a dotação é
+        recomposta.</td></tr>
+<tr><td class="rot"><b>Após o encerramento</b> do exercício</td>
+    <td><b>Receita orçamentária</b>, classificada na natureza <b>1.9.2.2.99.0.0 — Outras Restituições</b>.
+        O exercício já foi encerrado; não há mais despesa a anular, então a entrada é receita nova.</td></tr>
+</table>
+
+<div class="box ok">
+<h5>Um detalhe que virou questão</h5>
+<p style="margin-bottom:0">O art. 168 da CF/1988 instituiu o repasse por <b>duodécimos</b> do Executivo aos
+demais Poderes e órgãos autônomos para execução de suas despesas. Consequência que o MCASP extrai:
+<b>é possível conceder suprimento de fundos mesmo por órgãos que não possuem receitas próprias</b> — cobrado em
+<span class="qref">Q17</span> e <span class="qref">Q36</span>, ambas com esse ponto na alternativa correta.</p>
+</div>
+
+<div class="prova">
+<div class="cab">CGDF 2023 <span class="qref">Q25</span> · Maringá 2022 <span class="qref">Q33</span> · Mossoró 2024 <span class="qref">Q17</span> · STM 2018 · ABIN 2018 · CL-DF 2018</div>
+<div class="item">Seis questões, um único par de regras. Restituição no mesmo exercício → <b>anulação de
+despesa</b> (Q25, letra B; Q17, CERTO; STM, CERTO). Restituição após o encerramento → <b>receita
+orçamentária</b> (Q33, letra E; CL-DF, devolução de R$ 200 em 04/01/2018 gera receita orçamentária de 2018,
+CERTO).</div>
+<div class="gab">A única forma de errar é generalizar. Em <span class="qref">ABIN 2018</span> a banca escreveu
+que o saldo não aplicado constituirá <b>“obrigatoriamente” receita orçamentária</b>: <b>ERRADO</b>, porque no
+mesmo exercício é anulação de despesa. <b>O advérbio absoluto é o erro.</b></div>
+</div>
+
+<div class="prova">
+<div class="cab">CEBRASPE · Pref. Maringá · 2022 &nbsp;—&nbsp; <span class="qref">Q34</span></div>
+<div class="item">Quatro suprimentos concedidos em 2021: R$ 450 + R$ 450 + R$ 500 + R$ 650 = R$ 2.050.
+Metade do serviço hidráulico (R$ 450) não foi aplicada e foi restituída <b>ainda em 2021</b>; 70% do
+abastecimento (R$ 650) foi restituído <b>em 2022</b>. Qual a despesa orçamentária de 2021?</div>
+<div class="gab"><b>Letra C — R$ 1.825,00.</b> Todos os quatro suprimentos são despesa orçamentária no ato da
+concessão (R$ 2.050). Deduz-se apenas a restituição <b>recolhida em 2021</b> (450 ÷ 2 = R$ 225), que é anulação
+de despesa: 2.050 − 225 = 1.825. A devolução de 2022 <b>não</b> reduz a despesa de 2021 — ela será receita
+orçamentária de 2022. É a regra da seção aplicada a números.</div>
+</div>
+
+<h3>3.10 Limites de valor</h3>
+
+<p>Fixados pela <b>Portaria MF nº 1.344/2023</b>, como percentuais dos valores de dispensa de licitação da
+Lei nº 14.133/2021 (art. 75, I e II, atualizados na forma do art. 182):</p>
+
+<table>
+<thead><tr><th style="width:34%">Aplicação</th><th style="width:22%">Obras e serviços de engenharia</th><th style="width:22%">Outros serviços e compras</th><th>Base</th></tr></thead>
+<tr><td class="rot">Ato de concessão (regra geral)</td><td><b>R$ 50.000</b></td><td><b>R$ 25.000</b></td>
+    <td>50% do limite de dispensa</td></tr>
+<tr><td class="rot">Despesa de <b>pequeno vulto</b></td><td><b>R$ 5.000</b></td><td><b>R$ 2.500</b></td>
+    <td>5% do limite de dispensa</td></tr>
+<tr><td class="rot">Concessão por <b>conta bancária</b></td><td>R$ 25.000</td><td>R$ 12.500</td>
+    <td rowspan="2">Metade dos valores acima</td></tr>
+<tr><td class="rot">Pequeno vulto por <b>conta bancária</b></td><td>R$ 2.500</td><td>R$ 1.250</td></tr>
+</table>
+
+<p class="pequeno">O ato de concessão pode conter <b>mais de uma</b> despesa de pequeno vulto, respeitados os
+limites acima. Nenhuma questão da aula cobrou esses valores — memorize a <b>lógica</b> (50% do limite de
+dispensa; 5% para pequeno vulto; metade de tudo se for por conta bancária) em vez dos números.</p>
+
+<div class="box alerta">
+<h5>Fracionamento</h5>
+<p style="margin-bottom:0">Serviços de pequeno vulto podem ser executados por suprimento de fundos desde que
+caracterizadas a <b>inexistência de cobertura contratual</b>, a <b>eventualidade</b> da contratação e a
+<b>inocorrência de fracionamento</b> da despesa. O controle do fracionamento se faz por <b>subelemento</b> em
+cada ato de concessão e, quanto à modalidade licitatória, pelo <b>conjunto</b> dos supridos autorizados da
+unidade gestora — porque muitos supridos comprando rotineiramente o mesmo objeto podem, somados, alcançar
+valores que exigiriam licitação (<span class="qref">Q36</span>, alternativa D).</p>
+</div>
+
+<!-- ============================ PARTE 4 ============================ -->
+<h2 class="parte">Parte 4 · Síntese e mapa de armadilhas</h2>
+
+<h3>4.1 Os três institutos lado a lado</h3>
+
+<table>
+<thead><tr><th style="width:20%">&nbsp;</th><th style="width:27%">Restos a Pagar</th><th style="width:27%">DEA</th><th>Suprimento de Fundos</th></tr></thead>
+<tr><td class="rot">Problema que resolve</td>
+    <td>O ano acabou antes do pagamento.</td>
+    <td>A dívida existe, mas ficou sem empenho.</td>
+    <td>A despesa não pode esperar o rito normal.</td></tr>
+<tr><td class="rot">Base legal nuclear</td>
+    <td>Art. 36 da Lei nº 4.320/1964; art. 68 do Decreto nº 93.872/1986.</td>
+    <td>Art. 37 da Lei nº 4.320/1964.</td>
+    <td>Arts. 68-69 da Lei nº 4.320/1964; arts. 45-47 do Decreto nº 93.872/1986.</td></tr>
+<tr><td class="rot">Precisa de empenho novo?</td>
+    <td>Não.</td><td><b>Sim</b>, na LOA vigente.</td><td><b>Sim</b>, prévio e na dotação própria.</td></tr>
+<tr><td class="rot">Natureza do desembolso</td>
+    <td>Despesa <b>extra</b>orçamentária.</td>
+    <td>Despesa <b>orçamentária</b>.</td>
+    <td>Despesa <b>orçamentária</b> (mas sem VPD na concessão).</td></tr>
+<tr><td class="rot">Elemento próprio</td>
+    <td>Não existe.</td><td><b>92</b>.</td><td>Não existe — classifica-se pelo objeto.</td></tr>
+<tr><td class="rot">Pode ser cancelado?</td>
+    <td>Não processados, sim (bloqueio/cancelamento). Processados, <b>não</b>.</td>
+    <td>Não se aplica — é empenho novo, com regime comum.</td>
+    <td>Não se aplica — o que existe é <b>restituição</b>.</td></tr>
+<tr><td class="rot">Ideia de uma linha</td>
+    <td>O empenho sobrevive ao ano.</td>
+    <td>A dívida sobrevive ao empenho.</td>
+    <td>O gasto vem antes da comprovação.</td></tr>
+</table>
+
+<h3>4.2 As dez trocas que a banca faz</h3>
+
+<table>
+<thead><tr><th style="width:6%">#</th><th style="width:44%">O que a assertiva diz</th><th>Por que está errado</th></tr></thead>
+<tr><td>1</td><td>“RP <b>são</b> as despesas empenhadas <b>e liquidadas</b>…”</td>
+    <td>O art. 36 exige apenas <b>empenhadas e não pagas</b>. Só é aceitável se o verbo for “englobam”.</td></tr>
+<tr><td>2</td><td>“RPNP <b>a liquidar</b>: ocorreu o fato gerador, mas não a liquidação.”</td>
+    <td>Descrição do <b>em liquidação</b>. Rótulo trocado.</td></tr>
+<tr><td>3</td><td>“Serviço já prestado <b>não</b> pode ir para RP não processados.”</td>
+    <td>Pode — é o RPNP <b>em liquidação</b>.</td></tr>
+<tr><td>4</td><td>“Processados são os que <b>têm caixa</b>; não processados, os que não têm.”</td>
+    <td>O critério é a <b>liquidação</b>, jamais a disponibilidade de caixa.</td></tr>
+<tr><td>5</td><td>“O pagamento de RP é despesa <b>orçamentária</b>.”</td>
+    <td>É <b>extra</b>orçamentária; orçamentária foi a inscrição, no ano do empenho.</td></tr>
+<tr><td>6</td><td>“Na inscrição de RP é <b>vedado</b> registrar beneficiários específicos.”</td>
+    <td>O art. 92 manda registrar <b>por exercício e por credor</b>.</td></tr>
+<tr><td>7</td><td>“Despesa empenhada perto do fim do ano <b>deverá</b> ser inscrita em RP.”</td>
+    <td><b>Poderá</b>, atendidos os requisitos — e RPNP depende de indicação do ordenador.</td></tr>
+<tr><td>8</td><td>“Cabe à autoridade competente reconhecer a obrigação de pagamento dos <b>RP</b>.”</td>
+    <td>Regra de <b>DEA</b>. RP processados são inscritos automaticamente.</td></tr>
+<tr><td>9</td><td>“Servidor em <b>alcance</b> pode receber suprimento <b>desde que</b>…”</td>
+    <td>Alcance é vedação <b>absoluta</b>. A única vedação com exceção é a da guarda do material.</td></tr>
+<tr><td>10</td><td>“Saldo não aplicado de suprimento constitui <b>obrigatoriamente</b> receita orçamentária.”</td>
+    <td>Só se recolhido <b>após</b> o encerramento; no mesmo exercício é <b>anulação de despesa</b>.</td></tr>
+</table>
+
+<h3>4.3 Vinte afirmações verdadeiras para revisão rápida</h3>
+
+<ol>
+<li>Restos a pagar são despesas <b>empenhadas e não pagas até 31/12</b>, processadas ou não processadas.</li>
+<li><b>RPP = liquidado − pago</b>; <b>RPNP = empenhado − liquidado − empenhos cancelados</b>.</li>
+<li><b>Processado</b> = já passou pelo processo (empenho + liquidação); falta só pagar.</li>
+<li><b>RPNP em liquidação</b> = o credor já entregou, o direito está em fase de verificação.</li>
+<li><b>RPNP a liquidar</b> = o fato gerador ainda não ocorreu.</li>
+<li>RP são <b>dívida flutuante</b> e registram-se <b>por exercício e por credor</b> (art. 92).</li>
+<li>Inscrição de RP → <b>receita extraorçamentária</b>; pagamento de RP → <b>despesa extraorçamentária</b>.</li>
+<li>Inscrição de <b>RPNP</b> depende de <b>indicação do ordenador de despesas</b> (art. 68, § 1º, do Dec. 93.872).</li>
+<li>O empenho não liquidado é anulado em 31/12, <b>salvo</b> as quatro hipóteses do art. 35 do Dec. 93.872.</li>
+<li>RPNP não liquidados são <b>bloqueados em 30/06 do 2º ano</b> subsequente à inscrição, com exceções
+    (Saúde, RP 6 desde 2016, RP 7 desde 2020).</li>
+<li><b>RP processados não podem ser cancelados</b> (Parecer PGFN nº 401/2000: enriquecimento ilícito e
+    moralidade).</li>
+<li>Empenhos de créditos <b>plurianuais</b> não liquidados só viram RP no <b>último ano de vigência</b>
+    (art. 36, parágrafo único — vigente, embora superado na prática).</li>
+<li>Anulação de despesa <b>no exercício</b> reverte à dotação; <b>após</b>, é receita orçamentária pelo art. 38 —
+    mas o MCASP <b>excepciona o cancelamento de RP</b>.</li>
+<li>RP integram a <b>programação financeira do exercício em curso</b> (art. 15 do Dec. 93.872).</li>
+<li>O art. 42 da LRF veda contrair, nos <b>dois últimos quadrimestres</b> do mandato, obrigação sem
+    disponibilidade de caixa.</li>
+<li><b>DEA</b> = despesa não processada na época própria, RP com <b>prescrição interrompida</b> ou compromisso
+    reconhecido após o encerramento (art. 37).</li>
+<li>DEA é <b>despesa orçamentária</b>, exige <b>novo empenho</b> no orçamento vigente e tem <b>elemento 92</b>.</li>
+<li>O reconhecimento da obrigação de DEA cabe à <b>autoridade competente para empenhar</b> a despesa.</li>
+<li>Suprimento de fundos é despesa <b>orçamentária</b> (três estágios), mas a <b>VPD</b> só é registrada na
+    <b>prestação de contas</b>.</li>
+<li>Restituição de suprimento: <b>mesmo exercício</b> → anulação de despesa; <b>exercício seguinte</b> → receita
+    orçamentária (1.9.2.2.99.0.0).</li>
+</ol>
+
+<h3>4.4 Nota sobre duas imprecisões do material original</h3>
+
+<div class="box ouro">
+<h5>Vale conferir na hora de responder</h5>
+<p><b>1. Artigo da regra de ouro.</b> Nos comentários de <span class="qref">Q6</span> e <span class="qref">Q11</span>
+o material atribui a regra “pertencem ao exercício financeiro: I — as receitas nele arrecadadas; II — as despesas
+nele legalmente empenhadas” ora ao art. 36, ora ao art. 34 da Lei nº 4.320/1964. Ela está no <b>art. 35</b>.
+O art. 34 dispõe que o exercício financeiro coincidirá com o ano civil; o art. 36 trata dos restos a pagar.
+O conteúdo dos comentários está correto; apenas o número do artigo saiu trocado.</p>
+<p style="margin-bottom:0"><b>2. Enunciado com erro da própria banca.</b> Em <span class="qref">Q21</span> e
+<span class="qref">Q22</span> (CGDF 2023), a tabela do CEBRASPE traz “despesas empenhadas e <b>líquidas</b>”
+onde deveria constar “<b>liquidadas</b>”. O material sinaliza o ponto — e ele importa: sem essa leitura, as
+fórmulas não fecham.</p>
+</div>
+
+<div class="rodape-doc">
+<b>Fontes normativas citadas.</b> Lei nº 4.320/1964 (arts. 34, 35, 36, 37, 38, 60, 68, 69, 92 e 103) ·
+Decreto nº 93.872/1986 (arts. 15, 22, 27, 30, 35, 45, 45-A, 46, 47, 68 e 68-A) · Decreto nº 5.355/2005 ·
+Decreto nº 5.992/2006 · Decreto nº 6.370/2008 (com a redação do Decreto nº 12.143/2024) ·
+Decreto nº 10.241/2020 · LC nº 101/2000 (art. 42) · CF/1988 (arts. 37, 49, IX, 71, 166, § 17 — EC nº 126/2022,
+167, II, e 168) · Lei nº 14.133/2021 (arts. 75 e 182) · Portaria MF nº 1.344/2023 · IN RFB nº 1.234/2012 ·
+IN-STN nº 10/1991 · Parecer PGFN nº 401/2000 · MCASP (9ª e 11ª edições).<br>
+<b>Base de calibragem.</b> 50 questões comentadas e ~40 questões intercaladas na teoria da Aula 10 —
+CEBRASPE/CESPE, FCC, FGV, VUNESP e IADES, de 2016 a 2025.
+</div>
+
+</body>
+</html>
