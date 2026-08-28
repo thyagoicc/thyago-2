@@ -14,10 +14,24 @@ banca CEBRASPE). A disciplina vale **10 dos 60 itens** da prova objetiva P1, no 
 
 ### Tópicos cobertos
 
-1. Estatística descritiva e análise exploratória de dados (gráficos, tabelas, medidas de posição,
-   dispersão, assimetria e curtose)
-2. Probabilidade — definições básicas, axiomas, probabilidade condicional e independência
-3. Amostragem — aleatória simples, estratificada, sistemática e por conglomerados
+As seções do material mapeiam um a um os itens numerados do programa (item 14.2.3 do edital):
+
+| Item do edital | Seções |
+|---|---|
+| 1 · Estatística descritiva | 1.1 a 1.3 |
+| 2 · Análise exploratória de dados | 1.4 e 1.11 |
+| 2.1 · Gráficos, diagramas, tabelas | 1.3 e 1.4 |
+| 2.1 · Medidas de posição | 1.6 e 1.7 |
+| 2.1 · Medidas de dispersão | 1.8 |
+| 2.1 · Assimetria e curtose | 1.9 e 1.10 |
+| 3 e 3.1 · Probabilidade, definições e axiomas | 2.1 a 2.4 |
+| 3.2 · Condicional e independência | 2.5 a 2.8 |
+| 4 e 4.1 · Amostragem (as quatro técnicas) | 3.1 a 3.10 |
+
+Cada subtópico traz teoria detalhada, quadros comparativos e **exemplos resolvidos passo a passo**.
+Toda a estatística descritiva é desenvolvida sobre uma **tabela mestre única** — média, mediana,
+moda de Czuber, quartis, percentis, variância, CV, três coeficientes de assimetria e curtose
+percentílica nascem do mesmo conjunto de dados.
 
 ### Base empírica
 
@@ -38,7 +52,7 @@ SEFAZ/RN 2025, TC/DF 2024, SEEC/DF 2019, ANEEL 2025 e TC/DF 2020.
 
 ### Arquivos
 
-- `Estatistica e Probabilidade - SEFAZ AL 2026.pdf` — material final (24 páginas)
+- `Estatistica e Probabilidade - SEFAZ AL 2026.pdf` — material final (42 páginas)
 - `fonte-estatistica-sefaz-al-2026.html` — fonte do PDF (renderizado via Chromium headless)
 
 ### Observações
@@ -50,7 +64,11 @@ SEFAZ/RN 2025, TC/DF 2024, SEEC/DF 2019, ANEEL 2025 e TC/DF 2020.
 - Um item da SEFAZ/RN 2025 sobre ANOVA foi mantido no levantamento, mas sinalizado como **fora** do
   conteúdo programático de Alagoas.
 - A questão 54 da SEFAZ/RN 2025 (contagem de medidas de dispersão) é comentada com o gabarito oficial
-  e com a ressalva de que a contagem comporta leitura divergente.
+  e com a ressalva de que a contagem comporta leitura divergente. O mesmo vale para o item 19 do
+  ANA 2024, cujo gabarito depende da interpretação do enunciado e não do conceito.
+- A Parte 0 documenta as regras de pontuação a partir do próprio edital (itens 8.2, 8.11.2 e 8.11.4):
+  na P1, **cada item errado subtrai exatamente o que um item certo acrescenta**, o branco vale zero e a
+  nota mínima é 12 pontos líquidos — o que sustenta a estratégia de marcação recomendada.
 
 ---
 
