@@ -19,14 +19,14 @@ As seções do material mapeiam um a um os itens numerados do programa (item 14.
 | Item do edital | Seções |
 |---|---|
 | 1 · Estatística descritiva | 1.1 a 1.3 |
-| 2 · Análise exploratória de dados | 1.4 e 1.11 |
+| 2 · Análise exploratória de dados | 1.1, 1.4 e 1.11 |
 | 2.1 · Gráficos, diagramas, tabelas | 1.3 e 1.4 |
 | 2.1 · Medidas de posição | 1.6 e 1.7 |
 | 2.1 · Medidas de dispersão | 1.8 |
 | 2.1 · Assimetria e curtose | 1.9 e 1.10 |
 | 3 e 3.1 · Probabilidade, definições e axiomas | 2.1 a 2.4 |
-| 3.2 · Condicional e independência | 2.5 a 2.8 |
-| 4 e 4.1 · Amostragem (as quatro técnicas) | 3.1 a 3.10 |
+| 3.2 · Condicional e independência | 2.4 a 2.9 |
+| 4 e 4.1 · Amostragem (as quatro técnicas) | 3.1 a 3.11 |
 
 Cada subtópico traz teoria detalhada, quadros comparativos e **exemplos resolvidos passo a passo**.
 Toda a estatística descritiva é desenvolvida sobre uma **tabela mestre única** — média, mediana,
