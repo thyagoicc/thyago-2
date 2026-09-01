@@ -99,6 +99,29 @@ var{ font-style:italic; }
 .ex .passo{ margin:.35em 0; }
 .ex .passo b{ color:var(--verde); }
 
+/* ---------- FIGURAS ----------
+   Paleta categórica validada (validate_palette.js, modo claro, --pairs all):
+   #2a78d6 / #c98500 / #1baf7a — pior par CVD ΔE 10,6; visão normal ΔE 19,8.
+   O WARN de contraste é atendido pela regra de relevo: toda forma tem rótulo direto.
+   Séries únicas usam o azul da casa; eixos e grades são fios finos recessivos. */
+figure.fig{ margin:.9em 0 1.2em; page-break-inside:avoid; }
+figure.fig svg{ display:block; width:100%; height:auto; }
+figure.fig figcaption{
+  font-family:Helvetica,Arial,sans-serif; font-size:8.1pt; color:var(--suave);
+  margin-top:.4em; text-align:left; line-height:1.45;
+}
+figure.fig figcaption b{ color:var(--tinta); }
+.fig-tit{ font-family:Helvetica,Arial,sans-serif; font-size:8.6pt; font-weight:700; fill:#12181f; }
+.fig-sub{ font-family:Helvetica,Arial,sans-serif; font-size:7.6pt; fill:#4a5560; }
+.fig-lab{ font-family:Helvetica,Arial,sans-serif; font-size:7.4pt; fill:#4a5560; }
+.fig-val{ font-family:Helvetica,Arial,sans-serif; font-size:7.6pt; font-weight:700; fill:#12181f; }
+.fig-eixo{ stroke:#c3ccd6; stroke-width:1; fill:none; }
+.fig-grade{ stroke:#e6ebf0; stroke-width:1; fill:none; }
+.fig-anot{ stroke:#8a6a1f; stroke-width:1; stroke-dasharray:3 3; fill:none; }
+.fig-curva{ stroke:#123a63; stroke-width:2; fill:none; stroke-linejoin:round; stroke-linecap:round; }
+.fig-barra{ fill:#123a63; }
+.fig-neutro{ fill:#e0e6ec; }
+
 /* ---------- QUESTÕES ---------- */
 .q{ border:1px solid var(--linha); border-radius:3px; padding:.7em .85em; margin:.8em 0; font-size:9.2pt; page-break-inside:avoid; }
 .q .cab{ font-family:Helvetica,Arial,sans-serif; font-size:7.8pt; text-transform:uppercase; letter-spacing:.08em; color:#fff; background:var(--suave); display:inline-block; padding:.2em .55em; border-radius:2px; margin-bottom:.5em; }
@@ -575,6 +598,92 @@ relaciona o número de classes ao tamanho da amostra" (CERTO).</p>
   </tbody>
 </table>
 
+<h4>1.4.1 O histograma e o polígono de frequências da tabela mestre</h4>
+
+<p>Os dois gráficos abaixo são construídos com <b>exatamente</b> os números da tabela da seção 1.3.3. Vale
+percorrê-los coluna a coluna, comparando com a tabela: é essa tradução entre tabela e figura que a banca
+cobra quando apresenta um gráfico e pergunta pela mediana ou pela moda.</p>
+
+<figure class="fig">
+<svg viewBox="0 0 520 214" role="img" aria-label="Histograma do ICMS recolhido por 100 contribuintes, com o polígono de frequências sobreposto. A classe de 20 a 30 mil reais concentra 40 contribuintes.">
+  <text class="fig-tit" x="0" y="11">ICMS recolhido por 100 contribuintes — histograma e polígono de frequências</text>
+  <text class="fig-sub" x="0" y="24">frequência absoluta (nº de contribuintes) por classe de R$ mil</text>
+
+  <path class="fig-grade" d="M60 170H500M60 137.5H500M60 105H500M60 72.5H500M60 40H500"/>
+  <path class="fig-eixo" d="M60 170H500M60 40V170"/>
+  <g class="fig-lab" text-anchor="end">
+    <text x="54" y="173">0</text><text x="54" y="140.5">10</text><text x="54" y="108">20</text>
+    <text x="54" y="75.5">30</text><text x="54" y="43">40</text>
+  </g>
+
+  <path class="fig-barra" d="M61 170V157.75Q61 153.75 65 153.75H143Q147 153.75 147 157.75V170Z"/>
+  <path class="fig-barra" d="M149 170V125.25Q149 121.25 153 121.25H231Q235 121.25 235 125.25V170Z"/>
+  <path class="fig-barra" d="M237 170V44Q237 40 241 40H319Q323 40 323 44V170Z"/>
+  <path class="fig-barra" d="M325 170V92.75Q325 88.75 329 88.75H407Q411 88.75 411 92.75V170Z"/>
+  <path class="fig-barra" d="M413 170V125.25Q413 121.25 417 121.25H495Q499 121.25 499 125.25V170Z"/>
+
+  <path d="M104 153.75L192 121.25L280 40L368 88.75L456 121.25" fill="none" stroke="#c98500" stroke-width="2" stroke-linejoin="round"/>
+  <g fill="#c98500" stroke="#ffffff" stroke-width="2">
+    <circle cx="104" cy="153.75" r="4"/><circle cx="192" cy="121.25" r="4"/>
+    <circle cx="280" cy="40" r="4"/><circle cx="368" cy="88.75" r="4"/>
+    <circle cx="456" cy="121.25" r="4"/>
+  </g>
+  <text class="fig-lab" x="280" y="86" text-anchor="middle" fill="#ffffff">40 — classe modal</text>
+  <text class="fig-lab" x="500" y="148" text-anchor="end" fill="#8a6a1f">polígono de frequências</text>
+
+  <g class="fig-lab" text-anchor="middle">
+    <text x="60" y="184">0</text><text x="148" y="184">10</text><text x="236" y="184">20</text>
+    <text x="324" y="184">30</text><text x="412" y="184">40</text><text x="500" y="184">50</text>
+  </g>
+  <text class="fig-lab" x="280" y="202" text-anchor="middle">ICMS recolhido (R$ mil)</text>
+</svg>
+<figcaption><b>Leitura.</b> As barras são <b>justapostas</b> porque a variável é contínua — o eixo não tem
+buracos. O polígono liga os <b>pontos médios</b> do topo das barras e é o que revela a forma: subida rápida
+até a terceira classe e descida mais lenta, ou seja, uma cauda mais longa à direita — <b>assimetria
+positiva</b>, confirmada depois pelos coeficientes da seção 1.9. Só a classe modal recebe rótulo; as demais
+frequências estão na tabela da seção 1.3.3.</figcaption>
+</figure>
+
+<figure class="fig">
+<svg viewBox="0 0 520 220" role="img" aria-label="Ogiva das frequências relativas acumuladas, mostrando a leitura do primeiro quartil em 21,25, da mediana em 27,5 e do terceiro quartil em 36.">
+  <text class="fig-tit" x="0" y="11">A mesma distribuição em ogiva — e como ela entrega os quartis</text>
+  <text class="fig-sub" x="0" y="24">frequência relativa acumulada (%)</text>
+
+  <path class="fig-grade" d="M60 170H500M60 137.5H500M60 105H500M60 72.5H500M60 40H500"/>
+  <path class="fig-eixo" d="M60 170H500M60 40V170"/>
+  <g class="fig-lab" text-anchor="end">
+    <text x="54" y="173">0</text><text x="54" y="140.5">25</text><text x="54" y="108">50</text>
+    <text x="54" y="75.5">75</text><text x="54" y="43">100</text>
+  </g>
+
+  <path class="fig-anot" d="M60 137.5H247M247 137.5V170"/>
+  <path class="fig-anot" d="M60 105H302M302 105V170"/>
+  <path class="fig-anot" d="M60 72.5H377M377 72.5V170"/>
+
+  <path class="fig-curva" d="M60 170L148 163.5L236 144L324 92L412 59.5L500 40"/>
+  <g fill="#123a63" stroke="#ffffff" stroke-width="2">
+    <circle cx="60" cy="170" r="4"/><circle cx="148" cy="163.5" r="4"/><circle cx="236" cy="144" r="4"/>
+    <circle cx="324" cy="92" r="4"/><circle cx="412" cy="59.5" r="4"/><circle cx="500" cy="40" r="4"/>
+  </g>
+
+  <g class="fig-lab" fill="#8a6a1f">
+    <text x="66" y="133">Q₁ · 25%</text><text x="66" y="100">mediana · 50%</text><text x="66" y="68">Q₃ · 75%</text>
+  </g>
+  <g class="fig-val" text-anchor="middle">
+    <text x="247" y="184">21,25</text><text x="302" y="197">27,5</text><text x="377" y="184">36</text>
+  </g>
+  <g class="fig-lab" text-anchor="middle">
+    <text x="60" y="212">0</text><text x="148" y="212">10</text><text x="236" y="212">20</text>
+    <text x="324" y="212">30</text><text x="412" y="212">40</text><text x="500" y="212">50</text>
+  </g>
+</svg>
+<figcaption><b>Leitura.</b> A ogiva é o gráfico das <b>acumuladas</b> e, por isso, <b>nunca decresce</b>.
+Cada separatriz é lida na horizontal: entra-se pela altura desejada (25%, 50%, 75%), caminha-se até a curva e
+desce-se ao eixo. É a versão gráfica da fórmula de interpolação da seção 1.6.3 — e explica por que uma
+questão que traz "a figura apresenta as frequências relativas acumuladas" é, quase sempre, questão de
+quartil.</figcaption>
+</figure>
+
 <div class="box alerta">
   <h5>Classes de amplitudes diferentes: a área é que representa a frequência</h5>
   <p style="margin:0">Quando o histograma tem classes de larguras distintas, a <b>altura</b> da barra deixa
@@ -687,6 +796,46 @@ costuma perguntar não o valor da medida, mas a que família ela pertence.</p>
   <li><b>É robusta:</b> não se altera com outliers.</li>
   <li><b>Existe para variável ordinal</b>, ao contrário da média.</li>
 </ul>
+
+<div class="ex">
+  <h5>Exemplo em dados brutos — toda a descritiva à mão, sem fórmula de classe</h5>
+  <p>Antes de enfrentar a interpolação, é indispensável saber resolver o caso simples: dados soltos, sem
+  agrupamento. ICMS recolhido (R$ mil) por 9 contribuintes:
+  <b>12 · 18 · 15 · 40 · 22 · 18 · 27 · 31 · 18</b>.</p>
+  <div class="passo"><b>Passo 1 — o rol.</b> Ordene: 12 · 15 · <b>18 · 18 · 18</b> · 22 · 27 · 31 · 40.
+  Nada em descritiva se faz antes disso.</div>
+  <div class="passo"><b>Média.</b> Soma = 201; <var>x̄</var> = 201/9 = <b>22,33</b>.</div>
+  <div class="passo"><b>Mediana.</b> <var>n</var> = 9 é ímpar → termo de ordem (9 + 1)/2 = 5.º. O 5.º valor
+  do rol é <b>18</b>. <i>(Se <var>n</var> fosse par, seria a média dos dois centrais.)</i></div>
+  <div class="passo"><b>Moda.</b> O valor 18 aparece três vezes → <var>Mo</var> = <b>18</b>. Distribuição
+  <b>unimodal</b>.</div>
+  <div class="passo"><b>Forma.</b> <var>Mo</var> = 18 ≤ <var>Md</var> = 18 &lt; <var>x̄</var> = 22,33 →
+  <b>assimetria positiva</b>. O responsável é o valor 40, que puxa só a média.</div>
+  <div class="passo"><b>Quartis.</b> <var>Q</var><sub>1</sub> na posição (9 + 1)/4 = 2,5 → média do 2.º com o
+  3.º = (15 + 18)/2 = <b>16,5</b>. <var>Q</var><sub>3</sub> na posição 3(9 + 1)/4 = 7,5 → (27 + 31)/2 =
+  <b>29</b>. <b>AIQ</b> = 29 − 16,5 = <b>12,5</b>.</div>
+  <div class="passo"><b>Amplitude total.</b> 40 − 12 = <b>28</b>.</div>
+  <div class="passo"><b>Variância, pelo atalho.</b> Σ<var>x</var>² = 5.115 →
+  <var>E</var>(<var>X</var>²) = 568,33; <var>x̄</var>² = 498,78 →
+  <var>σ</var>² = <b>69,56</b> (populacional) e <var>σ</var> = <b>8,34</b>.<br>
+  Amostral: Σ(<var>x</var> − <var>x̄</var>)² = 626 → <var>s</var>² = 626/8 = <b>78,25</b> e
+  <var>s</var> = <b>8,85</b>.</div>
+  <div class="passo"><b>CV.</b> 8,85/22,33 = <b>39,6%</b>.</div>
+  <div class="passo"><b>Outliers.</b> 16,5 − 1,5(12,5) = −2,25 e 29 + 1,5(12,5) = 47,75. O máximo é 40 →
+  <b>não há outlier</b>, embora 40 esteja visivelmente afastado. Repare: <i>"parecer atípico" não basta</i> —
+  o critério é numérico.</div>
+</div>
+
+<div class="box">
+  <h5>Uma honestidade sobre quartis em dados brutos</h5>
+  <p style="margin:0">Existem várias convenções de posicionamento de quartis em dados não agrupados
+  (a fórmula (<var>n</var>+1)/4 usada acima, a <var>n</var>/4, a interpolação linear dos softwares
+  estatísticos), e elas produzem valores ligeiramente diferentes. <b>O CEBRASPE evita a controvérsia</b>:
+  em dados brutos, costuma escolher <var>n</var> que caia em posição exata; em dados agrupados, usa a
+  interpolação da fórmula abaixo, que é única. Se um item pedir quartil de um rol pequeno e o resultado
+  ficar entre duas alternativas, é sinal de que você deve rever a leitura do enunciado — não a
+  convenção.</p>
+</div>
 
 <div class="form">
   Dados agrupados em classes: &nbsp;
@@ -895,6 +1044,45 @@ terceiro momento da distribuição, e o edital a cobra nominalmente.</p>
   </tbody>
 </table>
 
+<figure class="fig">
+<svg viewBox="0 0 520 148" role="img" aria-label="Três formas de distribuição lado a lado: assimétrica negativa com cauda à esquerda, simétrica, e assimétrica positiva com cauda à direita, mostrando a ordem de média, mediana e moda em cada caso.">
+  <!-- painel 1 -->
+  <text class="fig-tit" x="0" y="11">Assimétrica negativa</text>
+  <text class="fig-sub" x="0" y="23">cauda longa à esquerda</text>
+  <path class="fig-eixo" d="M12 105H150"/>
+  <path class="fig-curva" d="M12 103C55 98 72 32 100 32C120 32 132 105 150 105"/>
+  <path d="M78 105V112M90 105V112M100 105V112" stroke="#8a6a1f" stroke-width="1.5" fill="none"/>
+  <text class="fig-lab" x="78" y="121" text-anchor="middle" fill="#8a6a1f">x̄</text>
+  <text class="fig-lab" x="90" y="132" text-anchor="middle" fill="#8a6a1f">Md</text>
+  <text class="fig-lab" x="100" y="121" text-anchor="middle" fill="#8a6a1f">Mo</text>
+  <text class="fig-lab" x="12" y="144">média &lt; mediana &lt; moda</text>
+
+  <!-- painel 2 -->
+  <text class="fig-tit" x="177" y="11">Simétrica</text>
+  <text class="fig-sub" x="177" y="23">sem cauda dominante</text>
+  <path class="fig-eixo" d="M189 105H327"/>
+  <path class="fig-curva" d="M189 105C219 105 237 32 258 32C279 32 297 105 327 105"/>
+  <path d="M258 105V112" stroke="#8a6a1f" stroke-width="1.5" fill="none"/>
+  <text class="fig-lab" x="258" y="121" text-anchor="middle" fill="#8a6a1f">Mo = Md = x̄</text>
+  <text class="fig-lab" x="189" y="144">as três coincidem</text>
+
+  <!-- painel 3 -->
+  <text class="fig-tit" x="354" y="11">Assimétrica positiva</text>
+  <text class="fig-sub" x="354" y="23">cauda longa à direita</text>
+  <path class="fig-eixo" d="M366 105H504"/>
+  <path class="fig-curva" d="M366 105C376 105 386 32 409 32C432 32 449 98 504 103"/>
+  <path d="M409 105V112M421 105V112M433 105V112" stroke="#8a6a1f" stroke-width="1.5" fill="none"/>
+  <text class="fig-lab" x="409" y="121" text-anchor="middle" fill="#8a6a1f">Mo</text>
+  <text class="fig-lab" x="421" y="132" text-anchor="middle" fill="#8a6a1f">Md</text>
+  <text class="fig-lab" x="433" y="121" text-anchor="middle" fill="#8a6a1f">x̄</text>
+  <text class="fig-lab" x="366" y="144">moda &lt; mediana &lt; média</text>
+</svg>
+<figcaption><b>Leitura.</b> Em cada painel, a <b>moda</b> está sob o pico, e a <b>média</b> é sempre a que
+mais se desloca na direção da cauda — a mediana fica no meio do caminho. É por isso que basta enxergar de que
+lado está a cauda para ordenar as três medidas, sem calcular nada. Repare que a distribuição da tabela mestre
+(figura da seção 1.4.1) é do tipo do <b>painel da direita</b>.</figcaption>
+</figure>
+
 <div class="box alerta">
   <h5>O nome vem da cauda, não da concentração</h5>
   <p style="margin:0">"Assimétrica à direita" significa que <b>a cauda</b> se estende para a direita — e
@@ -958,6 +1146,32 @@ esguio e alto. <b>Plati</b> — de <i>platýs</i>, "plano": plataforma, achatada
 normal, no meio-termo. <b>Atenção ao referencial:</b> alguns enunciados dão o coeficiente
 <var>β</var><sub>2</sub> centrado em 3; outros dão o <i>excesso de curtose</i>, centrado em 0. Leia com
 cuidado qual dos dois o item usa — a inversão do referencial é armadilha frequente.</p>
+
+<figure class="fig">
+<svg viewBox="0 0 520 140" role="img" aria-label="Três curvas de curtose lado a lado: leptocúrtica com pico alto e estreito, mesocúrtica de referência, e platicúrtica achatada e larga.">
+  <text class="fig-tit" x="0" y="11">Leptocúrtica</text>
+  <text class="fig-sub" x="0" y="23">β₂ &gt; 3 · pico alto, caudas pesadas</text>
+  <path class="fig-eixo" d="M12 105H150"/>
+  <path class="fig-curva" d="M12 105C50 105 68 25 81 25C94 25 112 105 150 105"/>
+  <text class="fig-lab" x="12" y="126">mais valores extremos que a normal</text>
+
+  <text class="fig-tit" x="177" y="11">Mesocúrtica</text>
+  <text class="fig-sub" x="177" y="23">β₂ = 3 · a curva normal</text>
+  <path class="fig-eixo" d="M189 105H327"/>
+  <path class="fig-curva" d="M189 105C217 104 235 42 258 42C281 42 299 104 327 105"/>
+  <text class="fig-lab" x="189" y="126">é a referência de comparação</text>
+
+  <text class="fig-tit" x="354" y="11">Platicúrtica</text>
+  <text class="fig-sub" x="354" y="23">β₂ &lt; 3 · achatada, caudas leves</text>
+  <path class="fig-eixo" d="M366 105H504"/>
+  <path class="fig-curva" d="M366 100C386 97 399 62 435 62C471 62 484 97 504 100"/>
+  <text class="fig-lab" x="366" y="126">dados mais espalhados</text>
+</svg>
+<figcaption><b>Leitura.</b> As três curvas têm a mesma área (probabilidade total 1). O que muda é a
+<b>concentração no pico</b> e, como consequência, <b>o peso das caudas</b> — e é o peso das caudas, não a
+altura do pico, o que a curtose de fato mede. Em auditoria isso importa: uma distribuição leptocúrtica de
+valores de nota fiscal significa <b>mais outliers do que o esperado</b>.</figcaption>
+</figure>
 
 <div class="form">
   <b>Coeficiente percentílico de curtose:</b> &nbsp;
@@ -1023,6 +1237,52 @@ máximo.</p>
   limites; além deles, os pontos são plotados individualmente como <b>outliers</b>.</li>
 </ul>
 
+<figure class="fig">
+<svg viewBox="0 0 520 150" role="img" aria-label="Boxplot anotado da tabela mestre: mínimo zero, primeiro quartil 21,25, mediana 27,5, terceiro quartil 36, máximo 50, e limite de outlier em 58,1.">
+  <text class="fig-tit" x="0" y="11">Anatomia do boxplot — a distribuição da tabela mestre</text>
+  <text class="fig-sub" x="0" y="23">ICMS recolhido (R$ mil)</text>
+
+  <!-- colchete da AIQ -->
+  <path class="fig-anot" d="M222 40V33H328V40"/>
+  <text class="fig-lab" x="275" y="30" text-anchor="middle" fill="#8a6a1f">AIQ = Q₃ − Q₁ = 14,75</text>
+
+  <!-- bigodes -->
+  <path class="fig-eixo" d="M70 72H222M328 72H428" stroke="#123a63" stroke-width="1.5"/>
+  <path class="fig-eixo" d="M70 60V84M428 60V84" stroke="#123a63" stroke-width="1.5"/>
+  <!-- caixa: 50% centrais -->
+  <rect x="222" y="52" width="106" height="40" rx="3" fill="#dfe7ef" stroke="#123a63" stroke-width="1.5"/>
+  <!-- mediana -->
+  <path d="M267 52V92" stroke="#123a63" stroke-width="3" fill="none"/>
+  <text class="fig-lab" x="275" y="48" text-anchor="middle" fill="#12181f">50% centrais dos dados</text>
+
+  <!-- limite de outlier -->
+  <path class="fig-anot" d="M487 45V100"/>
+  <text class="fig-lab" x="518" y="112" text-anchor="end" fill="#8a6a1f">Q₃ + 1,5·AIQ</text>
+  <text class="fig-lab" x="518" y="122" text-anchor="end" fill="#8a6a1f">= 58,1</text>
+
+  <!-- rótulos dos cinco números, escalonados para não colidir -->
+  <g class="fig-val" text-anchor="middle">
+    <text x="70" y="106">0</text>
+    <text x="222" y="106">21,25</text>
+    <text x="267" y="120">27,5</text>
+    <text x="328" y="106">36</text>
+    <text x="428" y="106">50</text>
+  </g>
+  <g class="fig-lab" text-anchor="middle">
+    <text x="70" y="116">mín</text>
+    <text x="222" y="116">Q₁</text>
+    <text x="267" y="130">mediana</text>
+    <text x="328" y="116">Q₃</text>
+    <text x="428" y="116">máx</text>
+  </g>
+  <text class="fig-lab" x="0" y="146">A mediana está mais próxima de Q₁ e o bigode direito é mais longo → assimetria positiva.</text>
+</svg>
+<figcaption><b>Leitura.</b> O traço grosso dentro da caixa é a <b>mediana</b>, jamais a média — item que
+diga o contrário é errado. Como o máximo observado (50) fica <b>aquém</b> do limite de 58,1, este conjunto
+<b>não tem outliers</b>. E a assimetria se lê pela geometria: caixa deslocada para a esquerda e bigode
+direito mais longo é a assinatura da assimetria positiva já confirmada pelos coeficientes.</figcaption>
+</figure>
+
 <div class="form">
   Limite inferior = <var>Q</var><sub>1</sub> − 1,5 × AIQ &nbsp;&nbsp;·&nbsp;&nbsp;
   Limite superior = <var>Q</var><sub>3</sub> + 1,5 × AIQ
@@ -1058,7 +1318,30 @@ máximo.</p>
 distribuição <i>e</i> permite recuperar cada dado — logo, permite calcular mediana e quartis diretamente do
 gráfico, o que o histograma não permite.</p>
 
-<h3>1.12 Questões reais comentadas — Tópico 1</h3>
+<h3>1.12 Teste rápido — Tópico 1</h3>
+
+<p>Oito itens no formato da prova, escritos sobre os pontos que a banca mais explora. Julgue CERTO ou ERRADO
+antes de ver o gabarito.</p>
+
+<table>
+  <thead><tr><th style="width:6%">#</th><th>Item</th><th style="width:9%">C/E</th><th style="width:34%">Por quê</th></tr></thead>
+  <tbody>
+    <tr><td class="rot">1</td><td>O coeficiente de variação é expresso na mesma unidade dos dados.</td><td><b>E</b></td><td>É <b>adimensional</b> — é essa a razão de existir</td></tr>
+    <tr><td class="rot">2</td><td>Somando-se R$ 100 a todos os valores, o desvio padrão aumenta em R$ 100.</td><td><b>E</b></td><td>Somar constante <b>não altera</b> dispersão alguma</td></tr>
+    <tr><td class="rot">3</td><td>Se todos os valores forem multiplicados por 3, a variância será multiplicada por 9.</td><td><b>C</b></td><td>Var(<var>bx</var>) = <var>b</var>²Var(<var>x</var>)</td></tr>
+    <tr><td class="rot">4</td><td>Em distribuição com assimetria positiva, a média é inferior à mediana.</td><td><b>E</b></td><td>Positiva: moda &lt; mediana &lt; <b>média</b></td></tr>
+    <tr><td class="rot">5</td><td>A amplitude interquartílica é medida de posição, por ser obtida a partir dos quartis.</td><td><b>E</b></td><td>Quartil é posição; a <b>diferença</b> é dispersão</td></tr>
+    <tr><td class="rot">6</td><td>Distribuição com coeficiente de curtose por momento igual a 4,1 é platicúrtica.</td><td><b>E</b></td><td>Maior que 3 é <b>leptocúrtica</b></td></tr>
+    <tr><td class="rot">7</td><td>Distribuição com coeficiente <b>percentílico</b> de curtose igual a 0,31 é platicúrtica.</td><td><b>C</b></td><td>No percentílico a relação é <b>invertida</b>: acima de 0,263 é achatada</td></tr>
+    <tr><td class="rot">8</td><td>Em um histograma com classes de amplitudes diferentes, a altura da barra representa a frequência da classe.</td><td><b>E</b></td><td>Nesse caso é a <b>área</b> que representa a frequência</td></tr>
+  </tbody>
+</table>
+
+<p class="pequeno"><b>Diagnóstico.</b> Menos de 6 acertos: releia as seções 1.8 a 1.10, que concentram
+o que a banca transforma em item. Os pares 6/7 são o teste decisivo — quem acerta os dois domina a única
+armadilha realmente traiçoeira de curtose.</p>
+
+<h3>1.13 Questões reais comentadas — Tópico 1</h3>
 
 <div class="q">
   <div class="cab ceb">CEBRASPE · TC/DF 2024 · Auditor de Controle Externo · Itens 28 a 31</div>
@@ -1276,6 +1559,70 @@ e axiomas. Probabilidade condicional e independência."</p>
   <small>Leis de De Morgan — "não (A ou B)" = "nem A nem B"; "não (A e B)" = "não A ou não B"</small>
 </div>
 
+<figure class="fig">
+<svg viewBox="0 0 560 128" role="img" aria-label="Quatro diagramas de Venn: união de A e B, interseção de A e B, complementar de A, e eventos mutuamente exclusivos.">
+  <defs>
+    <clipPath id="cpB"><circle cx="78" cy="66" r="26"/></clipPath>
+    <mask id="mA">
+      <rect x="6" y="26" width="114" height="84" fill="#ffffff"/>
+      <circle cx="60" cy="66" r="26" fill="#000000"/>
+    </mask>
+  </defs>
+
+  <g transform="translate(0,0)">
+    <text class="fig-tit" x="0" y="11">União &nbsp;A ∪ B</text>
+    <text class="fig-sub" x="0" y="22">ocorre pelo menos um</text>
+    <rect x="6" y="26" width="114" height="84" fill="none" stroke="#c3ccd6"/>
+    <circle cx="42" cy="66" r="26" fill="#2a78d6" fill-opacity="0.28" stroke="#2a78d6" stroke-width="1.5"/>
+    <circle cx="78" cy="66" r="26" fill="#c98500" fill-opacity="0.28" stroke="#c98500" stroke-width="1.5"/>
+    <text class="fig-val" x="26" y="70" text-anchor="middle">A</text>
+    <text class="fig-val" x="94" y="70" text-anchor="middle">B</text>
+    <text class="fig-lab" x="10" y="106">Ω</text>
+  </g>
+
+  <g transform="translate(140,0)">
+    <text class="fig-tit" x="0" y="11">Interseção &nbsp;A ∩ B</text>
+    <text class="fig-sub" x="0" y="22">ocorrem ambos</text>
+    <rect x="6" y="26" width="114" height="84" fill="none" stroke="#c3ccd6"/>
+    <circle cx="42" cy="66" r="26" fill="none" stroke="#2a78d6" stroke-width="1.5"/>
+    <circle cx="78" cy="66" r="26" fill="none" stroke="#c98500" stroke-width="1.5"/>
+    <g clip-path="url(#cpB)">
+      <circle cx="42" cy="66" r="26" fill="#2a78d6" fill-opacity="0.45"/>
+    </g>
+    <text class="fig-val" x="24" y="70" text-anchor="middle">A</text>
+    <text class="fig-val" x="96" y="70" text-anchor="middle">B</text>
+    <text class="fig-lab" x="10" y="106">Ω</text>
+  </g>
+
+  <g transform="translate(280,0)">
+    <text class="fig-tit" x="0" y="11">Complementar &nbsp;Aᶜ</text>
+    <text class="fig-sub" x="0" y="22">tudo que não é A</text>
+    <rect x="6" y="26" width="114" height="84" fill="#2a78d6" fill-opacity="0.22" mask="url(#mA)"/>
+    <rect x="6" y="26" width="114" height="84" fill="none" stroke="#c3ccd6"/>
+    <circle cx="60" cy="66" r="26" fill="none" stroke="#2a78d6" stroke-width="1.5"/>
+    <text class="fig-val" x="60" y="70" text-anchor="middle">A</text>
+    <text class="fig-val" x="102" y="40" text-anchor="middle">Aᶜ</text>
+    <text class="fig-lab" x="10" y="106">Ω</text>
+  </g>
+
+  <g transform="translate(420,0)">
+    <text class="fig-tit" x="0" y="11">Mutuamente exclusivos</text>
+    <text class="fig-sub" x="0" y="22">A ∩ B = ∅</text>
+    <rect x="6" y="26" width="114" height="84" fill="none" stroke="#c3ccd6"/>
+    <circle cx="38" cy="66" r="22" fill="#2a78d6" fill-opacity="0.28" stroke="#2a78d6" stroke-width="1.5"/>
+    <circle cx="86" cy="66" r="22" fill="#c98500" fill-opacity="0.28" stroke="#c98500" stroke-width="1.5"/>
+    <text class="fig-val" x="38" y="70" text-anchor="middle">A</text>
+    <text class="fig-val" x="86" y="70" text-anchor="middle">B</text>
+    <text class="fig-lab" x="10" y="106">Ω</text>
+  </g>
+</svg>
+<figcaption><b>Leitura.</b> O quarto painel é o que mais rende item: círculos que <b>não se tocam</b>
+representam eventos que não podem ocorrer juntos — e é exatamente por isso que eles são
+<b>dependentes</b>, não independentes. Independência não tem representação geométrica no diagrama de Venn:
+é uma relação entre <i>áreas</i> (a área da interseção sendo o produto das áreas), e não entre posições.
+Guarde essa frase: <b>exclusividade se vê no desenho; independência, só na conta</b>.</figcaption>
+</figure>
+
 <p>A primeira lei é a que mais aparece: <b>"nenhum dos dois ocorreu"</b> é o complementar da união. É ela que
 justifica, em eventos independentes, escrever <var>P</var>(<var>A<sup>c</sup></var> ∩
 <var>B<sup>c</sup></var>) = [1 − <var>P</var>(<var>A</var>)][1 − <var>P</var>(<var>B</var>)] — fórmula que
@@ -1377,6 +1724,49 @@ deixa de ser <var>Ω</var> e passa a ser <var>B</var>. Dentro desse novo univers
   0,4 ≠ 0,2.</p>
 </div>
 
+<div class="ex">
+  <h5>A tabela de dupla entrada — o formato mais eficiente de treinar condicional</h5>
+  <p>Toda probabilidade condicional pode ser lida diretamente de uma tabela de contingência, sem fórmula.
+  Auditoria de 200 contribuintes, cruzando <b>regime tributário</b> com <b>resultado da fiscalização</b>:</p>
+  <table>
+    <thead><tr><th></th><th class="num">Autuado (<var>D</var>)</th><th class="num">Não autuado</th><th class="num">Total</th></tr></thead>
+    <tbody>
+      <tr><td class="rot">Simples (<var>S</var>)</td><td class="num">24</td><td class="num">96</td><td class="num">120</td></tr>
+      <tr><td class="rot">Lucro real</td><td class="num">36</td><td class="num">44</td><td class="num">80</td></tr>
+      <tr class="total"><td><b>Total</b></td><td class="num"><b>60</b></td><td class="num"><b>140</b></td><td class="num"><b>200</b></td></tr>
+    </tbody>
+  </table>
+  <div class="passo"><b>Marginais</b> (última linha e última coluna, sobre o total geral):
+  <var>P</var>(<var>S</var>) = 120/200 = <b>0,60</b>; <var>P</var>(<var>D</var>) = 60/200 = <b>0,30</b>.</div>
+  <div class="passo"><b>Conjunta</b> (uma célula interna, sobre o total geral):
+  <var>P</var>(<var>S</var> ∩ <var>D</var>) = 24/200 = <b>0,12</b>.</div>
+  <div class="passo"><b>Condicional</b> (uma célula sobre o total <i>da sua linha ou coluna</i>) — é aqui
+  que está a redução do espaço amostral:<br>
+  <var>P</var>(<var>D</var>|<var>S</var>) = 24/<b>120</b> = <b>0,20</b> &nbsp;— dentro do Simples, 20%
+  são autuados;<br>
+  <var>P</var>(<var>S</var>|<var>D</var>) = 24/<b>60</b> = <b>0,40</b> &nbsp;— entre os autuados, 40%
+  são do Simples.</div>
+  <div class="passo"><b>Repare que as duas condicionais são diferentes</b> (0,20 e 0,40), embora partam da
+  mesma célula. Trocar uma pela outra é o erro mais comum de toda a disciplina — e é precisamente o que
+  Bayes serve para converter.</div>
+  <div class="passo"><b>Teste de independência.</b> Se fossem independentes, teríamos
+  <var>P</var>(<var>S</var> ∩ <var>D</var>) = <var>P</var>(<var>S</var>)·<var>P</var>(<var>D</var>) =
+  0,60 × 0,30 = 0,18. Mas o valor observado é 0,12 ≠ 0,18 → <b>são dependentes</b>. Equivalente:
+  <var>P</var>(<var>D</var>|<var>S</var>) = 0,20 ≠ 0,30 = <var>P</var>(<var>D</var>) — <i>ser do Simples
+  reduz a chance de autuação</i>.</div>
+  <div class="passo"><b>União, para fechar:</b> <var>P</var>(<var>S</var> ∪ <var>D</var>) =
+  0,60 + 0,30 − 0,12 = <b>0,78</b>. Conferindo pela contagem: 120 + 60 − 24 = 156, e 156/200 = 0,78 ✓ — a
+  subtração da interseção é o que evita contar duas vezes os 24 que estão nas duas categorias.</div>
+</div>
+
+<div class="box ouro">
+  <h5>A regra de leitura de qualquer tabela de contingência</h5>
+  <p style="margin:0"><b>O denominador denuncia o tipo de probabilidade.</b> Dividiu pelo <b>total
+  geral</b> → conjunta ou marginal. Dividiu pelo <b>total de uma linha ou coluna</b> → condicional. Se você
+  souber apenas isso, resolve qualquer item construído sobre tabela de dupla entrada — e o CEBRASPE usa
+  esse formato com frequência porque ele permite testar quatro conceitos com um único quadro.</p>
+</div>
+
 <h3>2.5 Independência</h3>
 
 <p>Três definições equivalentes — provar uma prova as demais:</p>
@@ -1457,6 +1847,54 @@ de <var>Ω</var> (exclusivos e exaustivos), todos com probabilidade positiva. En
   falsos alarmes. Esse raciocínio é o coração de qualquer item de Bayes em concurso fiscal.</div>
 </div>
 
+<figure class="fig">
+<svg viewBox="0 0 570 210" role="img" aria-label="Árvore de probabilidade da malha fina: 5 por cento das declarações são inconsistentes, das quais 90 por cento são acusadas; 95 por cento são corretas, das quais 8 por cento são acusadas. Os dois caminhos que levam à acusação somam 0,121.">
+  <text class="fig-tit" x="0" y="11">A árvore da malha fina — dois caminhos levam à acusação</text>
+
+  <!-- ramos nível 1 -->
+  <path class="fig-eixo" d="M40 105L150 52M40 105L150 158" stroke="#4a5560"/>
+  <!-- ramos nível 2 -->
+  <path class="fig-eixo" d="M182 52L300 30M182 52L300 78" stroke="#4a5560"/>
+  <path class="fig-eixo" d="M182 158L300 130M182 158L300 178" stroke="#4a5560"/>
+
+  <circle cx="34" cy="105" r="5" fill="#123a63"/>
+  <text class="fig-lab" x="26" y="122" text-anchor="middle">declaração</text>
+
+  <text class="fig-val" x="166" y="56" text-anchor="middle">I</text>
+  <text class="fig-val" x="166" y="162" text-anchor="middle">Iᶜ</text>
+  <text class="fig-lab" x="150" y="42" text-anchor="end" fill="#8a6a1f">P(I) = 0,05</text>
+  <text class="fig-lab" x="150" y="178" text-anchor="end" fill="#8a6a1f">P(Iᶜ) = 0,95</text>
+  <text class="fig-lab" x="96" y="70" text-anchor="middle">inconsistente</text>
+  <text class="fig-lab" x="96" y="148" text-anchor="middle">correta</text>
+
+  <text class="fig-lab" x="240" y="30" text-anchor="middle" fill="#8a6a1f">0,90</text>
+  <text class="fig-lab" x="240" y="76" text-anchor="middle" fill="#8a6a1f">0,10</text>
+  <text class="fig-lab" x="240" y="130" text-anchor="middle" fill="#8a6a1f">0,08</text>
+  <text class="fig-lab" x="240" y="176" text-anchor="middle" fill="#8a6a1f">0,92</text>
+
+  <!-- folhas: os dois caminhos de acusação recebem destaque e rótulo -->
+  <rect x="304" y="18" width="118" height="22" rx="3" fill="#c98500" fill-opacity="0.22" stroke="#c98500" stroke-width="1.5"/>
+  <text class="fig-val" x="363" y="33" text-anchor="middle">acusada · 0,045</text>
+  <text class="fig-lab" x="308" y="68">não acusada · 0,005</text>
+  <rect x="304" y="118" width="118" height="22" rx="3" fill="#c98500" fill-opacity="0.22" stroke="#c98500" stroke-width="1.5"/>
+  <text class="fig-val" x="363" y="133" text-anchor="middle">acusada · 0,076</text>
+  <text class="fig-lab" x="308" y="182">não acusada · 0,874</text>
+
+  <!-- chave somando os dois caminhos destacados -->
+  <path class="fig-anot" d="M428 29H440V129H428"/>
+  <text class="fig-val" x="448" y="66">P(A) = 0,045 + 0,076</text>
+  <text class="fig-val" x="448" y="80">= 0,121</text>
+  <text class="fig-lab" x="448" y="92">probabilidade total</text>
+  <text class="fig-val" x="448" y="112">P(I|A) = 0,045 / 0,121</text>
+  <text class="fig-val" x="448" y="126">≈ 37,2%</text>
+</svg>
+<figcaption><b>Leitura.</b> Multiplique <b>ao longo</b> de cada caminho (0,05 × 0,90 = 0,045) e some
+<b>entre</b> os caminhos que levam ao evento observado (0,045 + 0,076 = 0,121). Bayes é apenas a razão entre
+um caminho e a soma — nada além disso. E a figura torna visível o efeito da taxa-base: o ramo inferior é tão
+mais largo que, mesmo com apenas 8% de falso positivo, ele <b>contribui com mais acusações</b> (0,076) do
+que o ramo das declarações realmente inconsistentes (0,045).</figcaption>
+</figure>
+
 <h3>2.7 Variáveis aleatórias — o mínimo que o programa exige</h3>
 
 <p>O edital de Alagoas não lista distribuições nominadas, mas os itens de "definições básicas" trabalham com
@@ -1527,7 +1965,29 @@ uma variável de suporte {−2, −1, 0, 1, 2} (ERRADO).</p>
   só é possível se houver covariância <b>negativa</b> em algum par. Perceber isso já elimina três
   alternativas.</div>
 </div>
-<h3>2.8 Questões reais comentadas — Tópico 2</h3>
+
+<h3>2.8 Teste rápido — Tópico 2</h3>
+
+<p>Oito itens no formato da prova. Julgue antes de olhar o gabarito.</p>
+
+<table>
+  <thead><tr><th style="width:6%">#</th><th>Item</th><th style="width:9%">C/E</th><th style="width:34%">Por quê</th></tr></thead>
+  <tbody>
+    <tr><td class="rot">1</td><td>Se <var>A</var> e <var>B</var> são mutuamente exclusivos e ambos têm probabilidade positiva, então são independentes.</td><td><b>E</b></td><td>São necessariamente <b>dependentes</b></td></tr>
+    <tr><td class="rot">2</td><td>A regra <var>P</var>(<var>A</var>∪<var>B</var>) = <var>P</var>(<var>A</var>) + <var>P</var>(<var>B</var>) é um dos axiomas de Kolmogorov.</td><td><b>E</b></td><td>O axioma exige exclusividade; a regra geral subtrai a interseção — e é <b>teorema</b>, não axioma</td></tr>
+    <tr><td class="rot">3</td><td>Se <var>A</var> e <var>B</var> são independentes, <var>P</var>(<var>A</var>|<var>B</var>) = <var>P</var>(<var>A</var>).</td><td><b>C</b></td><td>É uma das definições equivalentes</td></tr>
+    <tr><td class="rot">4</td><td>Para variável aleatória contínua <var>X</var>, <var>P</var>(<var>X</var> ≤ 3) &gt; <var>P</var>(<var>X</var> &lt; 3).</td><td><b>E</b></td><td>São <b>iguais</b>: <var>P</var>(<var>X</var> = 3) = 0</td></tr>
+    <tr><td class="rot">5</td><td>Probabilidade igual a zero implica que o evento é impossível.</td><td><b>E</b></td><td>Falso no caso contínuo</td></tr>
+    <tr><td class="rot">6</td><td>Se <var>X</var> e <var>Y</var> têm correlação nula, então são independentes.</td><td><b>E</b></td><td>Correlação zero exclui só relação <b>linear</b></td></tr>
+    <tr><td class="rot">7</td><td>Sendo <var>X</var> e <var>Y</var> independentes, Var(<var>X</var> − <var>Y</var>) = Var(<var>X</var>) − Var(<var>Y</var>).</td><td><b>E</b></td><td>As variâncias <b>somam</b> também na diferença</td></tr>
+    <tr><td class="rot">8</td><td>Em uma tabela de dupla entrada, dividir a célula pelo total da sua linha produz uma probabilidade condicional.</td><td><b>C</b></td><td>O denominador denuncia o tipo</td></tr>
+  </tbody>
+</table>
+
+<p class="pequeno"><b>Diagnóstico.</b> Os itens 1, 5 e 6 são as três "recíprocas falsas" da disciplina —
+afirmações que parecem simétricas e não são. Se você errou algum deles, releia as seções 2.3 e 2.7 antes de
+seguir.</p>
+<h3>2.9 Questões reais comentadas — Tópico 2</h3>
 
 <div class="q">
   <div class="cab ceb">CEBRASPE · SUSEP 2025 · Item 16</div>
@@ -1681,7 +2141,7 @@ uma variável de suporte {−2, −1, 0, 1, 2} (ERRADO).</p>
 
 <div class="q">
   <div class="cab ceb">CEBRASPE · BCB 2024 · Itens 27, 28, 32, 33 e 34</div>
-  <div class="txt">Além da tabela de <var>X</var> (seção 1.12), o caderno traz <var>V</var> e <var>W</var>,
+  <div class="txt">Além da tabela de <var>X</var> (seção 1.13), o caderno traz <var>V</var> e <var>W</var>,
   variáveis <b>contínuas e mutuamente independentes</b>, com <var>P</var>(<var>V</var> ≤ 0) = 0,3 e
   <var>P</var>(<var>W</var> ≤ 0) = 0,7.</div>
   <div class="enun"><b>27</b> — <var>P</var>(<var>X</var> = 1) = 0,2.<br>
@@ -2018,7 +2478,139 @@ vizinhos se parecem), a técnica perde muita precisão.</p>
   precisão" do quadro comparativo seguinte.</p>
 </div>
 
+<div class="box">
+  <h5>Por que conglomerados perdem precisão — a correlação intraclasse</h5>
+  <p style="margin:0">Elementos do mesmo conglomerado <b>se parecem</b>: vizinhos têm renda parecida,
+  empresas do mesmo município enfrentam a mesma fiscalização. Essa semelhança interna é medida pela
+  <b>correlação intraclasse</b>. Quanto maior ela for, <b>menos informação nova</b> cada elemento adicional
+  do mesmo conglomerado traz — entrevistar o segundo morador de um domicílio acrescenta bem menos que
+  entrevistar um morador de outro domicílio. No limite, se todos dentro do conglomerado fossem idênticos,
+  observar 30 deles valeria tanto quanto observar <b>um</b>.<br>
+  É por isso que uma amostra por conglomerados de tamanho 1.000 pode ter a precisão de uma AAS de 300 — e é
+  daí que vem o <b>efeito do desenho</b>. A estratificada faz o movimento oposto: como os estratos são
+  homogêneos por dentro e <i>diferentes entre si</i>, garantir presença de todos elimina uma fonte inteira
+  de variabilidade.</p>
+</div>
+
 <h3>3.9 O quadro que decide os itens de amostragem</h3>
+
+<figure class="fig">
+<svg viewBox="0 0 580 330" role="img" aria-label="Esquema das quatro técnicas de amostragem sobre a mesma população de 18 elementos: aleatória simples com sorteio disperso, sistemática com intervalo fixo, estratificada com sorteio dentro de cada um dos três estratos, e por conglomerados com um grupo inteiro selecionado.">
+  <g transform="translate(0,0)">
+    <text class="fig-tit" x="0" y="12">1 · Aleatória simples</text>
+    <text class="fig-sub" x="0" y="24">sorteiam-se os elementos, um a um</text>
+    <g fill="#e0e6ec">
+      <rect x="0" y="34" width="18" height="18" rx="2"/><rect x="44" y="34" width="18" height="18" rx="2"/>
+      <rect x="66" y="34" width="18" height="18" rx="2"/><rect x="110" y="34" width="18" height="18" rx="2"/>
+      <rect x="0" y="56" width="18" height="18" rx="2"/><rect x="22" y="56" width="18" height="18" rx="2"/>
+      <rect x="66" y="56" width="18" height="18" rx="2"/><rect x="88" y="56" width="18" height="18" rx="2"/>
+      <rect x="110" y="56" width="18" height="18" rx="2"/><rect x="22" y="78" width="18" height="18" rx="2"/>
+      <rect x="44" y="78" width="18" height="18" rx="2"/><rect x="66" y="78" width="18" height="18" rx="2"/>
+      <rect x="88" y="78" width="18" height="18" rx="2"/>
+    </g>
+    <g fill="#2a78d6">
+      <rect x="22" y="34" width="18" height="18" rx="2"/><rect x="88" y="34" width="18" height="18" rx="2"/>
+      <rect x="44" y="56" width="18" height="18" rx="2"/><rect x="0" y="78" width="18" height="18" rx="2"/>
+      <rect x="110" y="78" width="18" height="18" rx="2"/>
+    </g>
+    <rect x="140" y="34" width="12" height="12" rx="2" fill="#2a78d6"/>
+    <text class="fig-lab" x="158" y="44">sorteado</text>
+    <rect x="140" y="52" width="12" height="12" rx="2" fill="#e0e6ec"/>
+    <text class="fig-lab" x="158" y="62">não sorteado</text>
+    <text class="fig-lab" x="0" y="114">Todo subconjunto de tamanho n tem a mesma</text>
+    <text class="fig-lab" x="0" y="126">chance. Sem estrutura: o sorteio é disperso.</text>
+  </g>
+
+  <g transform="translate(300,0)">
+    <text class="fig-tit" x="0" y="12">2 · Sistemática</text>
+    <text class="fig-sub" x="0" y="24">sorteia-se só o primeiro; depois, de k em k</text>
+    <g fill="#e0e6ec">
+      <rect x="0" y="34" width="18" height="18" rx="2"/><rect x="44" y="34" width="18" height="18" rx="2"/>
+      <rect x="66" y="34" width="18" height="18" rx="2"/><rect x="110" y="34" width="18" height="18" rx="2"/>
+      <rect x="0" y="56" width="18" height="18" rx="2"/><rect x="44" y="56" width="18" height="18" rx="2"/>
+      <rect x="66" y="56" width="18" height="18" rx="2"/><rect x="110" y="56" width="18" height="18" rx="2"/>
+      <rect x="0" y="78" width="18" height="18" rx="2"/><rect x="44" y="78" width="18" height="18" rx="2"/>
+      <rect x="66" y="78" width="18" height="18" rx="2"/><rect x="110" y="78" width="18" height="18" rx="2"/>
+    </g>
+    <g fill="#2a78d6">
+      <rect x="22" y="34" width="18" height="18" rx="2"/><rect x="88" y="34" width="18" height="18" rx="2"/>
+      <rect x="22" y="56" width="18" height="18" rx="2"/><rect x="88" y="56" width="18" height="18" rx="2"/>
+      <rect x="22" y="78" width="18" height="18" rx="2"/><rect x="88" y="78" width="18" height="18" rx="2"/>
+    </g>
+    <path class="fig-anot" d="M31 102V108H97V102"/>
+    <text class="fig-lab" x="64" y="120" text-anchor="middle" fill="#8a6a1f">salto de k = 3</text>
+    <text class="fig-lab" x="140" y="44">seleciona 1 a cada 3;</text>
+    <text class="fig-lab" x="140" y="56">só o 1.º é sorteado</text>
+    <text class="fig-lab" x="0" y="136">O padrão é regular — e é essa regularidade que</text>
+    <text class="fig-lab" x="0" y="148">gera viés se a lista tiver periodicidade igual a k.</text>
+  </g>
+
+  <g transform="translate(0,172)">
+    <text class="fig-tit" x="0" y="12">3 · Estratificada</text>
+    <text class="fig-sub" x="0" y="24">todos os estratos entram; sorteio dentro de cada um</text>
+    <g>
+      <rect x="0" y="34" width="18" height="18" rx="2" fill="#2a78d6" fill-opacity="0.20"/>
+      <rect x="44" y="34" width="18" height="18" rx="2" fill="#2a78d6" fill-opacity="0.20"/>
+      <rect x="66" y="34" width="18" height="18" rx="2" fill="#2a78d6" fill-opacity="0.20"/>
+      <rect x="110" y="34" width="18" height="18" rx="2" fill="#2a78d6" fill-opacity="0.20"/>
+      <rect x="22" y="34" width="18" height="18" rx="2" fill="#2a78d6"/>
+      <rect x="88" y="34" width="18" height="18" rx="2" fill="#2a78d6"/>
+
+      <rect x="0" y="56" width="18" height="18" rx="2" fill="#c98500" fill-opacity="0.20"/>
+      <rect x="22" y="56" width="18" height="18" rx="2" fill="#c98500" fill-opacity="0.20"/>
+      <rect x="66" y="56" width="18" height="18" rx="2" fill="#c98500" fill-opacity="0.20"/>
+      <rect x="110" y="56" width="18" height="18" rx="2" fill="#c98500" fill-opacity="0.20"/>
+      <rect x="44" y="56" width="18" height="18" rx="2" fill="#c98500"/>
+      <rect x="88" y="56" width="18" height="18" rx="2" fill="#c98500"/>
+
+      <rect x="22" y="78" width="18" height="18" rx="2" fill="#1baf7a" fill-opacity="0.20"/>
+      <rect x="44" y="78" width="18" height="18" rx="2" fill="#1baf7a" fill-opacity="0.20"/>
+      <rect x="88" y="78" width="18" height="18" rx="2" fill="#1baf7a" fill-opacity="0.20"/>
+      <rect x="110" y="78" width="18" height="18" rx="2" fill="#1baf7a" fill-opacity="0.20"/>
+      <rect x="0" y="78" width="18" height="18" rx="2" fill="#1baf7a"/>
+      <rect x="66" y="78" width="18" height="18" rx="2" fill="#1baf7a"/>
+    </g>
+    <text class="fig-lab" x="138" y="47">estrato I</text>
+    <text class="fig-lab" x="138" y="69">estrato II</text>
+    <text class="fig-lab" x="138" y="91">estrato III</text>
+    <text class="fig-lab" x="0" y="114">Nenhum estrato fica de fora. O tom forte é o</text>
+    <text class="fig-lab" x="0" y="126">elemento sorteado dentro do seu próprio estrato.</text>
+  </g>
+
+  <g transform="translate(300,172)">
+    <text class="fig-tit" x="0" y="12">4 · Por conglomerados</text>
+    <text class="fig-sub" x="0" y="24">sorteia-se o grupo inteiro; nem todos entram</text>
+    <g fill="#e0e6ec">
+      <rect x="0" y="34" width="18" height="18" rx="2"/><rect x="22" y="34" width="18" height="18" rx="2"/>
+      <rect x="88" y="34" width="18" height="18" rx="2"/><rect x="110" y="34" width="18" height="18" rx="2"/>
+      <rect x="0" y="56" width="18" height="18" rx="2"/><rect x="22" y="56" width="18" height="18" rx="2"/>
+      <rect x="88" y="56" width="18" height="18" rx="2"/><rect x="110" y="56" width="18" height="18" rx="2"/>
+      <rect x="0" y="78" width="18" height="18" rx="2"/><rect x="22" y="78" width="18" height="18" rx="2"/>
+      <rect x="88" y="78" width="18" height="18" rx="2"/><rect x="110" y="78" width="18" height="18" rx="2"/>
+    </g>
+    <g fill="#2a78d6">
+      <rect x="44" y="34" width="18" height="18" rx="2"/><rect x="66" y="34" width="18" height="18" rx="2"/>
+      <rect x="44" y="56" width="18" height="18" rx="2"/><rect x="66" y="56" width="18" height="18" rx="2"/>
+      <rect x="44" y="78" width="18" height="18" rx="2"/><rect x="66" y="78" width="18" height="18" rx="2"/>
+    </g>
+    <rect x="-4" y="30" width="48" height="70" rx="4" fill="none" stroke="#c3ccd6"/>
+    <rect x="40" y="30" width="48" height="70" rx="4" fill="none" stroke="#c98500" stroke-width="1.5"/>
+    <rect x="84" y="30" width="48" height="70" rx="4" fill="none" stroke="#c3ccd6"/>
+    <text class="fig-lab" x="20" y="112" text-anchor="middle">A</text>
+    <text class="fig-lab" x="64" y="112" text-anchor="middle" fill="#8a6a1f">B</text>
+    <text class="fig-lab" x="108" y="112" text-anchor="middle">C</text>
+    <text class="fig-lab" x="140" y="44" fill="#8a6a1f">B foi sorteado</text>
+    <text class="fig-lab" x="0" y="136">Sorteado o grupo B, todos os seus elementos entram;</text>
+    <text class="fig-lab" x="0" y="148">A e C ficam integralmente de fora.</text>
+  </g>
+</svg>
+<figcaption><b>Leitura.</b> Compare os painéis <b>3 e 4</b>, que é onde a prova mora. Na
+<b>estratificada</b>, as três faixas de cor aparecem todas — nenhum grupo fica de fora — e o sorteio recai
+sobre <i>elementos</i>. Nos <b>conglomerados</b>, dois dos três grupos ficam <b>inteiramente</b> fora, e o
+sorteio recai sobre o <i>grupo</i>. Daí decorre tudo: a dependência entre elementos do mesmo conglomerado, a
+probabilidade condicional igual a 1 do item 41 da CGE/RJ, e o fato de o tamanho da amostra ser contado em
+<b>grupos</b>, não em elementos.</figcaption>
+</figure>
 
 <div class="box ouro">
   <h5>Estratificada × conglomerados</h5>
@@ -2049,7 +2641,29 @@ vizinhos se parecem), a técnica perde muita precisão.</p>
     <tr><td class="rot">Conglomerados</td><td>"sortearam-se <var>m</var> municípios e observaram-se <b>todos</b> os elementos deles"</td><td><b>todos os que estão dentro</b></td></tr>
   </tbody>
 </table>
-<h3>3.10 Questões reais comentadas — Tópico 3</h3>
+
+<h3>3.10 Teste rápido — Tópico 3</h3>
+
+<p>Oito itens no formato da prova, todos construídos sobre confusões que a banca já explorou.</p>
+
+<table>
+  <thead><tr><th style="width:6%">#</th><th>Item</th><th style="width:9%">C/E</th><th style="width:34%">Por quê</th></tr></thead>
+  <tbody>
+    <tr><td class="rot">1</td><td>Na amostragem estratificada, sorteiam-se os estratos e observam-se todos os elementos dos estratos sorteados.</td><td><b>E</b></td><td>Isso é <b>conglomerados</b>; na estratificada todos os estratos entram</td></tr>
+    <tr><td class="rot">2</td><td>Na amostragem por conglomerados, os grupos devem ser internamente homogêneos.</td><td><b>E</b></td><td>Invertido: devem ser <b>heterogêneos</b> por dentro; a homogeneidade interna é o ideal do <b>estrato</b></td></tr>
+    <tr><td class="rot">3</td><td>Na amostragem sistemática, sorteia-se aleatoriamente apenas o primeiro elemento.</td><td><b>C</b></td><td>Depois, de <var>k</var> em <var>k</var></td></tr>
+    <tr><td class="rot">4</td><td>Amostragem por cotas é uma técnica probabilística, pois fixa previamente o número de elementos de cada grupo.</td><td><b>E</b></td><td>Dentro do grupo a escolha é por <b>conveniência</b></td></tr>
+    <tr><td class="rot">5</td><td>Em AAS sem reposição, as observações são independentes.</td><td><b>E</b></td><td>Só a AAS <b>com</b> reposição gera independência</td></tr>
+    <tr><td class="rot">6</td><td>O fator de correção para população finita reduz a variância do estimador da média.</td><td><b>C</b></td><td>É sempre menor que 1</td></tr>
+    <tr><td class="rot">7</td><td>Na alocação de Neyman, o estrato mais numeroso recebe sempre a maior amostra.</td><td><b>E</b></td><td>Recebe amostra quem tem <b>variabilidade</b>; foi o gabarito da Q. 60 da SEFAZ/RJ</td></tr>
+    <tr><td class="rot">8</td><td>Aumentar o tamanho da amostra reduz tanto o erro amostral quanto o não amostral.</td><td><b>E</b></td><td>Reduz apenas o <b>amostral</b></td></tr>
+  </tbody>
+</table>
+
+<p class="pequeno"><b>Diagnóstico.</b> Os itens 1 e 2 são a mesma confusão vista de dois ângulos — se você
+errou qualquer um, volte ao quadro da seção 3.9 e à figura das quatro técnicas antes de seguir para as
+questões reais. Essa é, isoladamente, a distinção mais lucrativa de todo o programa.</p>
+<h3>3.11 Questões reais comentadas — Tópico 3</h3>
 
 <div class="q">
   <div class="cab ceb">CEBRASPE · ANEEL 2025 · Itens 7, 8 e 9</div>
@@ -2135,7 +2749,7 @@ vizinhos se parecem), a técnica perde muita precisão.</p>
   permite — nem todos os elementos de nenhum dos dois grupos estão presentes.<br>
   <b>Núcleo do bloco:</b> em conglomerados, <b>a unidade sorteada é o grupo</b>, e todos os elementos de um
   mesmo grupo entram ou saem <b>juntos</b>. Daí decorrem os três itens: a dependência (item 40, comentado na
-  seção 2.8), a condicional igual a 1 (41) e o tamanho da amostra (42).</div>
+  seção 2.9), a condicional igual a 1 (41) e o tamanho da amostra (42).</div>
 </div>
 
 <div class="q">

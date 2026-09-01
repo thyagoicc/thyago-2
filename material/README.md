@@ -31,7 +31,30 @@ As seções do material mapeiam um a um os itens numerados do programa (item 14.
 Cada subtópico traz teoria detalhada, quadros comparativos e **exemplos resolvidos passo a passo**.
 Toda a estatística descritiva é desenvolvida sobre uma **tabela mestre única** — média, mediana,
 moda de Czuber, quartis, percentis, variância, CV, três coeficientes de assimetria e curtose
-percentílica nascem do mesmo conjunto de dados.
+percentílica nascem do mesmo conjunto de dados. Há ainda um exemplo completo em **dados brutos**
+(rol, sem agrupamento) e uma **tabela de dupla entrada** para probabilidade condicional.
+
+Cada tópico termina com um **teste rápido** de oito itens certo/errado, com gabarito comentado,
+antes das questões reais.
+
+### Figuras
+
+O material traz **8 diagramas** desenhados em SVG, todos derivados dos dados do próprio texto:
+
+| Figura | Onde |
+|---|---|
+| Histograma + polígono de frequências da tabela mestre | 1.4.1 |
+| Ogiva, com a leitura gráfica de Q₁, mediana e Q₃ | 1.4.1 |
+| As três formas de assimetria, com a ordem de média, mediana e moda | 1.9 |
+| As três curvas de curtose | 1.10 |
+| Boxplot anotado, com os cinco números e o limite de outlier | 1.11 |
+| Diagramas de Venn: união, interseção, complementar e exclusivos | 2.1 |
+| Árvore de probabilidade da malha fina (Bayes) | 2.6 |
+| Esquema das quatro técnicas de amostragem sobre a mesma população | 3.9 |
+
+A paleta categórica das figuras foi validada com o verificador de contraste e daltonismo
+(pior par sob CVD ΔE 10,6; visão normal ΔE 19,8); toda forma colorida recebe rótulo direto, de modo
+que nenhuma identidade depende só da cor.
 
 ### Base empírica
 
@@ -52,7 +75,7 @@ SEFAZ/RN 2025, TC/DF 2024, SEEC/DF 2019, ANEEL 2025 e TC/DF 2020.
 
 ### Arquivos
 
-- `Estatistica e Probabilidade - SEFAZ AL 2026.pdf` — material final (42 páginas)
+- `Estatistica e Probabilidade - SEFAZ AL 2026.pdf` — material final (49 páginas)
 - `fonte-estatistica-sefaz-al-2026.html` — fonte do PDF (renderizado via Chromium headless)
 
 ### Observações
